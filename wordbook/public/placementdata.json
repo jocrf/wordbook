@@ -1,12 +1,12 @@
 {
-  "quiz1": {
-    "instructions": "Each test word is printed in <span class=\"caps\">BOLD CAPITAL</span> letters in a phrase. From the five choices on the next line, select the one that comes closest in meaning to the meaning of the test word. Check your answers to determine if you are at the correct level or need to take a more difficult quiz.",
+  "placementquiz": {
+    "instructions": "Each test word is printed in BOLD CAPITAL letters in a phrase. From the five choices on the next line, select the one that comes closest in meaning to the meaning of the test word. Check your answers to determine if you are at the correct level or need to take a more difficult quiz.",
     "groups": [
       {
         "title": "Group One",
         "questions": [
           {
-            "prompt": "She <span class=\"caps\">ESTABLISHED</span> the business.",
+            "prompt": "She ESTABLISHED the business.",
             "answers": [
               {"word": "announced", "correct": false},
               {"word": "bought", "correct": false},
@@ -16,7 +16,7 @@
             ]
           },
           {
-            "prompt": "Enjoying the <span class=\"caps\">EXPEDITION</span>.",
+            "prompt": "Enjoying the EXPEDITION.",
             "answers": [
                 {"word": "visit", "correct": false},
                 {"word": "display", "correct": false},
@@ -26,7 +26,7 @@
             ]
           },
           {
-            "prompt": "Best way to <span class=\"caps\">INSTRUCT</span>.",
+            "prompt": "Best way to INSTRUCT.",
             "answers": [
                 {"word": "forget", "correct": false},
                 {"word": "teach", "correct": true},
@@ -36,7 +36,7 @@
             ]
           },
           {
-            "prompt": "<span class=\"caps\">GNARLED</span> branches.",
+            "prompt": "GNARLED branches.",
             "answers": [
                 {"word": "old", "correct": false},
                 {"word": "decorated", "correct": false},
@@ -46,7 +46,7 @@
             ]
           },
           {
-            "prompt": "Tried to <span class=\"caps\">FLATTER</span> him.",
+            "prompt": "Tried to FLATTER him.",
             "answers": [
                 {"word": "insult", "correct": false},
                 {"word": "improve", "correct": false},
@@ -56,7 +56,7 @@
             ]
           },
           {
-            "prompt": "They were <span class=\"caps\">EXTERMINATED</span>.",
+            "prompt": "They were EXTERMINATED.",
             "answers": [
                 {"word": "wiped out", "correct": true},
                 {"word": "stopped", "correct": false},
@@ -66,7 +66,7 @@
             ]
           },
           {
-            "prompt": "Began to <span class=\"caps\">LAG</span>.",
+            "prompt": "Began to LAG.",
             "answers": [
                 {"word": "sink", "correct": false},
                 {"word": "give up", "correct": false},
@@ -76,7 +76,7 @@
             ]
           },
           {
-            "prompt": "<span class=\"caps\">FATAL</span> blows.",
+            "prompt": "FATAL blows.",
             "answers": [
                 {"word": "deadly", "correct": true},
                 {"word": "soft", "correct": false},
@@ -86,7 +86,7 @@
             ]
           },
           {
-            "prompt": "Powerful <span class=\"caps\">HEX</span>.",
+            "prompt": "Powerful HEX.",
             "answers": [
                 {"word": "evil", "correct": false},
                 {"word": "prayer", "correct": false},
@@ -96,7 +96,7 @@
             ]
           },
           {
-            "prompt": "Clever <span class=\"caps\">IMPOSTOR</span>.",
+            "prompt": "Clever IMPOSTOR.",
             "answers": [
                 {"word": "detective", "correct": false},
                 {"word": "customer", "correct": false},
