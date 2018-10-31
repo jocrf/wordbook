@@ -1,0 +1,20 @@
+.word-options {
+  list-style: none;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+/*
+fieldset {
+  border: none;
+} */
+
+fieldset.correct .answer + label,
+fieldset.incorrect .answer + label {
+  background-color: green;
+}
+
+fieldset.incorrect input:checked + label {
+  background-color: red;
+}
