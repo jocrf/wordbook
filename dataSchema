@@ -1,0 +1,56 @@
+type Level {
+  title: String!
+  units: [Unit]!
+}
+
+type Unit {
+  sections: [Section]!
+  reviewQuizzes: Quiz!
+}
+
+type Section {
+  title: String!
+  # general format for quizzes:
+  # first is a Pretest
+  # second and third are YesNo
+  # fourth is a MultipleChoice
+  quizzes: [Quiz]!
+}
+
+type Quiz {
+  title: String!
+  directions: String!
+  questions: [Question]!
+  type: QuizType!
+  example: String
+}
+
+enum QuizType [
+  Placement
+  Pretest
+  Exercise
+  Review
+]
+
+interface Question {
+  prompt: String!
+}
+
+type MultipleChoice implements Question {
+  answerOptions: [String]!
+  correctAnswer: Word!
+}
+
+type YesNo implements Question {
+  correctAnswer: Boolean!
+}
+
+type FillInTheBlank implements Question {
+  answerOptions: [Word]!
+  correctAnswer: Word!
+}
+
+type Word {
+  id: String!
+  definition: Text!
+}
