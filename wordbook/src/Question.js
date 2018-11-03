@@ -5,7 +5,9 @@ class Question extends Component {
     super(props);
     this.checkCorrect = this.checkCorrect.bind(this);
     this.setValue = this.setValue.bind(this);
+    this.showCorrect = this.showCorrect.bind(this);
     this.state = {
+      correctAnswer: false,
       value: ''
     }
   }
@@ -13,12 +15,24 @@ class Question extends Component {
   checkCorrect (e, correct) {
     e.preventDefault();
     if (correct === this.state.value) {
-      this.props.nextQuestion();
+      this.setState(function(current) {
+        return {
+          correctAnswer: true
+        }
+      }, this.showCorrect);
     }
   }
 
   setValue (e) {
     this.setState({ value: e.target.value });
+  }
+
+  showCorrect () {
+    const self = this;
+    window.setTimeout(function () {
+      self.setState({ correctAnswer: false });
+      self.props.nextQuestion();
+    }, 1000);
   }
 
   render () {
@@ -34,7 +48,12 @@ class Question extends Component {
             </label>
           )}
         </fieldset>
-        <button onClick={(e) => this.checkCorrect(e, correct)}>Check answer</button>
+        {!this.state.correctAnswer &&
+          <button onClick={(e) => this.checkCorrect(e, correct)}>Check answer</button>
+        }
+        {this.state.correctAnswer &&
+          <p>correct!</p>
+        }
       </form>
     );
   }

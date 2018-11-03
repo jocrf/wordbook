@@ -26,9 +26,11 @@ class App extends Component {
 
   render() {
     return (
-      <QuizContainer instructions={this.state.instructions} questions={this.state.quizItems}
-      title={this.state.quizTitle}
-      type={this.state.quizType} />
+      <QuizContainer
+        instructions={this.state.instructions} questions={this.state.quizItems}
+        title={this.state.quizTitle}
+        type={this.state.quizType}
+      />
     );
   }
 }
