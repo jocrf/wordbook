@@ -1,6 +1,7 @@
 {
   "placementquiz": {
     "instructions": "Each test word is printed in BOLD CAPITAL letters in a phrase. From the five choices on the next line, select the one that comes closest in meaning to the meaning of the test word. Check your answers to determine if you are at the correct level or need to take a more difficult quiz.",
+    "type": "placement",
     "groups": [
       {
         "title": "Group One",

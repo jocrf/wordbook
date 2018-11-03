@@ -9,7 +9,8 @@ class App extends Component {
     this.populateQuizData = this.populateQuizData.bind(this);
     this.state = {
       instructions: '',
-      quizItems: []
+      quizItems: [],
+      quizType: ''
     }
   }
 
@@ -19,7 +20,7 @@ class App extends Component {
   }
 
   populateQuizData (quizData) {
-    this.setState({ instructions: quizData.instructions, quizItems: quizData.groups[0].questions });
+    this.setState({ instructions: quizData.instructions, quizItems: quizData.groups[0].questions, quizType: quizData.type });
   }
 
   render() {
