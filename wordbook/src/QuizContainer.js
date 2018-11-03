@@ -15,11 +15,9 @@ class QuizContainer extends Component {
 
   nextQuestion () {
     if (this.state.currentQuestion < this.state.totalQuestions) {
-      this.setState(function (currentState) {
-        return {
-          currentQuestion: currentState.currentQuestion + 1
-        }
-      });
+      this.setState(currentState => (
+        { currentQuestion: currentState.currentQuestion + 1 }
+      ));
     }
   }
 
