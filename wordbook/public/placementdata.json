@@ -9,102 +9,112 @@
           {
             "prompt": "She ESTABLISHED the business.",
             "answers": [
-              {"word": "announced", "correct": false},
-              {"word": "bought", "correct": false},
-              {"word": "sold", "correct": false},
-              {"word": "improved", "correct": false},
-              {"word": "set up", "correct": true}
-            ]
+              "announced",
+              "bought",
+              "sold",
+              "improved",
+              "set up"
+            ],
+            "correct": "set up"
           },
           {
             "prompt": "Enjoying the EXPEDITION.",
             "answers": [
-                {"word": "visit", "correct": false},
-                {"word": "display", "correct": false},
-                {"word": "journey", "correct": true},
-                {"word": "boat race", "correct": false},
-                {"word": "sights", "correct": false}
-            ]
+              "visit", 
+              "display",
+              "journey",
+              "boat race",
+              "sights"
+            ],
+            "correct": "journey"
           },
           {
             "prompt": "Best way to INSTRUCT.",
             "answers": [
-                {"word": "forget", "correct": false},
-                {"word": "teach", "correct": true},
-                {"word": "learn", "correct": false},
-                {"word": "punish", "correct": false},
-                {"word": "build", "correct": false}
-            ]
+              "forget",
+              "teach",
+              "learn",
+              "punish",
+              "build"
+            ],
+            "correct": "teach"
           },
           {
             "prompt": "GNARLED branches.",
             "answers": [
-                {"word": "old", "correct": false},
-                {"word": "decorated", "correct": false},
-                {"word": "smooth", "correct": false},
-                {"word": "diseased", "correct": false},
-                {"word": "twisted", "correct": true}
-            ]
+              "old",
+              "decorated",
+              "smooth",
+              "diseased",
+              "twisted"
+            ],
+            "correct": "twisted"
           },
           {
             "prompt": "Tried to FLATTER him.",
             "answers": [
-                {"word": "insult", "correct": false},
-                {"word": "improve", "correct": false},
-                {"word": "overpraise", "correct": true},
-                {"word": "crush", "correct": false},
-                {"word": "agree with", "correct": false}
-            ]
+              "insult",
+              "improve",
+              "overpraise",
+              "crush",
+              "agree with"
+            ],
+            "correct": "overpraise"
           },
           {
             "prompt": "They were EXTERMINATED.",
             "answers": [
-                {"word": "wiped out", "correct": true},
-                {"word": "stopped", "correct": false},
-                {"word": "beaten up", "correct": false},
-                {"word": "cured", "correct": false},
-                {"word": "thrown away", "correct": false}
-            ]
+              "wiped out",
+              "stopped",
+              "beaten up",
+              "cured",
+              "thrown away"
+            ],
+            "correct": "wiped out"
           },
           {
             "prompt": "Began to LAG.",
             "answers": [
-                {"word": "sink", "correct": false},
-                {"word": "give up", "correct": false},
-                {"word": "breathe heavily", "correct": false},
-                {"word": "fall behind", "correct": true},
-                {"word": "catch up", "correct": false}
-            ]
+              "sink",
+              "give up",
+              "breathe heavily",
+              "fall behind",
+              "catch up"
+            ],
+            "correct": "fall behind"
           },
           {
             "prompt": "FATAL blows.",
             "answers": [
-                {"word": "deadly", "correct": true},
-                {"word": "soft", "correct": false},
-                {"word": "natural", "correct": false},
-                {"word": "first", "correct": false},
-                {"word": "painful", "correct": false}
-            ]
+              "deadly",
+              "soft",
+              "natural",
+              "first",
+              "painful"
+            ],
+            "correct": "deadly"
           },
           {
             "prompt": "Powerful HEX.",
             "answers": [
-                {"word": "evil", "correct": false},
-                {"word": "prayer", "correct": false},
-                {"word": "tool", "correct": false},
-                {"word": "fear", "correct": false},
-                {"word": "curse", "correct": true}
-            ]
+              "evil",
+              "prayer",
+              "tool",
+              "fear",
+              "curse"
+            ],
+            "correct": "curse"
           },
           {
             "prompt": "Clever IMPOSTOR.",
             "answers": [
-                {"word": "detective", "correct": false},
-                {"word": "customer", "correct": false},
-                {"word": "magician", "correct": false},
-                {"word": "faker", "correct": true},
-                {"word": "thief", "correct": false}
-            ]
+              "detective",
+              "customer",
+              "magician",
+              "faker",
+              "thief"
+            ],
+            "correct": "faker"
           }
         ]
       }
