@@ -10,6 +10,7 @@ class App extends Component {
     this.state = {
       instructions: '',
       quizItems: [],
+      quizTitle: '',
       quizType: ''
     }
   }
@@ -20,12 +21,14 @@ class App extends Component {
   }
 
   populateQuizData (quizData) {
-    this.setState({ instructions: quizData.instructions, quizItems: quizData.groups[0].questions, quizType: quizData.type });
+    this.setState({ instructions: quizData.instructions, quizItems: quizData.groups[0].questions, quizTitle:quizData.groups[0].title, quizType: quizData.type });
   }
 
   render() {
     return (
-      <QuizContainer instructions={this.state.instructions} questions={this.state.quizItems} />
+      <QuizContainer instructions={this.state.instructions} questions={this.state.quizItems}
+      title={this.state.quizTitle}
+      type={this.state.quizType} />
     );
   }
 }
