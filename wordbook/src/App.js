@@ -12,7 +12,7 @@ class App extends Component {
       quizItems: [],
       quizTitle: '',
       quizType: ''
-    }
+    };
   }
 
   componentDidMount () {
@@ -24,12 +24,12 @@ class App extends Component {
     this.setState({
       instructions: quizData.instructions,
       quizItems: quizData.groups[0].questions,
-      quizTitle:quizData.groups[0].title,
+      quizTitle: quizData.groups[0].title,
       quizType: quizData.type
     });
   }
 
-  render() {
+  render () {
     return (
       <QuizContainer
         instructions={this.state.instructions}

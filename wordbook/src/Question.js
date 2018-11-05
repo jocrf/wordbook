@@ -11,16 +11,16 @@ class Question extends Component {
       correctAnswer: false,
       incorrectAnswer: false,
       value: ''
-    }
+    };
   }
 
   checkCorrect (e, correct) {
     e.preventDefault();
     this.setState({ answered: true });
     if (correct === this.state.value) {
-      this.setState({ correctAnswer: true })
+      this.setState({ correctAnswer: true });
     } else {
-      this.setState({ incorrectAnswer: true })
+      this.setState({ incorrectAnswer: true });
     }
   }
 

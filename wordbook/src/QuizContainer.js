@@ -10,7 +10,7 @@ class QuizContainer extends Component {
       currentQuestion: 0,
       takingQuiz: false,
       totalQuestions: 0
-    }
+    };
   }
 
   // TODO: track number of correct and incorrect questions, check if quiz should be over or continue to next level
@@ -24,11 +24,13 @@ class QuizContainer extends Component {
   }
 
   startQuiz (numQuestions) {
-    this.setState({ takingQuiz: true, totalQuestions: numQuestions })
+    this.setState({ takingQuiz: true, totalQuestions: numQuestions });
   }
 
+  // TODO: add type into render method for quiz type
+
   render () {
-    const { instructions, questions, title, type } = this.props;
+    const { instructions, questions, title } = this.props;
     const currentQuestion = questions[this.state.currentQuestion];
     return (
       <React.Fragment>
@@ -50,7 +52,7 @@ class QuizContainer extends Component {
           />
         }
       </React.Fragment>
-    )
+    );
   }
 }
 

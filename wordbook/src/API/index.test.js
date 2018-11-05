@@ -1,9 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from '../App';
 import { convertFileName, get } from './index';
 
-function mockFetch(data) {
+function mockFetch (data) {
   return jest.fn().mockImplementation(() =>
     Promise.resolve({
       ok: true,
@@ -17,8 +14,8 @@ it('converts input to file name', () => {
 });
 
 it('returns a response', async () => {
-  fetch = mockFetch('placement');
+  fetch = mockFetch('placement'); // eslint-disable-line
   const data = await get('placement');
   expect(data).toEqual('placement');
   expect(fetch).toHaveBeenCalledTimes(1);
-})
+});
