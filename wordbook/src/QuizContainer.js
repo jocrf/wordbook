@@ -13,6 +13,8 @@ class QuizContainer extends Component {
     }
   }
 
+  // TODO: track number of correct and incorrect questions, check if quiz should be over or continue to next level
+
   nextQuestion () {
     if (this.state.currentQuestion < this.state.totalQuestions) {
       this.setState(currentState => (
@@ -27,6 +29,7 @@ class QuizContainer extends Component {
 
   render () {
     const { instructions, questions, title, type } = this.props;
+    const currentQuestion = questions[this.state.currentQuestion];
     return (
       <React.Fragment>
         <h1>{title}</h1>
@@ -40,9 +43,9 @@ class QuizContainer extends Component {
         }
         {this.state.takingQuiz &&
           <Question
-            prompt={questions[this.state.currentQuestion].prompt}
-            answers={questions[this.state.currentQuestion].answers}
-            correct={questions[this.state.currentQuestion].correct}
+            prompt={currentQuestion.prompt}
+            answers={currentQuestion.answers}
+            correct={currentQuestion.correct}
             nextQuestion={this.nextQuestion}
           />
         }

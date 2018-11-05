@@ -29,9 +29,7 @@ class Question extends Component {
   }
 
   resetAnswerState () {
-    this.setState(() => (
-      { answered: false, correctAnswer: false, incorrectAnswer: false }
-    ), this.props.nextQuestion);
+    this.setState({ answered: false, correctAnswer: false, incorrectAnswer: false }, this.props.nextQuestion);
   }
 
   render () {
