@@ -10,3 +10,7 @@ export const convertFileName = (name) => {
   };
   return fileNames[name];
 };
+
+export default {
+  get: get
+};

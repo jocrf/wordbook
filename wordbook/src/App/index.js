@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import './App.css';
-import QuizContainer from './QuizContainer.js';
-import { get } from './API/index.js';
+import './index.css';
+import QuizContainer from '../QuizContainer.js';
+import { get } from '../API/index.js';
 
-class App extends Component {
+export default class App extends Component {
   constructor (props) {
     super(props);
     this.populateQuizData = this.populateQuizData.bind(this);
@@ -40,5 +40,3 @@ class App extends Component {
     );
   }
 }
-
-export default App;
