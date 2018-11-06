@@ -19,8 +19,10 @@ class Question extends Component {
     this.setState({ answered: true });
     if (correct === this.state.value) {
       this.setState({ correctAnswer: true });
+      this.props.countAnswers('c');
     } else {
       this.setState({ incorrectAnswer: true });
+      this.props.countAnswers('i');
     }
   }
 

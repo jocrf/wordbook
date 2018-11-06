@@ -4,16 +4,31 @@ import Question from './Question.js';
 class QuizContainer extends Component {
   constructor (props) {
     super(props);
+    this.countAnswers = this.countAnswers.bind(this);
     this.nextQuestion = this.nextQuestion.bind(this);
     this.startQuiz = this.startQuiz.bind(this);
     this.state = {
       currentQuestion: 0,
+      correctAnswers: 0,
+      incorrectAnswers: 0,
       takingQuiz: false,
       totalQuestions: 0
     };
   }
 
-  // TODO: track number of correct and incorrect questions, check if quiz should be over or continue to next level
+  // TODO: check if quiz should be over or continue to next level
+
+  countAnswers (type) {
+    if (type === 'c') {
+      this.setState(currentState => (
+        { correctAnswers: currentState.correctAnswers + 1 }
+      ));
+    } else if (type === 'i') {
+      this.setState(currentState => (
+        { incorrectAnswers: currentState.incorrectAnswers + 1 }
+      ));
+    }
+  }
 
   nextQuestion () {
     if (this.state.currentQuestion < this.state.totalQuestions) {
@@ -49,6 +64,7 @@ class QuizContainer extends Component {
             answers={currentQuestion.answers}
             correct={currentQuestion.correct}
             nextQuestion={this.nextQuestion}
+            countAnswers={this.countAnswers}
           />
         }
       </React.Fragment>
