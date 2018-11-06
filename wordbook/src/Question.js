@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
+import Message from './Message';
 
-class Question extends Component {
+export default class Question extends Component {
   constructor (props) {
     super(props);
     this.checkCorrect = this.checkCorrect.bind(this);
@@ -54,10 +55,14 @@ class Question extends Component {
           <React.Fragment>
             <button onClick={this.resetAnswerState}>Next question</button>
             {this.state.correctAnswer &&
-              <p>correct!</p>
+              <Message
+                message='correct'
+              />
             }
             {this.state.incorrectAnswer &&
-              <p>incorrect!</p>
+              <Message
+                message='incorrect'
+              />
             }
           </React.Fragment>
         }
@@ -65,5 +70,3 @@ class Question extends Component {
     );
   }
 }
-
-export default Question;

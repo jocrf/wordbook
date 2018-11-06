@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import Question from './Question.js';
+import Question from './Question';
+import Message from './Message';
 
-class QuizContainer extends Component {
+export default class QuizContainer extends Component {
   constructor (props) {
     super(props);
     this.checkForQuizEnd = this.checkForQuizEnd.bind(this);
@@ -64,7 +65,9 @@ class QuizContainer extends Component {
         <p>{instructions}</p>
         {!this.state.takingQuiz &&
           <React.Fragment>
-            <p>Are you ready to start?</p>
+            <Message
+              message='readyMessage'
+            />
             <button onClick={() => this.startQuiz(questions.length)}>Yes!</button>
           </React.Fragment>
         }
@@ -81,5 +84,3 @@ class QuizContainer extends Component {
     );
   }
 }
-
-export default QuizContainer;
