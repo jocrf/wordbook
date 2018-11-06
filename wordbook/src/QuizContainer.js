@@ -4,6 +4,7 @@ import Question from './Question.js';
 class QuizContainer extends Component {
   constructor (props) {
     super(props);
+    this.checkForQuizEnd = this.checkForQuizEnd.bind(this);
     this.countAnswers = this.countAnswers.bind(this);
     this.nextQuestion = this.nextQuestion.bind(this);
     this.startQuiz = this.startQuiz.bind(this);
@@ -12,21 +13,30 @@ class QuizContainer extends Component {
       correctAnswers: 0,
       incorrectAnswers: 0,
       takingQuiz: false,
-      totalQuestions: 0
+      totalQuestions: 0,
+      quizOver: false
     };
   }
 
-  // TODO: check if quiz should be over or continue to next level
+  // TODO: hardcoded values below for placement quiz
+  checkForQuizEnd () {
+    if (this.state.correctAnswers > 8 || this.state.incorrectAnswers > 1 || this.state.currentQuestion === this.state.totalQuestions) {
+      this.setState({ quizOver: true });
+      console.log('quiz is over');
+    } else {
+      console.log('quiz is not over');
+    }
+  }
 
   countAnswers (type) {
     if (type === 'c') {
       this.setState(currentState => (
         { correctAnswers: currentState.correctAnswers + 1 }
-      ));
+      ), this.checkForQuizEnd);
     } else if (type === 'i') {
       this.setState(currentState => (
         { incorrectAnswers: currentState.incorrectAnswers + 1 }
-      ));
+      ), this.checkForQuizEnd);
     }
   }
 
