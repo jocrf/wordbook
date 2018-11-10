@@ -53,14 +53,15 @@ export default class Question extends Component {
         }
         {this.state.answered &&
           <React.Fragment>
-            <button onClick={this.resetAnswerState}>Next question</button>
             {this.state.correctAnswer &&
               <Message
+                buttonAction={this.resetAnswerState}
                 message='correct'
               />
             }
             {this.state.incorrectAnswer &&
               <Message
+                buttonAction={this.resetAnswerState}
                 message='incorrect'
               />
             }
