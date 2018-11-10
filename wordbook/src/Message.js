@@ -32,7 +32,11 @@ export default class Message extends Component {
     return (
       <React.Fragment>
         <p>{this.messages[message].text}</p>
-        <button onClick={this.props.buttonAction}>{this.messages[message].buttonText}</button>
+        {this.props.buttonAction &&
+          <button onClick={this.props.buttonAction}>
+            {this.messages[message].buttonText}
+          </button>
+        }
       </React.Fragment>
     );
   }

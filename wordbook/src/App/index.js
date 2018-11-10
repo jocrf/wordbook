@@ -7,13 +7,16 @@ import Message from '../Message';
 export default class App extends Component {
   constructor (props) {
     super(props);
+    this.incrementLevel = this.incrementLevel.bind(this);
     this.nextLevel = this.nextLevel.bind(this);
     this.populateQuizData = this.populateQuizData.bind(this);
     this.setUpQuiz = this.setUpQuiz.bind(this);
+    this.toggleQuizFailed = this.toggleQuizFailed.bind(this);
     this.toggleQuizInProgress = this.toggleQuizInProgress.bind(this);
     this.state = {
       instructions: '',
       currentLevel: 0,
+      quizFailed: false,
       quizInProgress: false,
       quizItems: [],
       quizTitle: '',
@@ -23,6 +26,12 @@ export default class App extends Component {
 
   componentDidMount () {
     this.setUpQuiz();
+  }
+
+  incrementLevel () {
+    this.setState(currentState => (
+      { currentLevel: currentState.currentLevel + 1 }
+    ));
   }
 
   nextLevel () {
@@ -46,7 +55,14 @@ export default class App extends Component {
       .then(results => this.populateQuizData(results.placementquiz));
   }
 
+  toggleQuizFailed () {
+    this.setState(currentState => (
+      { quizFailed: !currentState.quizFailed }
+    ));
+  }
+
   toggleQuizInProgress () {
+    console.log('toggled progress');
     this.setState(currentState => (
       { quizInProgress: !currentState.quizInProgress }
     ));
@@ -56,21 +72,32 @@ export default class App extends Component {
     return (
       <React.Fragment>
         <h1>Welcome to the Wordbook App</h1>
-        {!this.state.quizInProgress &&
+        {!this.state.quizInProgress && this.state.currentLevel === 0 && !this.state.quizFailed &&
           <Message
             buttonAction={this.toggleQuizInProgress}
             message='readyMessage'
           />
         }
+        {!this.state.quizInProgress && this.state.currentLevel !== 0 && !this.state.quizFailed &&
+          <Message
+            buttonAction={this.toggleQuizInProgress}
+            message='quizOverPass'
+          />
+        }
         {this.state.quizInProgress &&
           <QuizContainer
+            incrementLevel={this.incrementLevel}
             instructions={this.state.instructions}
-            nextLevel={this.nextLevel}
             questions={this.state.quizItems}
             title={this.state.quizTitle}
+            toggleQuizFailed={this.toggleQuizFailed}
             toggleQuizInProgress={this.toggleQuizInProgress}
             type={this.state.quizType}
-            quizzing={this.state.quizInProgress}
+          />
+        }
+        {this.state.quizFailed &&
+          <Message
+            message='quizOverFail'
           />
         }
       </React.Fragment>

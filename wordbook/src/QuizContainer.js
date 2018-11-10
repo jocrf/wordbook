@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Question from './Question';
-import Message from './Message';
 
 export default class QuizContainer extends Component {
   constructor (props) {
@@ -20,12 +19,13 @@ export default class QuizContainer extends Component {
   // TODO: hardcoded values below for placement quiz
   checkForQuizEnd () {
     if (this.state.incorrectAnswers > 1 || this.state.currentQuestion === this.state.totalQuestions) {
+      this.props.toggleQuizFailed();
       this.props.toggleQuizInProgress();
-      console.log('quiz is over');
-    } else if (this.state.correctAnswers > 8 && this.state.currentQuestion === this.state.totalQuestions) {
+    } else if (this.state.correctAnswers > 8 && this.state.currentQuestion >= this.state.totalQuestions) {
       this.props.toggleQuizInProgress();
+      this.props.incrementLevel();
     } else {
-      console.log('quiz is not over');
+      this.nextQuestion();
     }
   }
 
@@ -37,11 +37,11 @@ export default class QuizContainer extends Component {
     if (type === 'c') {
       this.setState(currentState => (
         { correctAnswers: currentState.correctAnswers + 1 }
-      ), this.checkForQuizEnd);
+      ));
     } else if (type === 'i') {
       this.setState(currentState => (
         { incorrectAnswers: currentState.incorrectAnswers + 1 }
-      ), this.checkForQuizEnd);
+      ));
     }
   }
 
@@ -54,7 +54,12 @@ export default class QuizContainer extends Component {
   }
 
   startQuiz (numQuestions) {
-    this.setState({ totalQuestions: numQuestions });
+    this.setState({
+      currentQuestion: 0,
+      correctAnswers: 0,
+      incorrectAnswers: 0,
+      totalQuestions: numQuestions
+    });
   }
 
   // TODO: add type into render method for quiz type
@@ -67,23 +72,13 @@ export default class QuizContainer extends Component {
         <h1>{title}</h1>
         <h2>Instructions</h2>
         <p>{instructions}</p>
-        {this.props.quizzing &&
-          <Question
-            prompt={currentQuestion.prompt}
-            answers={currentQuestion.answers}
-            correct={currentQuestion.correct}
-            nextQuestion={this.nextQuestion}
-            countAnswers={this.countAnswers}
-          />
-        }
-        {!this.props.quizzing && this.state.correctAnswers > 8 &&
-          <React.Fragment>
-            <Message
-              buttonAction={this.props.nextLevel}
-              message='quizInProgressPass'
-            />
-          </React.Fragment>
-        }
+        <Question
+          prompt={currentQuestion.prompt}
+          answers={currentQuestion.answers}
+          correct={currentQuestion.correct}
+          countAnswers={this.countAnswers}
+          checkForQuizEnd={this.checkForQuizEnd}
+        />
       </React.Fragment>
     );
   }
