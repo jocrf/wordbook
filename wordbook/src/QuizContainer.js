@@ -18,10 +18,10 @@ export default class QuizContainer extends Component {
 
   // TODO: hardcoded values below for placement quiz
   checkForQuizEnd () {
-    if (this.state.incorrectAnswers > 1 || this.state.currentQuestion === this.state.totalQuestions) {
+    if (this.state.incorrectAnswers > 1) {
       this.props.toggleQuizFailed();
       this.props.toggleQuizInProgress();
-    } else if (this.state.correctAnswers > 8 && this.state.currentQuestion >= this.state.totalQuestions) {
+    } else if (this.state.correctAnswers >= 9) {
       this.props.toggleQuizInProgress();
       this.props.incrementLevel();
     } else {
