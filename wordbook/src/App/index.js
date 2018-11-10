@@ -28,6 +28,12 @@ export default class App extends Component {
     this.setUpQuiz();
   }
 
+  componentDidUpdate (prevProps, prevState) {
+    if (this.state.currentLevel !== prevState.currentLevel) {
+      this.setUpQuiz();
+    }
+  }
+
   incrementLevel () {
     this.setState(currentState => (
       { currentLevel: currentState.currentLevel + 1 }
@@ -62,7 +68,6 @@ export default class App extends Component {
   }
 
   toggleQuizInProgress () {
-    console.log('toggled progress');
     this.setState(currentState => (
       { quizInProgress: !currentState.quizInProgress }
     ));
