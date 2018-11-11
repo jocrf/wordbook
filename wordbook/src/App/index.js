@@ -86,6 +86,7 @@ export default class App extends Component {
         {!this.state.quizInProgress && this.state.currentLevel !== 0 && !this.state.quizFailed &&
           <Message
             buttonAction={this.toggleQuizInProgress}
+            level={this.state.currentLevel}
             message='quizOverPass'
           />
         }
@@ -102,6 +103,7 @@ export default class App extends Component {
         }
         {this.state.quizFailed &&
           <Message
+            level={this.state.currentLevel}
             message='quizOverFail'
           />
         }

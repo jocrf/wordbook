@@ -17,24 +17,30 @@ export default class Message extends Component {
         buttonText: 'Yes!'
       },
       quizOverFail: {
-        text: 'This level looks like a good place for you to start. Are you ready to start learning?',
+        text: 'You placed into Level #. Are you ready to start learning?',
         buttonText: 'I\'m ready.'
       },
       quizOverPass: {
-        text: 'You placed out of this level! Ready to start the next placement quiz level?',
+        text: 'You placed out of this level! Ready to start the next placement quiz for Level #?',
         buttonText: 'Ready to keep quizzing!'
       }
     };
   }
 
   render () {
-    const message = this.props.message;
+    let messageText = this.messages[this.props.message].text;
+    const buttonText = this.messages[this.props.message].buttonText;
+    let level = 0;
+    if ('level' in this.props) {
+      level = this.props.level + 1; // need to correct for zero-indexed levels
+      messageText = messageText.replace(/#/, level);
+    }
     return (
       <React.Fragment>
-        <p>{this.messages[message].text}</p>
+        <p>{messageText}</p>
         {this.props.buttonAction &&
           <button onClick={this.props.buttonAction}>
-            {this.messages[message].buttonText}
+            {buttonText}
           </button>
         }
       </React.Fragment>
