@@ -19,8 +19,7 @@ export default class Home extends Component {
       quizFailed: false,
       quizInProgress: false,
       quizItems: [],
-      quizTitle: '',
-      quizType: ''
+      quizTitle: ''
     };
   }
 
@@ -33,6 +32,8 @@ export default class Home extends Component {
       this.setUpQuiz();
     }
   }
+
+  /* add componentDidUnmount to reset state when quizzes change - IF quiz is complete - and to pass up state to the App */
 
   incrementLevel () {
     this.setState(currentState => (
@@ -97,7 +98,7 @@ export default class Home extends Component {
             title={this.state.quizTitle}
             toggleQuizFailed={this.toggleQuizFailed}
             toggleQuizInProgress={this.toggleQuizInProgress}
-            type={this.state.quizType}
+            quizType={this.props.quizType}
           />
         }
         {this.state.quizFailed &&

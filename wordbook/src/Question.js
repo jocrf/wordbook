@@ -6,6 +6,7 @@ export default class Question extends Component {
     super(props);
     this.checkCorrect = this.checkCorrect.bind(this);
     this.resetAnswerState = this.resetAnswerState.bind(this);
+    this.setQuestionType = this.setQuestionType.bind(this);
     this.setValue = this.setValue.bind(this);
     this.state = {
       answered: false,
@@ -24,6 +25,28 @@ export default class Question extends Component {
     } else {
       this.setState({ incorrectAnswer: true });
       this.props.countAnswers('i');
+    }
+  }
+
+  componentDidMount () {
+    this.setQuestionType();
+  }
+
+  setQuestionType () {
+    const type = this.props.type;
+    switch (type) {
+      case 'placement':
+      case 'pretest':
+      case 'exercise_3':
+        this.setState({ type: 'mc' });
+        break;
+      case 'exercise_1':
+      case 'exercise_2':
+        this.setState({ type: 'tf' });
+        break;
+      case 'review':
+        this.setState({ type: 'fitb' });
+        break;
     }
   }
 
