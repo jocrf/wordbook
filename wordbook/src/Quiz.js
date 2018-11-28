@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Question from './Question';
 
-export default class QuizContainer extends Component {
+export default class Quiz extends Component {
   constructor (props) {
     super(props);
     this.checkForQuizEnd = this.checkForQuizEnd.bind(this);
