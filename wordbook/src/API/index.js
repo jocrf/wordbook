@@ -6,7 +6,8 @@ export const get = (name) => {
 
 export const convertFileName = (name) => {
   const fileNames = {
-    'placement': '/placementdata.json'
+    0: '/placementdata.json',
+    1: '/level_1.json'
   };
   return fileNames[name];
 };

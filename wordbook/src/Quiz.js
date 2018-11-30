@@ -67,7 +67,6 @@ export default class Quiz extends Component {
     const currentQuestion = questions[this.state.currentQuestion];
     return (
       <React.Fragment>
-        <p>This is a {quizType} quiz</p>
         <h1>{title}</h1>
         <h2>Instructions</h2>
         <p>{instructions}</p>

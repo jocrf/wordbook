@@ -5,9 +5,24 @@ import { Route, Link } from 'react-router-dom';
 export default class App extends Component {
   constructor (props) {
     super(props);
-    this.currentLevel = 1;
-    this.currentChapter = 1;
-    this.placementCompleted = true;
+    this.incrementExercise = this.incrementExercise.bind(this);
+    this.incrementLevel = this.incrementLevel.bind(this);
+    this.state = {
+      currentLevel: 0,
+      currentExercise: 0
+    };
+  }
+
+  incrementExercise () {
+    this.setState(currentState => (
+      { currentExercise: currentState.currentExercise + 1 }
+    ));
+  }
+
+  incrementLevel () {
+    this.setState(currentState => (
+      { currentLevel: currentState.currentLevel + 1 }
+    ));
   }
 
   render () {
@@ -17,19 +32,10 @@ export default class App extends Component {
         <Route exact path='/'>
           <Link to='/'>Home</Link>
         </Route>
-        {!this.placementCompleted &&
-          <Link to='placement'>Take the placement quiz</Link>
-        }
-        <Route
-          path='/placement'
-          render={(props) => <QuizContainer {...props} quizType='placement' />}
-        />
-        {this.placementCompleted &&
-          <Link to='quiz'>Start learning</Link>
-        }
+        <Link to='quiz'>Start learning</Link>
         <Route
           path='/quiz'
-          render={(props) => <QuizContainer {...props} quizType='pretest' />}
+          render={(props) => <QuizContainer {...props} currentLevel={this.state.currentLevel} currentExercise={this.state.currentExercise} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
         />
       </React.Fragment>
     );
