@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import QuizContainer from '../QuizContainer/index';
+import PlacementQuizContainer from '../PlacementQuizContainer/index';
 import { Route, Link } from 'react-router-dom';
 
 export default class App extends Component {
@@ -32,9 +33,18 @@ export default class App extends Component {
         <Route exact path='/'>
           <Link to='/'>Home</Link>
         </Route>
-        <Link to='quiz'>Start learning</Link>
+        {this.state.currentLevel === 0 &&
+          <Link to='placement'>Take the placement test</Link>
+        }
         <Route
-          path='/quiz'
+          path='/placement'
+          render={(props) => <PlacementQuizContainer {...props} currentLevel={this.state.currentLevel} currentExercise={this.state.currentExercise} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
+        />
+        {this.state.currentLevel > 0 &&
+          <Link to='quiz'>Start learning</Link>
+        }
+        <Route
+          path='quiz'
           render={(props) => <QuizContainer {...props} currentLevel={this.state.currentLevel} currentExercise={this.state.currentExercise} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
         />
       </React.Fragment>

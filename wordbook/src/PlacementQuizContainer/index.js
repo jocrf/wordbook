@@ -13,6 +13,7 @@ export default class Home extends Component {
     this.toggleQuizInProgress = this.toggleQuizInProgress.bind(this);
     this.state = {
       instructions: '',
+      quizFailed: false,
       quizInProgress: false,
       quizItems: [],
       quizTitle: ''
@@ -47,6 +48,12 @@ export default class Home extends Component {
       .then(results => this.populateQuizData(results.placementquiz));
   }
 
+  toggleQuizFailed () {
+    this.setState(currentState => (
+      { quizFailed: !currentState.quizFailed }
+    ));
+  }
+
   toggleQuizInProgress () {
     this.setState(currentState => (
       { quizInProgress: !currentState.quizInProgress }
@@ -57,6 +64,19 @@ export default class Home extends Component {
     return (
       <React.Fragment>
         {/* {TODO: create stats component to show progress <Stats /> */}
+        {!this.state.quizInProgress && this.props.currentExercise === 0 && !this.state.quizFailed &&
+          <Message
+            buttonAction={this.toggleQuizInProgress}
+            message='readyMessage'
+          />
+        }
+        {!this.state.quizInProgress && this.props.currentExercise !== 0 && !this.state.quizFailed &&
+          <Message
+            buttonAction={this.toggleQuizInProgress}
+            level={this.props.currentExercise}
+            message='quizOverPass'
+          />
+        }
         {this.state.quizInProgress &&
           <Quiz
             incrementLevel={this.props.incrementExercise}
@@ -66,6 +86,12 @@ export default class Home extends Component {
             toggleQuizFailed={this.toggleQuizFailed}
             toggleQuizInProgress={this.toggleQuizInProgress}
             quizType={this.props.quizType}
+          />
+        }
+        {this.state.quizFailed &&
+          <Message
+            level={this.props.currentExercise}
+            message='quizOverFail'
           />
         }
       </React.Fragment>
