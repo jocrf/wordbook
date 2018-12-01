@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link, Route } from 'react-router-dom';
 import ExercisePage from '../ExercisePage';
+import TableOfContents from '../TableOfContents';
 
 export default class LearningPage extends Component {
   constructor (props) {
@@ -24,7 +25,8 @@ export default class LearningPage extends Component {
           </React.Fragment>
         )} />
         <Route path='/learning/level/:level/wordset/:wordset/exercise/:exercise' component={ExercisePage} />
-        {/* render overview of levels/chapters like a table of contents if they want to review rather than learn */}
+        <Link exact to='/learning/tableofcontents'>Table of Contents</Link>
+        <Route exact path='/learning/tableofcontents' component={TableOfContents} />
       </React.Fragment>
     );
   }
