@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './index.css';
 import Quiz from '../Quiz.js';
-import { get } from '../API/index.js';
+import { getPlacement as get } from '../API/index.js';
 import Message from '../Message';
 
 export default class Home extends Component {
@@ -25,7 +25,7 @@ export default class Home extends Component {
   }
 
   componentDidUpdate (prevProps, prevState) {
-    if (this.props.currentExercise !== prevProps.currentExercise) {
+    if (this.props.currentChapter !== prevProps.currentChapter) {
       this.setUpQuiz();
     }
   }
@@ -33,7 +33,7 @@ export default class Home extends Component {
   /* add componentDidUnmount to reset state when quizzes change - IF quiz is complete - and to pass up state to the App */
 
   populateQuizData (quizData) {
-    const level = this.props.currentExercise;
+    const level = this.props.currentChapter;
     this.setState({
       instructions: quizData.instructions,
       quizItems: quizData.groups[level].questions,
@@ -64,16 +64,16 @@ export default class Home extends Component {
     return (
       <React.Fragment>
         {/* {TODO: create stats component to show progress <Stats /> */}
-        {!this.state.quizInProgress && this.props.currentExercise === 0 && !this.state.quizFailed &&
+        {!this.state.quizInProgress && this.props.currentChapter === 0 && !this.state.quizFailed &&
           <Message
             buttonAction={this.toggleQuizInProgress}
             message='readyMessage'
           />
         }
-        {!this.state.quizInProgress && this.props.currentExercise !== 0 && !this.state.quizFailed &&
+        {!this.state.quizInProgress && this.props.currentChapter !== 0 && !this.state.quizFailed &&
           <Message
             buttonAction={this.toggleQuizInProgress}
-            level={this.props.currentExercise}
+            level={this.props.currentChapter}
             message='quizOverPass'
           />
         }
@@ -90,7 +90,7 @@ export default class Home extends Component {
         }
         {this.state.quizFailed &&
           <Message
-            level={this.props.currentExercise}
+            level={this.props.currentChapter}
             message='quizOverFail'
           />
         }

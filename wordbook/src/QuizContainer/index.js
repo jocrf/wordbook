@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './index.css';
 import Quiz from '../Quiz.js';
 import { get } from '../API/index.js';
-import Message from '../Message';
 
 export default class Home extends Component {
   constructor (props) {
@@ -24,7 +23,7 @@ export default class Home extends Component {
   }
 
   componentDidUpdate (prevProps, prevState) {
-    if (this.props.currentExercise !== prevProps.currentExercise) {
+    if (this.props.currentChapter !== prevProps.currentChapter) {
       this.setUpQuiz();
     }
   }
@@ -32,7 +31,7 @@ export default class Home extends Component {
   /* add componentDidUnmount to reset state when quizzes change - IF quiz is complete - and to pass up state to the App */
 
   populateQuizData (quizData) {
-    const level = this.props.currentExercise;
+    const level = this.props.currentChapter;
     this.setState({
       instructions: quizData.instructions,
       quizItems: quizData.groups[level].questions,
@@ -43,7 +42,8 @@ export default class Home extends Component {
 
   setUpQuiz () {
     const level = this.props.currentLevel;
-    get(level)
+    const chapter = this.props.currentChapter;
+    get(level, chapter)
       .then(results => this.populateQuizData(results.placementquiz));
   }
 

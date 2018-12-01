@@ -10,13 +10,13 @@ export default class App extends Component {
     this.incrementLevel = this.incrementLevel.bind(this);
     this.state = {
       currentLevel: 0,
-      currentExercise: 0
+      currentChapter: 0
     };
   }
 
   incrementExercise () {
     this.setState(currentState => (
-      { currentExercise: currentState.currentExercise + 1 }
+      { currentChapter: currentState.currentChapter + 1 }
     ));
   }
 
@@ -38,14 +38,14 @@ export default class App extends Component {
         }
         <Route
           path='/placement'
-          render={(props) => <PlacementQuizContainer {...props} currentLevel={this.state.currentLevel} currentExercise={this.state.currentExercise} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
+          render={(props) => <PlacementQuizContainer {...props} currentLevel={this.state.currentLevel} currentChapter={this.state.currentChapter} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
         />
         {this.state.currentLevel > 0 &&
           <Link to='quiz'>Start learning</Link>
         }
         <Route
           path='quiz'
-          render={(props) => <QuizContainer {...props} currentLevel={this.state.currentLevel} currentExercise={this.state.currentExercise} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
+          render={(props) => <QuizContainer {...props} currentLevel={this.state.currentLevel} currentChapter={this.state.currentChapter} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
         />
       </React.Fragment>
     );
