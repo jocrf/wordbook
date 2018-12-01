@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import Exercise from '../Exercise';
 
-var data = {
-  'type': 'tf',
-  'questions': [
+const data = {
+  'exercise_1': [
     {
       'tfprompt': 'Do flowers WILT if it doesn\'t rain for a long time?',
       'answer': true
@@ -67,17 +65,20 @@ var data = {
   ]
 };
 
-export default class ExercisePage extends Component {
+export default class TrueFalse extends Component {
   render () {
-    console.log(this.props);
     return (
-      // maybe has nav
-      <React.Fragment>
-        <h1>Title of exercise</h1>
-        <p>Instructions</p>
-        <p>Example question, sometimes</p>
-        <Exercise questions={data.questions} questionType={data.type} />
-      </React.Fragment>
+      <fieldset>
+        <legend>{this.props.prompt}</legend>
+        <label>
+          <input type='radio' value='true' name={this.props.prompt} required />
+          True
+        </label>
+        <label>
+          <input type='radio' value='false' name={this.props.prompt} required />
+          False
+        </label>
+      </fieldset>
     );
   }
 }

@@ -26,7 +26,7 @@ export default class MultipleChoice extends Component {
         <legend>{prompt}</legend>
         {answers.map(answer =>
           <label key={answer}>
-            <input type='radio' value={answer} name={prompt} key={answer} required />
+            <input type='radio' value={answer} name={prompt} required />
             {answer}
           </label>
         )}

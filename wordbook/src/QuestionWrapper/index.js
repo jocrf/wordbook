@@ -8,7 +8,7 @@ export default class QuestionWrapper extends Component {
 
   submitHandler (e) {
     e.preventDefault();
-    this.props.onNextClick();
+    this.props.onButtonClick();
   }
 
   render () {
@@ -16,7 +16,7 @@ export default class QuestionWrapper extends Component {
       <React.Fragment>
         <form onSubmit={this.submitHandler}>
           {this.props.children}
-          <button>Next</button>
+          <button>{this.props.buttonText}</button>
         </form>
       </React.Fragment>
     );
