@@ -60,10 +60,9 @@ export default class Exercise extends Component {
       <QuestionWrapper onButtonClick={this.incrementExercise} buttonText='Check Answers'>
         {this.props.questions.map(question =>
           <TrueFalse
-            key={question.prompt}
-            prompt={question.prompt}
+            key={question.tfprompt}
+            prompt={question.tfprompt}
             correctAnswer={question.correct}
-            word={question.word}
           />
         )}
       </QuestionWrapper>
