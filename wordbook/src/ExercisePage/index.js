@@ -5,64 +5,82 @@ var data = {
   'type': 'tf',
   'questions': [
     {
-      'tfprompt': 'Do flowers WILT if it doesn\'t rain for a long time?',
-      'answer': true
+      'prompt': 'Do other things besides food DECAY?',
+      'word': 'DECAY',
+      'correct': 'true'
     },
     {
-      'tfprompt': 'If you go to watch a football game, are you a SPECTATOR?',
-      'answer': true
+      'prompt': 'Do most people like to be MISERABLE?',
+      'word': 'MISERABLE',
+      'correct': 'false'
     },
     {
-      'tfprompt': 'Are rocks DURABLE?',
-      'answer': true
+      'prompt': 'Do the leaves of trees TREMBLE when the wind blows through them?',
+      'word': 'TREMBLE',
+      'correct': 'true'
     },
     {
-      'tfprompt': 'Would a curving road be a DIRECT route between two places?',
-      'answer': false
+      'prompt': 'Is an Olympic gold medal a TROPHY?',
+      'word': 'TROPHY',
+      'correct': 'true'
     },
     {
-      'tfprompt': 'Can catsup TRICKLE?',
-      'answer': false
+      'prompt': 'Are governors ELECTED?',
+      'word': 'ELECT',
+      'correct': 'true'
     },
     {
-      'tfprompt': 'Would Los Angeles be CONSIDERED a large city?',
-      'answer': true
+      'prompt': 'Are some people TERRIFIED of the dark?',
+      'word': 'TERRIFY',
+      'correct': 'true'
     },
     {
-      'tfprompt': 'Does a diver PLUNGE into the water?',
-      'answer': true
+      'prompt': 'Are all TERRITORIES the same size?',
+      'word': 'TERRITORY',
+      'correct': 'false'
     },
     {
-      'tfprompt': 'Are DELEGATES sometimes elected?',
-      'answer': true
+      'prompt': 'If you take frozen food out of the freezer, will it THAW?',
+      'word': 'THAW',
+      'correct': 'true'
     },
     {
-      'tfprompt': 'Do you have to be CERTAIN of the answer before you ask a question?',
-      'answer': false
+      'prompt': 'Do people usually say \'Hello\' when they DEPART?',
+      'word': 'DEPART',
+      'correct': 'false'
     },
     {
-      'tfprompt': 'Would a severe burn cause AGONY?',
-      'answer': true
+      'prompt': 'Do people usually HOLLER in the library?',
+      'word': 'HOLLER',
+      'correct': 'false'
     },
     {
-      'tfprompt': 'Does a soldier standing at attention SLUMP?',
-      'answer': false
+      'prompt': 'Are people who are watching a baseball game PARTICIPATING in it?',
+      'word': 'PARTICIPATE',
+      'correct': 'false'
     },
     {
-      'tfprompt': 'Is it COURTEOUS to slam a door in someone\'s face?',
-      'answer': false
+      'prompt': 'Is someone who learns a language in a few months a RAPID learner?',
+      'word': 'RAPID',
+      'correct': 'true'
     },
     {
-      'tfprompt': 'Can you VARY the clothes you wear?',
-      'answer': true
+      'prompt': 'Would a store usually REFUND your money if you returned an item that you',
+      'word': 'REFUND',
+      'correct': 'false'
     },
     {
-      'tfprompt': 'Is \'No, you absolutely can\'t go\' a DEFINITE answer?',
-      'answer': true
+      'prompt': 'had broken?',
+      'word': 'RESPONSE',
+      'correct': 'true'
     },
     {
-      'tfprompt': 'Is ice SCARCE at the North Pole?',
-      'answer': false
+      'prompt': 'Can a wink be a RESPONSE?',
+      'word': 'SCORCH',
+      'correct': 'true'
+    },
+    {
+      'prompt': 'Can a piece of paper be SCORCHED?'
     }
   ]
 };
