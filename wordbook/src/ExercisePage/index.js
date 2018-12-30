@@ -2,187 +2,117 @@ import React, { Component } from 'react';
 import Exercise from '../Exercise';
 
 var data = {
-  'type': 'mc',
+  'type': 'placement',
   'questions': [
     {
-      'prompt': 'Starting to DECAY.',
+      'prompt': 'She ESTABLISHED the business.',
       'answers': [
-        'appear',
-        'ripen',
-        'rot',
-        'change',
-        'shrink'
+        'announced',
+        'bought',
+        'sold',
+        'improved',
+        'set up'
       ],
-      'word': 'DECAY',
-      'correct': 'rot'
+      'correct': 'set up'
     },
     {
-      'prompt': 'Why is she so MISERABLE?',
+      'prompt': 'Enjoying the EXPEDITION.',
       'answers': [
-        'unhappy',
-        'greedy',
-        'glad',
-        'thin',
-        'lonely'
+        'visit',
+        'display',
+        'journey',
+        'boat race',
+        'sights'
       ],
-      'word': 'MISERABLE',
-      'correct': 'unhappy'
+      'correct': 'journey'
     },
     {
-      'prompt': 'Caused him to TREMBLE.',
+      'prompt': 'Best way to INSTRUCT.',
       'answers': [
-        'jump',
-        'stiffen',
-        'fall',
-        'shake',
-        'sweat'
+        'forget',
+        'teach',
+        'learn',
+        'punish',
+        'build'
       ],
-      'word': 'TREMBLE',
-      'correct': 'shake'
+      'correct': 'teach'
     },
     {
-      'prompt': 'Lost the TROPHY.',
+      'prompt': 'GNARLED branches.',
       'answers': [
-        'race',
-        'chance',
-        'jewel',
-        'battle',
-        'prize'
+        'old',
+        'decorated',
+        'smooth',
+        'diseased',
+        'twisted'
       ],
-      'word': 'TROPHY',
-      'correct': 'prize'
+      'correct': 'twisted'
     },
     {
-      'prompt': 'Whom did they ELECT?',
+      'prompt': 'Tried to FLATTER him.',
       'answers': [
-        'name',
-        'vote against',
-        'speak to',
-        'hope for',
-        'choose'
+        'insult',
+        'improve',
+        'overpraise',
+        'crush',
+        'agree with'
       ],
-      'word': 'ELECT',
-      'correct': 'choose'
+      'correct': 'overpraise'
     },
     {
-      'prompt': 'You TERRIFY her.',
+      'prompt': 'They were EXTERMINATED.',
       'answers': [
-        'please',
-        'scare',
-        'praise',
-        'hurt',
-        'dislike'
+        'wiped out',
+        'stopped',
+        'beaten up',
+        'cured',
+        'thrown away'
       ],
-      'word': 'TERRIFY',
-      'correct': 'scare'
+      'correct': 'wiped out'
     },
     {
-      'prompt': 'Large TERRITORY.',
+      'prompt': 'Began to LAG.',
       'answers': [
-        'building',
-        'area',
-        'ocean',
-        'monster',
-        'government'
+        'sink',
+        'give up',
+        'breathe heavily',
+        'fall behind',
+        'catch up'
       ],
-      'word': 'TERRITORY',
-      'correct': 'area'
+      'correct': 'fall behind'
     },
     {
-      'prompt': 'When will it THAW?',
+      'prompt': 'FATAL blows.',
       'answers': [
-        'break',
-        'rain',
-        'flow',
-        'melt',
-        'freeze'
+        'deadly',
+        'soft',
+        'natural',
+        'first',
+        'painful'
       ],
-      'word': 'THAW',
-      'correct': 'melt'
+      'correct': 'deadly'
     },
     {
-      'prompt': 'When will you DEPART?',
+      'prompt': 'Powerful HEX.',
       'answers': [
-        'begin',
-        'finish',
-        'leave',
-        'come',
-        'shop'
+        'evil',
+        'prayer',
+        'tool',
+        'fear',
+        'curse'
       ],
-      'word': 'DEPART',
-      'correct': 'leave'
+      'correct': 'curse'
     },
     {
-      'prompt': 'Let them HOLLER.',
+      'prompt': 'Clever IMPOSTOR.',
       'answers': [
-        'yell',
-        'sleep',
-        'come',
-        'laugh',
-        'talk'
+        'detective',
+        'customer',
+        'magician',
+        'faker',
+        'thief'
       ],
-      'word': 'HOLLER',
-      'correct': 'yell'
-    },
-    {
-      'prompt': 'Will he PARTICIPATE?',
-      'answers': [
-        'lose',
-        'be friendly',
-        'leave',
-        'take part',
-        'be eager'
-      ],
-      'word': 'PARTICIPATE',
-      'correct': 'take part'
-    },
-    {
-      'prompt': 'RAPID workers.',
-      'answers': [
-        'angry',
-        'good',
-        'fast',
-        'slow',
-        'smart'
-      ],
-      'word': 'RAPID',
-      'correct': 'fast'
-    },
-    {
-      'prompt': 'REFUND the money.',
-      'answers': [
-        'spend',
-        'turn down',
-        'give away',
-        'earn',
-        'pay back'
-      ],
-      'word': 'REFUND',
-      'correct': 'pay back'
-    },
-    {
-      'prompt': 'Satisfactory RESPONSE.',
-      'answers': [
-        'pay',
-        'ending',
-        'beginning',
-        'answer',
-        'report'
-      ],
-      'word': 'RESPONSE',
-      'correct': 'answer'
-    },
-    {
-      'prompt': 'He SCORCHED it.',
-      'answers': [
-        'burned',
-        'soaked',
-        'tried',
-        'cut',
-        'dried'
-      ],
-      'word': 'SCORCH',
-      'correct': 'burned'
+      'correct': 'faker'
     }
   ]
 };
@@ -198,7 +128,7 @@ export default class ExercisePage extends Component {
         <Exercise
           questions={data.questions}
           questionType={data.type}
-          // questionsToShow
+          questionsToShow={data.type === 'placement' ? 1 : null}
         />
       </React.Fragment>
     );

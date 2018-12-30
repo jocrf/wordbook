@@ -8,6 +8,7 @@ export default class Exercise extends Component {
     super(props);
     this.changeHandler = this.changeHandler.bind(this);
     this.checkButtonHandler = this.checkButtonHandler.bind(this);
+    this.incrementQuestionIndex = this.incrementQuestionIndex.bind(this);
     this.state = {
       currentQuestionIndex: 0,
       feedback: null,
@@ -34,6 +35,20 @@ export default class Exercise extends Component {
       // check if there are more questions
       // increment if there are
       // end quiz if there are not
+      if (this.props.questionsToShow) {
+        this.incrementQuestionIndex();
+      }
+    }
+  }
+
+  incrementQuestionIndex () {
+    if (this.state.currentQuestionIndex < this.props.questions.length) {
+      this.setState((state) => ({
+        currentQuestionIndex: state.currentQuestionIndex + 1,
+        buttonText: 'Check Answer'
+      }));
+    } else {
+      console.log('end the quiz');
     }
   }
 
@@ -43,6 +58,8 @@ export default class Exercise extends Component {
         return this.renderAll();
       case 'tf':
         return this.renderAllTf();
+      case 'placement':
+        return this.renderOne();
       default:
         return <div>Default question</div>;
     }
@@ -89,7 +106,7 @@ export default class Exercise extends Component {
           answers={currentQuestion.answers}
           correctAnswer={currentQuestion.correct}
           onChange={this.changeHandler}
-          correct={this.state.showAnswers ? this.state.selectedAnswers === currentQuestion.correct : null}
+          correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
           // TODO showDefinition boolean
           // TODO word
         />
