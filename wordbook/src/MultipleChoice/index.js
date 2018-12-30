@@ -3,26 +3,17 @@ import React, { Component } from 'react';
 export default class MultipleChoice extends Component {
   constructor (props) {
     super(props);
-    this.setValue = this.setValue.bind(this);
-    this.state = {
-      chosenAnswer: ''
-    };
+    this.changeHandler = this.changeHandler.bind(this);
   }
 
-  componentDidUpdate () {
-    if (this.state.chosenAnswer === this.props.correctAnswer) {
-      console.log('correct');
-    }
-  }
-
-  setValue (e) {
-    this.setState({ chosenAnswer: e.target.value });
+  changeHandler (e) {
+    this.props.onChange(this.props.prompt, e.target.value);
   }
 
   render () {
     const { answers, prompt } = this.props;
     return (
-      <fieldset onChange={this.setValue}>
+      <fieldset onChange={this.changeHandler}>
         <legend>{prompt}</legend>
         {answers.map(answer =>
           <label key={answer}>

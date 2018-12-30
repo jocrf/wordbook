@@ -57,7 +57,7 @@ export default class Exercise extends Component {
             answers={currentQuestion.answers}
             correctAnswer={currentQuestion.correct}
             onChange={this.changeHandler}
-            correct={this.state.showAnswers ? this.state.selectedAnswers === currentQuestion.correct : null}
+            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
             // TODO word
           />
         )}

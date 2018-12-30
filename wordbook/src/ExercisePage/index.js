@@ -2,82 +2,187 @@ import React, { Component } from 'react';
 import Exercise from '../Exercise';
 
 var data = {
-  'type': 'tf',
+  'type': 'mc',
   'questions': [
     {
-      'prompt': 'Do other things besides food DECAY?',
+      'prompt': 'Starting to DECAY.',
+      'answers': [
+        'appear',
+        'ripen',
+        'rot',
+        'change',
+        'shrink'
+      ],
       'word': 'DECAY',
-      'correct': 'true'
+      'correct': 'rot'
     },
     {
-      'prompt': 'Do most people like to be MISERABLE?',
+      'prompt': 'Why is she so MISERABLE?',
+      'answers': [
+        'unhappy',
+        'greedy',
+        'glad',
+        'thin',
+        'lonely'
+      ],
       'word': 'MISERABLE',
-      'correct': 'false'
+      'correct': 'unhappy'
     },
     {
-      'prompt': 'Do the leaves of trees TREMBLE when the wind blows through them?',
+      'prompt': 'Caused him to TREMBLE.',
+      'answers': [
+        'jump',
+        'stiffen',
+        'fall',
+        'shake',
+        'sweat'
+      ],
       'word': 'TREMBLE',
-      'correct': 'true'
+      'correct': 'shake'
     },
     {
-      'prompt': 'Is an Olympic gold medal a TROPHY?',
+      'prompt': 'Lost the TROPHY.',
+      'answers': [
+        'race',
+        'chance',
+        'jewel',
+        'battle',
+        'prize'
+      ],
       'word': 'TROPHY',
-      'correct': 'true'
+      'correct': 'prize'
     },
     {
-      'prompt': 'Are governors ELECTED?',
+      'prompt': 'Whom did they ELECT?',
+      'answers': [
+        'name',
+        'vote against',
+        'speak to',
+        'hope for',
+        'choose'
+      ],
       'word': 'ELECT',
-      'correct': 'true'
+      'correct': 'choose'
     },
     {
-      'prompt': 'Are some people TERRIFIED of the dark?',
+      'prompt': 'You TERRIFY her.',
+      'answers': [
+        'please',
+        'scare',
+        'praise',
+        'hurt',
+        'dislike'
+      ],
       'word': 'TERRIFY',
-      'correct': 'true'
+      'correct': 'scare'
     },
     {
-      'prompt': 'Are all TERRITORIES the same size?',
+      'prompt': 'Large TERRITORY.',
+      'answers': [
+        'building',
+        'area',
+        'ocean',
+        'monster',
+        'government'
+      ],
       'word': 'TERRITORY',
-      'correct': 'false'
+      'correct': 'area'
     },
     {
-      'prompt': 'If you take frozen food out of the freezer, will it THAW?',
+      'prompt': 'When will it THAW?',
+      'answers': [
+        'break',
+        'rain',
+        'flow',
+        'melt',
+        'freeze'
+      ],
       'word': 'THAW',
-      'correct': 'true'
+      'correct': 'melt'
     },
     {
-      'prompt': 'Do people usually say \'Hello\' when they DEPART?',
+      'prompt': 'When will you DEPART?',
+      'answers': [
+        'begin',
+        'finish',
+        'leave',
+        'come',
+        'shop'
+      ],
       'word': 'DEPART',
-      'correct': 'false'
+      'correct': 'leave'
     },
     {
-      'prompt': 'Do people usually HOLLER in the library?',
+      'prompt': 'Let them HOLLER.',
+      'answers': [
+        'yell',
+        'sleep',
+        'come',
+        'laugh',
+        'talk'
+      ],
       'word': 'HOLLER',
-      'correct': 'false'
+      'correct': 'yell'
     },
     {
-      'prompt': 'Are people who are watching a baseball game PARTICIPATING in it?',
+      'prompt': 'Will he PARTICIPATE?',
+      'answers': [
+        'lose',
+        'be friendly',
+        'leave',
+        'take part',
+        'be eager'
+      ],
       'word': 'PARTICIPATE',
-      'correct': 'false'
+      'correct': 'take part'
     },
     {
-      'prompt': 'Is someone who learns a language in a few months a RAPID learner?',
+      'prompt': 'RAPID workers.',
+      'answers': [
+        'angry',
+        'good',
+        'fast',
+        'slow',
+        'smart'
+      ],
       'word': 'RAPID',
-      'correct': 'true'
+      'correct': 'fast'
     },
     {
-      'prompt': 'Would a store usually REFUND your money if you returned an item that you had broken?',
+      'prompt': 'REFUND the money.',
+      'answers': [
+        'spend',
+        'turn down',
+        'give away',
+        'earn',
+        'pay back'
+      ],
       'word': 'REFUND',
-      'correct': 'false'
+      'correct': 'pay back'
     },
     {
-      'prompt': 'Can a wink be a RESPONSE?',
+      'prompt': 'Satisfactory RESPONSE.',
+      'answers': [
+        'pay',
+        'ending',
+        'beginning',
+        'answer',
+        'report'
+      ],
       'word': 'RESPONSE',
-      'correct': 'true'
+      'correct': 'answer'
     },
     {
-      'prompt': 'Can a piece of paper be SCORCHED?',
+      'prompt': 'He SCORCHED it.',
+      'answers': [
+        'burned',
+        'soaked',
+        'tried',
+        'cut',
+        'dried'
+      ],
       'word': 'SCORCH',
-      'correct': 'true'
+      'correct': 'burned'
     }
   ]
 };
