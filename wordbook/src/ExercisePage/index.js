@@ -65,36 +65,36 @@ var data = {
       'correct': 'true'
     },
     {
-      'prompt': 'Would a store usually REFUND your money if you returned an item that you',
+      'prompt': 'Would a store usually REFUND your money if you returned an item that you had broken?',
       'word': 'REFUND',
       'correct': 'false'
     },
     {
-      'prompt': 'had broken?',
+      'prompt': 'Can a wink be a RESPONSE?',
       'word': 'RESPONSE',
       'correct': 'true'
     },
     {
-      'prompt': 'Can a wink be a RESPONSE?',
+      'prompt': 'Can a piece of paper be SCORCHED?',
       'word': 'SCORCH',
       'correct': 'true'
-    },
-    {
-      'prompt': 'Can a piece of paper be SCORCHED?'
     }
   ]
 };
 
 export default class ExercisePage extends Component {
   render () {
-    console.log(this.props);
     return (
       // maybe has nav
       <React.Fragment>
         <h1>Title of exercise</h1>
         <p>Instructions</p>
         <p>Example question, sometimes</p>
-        <Exercise questions={data.questions} questionType={data.type} />
+        <Exercise
+          questions={data.questions}
+          questionType={data.type}
+          // questionsToShow
+        />
       </React.Fragment>
     );
   }

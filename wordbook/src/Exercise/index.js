@@ -6,29 +6,35 @@ import QuestionWrapper from '../QuestionWrapper/';
 export default class Exercise extends Component {
   constructor (props) {
     super(props);
-    this.incrementExercise = this.incrementExercise.bind(this);
-    this.incrementQuestion = this.incrementQuestion.bind(this);
+    this.changeHandler = this.changeHandler.bind(this);
+    this.checkButtonHandler = this.checkButtonHandler.bind(this);
     this.state = {
-      currentQuestion: 1
+      currentQuestionIndex: 0,
+      feedback: null,
+      buttonText: 'Check Answer',
+      showAnswers: false,
+      selectedAnswers: {}
     };
   }
 
-  componentDidUpdate () {
-    if (this.state.currentQuestion === this.props.questions.length) {
-      // TODO
-      console.log('end the quiz here');
+  changeHandler (key, value) {
+    const selectedAnswers = this.state.selectedAnswers;
+    selectedAnswers[key] = value;
+    this.setState({ selectedAnswers: selectedAnswers });
+  }
+
+  checkButtonHandler () {
+    if (this.state.buttonText === 'Check Answer') {
+      this.setState({
+        buttonText: 'Next Question',
+        showAnswers: true
+      });
     }
-  }
-
-  incrementExercise () {
-    console.log('incrementing exercise');
-  }
-
-  incrementQuestion () {
-    console.log('incrementing');
-    this.setState(currentState => (
-      { currentQuestion: currentState.currentQuestion + 1 }
-    ));
+    if (this.state.buttonText === 'Next Question') {
+      // check if there are more questions
+      // increment if there are
+      // end quiz if there are not
+    }
   }
 
   render () {
@@ -43,13 +49,15 @@ export default class Exercise extends Component {
   }
   renderAll () {
     return (
-      <QuestionWrapper onButtonClick={this.incrementExercise} buttonText='Check Answers'>
-        {this.props.questions.map(question =>
+      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+        {this.props.questions.map(currentQuestion =>
           <MultipleChoice
-            key={question.correct}
-            prompt={question.prompt}
-            answers={question.answers}
-            correctAnswer={question.correct}
+            key={currentQuestion.correct}
+            prompt={currentQuestion.prompt}
+            answers={currentQuestion.answers}
+            correctAnswer={currentQuestion.correct}
+            onChange={this.changeHandler}
+            correct={this.state.showAnswers ? this.state.selectedAnswer === currentQuestion.correctAnswer : null}
           />
         )}
       </QuestionWrapper>
@@ -57,26 +65,30 @@ export default class Exercise extends Component {
   }
   renderAllTf () {
     return (
-      <QuestionWrapper onButtonClick={this.incrementExercise} buttonText='Check Answers'>
-        {this.props.questions.map(question =>
+      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+        {this.props.questions.map(currentQuestion =>
           <TrueFalse
-            key={question.prompt}
-            prompt={question.prompt}
-            correctAnswer={question.correct}
+            key={currentQuestion.prompt}
+            prompt={currentQuestion.prompt}
+            correctAnswer={currentQuestion.correct}
+            onChange={this.changeHandler}
+            correct={this.state.showAnswers ? this.state.selectedAnswer === currentQuestion.correctAnswer : null}
           />
         )}
       </QuestionWrapper>
     );
   }
   renderOne () {
-    const question = this.props.questions[this.state.currentQuestion];
+    const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
     return (
-      <QuestionWrapper onButtonClick={this.incrementQuestion} buttonText='Next'>
+      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
         <MultipleChoice
-          prompt={question.prompt}
-          answers={question.answers}
-          correctAnswer={question.correct}
-          showDefinition
+          prompt={currentQuestion.prompt}
+          answers={currentQuestion.answers}
+          correctAnswer={currentQuestion.correct}
+          onChange={this.changeHandler}
+          correct={this.state.showAnswers ? this.state.selectedAnswer === currentQuestion.correctAnswer : null}
+          // showDefinition
         />
       </QuestionWrapper>
     );
