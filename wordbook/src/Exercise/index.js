@@ -57,7 +57,8 @@ export default class Exercise extends Component {
             answers={currentQuestion.answers}
             correctAnswer={currentQuestion.correct}
             onChange={this.changeHandler}
-            correct={this.state.showAnswers ? this.state.selectedAnswer === currentQuestion.correctAnswer : null}
+            correct={this.state.showAnswers ? this.state.selectedAnswers === currentQuestion.correct : null}
+            // TODO word
           />
         )}
       </QuestionWrapper>
@@ -72,7 +73,8 @@ export default class Exercise extends Component {
             prompt={currentQuestion.prompt}
             correctAnswer={currentQuestion.correct}
             onChange={this.changeHandler}
-            correct={this.state.showAnswers ? this.state.selectedAnswer === currentQuestion.correctAnswer : null}
+            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+            // TODO word
           />
         )}
       </QuestionWrapper>
@@ -87,8 +89,9 @@ export default class Exercise extends Component {
           answers={currentQuestion.answers}
           correctAnswer={currentQuestion.correct}
           onChange={this.changeHandler}
-          correct={this.state.showAnswers ? this.state.selectedAnswer === currentQuestion.correctAnswer : null}
-          // showDefinition
+          correct={this.state.showAnswers ? this.state.selectedAnswers === currentQuestion.correct : null}
+          // TODO showDefinition boolean
+          // TODO word
         />
       </QuestionWrapper>
     );
