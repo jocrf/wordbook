@@ -13,6 +13,8 @@ export default class LearningPage extends Component {
     };
   }
 
+  // TODO after a quiz is done, will need to give navigation controls to continue quizzing or go elsewhere
+
   render () {
     return (
       <React.Fragment>
@@ -25,7 +27,7 @@ export default class LearningPage extends Component {
           </React.Fragment>
         )} />
         <Route path='/learning/level/:level/wordset/:wordset/exercise/:exercise' component={ExercisePage} />
-        <Link exact to='/learning/tableofcontents'>Table of Contents</Link>
+        <Link to='/learning/tableofcontents'>Table of Contents</Link>
         <Route exact path='/learning/tableofcontents' component={TableOfContents} />
       </React.Fragment>
     );

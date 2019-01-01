@@ -36,21 +36,28 @@ export default class Exercise extends Component {
       // increment if there are
       // end quiz if there are not
       if (this.props.questionsToShow) {
-        this.incrementQuestionIndex();
+        this.incrementQuestionIndex(this.props.questionsToShow);
       }
     }
   }
 
-  incrementQuestionIndex () {
+  endQuiz () {
+    // call a method passed in as a prop from the LearningPage component unmount Exercise component and ExercisePage component, to update the user's stats, history, progress, and to show a message summarizing what happened in this quiz
+  }
+
+  incrementQuestionIndex (numQuestions) {
     if (this.state.currentQuestionIndex < this.props.questions.length) {
       this.setState((state) => ({
-        currentQuestionIndex: state.currentQuestionIndex + 1,
+        currentQuestionIndex: state.currentQuestionIndex + numQuestions,
         buttonText: 'Check Answer'
       }));
     } else {
       console.log('end the quiz');
     }
   }
+
+  // TODO for review test, use renderOne fn to show questions and add a new Wordlist component
+  // TODO flexible render method that displays the # of questions passed in as questionsToShow
 
   render () {
     switch (this.props.questionType) {

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Exercise from '../Exercise';
 
+// will get from database
 var data = {
   'type': 'placement',
   'questions': [
