@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import Exercise from '../Exercise';
 
-// will get from database
+// TODO will get from database based on props!
+// {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
 var data = {
   'type': 'placement',
   'questions': [
