@@ -18,7 +18,7 @@ export default class LearningPage extends Component {
   render () {
     return (
       <React.Fragment>
-        <Route exact path='/learning' render={() => (
+        <Route path='/learning' render={() => (
           <React.Fragment>
             <p>The current level is {this.state.currentLevel}</p>
             <p>You are on wordset {this.state.currentWordset}, exercise {this.state.currentExercise}</p>
