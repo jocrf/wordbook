@@ -18,8 +18,11 @@ export default class LearningPage extends Component {
   render () {
     return (
       <React.Fragment>
-        <Route path='/learning' render={() => (
+        <Route path='/learning/level/:level' render={({ match }) => (
           <React.Fragment>
+            <TableOfContents
+              level={match.params.level}
+            />
             <p>The current level is {this.state.currentLevel}</p>
             <p>You are on wordset {this.state.currentWordset}, exercise {this.state.currentExercise}</p>
             <p>Are you ready to keep learning?</p>
@@ -28,7 +31,6 @@ export default class LearningPage extends Component {
         )} />
         <Route path='/learning/level/:level/wordset/:wordset/exercise/:exercise' component={ExercisePage} />
         <Link to='/learning/tableofcontents'>Table of Contents</Link>
-        <Route exact path='/learning/tableofcontents' component={TableOfContents} />
       </React.Fragment>
     );
   }
