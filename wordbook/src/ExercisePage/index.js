@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Exercise from '../Exercise';
+import NavPanel from '../NavPanel';
 
 // TODO will get from database based on props!
 // {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
@@ -122,10 +123,16 @@ var data = {
 export default class ExercisePage extends Component {
   constructor (props) {
     super(props);
+    this.toggleQuizCompleted = this.toggleQuizCompleted.bind(this);
     this.toggleQuizState = this.toggleQuizState.bind(this);
     this.state = {
-      isQuizzing: false
+      isQuizzing: false,
+      quizCompleted: false
     };
+  }
+
+  toggleQuizCompleted () {
+    this.setState((state) => ({ quizCompleted: !state.quizCompleted }));
   }
 
   toggleQuizState () {
@@ -139,16 +146,17 @@ export default class ExercisePage extends Component {
         <p>Instructions</p>
         <p>Example question, sometimes</p>
         {!this.state.isQuizzing &&
-          <div>
-            <p>Ready to start?</p>
-            <button onClick={this.toggleQuizState}>Ready</button>
-          </div>
+          <NavPanel
+            quizCompleted={this.state.quizCompleted}
+            toggleQuizState={this.toggleQuizState}
+          />
         }
         {this.state.isQuizzing &&
           <Exercise
             questions={data.questions}
             questionType={data.type}
             questionsToShow={data.type === 'placement' ? 1 : null}
+            toggleQuizCompleted={this.toggleQuizCompleted}
             toggleQuizState={this.toggleQuizState}
           />
         }
