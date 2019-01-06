@@ -120,18 +120,38 @@ var data = {
 };
 
 export default class ExercisePage extends Component {
+  constructor (props) {
+    super(props);
+    this.toggleQuizState = this.toggleQuizState.bind(this);
+    this.state = {
+      isQuizzing: false
+    };
+  }
+
+  toggleQuizState () {
+    this.setState((state) => ({ isQuizzing: !state.isQuizzing }));
+  }
+
   render () {
     return (
-      // maybe has nav
       <React.Fragment>
         <h1>Title of exercise</h1>
         <p>Instructions</p>
         <p>Example question, sometimes</p>
-        <Exercise
-          questions={data.questions}
-          questionType={data.type}
-          questionsToShow={data.type === 'placement' ? 1 : null}
-        />
+        {!this.state.isQuizzing &&
+          <div>
+            <p>Ready to start?</p>
+            <button onClick={this.toggleQuizState}>Ready</button>
+          </div>
+        }
+        {this.state.isQuizzing &&
+          <Exercise
+            questions={data.questions}
+            questionType={data.type}
+            questionsToShow={data.type === 'placement' ? 1 : null}
+            toggleQuizState={this.toggleQuizState}
+          />
+        }
       </React.Fragment>
     );
   }

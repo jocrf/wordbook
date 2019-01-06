@@ -8,6 +8,7 @@ export default class App extends Component {
   render () {
     return (
       <React.Fragment>
+        <h1>Wordbook App</h1>
         <Route exact path='/' component={Home} />
         <Route path='/placement' component={ExercisePage} />
         <Route path='/learning' component={LearningPage} />

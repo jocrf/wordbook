@@ -6,6 +6,7 @@ export default class TableOfContents extends Component {
   render () {
     return (
       <React.Fragment>
+        {/* TODO: add a back button for navigation */}
         <h1>Table Of Contents</h1>
         <ul>
           <li><NavLink to='/learning/level/1'>Level 1</NavLink></li>

@@ -8,10 +8,11 @@ export default class Exercise extends Component {
     super(props);
     this.changeHandler = this.changeHandler.bind(this);
     this.checkButtonHandler = this.checkButtonHandler.bind(this);
+    this.endQuiz = this.endQuiz.bind(this);
     this.incrementQuestionIndex = this.incrementQuestionIndex.bind(this);
     this.state = {
       currentQuestionIndex: 0,
-      feedback: null,
+      feedback: null, // am I using this?
       buttonText: 'Check Answer',
       showAnswers: false,
       selectedAnswers: {}
@@ -24,6 +25,7 @@ export default class Exercise extends Component {
     this.setState({ selectedAnswers: selectedAnswers });
   }
 
+  // TODO: 'Next Question' not appropriate for multi-item quizzes
   checkButtonHandler () {
     if (this.state.buttonText === 'Check Answer') {
       this.setState({
@@ -37,22 +39,26 @@ export default class Exercise extends Component {
       // end quiz if there are not
       if (this.props.questionsToShow) {
         this.incrementQuestionIndex(this.props.questionsToShow);
+      } else {
+        this.endQuiz();
       }
     }
   }
 
   endQuiz () {
-    // call a method passed in as a prop from the LearningPage component unmount Exercise component and ExercisePage component, to update the user's stats, history, progress, and to show a message summarizing what happened in this quiz
+    // TODO: reset quiz state, provide stats to parent
+    this.props.toggleQuizState();
   }
 
   incrementQuestionIndex (numQuestions) {
-    if (this.state.currentQuestionIndex < this.props.questions.length) {
+    // below: length - 1 to account for zero-indexing
+    if (this.state.currentQuestionIndex < this.props.questions.length - 1) {
       this.setState((state) => ({
         currentQuestionIndex: state.currentQuestionIndex + numQuestions,
         buttonText: 'Check Answer'
       }));
     } else {
-      console.log('end the quiz');
+      this.endQuiz();
     }
   }
 
@@ -104,6 +110,7 @@ export default class Exercise extends Component {
       </QuestionWrapper>
     );
   }
+  // below method for placement, pretest, and review quizzes
   renderOne () {
     const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
     return (
@@ -114,7 +121,7 @@ export default class Exercise extends Component {
           correctAnswer={currentQuestion.correct}
           onChange={this.changeHandler}
           correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-          // TODO showDefinition boolean
+          // TODO showDefinition boolean for pretest, after question is answered
           // TODO word
         />
       </QuestionWrapper>
