@@ -47,8 +47,7 @@ export default class Exercise extends Component {
 
   endQuiz () {
     // TODO: reset quiz state, provide stats to parent
-    this.props.toggleQuizCompleted();
-    this.props.toggleQuizState();
+    this.props.onQuizCompleted();
   }
 
   incrementQuestionIndex (numQuestions) {

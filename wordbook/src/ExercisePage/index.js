@@ -123,7 +123,7 @@ var data = {
 export default class ExercisePage extends Component {
   constructor (props) {
     super(props);
-    this.toggleQuizCompleted = this.toggleQuizCompleted.bind(this);
+    this.onQuizCompleted = this.onQuizCompleted.bind(this);
     this.toggleQuizState = this.toggleQuizState.bind(this);
     this.state = {
       isQuizzing: false,
@@ -131,8 +131,14 @@ export default class ExercisePage extends Component {
     };
   }
 
-  toggleQuizCompleted () {
-    this.setState((state) => ({ quizCompleted: !state.quizCompleted }));
+  componentDidUpdate (prevProps) {
+    if (prevProps.exercise !== this.props.exercise) {
+      this.setState({ isQuizzing: false, quizCompleted: false });
+    }
+  }
+
+  onQuizCompleted () {
+    this.setState({ quizCompleted: true, isQuizzing: false });
   }
 
   toggleQuizState () {
@@ -147,6 +153,10 @@ export default class ExercisePage extends Component {
         <p>Example question, sometimes</p>
         {!this.state.isQuizzing &&
           <NavPanel
+            level={this.props.level}
+            wordset={this.props.wordset}
+            section={this.props.section}
+            exercise={this.props.exercise}
             quizCompleted={this.state.quizCompleted}
             toggleQuizState={this.toggleQuizState}
           />
@@ -156,7 +166,7 @@ export default class ExercisePage extends Component {
             questions={data.questions}
             questionType={data.type}
             questionsToShow={data.type === 'placement' ? 1 : null}
-            toggleQuizCompleted={this.toggleQuizCompleted}
+            onQuizCompleted={this.onQuizCompleted}
             toggleQuizState={this.toggleQuizState}
           />
         }

@@ -1,33 +1,25 @@
 import React, { Component } from 'react';
 import { NavLink } from 'react-router-dom';
+import levels from './levels-config';
 
 export default class Wordset extends Component {
   render () {
-    const { level, section, wordset } = this.props;
+    const url = this.props.url;
+    const level = levels[this.props.level - 1];
+    const section = level.sections[this.props.section - 1];
+    const wordset = section.wordsets[this.props.wordset - 1];
+
     return (
       <React.Fragment>
-        <h2>Wordset {wordset}</h2>
+        <h2>Wordset {wordset.title}</h2>
         <ul>
-          <li>
-            <NavLink to={`/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/pretest`}>
-              Pretest
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to={`/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/1`}>
-              Exercise 1
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to={`/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/2`}>
-              Exercise 2
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to={`/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/3`}>
-              Exercise 3
-            </NavLink>
-          </li>
+          {wordset.exercises.map(exercise => (
+            <li key={exercise.id}>
+              <NavLink to={`${url}/exercise/${exercise.id}`}>
+                {exercise.title}
+              </NavLink>
+            </li>
+          ))}
         </ul>
       </React.Fragment>
     );
