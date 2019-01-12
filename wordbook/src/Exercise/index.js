@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import MultipleChoice from '../MultipleChoice';
 import TrueFalse from '../TrueFalse';
+import FillInTheBlank from '../FillInTheBlank';
 import QuestionWrapper from '../QuestionWrapper/';
+import Wordlist from '../Wordlist';
 
 export default class Exercise extends Component {
   constructor (props) {
@@ -72,7 +74,9 @@ export default class Exercise extends Component {
       case 'tf':
         return this.renderAllTf();
       case 'placement':
-        return this.renderOne();
+        return this.renderOne('placement');
+      case 'review':
+        return this.renderOne('review');
       default:
         return <div>Default question</div>;
     }
@@ -111,20 +115,38 @@ export default class Exercise extends Component {
     );
   }
   // below method for placement, pretest, and review quizzes
-  renderOne () {
+  renderOne (type) {
     const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
-    return (
-      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-        <MultipleChoice
-          prompt={currentQuestion.prompt}
-          answers={currentQuestion.answers}
-          correctAnswer={currentQuestion.correct}
-          onChange={this.changeHandler}
-          correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-          // TODO showDefinition boolean for pretest, after question is answered
-          // TODO word
-        />
-      </QuestionWrapper>
-    );
+    if (type === 'placement') {
+      return (
+        <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+          <MultipleChoice
+            prompt={currentQuestion.prompt}
+            answers={currentQuestion.answers}
+            correctAnswer={currentQuestion.correct}
+            onChange={this.changeHandler}
+            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+            // TODO showDefinition boolean for pretest, after question is answered
+            // TODO word
+          />
+        </QuestionWrapper>
+      );
+    } else if (type === 'review') {
+      return (
+        <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+          <Wordlist
+            onChange={this.changeHandler}
+            wordlist={this.props.wordlist}
+          />
+          <FillInTheBlank
+            part1={currentQuestion.part1}
+            part2={currentQuestion.part2}
+            correctAnswer={currentQuestion.answer}
+            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+            // TODO word
+          />
+        </QuestionWrapper>
+      );
+    }
   }
 }

@@ -5,117 +5,27 @@ import NavPanel from '../NavPanel';
 // TODO will get from database based on props!
 // {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
 var data = {
-  'type': 'placement',
+  'type': 'review',
+  'wordList': [
+    'quivered',
+    'smudges',
+    'depart'
+  ],
   'questions': [
     {
-      'prompt': 'She ESTABLISHED the business.',
-      'answers': [
-        'announced',
-        'bought',
-        'sold',
-        'improved',
-        'set up'
-      ],
-      'correct': 'set up'
+      'part1': 'His han....',
+      'part2': 'with nervousness as he tried to put the key in the lock.',
+      'answer': 'quivered'
     },
     {
-      'prompt': 'Enjoying the EXPEDITION.',
-      'answers': [
-        'visit',
-        'display',
-        'journey',
-        'boat race',
-        'sights'
-      ],
-      'correct': 'journey'
+      'part1': 'The dirty eraser made all kinds of',
+      'part2': 'on the clean paper.',
+      'answer': 'smudges'
     },
     {
-      'prompt': 'Best way to INSTRUCT.',
-      'answers': [
-        'forget',
-        'teach',
-        'learn',
-        'punish',
-        'build'
-      ],
-      'correct': 'teach'
-    },
-    {
-      'prompt': 'GNARLED branches.',
-      'answers': [
-        'old',
-        'decorated',
-        'smooth',
-        'diseased',
-        'twisted'
-      ],
-      'correct': 'twisted'
-    },
-    {
-      'prompt': 'Tried to FLATTER him.',
-      'answers': [
-        'insult',
-        'improve',
-        'overpraise',
-        'crush',
-        'agree with'
-      ],
-      'correct': 'overpraise'
-    },
-    {
-      'prompt': 'They were EXTERMINATED.',
-      'answers': [
-        'wiped out',
-        'stopped',
-        'beaten up',
-        'cured',
-        'thrown away'
-      ],
-      'correct': 'wiped out'
-    },
-    {
-      'prompt': 'Began to LAG.',
-      'answers': [
-        'sink',
-        'give up',
-        'breathe heavily',
-        'fall behind',
-        'catch up'
-      ],
-      'correct': 'fall behind'
-    },
-    {
-      'prompt': 'FATAL blows.',
-      'answers': [
-        'deadly',
-        'soft',
-        'natural',
-        'first',
-        'painful'
-      ],
-      'correct': 'deadly'
-    },
-    {
-      'prompt': 'Powerful HEX.',
-      'answers': [
-        'evil',
-        'prayer',
-        'tool',
-        'fear',
-        'curse'
-      ],
-      'correct': 'curse'
-    },
-    {
-      'prompt': 'Clever IMPOSTOR.',
-      'answers': [
-        'detective',
-        'customer',
-        'magician',
-        'faker',
-        'thief'
-      ],
-      'correct': 'faker'
+      'part1': 'When it was time to.',
+      'part2': 'we got in the car and drove away.',
+      'answer': 'depart'
     }
   ]
 };
@@ -168,6 +78,7 @@ export default class ExercisePage extends Component {
               questions={data.questions}
               questionType={data.type}
               questionsToShow={data.type === 'placement' ? 1 : null}
+              wordlist={data.wordList}
               onQuizCompleted={this.onQuizCompleted}
               toggleQuizState={this.toggleQuizState}
             />
