@@ -18,6 +18,11 @@ export default class Section extends Component {
               <NavLink to={`${url}/wordset/${wordset.title}`}>Wordset {wordset.title}</NavLink>
             </li>
           ))}
+          {section.review.map(review => (
+            <li key={review.title}>
+              <NavLink to={`${url}/review/${review.title}`}>Review {review.title}</NavLink>
+            </li>
+          ))}
         </ul>
         <Route
           path='/learning/level/:level/section/:section/wordset/:wordset'
