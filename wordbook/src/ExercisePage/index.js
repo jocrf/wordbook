@@ -148,27 +148,30 @@ export default class ExercisePage extends Component {
   render () {
     return (
       <React.Fragment>
-        <h1>Title of exercise</h1>
-        <p>Instructions</p>
-        <p>Example question, sometimes</p>
         {!this.state.isQuizzing &&
           <NavPanel
             level={this.props.level}
             wordset={this.props.wordset}
             section={this.props.section}
             exercise={this.props.exercise}
+            review={this.props.review}
             quizCompleted={this.state.quizCompleted}
             toggleQuizState={this.toggleQuizState}
           />
         }
         {this.state.isQuizzing &&
-          <Exercise
-            questions={data.questions}
-            questionType={data.type}
-            questionsToShow={data.type === 'placement' ? 1 : null}
-            onQuizCompleted={this.onQuizCompleted}
-            toggleQuizState={this.toggleQuizState}
-          />
+          <React.Fragment>
+            <h1>Title of exercise</h1>
+            <p>Instructions</p>
+            <p>Example question, sometimes</p>
+            <Exercise
+              questions={data.questions}
+              questionType={data.type}
+              questionsToShow={data.type === 'placement' ? 1 : null}
+              onQuizCompleted={this.onQuizCompleted}
+              toggleQuizState={this.toggleQuizState}
+            />
+          </React.Fragment>
         }
       </React.Fragment>
     );

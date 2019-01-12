@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route } from 'react-router-dom';
+import { Link, Route } from 'react-router-dom';
 import LearningPage from '../LearningPage';
 import ExercisePage from '../ExercisePage';
 import Home from '../Home';
@@ -9,6 +9,7 @@ export default class App extends Component {
     return (
       <React.Fragment>
         <h1>Wordbook App</h1>
+        <Link exact to='/'>Home</Link>
         <Route exact path='/' component={Home} />
         <Route path='/placement' component={ExercisePage} />
         <Route path='/learning' component={LearningPage} />
