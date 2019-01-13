@@ -141,8 +141,9 @@ export default class Exercise extends Component {
           <FillInTheBlank
             part1={currentQuestion.part1}
             part2={currentQuestion.part2}
+            // TODO: check data for consistency throughout - is it the 'answer' or the 'correct'?
             correctAnswer={currentQuestion.answer}
-            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+            correct={this.state.showAnswers ? this.state.selectedAnswers.answer === currentQuestion.answer : null}
             // TODO word
           />
         </QuestionWrapper>

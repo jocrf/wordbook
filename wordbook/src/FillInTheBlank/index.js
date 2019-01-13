@@ -11,7 +11,7 @@ export default class FillInTheBlank extends Component {
   }
 
   render () {
-    const { part1, part2, correctAnswer } = this.props;
+    const { part1, part2 } = this.props;
     return (
       <React.Fragment>
         <p>{part1}</p>

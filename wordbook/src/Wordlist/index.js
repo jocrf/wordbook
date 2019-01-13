@@ -7,19 +7,21 @@ export default class Wordlist extends Component {
   }
 
   changeHandler (e) {
-    console.log('clicked ' + e.target.value);
-    this.props.onChange(null, e.target.value);
+    this.props.onChange('answer', e.target.value);
   }
 
   render () {
     const { wordlist } = this.props;
     return (
-      <select name='wordlist' onChange={this.changeHandler}>
-        <option key='default' value='null'>Select one</option>
-        {wordlist.map(word => (
-          <option key={word} value={word}>{word}</option>
-        ))}
-      </select>
+      <fieldset onChange={this.changeHandler}>
+        <legend>Word list</legend>
+        {wordlist.map(word =>
+          <label key={word}>
+            <input type='radio' value={word} name='wordlist' required />
+            {word}
+          </label>
+        )}
+      </fieldset>
     );
   }
 }
