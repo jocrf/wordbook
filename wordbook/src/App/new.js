@@ -9,7 +9,7 @@ export default class App extends Component {
     return (
       <React.Fragment>
         <h1>Wordbook App</h1>
-        <Link exact to='/'>Home</Link>
+        <Link to='/'>Home</Link>
         <Route exact path='/' component={Home} />
         <Route path='/placement' component={ExercisePage} />
         <Route path='/learning' component={LearningPage} />

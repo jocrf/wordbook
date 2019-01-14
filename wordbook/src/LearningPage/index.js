@@ -4,8 +4,6 @@ import ExercisePage from '../ExercisePage';
 import TableOfContents from '../TableOfContents';
 
 export default class LearningPage extends Component {
-  // TODO: after a quiz is done, will need to give navigation controls to continue quizzing or go elsewhere
-
   render () {
     return (
       <React.Fragment>
@@ -19,6 +17,7 @@ export default class LearningPage extends Component {
             exercise={match.params.exercise}
           />}
         />
+        {/* if review test */}
         <Route
           path='/learning/level/:level/section/:section/review/:review'
           render={({ match }) => <ExercisePage

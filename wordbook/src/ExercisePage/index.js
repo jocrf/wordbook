@@ -5,27 +5,27 @@ import NavPanel from '../NavPanel';
 // TODO will get from database based on props!
 // {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
 var data = {
-  'type': 'review',
-  'wordList': [
-    'quivered',
-    'smudges',
-    'depart'
-  ],
+  'type': 'tf',
   'questions': [
     {
-      'part1': 'His han....',
-      'part2': 'with nervousness as he tried to put the key in the lock.',
-      'answer': 'quivered'
+      'prompt': 'Mary tried to IMITATE her older sister in everything she did.',
+      'word': 'IMITATE',
+      'correct': 'true'
     },
     {
-      'part1': 'The dirty eraser made all kinds of',
-      'part2': 'on the clean paper.',
-      'answer': 'smudges'
+      'prompt': 'He SQUIRMED with displeasure whenever someone called him by his real     name.',
+      'word': 'SQUIRM',
+      'correct': 'true'
     },
     {
-      'part1': 'When it was time to.',
-      'part2': 'we got in the car and drove away.',
-      'answer': 'depart'
+      'prompt': 'We chatted SOCIABLY for a while over a cup of tea.',
+      'word': 'SOCIABLE',
+      'correct': 'true'
+    },
+    {
+      'prompt': 'He received several awards for his ACHIEVEMENTS in science.',
+      'word': 'ACHIEVE',
+      'correct': 'true'
     }
   ]
 };
@@ -71,13 +71,14 @@ export default class ExercisePage extends Component {
         }
         {this.state.isQuizzing &&
           <React.Fragment>
+            {/* TODO: get below info dynamically */}
             <h1>Title of exercise</h1>
             <p>Instructions</p>
             <p>Example question, sometimes</p>
             <Exercise
               questions={data.questions}
               questionType={data.type}
-              questionsToShow={data.type === 'placement' ? 1 : null}
+              questionsToShow={data.type === 'placement' || data.type === 'review' ? 1 : null}
               wordlist={data.wordList}
               onQuizCompleted={this.onQuizCompleted}
               toggleQuizState={this.toggleQuizState}

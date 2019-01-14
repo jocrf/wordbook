@@ -70,9 +70,9 @@ export default class Exercise extends Component {
   render () {
     switch (this.props.questionType) {
       case 'mc':
-        return this.renderAll();
+        return this.renderAll('mc');
       case 'tf':
-        return this.renderAllTf();
+        return this.renderAll('tf');
       case 'placement':
         return this.renderOne('placement');
       case 'review':
@@ -81,38 +81,39 @@ export default class Exercise extends Component {
         return <div>Default question</div>;
     }
   }
-  renderAll () {
-    return (
-      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-        {this.props.questions.map(currentQuestion =>
-          <MultipleChoice
-            key={currentQuestion.correct}
-            prompt={currentQuestion.prompt}
-            answers={currentQuestion.answers}
-            correctAnswer={currentQuestion.correct}
-            onChange={this.changeHandler}
-            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-            // TODO word
-          />
-        )}
-      </QuestionWrapper>
-    );
-  }
-  renderAllTf () {
-    return (
-      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-        {this.props.questions.map(currentQuestion =>
-          <TrueFalse
-            key={currentQuestion.prompt}
-            prompt={currentQuestion.prompt}
-            correctAnswer={currentQuestion.correct}
-            onChange={this.changeHandler}
-            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-            // TODO word
-          />
-        )}
-      </QuestionWrapper>
-    );
+  renderAll (type) {
+    if (type === 'mc') {
+      return (
+        <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+          {this.props.questions.map(currentQuestion =>
+            <MultipleChoice
+              key={currentQuestion.correct}
+              prompt={currentQuestion.prompt}
+              answers={currentQuestion.answers}
+              correctAnswer={currentQuestion.correct}
+              onChange={this.changeHandler}
+              correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+              // TODO word
+            />
+          )}
+        </QuestionWrapper>
+      );
+    } else if (type === 'tf') {
+      return (
+        <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+          {this.props.questions.map(currentQuestion =>
+            <TrueFalse
+              key={currentQuestion.prompt}
+              prompt={currentQuestion.prompt}
+              correctAnswer={currentQuestion.correct}
+              onChange={this.changeHandler}
+              correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+              // TODO word
+            />
+          )}
+        </QuestionWrapper>
+      );
+    }
   }
   // below method for placement, pretest, and review quizzes
   renderOne (type) {
