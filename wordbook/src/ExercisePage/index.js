@@ -37,6 +37,7 @@ export default class ExercisePage extends Component {
     this.onQuizCompleted = this.onQuizCompleted.bind(this);
     this.toggleQuizState = this.toggleQuizState.bind(this);
     this.state = {
+      chapter: '',
       isQuizzing: false,
       quizCompleted: false
     };
@@ -44,8 +45,8 @@ export default class ExercisePage extends Component {
 
   componentDidMount () {
     const { level, section, wordset, exercise } = this.props;
-    const data = get(level, section, wordset, exercise);
-    console.log(data);
+    get(level, section, wordset, exercise)
+      .then(data => this.setState({ chapter: data }));
   }
 
   componentDidUpdate (prevProps) {
