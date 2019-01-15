@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Exercise from '../Exercise';
 import NavPanel from '../NavPanel';
+import { get } from '../API';
 
 // TODO will get from database based on props!
 // {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
@@ -39,6 +40,12 @@ export default class ExercisePage extends Component {
       isQuizzing: false,
       quizCompleted: false
     };
+  }
+
+  componentDidMount () {
+    const { level, section, wordset, exercise } = this.props;
+    const data = get(level, section, wordset, exercise);
+    console.log(data);
   }
 
   componentDidUpdate (prevProps) {

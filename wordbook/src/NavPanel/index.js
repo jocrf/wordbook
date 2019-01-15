@@ -15,6 +15,7 @@ export default withRouter(class NavPanel extends Component {
     let nextExercise = null;
     const { level, section, wordset, exercise } = this.props;
     const currentWordsetExercises = levels[level - 1].sections[section - 1].wordsets[wordset - 1].exercises;
+    console.log(currentWordsetExercises);
     switch (exercise) {
       case '1':
       case '2':

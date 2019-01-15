@@ -1,28 +1,33 @@
 export const getPlacement = (name) => {
-  const fileName = convertFileName(name);
+  const fileName = getFile(name);
   return fetch(fileName)
     .then(response => response.json());
 };
 
-export const convertChapterName = (name, chapter) => {
-  let str = 'level.chapter.pdf';
-  console.log(str.replace('level', name).replace('chapter', chapter));
-  return str.replace('level', name).replace('chapter', chapter);
+export const convertChapterName = (level, section) => {
+  let str = 'level.section';
+  console.log(str.replace('level', level).replace('section', section));
+  return str.replace('level', level).replace('section', section);
 };
 
-export const convertFileName = (name) => {
+export const getFile = (name) => {
   const fileNames = {
-    0: '/placementdata.json',
-    1: '/level_1.json'
+    0: '.public/placementdata.json',
+    8: 'http://localhost:3000/level-8-trial.json'
   };
   return fileNames[name];
 };
 
-export const get = (name, chapter) => {
-  const fileName = convertFileName(name);
-  const arrItem = convertChapterName(name, chapter);
-  console.log(arrItem);
+export const get = (level, section, wordset, exercise) => {
+  const chapterName = convertChapterName(level, section);
+  const fileName = getFile(level);
   return fetch(fileName)
-    .then(response => response.filter(chapter => chapter.file_name === arrItem))
-    .then(response => response.json());
+    .then(response => response.json())
+    .then(response => {
+      for (let key in response) {
+        if (response[key].title === chapterName) {
+          return response[key];
+        }
+      }
+    });
 };
