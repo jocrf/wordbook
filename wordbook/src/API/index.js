@@ -4,29 +4,24 @@ export const getPlacement = (name) => {
     .then(response => response.json());
 };
 
-export const convertChapterName = (level, section) => {
-  let str = 'level.section';
-  console.log(str.replace('level', level).replace('section', section));
-  return str.replace('level', level).replace('section', section);
-};
-
 export const getFile = (name) => {
   const fileNames = {
-    0: '.public/placementdata.json',
-    8: 'http://localhost:3000/level-8-trial.json'
+    0: 'http://localhost:3000/placementdata.json',
+    8: 'http://localhost:3000/new-level-8-trial.json'
   };
   return fileNames[name];
 };
 
-export const get = (level, section, wordset, exercise) => {
-  const chapterName = convertChapterName(level, section);
+export const getExercise = (level, section, wordset, exercise) => {
+  // correct for zero-indexing
   const fileName = getFile(level);
   return fetch(fileName)
     .then(response => response.json())
     .then(response => {
-      for (let key in response) {
-        if (response[key].title === chapterName) {
-          return response[key];
+      let selectedSection = response.sections[section - 1];
+      for (let key in selectedSection.wordsets) {
+        if (+selectedSection.wordsets[key].wordset === (wordset - 1)) {
+          return selectedSection.wordsets[key][exercise];
         }
       }
     });
