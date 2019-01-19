@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Exercise from '../Exercise';
 import NavPanel from '../NavPanel';
-import { getExercise } from '../API';
+import { getExercise, getPlacement } from '../API';
 
 // {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
 
@@ -14,7 +14,8 @@ export default class ExercisePage extends Component {
     this.state = {
       chapter: {},
       isQuizzing: false,
-      quizCompleted: false
+      quizCompleted: false,
+      placement: {}
     };
   }
 
@@ -34,6 +35,10 @@ export default class ExercisePage extends Component {
   }
 
   populateData () {
+    if (this.props.match.path === '/placement') {
+      return getPlacement()
+        .then(data => this.setState({ placement: data }));
+    }
     const { level, section, wordset, exercise, review } = this.props;
     getExercise(level, section, wordset, exercise, review)
       .then(data => this.setState({ chapter: data }));

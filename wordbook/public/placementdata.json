@@ -1,5 +1,4 @@
 {
-  "placementquiz": {
     "instructions": "This multiple-choice quiz will determine which wordbook level is right for you. Each test word will be shown in BOLD CAPITAL letters in a phrase. From the five choices, select the one that comes closest in meaning to the meaning of the test word.",
     "type": "placement",
     "groups": [
@@ -924,5 +923,4 @@
         ]
       }
     ]
-  }
 }

@@ -1,5 +1,5 @@
-export const getPlacement = (name) => {
-  const fileName = getFile(name);
+export const getPlacement = () => {
+  const fileName = getFile(0);
   return fetch(fileName)
     .then(response => response.json());
 };
