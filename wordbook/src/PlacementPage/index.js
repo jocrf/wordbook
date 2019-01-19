@@ -9,9 +9,6 @@ export default class PlacementPage extends Component {
       group: 0
     };
   }
-  componentDidMount () {
-    this.setState({ group: 1 });
-  }
 
   render () {
     return (
@@ -21,7 +18,7 @@ export default class PlacementPage extends Component {
           path='/placement/:group'
           render={({ match }) => <ExercisePage
             group={match.params.group}
-            placement='placement'
+            placement='true'
           />}
         />
       </React.Fragment>

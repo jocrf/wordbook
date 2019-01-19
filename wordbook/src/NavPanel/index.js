@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import levels from '../TableOfContents/levels-config';
 import { withRouter } from 'react-router-dom';
 
 export default withRouter(class NavPanel extends Component {
@@ -13,20 +12,26 @@ export default withRouter(class NavPanel extends Component {
 
   incrementExercise () {
     let nextExercise = null;
-    const { level, section, wordset, exercise } = this.props;
-    const currentWordsetExercises = levels[level - 1].sections[section - 1].wordsets[wordset - 1].exercises;
-    console.log(currentWordsetExercises);
-    switch (exercise) {
-      case '1':
-      case '2':
-        nextExercise = +exercise + 1;
-        break;
-      case 'pretest':
-        nextExercise = 1;
-        break;
-      case '3':
+    const { exercise, group } = this.props;
+    if (group) {
+      if (group <= 8) {
+        nextExercise = +group + 1;
+      } else {
         nextExercise = null;
-        break;
+      }
+    } else {
+      switch (exercise) {
+        case '1':
+        case '2':
+          nextExercise = +exercise + 1;
+          break;
+        case 'pretest':
+          nextExercise = 1;
+          break;
+        case '3':
+          nextExercise = null;
+          break;
+      }
     }
     if (nextExercise) {
       const currentUrl = this.props.match.url;

@@ -1,7 +1,8 @@
-export const getPlacement = () => {
+export const getPlacement = (level) => {
   const fileName = getFile(0);
   return fetch(fileName)
-    .then(response => response.json());
+    .then(response => response.json())
+    .then(response => response.groups[level]);
 };
 
 export const getFile = (name) => {

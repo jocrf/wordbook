@@ -11,7 +11,7 @@ export default class TableOfContents extends Component {
         {/* TODO: add a back button for navigation */}
         <h1>Table Of Contents</h1>
         <ul>
-          {levels.levels.map(level => (
+          {levels.map(level => (
             <li key={level.title}><NavLink to={`/learning/level/${level.title}`}>Level {level.title}</NavLink></li>
           ))}
         </ul>

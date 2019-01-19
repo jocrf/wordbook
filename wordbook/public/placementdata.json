@@ -3,6 +3,7 @@
     "type": "placement",
     "groups": [
       {
+        "type": "mc-one",
         "title": "Group One",
         "questions": [
           {
@@ -118,6 +119,7 @@
         ]
       },
       {
+        "type": "mc-one",
         "title": "Group Two",
         "questions": [
           {
@@ -233,6 +235,7 @@
          ]
       },
       {
+        "type": "mc-one",
         "title": "Group Three",
         "questions": [
           {
@@ -348,6 +351,7 @@
         ]
       },
       {
+        "type": "mc-one",
         "title": "Group Four",
         "questions": [
           {
@@ -463,6 +467,7 @@
          ]
       },
       {
+        "type": "mc-one",
         "title": "Group Five",
         "questions": [
           {
@@ -578,6 +583,7 @@
         ]
       },
       {
+        "type": "mc-one",
         "title": "Group Six",
         "questions": [
           {
@@ -693,6 +699,7 @@
         ]
       },
       {
+        "type": "mc-one",
         "title": "Group Seven",
         "questions": [
           {
@@ -808,6 +815,7 @@
         ]
       },
       {
+        "type": "mc-one",
         "title": "Group Eight",
         "questions": [
           {
