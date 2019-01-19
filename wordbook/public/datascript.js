@@ -34,13 +34,27 @@ for (var ch = 0; ch < level.length; ch++) {
 newLevel.sections.forEach(function (section) {
     section.reviewTest.type = 'fitb';
     for (let i = 0; i < section.wordsets.length; i++) {
-        section.wordsets[i].wordset = i;
-        section.wordsets[i].pretest.type = 'mc-one';
-        section.wordsets[i].exercise_1.type = 'tf';
-        section.wordsets[i].exercise_2.type = 'tf';
-        section.wordsets[i].exercise_3.type = 'mc-all';
+        const selection = section.wordsets[i];
+        selection.id = i;
+        const exercises = [];
+        selection.pretest.type = 'mc-one';
+        selection.pretest.id = 'pretest';
+        selection.exercise_1.type = 'tf';
+        selection.exercise_1.id = 1;
+        selection.exercise_2.type = 'tf';
+        selection.exercise_2.id = 2;
+        selection.exercise_3.type = 'mc-all';
+        selection.exercise_3.id = 3;
+        exercises.push(selection.pretest, selection.exercise_1, selection.exercise_2, selection.exercise_3);
+        selection.exercises = exercises;
+        delete selection.pretest;
+        delete selection.exercise_1;
+        delete selection.exercise_2;
+        delete selection.exercise_3;
     }
 })
+
+// console.log(JSON.stringify(newLevel, null, 2));
 
 fs.writeFileSync(
     path.join(__dirname, 'new-level-8-trial.json'),

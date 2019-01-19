@@ -18,7 +18,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -40,7 +40,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -62,7 +62,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -96,7 +96,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -118,7 +118,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -140,7 +140,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -174,7 +174,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -196,7 +196,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -218,7 +218,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -252,7 +252,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -274,7 +274,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -296,7 +296,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -336,7 +336,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -358,7 +358,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -380,7 +380,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -414,7 +414,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -436,7 +436,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -458,7 +458,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -492,7 +492,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -514,7 +514,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -536,7 +536,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -570,7 +570,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -592,7 +592,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -614,7 +614,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -654,7 +654,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -676,7 +676,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -698,7 +698,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -732,7 +732,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -754,7 +754,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -776,7 +776,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -810,7 +810,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -832,7 +832,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -854,7 +854,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -888,7 +888,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -910,7 +910,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -932,7 +932,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -972,7 +972,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -994,7 +994,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1016,7 +1016,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1050,7 +1050,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1072,7 +1072,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1094,7 +1094,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1128,7 +1128,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1150,7 +1150,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1172,7 +1172,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1206,7 +1206,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1228,7 +1228,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1250,7 +1250,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1290,7 +1290,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1312,7 +1312,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1334,7 +1334,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1368,7 +1368,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1390,7 +1390,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1412,7 +1412,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1446,7 +1446,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1468,7 +1468,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1490,7 +1490,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1524,7 +1524,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1546,7 +1546,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1568,7 +1568,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1608,7 +1608,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1630,7 +1630,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1652,7 +1652,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1686,7 +1686,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1708,7 +1708,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1730,7 +1730,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1764,7 +1764,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1786,7 +1786,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1808,7 +1808,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1842,7 +1842,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1864,7 +1864,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1886,7 +1886,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1926,7 +1926,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1948,7 +1948,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -1970,7 +1970,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2004,7 +2004,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2026,7 +2026,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2048,7 +2048,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2082,7 +2082,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2104,7 +2104,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2126,7 +2126,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2160,7 +2160,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2182,7 +2182,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2204,7 +2204,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2244,7 +2244,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2266,7 +2266,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2288,7 +2288,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2322,7 +2322,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2344,7 +2344,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2366,7 +2366,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2400,7 +2400,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2422,7 +2422,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2444,7 +2444,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2478,7 +2478,7 @@ export default [
             title: 1,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2500,7 +2500,7 @@ export default [
             title: 2,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {
@@ -2522,7 +2522,7 @@ export default [
             title: 3,
             exercises: [
               {
-                id: 'pretest',
+                id: '0',
                 title: 'Pretest'
               },
               {

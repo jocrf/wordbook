@@ -13,6 +13,7 @@ export const getFile = (name) => {
 };
 
 export const getExercise = (level, section, wordset, exercise) => {
+  console.log('in API Call getting exercise ' + exercise);
   // correct for zero-indexing
   const fileName = getFile(level);
   return fetch(fileName)
@@ -20,8 +21,8 @@ export const getExercise = (level, section, wordset, exercise) => {
     .then(response => {
       let selectedSection = response.sections[section - 1];
       for (let key in selectedSection.wordsets) {
-        if (+selectedSection.wordsets[key].wordset === (wordset - 1)) {
-          return selectedSection.wordsets[key][exercise];
+        if (+selectedSection.wordsets[key].id === (wordset - 1)) {
+          return selectedSection.wordsets[key].exercises[exercise];
         }
       }
     });

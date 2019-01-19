@@ -9,6 +9,7 @@ export default class ExercisePage extends Component {
   constructor (props) {
     super(props);
     this.onQuizCompleted = this.onQuizCompleted.bind(this);
+    this.populateData = this.populateData.bind(this);
     this.toggleQuizState = this.toggleQuizState.bind(this);
     this.state = {
       chapter: {},
@@ -18,19 +19,26 @@ export default class ExercisePage extends Component {
   }
 
   componentDidMount () {
-    const { level, section, wordset, exercise } = this.props;
-    getExercise(level, section, wordset, exercise)
-      .then(data => this.setState({ chapter: data }));
+    this.populateData();
   }
 
   componentDidUpdate (prevProps) {
+    console.log('component updating');
     if (prevProps.exercise !== this.props.exercise) {
       this.setState({ isQuizzing: false, quizCompleted: false });
+      this.populateData();
     }
   }
 
   onQuizCompleted () {
     this.setState({ quizCompleted: true, isQuizzing: false });
+  }
+
+  populateData () {
+    const { level, section, wordset, exercise } = this.props;
+    console.log(`populating data with ${exercise} exercise`);
+    getExercise(level, section, wordset, exercise)
+      .then(data => this.setState({ chapter: data }));
   }
 
   toggleQuizState () {
