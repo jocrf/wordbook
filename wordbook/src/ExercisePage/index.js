@@ -23,7 +23,6 @@ export default class ExercisePage extends Component {
   }
 
   componentDidUpdate (prevProps) {
-    console.log('component updating');
     if (prevProps.exercise !== this.props.exercise) {
       this.setState({ isQuizzing: false, quizCompleted: false });
       this.populateData();
@@ -35,9 +34,8 @@ export default class ExercisePage extends Component {
   }
 
   populateData () {
-    const { level, section, wordset, exercise } = this.props;
-    console.log(`populating data with ${exercise} exercise`);
-    getExercise(level, section, wordset, exercise)
+    const { level, section, wordset, exercise, review } = this.props;
+    getExercise(level, section, wordset, exercise, review)
       .then(data => this.setState({ chapter: data }));
   }
 
