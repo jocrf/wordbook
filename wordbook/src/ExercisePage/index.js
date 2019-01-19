@@ -35,7 +35,7 @@ export default class ExercisePage extends Component {
   }
 
   populateData () {
-    if (this.props.match.path === '/placement') {
+    if (this.props.placement) {
       return getPlacement()
         .then(data => this.setState({ placement: data }));
     }

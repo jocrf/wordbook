@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { NavLink, Route } from 'react-router-dom';
 import Level from './Level';
 import levels from './levels-config';
+// import placementLevels from './placement-config';
 
 export default class TableOfContents extends Component {
   render () {
@@ -10,7 +11,7 @@ export default class TableOfContents extends Component {
         {/* TODO: add a back button for navigation */}
         <h1>Table Of Contents</h1>
         <ul>
-          {levels.map(level => (
+          {levels.levels.map(level => (
             <li key={level.title}><NavLink to={`/learning/level/${level.title}`}>Level {level.title}</NavLink></li>
           ))}
         </ul>
