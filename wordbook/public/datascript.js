@@ -29,10 +29,16 @@ for (var ch = 0; ch < level.length; ch++) {
 }
 
 // retitle sections
+
 // TODO: add in type for each exercise
 newLevel.sections.forEach(function (section) {
+    section.reviewTest.type = 'fitb';
     for (let i = 0; i < section.wordsets.length; i++) {
         section.wordsets[i].wordset = i;
+        section.wordsets[i].pretest.type = 'mc-one';
+        section.wordsets[i].exercise_1.type = 'tf';
+        section.wordsets[i].exercise_2.type = 'tf';
+        section.wordsets[i].exercise_3.type = 'mc-all';
     }
 })
 

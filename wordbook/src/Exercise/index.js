@@ -69,20 +69,20 @@ export default class Exercise extends Component {
 
   render () {
     switch (this.props.questionType) {
-      case 'mc':
-        return this.renderAll('mc');
+      case 'mc-all':
+        return this.renderAll('mc-all');
       case 'tf':
         return this.renderAll('tf');
-      case 'placement':
-        return this.renderOne('placement');
-      case 'review':
-        return this.renderOne('review');
+      case 'mc-one':
+        return this.renderOne('mc-one');
+      case 'fitb':
+        return this.renderOne('fitb');
       default:
         return <div>Default question</div>;
     }
   }
   renderAll (type) {
-    if (type === 'mc') {
+    if (type === 'mc-all') {
       return (
         <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
           {this.props.questions.map(currentQuestion =>
@@ -118,7 +118,7 @@ export default class Exercise extends Component {
   // below method for placement, pretest, and review quizzes
   renderOne (type) {
     const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
-    if (type === 'placement') {
+    if (type === 'mc-one') {
       return (
         <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
           <MultipleChoice
@@ -132,7 +132,7 @@ export default class Exercise extends Component {
           />
         </QuestionWrapper>
       );
-    } else if (type === 'review') {
+    } else if (type === 'fitb') {
       return (
         <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
           <Wordlist

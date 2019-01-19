@@ -186,7 +186,8 @@
                 "word": "VAGARY",
                 "correct": "whim"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -265,7 +266,8 @@
                 "word": "VAGARY",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -344,7 +346,8 @@
                 "word": "VAGARY",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -498,7 +501,8 @@
                 "word": "VAGARY",
                 "correct": "1"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "EVINCE": {
@@ -778,7 +782,8 @@
                 "word": "LACHRYMOSE",
                 "correct": "tearful"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -857,7 +862,8 @@
                 "word": "LACHRYMOSE",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -936,7 +942,8 @@
                 "word": "LACHRYMOSE",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -1090,7 +1097,8 @@
                 "word": "LACHRYMOSE",
                 "correct": "0"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "ACETOUS": {
@@ -1370,7 +1378,8 @@
                 "word": "CALUMNY",
                 "correct": "slander"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -1449,7 +1458,8 @@
                 "word": "CALUMNY",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -1528,7 +1538,8 @@
                 "word": "CALUMNY",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -1682,7 +1693,8 @@
                 "word": "CALUMNY",
                 "correct": "2"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "PUERILE": {
@@ -2053,7 +2065,8 @@
             "part2": "their pleasure by shouting happily and jumping up and down.",
             "answer": "evinced"
           }
-        ]
+        ],
+        "type": "fitb"
       }
     },
     {
@@ -2242,7 +2255,8 @@
                 "word": "CANARD",
                 "correct": "false story"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -2321,7 +2335,8 @@
                 "word": "CANARD",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -2400,7 +2415,8 @@
                 "word": "CANARD",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -2554,7 +2570,8 @@
                 "word": "CANARD",
                 "correct": "2"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "CAVIL": {
@@ -2834,7 +2851,8 @@
                 "word": "INIMICAL",
                 "correct": "hostile"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -2913,7 +2931,8 @@
                 "word": "INIMICAL",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -2992,7 +3011,8 @@
                 "word": "INIMICAL",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -3146,7 +3166,8 @@
                 "word": "INIMICAL",
                 "correct": "2"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "CAPACIOUS": {
@@ -3426,7 +3447,8 @@
                 "word": "MAELSTROM",
                 "correct": "whirlpool"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -3505,7 +3527,8 @@
                 "word": "MAELSTROM",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -3584,7 +3607,8 @@
                 "word": "MAELSTROM",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -3738,7 +3762,8 @@
                 "word": "MAELSTROM",
                 "correct": 1
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "NASCENT": {
@@ -4109,7 +4134,8 @@
             "part2": "patient complained about everything from the nurses to the food.",
             "answer": "querulous"
           }
-        ]
+        ],
+        "type": "fitb"
       }
     },
     {
@@ -4298,7 +4324,8 @@
                 "word": "SPATE",
                 "correct": "flood"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -4377,7 +4404,8 @@
                 "word": "SPATE",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -4456,7 +4484,8 @@
                 "word": "SPATE",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -4610,7 +4639,8 @@
                 "word": "SPATE",
                 "correct": "2"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "RATIOCINATION": {
@@ -4890,7 +4920,8 @@
                 "word": "COMITY",
                 "correct": "civility"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -4969,7 +5000,8 @@
                 "word": "COMITY",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -5048,7 +5080,8 @@
                 "word": "COMITY",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -5202,7 +5235,8 @@
                 "word": "COMITY",
                 "correct": "1"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "APPOSITE": {
@@ -5482,7 +5516,8 @@
                 "word": "SATURNINE",
                 "correct": "gloomy"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -5561,7 +5596,8 @@
                 "word": "SATURNINE",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -5640,7 +5676,8 @@
                 "word": "SATURNINE",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -5794,7 +5831,8 @@
                 "word": "SATURNINE",
                 "correct": "1"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "TURPITUDE": {
@@ -6164,7 +6202,8 @@
             "part2": "banning motorcycles from the campus.",
             "answer": "ukase"
           }
-        ]
+        ],
+        "type": "fitb"
       }
     },
     {
@@ -6353,7 +6392,8 @@
                 "word": "STERTOROUS",
                 "correct": "snoring"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -6432,7 +6472,8 @@
                 "word": "STERTOROUS",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -6511,7 +6552,8 @@
                 "word": "STERTOROUS",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -6665,7 +6707,8 @@
                 "word": "STERTOROUS",
                 "correct": "0"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "ARCANE": {
@@ -6945,7 +6988,8 @@
                 "word": "PRODIGAL",
                 "correct": "extravagant"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -7024,7 +7068,8 @@
                 "word": "PRODIGAL",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -7103,7 +7148,8 @@
                 "word": "PRODIGAL",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -7257,7 +7303,8 @@
                 "word": "PRODIGAL",
                 "correct": "0"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "SUBORN": {
@@ -7537,7 +7584,8 @@
                 "word": "OTIOSE",
                 "correct": "idle"
               }
-            ]
+            ],
+            "type": "mc-one"
           },
           "exercise_1": {
             "questions": [
@@ -7616,7 +7664,8 @@
                 "word": "OTIOSE",
                 "correct": "false"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_2": {
             "questions": [
@@ -7695,7 +7744,8 @@
                 "word": "OTIOSE",
                 "correct": "true"
               }
-            ]
+            ],
+            "type": "tf"
           },
           "exercise_3": {
             "questions": [
@@ -7849,7 +7899,8 @@
                 "word": "OTIOSE",
                 "correct": "1"
               }
-            ]
+            ],
+            "type": "mc-all"
           },
           "definitions": {
             "EQUABLE": {
@@ -8220,7 +8271,8 @@
             "part2": "of the Latin love poems omitted many of the more erotic passages.",
             "answer": "redaction"
           }
-        ]
+        ],
+        "type": "fitb"
       }
     }
   ]
