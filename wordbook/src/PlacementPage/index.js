@@ -5,9 +5,16 @@ import ExercisePage from '../ExercisePage';
 export default class PlacementPage extends Component {
   constructor (props) {
     super(props);
+    this.markWrongAnswers = this.markWrongAnswers.bind(this);
     this.state = {
-      group: 0
+      group: 0,
+      wrongAnswers: 0
     };
+  }
+
+  markWrongAnswers () {
+    console.log('marking answer wrong');
+    this.setState((prevState) => ({ wrongAnswers: prevState.wrongAnswers + 1 }));
   }
 
   render () {
@@ -17,8 +24,9 @@ export default class PlacementPage extends Component {
         <Route
           path='/placement/:group'
           render={({ match }) => <ExercisePage
-            group={match.params.group}
+            exercise={match.params.group}
             placement='true'
+            markWrongAnswers={this.markWrongAnswers}
           />}
         />
       </React.Fragment>

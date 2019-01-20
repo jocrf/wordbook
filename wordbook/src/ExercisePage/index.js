@@ -35,7 +35,7 @@ export default class ExercisePage extends Component {
 
   populateData () {
     if (this.props.placement) {
-      return getPlacement(this.props.group)
+      return getPlacement(this.props.exercise)
         .then(data => this.setState({ chapter: data }));
     }
     const { level, section, wordset, exercise, review } = this.props;
@@ -75,6 +75,7 @@ export default class ExercisePage extends Component {
               wordlist={this.state.chapter.wordList}
               onQuizCompleted={this.onQuizCompleted}
               toggleQuizState={this.toggleQuizState}
+              markWrongAnswers={this.props.markWrongAnswers}
             />
           </React.Fragment>
         }

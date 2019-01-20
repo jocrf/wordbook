@@ -64,7 +64,6 @@ export default class Exercise extends Component {
     }
   }
 
-  // TODO for review test, use renderOne fn to show questions and add a new Wordlist component
   // TODO flexible render method that displays the # of questions passed in as questionsToShow
 
   render () {
@@ -127,6 +126,7 @@ export default class Exercise extends Component {
             correctAnswer={currentQuestion.correct}
             onChange={this.changeHandler}
             correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+            markWrongAnswers={this.props.markWrongAnswers} // for placement
             // TODO showDefinition boolean for pretest, after question is answered
             // TODO word
           />

@@ -10,6 +10,14 @@ export default class MultipleChoice extends Component {
     this.props.onChange(this.props.prompt, e.target.value);
   }
 
+  componentDidUpdate (prevProps) {
+    if (prevProps.prompt !== this.props.prompt) {
+      if (!prevProps.correct) {
+        this.props.markWrongAnswers();
+      }
+    }
+  }
+
   render () {
     const { answers, prompt } = this.props;
     return (
