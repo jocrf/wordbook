@@ -24,7 +24,9 @@ export default class PlacementPage extends Component {
         <Route
           path='/placement/:group'
           render={({ match }) => <ExercisePage
-            exercise={match.params.group}
+            passed={this.state.wrongAnswers < 2 ? 'pass' : null}
+            exercise={match.params.group} // for exercise and question components
+            group={match.params.group} // for nav panel
             placement='true'
             markWrongAnswers={this.markWrongAnswers}
           />}

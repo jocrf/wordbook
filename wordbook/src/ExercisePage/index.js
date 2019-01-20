@@ -56,6 +56,7 @@ export default class ExercisePage extends Component {
             wordset={this.props.wordset}
             section={this.props.section}
             exercise={this.props.exercise}
+            group={this.props.group}
             review={this.props.review}
             quizCompleted={this.state.quizCompleted}
             toggleQuizState={this.toggleQuizState}

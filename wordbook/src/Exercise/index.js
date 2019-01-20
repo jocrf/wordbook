@@ -57,7 +57,8 @@ export default class Exercise extends Component {
     if (this.state.currentQuestionIndex < this.props.questions.length - 1) {
       this.setState((state) => ({
         currentQuestionIndex: state.currentQuestionIndex + numQuestions,
-        buttonText: 'Check Answer'
+        buttonText: 'Check Answer',
+        showAnswers: false
       }));
     } else {
       this.endQuiz();
