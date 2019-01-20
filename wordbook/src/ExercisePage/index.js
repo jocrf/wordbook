@@ -62,6 +62,7 @@ export default class ExercisePage extends Component {
             review={this.props.review}
             quizCompleted={this.state.quizCompleted}
             toggleQuizState={this.toggleQuizState}
+            placement={this.props.placement}
           />
         }
         {this.state.isQuizzing &&
