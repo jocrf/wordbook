@@ -12,9 +12,10 @@ export default withRouter(class NavPanel extends Component {
 
   incrementExercise () {
     let nextExercise = null;
+    // group for placement, exercise for LearningPage
     const { exercise, group } = this.props;
     if (group) {
-      if (group <= 8) {
+      if (group < 8 && this.props.passed) { // hard-coded based on placement data
         nextExercise = +group + 1;
       } else {
         nextExercise = null;

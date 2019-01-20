@@ -6,6 +6,7 @@ export default class PlacementPage extends Component {
   constructor (props) {
     super(props);
     this.markWrongAnswers = this.markWrongAnswers.bind(this);
+    this.resetAnswers = this.resetAnswers.bind(this);
     this.state = {
       group: 0,
       wrongAnswers: 0
@@ -15,6 +16,10 @@ export default class PlacementPage extends Component {
   markWrongAnswers () {
     console.log('marking answer wrong');
     this.setState((prevState) => ({ wrongAnswers: prevState.wrongAnswers + 1 }));
+  }
+
+  resetAnswers () {
+    this.setState({ wrongAnswers: 0 });
   }
 
   render () {
@@ -29,6 +34,7 @@ export default class PlacementPage extends Component {
             group={match.params.group} // for nav panel
             placement='true'
             markWrongAnswers={this.markWrongAnswers}
+            resetAnswers={this.resetAnswers}
           />}
         />
       </React.Fragment>

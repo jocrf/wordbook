@@ -35,6 +35,7 @@ export default class ExercisePage extends Component {
 
   populateData () {
     if (this.props.placement) {
+      this.props.resetAnswers();
       return getPlacement(this.props.exercise)
         .then(data => this.setState({ chapter: data }));
     }
@@ -57,6 +58,7 @@ export default class ExercisePage extends Component {
             section={this.props.section}
             exercise={this.props.exercise}
             group={this.props.group}
+            passed={this.props.passed}
             review={this.props.review}
             quizCompleted={this.state.quizCompleted}
             toggleQuizState={this.toggleQuizState}
