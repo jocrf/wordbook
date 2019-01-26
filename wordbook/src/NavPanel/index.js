@@ -21,12 +21,13 @@ export default withRouter(class NavPanel extends Component {
         nextExercise = null;
       }
     } else {
+      // eslint-disable-next-line default-case
       switch (exercise) {
         case '1':
         case '2':
           nextExercise = +exercise + 1;
           break;
-        case 'pretest':
+        case '0':
           nextExercise = 1;
           break;
         case '3':
