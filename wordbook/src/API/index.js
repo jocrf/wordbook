@@ -6,7 +6,7 @@ export const getPlacement = (level) => {
 };
 
 export const getFile = (name) => {
-  // TODO: hard-coded relative paths below
+  // TODO: if these files remain in the public folder, substitute '%PUBLIC_URL%' for first part of URL to build correctly, BUT the files won't be minified or post-processed if they stay here
   const fileNames = {
     0: 'http://localhost:3000/placementdata.json',
     3: 'http://localhost:3000/new-level-3-trial.json',
