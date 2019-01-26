@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const level = require('./level-8-trial.json');
+const level = require('./level-3-trial');
 
 const newLevel = {sections: []};
 // go through the chapters
@@ -30,7 +30,6 @@ for (var ch = 0; ch < level.length; ch++) {
 
 // retitle sections
 
-// TODO: add in type for each exercise
 newLevel.sections.forEach(function (section) {
     section.reviewTest.type = 'fitb';
     for (let i = 0; i < section.wordsets.length; i++) {
@@ -57,6 +56,6 @@ newLevel.sections.forEach(function (section) {
 // console.log(JSON.stringify(newLevel, null, 2));
 
 fs.writeFileSync(
-    path.join(__dirname, 'new-level-8-trial.json'),
+    path.join(__dirname, 'new-level-3-trial.json'),
     JSON.stringify(newLevel, null, 2)
 );

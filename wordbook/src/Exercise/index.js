@@ -127,6 +127,7 @@ export default class Exercise extends Component {
             correctAnswer={currentQuestion.correct}
             onChange={this.changeHandler}
             correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+            placement={this.props.placement}
             markWrongAnswers={this.props.markWrongAnswers} // for placement
             // TODO showDefinition boolean for pretest, after question is answered
             // TODO word

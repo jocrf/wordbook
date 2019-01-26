@@ -80,6 +80,7 @@ export default class ExercisePage extends Component {
               onQuizCompleted={this.onQuizCompleted}
               toggleQuizState={this.toggleQuizState}
               markWrongAnswers={this.props.markWrongAnswers}
+              placement={this.props.placement}
             />
           </React.Fragment>
         }

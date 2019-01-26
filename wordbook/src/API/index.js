@@ -6,8 +6,10 @@ export const getPlacement = (level) => {
 };
 
 export const getFile = (name) => {
+  // TODO: hard-coded relative paths below
   const fileNames = {
     0: 'http://localhost:3000/placementdata.json',
+    3: 'http://localhost:3000/new-level-3-trial.json',
     8: 'http://localhost:3000/new-level-8-trial.json'
   };
   return fileNames[name];
