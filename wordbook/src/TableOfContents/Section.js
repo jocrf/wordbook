@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { Route, NavLink } from 'react-router-dom';
-import Wordset from './Wordset';
+import { NavLink } from 'react-router-dom';
 import levels from './levels-config';
 
 export default class Section extends Component {
@@ -11,8 +10,8 @@ export default class Section extends Component {
 
     return (
       <React.Fragment>
-        <h2>Section {section.title}</h2>
-        <ul>
+        <ul className='nav-item dropdown'>
+          <h2 className='dropdown-header'>Section {section.title}</h2>
           {section.wordsets.map(wordset => (
             <li key={wordset.title}>
               <NavLink to={`${url}/wordset/${wordset.title}`}>Wordset {wordset.title}</NavLink>
@@ -24,10 +23,6 @@ export default class Section extends Component {
             </li>
           ))}
         </ul>
-        <Route
-          path='/learning/level/:level/section/:section/wordset/:wordset'
-          render={({ match }) => <Wordset section={match.params.section} level={match.params.level} wordset={match.params.wordset} url={match.url} />}
-        />
       </React.Fragment>
     );
   }

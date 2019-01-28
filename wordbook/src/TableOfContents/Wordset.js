@@ -11,8 +11,8 @@ export default class Wordset extends Component {
 
     return (
       <React.Fragment>
-        <h2>Wordset {wordset.title}</h2>
-        <ul>
+        <ul className='nav-item dropdown'>
+          <h2 className='dropdown-header'>Wordset {wordset.title}</h2>
           {wordset.exercises.map(exercise => (
             <li key={exercise.id}>
               <NavLink to={`${url}/exercise/${exercise.id}`}>

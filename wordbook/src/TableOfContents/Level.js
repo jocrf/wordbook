@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { NavLink, Route } from 'react-router-dom';
-import Section from './Section';
+import { NavLink } from 'react-router-dom';
 import levels from './levels-config';
 
 export default class Level extends Component {
@@ -10,18 +9,14 @@ export default class Level extends Component {
     const url = this.props.url;
     return (
       <React.Fragment>
-        <h2>Level {level.title}</h2>
-        <ul>
+        <ul className='nav-item dropdown'>
+          <h2 className='dropdown-header'>Level {level.title}</h2>
           {level.sections.map(section => (
             <li key={section.title}>
               <NavLink to={`${url}/section/${section.title}`}>Section {section.title}</NavLink>
             </li>
           ))}
         </ul>
-        <Route
-          path='/learning/level/:level/section/:section'
-          render={({ match }) => <Section url={match.url} section={match.params.section} level={match.params.level} />}
-        />
       </React.Fragment>
     );
   }
