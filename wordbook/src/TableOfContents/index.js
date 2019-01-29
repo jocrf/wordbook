@@ -13,12 +13,17 @@ export default class TableOfContents extends Component {
         {/* TODO: add a back button for navigation */}
         <h1>Table Of Contents</h1>
         <nav className='nav nav-pills'>
-          <ul className='nav-item dropdown'>
-            <h2 className='dropdown-header'>Level</h2>
-            {levels.map(level => (
-              <li key={level.title} className='dropdown-item'><NavLink to={`/learning/level/${level.title}`}>Level {level.title}</NavLink></li>
-            ))}
-          </ul>
+          <h2 className='dropdown-toggle' onClick={() => this.showDropdown('level')}>Level {this.props.match.params.level}</h2>
+          <Route
+            path='/learning/(level)?'
+            render={() => (
+              <ul className='nav-item dropdown'>
+                {levels.map(level => (
+                  <li key={level.title} className='dropdown-item'><NavLink to={`/learning/level/${level.title}`}>Level {level.title}</NavLink></li>
+                ))}
+              </ul>
+            )}
+          />
           <Route
             path='/learning/level/:level'
             render={({ match }) => <Level level={match.params.level} url={match.url} />}

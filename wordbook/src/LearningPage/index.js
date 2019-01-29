@@ -7,7 +7,7 @@ export default class LearningPage extends Component {
   render () {
     return (
       <React.Fragment>
-        <Route path='/learning' component={TableOfContents} />
+        <Route path='/learning/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?' component={TableOfContents} />
         <Route
           path='/learning/level/:level/section/:section/wordset/:wordset/exercise/:exercise'
           render={({ match }) => <ExercisePage
