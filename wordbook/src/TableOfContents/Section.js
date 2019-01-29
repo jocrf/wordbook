@@ -19,7 +19,7 @@ export default class Section extends Component {
           ))}
           {section.review.map(review => (
             <li key={review.title}>
-              <NavLink to={`${url}/review/${review.title}`}>Review {review.title}</NavLink>
+              <NavLink to={`${url}/review/${review.title}`}>Review Test</NavLink>
             </li>
           ))}
         </ul>
