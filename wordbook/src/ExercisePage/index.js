@@ -22,6 +22,15 @@ export default class ExercisePage extends Component {
 
   componentDidMount () {
     this.populateData();
+    if (this.props.toggleToC) {
+      this.props.toggleToC();
+    }
+  }
+
+  componentWillUnmount () {
+    if (this.props.toggleToC) {
+      this.props.toggleToC();
+    }
   }
 
   componentDidUpdate (prevProps) {
