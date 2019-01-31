@@ -1,11 +1,6 @@
 import React, { Component } from 'react';
-import { NavLink, Route } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import List from './List';
-import Level from './Level';
-import Section from './Section';
-import Wordset from './Wordset';
-import levels from './levels-config';
-// import placementLevels from './placement-config';
 
 export default class TableOfContents extends Component {
   render () {
@@ -13,7 +8,6 @@ export default class TableOfContents extends Component {
     console.log(level, section, wordset, exercise);
     return (
       <React.Fragment>
-        {/* TODO: add a back button for navigation */}
         <h1>Table Of Contents</h1>
         <nav className='nav'>
           <h2>Level {level}</h2>
@@ -59,7 +53,7 @@ export default class TableOfContents extends Component {
           <Route
             path='/learning/level/:level/section/:section/wordset/:wordset'
             render={({ match }) =>
-            <Wordset
+            <List
               typeUrl='exercise'
               section={match.params.section}
               level={match.params.level}

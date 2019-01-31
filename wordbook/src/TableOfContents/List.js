@@ -4,8 +4,7 @@ import levels from './levels-config';
 
 export default class List extends Component {
   render () {
-    let array, level, section, wordset, exercise;
-    // eslint-disable-next-line default-case
+    let array, level, section, wordset;
     switch(this.props.typeUrl) {
       case 'level':
         array = levels;
@@ -18,43 +17,47 @@ export default class List extends Component {
         level = this.props.level - 1;
         section = this.props.section - 1;
         array = levels[level].sections[section].wordsets;
-        array.push(levels[level].sections[section].review);
+        // add review item if it doesn't already exist
+        if (array.length === 3) {
+          array.push(levels[level].sections[section].review[0]);
+        }
         break;
       case 'review':
         level = this.props.level - 1;
         section = this.props.section - 1;
         array = levels[level].sections[section].wordsets;
-        array.push(levels[level].sections[section].review);
         break;
       case 'exercise':
-        array = levels[level].sections[section].wordsets.exercises;
-        wordset = section.wordsets[this.props.wordset - 1];
+        level = this.props.level - 1;
+        section = this.props.section - 1;
+        wordset = this.props.wordset - 1;
+        array = levels[level].sections[section].wordsets[wordset].exercises;
+        break;
+      default:
+        console.log('List component received an unexpected arg');
         break;
     }
-    console.log(array);
     return (
       <ul>
         {array.map(arrayItem => (
           <li key={arrayItem.title}>
-            <NavLink
-              to={`${this.props.url}/${this.props.typeUrl}/${arrayItem.title}`}
+            {!arrayItem.title.startsWith('Review') &&
+              <NavLink
+                to={`${this.props.url}/${this.props.typeUrl}/${arrayItem.id}`}
+                >
+                {arrayItem.title}
+              </NavLink>
+            }
+            {arrayItem.title.startsWith('Review') &&
+              <NavLink
+                to={`${this.props.url}/review/${arrayItem.id}`}
               >
-              {this.props.typeUrl} {arrayItem.title}
-            </NavLink>
+                {arrayItem.title}
+              </NavLink>
+            }
           </li>
         ))}
       </ul>
     )
   }
 }
-
-{/* <ul>
-  {
-    Array.map(item => (
-      <li>
-        <NavLink to previouUrl + currentitemtype + currentitemtitle> 'item type + item title'
-        </NavLink>
-      </li>
-    ))
-  }
-</ul> */}

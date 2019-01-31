@@ -1,21 +1,21 @@
 export default [
   {
     id: 1,
-    title: 1,
+    title: 'Level 1',
     sections: [
       {
         id: 1,
-        title: 1,
+        title: 'Section 1',
         review: [
           {
             id: 1,
-            title: 1
+            title: 'Review 1'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -37,7 +37,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -59,7 +59,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -83,17 +83,17 @@ export default [
       },
       {
         id: 2,
-        title: 2,
+        title: 'Section 2',
         review: [
           {
             id: 2,
-            title: 2
+            title: 'Review 2'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -115,7 +115,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -137,7 +137,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -161,17 +161,17 @@ export default [
       },
       {
         id: 3,
-        title: 3,
+        title: 'Section 3',
         review: [
           {
             id: 3,
-            title: 3
+            title: 'Review 3'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -193,7 +193,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -215,7 +215,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -239,17 +239,17 @@ export default [
       },
       {
         id: 4,
-        title: 4,
+        title: 'Section 4',
         review: [
           {
             id: 4,
-            title: 4
+            title: 'Review 4'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -271,7 +271,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -293,7 +293,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -319,21 +319,21 @@ export default [
   },
   {
     id: 2,
-    title: 2,
+    title: 'Level 2',
     sections: [
       {
         id: 1,
-        title: 1,
+        title: 'Section 1',
         review: [
           {
             id: 1,
-            title: 1
+            title: 'Review 1'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -355,7 +355,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -377,7 +377,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -401,17 +401,17 @@ export default [
       },
       {
         id: 2,
-        title: 2,
+        title: 'Section 2',
         review: [
           {
             id: 2,
-            title: 2
+            title: 'Review 2'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -433,7 +433,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -455,7 +455,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -479,17 +479,17 @@ export default [
       },
       {
         id: 3,
-        title: 3,
+        title: 'Section 3',
         review: [
           {
             id: 3,
-            title: 3
+            title: 'Review 3'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -511,7 +511,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -533,7 +533,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -557,17 +557,17 @@ export default [
       },
       {
         id: 4,
-        title: 4,
+        title: 'Section 4',
         review: [
           {
             id: 4,
-            title: 4
+            title: 'Review 4'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -589,7 +589,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -611,7 +611,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -637,21 +637,21 @@ export default [
   },
   {
     id: 3,
-    title: 3,
+    title: 'Level 3',
     sections: [
       {
         id: 1,
-        title: 1,
+        title: 'Section 1',
         review: [
           {
             id: 1,
-            title: 1
+            title: 'Review 1'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -673,7 +673,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -695,7 +695,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -719,17 +719,17 @@ export default [
       },
       {
         id: 2,
-        title: 2,
+        title: 'Section 2',
         review: [
           {
             id: 2,
-            title: 2
+            title: 'Review 2'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -751,7 +751,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -773,7 +773,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -797,17 +797,17 @@ export default [
       },
       {
         id: 3,
-        title: 3,
+        title: 'Section 3',
         review: [
           {
             id: 3,
-            title: 3
+            title: 'Review 3'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -829,7 +829,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -851,7 +851,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -875,17 +875,17 @@ export default [
       },
       {
         id: 4,
-        title: 4,
+        title: 'Section 4',
         review: [
           {
             id: 4,
-            title: 4
+            title: 'Review 4'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -907,7 +907,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -929,7 +929,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -955,21 +955,21 @@ export default [
   },
   {
     id: 4,
-    title: 4,
+    title: 'Level 4',
     sections: [
       {
         id: 1,
-        title: 1,
+        title: 'Section 1',
         review: [
           {
             id: 1,
-            title: 1
+            title: 'Review 1'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -991,7 +991,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1013,7 +1013,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1037,17 +1037,17 @@ export default [
       },
       {
         id: 2,
-        title: 2,
+        title: 'Section 2',
         review: [
           {
             id: 2,
-            title: 2
+            title: 'Review 2'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1069,7 +1069,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1091,7 +1091,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1115,17 +1115,17 @@ export default [
       },
       {
         id: 3,
-        title: 3,
+        title: 'Section 3',
         review: [
           {
             id: 3,
-            title: 3
+            title: 'Review 3'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1147,7 +1147,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1169,7 +1169,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1193,17 +1193,17 @@ export default [
       },
       {
         id: 4,
-        title: 4,
+        title: 'Section 4',
         review: [
           {
             id: 4,
-            title: 4
+            title: 'Review 4'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1225,7 +1225,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1247,7 +1247,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1273,21 +1273,21 @@ export default [
   },
   {
     id: 5,
-    title: 5,
+    title: 'Level 5',
     sections: [
       {
         id: 1,
-        title: 1,
+        title: 'Section 1',
         review: [
           {
             id: 1,
-            title: 1
+            title: 'Review 1'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1309,7 +1309,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1331,7 +1331,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1355,17 +1355,17 @@ export default [
       },
       {
         id: 2,
-        title: 2,
+        title: 'Section 2',
         review: [
           {
             id: 2,
-            title: 2
+            title: 'Review 2'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1387,7 +1387,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1409,7 +1409,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1433,17 +1433,17 @@ export default [
       },
       {
         id: 3,
-        title: 3,
+        title: 'Section 3',
         review: [
           {
             id: 3,
-            title: 3
+            title: 'Review 3'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1465,7 +1465,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1487,7 +1487,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1511,17 +1511,17 @@ export default [
       },
       {
         id: 4,
-        title: 4,
+        title: 'Section 4',
         review: [
           {
             id: 4,
-            title: 4
+            title: 'Review 4'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1543,7 +1543,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1565,7 +1565,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1591,21 +1591,21 @@ export default [
   },
   {
     id: 6,
-    title: 6,
+    title: 'Level 6',
     sections: [
       {
         id: 1,
-        title: 1,
+        title: 'Section 1',
         review: [
           {
             id: 1,
-            title: 1
+            title: 'Review 1'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1627,7 +1627,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1649,7 +1649,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1673,17 +1673,17 @@ export default [
       },
       {
         id: 2,
-        title: 2,
+        title: 'Section 2',
         review: [
           {
             id: 2,
-            title: 2
+            title: 'Review 2'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1705,7 +1705,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1727,7 +1727,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1751,17 +1751,17 @@ export default [
       },
       {
         id: 3,
-        title: 3,
+        title: 'Section 3',
         review: [
           {
             id: 3,
-            title: 3
+            title: 'Review 3'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1783,7 +1783,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1805,7 +1805,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1829,17 +1829,17 @@ export default [
       },
       {
         id: 4,
-        title: 4,
+        title: 'Section 4',
         review: [
           {
             id: 4,
-            title: 4
+            title: 'Review 4'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1861,7 +1861,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1883,7 +1883,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1909,21 +1909,21 @@ export default [
   },
   {
     id: 7,
-    title: 7,
+    title: 'Level 7',
     sections: [
       {
         id: 1,
-        title: 1,
+        title: 'Section 1',
         review: [
           {
             id: 1,
-            title: 1
+            title: 'Review 1'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -1945,7 +1945,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -1967,7 +1967,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -1991,17 +1991,17 @@ export default [
       },
       {
         id: 2,
-        title: 2,
+        title: 'Section 2',
         review: [
           {
             id: 2,
-            title: 2
+            title: 'Review 2'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -2023,7 +2023,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -2045,7 +2045,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -2069,17 +2069,17 @@ export default [
       },
       {
         id: 3,
-        title: 3,
+        title: 'Section 3',
         review: [
           {
             id: 3,
-            title: 3
+            title: 'Review 3'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -2101,7 +2101,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -2123,7 +2123,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -2147,17 +2147,17 @@ export default [
       },
       {
         id: 4,
-        title: 4,
+        title: 'Section 4',
         review: [
           {
             id: 4,
-            title: 4
+            title: 'Review 4'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -2179,7 +2179,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -2201,7 +2201,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -2227,21 +2227,21 @@ export default [
   },
   {
     id: 8,
-    title: 8,
+    title: 'Level 8',
     sections: [
       {
         id: 1,
-        title: 1,
+        title: 'Section 1',
         review: [
           {
             id: 1,
-            title: 1
+            title: 'Review 1'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -2263,7 +2263,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -2285,7 +2285,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -2309,17 +2309,17 @@ export default [
       },
       {
         id: 2,
-        title: 2,
+        title: 'Section 2',
         review: [
           {
             id: 2,
-            title: 2
+            title: 'Review 2'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -2341,7 +2341,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -2363,7 +2363,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -2387,17 +2387,17 @@ export default [
       },
       {
         id: 3,
-        title: 3,
+        title: 'Section 3',
         review: [
           {
             id: 3,
-            title: 3
+            title: 'Review 3'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -2419,7 +2419,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -2441,7 +2441,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
@@ -2465,17 +2465,17 @@ export default [
       },
       {
         id: 4,
-        title: 4,
+        title: 'Section 4',
         review: [
           {
             id: 4,
-            title: 4
+            title: 'Review 4'
           }
         ],
         wordsets: [
           {
             id: 1,
-            title: 1,
+            title: 'Wordset 1',
             exercises: [
               {
                 id: '0',
@@ -2497,7 +2497,7 @@ export default [
           },
           {
             id: 2,
-            title: 2,
+            title: 'Wordset 2',
             exercises: [
               {
                 id: '0',
@@ -2519,7 +2519,7 @@ export default [
           },
           {
             id: 3,
-            title: 3,
+            title: 'Wordset 3',
             exercises: [
               {
                 id: '0',
