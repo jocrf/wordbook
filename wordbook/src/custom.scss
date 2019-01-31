@@ -1,3 +1,13 @@
 $breadcrumb-divider: quote('>');
 
 @import '~bootstrap/scss/bootstrap.scss';
+
+.list-group {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.list-group-flush {
+  flex-direction: column;
+}
