@@ -9,7 +9,9 @@ export default class App extends Component {
   render () {
     return (
       <main className='container'>
-        <h1>Wordbook App</h1>
+        <header>
+          <h1>Wordbook App</h1>
+        </header>
         <Route path='/:learning?/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?' component={Breadcrumb} />
         <Route exact path='/' component={Home} />
         <Route path='/placement' component={PlacementPage} />

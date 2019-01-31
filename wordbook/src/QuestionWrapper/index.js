@@ -16,7 +16,7 @@ export default class QuestionWrapper extends Component {
       <React.Fragment>
         <form onSubmit={this.submitHandler}>
           {this.props.children}
-          <button>{this.props.buttonText}</button>
+          <button className='btn btn-primary'>{this.props.buttonText}</button>
         </form>
       </React.Fragment>
     );
