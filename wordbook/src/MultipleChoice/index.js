@@ -22,13 +22,15 @@ export default class MultipleChoice extends Component {
   render () {
     const { answers, prompt } = this.props;
     return (
-      <fieldset onChange={this.changeHandler}>
+      <fieldset onChange={this.changeHandler} className='form-group'>
         <legend>{prompt}</legend>
         {answers.map(answer =>
-          <label key={answer}>
-            <input type='radio' value={answer} name={prompt} required />
-            {answer}
-          </label>
+          <div className='form-check'>
+            <input type='radio' id={answer} value={answer} name={prompt} className='form-check-input' required />
+            <label key={answer} for={answer} className='form-check-label'>
+              {answer}
+            </label>
+          </div>
         )}
       </fieldset>
     );

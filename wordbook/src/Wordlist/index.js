@@ -13,13 +13,15 @@ export default class Wordlist extends Component {
   render () {
     const { wordlist } = this.props;
     return (
-      <fieldset onChange={this.changeHandler}>
+      <fieldset onChange={this.changeHandler} className='form-group'>
         <legend>Word list</legend>
         {wordlist.map(word =>
-          <label key={word}>
-            <input type='radio' value={word} name='wordlist' required />
-            {word}
-          </label>
+          <div className='form-check form-check-inline'>
+            <input type='radio' value={word} name='wordlist' id={word} className='form-check-input' required />
+            <label key={word} for={word} className='form-check-label'>
+              {word}
+            </label>
+          </div>
         )}
       </fieldset>
     );
