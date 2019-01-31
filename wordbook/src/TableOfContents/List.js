@@ -38,13 +38,13 @@ export default class List extends Component {
         break;
     }
     return (
-      <ul>
+      <ol className='list-group'>
         {array.map(arrayItem => (
-          <li key={arrayItem.title}>
+          <li key={arrayItem.title} className='list-group-item'>
             {/* endsWith to handle bug in level URL rendering - when in a section, the url given to the level List already includes 'level' so it is added on again... */}
             {!arrayItem.title.startsWith('Review') && !this.props.url.endsWith(`${this.props.typeUrl}`) &&
               <NavLink
-                to={`${this.props.url}/${this.props.typeUrl}/${arrayItem.id}`}
+                to={`${this.props.url}/${this.props.typeUrl}/${arrayItem.id}`} className='list-group-item-action'
                 >
                 {arrayItem.title}
               </NavLink>
@@ -65,7 +65,7 @@ export default class List extends Component {
             }
           </li>
         ))}
-      </ul>
+      </ol>
     )
   }
 }

@@ -9,8 +9,7 @@ export default class TableOfContents extends Component {
     return (
       <React.Fragment>
         <h1>Table Of Contents</h1>
-        <nav className='nav'>
-          <h2>Level {level}</h2>
+        <ol>
           <Route
             path='/learning/:level(level)?'
             render={({ match }) => (
@@ -61,7 +60,7 @@ export default class TableOfContents extends Component {
               url={match.url}
             />}
           />
-        </nav>
+        </ol>
       </React.Fragment>
     );
   }
