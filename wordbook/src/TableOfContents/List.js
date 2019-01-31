@@ -41,9 +41,17 @@ export default class List extends Component {
       <ul>
         {array.map(arrayItem => (
           <li key={arrayItem.title}>
-            {!arrayItem.title.startsWith('Review') &&
+            {/* endsWith to handle bug in level URL rendering - when in a section, the url given to the level List already includes 'level' so it is added on again... */}
+            {!arrayItem.title.startsWith('Review') && !this.props.url.endsWith(`${this.props.typeUrl}`) &&
               <NavLink
                 to={`${this.props.url}/${this.props.typeUrl}/${arrayItem.id}`}
+                >
+                {arrayItem.title}
+              </NavLink>
+            }
+            {!arrayItem.title.startsWith('Review') && this.props.url.endsWith(`${this.props.typeUrl}`) &&
+              <NavLink
+                to={`${this.props.url}/${arrayItem.id}`}
                 >
                 {arrayItem.title}
               </NavLink>

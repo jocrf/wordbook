@@ -9,6 +9,8 @@ export default class Breadcrumb extends Component {
     }
   }
 
+  // TODO: apply Bootstrap 'active' class to last item in breadcrumb
+
   // below to change text content of breadcrumb from Exercise 0 > Pretest
   componentDidUpdate (prevProps) {
     const exercise = this.props.match.params.exercise;
