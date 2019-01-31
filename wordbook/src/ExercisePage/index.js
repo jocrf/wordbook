@@ -61,41 +61,43 @@ export default class ExercisePage extends Component {
 
   render () {
     return (
-      <React.Fragment>
-        {!this.state.isQuizzing &&
-          <NavPanel
-            level={this.props.level}
-            wordset={this.props.wordset}
-            section={this.props.section}
-            exercise={this.props.exercise}
-            group={this.props.group}
-            passed={this.props.passed}
-            review={this.props.review}
-            quizCompleted={this.state.quizCompleted}
-            toggleQuizState={this.toggleQuizState}
-            placement={this.props.placement}
-          />
-        }
-        {this.state.isQuizzing &&
-          <React.Fragment>
-            {/* TODO: get below info dynamically */}
-            <h1>Title of exercise</h1>
-            <p>Instructions</p>
-            <p>Example question, sometimes</p>
-            <Exercise
-              definitions={this.state.chapter.definitions}
-              questions={this.state.chapter.questions}
-              questionType={this.state.chapter.type}
-              questionsToShow={this.state.chapter.type === 'mc-one' || this.state.chapter.type === 'fitb' ? 1 : null}
-              wordlist={this.state.chapter.wordList}
-              onQuizCompleted={this.onQuizCompleted}
+      <section className='card'>
+        <div className='card-body'>
+          {!this.state.isQuizzing &&
+            <NavPanel
+              level={this.props.level}
+              wordset={this.props.wordset}
+              section={this.props.section}
+              exercise={this.props.exercise}
+              group={this.props.group}
+              passed={this.props.passed}
+              review={this.props.review}
+              quizCompleted={this.state.quizCompleted}
               toggleQuizState={this.toggleQuizState}
-              markWrongAnswers={this.props.markWrongAnswers}
               placement={this.props.placement}
             />
-          </React.Fragment>
-        }
-      </React.Fragment>
+          }
+          {this.state.isQuizzing &&
+            <React.Fragment>
+              {/* TODO: get below info dynamically */}
+              <h1 className='card-title'>Title of exercise</h1>
+              <p className='card-text'>Instructions</p>
+              <p className='card-text'>Example question, sometimes</p>
+              <Exercise
+                definitions={this.state.chapter.definitions}
+                questions={this.state.chapter.questions}
+                questionType={this.state.chapter.type}
+                questionsToShow={this.state.chapter.type === 'mc-one' || this.state.chapter.type === 'fitb' ? 1 : null}
+                wordlist={this.state.chapter.wordList}
+                onQuizCompleted={this.onQuizCompleted}
+                toggleQuizState={this.toggleQuizState}
+                markWrongAnswers={this.props.markWrongAnswers}
+                placement={this.props.placement}
+              />
+            </React.Fragment>
+          }
+        </div>
+      </section>
     );
   }
 }

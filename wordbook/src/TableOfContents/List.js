@@ -38,7 +38,7 @@ export default class List extends Component {
         break;
     }
     return (
-      <ol className='list-group'>
+      <ol className='list-group list-group-flush'>
         {array.map(arrayItem => (
           <li key={arrayItem.title} className='list-group-item'>
             {/* endsWith to handle bug in level URL rendering - when in a section, the url given to the level List already includes 'level' so it is added on again... */}
