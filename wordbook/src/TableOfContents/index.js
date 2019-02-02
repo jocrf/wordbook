@@ -10,13 +10,14 @@ export default class TableOfContents extends Component {
       <div className='card'>
         <div className='card-body'>
           <h1 className='card-title'>Table Of Contents</h1>
-          <ol className='list-group'>
+          <div className='list-group'>
             <Route
               path='/learning/:level(level)?'
               render={({ match }) => (
                 <List
                   typeUrl='level'
                   url={match.url}
+                  title='Levels'
                 />
               )}
             />
@@ -27,6 +28,7 @@ export default class TableOfContents extends Component {
                   typeUrl='section'
                   level={match.params.level}
                   url={match.url}
+                  title='Sections'
                 />
               )}
             />
@@ -38,6 +40,7 @@ export default class TableOfContents extends Component {
                 url={match.url}
                 level={match.params.level} 
                 section={match.params.section}
+                title='Wordsets'
               />}
             />
             <Route
@@ -48,6 +51,7 @@ export default class TableOfContents extends Component {
                   url={match.url}
                   section={match.params.section}
                   level={match.params.level}
+                  title='Wordsets'
                 />}
             />
             <Route
@@ -59,9 +63,10 @@ export default class TableOfContents extends Component {
                 level={match.params.level}
                 wordset={match.params.wordset}
                 url={match.url}
+                title='Exercises'
               />}
             />
-          </ol>
+          </div>
         </div>
       </div>
     );

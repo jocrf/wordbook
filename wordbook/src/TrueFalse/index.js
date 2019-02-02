@@ -12,17 +12,17 @@ export default class TrueFalse extends Component {
 
   render () {
     return (
-      <fieldset onChange={this.changeHandler} className='form-group'>
+      <fieldset onChange={this.changeHandler} className='form-group position-relative'>
         <legend>{this.props.prompt}</legend>
         <div className='form-check form-check-inline'>
-          <input type='radio' value='true' id='true' name={this.props.prompt} className='form-check-input' required />
-          <label for='true' className='form-check-label'>
+          <input type='radio' value='true' id='true' name={this.props.prompt} required />
+          <label for='true' className='btn btn-outline-primary'>
             True
           </label>
         </div>
         <div className='form-check form-check-inline'>
-          <input type='radio' value='false' id='false' name={this.props.prompt}  className='form-check-input' required />
-          <label for='false' className='form-check-label'>
+          <input type='radio' value='false' id='false' name={this.props.prompt}  required />
+          <label for='false' className='btn btn-outline-primary'>
             False
           </label>
         </div>

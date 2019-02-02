@@ -26,8 +26,8 @@ export default class MultipleChoice extends Component {
         <legend>{prompt}</legend>
         {answers.map(answer =>
           <div className='form-check'>
-            <input type='radio' id={answer} value={answer} name={prompt} className='form-check-input' required />
-            <label key={answer} for={answer} className='form-check-label'>
+            <input type='radio' id={answer} value={answer} name={prompt} required />
+            <label key={answer} for={answer} className='btn btn-outline-primary'>
               {answer}
             </label>
           </div>

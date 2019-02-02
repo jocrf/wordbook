@@ -17,8 +17,8 @@ export default class Wordlist extends Component {
         <legend>Word list</legend>
         {wordlist.map(word =>
           <div className='form-check form-check-inline'>
-            <input type='radio' value={word} name='wordlist' id={word} className='form-check-input' required />
-            <label key={word} for={word} className='form-check-label'>
+            <input type='radio' value={word} name='wordlist' id={word} required />
+            <label key={word} for={word} className='btn btn-outline-primary'>
               {word}
             </label>
           </div>
