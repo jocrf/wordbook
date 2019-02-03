@@ -45,10 +45,6 @@ $theme-colors: (
   padding-bottom: 15px;
 }
 
-header {
-  height: 5rem;
-}
-
 legend {
   font-size: 1.25rem;
 }
@@ -67,4 +63,14 @@ input[type=radio]:focus + label {
 
 input[type=radio]:checked + label {
   background-color: theme-color('orange');
+}
+
+@include media-breakpoint-up(sm) {
+  header {
+    height: 5rem;
+  }
+
+  img {
+    max-height: 100%;
+  }
 }

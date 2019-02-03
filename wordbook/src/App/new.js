@@ -9,8 +9,11 @@ export default class App extends Component {
   render () {
     return (
       <main className='container bg-secondary min-vh-100'>
-        <header className='row justify-content-end bg-gradient-secondary'>
-          <h1 className='align-self-end mr-3'>Wordbook</h1>
+        <header className='row justify-content-between bg-gradient-secondary'>
+          <div className='mb-1 col-sm ml-3 mr-3 '>
+            <img src='http://localhost:3000/logo_0.png' alt="Johnson O'Connor Logo" className='mw-100 mh-100'/>
+          </div>
+          <h1 className='text-right align-self-end mr-3 col-sm text-primary'>Wordbook</h1>
         </header>
         <Route path='/:learning?/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?' component={Breadcrumb} />
         <Route exact path='/' component={Home} />
