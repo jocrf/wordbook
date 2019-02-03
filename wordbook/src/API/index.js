@@ -10,6 +10,8 @@ export const getFile = (name) => {
   const fileNames = {
     0: 'http://localhost:3000/placementdata.json',
     3: 'http://localhost:3000/new-level-3-trial.json',
+    6: 'http://localhost:3000/new-level-6-trial.json',
+    7: 'http://localhost:3000/new-level-7-trial.json',
     8: 'http://localhost:3000/new-level-8-trial.json'
   };
   return fileNames[name];
@@ -18,6 +20,7 @@ export const getFile = (name) => {
 export const getExercise = (level, section, wordset, exercise, review) => {
   // correct for zero-indexing
   const fileName = getFile(level);
+  console.log(fileName);
   return fetch(fileName)
     .then(response => response.json())
     .then(response => {
