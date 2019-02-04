@@ -11,7 +11,7 @@ export default class Wordlist extends Component {
   }
 
   render () {
-    const { wordlist, correct, value } = this.props;
+    const { wordlist, value } = this.props;
     return (
       <fieldset onChange={this.changeHandler} className='form-group'>
         <legend>Word list</legend>

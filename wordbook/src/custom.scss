@@ -75,3 +75,10 @@ input[type=radio]:checked + label {
     max-height: 100%;
   }
 }
+
+.wordBlank {
+  display: inline-block;
+  min-width: 5rem;
+  min-height: 1rem;
+  border-bottom: 1px solid black;
+}
