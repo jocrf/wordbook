@@ -93,6 +93,7 @@ export default class Exercise extends Component {
               correctAnswer={currentQuestion.correct}
               onChange={this.changeHandler}
               correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+              value={this.state.selectedAnswers[currentQuestion.prompt]}
               // TODO word
             />
           )}
@@ -108,6 +109,7 @@ export default class Exercise extends Component {
               correctAnswer={currentQuestion.correct}
               onChange={this.changeHandler}
               correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+              value={this.state.selectedAnswers[currentQuestion.prompt]}
               // TODO word
             />
           )}
@@ -129,6 +131,7 @@ export default class Exercise extends Component {
             correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
             placement={this.props.placement}
             markWrongAnswers={this.props.markWrongAnswers} // for placement
+            value={this.state.selectedAnswers[currentQuestion.prompt]}
             // TODO showDefinition boolean for pretest, after question is answered
             // TODO word
           />

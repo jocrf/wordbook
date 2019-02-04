@@ -63,6 +63,7 @@ input[type=radio]:focus + label {
 
 input[type=radio]:checked + label {
   background-color: theme-color('orange');
+  color: black;
 }
 
 @include media-breakpoint-up(sm) {
