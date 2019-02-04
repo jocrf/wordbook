@@ -11,15 +11,15 @@ export default class Wordlist extends Component {
   }
 
   render () {
-    const { wordlist, correct } = this.props;
+    const { wordlist, correct, value } = this.props;
     return (
       <fieldset onChange={this.changeHandler} className='form-group'>
         <legend>Word list</legend>
         {wordlist.map(word =>
           <div className='form-check form-check-inline'>
-            <input type='radio' value={word} name='wordlist' id={word} required checked={word === correct}/>
-            <label key={word} for={word} className='btn btn-outline-primary'>
-              {word}
+            <input type='radio' value={word.answer} name='wordlist' id={word.word} required checked={value === word.answer}/>
+            <label key={word.word} for={word.word} className='btn btn-outline-primary'>
+              {word.word}
             </label>
           </div>
         )}

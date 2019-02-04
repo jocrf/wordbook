@@ -11,7 +11,6 @@ export default class MultipleChoice extends Component {
   }
 
   componentDidUpdate (prevProps) {
-    console.log(this.props.placement);
     if (this.props.placement && prevProps.prompt !== this.props.prompt) {
       if (!prevProps.correct) {
         this.props.markWrongAnswers();

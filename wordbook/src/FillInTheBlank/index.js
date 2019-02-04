@@ -3,7 +3,7 @@ import Wordlist from './Wordlist';
 
 export default class FillInTheBlank extends Component {
   render () {
-    const { part1, part2, onChange, wordlist, correct } = this.props;
+    const { part1, part2, onChange, wordlist, correctAnswer } = this.props;
     return (
       <React.Fragment>
         {/* is this re-rendering each time? */}
@@ -11,9 +11,17 @@ export default class FillInTheBlank extends Component {
           wordlist={wordlist}
           onChange={onChange}
           prompt={part1}
-          correct={correct}
+          correct={correctAnswer}
+          value={this.props.value}
         />
-        <p>{part1} <span>{`${this.props.value}` || '_____________'}</span> {part2}</p>
+        <p>{part1} <span>
+          {
+            this.props.value && `${this.props.value.toUpperCase()}`
+          }
+          {
+            !this.props.value && '___________'
+          }
+          </span> {part2}</p>
       </React.Fragment>
     );
   }
