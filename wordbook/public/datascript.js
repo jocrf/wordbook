@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const level = require('./level-7-trial');
+const level = require('./level-6-trial');
 
 const newLevel = {sections: []};
 // go through the chapters
@@ -29,7 +29,6 @@ for (var ch = 0; ch < level.length; ch++) {
 }
 
 // retitle sections
-
 newLevel.sections.forEach(function (section) {
     section.reviewTest.type = 'fitb';
     for (let i = 0; i < section.wordsets.length; i++) {
@@ -53,9 +52,33 @@ newLevel.sections.forEach(function (section) {
     }
 })
 
+// add capped format of answers to review test
+newLevel.sections.forEach(function (section) {
+    let modWordList = [];
+    section.reviewTest.wordList.forEach(function (word) {
+        let obj = {word: `${word}`};
+        section.reviewTest.questions.forEach(function (question) {
+            const answer = question.answer;
+            const cappedAnswer = question.answer.toUpperCase();
+            let shortenedAnswer; 
+            if (cappedAnswer.length > 5) {
+                shortenedAnswer = cappedAnswer.slice(0, 4);
+            } else {
+                shortenedAnswer = cappedAnswer;
+            }
+            if (word.startsWith(shortenedAnswer)) {
+                obj.answer = answer;
+                obj.cappedAnswer = cappedAnswer;
+            }
+        })
+        modWordList.push(obj);
+    })
+    section.reviewTest.wordList = modWordList;
+})
+
 // console.log(JSON.stringify(newLevel, null, 2));
 
 fs.writeFileSync(
-    path.join(__dirname, 'new-level-7-trial.json'),
+    path.join(__dirname, 'new-level-6-trial.json'),
     JSON.stringify(newLevel, null, 2)
 );

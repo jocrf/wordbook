@@ -1811,51 +1811,231 @@
       ],
       "reviewTest": {
         "wordList": [
-          "ACQUIESCE",
-          "CONDUCIVE",
-          "FELICITY",
-          "INDOLENT",
-          "OVERT",
-          "ACRIMONIOUS",
-          "COPIOUS",
-          "FURTIVE",
-          "INFUSE",
-          "REPAST",
-          "ADVERSITY",
-          "DEBONAIR",
-          "HARBINGER",
-          "INORDINATE",
-          "ROTUND",
-          "AFFRAY",
-          "EXACERBATE",
-          "HOVEL",
-          "MALIGN",
-          "SUBTERFUGE",
-          "ANTIPATHY",
-          "ABASE",
-          "DERISIVE",
-          "INSOLVENT",
-          "NEBULOUS",
-          "REPROVE",
-          "ASPECT",
-          "DISCONCERT",
-          "INTERLOPER",
-          "OBLIVIOUS",
-          "RESPITE",
-          "COGITATE",
-          "DISCONSOLATE",
-          "INTRACTABLE",
-          "ODIOUS",
-          "SQUALOR",
-          "CONTRITION",
-          "IMPUDENT",
-          "MANIFEST",
-          "PORTENT",
-          "VERTIGO",
-          "CORPULENT",
-          "INCLEMENT",
-          "MILIEU",
-          "PREDISPOSED"
+          {
+            "word": "ACQUIESCE",
+            "answer": "acquiesce",
+            "cappedAnswer": "ACQUIESCE"
+          },
+          {
+            "word": "CONDUCIVE",
+            "answer": "conducive",
+            "cappedAnswer": "CONDUCIVE"
+          },
+          {
+            "word": "FELICITY",
+            "answer": "felicity",
+            "cappedAnswer": "FELICITY"
+          },
+          {
+            "word": "INDOLENT",
+            "answer": "indolent",
+            "cappedAnswer": "INDOLENT"
+          },
+          {
+            "word": "OVERT",
+            "answer": "overt",
+            "cappedAnswer": "OVERT"
+          },
+          {
+            "word": "ACRIMONIOUS",
+            "answer": "acrimonious",
+            "cappedAnswer": "ACRIMONIOUS"
+          },
+          {
+            "word": "COPIOUS",
+            "answer": "copious or inordinate",
+            "cappedAnswer": "COPIOUS OR INORDINATE"
+          },
+          {
+            "word": "FURTIVE",
+            "answer": "furtive",
+            "cappedAnswer": "FURTIVE"
+          },
+          {
+            "word": "INFUSE",
+            "answer": "infused",
+            "cappedAnswer": "INFUSED"
+          },
+          {
+            "word": "REPAST",
+            "answer": "repast",
+            "cappedAnswer": "REPAST"
+          },
+          {
+            "word": "ADVERSITY",
+            "answer": "adversities",
+            "cappedAnswer": "ADVERSITIES"
+          },
+          {
+            "word": "DEBONAIR",
+            "answer": "debonair",
+            "cappedAnswer": "DEBONAIR"
+          },
+          {
+            "word": "HARBINGER",
+            "answer": "harbinger",
+            "cappedAnswer": "HARBINGER"
+          },
+          {
+            "word": "INORDINATE",
+            "answer": "inordinate",
+            "cappedAnswer": "INORDINATE"
+          },
+          {
+            "word": "ROTUND",
+            "answer": "rotund",
+            "cappedAnswer": "ROTUND"
+          },
+          {
+            "word": "AFFRAY",
+            "answer": "affray",
+            "cappedAnswer": "AFFRAY"
+          },
+          {
+            "word": "EXACERBATE",
+            "answer": "exacerbate",
+            "cappedAnswer": "EXACERBATE"
+          },
+          {
+            "word": "HOVEL",
+            "answer": "hovel",
+            "cappedAnswer": "HOVEL"
+          },
+          {
+            "word": "MALIGN",
+            "answer": "maligned",
+            "cappedAnswer": "MALIGNED"
+          },
+          {
+            "word": "SUBTERFUGE",
+            "answer": "subterfuges",
+            "cappedAnswer": "SUBTERFUGES"
+          },
+          {
+            "word": "ANTIPATHY",
+            "answer": "antipathy",
+            "cappedAnswer": "ANTIPATHY"
+          },
+          {
+            "word": "ABASE",
+            "answer": "abase",
+            "cappedAnswer": "ABASE"
+          },
+          {
+            "word": "DERISIVE",
+            "answer": "derisive",
+            "cappedAnswer": "DERISIVE"
+          },
+          {
+            "word": "INSOLVENT",
+            "answer": "insolvent",
+            "cappedAnswer": "INSOLVENT"
+          },
+          {
+            "word": "NEBULOUS",
+            "answer": "nebulous",
+            "cappedAnswer": "NEBULOUS"
+          },
+          {
+            "word": "REPROVE",
+            "answer": "reproved",
+            "cappedAnswer": "REPROVED"
+          },
+          {
+            "word": "ASPECT",
+            "answer": "aspect",
+            "cappedAnswer": "ASPECT"
+          },
+          {
+            "word": "DISCONCERT",
+            "answer": "disconsulate",
+            "cappedAnswer": "DISCONSULATE"
+          },
+          {
+            "word": "INTERLOPER",
+            "answer": "interloper",
+            "cappedAnswer": "INTERLOPER"
+          },
+          {
+            "word": "OBLIVIOUS",
+            "answer": "oblivious",
+            "cappedAnswer": "OBLIVIOUS"
+          },
+          {
+            "word": "RESPITE",
+            "answer": "respite",
+            "cappedAnswer": "RESPITE"
+          },
+          {
+            "word": "COGITATE",
+            "answer": "cogitate",
+            "cappedAnswer": "COGITATE"
+          },
+          {
+            "word": "DISCONSOLATE",
+            "answer": "disconsulate",
+            "cappedAnswer": "DISCONSULATE"
+          },
+          {
+            "word": "INTRACTABLE",
+            "answer": "intractable",
+            "cappedAnswer": "INTRACTABLE"
+          },
+          {
+            "word": "ODIOUS",
+            "answer": "odious",
+            "cappedAnswer": "ODIOUS"
+          },
+          {
+            "word": "SQUALOR",
+            "answer": "squalor",
+            "cappedAnswer": "SQUALOR"
+          },
+          {
+            "word": "CONTRITION",
+            "answer": "contrition",
+            "cappedAnswer": "CONTRITION"
+          },
+          {
+            "word": "IMPUDENT",
+            "answer": "impudent",
+            "cappedAnswer": "IMPUDENT"
+          },
+          {
+            "word": "MANIFEST",
+            "answer": "manifest",
+            "cappedAnswer": "MANIFEST"
+          },
+          {
+            "word": "PORTENT",
+            "answer": "portent",
+            "cappedAnswer": "PORTENT"
+          },
+          {
+            "word": "VERTIGO",
+            "answer": "vertigo",
+            "cappedAnswer": "VERTIGO"
+          },
+          {
+            "word": "CORPULENT",
+            "answer": "corpulent",
+            "cappedAnswer": "CORPULENT"
+          },
+          {
+            "word": "INCLEMENT",
+            "answer": "inclement",
+            "cappedAnswer": "INCLEMENT"
+          },
+          {
+            "word": "MILIEU",
+            "answer": "milieu",
+            "cappedAnswer": "MILIEU"
+          },
+          {
+            "word": "PREDISPOSED",
+            "answer": "predisposed",
+            "cappedAnswer": "PREDISPOSED"
+          }
         ],
         "questions": [
           {
@@ -2082,8 +2262,7 @@
             "part1": "Jim was willing to",
             "part2": "himself by begging for money from his relatives.",
             "answer": "abase"
-          },
-          {}
+          }
         ],
         "type": "fitb"
       }
@@ -3900,51 +4079,231 @@
       ],
       "reviewTest": {
         "wordList": [
-          "AMITY",
-          "INIMITABLE",
-          "OBDURATE",
-          "PROVISO",
-          "TRAVAIL",
-          "AUSPICIOUS",
-          "INVIOLATE",
-          "PARITY",
-          "SHIFTLESS",
-          "TRUNCATE",
-          "DISCERN",
-          "JOCOSE",
-          "PARRY",
-          "SURREPTITIOUS",
-          "UPBRAID",
-          "GIBE",
-          "MELLIFLUOUS",
-          "PAUCITY",
-          "TRANSGRESS",
-          "VEX",
-          "GUILE",
-          "ABSTEMIOUS",
-          "COMMISERATE",
-          "FORBEARANCE",
-          "LUMINARY",
-          "REMISS",
-          "AFICIONADO",
-          "DEBASE",
-          "GERMANE",
-          "PANACHE",
-          "STIGMA",
-          "ASCRIBE",
-          "DISPARATE",
-          "GLOWER",
-          "PECUNIARY",
-          "VAPID",
-          "BURGEON",
-          "DISTEND",
-          "INTIMATION",
-          "PONDEROUS",
-          "WAN",
-          "CEDE",
-          "FOMENT",
-          "ITINERANT",
-          "PUGNACIOUS"
+          {
+            "word": "AMITY",
+            "answer": "amity",
+            "cappedAnswer": "AMITY"
+          },
+          {
+            "word": "INIMITABLE",
+            "answer": "inimitable",
+            "cappedAnswer": "INIMITABLE"
+          },
+          {
+            "word": "OBDURATE",
+            "answer": "obdurate",
+            "cappedAnswer": "OBDURATE"
+          },
+          {
+            "word": "PROVISO",
+            "answer": "proviso",
+            "cappedAnswer": "PROVISO"
+          },
+          {
+            "word": "TRAVAIL",
+            "answer": "travail",
+            "cappedAnswer": "TRAVAIL"
+          },
+          {
+            "word": "AUSPICIOUS",
+            "answer": "auspicious",
+            "cappedAnswer": "AUSPICIOUS"
+          },
+          {
+            "word": "INVIOLATE",
+            "answer": "inviolate",
+            "cappedAnswer": "INVIOLATE"
+          },
+          {
+            "word": "PARITY",
+            "answer": "parity",
+            "cappedAnswer": "PARITY"
+          },
+          {
+            "word": "SHIFTLESS",
+            "answer": "shiftless",
+            "cappedAnswer": "SHIFTLESS"
+          },
+          {
+            "word": "TRUNCATE",
+            "answer": "truncate",
+            "cappedAnswer": "TRUNCATE"
+          },
+          {
+            "word": "DISCERN",
+            "answer": "discern",
+            "cappedAnswer": "DISCERN"
+          },
+          {
+            "word": "JOCOSE",
+            "answer": "jocose",
+            "cappedAnswer": "JOCOSE"
+          },
+          {
+            "word": "PARRY",
+            "answer": "parry",
+            "cappedAnswer": "PARRY"
+          },
+          {
+            "word": "SURREPTITIOUS",
+            "answer": "surreptitious",
+            "cappedAnswer": "SURREPTITIOUS"
+          },
+          {
+            "word": "UPBRAID",
+            "answer": "upbraided",
+            "cappedAnswer": "UPBRAIDED"
+          },
+          {
+            "word": "GIBE",
+            "answer": "gibed",
+            "cappedAnswer": "GIBED"
+          },
+          {
+            "word": "MELLIFLUOUS",
+            "answer": "mellifluous",
+            "cappedAnswer": "MELLIFLUOUS"
+          },
+          {
+            "word": "PAUCITY",
+            "answer": "paucity",
+            "cappedAnswer": "PAUCITY"
+          },
+          {
+            "word": "TRANSGRESS",
+            "answer": "transgressed",
+            "cappedAnswer": "TRANSGRESSED"
+          },
+          {
+            "word": "VEX",
+            "answer": "vexed",
+            "cappedAnswer": "VEXED"
+          },
+          {
+            "word": "GUILE",
+            "answer": "guile",
+            "cappedAnswer": "GUILE"
+          },
+          {
+            "word": "ABSTEMIOUS",
+            "answer": "abstemious",
+            "cappedAnswer": "ABSTEMIOUS"
+          },
+          {
+            "word": "COMMISERATE",
+            "answer": "commiserated",
+            "cappedAnswer": "COMMISERATED"
+          },
+          {
+            "word": "FORBEARANCE",
+            "answer": "forbearance",
+            "cappedAnswer": "FORBEARANCE"
+          },
+          {
+            "word": "LUMINARY",
+            "answer": "luminaries",
+            "cappedAnswer": "LUMINARIES"
+          },
+          {
+            "word": "REMISS",
+            "answer": "remiss",
+            "cappedAnswer": "REMISS"
+          },
+          {
+            "word": "AFICIONADO",
+            "answer": "aficianado",
+            "cappedAnswer": "AFICIANADO"
+          },
+          {
+            "word": "DEBASE",
+            "answer": "debase",
+            "cappedAnswer": "DEBASE"
+          },
+          {
+            "word": "GERMANE",
+            "answer": "germane",
+            "cappedAnswer": "GERMANE"
+          },
+          {
+            "word": "PANACHE",
+            "answer": "panache",
+            "cappedAnswer": "PANACHE"
+          },
+          {
+            "word": "STIGMA",
+            "answer": "stigma",
+            "cappedAnswer": "STIGMA"
+          },
+          {
+            "word": "ASCRIBE",
+            "answer": "ascribe",
+            "cappedAnswer": "ASCRIBE"
+          },
+          {
+            "word": "DISPARATE",
+            "answer": "disparate",
+            "cappedAnswer": "DISPARATE"
+          },
+          {
+            "word": "GLOWER",
+            "answer": "glowered",
+            "cappedAnswer": "GLOWERED"
+          },
+          {
+            "word": "PECUNIARY",
+            "answer": "pecuniary",
+            "cappedAnswer": "PECUNIARY"
+          },
+          {
+            "word": "VAPID",
+            "answer": "vapid",
+            "cappedAnswer": "VAPID"
+          },
+          {
+            "word": "BURGEON",
+            "answer": "burgeon",
+            "cappedAnswer": "BURGEON"
+          },
+          {
+            "word": "DISTEND",
+            "answer": "distended",
+            "cappedAnswer": "DISTENDED"
+          },
+          {
+            "word": "INTIMATION",
+            "answer": "intimation",
+            "cappedAnswer": "INTIMATION"
+          },
+          {
+            "word": "PONDEROUS",
+            "answer": "ponderous",
+            "cappedAnswer": "PONDEROUS"
+          },
+          {
+            "word": "WAN",
+            "answer": "wan",
+            "cappedAnswer": "WAN"
+          },
+          {
+            "word": "CEDE",
+            "answer": "cede",
+            "cappedAnswer": "CEDE"
+          },
+          {
+            "word": "FOMENT",
+            "answer": "foment",
+            "cappedAnswer": "FOMENT"
+          },
+          {
+            "word": "ITINERANT",
+            "answer": "itinerant",
+            "cappedAnswer": "ITINERANT"
+          },
+          {
+            "word": "PUGNACIOUS",
+            "answer": "pugnacious",
+            "cappedAnswer": "PUGNACIOUS"
+          }
         ],
         "questions": [
           {
@@ -5987,51 +6346,231 @@
       ],
       "reviewTest": {
         "wordList": [
-          "ABJECT",
-          "FRETFUL",
-          "INFINITESIMAL",
-          "PARSIMONIOUS",
-          "REMUNERATE",
-          "CATACLYSM",
-          "HIATUS",
-          "MESMERIZE",
-          "PRODIGY",
-          "REVERIE",
-          "CHURLISH",
-          "IMBROGLIO",
-          "MISCREANT",
-          "PROTRACT",
-          "SAGACIOUS",
-          "DAUNT",
-          "INCULCATE",
-          "OBFUSCATE",
-          "QUAFF",
-          "TENET",
-          "DEMISE",
-          "AMBIENCE",
-          "DIRE",
-          "HAPLESS",
-          "OBSTREPEROUS",
-          "POTABLE",
-          "BLITHE",
-          "DOLOROUS",
-          "HINTERLAND",
-          "OSSIFY",
-          "PROGENY",
-          "CATARACT",
-          "DULCET",
-          "LASSITUDE",
-          "PEEVISH",
-          "TIMOROUS",
-          "CHOLERIC",
-          "EBULLIENCE",
-          "NOXIOUS",
-          "PETULANT",
-          "VOCIFEROUS",
-          "DILATE",
-          "FLACCID",
-          "OBSEQUIOUS",
-          "PORTEND"
+          {
+            "word": "ABJECT",
+            "answer": "abject",
+            "cappedAnswer": "ABJECT"
+          },
+          {
+            "word": "FRETFUL",
+            "answer": "fretful or churlish",
+            "cappedAnswer": "FRETFUL OR CHURLISH"
+          },
+          {
+            "word": "INFINITESIMAL",
+            "answer": "infinitesimal",
+            "cappedAnswer": "INFINITESIMAL"
+          },
+          {
+            "word": "PARSIMONIOUS",
+            "answer": "parsimonious",
+            "cappedAnswer": "PARSIMONIOUS"
+          },
+          {
+            "word": "REMUNERATE",
+            "answer": "remunerate",
+            "cappedAnswer": "REMUNERATE"
+          },
+          {
+            "word": "CATACLYSM",
+            "answer": "cataract",
+            "cappedAnswer": "CATARACT"
+          },
+          {
+            "word": "HIATUS",
+            "answer": "hiatus",
+            "cappedAnswer": "HIATUS"
+          },
+          {
+            "word": "MESMERIZE",
+            "answer": "mesmerized",
+            "cappedAnswer": "MESMERIZED"
+          },
+          {
+            "word": "PRODIGY",
+            "answer": "prodigy",
+            "cappedAnswer": "PRODIGY"
+          },
+          {
+            "word": "REVERIE",
+            "answer": "reverie",
+            "cappedAnswer": "REVERIE"
+          },
+          {
+            "word": "CHURLISH",
+            "answer": "churlish",
+            "cappedAnswer": "CHURLISH"
+          },
+          {
+            "word": "IMBROGLIO",
+            "answer": "imbroglio",
+            "cappedAnswer": "IMBROGLIO"
+          },
+          {
+            "word": "MISCREANT",
+            "answer": "miscreant",
+            "cappedAnswer": "MISCREANT"
+          },
+          {
+            "word": "PROTRACT",
+            "answer": "protract",
+            "cappedAnswer": "PROTRACT"
+          },
+          {
+            "word": "SAGACIOUS",
+            "answer": "sagacious",
+            "cappedAnswer": "SAGACIOUS"
+          },
+          {
+            "word": "DAUNT",
+            "answer": "daunted",
+            "cappedAnswer": "DAUNTED"
+          },
+          {
+            "word": "INCULCATE",
+            "answer": "inculcate",
+            "cappedAnswer": "INCULCATE"
+          },
+          {
+            "word": "OBFUSCATE",
+            "answer": "obfuscate",
+            "cappedAnswer": "OBFUSCATE"
+          },
+          {
+            "word": "QUAFF",
+            "answer": "quaff",
+            "cappedAnswer": "QUAFF"
+          },
+          {
+            "word": "TENET",
+            "answer": "tenets",
+            "cappedAnswer": "TENETS"
+          },
+          {
+            "word": "DEMISE",
+            "answer": "demise",
+            "cappedAnswer": "DEMISE"
+          },
+          {
+            "word": "AMBIENCE",
+            "answer": "ambience",
+            "cappedAnswer": "AMBIENCE"
+          },
+          {
+            "word": "DIRE",
+            "answer": "dire",
+            "cappedAnswer": "DIRE"
+          },
+          {
+            "word": "HAPLESS",
+            "answer": "hapless",
+            "cappedAnswer": "HAPLESS"
+          },
+          {
+            "word": "OBSTREPEROUS",
+            "answer": "obstreperous or vociferous",
+            "cappedAnswer": "OBSTREPEROUS OR VOCIFEROUS"
+          },
+          {
+            "word": "POTABLE",
+            "answer": "potable",
+            "cappedAnswer": "POTABLE"
+          },
+          {
+            "word": "BLITHE",
+            "answer": "blithe or ebullient",
+            "cappedAnswer": "BLITHE OR EBULLIENT"
+          },
+          {
+            "word": "DOLOROUS",
+            "answer": "dolorous",
+            "cappedAnswer": "DOLOROUS"
+          },
+          {
+            "word": "HINTERLAND",
+            "answer": "hinterland",
+            "cappedAnswer": "HINTERLAND"
+          },
+          {
+            "word": "OSSIFY",
+            "answer": "ossified",
+            "cappedAnswer": "OSSIFIED"
+          },
+          {
+            "word": "PROGENY",
+            "answer": "progeny",
+            "cappedAnswer": "PROGENY"
+          },
+          {
+            "word": "CATARACT",
+            "answer": "cataract",
+            "cappedAnswer": "CATARACT"
+          },
+          {
+            "word": "DULCET",
+            "answer": "dulcet",
+            "cappedAnswer": "DULCET"
+          },
+          {
+            "word": "LASSITUDE",
+            "answer": "lassitude",
+            "cappedAnswer": "LASSITUDE"
+          },
+          {
+            "word": "PEEVISH",
+            "answer": "peevish or petulant or choleric",
+            "cappedAnswer": "PEEVISH OR PETULANT OR CHOLERIC"
+          },
+          {
+            "word": "TIMOROUS",
+            "answer": "timorous",
+            "cappedAnswer": "TIMOROUS"
+          },
+          {
+            "word": "CHOLERIC",
+            "answer": "choleric or peevish or petulant",
+            "cappedAnswer": "CHOLERIC OR PEEVISH OR PETULANT"
+          },
+          {
+            "word": "EBULLIENCE",
+            "answer": "ebullience",
+            "cappedAnswer": "EBULLIENCE"
+          },
+          {
+            "word": "NOXIOUS",
+            "answer": "noxious",
+            "cappedAnswer": "NOXIOUS"
+          },
+          {
+            "word": "PETULANT",
+            "answer": "petulant or peevish or obstreperous",
+            "cappedAnswer": "PETULANT OR PEEVISH OR OBSTREPEROUS"
+          },
+          {
+            "word": "VOCIFEROUS",
+            "answer": "vociferous or obstreperous",
+            "cappedAnswer": "VOCIFEROUS OR OBSTREPEROUS"
+          },
+          {
+            "word": "DILATE",
+            "answer": "dilates",
+            "cappedAnswer": "DILATES"
+          },
+          {
+            "word": "FLACCID",
+            "answer": "flaccid",
+            "cappedAnswer": "FLACCID"
+          },
+          {
+            "word": "OBSEQUIOUS",
+            "answer": "obsequious",
+            "cappedAnswer": "OBSEQUIOUS"
+          },
+          {
+            "word": "PORTEND",
+            "answer": "portended",
+            "cappedAnswer": "PORTENDED"
+          }
         ],
         "questions": [
           {
@@ -8074,51 +8613,231 @@
       ],
       "reviewTest": {
         "wordList": [
-          "ABRADE",
-          "ASSIDUOUS",
-          "IGNOMINIOUS",
-          "PARADIGM",
-          "STODGY",
-          "ABSTRUSE",
-          "CREDULOUS",
-          "IMPLACABLE",
-          "PRODIGIOUS",
-          "SUFFUSE",
-          "AMENABLE",
-          "ESCHEW",
-          "INCOMMODE",
-          "PROPINQUITY",
-          "TRIBULATION",
-          "APPRISE",
-          "EXPIATION",
-          "INCREDULOUS",
-          "PROPITIOUS",
-          "UBIQUITOUS",
-          "ASCETIC",
-          "EXTANT",
-          "ABLUTION",
-          "BELIE",
-          "FERAL",
-          "PAROXYSM",
-          "SINUOUS",
-          "ABNEGATION",
-          "BELLICOSE",
-          "HIRSUTE",
-          "PERFIDY",
-          "TENABLE",
-          "ADMONISH",
-          "BENIGN",
-          "INIQUITOUS",
-          "RUMINATE",
-          "VILIFY",
-          "ANCILLARY",
-          "CELERITY",
-          "INVECTIVE",
-          "SEQUESTER",
-          "VOLUBLE",
-          "ANOMALY",
-          "FATUOUS",
-          "ONEROUS"
+          {
+            "word": "ABRADE",
+            "answer": "abraded",
+            "cappedAnswer": "ABRADED"
+          },
+          {
+            "word": "ASSIDUOUS",
+            "answer": "assiduous",
+            "cappedAnswer": "ASSIDUOUS"
+          },
+          {
+            "word": "IGNOMINIOUS",
+            "answer": "ignominious",
+            "cappedAnswer": "IGNOMINIOUS"
+          },
+          {
+            "word": "PARADIGM",
+            "answer": "paradigm",
+            "cappedAnswer": "PARADIGM"
+          },
+          {
+            "word": "STODGY",
+            "answer": "stodgy",
+            "cappedAnswer": "STODGY"
+          },
+          {
+            "word": "ABSTRUSE",
+            "answer": "abstruse",
+            "cappedAnswer": "ABSTRUSE"
+          },
+          {
+            "word": "CREDULOUS",
+            "answer": "credulous",
+            "cappedAnswer": "CREDULOUS"
+          },
+          {
+            "word": "IMPLACABLE",
+            "answer": "implacable",
+            "cappedAnswer": "IMPLACABLE"
+          },
+          {
+            "word": "PRODIGIOUS",
+            "answer": "prodigious",
+            "cappedAnswer": "PRODIGIOUS"
+          },
+          {
+            "word": "SUFFUSE",
+            "answer": "suffused",
+            "cappedAnswer": "SUFFUSED"
+          },
+          {
+            "word": "AMENABLE",
+            "answer": "amenable",
+            "cappedAnswer": "AMENABLE"
+          },
+          {
+            "word": "ESCHEW",
+            "answer": "eschew",
+            "cappedAnswer": "ESCHEW"
+          },
+          {
+            "word": "INCOMMODE",
+            "answer": "incommode",
+            "cappedAnswer": "INCOMMODE"
+          },
+          {
+            "word": "PROPINQUITY",
+            "answer": "propinquity",
+            "cappedAnswer": "PROPINQUITY"
+          },
+          {
+            "word": "TRIBULATION",
+            "answer": "tribulations",
+            "cappedAnswer": "TRIBULATIONS"
+          },
+          {
+            "word": "APPRISE",
+            "answer": "apprise",
+            "cappedAnswer": "APPRISE"
+          },
+          {
+            "word": "EXPIATION",
+            "answer": "expiation",
+            "cappedAnswer": "EXPIATION"
+          },
+          {
+            "word": "INCREDULOUS",
+            "answer": "incredulous",
+            "cappedAnswer": "INCREDULOUS"
+          },
+          {
+            "word": "PROPITIOUS",
+            "answer": "propinquity",
+            "cappedAnswer": "PROPINQUITY"
+          },
+          {
+            "word": "UBIQUITOUS",
+            "answer": "ubiquitous",
+            "cappedAnswer": "UBIQUITOUS"
+          },
+          {
+            "word": "ASCETIC",
+            "answer": "ascetic",
+            "cappedAnswer": "ASCETIC"
+          },
+          {
+            "word": "EXTANT",
+            "answer": "extant",
+            "cappedAnswer": "EXTANT"
+          },
+          {
+            "word": "ABLUTION",
+            "answer": "ablution",
+            "cappedAnswer": "ABLUTION"
+          },
+          {
+            "word": "BELIE",
+            "answer": "belie",
+            "cappedAnswer": "BELIE"
+          },
+          {
+            "word": "FERAL",
+            "answer": "feral",
+            "cappedAnswer": "FERAL"
+          },
+          {
+            "word": "PAROXYSM",
+            "answer": "paroxysm",
+            "cappedAnswer": "PAROXYSM"
+          },
+          {
+            "word": "SINUOUS",
+            "answer": "sinuous",
+            "cappedAnswer": "SINUOUS"
+          },
+          {
+            "word": "ABNEGATION",
+            "answer": "abnegation",
+            "cappedAnswer": "ABNEGATION"
+          },
+          {
+            "word": "BELLICOSE",
+            "answer": "bellicose",
+            "cappedAnswer": "BELLICOSE"
+          },
+          {
+            "word": "HIRSUTE",
+            "answer": "hirsute",
+            "cappedAnswer": "HIRSUTE"
+          },
+          {
+            "word": "PERFIDY",
+            "answer": "perfidy",
+            "cappedAnswer": "PERFIDY"
+          },
+          {
+            "word": "TENABLE",
+            "answer": "tenable",
+            "cappedAnswer": "TENABLE"
+          },
+          {
+            "word": "ADMONISH",
+            "answer": "admonished",
+            "cappedAnswer": "ADMONISHED"
+          },
+          {
+            "word": "BENIGN",
+            "answer": "benign",
+            "cappedAnswer": "BENIGN"
+          },
+          {
+            "word": "INIQUITOUS",
+            "answer": "iniquitous",
+            "cappedAnswer": "INIQUITOUS"
+          },
+          {
+            "word": "RUMINATE",
+            "answer": "ruminate",
+            "cappedAnswer": "RUMINATE"
+          },
+          {
+            "word": "VILIFY",
+            "answer": "vilified",
+            "cappedAnswer": "VILIFIED"
+          },
+          {
+            "word": "ANCILLARY",
+            "answer": "ancillary",
+            "cappedAnswer": "ANCILLARY"
+          },
+          {
+            "word": "CELERITY",
+            "answer": "celerity",
+            "cappedAnswer": "CELERITY"
+          },
+          {
+            "word": "INVECTIVE",
+            "answer": "invective",
+            "cappedAnswer": "INVECTIVE"
+          },
+          {
+            "word": "SEQUESTER",
+            "answer": "sequestered",
+            "cappedAnswer": "SEQUESTERED"
+          },
+          {
+            "word": "VOLUBLE",
+            "answer": "voluble",
+            "cappedAnswer": "VOLUBLE"
+          },
+          {
+            "word": "ANOMALY",
+            "answer": "anomaly",
+            "cappedAnswer": "ANOMALY"
+          },
+          {
+            "word": "FATUOUS",
+            "answer": "fatuous",
+            "cappedAnswer": "FATUOUS"
+          },
+          {
+            "word": "ONEROUS",
+            "answer": "onerous",
+            "cappedAnswer": "ONEROUS"
+          }
         ],
         "questions": [
           {
@@ -8333,12 +9052,13 @@
           },
           {
             "part1": "The",
-            "part2": "path of the stream led us in and out of many interesting places."
+            "part2": "path of the stream led us in and out of many interesting places.",
+            "answer": "sinuous"
           },
           {
             "part1": "The priestess performed a ceremonial",
             "part2": "by washing her face and hands in the sacred water.",
-            "answer": "sinuous"
+            "answer": "ablution"
           },
           {
             "part1": "The writer's speech was filled with",

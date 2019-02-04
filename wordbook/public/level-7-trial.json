@@ -2044,8 +2044,7 @@
           "part1": "Jim was willing to",
           "part2": "himself by begging for money from his relatives.",
           "answer": "abase"
-        },
-        {}
+        }
       ]
     }
   },
@@ -8181,12 +8180,13 @@
         },
         {
           "part1": "The",
-          "part2": "path of the stream led us in and out of many interesting places."
+          "part2": "path of the stream led us in and out of many interesting places.",
+          "answer": "sinuous"
         },
         {
           "part1": "The priestess performed a ceremonial",
           "part2": "by washing her face and hands in the sacred water.",
-          "answer": "sinuous"
+          "answer": "ablution"
         },
         {
           "part1": "The writer's speech was filled with",

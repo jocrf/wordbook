@@ -1811,51 +1811,231 @@
       ],
       "reviewTest": {
         "wordList": [
-          "ABRUPT",
-          "CRINGE",
-          "ENVELOP",
-          "INTERSECT",
-          "PLAGUE",
-          "BAN",
-          "DESCEND",
-          "EVIDENT",
-          "LEAN",
-          "PLEAD",
-          "BEFUDDLE",
-          "DOMINATE",
-          "FEEBLE",
-          "LIBERATE",
-          "SPRAWL",
-          "CONTAGIOUS",
-          "ENDURE",
-          "FEUD",
-          "PAMPER",
-          "STEER",
-          "CONGESTION",
-          "FRISKY",
-          "JAVELIN",
-          "RUPTURE",
-          "SITE",
-          "CONSENT",
-          "FROLIC",
-          "PERISH",
-          "SACRED",
-          "SUBSTITUTE",
-          "ENCHANTING",
-          "INQUIRE",
-          "PROVOKE",
-          "SALVAGE",
-          "VICINITY",
-          "EXHAUST",
-          "INTENSE",
-          "RECEPTION",
-          "SANITARY",
-          "VIGOR",
-          "FOE",
-          "INTERMEDIATE",
-          "ROSTER",
-          "SHUDDER",
-          "VIOLATE"
+          {
+            "word": "ABRUPT",
+            "answer": "abrupt",
+            "cappedAnswer": "ABRUPT"
+          },
+          {
+            "word": "CRINGE",
+            "answer": "cringed",
+            "cappedAnswer": "CRINGED"
+          },
+          {
+            "word": "ENVELOP",
+            "answer": "envelop",
+            "cappedAnswer": "ENVELOP"
+          },
+          {
+            "word": "INTERSECT",
+            "answer": "intermediate",
+            "cappedAnswer": "INTERMEDIATE"
+          },
+          {
+            "word": "PLAGUE",
+            "answer": "plagued",
+            "cappedAnswer": "PLAGUED"
+          },
+          {
+            "word": "BAN",
+            "answer": "banned",
+            "cappedAnswer": "BANNED"
+          },
+          {
+            "word": "DESCEND",
+            "answer": "descend",
+            "cappedAnswer": "DESCEND"
+          },
+          {
+            "word": "EVIDENT",
+            "answer": "evident",
+            "cappedAnswer": "EVIDENT"
+          },
+          {
+            "word": "LEAN",
+            "answer": "lean",
+            "cappedAnswer": "LEAN"
+          },
+          {
+            "word": "PLEAD",
+            "answer": "pleaded",
+            "cappedAnswer": "PLEADED"
+          },
+          {
+            "word": "BEFUDDLE",
+            "answer": "befuddled",
+            "cappedAnswer": "BEFUDDLED"
+          },
+          {
+            "word": "DOMINATE",
+            "answer": "dominate",
+            "cappedAnswer": "DOMINATE"
+          },
+          {
+            "word": "FEEBLE",
+            "answer": "feeble",
+            "cappedAnswer": "FEEBLE"
+          },
+          {
+            "word": "LIBERATE",
+            "answer": "liberate",
+            "cappedAnswer": "LIBERATE"
+          },
+          {
+            "word": "SPRAWL",
+            "answer": "sprawled",
+            "cappedAnswer": "SPRAWLED"
+          },
+          {
+            "word": "CONTAGIOUS",
+            "answer": "contagious",
+            "cappedAnswer": "CONTAGIOUS"
+          },
+          {
+            "word": "ENDURE",
+            "answer": "endure",
+            "cappedAnswer": "ENDURE"
+          },
+          {
+            "word": "FEUD",
+            "answer": "feud",
+            "cappedAnswer": "FEUD"
+          },
+          {
+            "word": "PAMPER",
+            "answer": "pampers",
+            "cappedAnswer": "PAMPERS"
+          },
+          {
+            "word": "STEER",
+            "answer": "steer",
+            "cappedAnswer": "STEER"
+          },
+          {
+            "word": "CONGESTION",
+            "answer": "congestion",
+            "cappedAnswer": "CONGESTION"
+          },
+          {
+            "word": "FRISKY",
+            "answer": "frisky",
+            "cappedAnswer": "FRISKY"
+          },
+          {
+            "word": "JAVELIN",
+            "answer": "javelin",
+            "cappedAnswer": "JAVELIN"
+          },
+          {
+            "word": "RUPTURE",
+            "answer": "rupture",
+            "cappedAnswer": "RUPTURE"
+          },
+          {
+            "word": "SITE",
+            "answer": "site",
+            "cappedAnswer": "SITE"
+          },
+          {
+            "word": "CONSENT",
+            "answer": "consented",
+            "cappedAnswer": "CONSENTED"
+          },
+          {
+            "word": "FROLIC",
+            "answer": "frolic",
+            "cappedAnswer": "FROLIC"
+          },
+          {
+            "word": "PERISH",
+            "answer": "perished",
+            "cappedAnswer": "PERISHED"
+          },
+          {
+            "word": "SACRED",
+            "answer": "sacred",
+            "cappedAnswer": "SACRED"
+          },
+          {
+            "word": "SUBSTITUTE",
+            "answer": "substituted",
+            "cappedAnswer": "SUBSTITUTED"
+          },
+          {
+            "word": "ENCHANTING",
+            "answer": "enchanting",
+            "cappedAnswer": "ENCHANTING"
+          },
+          {
+            "word": "INQUIRE",
+            "answer": "inquired",
+            "cappedAnswer": "INQUIRED"
+          },
+          {
+            "word": "PROVOKE",
+            "answer": "provoked",
+            "cappedAnswer": "PROVOKED"
+          },
+          {
+            "word": "SALVAGE",
+            "answer": "salvage",
+            "cappedAnswer": "SALVAGE"
+          },
+          {
+            "word": "VICINITY",
+            "answer": "vicinity",
+            "cappedAnswer": "VICINITY"
+          },
+          {
+            "word": "EXHAUST",
+            "answer": "exhausted",
+            "cappedAnswer": "EXHAUSTED"
+          },
+          {
+            "word": "INTENSE",
+            "answer": "intermediate",
+            "cappedAnswer": "INTERMEDIATE"
+          },
+          {
+            "word": "RECEPTION",
+            "answer": "reception",
+            "cappedAnswer": "RECEPTION"
+          },
+          {
+            "word": "SANITARY",
+            "answer": "sanitary",
+            "cappedAnswer": "SANITARY"
+          },
+          {
+            "word": "VIGOR",
+            "answer": "vigor",
+            "cappedAnswer": "VIGOR"
+          },
+          {
+            "word": "FOE",
+            "answer": "foes",
+            "cappedAnswer": "FOES"
+          },
+          {
+            "word": "INTERMEDIATE",
+            "answer": "intermediate",
+            "cappedAnswer": "INTERMEDIATE"
+          },
+          {
+            "word": "ROSTER",
+            "answer": "roster",
+            "cappedAnswer": "ROSTER"
+          },
+          {
+            "word": "SHUDDER",
+            "answer": "shudder",
+            "cappedAnswer": "SHUDDER"
+          },
+          {
+            "word": "VIOLATE",
+            "answer": "violated",
+            "cappedAnswer": "VIOLATED"
+          }
         ],
         "questions": [
           {
@@ -3898,51 +4078,231 @@
       ],
       "reviewTest": {
         "wordList": [
-          "ANTICIPATE",
-          "CONGREGATE",
-          "GOUGE",
-          "INTRICATE",
-          "PRECAUTION",
-          "APPARATUS",
-          "CONTROVERSY",
-          "HEADWAY",
-          "MISGIVING",
-          "REFINE",
-          "COLLABORATE",
-          "DENSE",
-          "INSTANTANEOUS",
-          "PENETRATE",
-          "RESUME",
-          "COMMEND",
-          "FOREMOST",
-          "INTERCEPT",
-          "PERTAIN",
-          "RETAIN",
-          "CONFRONT",
-          "ACCUMULATE",
-          "CORRUPT",
-          "FRAIL",
-          "INSTANCE",
-          "REEK",
-          "ANONYMOUS",
-          "DELINQUENCY",
-          "FREAKISH",
-          "MEDDLE",
-          "REFORM",
-          "APPAREL",
-          "ENSEMBLE",
-          "GLIMMER",
-          "MUTE",
-          "SERVICEABLE",
-          "CAPSIZE",
-          "EXTENSIVE",
-          "HABITABLE",
-          "NEGOTIATE",
-          "TRANQUIL",
-          "COMPREHEND",
-          "FELINE",
-          "IMMENSE",
-          "NOTABLE"
+          {
+            "word": "ANTICIPATE",
+            "answer": "anticipate",
+            "cappedAnswer": "ANTICIPATE"
+          },
+          {
+            "word": "CONGREGATE",
+            "answer": "congregated",
+            "cappedAnswer": "CONGREGATED"
+          },
+          {
+            "word": "GOUGE",
+            "answer": "gouged",
+            "cappedAnswer": "GOUGED"
+          },
+          {
+            "word": "INTRICATE",
+            "answer": "intricate",
+            "cappedAnswer": "INTRICATE"
+          },
+          {
+            "word": "PRECAUTION",
+            "answer": "precaution",
+            "cappedAnswer": "PRECAUTION"
+          },
+          {
+            "word": "APPARATUS",
+            "answer": "apparel",
+            "cappedAnswer": "APPAREL"
+          },
+          {
+            "word": "CONTROVERSY",
+            "answer": "controversy",
+            "cappedAnswer": "CONTROVERSY"
+          },
+          {
+            "word": "HEADWAY",
+            "answer": "headway",
+            "cappedAnswer": "HEADWAY"
+          },
+          {
+            "word": "MISGIVING",
+            "answer": "misgivings",
+            "cappedAnswer": "MISGIVINGS"
+          },
+          {
+            "word": "REFINE",
+            "answer": "refine",
+            "cappedAnswer": "REFINE"
+          },
+          {
+            "word": "COLLABORATE",
+            "answer": "collaborate",
+            "cappedAnswer": "COLLABORATE"
+          },
+          {
+            "word": "DENSE",
+            "answer": "dense",
+            "cappedAnswer": "DENSE"
+          },
+          {
+            "word": "INSTANTANEOUS",
+            "answer": "instance",
+            "cappedAnswer": "INSTANCE"
+          },
+          {
+            "word": "PENETRATE",
+            "answer": "penetrate",
+            "cappedAnswer": "PENETRATE"
+          },
+          {
+            "word": "RESUME",
+            "answer": "resume",
+            "cappedAnswer": "RESUME"
+          },
+          {
+            "word": "COMMEND",
+            "answer": "commended",
+            "cappedAnswer": "COMMENDED"
+          },
+          {
+            "word": "FOREMOST",
+            "answer": "foremost",
+            "cappedAnswer": "FOREMOST"
+          },
+          {
+            "word": "INTERCEPT",
+            "answer": "intercepted",
+            "cappedAnswer": "INTERCEPTED"
+          },
+          {
+            "word": "PERTAIN",
+            "answer": "pertained",
+            "cappedAnswer": "PERTAINED"
+          },
+          {
+            "word": "RETAIN",
+            "answer": "retain",
+            "cappedAnswer": "RETAIN"
+          },
+          {
+            "word": "CONFRONT",
+            "answer": "confronted",
+            "cappedAnswer": "CONFRONTED"
+          },
+          {
+            "word": "ACCUMULATE",
+            "answer": "accumulate",
+            "cappedAnswer": "ACCUMULATE"
+          },
+          {
+            "word": "CORRUPT",
+            "answer": "corrupt",
+            "cappedAnswer": "CORRUPT"
+          },
+          {
+            "word": "FRAIL",
+            "answer": "frail",
+            "cappedAnswer": "FRAIL"
+          },
+          {
+            "word": "INSTANCE",
+            "answer": "instance",
+            "cappedAnswer": "INSTANCE"
+          },
+          {
+            "word": "REEK",
+            "answer": "reek",
+            "cappedAnswer": "REEK"
+          },
+          {
+            "word": "ANONYMOUS",
+            "answer": "anonymous",
+            "cappedAnswer": "ANONYMOUS"
+          },
+          {
+            "word": "DELINQUENCY",
+            "answer": "delinquency",
+            "cappedAnswer": "DELINQUENCY"
+          },
+          {
+            "word": "FREAKISH",
+            "answer": "freakish",
+            "cappedAnswer": "FREAKISH"
+          },
+          {
+            "word": "MEDDLE",
+            "answer": "meddles",
+            "cappedAnswer": "MEDDLES"
+          },
+          {
+            "word": "REFORM",
+            "answer": "reform",
+            "cappedAnswer": "REFORM"
+          },
+          {
+            "word": "APPAREL",
+            "answer": "apparel",
+            "cappedAnswer": "APPAREL"
+          },
+          {
+            "word": "ENSEMBLE",
+            "answer": "ensemble",
+            "cappedAnswer": "ENSEMBLE"
+          },
+          {
+            "word": "GLIMMER",
+            "answer": "glimmer",
+            "cappedAnswer": "GLIMMER"
+          },
+          {
+            "word": "MUTE",
+            "answer": "mute",
+            "cappedAnswer": "MUTE"
+          },
+          {
+            "word": "SERVICEABLE",
+            "answer": "serviceable",
+            "cappedAnswer": "SERVICEABLE"
+          },
+          {
+            "word": "CAPSIZE",
+            "answer": "capsize",
+            "cappedAnswer": "CAPSIZE"
+          },
+          {
+            "word": "EXTENSIVE",
+            "answer": "extensive",
+            "cappedAnswer": "EXTENSIVE"
+          },
+          {
+            "word": "HABITABLE",
+            "answer": "habitable",
+            "cappedAnswer": "HABITABLE"
+          },
+          {
+            "word": "NEGOTIATE",
+            "answer": "negotiated",
+            "cappedAnswer": "NEGOTIATED"
+          },
+          {
+            "word": "TRANQUIL",
+            "answer": "tranquil",
+            "cappedAnswer": "TRANQUIL"
+          },
+          {
+            "word": "COMPREHEND",
+            "answer": "comprehend",
+            "cappedAnswer": "COMPREHEND"
+          },
+          {
+            "word": "FELINE",
+            "answer": "feline",
+            "cappedAnswer": "FELINE"
+          },
+          {
+            "word": "IMMENSE",
+            "answer": "immense",
+            "cappedAnswer": "IMMENSE"
+          },
+          {
+            "word": "NOTABLE",
+            "answer": "notable",
+            "cappedAnswer": "NOTABLE"
+          }
         ],
         "questions": [
           {
@@ -5985,51 +6345,231 @@
       ],
       "reviewTest": {
         "wordList": [
-          "ACUTE",
-          "EMBRACE",
-          "ILLITERATE",
-          "JUVENILE",
-          "PHENOMENAL",
-          "AUTHENTIC",
-          "FATIGUE",
-          "INCOMPARABLE",
-          "LOFTY",
-          "RELUCTANT",
-          "COMPETENT",
-          "FRANK",
-          "INFALLIBLE",
-          "MANEUVER",
-          "SECLUSION",
-          "CONCEPT",
-          "FUGITIVE",
-          "INSTRUMENTAL",
-          "PARCHED",
-          "THRUST",
-          "DOMESTIC",
-          "AJAR",
-          "EXTRACT",
-          "PATHETIC",
-          "ROVING",
-          "STANCE",
-          "ALTER",
-          "FOOLHARDY",
-          "PERSISTENT",
-          "SEEK",
-          "TEXTILE",
-          "CHAMBER",
-          "GRATIFY",
-          "PIGMENT",
-          "SENSATION",
-          "TRAITOR",
-          "CONSPIRACY",
-          "HANDILY",
-          "REVIVE",
-          "SNARE",
-          "TYPHOON",
-          "EXERTION",
-          "MEMENTO",
-          "RIGID",
-          "SQUABBLE"
+          {
+            "word": "ACUTE",
+            "answer": "acute",
+            "cappedAnswer": "ACUTE"
+          },
+          {
+            "word": "EMBRACE",
+            "answer": "embraced",
+            "cappedAnswer": "EMBRACED"
+          },
+          {
+            "word": "ILLITERATE",
+            "answer": "illiterate",
+            "cappedAnswer": "ILLITERATE"
+          },
+          {
+            "word": "JUVENILE",
+            "answer": "juveniles",
+            "cappedAnswer": "JUVENILES"
+          },
+          {
+            "word": "PHENOMENAL",
+            "answer": "phenomenal",
+            "cappedAnswer": "PHENOMENAL"
+          },
+          {
+            "word": "AUTHENTIC",
+            "answer": "authentic",
+            "cappedAnswer": "AUTHENTIC"
+          },
+          {
+            "word": "FATIGUE",
+            "answer": "fatigued",
+            "cappedAnswer": "FATIGUED"
+          },
+          {
+            "word": "INCOMPARABLE",
+            "answer": "incomparable",
+            "cappedAnswer": "INCOMPARABLE"
+          },
+          {
+            "word": "LOFTY",
+            "answer": "lofty",
+            "cappedAnswer": "LOFTY"
+          },
+          {
+            "word": "RELUCTANT",
+            "answer": "reluctant",
+            "cappedAnswer": "RELUCTANT"
+          },
+          {
+            "word": "COMPETENT",
+            "answer": "competent",
+            "cappedAnswer": "COMPETENT"
+          },
+          {
+            "word": "FRANK",
+            "answer": "frank",
+            "cappedAnswer": "FRANK"
+          },
+          {
+            "word": "INFALLIBLE",
+            "answer": "infallible",
+            "cappedAnswer": "INFALLIBLE"
+          },
+          {
+            "word": "MANEUVER",
+            "answer": "maneuvers",
+            "cappedAnswer": "MANEUVERS"
+          },
+          {
+            "word": "SECLUSION",
+            "answer": "seclusion",
+            "cappedAnswer": "SECLUSION"
+          },
+          {
+            "word": "CONCEPT",
+            "answer": "concept",
+            "cappedAnswer": "CONCEPT"
+          },
+          {
+            "word": "FUGITIVE",
+            "answer": "fugitive",
+            "cappedAnswer": "FUGITIVE"
+          },
+          {
+            "word": "INSTRUMENTAL",
+            "answer": "instrumental",
+            "cappedAnswer": "INSTRUMENTAL"
+          },
+          {
+            "word": "PARCHED",
+            "answer": "parched",
+            "cappedAnswer": "PARCHED"
+          },
+          {
+            "word": "THRUST",
+            "answer": "thrust",
+            "cappedAnswer": "THRUST"
+          },
+          {
+            "word": "DOMESTIC",
+            "answer": "domestic",
+            "cappedAnswer": "DOMESTIC"
+          },
+          {
+            "word": "AJAR",
+            "answer": "ajar",
+            "cappedAnswer": "AJAR"
+          },
+          {
+            "word": "EXTRACT",
+            "answer": "extract",
+            "cappedAnswer": "EXTRACT"
+          },
+          {
+            "word": "PATHETIC",
+            "answer": "pathetic",
+            "cappedAnswer": "PATHETIC"
+          },
+          {
+            "word": "ROVING",
+            "answer": "roving",
+            "cappedAnswer": "ROVING"
+          },
+          {
+            "word": "STANCE",
+            "answer": "stance",
+            "cappedAnswer": "STANCE"
+          },
+          {
+            "word": "ALTER",
+            "answer": "alter",
+            "cappedAnswer": "ALTER"
+          },
+          {
+            "word": "FOOLHARDY",
+            "answer": "foolhardy",
+            "cappedAnswer": "FOOLHARDY"
+          },
+          {
+            "word": "PERSISTENT",
+            "answer": "persistent",
+            "cappedAnswer": "PERSISTENT"
+          },
+          {
+            "word": "SEEK",
+            "answer": "seek",
+            "cappedAnswer": "SEEK"
+          },
+          {
+            "word": "TEXTILE",
+            "answer": "textiles",
+            "cappedAnswer": "TEXTILES"
+          },
+          {
+            "word": "CHAMBER",
+            "answer": "chamber",
+            "cappedAnswer": "CHAMBER"
+          },
+          {
+            "word": "GRATIFY",
+            "answer": "gratified",
+            "cappedAnswer": "GRATIFIED"
+          },
+          {
+            "word": "PIGMENT",
+            "answer": "pigments",
+            "cappedAnswer": "PIGMENTS"
+          },
+          {
+            "word": "SENSATION",
+            "answer": "sensation",
+            "cappedAnswer": "SENSATION"
+          },
+          {
+            "word": "TRAITOR",
+            "answer": "traitor",
+            "cappedAnswer": "TRAITOR"
+          },
+          {
+            "word": "CONSPIRACY",
+            "answer": "conspiracy",
+            "cappedAnswer": "CONSPIRACY"
+          },
+          {
+            "word": "HANDILY",
+            "answer": "handily",
+            "cappedAnswer": "HANDILY"
+          },
+          {
+            "word": "REVIVE",
+            "answer": "revived",
+            "cappedAnswer": "REVIVED"
+          },
+          {
+            "word": "SNARE",
+            "answer": "snares",
+            "cappedAnswer": "SNARES"
+          },
+          {
+            "word": "TYPHOON",
+            "answer": "typhoon",
+            "cappedAnswer": "TYPHOON"
+          },
+          {
+            "word": "EXERTION",
+            "answer": "exertion",
+            "cappedAnswer": "EXERTION"
+          },
+          {
+            "word": "MEMENTO",
+            "answer": "memento",
+            "cappedAnswer": "MEMENTO"
+          },
+          {
+            "word": "RIGID",
+            "answer": "rigid",
+            "cappedAnswer": "RIGID"
+          },
+          {
+            "word": "SQUABBLE",
+            "answer": "squabble",
+            "cappedAnswer": "SQUABBLE"
+          }
         ],
         "questions": [
           {
@@ -8072,51 +8612,231 @@
       ],
       "reviewTest": {
         "wordList": [
-          "CASUALTY",
-          "EVALUATE",
-          "MASSACRE",
-          "RECOIL",
-          "SKETCHY",
-          "CONCEITED",
-          "GRIM",
-          "OBSTRUCT",
-          "RENOVATE",
-          "TOPPLE",
-          "DRAB",
-          "INFLICT",
-          "POTENTIAL",
-          "REVOLTING",
-          "VICIOUS",
-          "ENTRENCH",
-          "INTENTION",
-          "RADIANT",
-          "SINCERE",
-          "YEARN",
-          "ERECT",
-          "AMUSEMENT",
-          "DEBUT",
-          "IMMORTAL",
-          "OBTAIN",
-          "SERENE",
-          "COMPILE",
-          "EQUILIBRIUM",
-          "LAVISH",
-          "PACT",
-          "STATIONARY",
-          "CONFINE",
-          "EXCEED",
-          "LINGER",
-          "PORTRAY",
-          "TYRANT",
-          "CONTRADICT",
-          "GULLY",
-          "NEGLIGENT",
-          "RESIDE",
-          "UTTER",
-          "CZAR",
-          "IDLE",
-          "OBLIGATION",
-          "SCOLD"
+          {
+            "word": "CASUALTY",
+            "answer": "casualties",
+            "cappedAnswer": "CASUALTIES"
+          },
+          {
+            "word": "EVALUATE",
+            "answer": "evaluate",
+            "cappedAnswer": "EVALUATE"
+          },
+          {
+            "word": "MASSACRE",
+            "answer": "massacre",
+            "cappedAnswer": "MASSACRE"
+          },
+          {
+            "word": "RECOIL",
+            "answer": "recoiled",
+            "cappedAnswer": "RECOILED"
+          },
+          {
+            "word": "SKETCHY",
+            "answer": "sketchy",
+            "cappedAnswer": "SKETCHY"
+          },
+          {
+            "word": "CONCEITED",
+            "answer": "conceited",
+            "cappedAnswer": "CONCEITED"
+          },
+          {
+            "word": "GRIM",
+            "answer": "grim",
+            "cappedAnswer": "GRIM"
+          },
+          {
+            "word": "OBSTRUCT",
+            "answer": "obstructed",
+            "cappedAnswer": "OBSTRUCTED"
+          },
+          {
+            "word": "RENOVATE",
+            "answer": "renovate",
+            "cappedAnswer": "RENOVATE"
+          },
+          {
+            "word": "TOPPLE",
+            "answer": "topple",
+            "cappedAnswer": "TOPPLE"
+          },
+          {
+            "word": "DRAB",
+            "answer": "drab",
+            "cappedAnswer": "DRAB"
+          },
+          {
+            "word": "INFLICT",
+            "answer": "inflict",
+            "cappedAnswer": "INFLICT"
+          },
+          {
+            "word": "POTENTIAL",
+            "answer": "potential",
+            "cappedAnswer": "POTENTIAL"
+          },
+          {
+            "word": "REVOLTING",
+            "answer": "revolting",
+            "cappedAnswer": "REVOLTING"
+          },
+          {
+            "word": "VICIOUS",
+            "answer": "vicious",
+            "cappedAnswer": "VICIOUS"
+          },
+          {
+            "word": "ENTRENCH",
+            "answer": "entrench",
+            "cappedAnswer": "ENTRENCH"
+          },
+          {
+            "word": "INTENTION",
+            "answer": "intention",
+            "cappedAnswer": "INTENTION"
+          },
+          {
+            "word": "RADIANT",
+            "answer": "radiant",
+            "cappedAnswer": "RADIANT"
+          },
+          {
+            "word": "SINCERE",
+            "answer": "sincere",
+            "cappedAnswer": "SINCERE"
+          },
+          {
+            "word": "YEARN",
+            "answer": "yearned",
+            "cappedAnswer": "YEARNED"
+          },
+          {
+            "word": "ERECT",
+            "answer": "erect",
+            "cappedAnswer": "ERECT"
+          },
+          {
+            "word": "AMUSEMENT",
+            "answer": "amusement",
+            "cappedAnswer": "AMUSEMENT"
+          },
+          {
+            "word": "DEBUT",
+            "answer": "debut",
+            "cappedAnswer": "DEBUT"
+          },
+          {
+            "word": "IMMORTAL",
+            "answer": "immortal",
+            "cappedAnswer": "IMMORTAL"
+          },
+          {
+            "word": "OBTAIN",
+            "answer": "obtain",
+            "cappedAnswer": "OBTAIN"
+          },
+          {
+            "word": "SERENE",
+            "answer": "serene",
+            "cappedAnswer": "SERENE"
+          },
+          {
+            "word": "COMPILE",
+            "answer": "compiled",
+            "cappedAnswer": "COMPILED"
+          },
+          {
+            "word": "EQUILIBRIUM",
+            "answer": "equilibrium",
+            "cappedAnswer": "EQUILIBRIUM"
+          },
+          {
+            "word": "LAVISH",
+            "answer": "lavish",
+            "cappedAnswer": "LAVISH"
+          },
+          {
+            "word": "PACT",
+            "answer": "pact",
+            "cappedAnswer": "PACT"
+          },
+          {
+            "word": "STATIONARY",
+            "answer": "stationary",
+            "cappedAnswer": "STATIONARY"
+          },
+          {
+            "word": "CONFINE",
+            "answer": "confine",
+            "cappedAnswer": "CONFINE"
+          },
+          {
+            "word": "EXCEED",
+            "answer": "exceed",
+            "cappedAnswer": "EXCEED"
+          },
+          {
+            "word": "LINGER",
+            "answer": "lingered",
+            "cappedAnswer": "LINGERED"
+          },
+          {
+            "word": "PORTRAY",
+            "answer": "portray",
+            "cappedAnswer": "PORTRAY"
+          },
+          {
+            "word": "TYRANT",
+            "answer": "tyrant",
+            "cappedAnswer": "TYRANT"
+          },
+          {
+            "word": "CONTRADICT",
+            "answer": "contradict",
+            "cappedAnswer": "CONTRADICT"
+          },
+          {
+            "word": "GULLY",
+            "answer": "gully",
+            "cappedAnswer": "GULLY"
+          },
+          {
+            "word": "NEGLIGENT",
+            "answer": "negligent",
+            "cappedAnswer": "NEGLIGENT"
+          },
+          {
+            "word": "RESIDE",
+            "answer": "resided",
+            "cappedAnswer": "RESIDED"
+          },
+          {
+            "word": "UTTER",
+            "answer": "utter",
+            "cappedAnswer": "UTTER"
+          },
+          {
+            "word": "CZAR",
+            "answer": "czar",
+            "cappedAnswer": "CZAR"
+          },
+          {
+            "word": "IDLE",
+            "answer": "idle",
+            "cappedAnswer": "IDLE"
+          },
+          {
+            "word": "OBLIGATION",
+            "answer": "obligation",
+            "cappedAnswer": "OBLIGATION"
+          },
+          {
+            "word": "SCOLD",
+            "answer": "scolded",
+            "cappedAnswer": "SCOLDED"
+          }
         ],
         "questions": [
           {

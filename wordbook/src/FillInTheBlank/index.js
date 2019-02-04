@@ -6,6 +6,7 @@ export default class FillInTheBlank extends Component {
     const { part1, part2, onChange, wordlist, correct } = this.props;
     return (
       <React.Fragment>
+        {/* is this re-rendering each time? */}
         <Wordlist
           wordlist={wordlist}
           onChange={onChange}
