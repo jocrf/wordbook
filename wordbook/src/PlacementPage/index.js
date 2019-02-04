@@ -8,6 +8,7 @@ export default class PlacementPage extends Component {
     this.markWrongAnswers = this.markWrongAnswers.bind(this);
     this.resetAnswers = this.resetAnswers.bind(this);
     this.state = {
+      begun: false,
       group: 0,
       wrongAnswers: 0
     };
@@ -25,9 +26,8 @@ export default class PlacementPage extends Component {
   render () {
     return (
       <React.Fragment>
-        <Link to={`/placement/${this.state.group}`}>Begin</Link>
         <Route
-          path='/placement/:group'
+          path='/placement/:group?'
           render={({ match }) => <ExercisePage
             passed={this.state.wrongAnswers < 2 ? 'pass' : null}
             exercise={match.params.group} // for exercise and question components

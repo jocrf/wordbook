@@ -54,28 +54,30 @@ export default withRouter(class NavPanel extends Component {
             {
               +group === 0 && !this.props.quizCompleted &&
               <React.Fragment>
-                <p className='card-text'>Ready to get started?</p>
+                <p className='card-text'>The placement quiz will determine which of the eight Wordbook levels is the right one for your current level of knowledge.</p>
+                <p className='card-text'>You'll answer a series of multiple-choice questions. After each set of ten questions, you'll be told whether you've advanced to the next level or if the current one is a good level for you to start learning.</p>
+                <p className='card-text'>Ready to start?</p>
                 <button className='btn btn-primary' onClick={this.props.toggleQuizState}>Ready</button>
               </React.Fragment>
             }
             {
               !this.props.quizCompleted && +group > 0 &&
               <React.Fragment>
-                <p className='card-text'>Ready to learn?</p>
+                <p className='card-text'>Ready to start the next level?</p>
                 <button className='btn btn-primary' onClick={this.props.toggleQuizState}>Ready</button>
               </React.Fragment>
             }
             {
               !this.state.wordsetCompleted && this.props.quizCompleted &&
               <React.Fragment>
-                <p className='card-text'>You've completed Group {+group + 1} of the placement quiz! Ready to keep going?</p>
-                <button className='btn btn-primary' onClick={this.incrementExercise}>Ready</button>
+                <p className='card-text'>You've made it through Level {+group + 1} of the placement quiz!</p>
+                <button className='btn btn-primary' onClick={this.incrementExercise}>Continue</button>
               </React.Fragment>
             }
             {
               this.state.wordsetCompleted &&
               <React.Fragment>
-                <p className='card-text'>You've placed into Level {+group + 1}!</p>
+                <p className='card-text'>Level {+group + 1} is the correct difficulty level for you! Are you ready to start building your vocabulary?</p>
                 <NavLink className='btn btn-primary' to={`/learning/level/${+group + 1}/section/1/wordset/1/exercise/0`}>Begin learning</NavLink>
               </React.Fragment>
             }

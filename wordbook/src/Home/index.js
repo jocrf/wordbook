@@ -13,7 +13,7 @@ export default class Home extends Component {
           <p className='lead text-light'>
             If this is your first visit, take the placement quiz.
           </p>
-          <Link to='/placement' className='btn btn-orange'>Placement Quiz</Link>
+          <Link to='/placement/0' className='btn btn-orange'>Placement Quiz</Link>
         </div>
         <div className='container'>
           <p className='lead text-light'>

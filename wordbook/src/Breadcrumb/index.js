@@ -34,7 +34,13 @@ export default class Breadcrumb extends Component {
           </li>
           {learning === 'placement' &&
             <li className='breadcrumb-item'>
-              <NavLink to='/placement'>Placement Quiz</NavLink>
+              <NavLink to='/placement/0'>Placement Quiz</NavLink>
+            </li>
+          }
+          {learning === 'placement' && level &&
+            <li className='breadcrumb-item'>
+              {/* no NavLink b/c don't want the user to be able to navigate through the placement quiz, but do want them to know where they are within the quiz */}
+              Level {+level + 1}
             </li>
           }
           {learning === 'learning' && 
