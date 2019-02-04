@@ -3,7 +3,6 @@ import MultipleChoice from '../MultipleChoice';
 import TrueFalse from '../TrueFalse';
 import FillInTheBlank from '../FillInTheBlank';
 import QuestionWrapper from '../QuestionWrapper/';
-import Wordlist from '../Wordlist';
 
 export default class Exercise extends Component {
   constructor (props) {
@@ -140,16 +139,15 @@ export default class Exercise extends Component {
     } else if (type === 'fitb') {
       return (
         <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-          <Wordlist
-            onChange={this.changeHandler}
-            wordlist={this.props.wordlist}
-          />
           <FillInTheBlank
             part1={currentQuestion.part1}
             part2={currentQuestion.part2}
+            onChange={this.changeHandler}
+            wordlist={this.props.wordlist}
             // TODO: check data for consistency throughout - is it the 'answer' or the 'correct'?
             correctAnswer={currentQuestion.answer}
             correct={this.state.showAnswers ? this.state.selectedAnswers.answer === currentQuestion.answer : null}
+            value={this.state.selectedAnswers[currentQuestion.part1]}
             // TODO word
           />
         </QuestionWrapper>
