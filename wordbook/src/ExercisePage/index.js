@@ -85,9 +85,9 @@ export default class ExercisePage extends Component {
               <p className='card-text'>Example question, sometimes</p>
               <Exercise
                 definitions={this.state.chapter.definitions}
-                questions={this.state.chapter.questions}
-                questionType={this.state.chapter.type}
-                questionsToShow={this.state.chapter.type === 'mc-one' || this.state.chapter.type === 'fitb' ? 1 : null}
+                questions={this.state.chapter.exercise.questions}
+                questionType={this.state.chapter.exercise.type}
+                questionsToShow={this.state.chapter.exercise.type === 'mc-one' || this.state.chapter.type === 'fitb' ? 1 : null}
                 wordlist={this.state.chapter.wordList}
                 onQuizCompleted={this.onQuizCompleted}
                 toggleQuizState={this.toggleQuizState}
