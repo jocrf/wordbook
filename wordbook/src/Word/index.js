@@ -4,7 +4,7 @@ export default class Word extends Component {
   render () {
     const { definition } = this.props;
     return (
-      <div className='card col-lg-8 bg-primary text-light'>
+      <div className='card col-lg mt-3 mt-lg-0 bg-primary text-light'>
         <div className='card-body'>
           <div className='row'>
             <h3 className='mb-0 col-auto'>{definition.word}</h3>
