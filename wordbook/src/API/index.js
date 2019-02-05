@@ -20,21 +20,21 @@ export const getFile = (name) => {
 export const getExercise = (level, section, wordset, exercise, review) => {
   // correct for zero-indexing
   const fileName = getFile(level);
+  let chapterData = {};
   return fetch(fileName)
     .then(response => response.json())
     .then(response => {
       let selectedSection = response.sections[section - 1];
       if (review) {
         // return review test early
-        return selectedSection.reviewTest;
+        chapterData.exercise = selectedSection.reviewTest;
       }
       for (let key in selectedSection.wordsets) {
         if (+selectedSection.wordsets[key].id === (wordset - 1)) {
-          let chapterData = {};
           chapterData.exercise = selectedSection.wordsets[key].exercises[exercise];
           chapterData.definitions = selectedSection.wordsets[key].definitions;
-          return chapterData;
         }
       }
+      return chapterData;
     });
 };
