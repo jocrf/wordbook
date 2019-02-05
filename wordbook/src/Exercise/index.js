@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import MultipleChoice from '../MultipleChoice';
 import TrueFalse from '../TrueFalse';
 import FillInTheBlank from '../FillInTheBlank';
-import QuestionWrapper from '../QuestionWrapper/';
+import QuestionWrapper from '../QuestionWrapper';
+import Word from '../Word';
 
 export default class Exercise extends Component {
   constructor (props) {
@@ -13,7 +14,6 @@ export default class Exercise extends Component {
     this.incrementQuestionIndex = this.incrementQuestionIndex.bind(this);
     this.state = {
       currentQuestionIndex: 0,
-      feedback: null, // am I using this?
       buttonText: 'Check Answer',
       showAnswers: false,
       selectedAnswers: {}
@@ -121,20 +121,27 @@ export default class Exercise extends Component {
     const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
     if (type === 'mc-one') {
       return (
-        <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-          <MultipleChoice
-            prompt={currentQuestion.prompt}
-            answers={currentQuestion.answers}
-            correctAnswer={currentQuestion.correct}
-            onChange={this.changeHandler}
-            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-            placement={this.props.placement}
-            markWrongAnswers={this.props.markWrongAnswers} // for placement
-            value={this.state.selectedAnswers[currentQuestion.prompt]}
-            // TODO showDefinition boolean for pretest, after question is answered
-            // TODO word
-          />
-        </QuestionWrapper>
+        <React.Fragment>
+          <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+            <MultipleChoice
+              prompt={currentQuestion.prompt}
+              answers={currentQuestion.answers}
+              correctAnswer={currentQuestion.correct}
+              onChange={this.changeHandler}
+              correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+              placement={this.props.placement}
+              markWrongAnswers={this.props.markWrongAnswers} // for placement
+              value={this.state.selectedAnswers[currentQuestion.prompt]}
+              // TODO showDefinition boolean for pretest, after question is answered
+              // TODO word
+            />
+          </QuestionWrapper>
+          {this.state.showAnswers &&
+            <Word
+              definition={this.props.definitions[currentQuestion.word]}
+            />
+          }
+        </React.Fragment>
       );
     } else if (type === 'fitb') {
       return (
