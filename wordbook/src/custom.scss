@@ -81,4 +81,5 @@ input[type=radio]:checked + label {
   min-width: 5rem;
   min-height: 1rem;
   border-bottom: 1px solid black;
+  text-transform: uppercase;
 }

@@ -16,7 +16,7 @@ export default class FillInTheBlank extends Component {
         />
         <p>{part1} <span className='wordBlank text-center px-3'>
           {
-            this.props.value && `${this.props.value.toUpperCase()}`
+            this.props.value && `${this.props.value}`
           }
           </span> {part2}</p>
       </React.Fragment>
