@@ -83,17 +83,19 @@ export default class ExercisePage extends Component {
               <h1 className='card-title'>Title of exercise</h1>
               <p className='card-text'>Instructions</p>
               <p className='card-text'>Example question, sometimes</p>
-              <Exercise
-                definitions={this.state.chapter.definitions}
-                questions={this.state.chapter.exercise.questions}
-                questionType={this.state.chapter.exercise.type}
-                questionsToShow={this.state.chapter.exercise.type === 'mc-one' || this.state.chapter.exercise.type === 'fitb' ? 1 : null}
-                wordlist={this.state.chapter.exercise.wordList}
-                onQuizCompleted={this.onQuizCompleted}
-                toggleQuizState={this.toggleQuizState}
-                markWrongAnswers={this.props.markWrongAnswers}
-                placement={this.props.placement}
-              />
+              <div className='row'>
+                <Exercise
+                  definitions={this.state.chapter.definitions}
+                  questions={this.state.chapter.exercise.questions}
+                  questionType={this.state.chapter.exercise.type}
+                  questionsToShow={this.state.chapter.exercise.type === 'mc-one' || this.state.chapter.exercise.type === 'fitb' ? 1 : null}
+                  wordlist={this.state.chapter.exercise.wordList}
+                  onQuizCompleted={this.onQuizCompleted}
+                  toggleQuizState={this.toggleQuizState}
+                  markWrongAnswers={this.props.markWrongAnswers}
+                  placement={this.props.placement}
+                />
+            </div>
             </React.Fragment>
           }
         </div>
