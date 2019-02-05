@@ -21,17 +21,21 @@ export default class MultipleChoice extends Component {
   render () {
     const { answers, prompt } = this.props;
     return (
-      <fieldset onChange={this.changeHandler} className='form-group'>
-        <legend>{prompt}</legend>
-        {answers.map(answer =>
-          <div key={answer} className='form-check'>
-            <input type='radio' id={answer} value={answer} name={prompt} checked={answer === this.props.value} required />
-            <label htmlFor={answer} className='btn btn-outline-primary'>
-              {answer}
-            </label>
-          </div>
-        )}
-      </fieldset>
+      <React.Fragment>
+        <fieldset onChange={this.changeHandler} className='form-group'>
+          <legend>{prompt}</legend>
+          {answers.map(answer =>
+            <div key={answer} className='form-check'>
+              <input type='radio' id={answer} value={answer} name={prompt} checked={answer === this.props.value} required />
+              <label htmlFor={answer} className='btn btn-outline-primary'>
+                {answer}
+              </label>
+              {/* show score component on the checked answer */}
+              {answer === this.props.value && this.props.children}
+            </div>
+          )}
+        </fieldset>
+      </React.Fragment>
     );
   }
 }

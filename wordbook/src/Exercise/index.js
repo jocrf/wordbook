@@ -4,6 +4,7 @@ import TrueFalse from '../TrueFalse';
 import FillInTheBlank from '../FillInTheBlank';
 import QuestionWrapper from '../QuestionWrapper';
 import Word from '../Word';
+import Score from '../Score';
 
 export default class Exercise extends Component {
   constructor (props) {
@@ -94,7 +95,11 @@ export default class Exercise extends Component {
               correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
               value={this.state.selectedAnswers[currentQuestion.prompt]}
               // TODO word
-            />
+              >
+              {this.state.showAnswers && <Score
+                correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+              />} 
+            </MultipleChoice>
           )}
         </QuestionWrapper>
       );
@@ -134,7 +139,11 @@ export default class Exercise extends Component {
               value={this.state.selectedAnswers[currentQuestion.prompt]}
               // TODO showDefinition boolean for pretest, after question is answered
               // TODO word
-            />
+            >
+              {this.state.showAnswers && <Score
+                correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+              />}
+            </MultipleChoice>
           </QuestionWrapper>
           {this.state.showAnswers && !this.props.placement &&
             <Word
