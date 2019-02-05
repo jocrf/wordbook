@@ -1,8 +1,12 @@
 export const getPlacement = (level) => {
   const fileName = getFile(0);
+  let chapterData = {};
   return fetch(fileName)
     .then(response => response.json())
-    .then(response => response.groups[level]);
+    .then(response => {
+      chapterData.exercise = response.groups[level];
+      return chapterData;
+    });
 };
 
 export const getFile = (name) => {

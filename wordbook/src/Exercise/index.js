@@ -136,7 +136,7 @@ export default class Exercise extends Component {
               // TODO word
             />
           </QuestionWrapper>
-          {this.state.showAnswers &&
+          {this.state.showAnswers && !this.props.placement &&
             <Word
               definition={this.props.definitions[currentQuestion.word]}
             />

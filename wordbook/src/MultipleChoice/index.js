@@ -24,9 +24,9 @@ export default class MultipleChoice extends Component {
       <fieldset onChange={this.changeHandler} className='form-group'>
         <legend>{prompt}</legend>
         {answers.map(answer =>
-          <div className='form-check'>
+          <div key={answer} className='form-check'>
             <input type='radio' id={answer} value={answer} name={prompt} checked={answer === this.props.value} required />
-            <label key={answer} for={answer} className='btn btn-outline-primary'>
+            <label htmlFor={answer} className='btn btn-outline-primary'>
               {answer}
             </label>
           </div>
