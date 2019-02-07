@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import MultipleChoice from '../MultipleChoice';
-import TrueFalse from '../TrueFalse';
-import FillInTheBlank from '../FillInTheBlank';
+import MultipleChoice from './MultipleChoice';
+import TrueFalse from './TrueFalse';
+import FillInTheBlank from './FillInTheBlank';
 
 export default class Question extends Component {
   render () {
