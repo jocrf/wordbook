@@ -11,7 +11,7 @@ export default class FillInTheBlank extends Component {
           wordlist={wordlist}
           onChange={onChange}
           prompt={part1}
-          correct={correctAnswer}
+          correctAnswer={correctAnswer}
           value={this.props.value}
         />
         <p>{part1} <span className='wordBlank text-center px-3'>

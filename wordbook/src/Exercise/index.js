@@ -5,6 +5,7 @@ import FillInTheBlank from '../FillInTheBlank';
 import QuestionWrapper from '../QuestionWrapper';
 import Word from '../Word';
 import Score from '../Score';
+import Question from '../Question/index.js';
 
 export default class Exercise extends Component {
   constructor (props) {
@@ -70,104 +71,72 @@ export default class Exercise extends Component {
   render () {
     switch (this.props.questionType) {
       case 'mc-all':
-        return this.renderAll('mc-all');
       case 'tf':
-        return this.renderAll('tf');
+        return this.renderAll(this.props.questionType);
       case 'mc-one':
-        return this.renderOne('mc-one');
       case 'fitb':
-        return this.renderOne('fitb');
+        return this.renderOne(this.props.questionType);
       default:
         return <div>Default question</div>;
     }
   }
   renderAll (type) {
-    if (type === 'mc-all') {
-      return (
-        <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-          {this.props.questions.map(currentQuestion =>
-            <MultipleChoice
-              key={currentQuestion.correct}
-              prompt={currentQuestion.prompt}
-              answers={currentQuestion.answers}
-              correctAnswer={currentQuestion.correct}
-              onChange={this.changeHandler}
-              correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-              value={this.state.selectedAnswers[currentQuestion.prompt]}
-              // TODO word
-              >
-              {this.state.showAnswers && <Score
-                correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-              />} 
-            </MultipleChoice>
-          )}
-        </QuestionWrapper>
-      );
-    } else if (type === 'tf') {
-      return (
-        <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-          {this.props.questions.map(currentQuestion =>
-            <TrueFalse
-              key={currentQuestion.prompt}
-              prompt={currentQuestion.prompt}
-              correctAnswer={currentQuestion.correct}
-              onChange={this.changeHandler}
-              correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-              value={this.state.selectedAnswers[currentQuestion.prompt]}
-              // TODO word
-            />
-          )}
-        </QuestionWrapper>
-      );
-    }
+    return (
+      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+        {this.props.questions.map(question =>
+          <Question
+            type={type}
+            key={question.correct}
+            prompt={question.prompt}
+            answers={question.answers} // just for multiple choice
+            correctAnswer={question.correct}
+            onChange={this.changeHandler}
+            correct={this.state.showAnswers ? this.state.selectedAnswers[question.prompt] === question.correct : null}
+            value={this.state.selectedAnswers[question.prompt]}
+            // TODO word
+            >
+            {this.state.showAnswers && <Score
+              correct={this.state.showAnswers ? this.state.selectedAnswers[question.prompt] === question.correct : null}
+            />} 
+          </Question>
+        )}
+      </QuestionWrapper>
+    );
   }
   // below method for placement, pretest, and review quizzes
   renderOne (type) {
     const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
-    if (type === 'mc-one') {
-      return (
-        <React.Fragment>
-          <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-            <MultipleChoice
-              prompt={currentQuestion.prompt}
-              answers={currentQuestion.answers}
-              correctAnswer={currentQuestion.correct}
-              onChange={this.changeHandler}
-              correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-              placement={this.props.placement}
-              markWrongAnswers={this.props.markWrongAnswers} // for placement
-              value={this.state.selectedAnswers[currentQuestion.prompt]}
-              // TODO showDefinition boolean for pretest, after question is answered
-              // TODO word
-            >
-              {this.state.showAnswers && <Score
-                correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-              />}
-            </MultipleChoice>
-          </QuestionWrapper>
-          {this.state.showAnswers && !this.props.placement &&
-            <Word
-              definition={this.props.definitions[currentQuestion.word]}
-            />
-          }
-        </React.Fragment>
-      );
-    } else if (type === 'fitb') {
-      return (
+    return (
+      <React.Fragment>
         <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-          <FillInTheBlank
+          <Question
+            type={type}
             part1={currentQuestion.part1}
             part2={currentQuestion.part2}
-            onChange={this.changeHandler}
             wordlist={this.props.wordlist}
-            // TODO: check data for consistency throughout - is it the 'answer' or the 'correct'?
-            correctAnswer={currentQuestion.answer}
-            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.answer : null}
-            value={this.state.selectedAnswers[currentQuestion.part1]}
+            prompt={currentQuestion.prompt}
+            answers={currentQuestion.answers}
+            correctAnswer={currentQuestion.correct}
+            onChange={this.changeHandler}
+            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+            correctReview={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct : null}
+            placement={this.props.placement}
+            markWrongAnswers={this.props.markWrongAnswers} // for placement
+            value={this.state.selectedAnswers[currentQuestion.prompt] || this.state.selectedAnswers[currentQuestion.part1]}
             // TODO word
-          />
+          >
+            {this.state.showAnswers && <Score
+              correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
+              correctReview={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct : null}
+            />}
+          </Question>
         </QuestionWrapper>
-      );
-    }
+        {this.state.showAnswers && !this.props.placement && type !== 'fitb' &&
+          <Word
+            definition={this.props.definitions[currentQuestion.word]}
+          />
+        }
+      </React.Fragment>
+    );
   }
 }

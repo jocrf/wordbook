@@ -7,18 +7,18 @@ export default class Wordlist extends Component {
   }
 
   changeHandler (e) {
+    console.log(this.props.prompt, e.target.value);
     this.props.onChange(this.props.prompt, e.target.value);
   }
 
   render () {
-    const { wordlist, value } = this.props;
     return (
       <fieldset onChange={this.changeHandler} className='form-group'>
         <legend>Word list</legend>
-        {wordlist.map(word =>
-          <div className='form-check form-check-inline'>
-            <input type='radio' value={word.answer} name='wordlist' id={word.word} required checked={value === word.answer}/>
-            <label key={word.word} for={word.word} className='btn btn-outline-primary'>
+        {this.props.wordlist.map(word =>
+          <div key={word.word} className='form-check form-check-inline'>
+            <input type='radio' value={word.answer} name='wordlist' id={word.word} required checked={word.answer === this.props.value}/>
+            <label htmlFor={word.word} className='btn btn-outline-primary'>
               {word.word}
             </label>
           </div>
