@@ -95,7 +95,7 @@ export default class ExercisePage extends Component {
                   markWrongAnswers={this.props.markWrongAnswers}
                   placement={this.props.placement}
                 />
-            </div>
+              </div>
             </React.Fragment>
           }
         </div>

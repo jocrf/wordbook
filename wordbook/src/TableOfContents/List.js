@@ -5,7 +5,7 @@ import levels from './levels-config';
 export default class List extends Component {
   render () {
     let array, level, section, wordset;
-    switch(this.props.typeUrl) {
+    switch (this.props.typeUrl) {
       case 'level':
         array = levels;
         break;
@@ -53,7 +53,7 @@ export default class List extends Component {
               {!arrayItem.title.startsWith('Review') && this.props.url.endsWith(`${this.props.typeUrl}`) &&
                 <NavLink
                   to={`${this.props.url}/${arrayItem.id}`}
-                  >
+                >
                   {arrayItem.title}
                 </NavLink>
               }
@@ -68,6 +68,6 @@ export default class List extends Component {
           ))}
         </ol>
       </div>
-    )
+    );
   }
 }

@@ -19,7 +19,7 @@ export default class FillInTheBlank extends Component {
           {
             this.props.value && `${this.props.value}`
           }
-          </span> {part2}</p>
+        </span> {part2}</p>
       </React.Fragment>
     );
   }

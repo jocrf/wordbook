@@ -91,10 +91,10 @@ export default class Exercise extends Component {
             correct={this.state.showAnswers ? this.state.selectedAnswers[question.prompt] === question.correct : null}
             value={this.state.selectedAnswers[question.prompt]}
             // TODO word
-            >
+          >
             {this.state.showAnswers && <Score
               correct={this.state.showAnswers ? this.state.selectedAnswers[question.prompt] === question.correct : null}
-            />} 
+            />}
           </Question>
         )}
       </QuestionWrapper>
@@ -122,7 +122,7 @@ export default class Exercise extends Component {
             markWrongAnswers={this.props.markWrongAnswers} // for placement
             value={this.state.selectedAnswers[currentQuestion.prompt] || this.state.selectedAnswers[currentQuestion.part1]}
             // TODO word
-            >
+          >
             {this.state.showAnswers && <Score
               correct={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct) : null}
               correctReview={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct) : null}

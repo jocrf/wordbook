@@ -6,7 +6,7 @@ export default class Breadcrumb extends Component {
     super(props);
     this.state = {
       pretest: false
-    }
+    };
   }
 
   // TODO: apply Bootstrap 'active' class to last item in breadcrumb
@@ -22,7 +22,7 @@ export default class Breadcrumb extends Component {
       }
     }
   }
-  
+
   render () {
     // single letters below indicate the presence or absence of the url variables (params) beginning with the same letter - hence are used to determine which breadcrumbs to show
     const { learning, level, section, wordset, exercise, l, s, w, e } = this.props.match.params;
@@ -43,7 +43,7 @@ export default class Breadcrumb extends Component {
               Level {+level + 1}
             </li>
           }
-          {learning === 'learning' && 
+          {learning === 'learning' &&
             <li className='breadcrumb-item'>
               <NavLink exact to='/learning'>Learning</NavLink>
             </li>
@@ -63,23 +63,23 @@ export default class Breadcrumb extends Component {
               <NavLink exact to={`/learning/level/${level}/section/${section}/wordset/${wordset}`}>Wordset {wordset}</NavLink>
             </li>
           }
-          {wordset === 'review' && 
+          {wordset === 'review' &&
             <li className='breadcrumb-item'>
               <NavLink to={`/learning/level/${level}/section/${section}/review/`}>Review Test</NavLink>
             </li>
           }
           {e && this.state.pretest &&
             <li className='breadcrumb-item'>
-            <NavLink exact to={`/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/${exercise}`}>Pretest</NavLink>
+              <NavLink exact to={`/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/${exercise}`}>Pretest</NavLink>
             </li>
           }
           {e && !this.state.pretest &&
             <li className='breadcrumb-item'>
-            <NavLink exact to={`/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/${exercise}`}>Exercise {exercise}</NavLink>
+              <NavLink exact to={`/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/${exercise}`}>Exercise {exercise}</NavLink>
             </li>
           }
         </ol>
       </nav>
-    )
+    );
   }
 }

@@ -34,14 +34,14 @@ export default class TableOfContents extends Component {
             />
             <Route
               path='/learning/level/:level/section/:section'
-              render={({ match }) => 
-              <List
-                typeUrl='wordset'
-                url={match.url}
-                level={match.params.level} 
-                section={match.params.section}
-                title='Wordsets'
-              />}
+              render={({ match }) =>
+                <List
+                  typeUrl='wordset'
+                  url={match.url}
+                  level={match.params.level}
+                  section={match.params.section}
+                  title='Wordsets'
+                />}
             />
             <Route
               path='/learning/level/:level/section/:section/review/:review'
@@ -57,14 +57,14 @@ export default class TableOfContents extends Component {
             <Route
               path='/learning/level/:level/section/:section/wordset/:wordset'
               render={({ match }) =>
-              <List
-                typeUrl='exercise'
-                section={match.params.section}
-                level={match.params.level}
-                wordset={match.params.wordset}
-                url={match.url}
-                title='Exercises'
-              />}
+                <List
+                  typeUrl='exercise'
+                  section={match.params.section}
+                  level={match.params.level}
+                  wordset={match.params.wordset}
+                  url={match.url}
+                  title='Exercises'
+                />}
             />
           </div>
         </div>

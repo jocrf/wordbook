@@ -11,6 +11,6 @@ export default class Score extends Component {
           <span>wrong</span>
         }
       </React.Fragment>
-    )
+    );
   }
 }

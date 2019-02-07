@@ -9,7 +9,7 @@ export default class LearningPage extends Component {
     this.toggleToC = this.toggleToC.bind(this);
     this.state = {
       showToC: true
-    }
+    };
   }
 
   toggleToC () {

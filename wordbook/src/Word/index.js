@@ -11,10 +11,10 @@ export default class Word extends Component {
             <p className='card-text mb-0 col-auto'>{definition.pos}</p>
             <p className='card-text mb-0 col-auto'>{definition.phonetic}</p>
           </div>
-          <hr className='bg-secondary'></hr>
+          <hr className='bg-secondary' />
           <p className='card-text'>{definition.deftext}</p>
         </div>
       </div>
-    )
+    );
   }
 }
