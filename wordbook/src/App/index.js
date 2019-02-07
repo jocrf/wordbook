@@ -1,53 +1,25 @@
 import React, { Component } from 'react';
-import QuizContainer from '../QuizContainer/index';
-import PlacementQuizContainer from '../PlacementQuizContainer/index';
-import { Route, Link } from 'react-router-dom';
+import { Route } from 'react-router-dom';
+import LearningPage from '../LearningPage';
+import Home from '../Home';
+import PlacementPage from '../PlacementPage';
+import Breadcrumb from '../Breadcrumb';
 
 export default class App extends Component {
-  constructor (props) {
-    super(props);
-    this.incrementExercise = this.incrementExercise.bind(this);
-    this.incrementLevel = this.incrementLevel.bind(this);
-    this.state = {
-      currentLevel: 0,
-      currentChapter: 0
-    };
-  }
-
-  incrementExercise () {
-    this.setState(currentState => (
-      { currentChapter: currentState.currentChapter + 1 }
-    ));
-  }
-
-  incrementLevel () {
-    this.setState(currentState => (
-      { currentLevel: currentState.currentLevel + 1 }
-    ));
-  }
-
   render () {
     return (
-      <React.Fragment>
-        <h1>Welcome to the Wordbook App</h1>
-        <Route exact path='/'>
-          <Link to='/'>Home</Link>
-        </Route>
-        {this.state.currentLevel === 0 &&
-          <Link to='placement'>Take the placement test</Link>
-        }
-        <Route
-          path='/placement'
-          render={(props) => <PlacementQuizContainer {...props} currentLevel={this.state.currentLevel} currentChapter={this.state.currentChapter} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
-        />
-        {this.state.currentLevel > 0 &&
-          <Link to='quiz'>Start learning</Link>
-        }
-        <Route
-          path='quiz'
-          render={(props) => <QuizContainer {...props} currentLevel={this.state.currentLevel} currentChapter={this.state.currentChapter} incrementLevel={this.incrementLevel} incrementExercise={this.incrementExercise} />}
-        />
-      </React.Fragment>
+      <main className='container bg-secondary min-vh-100'>
+        <header className='row justify-content-between bg-gradient-secondary'>
+          <div className='mb-1 col-sm ml-3 mr-3 '>
+            <img src='http://localhost:3000/logo_0.png' alt="Johnson O'Connor Logo" className='mw-100 mh-100'/>
+          </div>
+          <h1 className='text-right align-self-end mr-3 col-sm text-primary'>Wordbook</h1>
+        </header>
+        <Route path='/:learning?/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?' component={Breadcrumb} />
+        <Route exact path='/' component={Home} />
+        <Route path='/placement' component={PlacementPage} />
+        <Route path='/learning' component={LearningPage} />
+      </main>
     );
   }
 }
