@@ -83,12 +83,16 @@ export default class Exercise extends Component {
         {this.props.questions.map(question =>
           <Question
             type={type}
-            key={question.correct}
+            key={question.correct} // truefalse key should be different
             prompt={question.prompt}
             answers={question.answers} // just for multiple choice
-            correctAnswer={question.correct}
+            correctAnswer={
+              type === 'mc-all' ? question.answers[question.correct] : question.correct
+            }
             onChange={this.changeHandler}
-            correct={this.state.showAnswers ? this.state.selectedAnswers[question.prompt] === question.correct : null}
+            correct={
+              this.state.showAnswers ? this.state.selectedAnswers[question.prompt] === question.correct : null
+            }
             value={this.state.selectedAnswers[question.prompt]}
             // TODO word
           >
