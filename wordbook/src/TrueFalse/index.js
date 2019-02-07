@@ -26,6 +26,7 @@ export default class TrueFalse extends Component {
             False
           </label>
         </div>
+        {this.props.children}
       </fieldset>
     );
   }

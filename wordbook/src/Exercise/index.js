@@ -1,7 +1,4 @@
 import React, { Component } from 'react';
-import MultipleChoice from '../MultipleChoice';
-import TrueFalse from '../TrueFalse';
-import FillInTheBlank from '../FillInTheBlank';
 import QuestionWrapper from '../QuestionWrapper';
 import Word from '../Word';
 import Score from '../Score';
@@ -106,6 +103,7 @@ export default class Exercise extends Component {
   // below method for placement, pretest, and review quizzes
   renderOne (type) {
     const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
+    console.log(currentQuestion);
     return (
       <React.Fragment>
         <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
@@ -118,16 +116,16 @@ export default class Exercise extends Component {
             answers={currentQuestion.answers}
             correctAnswer={currentQuestion.correct}
             onChange={this.changeHandler}
-            correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-            correctReview={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct : null}
+            correct={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct) : null}
+            correctReview={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct) : null}
             placement={this.props.placement}
             markWrongAnswers={this.props.markWrongAnswers} // for placement
             value={this.state.selectedAnswers[currentQuestion.prompt] || this.state.selectedAnswers[currentQuestion.part1]}
             // TODO word
-          >
+            >
             {this.state.showAnswers && <Score
-              correct={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct : null}
-              correctReview={this.state.showAnswers ? this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct : null}
+              correct={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct) : null}
+              correctReview={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct) : null}
             />}
           </Question>
         </QuestionWrapper>

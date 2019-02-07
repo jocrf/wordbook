@@ -14,6 +14,7 @@ export default class FillInTheBlank extends Component {
           correctAnswer={correctAnswer}
           value={this.props.value}
         />
+        {this.props.children}
         <p>{part1} <span className='wordBlank text-center px-3'>
           {
             this.props.value && `${this.props.value}`

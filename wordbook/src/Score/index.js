@@ -5,7 +5,7 @@ export default class Score extends Component {
     return (
       <React.Fragment>
         {(this.props.correct || this.props.correctReview) &&
-          <span>check</span>
+          <span>right</span>
         }
         {(!this.props.correct || this.props.correctReview) &&
           <span>wrong</span>
