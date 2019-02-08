@@ -16,13 +16,13 @@ export default class TrueFalse extends Component {
         <legend>{this.props.prompt}</legend>
         <div className='form-check form-check-inline'>
           <input type='radio' value='true' id='true' name={this.props.prompt} required checked={this.props.value === 'true'} />
-          <label for='true' className='btn btn-outline-primary'>
+          <label htmlFor='true' className='btn btn-outline-primary'>
             True
           </label>
         </div>
         <div className='form-check form-check-inline'>
           <input type='radio' value='false' id='false' name={this.props.prompt} required checked={this.props.value === 'false'} />
-          <label for='false' className='btn btn-outline-primary'>
+          <label htmlFor='false' className='btn btn-outline-primary'>
             False
           </label>
         </div>

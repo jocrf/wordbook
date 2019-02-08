@@ -14,7 +14,7 @@ export default class Question extends Component {
       case 'fitb':
         return <FillInTheBlank {...this.props} />;
       default:
-        return console.log('unexpected prop type');
+        throw new Error(`unexpected question type: ${this.props.type}`);
     }
   }
 }

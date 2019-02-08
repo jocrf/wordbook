@@ -31,7 +31,7 @@ export default class MultipleChoice extends Component {
                 {answer}
               </label>
               {/* show score component on the checked answer */}
-              {answer === this.props.value && this.props.children}
+              {(answer === this.props.value) && this.props.children}
             </div>
           )}
         </fieldset>

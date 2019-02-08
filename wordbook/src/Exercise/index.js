@@ -66,79 +66,63 @@ export default class Exercise extends Component {
   // TODO flexible render method that displays the # of questions passed in as questionsToShow
 
   render () {
+    let question;
     switch (this.props.questionType) {
       case 'mc-all':
       case 'tf':
-        return this.renderAll(this.props.questionType);
+        question = this.props.questions.map(question => this.renderQuestion(question, this.props.questionType));
+        break;
       case 'mc-one':
       case 'fitb':
-        return this.renderOne(this.props.questionType);
+        const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
+        question = this.renderQuestion(currentQuestion, this.props.questionType);
+        break;
       default:
-        return <div>Default question</div>;
+        question = <div>Default question</div>;
     }
-  }
-  renderAll (type) {
     return (
       <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-        {this.props.questions.map(question =>
-          <Question
-            type={type}
-            key={question.correct} // truefalse key should be different
-            prompt={question.prompt}
-            answers={question.answers} // just for multiple choice
-            correctAnswer={
-              type === 'mc-all' ? question.answers[question.correct] : question.correct
-            }
-            onChange={this.changeHandler}
-            correct={
-              this.state.showAnswers ? this.state.selectedAnswers[question.prompt] === question.correct : null
-            }
-            value={this.state.selectedAnswers[question.prompt]}
-            // TODO word
-          >
-            {this.state.showAnswers && <Score
-              correct={this.state.showAnswers ? this.state.selectedAnswers[question.prompt] === question.correct : null}
-            />}
-          </Question>
-        )}
+        {question}
       </QuestionWrapper>
     );
   }
-  // below method for placement, pretest, and review quizzes
-  renderOne (type) {
-    const currentQuestion = this.props.questions[this.state.currentQuestionIndex];
-    console.log(currentQuestion);
+  renderQuestion (question, type) {
+    const correctProps = {
+      correct: this.state.showAnswers ? (this.state.selectedAnswers[question.prompt] === question.correct) : null,
+      correctReview: this.state.showAnswers ? (this.state.selectedAnswers[question.part1] === question.correct) : null
+    };
+    const showWord = this.state.showAnswers && !this.props.placement && type === 'mc-one';
     return (
-      <React.Fragment>
-        <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
-          <Question
-            type={type}
-            part1={currentQuestion.part1}
-            part2={currentQuestion.part2}
-            wordlist={this.props.wordlist}
-            prompt={currentQuestion.prompt}
-            answers={currentQuestion.answers}
-            correctAnswer={currentQuestion.correct}
-            onChange={this.changeHandler}
-            correct={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct) : null}
-            correctReview={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct) : null}
-            placement={this.props.placement}
-            markWrongAnswers={this.props.markWrongAnswers} // for placement
-            value={this.state.selectedAnswers[currentQuestion.prompt] || this.state.selectedAnswers[currentQuestion.part1]}
-            // TODO word
-          >
-            {this.state.showAnswers && <Score
-              correct={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.prompt] === currentQuestion.correct) : null}
-              correctReview={this.state.showAnswers ? (this.state.selectedAnswers[currentQuestion.part1] === currentQuestion.correct) : null}
-            />}
-          </Question>
-        </QuestionWrapper>
-        {this.state.showAnswers && !this.props.placement && type !== 'fitb' &&
+      <React.Fragment key={question.prompt + question.answer}>
+        <Question
+          {...correctProps}
+          type={type}
+          part1={question.part1}
+          part2={question.part2}
+          wordlist={this.props.wordlist}
+          prompt={question.prompt}
+          answers={question.answers}
+          correctAnswer={type === 'mc-all' ? question.answers[question.correct] : question.correct}
+          onChange={this.changeHandler}
+          placement={this.props.placement}
+          markWrongAnswers={this.props.markWrongAnswers} // for placement
+          value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[question.part1]}
+        // TODO word
+        >
+          {this.state.showAnswers && <Score
+            {...correctProps}
+          />}
+        </Question>
+        {showWord &&
           <Word
-            definition={this.props.definitions[currentQuestion.word]}
+            definition={this.props.definitions[question.word]}
           />
         }
       </React.Fragment>
     );
+  }
+  componentDidCatch (error, info) {
+    // set state to 'errored' or similar and have logic in the render method to render an alternative experience if errors
+    console.log(error, info);
   }
 }

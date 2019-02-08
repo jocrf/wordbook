@@ -4,8 +4,6 @@ import List from './List';
 
 export default class TableOfContents extends Component {
   render () {
-    const { level, section, wordset, exercise } = this.props.match.params;
-    console.log(level, section, wordset, exercise);
     return (
       <div className='card'>
         <div className='card-body'>

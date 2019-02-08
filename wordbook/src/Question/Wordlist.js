@@ -7,7 +7,6 @@ export default class Wordlist extends Component {
   }
 
   changeHandler (e) {
-    console.log(this.props.prompt, e.target.value);
     this.props.onChange(this.props.prompt, e.target.value);
   }
 
