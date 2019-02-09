@@ -87,15 +87,20 @@ export default class Exercise extends Component {
     );
   }
   renderQuestion (question, type) {
-    const correctProps = {
-      correct: this.state.showAnswers ? (this.state.selectedAnswers[question.prompt] === question.correct) : null,
-      correctReview: this.state.showAnswers ? (this.state.selectedAnswers[question.part1] === question.correct) : null
-    };
+    // scoreProps used primarily for Score component's rendering
+    let scoreProps = {};
+    if (type === 'fitb') {
+      scoreProps.isCorrect = this.state.showAnswers ? (this.state.selectedAnswers[question.part1] === question.correct) : null;
+    } else if (type === 'mc-all') {
+      scoreProps.isCorrect = this.state.showAnswers ? (this.state.selectedAnswers[question.prompt] === question.answers[question.correct]) : null;
+    } else {
+      scoreProps.isCorrect = this.state.showAnswers ? (this.state.selectedAnswers[question.prompt] === question.correct) : null;
+    }
     const showWord = this.state.showAnswers && !this.props.placement && type === 'mc-one';
     return (
       <React.Fragment key={question.prompt + question.answer}>
         <Question
-          {...correctProps}
+          {...scoreProps}
           type={type}
           part1={question.part1}
           part2={question.part2}
@@ -111,7 +116,7 @@ export default class Exercise extends Component {
         // TODO word
         >
           {this.state.showAnswers && <Score
-            {...correctProps}
+            {...scoreProps}
           />}
         </Question>
         {showWord &&

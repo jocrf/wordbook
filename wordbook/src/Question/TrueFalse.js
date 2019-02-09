@@ -33,6 +33,7 @@ export default class TrueFalse extends Component {
             correctAnswer={this.props.correctAnswer}
           />
         </div>
+        {/* show score component on the checked answer */}
         {this.props.children}
       </fieldset>
     );
