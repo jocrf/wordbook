@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Input from './Input';
 
 export default class MultipleChoice extends Component {
   constructor (props) {
@@ -19,19 +20,22 @@ export default class MultipleChoice extends Component {
   }
 
   render () {
-    const { answers, prompt } = this.props;
+    const { options, prompt, value } = this.props;
     return (
       <React.Fragment>
         <fieldset onChange={this.changeHandler} className='form-group'>
           <legend>{prompt}</legend>
-          {answers.map(answer =>
-            <div key={answer} className='form-check'>
-              <input type='radio' id={answer} value={answer} name={prompt} checked={answer === this.props.value} required />
-              <label htmlFor={answer} className={'btn btn-outline-primary' + (this.props.showAnswers && this.props.correctAnswer === answer ? ' correctAnswer' : '')}>
-                {answer}
-              </label>
+          {options.map(option =>
+            <div key={option} className='form-check'>
+              <Input
+                option={option}
+                prompt={prompt}
+                chosenAnswer={value}
+                showAnswers={this.props.showAnswers}
+                correctAnswer={this.props.correctAnswer}
+              />
               {/* show score component on the checked answer */}
-              {(answer === this.props.value) && this.props.children}
+              {(option === this.props.value) && this.props.children}
             </div>
           )}
         </fieldset>

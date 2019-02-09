@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Input from './Input';
 
 export default class TrueFalse extends Component {
   constructor (props) {
@@ -15,16 +16,22 @@ export default class TrueFalse extends Component {
       <fieldset onChange={this.changeHandler} className='form-group position-relative'>
         <legend>{this.props.prompt}</legend>
         <div className='form-check form-check-inline'>
-          <input type='radio' value='true' id='true' name={this.props.prompt} required checked={this.props.value === 'true'} />
-          <label htmlFor='true' className={'btn btn-outline-primary' + (this.props.showAnswers && this.props.correctAnswer === 'true' ? ' correctAnswer' : '')}>
-            True
-          </label>
+          <Input
+            option='true'
+            prompt={this.props.prompt}
+            chosenAnswer={this.props.value}
+            showAnswers={this.props.showAnswers}
+            correctAnswer={this.props.correctAnswer}
+          />
         </div>
         <div className='form-check form-check-inline'>
-          <input type='radio' value='false' id='false' name={this.props.prompt} required checked={this.props.value === 'false'} />
-          <label htmlFor='false' className={'btn btn-outline-primary' + (this.props.showAnswers && this.props.correctAnswer === 'false' ? ' correctAnswer' : '')}>
-            False
-          </label>
+          <Input
+            option='false'
+            prompt={this.props.prompt}
+            chosenAnswer={this.props.value}
+            showAnswers={this.props.showAnswers}
+            correctAnswer={this.props.correctAnswer}
+          />
         </div>
         {this.props.children}
       </fieldset>

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Input from './Input';
 
 export default class Wordlist extends Component {
   constructor (props) {
@@ -16,10 +17,14 @@ export default class Wordlist extends Component {
         <legend>Word list</legend>
         {this.props.wordlist.map(word =>
           <div key={word.word} className='form-check form-check-inline'>
-            <input type='radio' value={word.answer} name='wordlist' id={word.word} required checked={word.answer === this.props.value} />
-            <label htmlFor={word.word} className={'btn btn-outline-primary' + (this.props.showAnswers && this.props.correctAnswer === word.answer ? ' correctAnswer' : '')}>
-              {word.word}
-            </label>
+            <Input
+              option={word.answer}
+              prompt={this.props.prompt}
+              chosenAnswer={this.props.value}
+              showAnswers={this.props.showAnswers}
+              correctAnswer={this.props.correctAnswer}
+              word={word.word}
+            />
           </div>
         )}
       </fieldset>

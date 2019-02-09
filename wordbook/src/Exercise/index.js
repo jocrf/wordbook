@@ -101,7 +101,7 @@ export default class Exercise extends Component {
           part2={question.part2}
           wordlist={this.props.wordlist}
           prompt={question.prompt}
-          answers={question.answers}
+          options={question.answers}
           correctAnswer={type === 'mc-all' ? question.answers[question.correct] : question.correct}
           onChange={this.changeHandler}
           placement={this.props.placement}
