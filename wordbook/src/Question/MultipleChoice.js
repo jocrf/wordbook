@@ -27,7 +27,7 @@ export default class MultipleChoice extends Component {
           {answers.map(answer =>
             <div key={answer} className='form-check'>
               <input type='radio' id={answer} value={answer} name={prompt} checked={answer === this.props.value} required />
-              <label htmlFor={answer} className='btn btn-outline-primary'>
+              <label htmlFor={answer} className={'btn btn-outline-primary' + (this.props.showAnswers && this.props.correctAnswer === answer ? ' correctAnswer' : '')}>
                 {answer}
               </label>
               {/* show score component on the checked answer */}

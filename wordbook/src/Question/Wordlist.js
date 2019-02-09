@@ -17,7 +17,7 @@ export default class Wordlist extends Component {
         {this.props.wordlist.map(word =>
           <div key={word.word} className='form-check form-check-inline'>
             <input type='radio' value={word.answer} name='wordlist' id={word.word} required checked={word.answer === this.props.value} />
-            <label htmlFor={word.word} className='btn btn-outline-primary'>
+            <label htmlFor={word.word} className={'btn btn-outline-primary' + (this.props.showAnswers && this.props.correctAnswer === word.answer ? ' correctAnswer' : '')}>
               {word.word}
             </label>
           </div>

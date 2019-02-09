@@ -107,6 +107,7 @@ export default class Exercise extends Component {
           placement={this.props.placement}
           markWrongAnswers={this.props.markWrongAnswers} // for placement
           value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[question.part1]}
+          showAnswers={this.state.showAnswers}
         // TODO word
         >
           {this.state.showAnswers && <Score

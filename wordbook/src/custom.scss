@@ -88,3 +88,12 @@ input[type=radio]:checked + label {
   flex-grow: 2;
   margin: 1rem;
 }
+
+.correctAnswer {
+  background-color: green;
+  border-radius: 10px;
+}
+
+.wrongAnswer {
+  color: red;
+}
