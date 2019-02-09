@@ -91,9 +91,9 @@ input[type=radio]:checked + label {
 
 .correctAnswer {
   background-color: green;
-  border-radius: 10px;
 }
 
 .wrongAnswer {
-  color: red;
+  background-color: red;
+  box-shadow: 10px 10px red;
 }
