@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Input from './Input';
+import Score from '../Score';
 
 export default class TrueFalse extends Component {
   constructor (props) {
@@ -34,7 +35,12 @@ export default class TrueFalse extends Component {
           />
         </div>
         {/* show score component on the checked answer */}
-        {this.props.children}
+        {this.props.showAnswers &&
+          <Score
+            chosenAnswer={this.props.value}
+            correctAnswer={this.props.correctAnswer}
+          />
+        }
       </fieldset>
     );
   }

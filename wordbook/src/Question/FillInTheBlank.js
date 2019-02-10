@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Wordlist from './Wordlist';
+import Score from '../Score';
 
 export default class FillInTheBlank extends Component {
   render () {
@@ -17,7 +18,12 @@ export default class FillInTheBlank extends Component {
           showAnswers={this.props.showAnswers}
         />
         {/* show score component on the checked answer */}
-        {this.props.children}
+        {this.props.showAnswers &&
+          <Score
+            chosenAnswer={this.props.value}
+            correctAnswer={this.props.correctAnswer}
+          />
+        }
         <p>{part1} <span className='wordBlank text-center px-3'>
           {
             this.props.value && `${this.props.value}`

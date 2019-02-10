@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Input from './Input';
+import Score from '../Score';
 
 export default class MultipleChoice extends Component {
   constructor (props) {
@@ -35,7 +36,12 @@ export default class MultipleChoice extends Component {
                 correctAnswer={this.props.correctAnswer}
               />
               {/* show score component on the checked answer */}
-              {(option === this.props.value) && this.props.children}
+              {this.props.showAnswers && (option === value) &&
+                <Score
+                  chosenAnswer={this.props.value}
+                  correctAnswer={this.props.correctAnswer}
+                />
+              }
             </div>
           )}
         </fieldset>

@@ -13,6 +13,8 @@ $theme-colors: (
   "secondary": rgb(211, 218, 223),
   "orange": #ffc185,
   "orange-dark": #bc5b00,
+  "correct": #70e835,
+  "wrong": #ff3838,
   "level1": #D754BF,
   "level2": #6DA65A,
   "level3": #DD3346,
@@ -90,10 +92,9 @@ input[type=radio]:checked + label {
 }
 
 .correctAnswer {
-  background-color: green;
+  box-shadow: 0px 0px 4px 4px theme-color('correct');
 }
 
 .wrongAnswer {
-  background-color: red;
-  box-shadow: 10px 10px red;
+  box-shadow: 0px 0px 4px 4px theme-color('wrong');
 }
