@@ -47,7 +47,7 @@ export default withRouter(class NavPanel extends Component {
 
   render () {
     // TODO: add type checker - if type 'review', say 'x', if type 'placement', say 'y', etc
-    const { level, section, wordset, exercise, group } = this.props;
+    const { level, section, wordset, exercise, group, instructions } = this.props;
     return (
       <React.Fragment>
         {this.props.placement &&
@@ -56,11 +56,9 @@ export default withRouter(class NavPanel extends Component {
               +group === 0 && !this.props.quizCompleted &&
               <React.Fragment>
                 <Instructions
-                  
+                  title={instructions.title}
+                  instructions={instructions.instructions}
                 />
-                <p className='card-text'>The placement quiz will determine which of the eight Wordbook levels is the right one for your current level of knowledge.</p>
-                <p className='card-text'>You'll answer a series of multiple-choice questions. After each set of ten questions, you'll be told whether you've advanced to the next level or if the current one is a good level for you to start learning.</p>
-                <p className='card-text'>Ready to start?</p>
                 <button className='btn btn-primary' onClick={this.props.toggleQuizState}>Ready</button>
               </React.Fragment>
             }
@@ -108,7 +106,10 @@ export default withRouter(class NavPanel extends Component {
               !this.props.quizCompleted &&
               <React.Fragment>
                 <Instructions
-                  
+                  title={instructions.title}
+                  instructions={instructions.instructions}
+                  exampleQuestion={instructions.example}
+                  exampleAnswer={instructions['example-answer']}
                 />
                 <p className='card-text'>Ready to learn?</p>
                 <button className='btn btn-primary'onClick={this.props.toggleQuizState}>Ready</button>
