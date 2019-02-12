@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Exercise from '../Exercise';
 import NavPanel from '../NavPanel';
-import { getExercise, getPlacement } from '../API';
+import { getExercise, getInstructions, getPlacement } from '../API';
 
 // {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
 
@@ -15,6 +15,7 @@ export default class ExercisePage extends Component {
     this.toggleQuizState = this.toggleQuizState.bind(this);
     this.state = {
       chapter: {},
+      instructions: {},
       isQuizzing: false,
       quizCompleted: false
     };
@@ -45,12 +46,14 @@ export default class ExercisePage extends Component {
   }
 
   populateData () {
-    if (this.props.placement) {
+    const { level, section, wordset, exercise, review, placement } = this.props;
+    getInstructions(exercise, review, placement)
+      .then(instructions => this.setState({ instructions: instructions }));
+    if (placement) {
       this.props.resetAnswers();
-      return getPlacement(this.props.exercise)
+      return getPlacement(exercise)
         .then(data => this.setState({ chapter: data }));
     }
-    const { level, section, wordset, exercise, review } = this.props;
     getExercise(level, section, wordset, exercise, review)
       .then(data => this.setState({ chapter: data }));
   }

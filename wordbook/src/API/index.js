@@ -12,6 +12,7 @@ export const getPlacement = (level) => {
 export const getFile = (name) => {
   // TODO: if these files remain in the public folder, substitute '%PUBLIC_URL%' for first part of URL to build correctly, BUT the files won't be minified or post-processed if they stay here
   const fileNames = {
+    'frontBackMatter': 'http://localhost:3000/front-back-matter.json',
     0: 'http://localhost:3000/placementdata.json',
     3: 'http://localhost:3000/new-level-3-trial.json',
     6: 'http://localhost:3000/new-level-6-trial.json',
@@ -40,5 +41,20 @@ export const getExercise = (level, section, wordset, exercise, review) => {
         }
       }
       return chapterData;
+    });
+};
+
+export const getInstructions = (exercise, review, placement) => {
+  const fileName = getFile('frontBackMatter');
+  return fetch(fileName)
+    .then(response => response.json())
+    .then(response => {
+      if (placement) {
+        return response.instructions.placement;
+      } else if (review) {
+        return response.instructions.review;
+      } else if (exercise) {
+        return response.instructions.exercises[exercise];
+      }
     });
 };
