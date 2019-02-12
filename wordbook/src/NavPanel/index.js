@@ -104,6 +104,9 @@ export default withRouter(class NavPanel extends Component {
                   instructions={instructions.instructions}
                   exampleQuestion={instructions.example}
                   exampleAnswer={instructions['example-answer']}
+                  level={this.props.level}
+                  wordset={this.props.wordset}
+                  section={this.props.section}
                 />
                 <p className='card-text'>Ready to learn?</p>
                 <button className='btn btn-primary'onClick={this.props.toggleQuizState}>Ready</button>

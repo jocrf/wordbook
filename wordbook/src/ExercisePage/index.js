@@ -74,9 +74,9 @@ export default class ExercisePage extends Component {
               group={this.props.group}
               passed={this.props.passed}
               review={this.props.review}
+              placement={this.props.placement}
               quizCompleted={this.state.quizCompleted}
               toggleQuizState={this.toggleQuizState}
-              placement={this.props.placement}
               instructions={this.state.instructions}
             />
           }
@@ -87,6 +87,9 @@ export default class ExercisePage extends Component {
                 instructions={this.state.instructions.instructions}
                 exampleQuestion={this.state.instructions.example}
                 exampleAnswer={this.state.instructions['example-answer']}
+                level={this.props.level}
+                wordset={this.props.wordset}
+                section={this.props.section}
               />
               <div className='row'>
                 <Exercise
