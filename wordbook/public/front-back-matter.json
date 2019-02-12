@@ -24,7 +24,8 @@
   "instructions": {
     "placement": {
       "title": "Placement Quiz",
-      "instructions": "The placement quiz will determine which of the eight Wordbook levels is the right one for your current level of knowledge. You'll answer a series of multiple-choice questions. After each set of ten questions, you'll be told whether you've advanced to the next level or if the current one is a good level for you to start learning. Ready to start?"
+      "overview": "The placement quiz will determine which of the eight Wordbook levels is the right one for your current level of knowledge. You'll answer a series of multiple-choice questions. After each set of ten questions, you'll be told whether you've advanced to the next level or if the current one is a good level for you to start learning.",
+      "instructions": "Each test word is printed in CAPITAL letters in a phrase. From the five choices given, select the one which comes nearest in meaning to the meaning of the test word."
     },
     "exercises": {
       "0": {

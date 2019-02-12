@@ -60,8 +60,9 @@ export default withRouter(class NavPanel extends Component {
               <React.Fragment>
                 <Instructions
                   title={instructions.title}
-                  instructions={instructions.instructions}
+                  instructions={instructions.overview}
                 />
+                <p className='card-text'>Ready to start?</p>
                 <button className='btn btn-primary' onClick={this.props.toggleQuizState}>Ready</button>
               </React.Fragment>
             }

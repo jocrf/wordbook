@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Exercise from '../Exercise';
 import NavPanel from '../NavPanel';
+import Instructions from '../Instructions';
 import { getExercise, getInstructions, getPlacement } from '../API';
 
 // TODO: implement showDefinition method - by default on exercise 0, optionally to click on word for other exercises
@@ -81,17 +82,12 @@ export default class ExercisePage extends Component {
           }
           {this.state.isQuizzing &&
             <React.Fragment>
-              <h1 className='card-title'>{this.state.instructions.title}</h1>
-              {!this.props.placement &&
-                <h2 className='card-title'>Level {this.props.level}, Section  {this.props.section}, Wordset {this.props.wordset}</h2>
-              }
-              {this.state.instructions.example &&
-                <React.Fragment>
-                  <h2>Example:</h2>
-                  <p className='card-text'>{this.state.instructions.example}</p>
-                  <p className='card-text'>{this.state.instructions['example-answer']}</p>
-                </React.Fragment>
-              }
+              <Instructions
+                title={this.state.instructions.title}
+                instructions={this.state.instructions.instructions}
+                exampleQuestion={this.state.instructions.example}
+                exampleAnswer={this.state.instructions['example-answer']}
+              />
               <div className='row'>
                 <Exercise
                   definitions={this.state.chapter.definitions}
