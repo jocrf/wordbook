@@ -24,7 +24,7 @@ export default class FillInTheBlank extends Component {
             correctAnswer={this.props.correctAnswer}
           />
         }
-        <p>{part1} <span className='wordBlank text-center px-3'>
+        <p>{part1} <span className='wordBlank text-center px-3' onClick={this.props.toggleDefinition}>
           {
             this.props.value && `${this.props.value}`
           }

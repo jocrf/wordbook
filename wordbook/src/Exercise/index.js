@@ -84,7 +84,7 @@ export default class Exercise extends Component {
     );
   }
   renderQuestion (question, type) {
-    const showWord = this.state.showAnswers && !this.props.placement && type === 'mc-one';
+    let showWord = this.state.showAnswers && !this.props.placement && type === 'mc-one';
     return (
       <React.Fragment key={question.prompt + question.answer}>
         <Question
@@ -100,7 +100,7 @@ export default class Exercise extends Component {
           markWrongAnswers={this.props.markWrongAnswers} // for placement
           value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[question.part1]}
           showAnswers={this.state.showAnswers}
-        // TODO word
+          word={question.word}
         />
         {showWord &&
           <Word
