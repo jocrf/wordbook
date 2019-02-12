@@ -3,8 +3,6 @@ import Exercise from '../Exercise';
 import NavPanel from '../NavPanel';
 import { getExercise, getInstructions, getPlacement } from '../API';
 
-// {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
-
 // TODO: implement showDefinition method - by default on exercise 0, optionally to click on word for other exercises
 
 export default class ExercisePage extends Component {
