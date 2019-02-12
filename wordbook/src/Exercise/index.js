@@ -101,7 +101,7 @@ export default class Exercise extends Component {
           value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[question.part1]}
           showAnswers={this.state.showAnswers}
           word={question.word}
-          definition={this.props.definitions[question.word]}
+          definition={this.props.definitions ? this.props.definitions[question.word] : null}
         />
         {showWord &&
           <Word

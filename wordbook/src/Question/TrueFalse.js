@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Input from './Input';
 import Score from '../Score';
+import Word from '../Word';
 
 export default class TrueFalse extends Component {
   constructor (props) {
@@ -15,7 +16,10 @@ export default class TrueFalse extends Component {
   render () {
     return (
       <fieldset onChange={this.changeHandler} className='form-group position-relative'>
-        <legend>{this.props.prompt}</legend>
+        <legend onClick={this.props.toggleDefinition}>{this.props.prompt}</legend>
+        {this.props.showDefinition &&
+          <Word definition={this.props.definition} />
+        }
         <div className='form-check form-check-inline'>
           <Input
             option='true'

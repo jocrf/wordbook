@@ -13,8 +13,13 @@ export default class Question extends Component {
   }
 
   toggleDefinition (prevState) {
-    console.log('clicked');
-    this.setState(prevState => ({ showDefinition: !prevState.showDefinition }));
+    // don't want to allow clicking/show definitions for placement, and mc-one aka pretest alreay shows definition automatically
+    if (this.props.placement || this.props.type === 'mc-one') {
+      return;
+    }
+    if (this.props.showAnswers) {
+      this.setState(prevState => ({ showDefinition: !prevState.showDefinition }));
+    }
   }
 
   render () {
