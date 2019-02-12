@@ -83,10 +83,17 @@ export default class ExercisePage extends Component {
           }
           {this.state.isQuizzing &&
             <React.Fragment>
-              {/* TODO: get below info dynamically */}
-              <h1 className='card-title'>Title of exercise</h1>
-              <p className='card-text'>Instructions</p>
-              <p className='card-text'>Example question, sometimes</p>
+              <h1 className='card-title'>{this.state.instructions.title}</h1>
+              {!this.props.placement &&
+                <h2 className='card-title'>Level {this.props.level}, Section  {this.props.section}, Wordset {this.props.wordset}</h2>
+              }
+              {this.state.instructions.example &&
+                <React.Fragment>
+                  <h2>Example:</h2>
+                  <p className='card-text'>{this.state.instructions.example}</p>
+                  <p className='card-text'>{this.state.instructions['example-answer']}</p>
+                </React.Fragment>
+              }
               <div className='row'>
                 <Exercise
                   definitions={this.state.chapter.definitions}

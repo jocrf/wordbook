@@ -9,7 +9,9 @@ export default class Instructions extends Component {
         <p>{instructions}</p>
         {exampleQuestion &&
           <React.Fragment>
+            <h3>Example question:</h3>
             <p>{exampleQuestion}</p>
+            <h3>Answer:</h3>
             <p>{exampleAnswer}</p>
           </React.Fragment>
         }
