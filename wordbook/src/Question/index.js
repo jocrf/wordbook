@@ -22,16 +22,19 @@ export default class Question extends Component {
       case 'mc-all':
       case 'mc-one':
         return <MultipleChoice
+          showDefinition={this.state.showDefinition}
           toggleDefinition={this.toggleDefinition}
           {...this.props}
         />;
       case 'tf':
         return <TrueFalse
+          showDefinition={this.state.showDefinition}
           toggleDefinition={this.toggleDefinition}
           {...this.props}
         />;
       case 'fitb':
         return <FillInTheBlank
+          showDefinition={this.state.showDefinition}
           toggleDefinition={this.toggleDefinition}
           {...this.props}
         />;

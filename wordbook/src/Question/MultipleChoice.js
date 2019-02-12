@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Input from './Input';
 import Score from '../Score';
+import Word from '../Word';
 
 export default class MultipleChoice extends Component {
   constructor (props) {
@@ -25,7 +26,10 @@ export default class MultipleChoice extends Component {
     return (
       <React.Fragment>
         <fieldset onChange={this.changeHandler} className='form-group'>
-          <legend>{prompt}</legend>
+          <legend onClick={this.props.toggleDefinition}>{prompt}</legend>
+          {this.props.showDefinition &&
+            <Word definition={this.props.definition} />
+          }
           {options.map(option =>
             <div key={option} className='form-check'>
               <Input
