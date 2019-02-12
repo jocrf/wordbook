@@ -78,7 +78,13 @@ export default class Exercise extends Component {
         question = <div>Default question</div>;
     }
     return (
-      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+      <QuestionWrapper
+        onButtonClick={this.checkButtonHandler}
+        buttonText={this.state.buttonText}
+        type={this.props.questionType}
+        placement={this.props.placement}
+        showAnswers={this.state.showAnswers}
+      >
         {question}
       </QuestionWrapper>
     );

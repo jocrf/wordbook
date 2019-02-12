@@ -16,7 +16,7 @@ export default class TrueFalse extends Component {
   render () {
     return (
       <fieldset onChange={this.changeHandler} className='form-group position-relative'>
-        <legend onClick={this.props.toggleDefinition}>{this.props.prompt}</legend>
+        <legend onClick={this.props.toggleDefinition} className={this.props.showAnswers && 'clickable'}>{this.props.prompt}</legend>
         {this.props.showDefinition &&
           <Word definition={this.props.definition} />
         }

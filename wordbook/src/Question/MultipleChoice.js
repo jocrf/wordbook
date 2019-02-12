@@ -26,7 +26,7 @@ export default class MultipleChoice extends Component {
     return (
       <React.Fragment>
         <fieldset onChange={this.changeHandler} className='form-group'>
-          <legend onClick={this.props.toggleDefinition}>{prompt}</legend>
+          <legend onClick={this.props.toggleDefinition} className={this.props.showAnswers && this.props.type !== 'mc-one' && 'clickable'}>{prompt}</legend>
           {this.props.showDefinition &&
             <Word definition={this.props.definition} />
           }

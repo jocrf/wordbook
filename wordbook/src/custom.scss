@@ -115,3 +115,11 @@ input[type=radio]:checked + label {
 .instructions {
   color: theme-color('primary');
 }
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:hover {
+  color: theme-color('orange-dark');
+}
