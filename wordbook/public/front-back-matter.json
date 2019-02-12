@@ -26,27 +26,33 @@
       "title": "Placement Quiz",
       "instructions": "The placement quiz will determine which of the eight Wordbook levels is the right one for your current level of knowledge. You'll answer a series of multiple-choice questions. After each set of ten questions, you'll be told whether you've advanced to the next level or if the current one is a good level for you to start learning. Ready to start?"
     },
-    "pretest": {
-      "title": "Pretest",
-      "instructions": "Each test word is printed in CAPITAL letters in a phrase. From the five choices given, select the one which comes nearest in meaning to the meaning of the test word."
-    },
-    "exercise-1": {
-      "title": "Exercise 1",
-      "instructions": "Answer each question with a TRUE or FALSE.",
-      "example": "Is a speck of dust TINY?",
-      "example-answer": "FALSE"
-    },
-    "exercise-2": {
-      "title": "Exercise 2",
-      "instructions": "Each sentence contains a test word in CAPITAL letters. Decide whether the test word is being used correctly (TRUE) or incorrectly (FALSE) in the sentence.",
-      "example": "After working hard all day Bill felt TINY and wanted to sleep.",
-      "example-answer": "FALSE"
-    },
-    "exercise-3": {
-      "title": "Exercise 3",
-      "instructions": "Each test word is followed by three other words. Decide which of the three words is LEAST CLOSELY RELATED in its meaning to the meaning of the test word.",
-      "example": "TINY: small, short, angry",
-      "example-answer": "angry"
+    "exercises": {
+      "0": {
+        "id": 0,
+        "title": "Pretest",
+        "instructions": "Each test word is printed in CAPITAL letters in a phrase. From the five choices given, select the one which comes nearest in meaning to the meaning of the test word."
+      },
+      "1": {
+        "id": 1,
+        "title": "Exercise 1",
+        "instructions": "Answer each question with a TRUE or FALSE.",
+        "example": "Is a speck of dust TINY?",
+        "example-answer": "FALSE"
+      },
+      "2": {
+        "id": 2,
+        "title": "Exercise 2",
+        "instructions": "Each sentence contains a test word in CAPITAL letters. Decide whether the test word is being used correctly (TRUE) or incorrectly (FALSE) in the sentence.",
+        "example": "After working hard all day Bill felt TINY and wanted to sleep.",
+        "example-answer": "FALSE"
+      },
+      "3": {
+        "id": 3,
+        "title": "Exercise 3",
+        "instructions": "Each test word is followed by three other words. Decide which of the three words is LEAST CLOSELY RELATED in its meaning to the meaning of the test word.",
+        "example": "TINY: small, short, angry",
+        "example-answer": "angry"
+      }
     },
     "review": {
       "title": "Review Test",
