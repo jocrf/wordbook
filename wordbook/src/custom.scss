@@ -15,7 +15,7 @@ $theme-colors: (
   "orange": #ffc185,
   "orange-dark": #bc5b00,
   "correct": #70e835,
-  "wrong": #ff3838,
+  "wrong": #ee0000,
   "level1": #D754BF,
   "level2": #6DA65A,
   "level3": #DD3346,
@@ -102,7 +102,6 @@ input[type=radio]:checked + label {
 
 .score {
   padding: 1rem;
-  text-decoration: underline;
 }
 
 .correctScore {
