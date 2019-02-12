@@ -7,6 +7,7 @@ $breadcrumb-divider: quote('>');
 $display4-size: 3rem;
 $h1-font-size: 2rem;
 $h2-font-size: 1.75rem;
+$h3-font-size: 1.5rem;
 $enable-gradients: true;
 $theme-colors: (
   "primary": #39586F,
@@ -110,4 +111,8 @@ input[type=radio]:checked + label {
 
 .wrongScore {
   color: theme-color('wrong');
+}
+
+.instructions {
+  color: theme-color('primary');
 }

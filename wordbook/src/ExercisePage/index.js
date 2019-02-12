@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
 import Exercise from '../Exercise';
 import NavPanel from '../NavPanel';
-import { getExercise, getPlacement } from '../API';
-
-// {this.props.level} {this.props.section} {this.props.wordset} {this.props.exercise}
+import Instructions from '../Instructions';
+import { getExercise, getInstructions, getPlacement } from '../API';
 
 // TODO: implement showDefinition method - by default on exercise 0, optionally to click on word for other exercises
 
@@ -15,6 +14,7 @@ export default class ExercisePage extends Component {
     this.toggleQuizState = this.toggleQuizState.bind(this);
     this.state = {
       chapter: {},
+      instructions: {},
       isQuizzing: false,
       quizCompleted: false
     };
@@ -45,12 +45,14 @@ export default class ExercisePage extends Component {
   }
 
   populateData () {
-    if (this.props.placement) {
+    const { level, section, wordset, exercise, review, placement } = this.props;
+    getInstructions(exercise, review, placement)
+      .then(instructions => this.setState({ instructions: instructions }));
+    if (placement) {
       this.props.resetAnswers();
-      return getPlacement(this.props.exercise)
+      return getPlacement(exercise)
         .then(data => this.setState({ chapter: data }));
     }
-    const { level, section, wordset, exercise, review } = this.props;
     getExercise(level, section, wordset, exercise, review)
       .then(data => this.setState({ chapter: data }));
   }
@@ -72,17 +74,23 @@ export default class ExercisePage extends Component {
               group={this.props.group}
               passed={this.props.passed}
               review={this.props.review}
+              placement={this.props.placement}
               quizCompleted={this.state.quizCompleted}
               toggleQuizState={this.toggleQuizState}
-              placement={this.props.placement}
+              instructions={this.state.instructions}
             />
           }
           {this.state.isQuizzing &&
             <React.Fragment>
-              {/* TODO: get below info dynamically */}
-              <h1 className='card-title'>Title of exercise</h1>
-              <p className='card-text'>Instructions</p>
-              <p className='card-text'>Example question, sometimes</p>
+              <Instructions
+                title={this.state.instructions.title}
+                instructions={this.state.instructions.instructions}
+                exampleQuestion={this.state.instructions.example}
+                exampleAnswer={this.state.instructions['example-answer']}
+                level={this.props.level}
+                wordset={this.props.wordset}
+                section={this.props.section}
+              />
               <div className='row'>
                 <Exercise
                   definitions={this.state.chapter.definitions}

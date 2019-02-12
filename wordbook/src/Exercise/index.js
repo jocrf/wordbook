@@ -62,8 +62,6 @@ export default class Exercise extends Component {
     }
   }
 
-  // TODO flexible render method that displays the # of questions passed in as questionsToShow
-
   render () {
     let question;
     switch (this.props.questionType) {

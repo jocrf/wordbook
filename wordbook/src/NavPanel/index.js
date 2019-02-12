@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { NavLink, withRouter } from 'react-router-dom';
+import Instructions from '../Instructions';
 
 export default withRouter(class NavPanel extends Component {
   constructor (props) {
@@ -21,7 +22,6 @@ export default withRouter(class NavPanel extends Component {
         nextExercise = null;
       }
     } else {
-      // eslint-disable-next-line default-case
       switch (exercise) {
         case '1':
         case '2':
@@ -33,6 +33,8 @@ export default withRouter(class NavPanel extends Component {
         case '3':
           nextExercise = null;
           break;
+        default:
+          throw new Error(console.log(`unexpected exercise type: ${exercise}`));
       }
     }
     if (nextExercise) {
@@ -46,20 +48,25 @@ export default withRouter(class NavPanel extends Component {
 
   render () {
     // TODO: add type checker - if type 'review', say 'x', if type 'placement', say 'y', etc
-    const { level, section, wordset, exercise, group } = this.props;
+    const { level, section, wordset, exercise, group, instructions } = this.props;
     return (
       <React.Fragment>
+        {/* for placement quiz */}
         {this.props.placement &&
           <React.Fragment>
+            {/* initial instructions page for placement quiz / intro */}
             {
               +group === 0 && !this.props.quizCompleted &&
               <React.Fragment>
-                <p className='card-text'>The placement quiz will determine which of the eight Wordbook levels is the right one for your current level of knowledge.</p>
-                <p className='card-text'>You'll answer a series of multiple-choice questions. After each set of ten questions, you'll be told whether you've advanced to the next level or if the current one is a good level for you to start learning.</p>
+                <Instructions
+                  title={instructions.title}
+                  instructions={instructions.overview}
+                />
                 <p className='card-text'>Ready to start?</p>
                 <button className='btn btn-primary' onClick={this.props.toggleQuizState}>Ready</button>
               </React.Fragment>
             }
+            {/* before starting next placement level */}
             {
               !this.props.quizCompleted && +group > 0 &&
               <React.Fragment>
@@ -67,6 +74,7 @@ export default withRouter(class NavPanel extends Component {
                 <button className='btn btn-primary' onClick={this.props.toggleQuizState}>Ready</button>
               </React.Fragment>
             }
+            {/* after completing a placement level */}
             {
               !this.state.wordsetCompleted && this.props.quizCompleted &&
               <React.Fragment>
@@ -74,6 +82,7 @@ export default withRouter(class NavPanel extends Component {
                 <button className='btn btn-primary' onClick={this.incrementExercise}>Continue</button>
               </React.Fragment>
             }
+            {/* end of placement quiz / outro */}
             {
               this.state.wordsetCompleted &&
               <React.Fragment>
@@ -83,8 +92,27 @@ export default withRouter(class NavPanel extends Component {
             }
           </React.Fragment>
         }
+        {/* every level other than placement */}
         {!this.props.placement &&
           <React.Fragment>
+            {/* starting a new exercise / instructions */}
+            {
+              !this.props.quizCompleted &&
+              <React.Fragment>
+                <Instructions
+                  title={instructions.title}
+                  instructions={instructions.instructions}
+                  exampleQuestion={instructions.example}
+                  exampleAnswer={instructions['example-answer']}
+                  level={this.props.level}
+                  wordset={this.props.wordset}
+                  section={this.props.section}
+                />
+                <p className='card-text'>Ready to learn?</p>
+                <button className='btn btn-primary'onClick={this.props.toggleQuizState}>Ready</button>
+              </React.Fragment>
+            }
+            {/* exercise completion */}
             {
               this.props.quizCompleted && !this.state.wordsetCompleted && !this.props.review &&
               <div>
@@ -94,19 +122,14 @@ export default withRouter(class NavPanel extends Component {
                 <button className='btn btn-primary'onClick={this.incrementExercise}>Next</button>
               </div>
             }
+            {/* section completion */}
             {
               this.props.quizCompleted && this.props.review &&
               <React.Fragment>
                 <p className='card-text'>You've completed Level {level}, Section {section}! Please use the navigation above to select the next section or return home.</p>
               </React.Fragment>
             }
-            {
-              !this.props.quizCompleted &&
-              <React.Fragment>
-                <p className='card-text'>Ready to learn?</p>
-                <button className='btn btn-primary'onClick={this.props.toggleQuizState}>Ready</button>
-              </React.Fragment>
-            }
+            {/* wordset completed */}
             {
               this.state.wordsetCompleted &&
               <React.Fragment>
@@ -118,5 +141,4 @@ export default withRouter(class NavPanel extends Component {
       </React.Fragment>
     );
   }
-}
-);
+});
