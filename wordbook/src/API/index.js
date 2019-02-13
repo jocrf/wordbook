@@ -15,6 +15,8 @@ export const getFile = (name) => {
     'frontBackMatter': 'http://localhost:3000/front-back-matter.json',
     0: 'http://localhost:3000/placementdata.json',
     3: 'http://localhost:3000/new-level-3-trial.json',
+    4: 'http://localhost:3000/new-level-4-trial.json',
+    5: 'http://localhost:3000/new-level-5-trial.json',
     6: 'http://localhost:3000/new-level-6-trial.json',
     7: 'http://localhost:3000/new-level-7-trial.json',
     8: 'http://localhost:3000/new-level-8-trial.json'

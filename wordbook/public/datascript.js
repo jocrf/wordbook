@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const level = require('./level-3-trial');
+const level = require('./level-5-trial');
 
 const newLevel = {sections: []};
 // go through the chapters
@@ -61,6 +61,8 @@ newLevel.sections.forEach(function (section) {
       if (question.answer) {
         question.correct = question.answer;
         delete question.answer;
+      } else {
+        console.log(question);
       }
       const answer = question.correct;
       const cappedAnswer = answer.toUpperCase();
@@ -83,6 +85,6 @@ newLevel.sections.forEach(function (section) {
 // console.log(JSON.stringify(newLevel, null, 2));
 
 fs.writeFileSync(
-  path.join(__dirname, 'new-level-3-trial.json'),
+  path.join(__dirname, 'new-level-5-trial.json'),
   JSON.stringify(newLevel, null, 2)
 );
