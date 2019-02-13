@@ -18,7 +18,7 @@ export default class QuestionWrapper extends Component {
           {this.props.children}
           <button className='btn btn-primary'>{this.props.buttonText}</button>
           {this.props.showAnswers && !this.props.placement && this.props.type !== 'mc-one' && this.props.type !== 'review' &&
-            <p className='card-text'>Click on any of the words in the questions above to see the definition again.</p>
+            <p className='card-text pt-3 pb-3'>Click on any of the words in the questions above to see the definition again.</p>
           }
         </form>
       </React.Fragment>

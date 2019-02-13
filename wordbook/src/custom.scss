@@ -77,6 +77,22 @@ input[type=radio]:checked + label {
   img {
     max-height: 100%;
   }
+
+  .score {
+     padding: 1rem;
+  }
+
+  .tfAswerBox {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .mcAnswerBox {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 .wordBlank {
@@ -101,7 +117,7 @@ input[type=radio]:checked + label {
 }
 
 .score {
-  padding: 1rem;
+  padding-bottom: 1rem;
 }
 
 .correctScore {
@@ -122,4 +138,8 @@ input[type=radio]:checked + label {
 
 .clickable:hover {
   color: theme-color('orange-dark');
+}
+
+.questionBox {
+  padding-bottom: 1rem;   
 }
