@@ -15,7 +15,7 @@ $theme-colors: (
   "orange": #ffc185,
   "orange-dark": #bc5b00,
   "correct": #70e835,
-  "wrong": #ff3838,
+  "wrong": #ee0000,
   "level1": #D754BF,
   "level2": #6DA65A,
   "level3": #DD3346,
@@ -77,6 +77,22 @@ input[type=radio]:checked + label {
   img {
     max-height: 100%;
   }
+
+  .score {
+     padding: 1rem;
+  }
+
+  .tfAswerBox {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .mcAnswerBox {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 .wordBlank {
@@ -101,8 +117,7 @@ input[type=radio]:checked + label {
 }
 
 .score {
-  padding: 1rem;
-  text-decoration: underline;
+  padding-bottom: 1rem;
 }
 
 .correctScore {
@@ -115,4 +130,16 @@ input[type=radio]:checked + label {
 
 .instructions {
   color: theme-color('primary');
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:hover {
+  color: theme-color('orange-dark');
+}
+
+.questionBox {
+  padding-bottom: 1rem;   
 }

@@ -24,6 +24,7 @@ export default class FillInTheBlank extends Component {
             correctAnswer={this.props.correctAnswer}
           />
         }
+        {/* TODO: add onClick toggleDefinition method, but need to get all definitions for all three chapters first */}
         <p>{part1} <span className='wordBlank text-center px-3'>
           {
             this.props.value && `${this.props.value}`

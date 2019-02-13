@@ -78,13 +78,19 @@ export default class Exercise extends Component {
         question = <div>Default question</div>;
     }
     return (
-      <QuestionWrapper onButtonClick={this.checkButtonHandler} buttonText={this.state.buttonText}>
+      <QuestionWrapper
+        onButtonClick={this.checkButtonHandler}
+        buttonText={this.state.buttonText}
+        type={this.props.questionType}
+        placement={this.props.placement}
+        showAnswers={this.state.showAnswers}
+      >
         {question}
       </QuestionWrapper>
     );
   }
   renderQuestion (question, type) {
-    const showWord = this.state.showAnswers && !this.props.placement && type === 'mc-one';
+    let showWord = this.state.showAnswers && !this.props.placement && type === 'mc-one';
     return (
       <React.Fragment key={question.prompt + question.answer}>
         <Question
@@ -100,7 +106,8 @@ export default class Exercise extends Component {
           markWrongAnswers={this.props.markWrongAnswers} // for placement
           value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[question.part1]}
           showAnswers={this.state.showAnswers}
-        // TODO word
+          word={question.word}
+          definition={this.props.definitions ? this.props.definitions[question.word] : null}
         />
         {showWord &&
           <Word

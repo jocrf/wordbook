@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Input from './Input';
 import Score from '../Score';
+import Word from '../Word';
 
 export default class MultipleChoice extends Component {
   constructor (props) {
@@ -25,25 +26,32 @@ export default class MultipleChoice extends Component {
     return (
       <React.Fragment>
         <fieldset onChange={this.changeHandler} className='form-group'>
-          <legend>{prompt}</legend>
-          {options.map(option =>
-            <div key={option} className='form-check'>
-              <Input
-                option={option}
-                prompt={prompt}
-                chosenAnswer={value}
-                showAnswers={this.props.showAnswers}
+          <div className='questionBox'>
+            <legend onClick={this.props.toggleDefinition} className={this.props.showAnswers && this.props.type !== 'mc-one' && 'clickable'}>{prompt}</legend>
+            {/* show score component on the checked answer */}
+            {this.props.showAnswers &&
+              <Score
+                chosenAnswer={this.props.value}
                 correctAnswer={this.props.correctAnswer}
               />
-              {/* show score component on the checked answer */}
-              {this.props.showAnswers && (option === value) &&
-                <Score
-                  chosenAnswer={this.props.value}
+            }
+          </div>
+          {this.props.showDefinition &&
+            <Word definition={this.props.definition} />
+          }
+          <div className='mcAnswerBox'>
+            {options.map(option =>
+              <div key={option} className='form-check'>
+                <Input
+                  option={option}
+                  prompt={prompt}
+                  chosenAnswer={value}
+                  showAnswers={this.props.showAnswers}
                   correctAnswer={this.props.correctAnswer}
                 />
-              }
-            </div>
-          )}
+              </div>
+            )}
+          </div>
         </fieldset>
       </React.Fragment>
     );
