@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { getPhonetic } from '../API';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
 
 export default class Word extends Component {
   constructor (props) {
@@ -26,6 +28,9 @@ export default class Word extends Component {
           <div className='row'>
             <h3 className='mb-0 col-auto'>{definition.word}</h3>
             <p className='card-text mb-0 col-auto'>{definition.pos}</p>
+            <div className='pl-3 pr-3 clickable'>
+              <FontAwesomeIcon icon={faVolumeUp} />
+            </div>
             {/* follow display rules according to M-W */}
             \{this.state.phonetics.map(phonetic =>
               <p key={phonetic.mw} className='card-text mb-0 col-auto'>
