@@ -60,3 +60,36 @@ export const getInstructions = (exercise, review, placement) => {
       }
     });
 };
+
+export const getPhonetic = (word) => {
+  let url = `https://www.dictionaryapi.com/api/v3/references/collegiate/json/${word}?key=e2c2a55f-3f03-492d-b297-eff361b6a0cb`;
+
+  // fetch word object
+  return fetch(url)
+    .then(response => response.json())
+    .then(response => {
+      // presume we just want the first def
+      let wordPronun = response[0].hwi.prs;
+      // generate url for audio file (may have multiple pronunciations)
+      wordPronun.forEach(pronun => {
+        const audio = pronun.sound.audio;
+        let subdirectory = '';
+        switch (audio) {
+          case (audio.match(/bix.*/)):
+            subdirectory = 'bix';
+            break;
+          case (audio.match(/gg.*/)):
+            subdirectory = 'gg';
+            break;
+          case (audio.match(/\W\d*/)):
+            subdirectory = 'number';
+            break;
+          default:
+            subdirectory = audio.slice(0, 1);
+        }
+        let audioUrl = `https://media.merriam-webster.com/soundc11/${subdirectory}/${audio}.wav`;
+        pronun.sound.audioUrl = audioUrl;
+      });
+      return wordPronun;
+    });
+};

@@ -1,6 +1,18 @@
 import React, { Component } from 'react';
+import { getPhonetic } from '../API';
 
 export default class Word extends Component {
+  constructor (props) {
+    super(props);
+    this.state = {
+      phonetic: []
+    };
+  }
+  componentDidMount () {
+    getPhonetic(this.props.definition.word)
+      .then(phoneticData => this.setState({ phonetic: phoneticData }));
+  }
+
   render () {
     const { definition } = this.props;
     return (
