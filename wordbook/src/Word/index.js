@@ -6,8 +6,17 @@ import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
 export default class Word extends Component {
   constructor (props) {
     super(props);
+    this.playPhonetic = this.playPhonetic.bind(this);
     this.state = {
       phonetics: []
+      // phonetics: [
+      //   {
+      //     mw: 'hasten',
+      //     sound: {
+      //       audioUrl: 'https://media.merriam-webster.com/soundc11/h/hasten01.wav'
+      //     }
+      //   }
+      // ]
     };
   }
   componentDidMount () {
@@ -19,6 +28,15 @@ export default class Word extends Component {
     this.setState({ phonetics: [] });
   }
 
+  playPhonetic () {
+    const audioArr = this.state.phonetics.filter(phonetic => {
+      return phonetic.hasOwnProperty('sound');
+    });
+    const url = audioArr[0].sound.audioUrl;
+    const audio = new Audio(url);
+    audio.play();
+  }
+
   render () {
     const { definition } = this.props;
     console.log(this.state.phonetics.length);
@@ -28,15 +46,15 @@ export default class Word extends Component {
           <div className='row'>
             <h3 className='mb-0 col-auto'>{definition.word}</h3>
             <p className='card-text mb-0 col-auto'>{definition.pos}</p>
-            <div className='pl-3 pr-3 clickable'>
+            <div className='pl-3 pr-3 clickable' onClick={this.playPhonetic}>
               <FontAwesomeIcon icon={faVolumeUp} />
             </div>
             {/* follow display rules according to M-W */}
             \{this.state.phonetics.map(phonetic =>
               <p key={phonetic.mw} className='card-text mb-0 col-auto'>
-                <span className='font-italic'>{phonetic.l ? phonetic.l : null}</span>
+                <span className='font-italic pl-3 pr-3'>{phonetic.l ? phonetic.l : null}</span>
                 {phonetic.mw}
-                <span className='font-italic'>{phonetic.l2 ? phonetic.l2 : null}</span>
+                <span className='font-italic pl-3 pr-3'>{phonetic.l2 ? phonetic.l2 : null}</span>
                 {(this.state.phonetics.length > 1 && this.state.phonetics.indexOf(phonetic) < this.state.phonetics.length - 1) ? (phonetic.pun || ', ') : null}
               </p>
             )}\
