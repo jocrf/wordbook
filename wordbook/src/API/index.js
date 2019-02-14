@@ -70,9 +70,15 @@ export const getPhonetic = (word) => {
     .then(response => {
       // presume we just want the first def
       let wordPronun = response[0].hwi.prs;
+      console.log(wordPronun);
       // generate url for audio file (may have multiple pronunciations)
       wordPronun.forEach(pronun => {
-        const audio = pronun.sound.audio;
+        let audio = '';
+        if (!pronun.sound) {
+          return;
+        } else {
+          audio = pronun.sound.audio;
+        }
         let subdirectory = '';
         switch (audio) {
           case (audio.match(/bix.*/)):

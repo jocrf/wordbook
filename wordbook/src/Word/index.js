@@ -13,6 +13,10 @@ export default class Word extends Component {
       .then(phoneticData => this.setState({ phonetic: phoneticData }));
   }
 
+  componentWillUnmount () {
+    this.setState({ phonetic: [] });
+  }
+
   render () {
     const { definition } = this.props;
     return (
