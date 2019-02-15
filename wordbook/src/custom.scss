@@ -148,3 +148,12 @@ input[type=radio]:checked + label {
   color: theme-color('orange');
   cursor: pointer;
 }
+
+.mw-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.footer-text {
+  font-size: 0.8rem;
+}
