@@ -57,7 +57,7 @@ export default class Word extends Component {
           <div className='row'>
             <h3 className='mb-0 col-auto'>{definition.word}</h3>
             <p className='card-text mb-0 col-auto'>{definition.pos}</p>
-            <button className='pl-3 pr-3 phonetic' onClick={this.playPhonetic}>
+            <button className='pl-3 pr-3 phonetic' onClick={this.playPhonetic} type='button'>
               <FontAwesomeIcon icon={faVolumeUp} />
               <audio ref={this.phoneticRef} src={this.state.url} />
             </button>
