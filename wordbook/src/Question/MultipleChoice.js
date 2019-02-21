@@ -27,7 +27,7 @@ export default class MultipleChoice extends Component {
       <React.Fragment>
         <fieldset onChange={this.changeHandler} className='form-group'>
           <div className='questionBox'>
-            <legend onClick={this.props.toggleDefinition} className={this.props.showAnswers && this.props.type !== 'mc-one' && 'clickable'}>{prompt}</legend>
+            <legend onClick={this.props.toggleDefinition} className={(this.props.showAnswers && this.props.type !== 'mc-one') ? 'clickable' : null}>{prompt}</legend>
             {/* show score component on the checked answer */}
             {this.props.showAnswers &&
               <Score

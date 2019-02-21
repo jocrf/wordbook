@@ -14,6 +14,7 @@ export const getFile = (name) => {
   const fileNames = {
     'frontBackMatter': 'http://localhost:3000/front-back-matter.json',
     0: 'http://localhost:3000/placementdata.json',
+    2: 'http://localhost:3000/new-level-2-trial.json',
     3: 'http://localhost:3000/new-level-3-trial.json',
     4: 'http://localhost:3000/new-level-4-trial.json',
     5: 'http://localhost:3000/new-level-5-trial.json',
@@ -58,5 +59,44 @@ export const getInstructions = (exercise, review, placement) => {
       } else if (exercise) {
         return response.instructions.exercises[exercise];
       }
+    });
+};
+
+export const getPhonetic = (word) => {
+  let url = `https://www.dictionaryapi.com/api/v3/references/collegiate/json/${word}?key=e2c2a55f-3f03-492d-b297-eff361b6a0cb`;
+
+  // fetch word object
+  return fetch(url)
+    .then(response => response.json())
+    .then(response => {
+      // presume we just want the first def
+      let wordPronun = response[0].hwi.prs;
+      console.log(wordPronun);
+      // generate url for audio file (may have multiple pronunciations)
+      wordPronun.forEach(pronun => {
+        let audio = '';
+        if (!pronun.sound) {
+          return;
+        } else {
+          audio = pronun.sound.audio;
+        }
+        let subdirectory = '';
+        switch (audio) {
+          case (audio.match(/bix.*/)):
+            subdirectory = 'bix';
+            break;
+          case (audio.match(/gg.*/)):
+            subdirectory = 'gg';
+            break;
+          case (audio.match(/\W\d*/)):
+            subdirectory = 'number';
+            break;
+          default:
+            subdirectory = audio.slice(0, 1);
+        }
+        let audioUrl = `https://media.merriam-webster.com/soundc11/${subdirectory}/${audio}.wav`;
+        pronun.sound.audioUrl = audioUrl;
+      });
+      return wordPronun;
     });
 };

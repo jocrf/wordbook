@@ -45,6 +45,12 @@ export default class LearningPage extends Component {
             toggleToC={this.toggleToC}
           />}
         />
+        <footer className='d-flex justify-content-end align-items-end mt-3'>
+          <p className='pb-0 pr-3 text-muted footer-text'>Phonetics and audio provided by Merriam-Webster Inc.</p>
+          <div className='mw-logo'>
+            <img src='http://localhost:3000/MWLogo_LightBG.png' alt='Merriam-Webster logo' />
+          </div>
+        </footer>
       </React.Fragment>
     );
   }

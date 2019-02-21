@@ -17,7 +17,7 @@ export default class TrueFalse extends Component {
     return (
       <fieldset onChange={this.changeHandler} className='form-group position-relative'>
         <div className='questionBox'>
-          <legend onClick={this.props.toggleDefinition} className={this.props.showAnswers && 'clickable'}>{this.props.prompt}</legend>
+          <legend onClick={this.props.toggleDefinition} className={this.props.showAnswers ? 'clickable' : null}>{this.props.prompt}</legend>
           {/* show score component on the checked answer */}
           {this.props.showAnswers &&
             <Score

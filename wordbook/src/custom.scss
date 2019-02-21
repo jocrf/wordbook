@@ -143,3 +143,23 @@ input[type=radio]:checked + label {
 .questionBox {
   padding-bottom: 1rem;   
 }
+
+.phonetic {
+  background: none;
+  border: none;
+  color: white;
+}
+
+.phonetic:hover {
+  color: theme-color('orange');
+  cursor: pointer;
+}
+
+.mw-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.footer-text {
+  font-size: 0.8rem;
+}
