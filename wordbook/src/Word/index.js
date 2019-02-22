@@ -2,10 +2,12 @@ import React, { Component } from 'react';
 import { getPhonetic } from '../API';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
+import ReactMarkdown from 'react-markdown';
 
 export default class Word extends Component {
   constructor (props) {
     super(props);
+    this.createMarkup = this.createMarkup.bind(this);
     this.createUrl = this.createUrl.bind(this);
     this.playPhonetic = this.playPhonetic.bind(this);
     this.phoneticRef = React.createRef();
@@ -35,6 +37,10 @@ export default class Word extends Component {
     this.setState({ phonetics: [] });
   }
 
+  createMarkup (text) {
+    return { __html: text };
+  }
+
   createUrl (phoneticData) {
     const audioArr = phoneticData.filter(phonetic => {
       return phonetic.hasOwnProperty('sound');
@@ -50,7 +56,6 @@ export default class Word extends Component {
 
   render () {
     const { definition } = this.props;
-    console.log(this.state.phonetics.length);
     return (
       <div className='card col-lg mt-3 mt-lg-0 bg-primary text-light wordCard'>
         <div className='card-body'>
@@ -72,7 +77,8 @@ export default class Word extends Component {
             )}\
           </div>
           <hr className='bg-secondary' />
-          <p className='card-text'>{definition.deftext}</p>
+          <ReactMarkdown source={definition.deftext} className='card-text def-text' />
+          {/* <p className='card-text' dangerouslySetInnerHTML={this.createMarkup(definition.deftext)} /> */}
         </div>
       </div>
     );
