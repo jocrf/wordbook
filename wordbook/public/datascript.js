@@ -82,22 +82,28 @@ newLevel.sections.forEach(function (section) {
   section.reviewTest.wordList = modWordList;
 });
 
-// handle underscores as italics, add smart quotes
+// handle underscores as italics, add smart quotes, add <p> tags
 newLevel.sections.forEach(section => {
   section.wordsets.forEach(wordset => {
     const words = Object.keys(wordset.definitions);
     words.forEach(word => {
       const openMatch = /_(?=\w|-)/g;
       const closeMatch = /_(?!\w|-)/g;
-      const openQuote = /"(?=\w)/g;
+      const openQuote = /"(?=\w|')/g;
       const closeQuote = /"(?= |$)/g;
-      const apostrophe = /'/g;
+      const openSingleQuote = /'(?=[A-Z])/g;
+      const closeSingleQuote = /'/g;
+      const newline = /\n/g;
+      const openP = '<p class="definition">';
+      const closeP = '</p>';
       let openText = wordset.definitions[word].deftext.replace(openMatch, '<i class="def-ital">');
       let closeText = openText.replace(closeMatch, '</i>');
       let openQuoteText = closeText.replace(openQuote, '“');
       let closeQuoteText = openQuoteText.replace(closeQuote, '”');
-      let newText = closeQuoteText.replace(apostrophe, '’');
-      wordset.definitions[word].deftext = newText;
+      let openSingleQuoteText = closeQuoteText.replace(openSingleQuote, '‘');
+      let closeSingleQuoteText = openSingleQuoteText.replace(closeSingleQuote, '’');
+      let newText = closeSingleQuoteText.replace(newline, '</p><p>');
+      wordset.definitions[word].deftext = openP + newText + closeP;
     });
   });
 });
