@@ -89,8 +89,14 @@ newLevel.sections.forEach(section => {
     words.forEach(word => {
       const openMatch = /_(?=\w|-)/g;
       const closeMatch = /_(?!\w|-)/g;
+      const openQuote = /"(?=\w)/g;
+      const closeQuote = /"(?= |$)/g;
+      const apostrophe = /'/g;
       let openText = wordset.definitions[word].deftext.replace(openMatch, '<i class="def-ital">');
-      let newText = openText.replace(closeMatch, '</i>');
+      let closeText = openText.replace(closeMatch, '</i>');
+      let openQuoteText = closeText.replace(openQuote, '“');
+      let closeQuoteText = openQuoteText.replace(closeQuote, '”');
+      let newText = closeQuoteText.replace(apostrophe, '’');
       wordset.definitions[word].deftext = newText;
     });
   });
