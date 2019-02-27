@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const level = require('./level-2-trial');
+const level = require('./level-8-trial');
 
 const newLevel = {sections: []};
 // go through the chapters
@@ -99,6 +99,6 @@ newLevel.sections.forEach(section => {
 // console.log(JSON.stringify(newLevel, null, 2));
 
 fs.writeFileSync(
-  path.join(__dirname, 'new-level-2-trial.json'),
+  path.join(__dirname, 'new-level-8-trial.json'),
   JSON.stringify(newLevel, null, 2)
 );
