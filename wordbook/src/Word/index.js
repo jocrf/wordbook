@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { getPhonetic } from '../API';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
+import ReactMarkdown from 'react-markdown';
 
 export default class Word extends Component {
   constructor (props) {
@@ -37,7 +38,7 @@ export default class Word extends Component {
   }
 
   createMarkup (text) {
-    return {__html: text};
+    return { __html: text };
   }
 
   createUrl (phoneticData) {
@@ -55,7 +56,6 @@ export default class Word extends Component {
 
   render () {
     const { definition } = this.props;
-    console.log(this.state.phonetics.length);
     return (
       <div className='card col-lg mt-3 mt-lg-0 bg-primary text-light wordCard'>
         <div className='card-body'>

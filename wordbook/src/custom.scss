@@ -163,3 +163,11 @@ input[type=radio]:checked + label {
 .footer-text {
   font-size: 0.8rem;
 }
+
+.def-text {
+  white-space: pre-line;
+}
+
+.def-text::first-line {
+  font-weight: 700;
+}
