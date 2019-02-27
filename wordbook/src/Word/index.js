@@ -6,6 +6,7 @@ import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
 export default class Word extends Component {
   constructor (props) {
     super(props);
+    this.createMarkup = this.createMarkup.bind(this);
     this.createUrl = this.createUrl.bind(this);
     this.playPhonetic = this.playPhonetic.bind(this);
     this.phoneticRef = React.createRef();
@@ -33,6 +34,10 @@ export default class Word extends Component {
 
   componentWillUnmount () {
     this.setState({ phonetics: [] });
+  }
+
+  createMarkup (text) {
+    return {__html: text};
   }
 
   createUrl (phoneticData) {
@@ -72,7 +77,7 @@ export default class Word extends Component {
             )}\
           </div>
           <hr className='bg-secondary' />
-          <p className='card-text'>{definition.deftext}</p>
+          <p className='card-text' dangerouslySetInnerHTML={this.createMarkup(definition.deftext)} />
         </div>
       </div>
     );
