@@ -82,6 +82,20 @@ newLevel.sections.forEach(function (section) {
   section.reviewTest.wordList = modWordList;
 });
 
+// handle underscores as italics
+newLevel.sections.forEach(section => {
+  section.wordsets.forEach(wordset => {
+    const words = Object.keys(wordset.definitions);
+    words.forEach(word => {
+      const openMatch = /_(?=\w|-)/g;
+      const closeMatch = /_(?!\w|-)/g;
+      let openText = wordset.definitions[word].deftext.replace(openMatch, '<em>');
+      let newText = openText.replace(closeMatch, '</em>');
+      wordset.definitions[word].deftext = newText;
+    });
+  });
+});
+
 // console.log(JSON.stringify(newLevel, null, 2));
 
 fs.writeFileSync(
