@@ -82,15 +82,15 @@ newLevel.sections.forEach(function (section) {
   section.reviewTest.wordList = modWordList;
 });
 
-// handle underscores as italics
+// handle underscores as italics, add smart quotes
 newLevel.sections.forEach(section => {
   section.wordsets.forEach(wordset => {
     const words = Object.keys(wordset.definitions);
     words.forEach(word => {
       const openMatch = /_(?=\w|-)/g;
       const closeMatch = /_(?!\w|-)/g;
-      let openText = wordset.definitions[word].deftext.replace(openMatch, '<em>');
-      let newText = openText.replace(closeMatch, '</em>');
+      let openText = wordset.definitions[word].deftext.replace(openMatch, '<i class="def-ital">');
+      let newText = openText.replace(closeMatch, '</i>');
       wordset.definitions[word].deftext = newText;
     });
   });
