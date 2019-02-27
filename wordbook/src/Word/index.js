@@ -77,8 +77,7 @@ export default class Word extends Component {
             )}\
           </div>
           <hr className='bg-secondary' />
-          <ReactMarkdown source={definition.deftext} className='card-text def-text' />
-          {/* <p className='card-text' dangerouslySetInnerHTML={this.createMarkup(definition.deftext)} /> */}
+          <p className='card-text' dangerouslySetInnerHTML={this.createMarkup(definition.deftext)} />
         </div>
       </div>
     );
