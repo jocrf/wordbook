@@ -96,7 +96,7 @@
               "deftext": "<p class=\"definition\">to drive away, scatter, clear away </p><p>See <i class=“def-ital\">dis-</i> under Prefixes. The <i class=“def-ital\">pel</i> part of DISPEL means to <i class=“def-ital\">drive</i> or <i class=“def-ital\">push</i>. To <i class=“def-ital\">impel</i> is to drive <i class=“def-ital\">forward</i>; to <i class=“def-ital\">repel</i> is to drive <i class=“def-ital\">back</i>. To DISPEL is to drive <i class=“def-ital\">away</i>. DISPEL is used more about emotions and states of mind than about actual physical objects. </p><p>“His arguments DISPELLED any remaining doubts they had about the plan.” </p><p>“The teacher DISPELLED any illusions he might have had about passing the course.” </p><p>“Bill’s reassurances couldn’t DISPEL her feeling that someone was following them.”</p>"
             }
           },
-          "id": 0,
+          "id": "1",
           "exercises": [
             {
               "questions": [
@@ -698,7 +698,7 @@
               "deftext": "<p class=\"definition\">to approve, confirm, make valid </p><p>To RATIFY something is to confirm it or make it legal by giving your approval. The word is used about laws, treaties, agreements, actions, and so on. </p><p>“Congress will have to RATIFY the treaty before it will go into effect.” </p><p>“The union members refused to RATIFY the contract with the company.” </p><p>Other forms of the word: RATIFICATION, n.</p>"
             }
           },
-          "id": 1,
+          "id": "2",
           "exercises": [
             {
               "questions": [
@@ -1300,7 +1300,7 @@
               "deftext": "<p class=\"definition\">to go back, become more distant; decline </p><p>See <i class=“def-ital\">re-</i> under Prefixes. To RECEDE is to <i class=“def-ital\">go back</i> or <i class=“def-ital\">move away</i>. Usually this “going back” is slow or gradual. </p><p>“The land slowly RECEDED from sight as we set out to sea.” </p><p>“The flood waters began to RECEDE when the rain stopped.” </p><p>Sometimes RECEDE has the meaning “to fall to a lower level,” to <i class=“def-ital\">decline</i>. </p><p>“Public support of the president RECEDED as he continued to support a tax increase.” </p><p>“His financial worries began to RECEDE as his salary increased.” </p><p>Other forms of the word: RECESSION, n.</p>"
             }
           },
-          "id": 2,
+          "id": "3",
           "exercises": [
             {
               "questions": [
@@ -2363,7 +2363,7 @@
               "deftext": "<p class=\"definition\">to handle skillfully, manage, control </p><p>MANIPULATE comes from the Latin word for <i class=“def-ital\">hand</i>, also the source of the words <i class=“def-ital\">manual</i> and <i class=“def-ital\">manufacture</i>. To MANIPULATE something is to <i class=“def-ital\">handle</i> it, particularly with skill or cleverness. </p><p>“She MANIPULATED the controls expertly.” </p><p>In a general sense the word means to <i class=“def-ital\">control</i> or <i class=“def-ital\">manage</i> something or someone, particularly by artful or tricky means. </p><p>“The speaker knew how to MANIPULATE his audience so that they agreed with him.” </p><p>“I don’t mind being given advice, but I don’t like the idea that I’m being MANIPULATED to do what someone else wants.” </p><p>Other forms of the word: MANIPULATION, n.</p>"
             }
           },
-          "id": 0,
+          "id": "4",
           "exercises": [
             {
               "questions": [
@@ -2965,7 +2965,7 @@
               "deftext": "<p class=\"definition\">competition </p><p>RIVAL comes originally from a Latin word meaning <i class=“def-ital\">stream</i>. In Latin, a RIVAL was someone who lived on the opposite side of a stream and who had the right to use it along with you. Thus RIVALS are people who compete against each other because they want the same thing. RIVALRY is the state of being RIVALS. </p><p>“There was quite a RIVALRY between the two schools to see which would win the title.” </p><p>“Although their RIVALRY was intense, they still respected each other.” </p><p>“There was always RIVALRY among the brothers. Each one wanted to be the best in everything.” </p><p>Other forms of the word: RIVAL,n.,v.</p>"
             }
           },
-          "id": 1,
+          "id": "5",
           "exercises": [
             {
               "questions": [
@@ -3566,7 +3566,7 @@
               "deftext": "<p class=\"definition\">to spread, scatter, sprinkle </p><p>To STREW something is to spread it here and there over a surface. </p><p>“She STREWED the birdseed on the ground for the pigeons.” </p><p>STREW also means “to cover a surface with scattered things.” </p><p>“Pebbles STREW the surface of the road.” </p><p>The form STREWN is often used for what is called the <i class=“def-ital\">past participle</i> of STREW. </p><p>“The floor was STREWN with books and papers.” </p><p>“The child’s toys were STREWN over the room.”</p>"
             }
           },
-          "id": 2,
+          "id": "6",
           "exercises": [
             {
               "questions": [
@@ -4078,7 +4078,8 @@
       "reviewTest": {
         "wordList": [
           {
-            "word": "BEHOLD"
+            "word": "BEHOLD",
+            "answer": "beheld"
           },
           {
             "word": "DISCLOSE",
@@ -4213,7 +4214,8 @@
             "answer": "etiquette"
           },
           {
-            "word": "OOZE"
+            "word": "OOZE",
+            "answer": "oozed"
           },
           {
             "word": "REMNANT",
@@ -4266,7 +4268,8 @@
           {
             "part1": "In the box was the most beautiful diamond ring she had ever",
             "part2": ".",
-            "correct": "beheld"
+            "correct": "beheld",
+            "word": "BEHOLD"
           },
           {
             "part1": "He was very",
@@ -4505,7 +4508,8 @@
           {
             "part1": "Milk",
             "part2": "out of the small hole in the bottom of the carton.",
-            "correct": "oozed"
+            "correct": "oozed",
+            "word": "OOZE"
           },
           {
             "part1": "The look on his face was truly",
@@ -4625,7 +4629,7 @@
               "deftext": "<p class=\"definition\">a messenger </p><p>COURIER comes from a French word which means to <i class=“def-ital\">run</i>. A COURIER is someone who carries messages or information. A COURIER doesn’t necessarily run, but the word often suggests speed and urgency. </p><p>“The general sent a COURIER ahead to tell the fort that more troops were on their way.” </p><p>“The COURIER arrived at the palace with the secret papers.” </p><p>“Each morning the COURIER brought them reports on the military situation.”</p>"
             }
           },
-          "id": 0,
+          "id": "7",
           "exercises": [
             {
               "questions": [
@@ -5227,7 +5231,7 @@
               "deftext": "<p class=\"definition\">not formal, unofficial </p><p>See <i class=“def-ital\">in-2</i> under Prefixes. FORMAL means “following the rules or customs.” Something which is INFORMAL is done without ceremony or great attention to the rules. </p><p>“They held some INFORMAL discussions before starting the official meeting.” </p><p>“There was an INFORMAL investigation into the cause of the fire, but no report was ever written.” </p><p>“He gave a brief, INFORMAL talk about his trip to Europe.” </p><p>Many people think INFORMAL means <i class=“def-ital\">unimportant</i>. An INFORMAL meeting or discussion could, however, be quite important. </p><p>Other forms of the word: INFORMALITY, n.</p>"
             }
           },
-          "id": 1,
+          "id": "8",
           "exercises": [
             {
               "questions": [
@@ -5829,7 +5833,7 @@
               "deftext": "<p class=\"definition\">approachable, easy to reach </p><p>Anything you can reach, use, or visit is ACCESSIBLE. ACCESSIBLE usually suggests that it is not too difficult to get to the person or place it refers to. </p><p>“This store is easily ACCESSIBLE to people coming by car or bus.” </p><p>“The boss was always ACCESSIBLE and ready to listen to complaints or new ideas.” </p><p>“We are lucky to have the library so ACCESSIBLE to us; we don’t have to walk far to exchange our books.” </p><p>The opposite of ACCESSIBLE is INACCESSIBLE, which means “out of reach.” </p><p>“The librarian told her that the books were INACCESSIBLE because they were being recovered.” </p><p>Other forms of the word: ACCESS, n. INACCESSIBLE, adj.</p>"
             }
           },
-          "id": 2,
+          "id": "9",
           "exercises": [
             {
               "questions": [
@@ -6892,7 +6896,7 @@
               "deftext": "<p class=\"definition\">to escape, evade, slip away, avoid </p><p>To ELUDE someone is to avoid or evade him, usually by means of cleverness or quickness. </p><p>“The criminal managed to ELUDE the police by hiding in the trunk of a car.” </p><p>“The halfback ELUDED several tackles with his clever moves.” </p><p>Things or ideas can ELUDE you, usually by being very difficult or hard to see. </p><p>“The answer ELUDED Bob. No matter how hard he tried he couldn’t quite think of it.” </p><p>“The change she made in the room was so small that it ELUDED my notice.” </p><p>Other forms of the word: ELUSIVE, adj.</p>"
             }
           },
-          "id": 0,
+          "id": "10",
           "exercises": [
             {
               "questions": [
@@ -7494,7 +7498,7 @@
               "deftext": "<p class=\"definition\">to inform, instruct </p><p>The original meaning of ENLIGHTEN was “to supply with light.” Now the word is only used in the sense “to give knowledge\"-that is, to free someone from the “darkness” of misunderstanding or ignorance. </p><p>“I know nothing about his background. Could you ENLIGHTEN me?” </p><p>“We tried to ENLIGHTEN him as to the nature of the problem, but he wouldn’t listen.” </p><p>Someone who is ENLIGHTENED is free from ignorance and superstition. </p><p>“The boss took a very ENLIGHTENED approach in dealing with his workers. He treated them as equals and never threatened them.” </p><p>The most commonly selected incorrect answer is <i class=“def-ital\">amuse</i>, possibly because the <i class=“def-ital\">light</i> part of ENLIGHTEN is thought to mean <i class=“def-ital\">not serious</i>. </p><p>Other forms of the word: ENLIGHTENED, adj. ENLIGHTENMENT, n.</p>"
             }
           },
-          "id": 1,
+          "id": "11",
           "exercises": [
             {
               "questions": [
@@ -8096,7 +8100,7 @@
               "deftext": "<p class=\"definition\">clever, keen, astute </p><p>A SHREWD person has a great deal of cleverness and sound judgment, especially in practical matters. </p><p>“He’s a SHREWD judge of talent. He rarely makes a mistake about actors.” </p><p>“Several SHREWD businessmen bought all the land before oil was discovered there.” </p><p>SHREWD often contains a sense of trickiness in its meaning. </p><p>“The SHREWD salesman knew just how to get people to buy the worthless stock.” </p><p>People often think SHREWD means <i class=“def-ital\">unpleasant</i>, possibly because SHREWD is often used in a negative way about people who are tricky or dishonest. SHREWD might also be confused with the word <i class=“def-ital\">shrew</i>, which means “a bad-tempered woman.”</p>"
             }
           },
-          "id": 2,
+          "id": "12",
           "exercises": [
             {
               "questions": [
@@ -8748,7 +8752,8 @@
             "answer": "shrewd"
           },
           {
-            "word": "UPHOLD"
+            "word": "UPHOLD",
+            "answer": "upheld"
           },
           {
             "word": "COMPEL",
@@ -8977,7 +8982,8 @@
           {
             "part1": "The principal",
             "part2": "the teacher's right to keep a student after school, saying it was necessary for good discipline.",
-            "correct": "upheld"
+            "correct": "upheld",
+            "word": "UPHOLD"
           },
           {
             "part1": "Although she was",

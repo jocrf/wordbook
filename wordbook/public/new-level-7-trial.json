@@ -96,7 +96,7 @@
               "deftext": "<p class=\"definition\">to fill, instill, imbue </p><p>INFUSE comes from a Latin word meaning to <i class=“def-ital\">pour into</i>. See <i class=“def-ital\">in-1</i> under Prefixes. The <i class=“def-ital\">fuse</i> root is also found in such words as <i class=“def-ital\">confuse</i>, <i class=“def-ital\">diffuse</i>, and <i class=“def-ital\">suffuse</i>. INFUSE means to <i class=“def-ital\">pour in</i> in a figurative sense, to instill or inculcate a belief, an emotion, or the like. </p><p>“The coach INFUSED his players with a sense of pride.” </p><p>“The charges of corruption INFUSED a new spirit of bitterness into the campaign.” </p><p>“Dickens’s novels are INFUSED with a delight in humanity’s variety.” </p><p>Other forms of the word: INFUSION, n.</p>"
             }
           },
-          "id": 0,
+          "id": "1",
           "exercises": [
             {
               "questions": [
@@ -698,7 +698,7 @@
               "deftext": "<p class=\"definition\">heartbroken, dejected, depressed </p><p>To console means to <i class=“def-ital\">cheer up</i>, to <i class=“def-ital\">give comfort to</i>. DISCONSOLATE means “not consoled, deeply dejected, hopelessly sad.” See <i class=“def-ital\">dis-</i> under Prefixes and <i class=“def-ital\">-ate2</i> under Suffixes. </p><p>“We were DISCONSOLATE when we found out our team had been disqualified.” </p><p>“Don’t be DISCONSOLATE. Things are bound to get better.” </p><p>“The sad expression on his face mirrored his DISCONSOLATE state of mind.”</p>"
             }
           },
-          "id": 1,
+          "id": "2",
           "exercises": [
             {
               "questions": [
@@ -1300,7 +1300,7 @@
               "deftext": "<p class=\"definition\">a meal, food </p><p>A REPAST is a meal, or the food provided at a meal. </p><p>“This salad will make a pleasant summer REPAST.” </p><p>“For our evening REPAST we will have chicken wings and asparagus.” </p><p>The <i class=“def-ital\">past</i> part of REPAST leads many people to pick <i class=“def-ital\">legend</i> on the Pretest as the word’s meaning. The derivation of REPAST has nothing to do with time, however.</p>"
             }
           },
-          "id": 2,
+          "id": "3",
           "exercises": [
             {
               "questions": [
@@ -2363,7 +2363,7 @@
               "deftext": "<p class=\"definition\">friendship, peaceful relations </p><p>AMITY comes from a Latin word meaning <i class=“def-ital\">friend</i>, also the source of <i class=“def-ital\">amiable</i> and <i class=“def-ital\">amicable</i>. See <i class=“def-ital\">-y</i> under Suffixes. AMITY is <i class=“def-ital\">friendship</i>, especially between nations. The word often suggests that two people or groups get along despite at least potential sources of discord. </p><p>“The settlers and the natives lived together in comparative AMITY for several years.” </p><p>“The lack of AMITY among the South American countries provided a constant threat of war in the hemisphere.” </p><p>“They appeared to live in AMITY, but deep down they really disliked each other.”</p>"
             }
           },
-          "id": 0,
+          "id": "4",
           "exercises": [
             {
               "questions": [
@@ -2965,7 +2965,7 @@
               "deftext": "<p class=\"definition\">to swell, expand, bloat </p><p>DISTEND is a combination of the prefix <i class=“def-ital\">dis-</i>, in this case meaning <i class=“def-ital\">apart</i>, and <i class=“def-ital\">tend</i>, from a Latin word meaning to <i class=“def-ital\">stretch</i>. The <i class=“def-ital\">tend</i> root is also found in such words as <i class=“def-ital\">extend</i>, <i class=“def-ital\">contend</i>, and <i class=“def-ital\">intend</i>. To DISTEND is to stretch out or swell, especially because of internal pressure. </p><p>“The balloon gradually DISTENDED as we filled it with water.” </p><p>“His stomach was DISTENDED with gas.” </p><p>The most common wrong answer is postpone, possibly because the <i class=“def-ital\">dis</i> and <i class=“def-ital\">end</i> parts of the word suggest “not ending,” and thus putting something off’. </p><p>Other forms of the word: DISTENSION or DISTENTION, n.</p>"
             }
           },
-          "id": 1,
+          "id": "5",
           "exercises": [
             {
               "questions": [
@@ -3568,7 +3568,7 @@
               "deftext": "<p class=\"definition\">sparing, abstinent </p><p>To be ABSTEMIOUS is to be moderate and self-restrained, especially in eating and drinking. </p><p>“The ABSTEMIOUS gentleman never had more than an occasional glass of wine.” </p><p>“Far from being ABSTEMIOUS, he indulged to the fullest in every pleasure.” </p><p>In a slightly different sense ABSTEMIOUS can mean “characterized by moderation,” <i class=“def-ital\">sparing</i>. </p><p>“Her ABSTEMIOUS diet consisted of little more than bread and water.”</p>"
             }
           },
-          "id": 2,
+          "id": "6",
           "exercises": [
             {
               "questions": [
@@ -4140,7 +4140,8 @@
             "answer": "upbraided"
           },
           {
-            "word": "GIBE"
+            "word": "GIBE",
+            "answer": "gibed"
           },
           {
             "word": "MELLIFLUOUS",
@@ -4155,7 +4156,8 @@
             "answer": "transgressed"
           },
           {
-            "word": "VEX"
+            "word": "VEX",
+            "answer": "vexed"
           },
           {
             "word": "GUILE",
@@ -4274,7 +4276,8 @@
           {
             "part1": "Mrs. Sims was so",
             "part2": "by her children's constant questioning that she finally shouted at them to be quiet.",
-            "correct": "vexed"
+            "correct": "vexed",
+            "word": "VEX"
           },
           {
             "part1": "Despite a few problems, the two nations shared the same border in relative",
@@ -4339,7 +4342,8 @@
           {
             "part1": "Sam",
             "part2": "at his friends for having voted for a politician who turned out to be a crook.",
-            "correct": "gibed"
+            "correct": "gibed",
+            "word": "GIBE"
           },
           {
             "part1": "Just because I'm unemployed, that doesn't mean I'm (a)n",
@@ -4627,7 +4631,7 @@
               "deftext": "<p class=\"definition\">a villain, scoundrel, evildoer; an infidel, heretic </p><p>MISCREANT originally comes from Latin words meaning “not believing,” and was originally used about a person whose religious beliefs were thought to be false, a <i class=“def-ital\">nonbeliever</i> or <i class=“def-ital\">heretic</i>. It is still used in this way, but it is used more often with a meaning developed from this original sense: <i class=“def-ital\">villain</i> or <i class=“def-ital\">evildoer</i>. </p><p>“The police chief promised that the MISCREANTS who had vandalized the church would be arrested soon.” </p><p>“The man said that Jimmy was a young MISCREANT who should be punished severely.” </p><p>“The vicious MISCREANTS lurked in the alley waiting for someone to rob.”</p>"
             }
           },
-          "id": 0,
+          "id": "7",
           "exercises": [
             {
               "questions": [
@@ -5229,7 +5233,7 @@
               "deftext": "<p class=\"definition\">enthusiasm, exuberance, high spirits </p><p>See <i class=“def-ital\">ex-</i> under Prefixes. The <i class=“def-ital\">bull</i> part of EBULLIENCE comes from a Latin word meaning to <i class=“def-ital\">boil</i>. EBULLIENCE is a “boiling out” of enthusiasm or exuberance. It suggests an overflowing of feelings or high spirits. </p><p>“With his usual EBULLIENCE, the professor talked for an hour about how great and wise Socrates had been.” </p><p>The adjective from EBULLIENCE is EBULLIENT. </p><p>“After the victory, the EBULLIENT coach said that this was the finest team he had ever been associated with.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">brilliance</i>, perhaps because of the similarity in sound, and because both are positive qualities for a person to have. </p><p>Other forms of the word: EBULLIENT, adj.</p>"
             }
           },
-          "id": 1,
+          "id": "8",
           "exercises": [
             {
               "questions": [
@@ -5831,7 +5835,7 @@
               "deftext": "<p class=\"definition\">to prolong, drag out </p><p>To PROTRACT means “to lengthen in duration,” <i class=“def-ital\">prolong</i>. The word often implies that the prolonging is unnecessary or boring. </p><p>“They PROTRACTED the conference with an endless series of unnecessary speeches.” </p><p>“The discussion between the two businessmen became so PROTRACTED that the other people at the meeting started to fall asleep.” </p><p>“Stevens was so bored at work that he wrote a PROTRACTED memo on the virtues of unlined paper: it came to fifteen pages.”</p>"
             }
           },
-          "id": 2,
+          "id": "9",
           "exercises": [
             {
               "questions": [
@@ -6894,7 +6898,7 @@
               "deftext": "<p class=\"definition\">foolish, inane, silly </p><p>FATUOUS means <i class=“def-ital\">stupid</i>, <i class=“def-ital\">silly</i>. The word usually suggests a complacent, unwitting foolishness, and is used contemptuously. </p><p>“After a while no one at the meeting paid any attention to Gail’s FATUOUS statements.” </p><p>“These FATUOUS situation comedies are an insult to my intelligence.” </p><p>“She is a foolish woman, always making FATUOUS remarks.” </p><p>Other forms of the word: FATUITY, n.</p>"
             }
           },
-          "id": 0,
+          "id": "10",
           "exercises": [
             {
               "questions": [
@@ -7496,7 +7500,7 @@
               "deftext": "<p class=\"definition\">suffering, affliction, hardship, trial </p><p>TRIBULATION is great distress or suffering. It is also an example or instance of this suffering. </p><p>“They suffered great TRIBULATIONS during the war.” </p><p>“The former prisoners of war could not bear to discuss the TRIBULATIONS they had undergone.” </p><p>TRIBULATIONS is often used in the phrase “trials and TRIBULATIONS.” <i class=“def-ital\">Trial</i> in this sense has essentially the same meaning as TRIBULATION. <i class=“def-ital\">Rejoicing</i> is the most common wrong answer on the Pretest, probably because of confusion with the word <i class=“def-ital\">jubilation</i>.</p>"
             }
           },
-          "id": 1,
+          "id": "11",
           "exercises": [
             {
               "questions": [
@@ -8098,7 +8102,7 @@
               "deftext": "<p class=\"definition\">hard to understand, obscure, mysterious </p><p>ABSTRUSE means “difficult to understand,” usually because of extreme complexity, or because of the remoteness of the material from everyday experience. The word occasionally has a slightly negative sense, suggesting that this complexity may be unnecessary or excessive. </p><p>“Modern physics is a very ABSTRUSE subject. You have to be an expert to understand much of it.” </p><p>“No one in the audience could make sense of the play’s ABSTRUSE symbolism.” </p><p>“The senator’s arguments were so ABSTRUSE that no one else on the committee could follow them.”</p>"
             }
           },
-          "id": 2,
+          "id": "12",
           "exercises": [
             {
               "questions": [

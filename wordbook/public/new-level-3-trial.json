@@ -96,7 +96,7 @@
               "deftext": "<p class=\"definition\">to spoil, indulge, humor, coddle </p><p>To PAMPER someone is to treat him or her with too much care and attention, to be excessively kind. The word almost always suggests that this is a bad thing, and that the person who is PAMPERED may become spoiled as a result. </p><p>“They PAMPER their children. They let them stay up late and eat nothing but desserts.” </p><p>“She decided to PAMPER herself and stay in bed till noon.” </p><p>“She was PAMPERED as a child, and now she can’t do anything for herself.”</p>"
             }
           },
-          "id": 0,
+          "id": "1",
           "exercises": [
             {
               "questions": [
@@ -698,7 +698,7 @@
               "deftext": "<p class=\"definition\">to rule, hold power over, control, overshadow </p><p>See <i class=“def-ital\">-ate1</i> under Suffixes. The <i class=“def-ital\">domin</i> part of the word comes from a Latin word meaning <i class=“def-ital\">lord</i> or <i class=“def-ital\">master</i>. To DOMINATE something is to have control over it, to be so powerful or so numerous that nothing or no one else has a chance. </p><p>“He was such a great player that he DOMINATED tennis for many years.” </p><p>“That one huge tree DOMINATED the entire landscape.” </p><p>“Three automakers DOMINATE the entire industry.” </p><p>“He DOMINATED the conversation; no one else had a chance to speak.” </p><p>Someone or something that has this kind of control is DOMINANT. </p><p>“The DOMINANT activity around here is farming.” </p><p>“When the senator died, his replacement became the DOMINANT figure in the party.” </p><p>Other forms of the word: DOMINANT, adj. DOMINATION, n.</p>"
             }
           },
-          "id": 1,
+          "id": "2",
           "exercises": [
             {
               "questions": [
@@ -1300,7 +1300,7 @@
               "deftext": "<p class=\"definition\">power, strength, energy, pep </p><p>VIGOR is strength or energy that comes from good health. </p><p>“He attacked the problem with VIGOR.” </p><p>“Her constant VIGOR makes others tired; they wonder how she keeps it up.” </p><p>The adjective form of VIGOR is VIGOROUS, which means <i class=“def-ital\">strong</i> or <i class=“def-ital\">forceful</i>. </p><p>“The VIGOROUS series of exercises left her gasping for breath.” </p><p>Other forms of the word: VIGOROUS, adj.</p>"
             }
           },
-          "id": 2,
+          "id": "3",
           "exercises": [
             {
               "questions": [
@@ -1832,7 +1832,8 @@
             "answer": "plagued"
           },
           {
-            "word": "BAN"
+            "word": "BAN",
+            "answer": "banned"
           },
           {
             "word": "DESCEND",
@@ -1971,7 +1972,8 @@
             "answer": "vigor"
           },
           {
-            "word": "FOE"
+            "word": "FOE",
+            "answer": "foes"
           },
           {
             "word": "INTERMEDIATE",
@@ -2078,7 +2080,8 @@
           {
             "part1": "After the window was broken, the principal",
             "part2": "all ball playing in the schoolyard.",
-            "correct": "banned"
+            "correct": "banned",
+            "word": "BAN"
           },
           {
             "part1": "The other team was completely",
@@ -2137,7 +2140,8 @@
           {
             "part1": "All of his",
             "part2": "were happy to see him go to jail.",
-            "correct": "foes"
+            "correct": "foes",
+            "word": "FOE"
           },
           {
             "part1": "On this very",
@@ -2359,7 +2363,7 @@
               "deftext": "<p class=\"definition\">huge, vast, extremely large </p><p>IMMENSE means “so big or great that you can hardly measure it.” The word is used about size, numbers, amounts, and so on. </p><p>“The museum was IMMENSE. It would take you weeks to see everything that’s in it.” </p><p>“There was an IMMENSE crowd on the beach that day.” </p><p>“There is an IMMENSE amount of work to be done before we will be finished.” </p><p>Other forms of the word: IMMENSITY, n.</p>"
             }
           },
-          "id": 0,
+          "id": "4",
           "exercises": [
             {
               "questions": [
@@ -2961,7 +2965,7 @@
               "deftext": "<p class=\"definition\">to praise, recommend; to entrust To COMMEND someone is to speak favorably of him, to praise him. “I COMMEND you for your honesty.” “Bill’s mother COMMENDED his handling of the emergency.” Often the word suggests praising someone or something to someone else. In this sense COMMEND is close in mean- ing to recommend. “The critic COMMENDED the book to anyone inter- ested in fine writing. In another sense, COMMEND means to entrust or com- mit. “The dying man COMMENDED his soul to God.” The most commonly chosen wrong answer is scold, which is just about the opposite of COMMEND. Other forms of the word: COMMENDABLE, adj. COMMENDATION, n.</p>"
             }
           },
-          "id": 1,
+          "id": "5",
           "exercises": [
             {
               "questions": [
@@ -3563,7 +3567,7 @@
               "deftext": "<p class=\"definition\">to keep, continue to have; to keep in place </p><p>To RETAIN something is to hold onto it, to continue to have it. It is related to other words like <i class=“def-ital\">obtain</i> and <i class=“def-ital\">contain</i> which have to do with getting and holding. </p><p>“Despite the other team’s rally, we RETAINED the lead at halftime.” </p><p>“She RETAINS all the energy and enthusiasm she had when she was much younger.” </p><p>RETAIN also means “to keep in place.” </p><p>“A dam was built to RETAIN the water.” </p><p>“Female kangaroos RETAIN their young in pouches on their abdomens.”</p>"
             }
           },
-          "id": 2,
+          "id": "6",
           "exercises": [
             {
               "questions": [
@@ -4626,7 +4630,7 @@
               "deftext": "<p class=\"definition\">to please, satisfy, indulge </p><p>See <i class=“def-ital\">-fy</i> under Suffixes. GRATIFY comes from a Latin word meaning <i class=“def-ital\">pleasing</i>, <i class=“def-ital\">thankful</i>, also the source of the words <i class=“def-ital\">grateful</i> and <i class=“def-ital\">gratitude</i>. Someone who is <i class=“def-ital\">grateful</i> is pleased about something, is thankful for it. To GRATIFY someone is to make him pleased, to give him pleasure by satisfying his desires. </p><p>“Your decision to go on to college GRATIFIES me tremendously.” </p><p>“We are all GRATIFIED with the results.” </p><p>“I am GRATIFIED to learn that you are finally earning some money.” </p><p>Other forms of the word: GRATIFICATION, n. GRATIFYING, adj.</p>"
             }
           },
-          "id": 0,
+          "id": "7",
           "exercises": [
             {
               "questions": [
@@ -5228,7 +5232,7 @@
               "deftext": "<p class=\"definition\">a betrayer </p><p>A TRAITOR is a person who is not loyal to his own country or side. A TRAITOR betrays the people who trust him. </p><p>“Benedict Arnold was a TRAITOR to the United States when he gave secrets to the British.” </p><p>“He is the worst kind of TRAITOR, because he betrayed his friends for money.” </p><p>Many people confuse TRAITOR with <i class=“def-ital\">spy</i>. A spy is a person who tries to obtain secret information. He may work for his own country or for someone else’s, so a spy is not necessarily a TRAITOR. </p><p>Other forms of the word: TRAITOROUS, adj.</p>"
             }
           },
-          "id": 1,
+          "id": "8",
           "exercises": [
             {
               "questions": [
@@ -5830,7 +5834,7 @@
               "deftext": "<p class=\"definition\">easily, expertly </p><p>HANDILY comes from the word HANDY. Someone who is HANDY is clever in using his hands. </p><p>“He is very HANDY at fixing things around the house.” </p><p>HANDILY means “with little trouble,” <i class=“def-ital\">easily</i>. It is used about anything that happens or is done with no difficulty, not just things that require using your hands. </p><p>“In spite of falling down at the beginning of the race, he came back to win HANDILY.” </p><p>“She passed her final exams HANDILY.” </p><p>Other forms of the word: HANDY, adj.</p>"
             }
           },
-          "id": 2,
+          "id": "9",
           "exercises": [
             {
               "questions": [
@@ -6893,7 +6897,7 @@
               "deftext": "<p class=\"definition\">harsh, severe, stern, forbidding; ghastly </p><p>GRIM means <i class=“def-ital\">stern</i>, <i class=“def-ital\">severe</i>. The word is used about the way people look. </p><p>“The GRIM expression on his face told us he was quite angry.” </p><p>It is also used about conditions or actions that are harsh or unpleasant. </p><p>“Neither fighter could stand up at the end of the GRIM struggle.” </p><p>“It was his GRIM task to count the dead bodies.” </p><p>The phrase “GRIM necessity” applies to something that is unpleasant but has to be done. </p><p>“GRIM necessity forced us to drink the dirty water.” </p><p>Sometimes GRIM has an even stronger sense of <i class=“def-ital\">ghastly</i>, <i class=“def-ital\">horrifying</i>. </p><p>“It was a GRIM tale of murder and torture.”</p>"
             }
           },
-          "id": 0,
+          "id": "10",
           "exercises": [
             {
               "questions": [
@@ -7495,7 +7499,7 @@
               "deftext": "<p class=\"definition\">dull, monotonous, uninteresting, colorless </p><p>Something that is DRAB is uninteresting, colorless, lifeless. </p><p>“His wife’s lovely personality lent color to his otherwise DRAB existence.” </p><p>The word DRAB is also used in a more specific sense to describe a dull, muddy brown or gray color. </p><p>“The DRAB color scheme of the room made it lifeless and uninviting.” </p><p>Many people think DRAB means <i class=“def-ital\">filthy</i>. Something may be colorless and dull, however, and still be perfectly clean.</p>"
             }
           },
-          "id": 1,
+          "id": "11",
           "exercises": [
             {
               "questions": [
@@ -8097,7 +8101,7 @@
               "deftext": "<p class=\"definition\">first appearance, beginning, introduction </p><p>Note the pronunciation. DEBUT is a French word, and keeps its French pronunciation. A person’s DEBUT is his or her first public appearance--on stage, in society, in a job, etc. </p><p>“He made his DEBUT as an actor in a small part in Hamlet.” </p><p>“Dick’s DEBUT as a teacher was terrifying for him. For the first time he had to face a class alone.” </p><p>Other forms of the word: DEBUTANTE, n.</p>"
             }
           },
-          "id": 2,
+          "id": "12",
           "exercises": [
             {
               "questions": [

@@ -96,7 +96,7 @@
               "deftext": "<p class=\"definition\">occurring at the same time, simultaneous; modern, current </p><p>Something which is CONTEMPORARY lives, exists, or occurs at the same time as something else. </p><p>“Shakespeare’s life was CONTEMPORARY with Francis Bacon’s.” </p><p>“The revival of learning in the Renaissance was CONTEMPORARY with the early explorations of America.” </p><p>“CONTEMPORARY authors all described the ancient king as being short and ugly.” </p><p>CONTEMPORARY also means <i class=“def-ital\">modern, up-to-date-</i> that is, existing at the same time we do. </p><p>“Jane decided to sell all her antique furniture and re- decorate her home in a more CONTEMPORARY style.” </p><p>CONTEMPORARY is also a noun which is used about people who live at the same time. </p><p>“Roberta and my sister, Lorraine, were CONTEMPORARIES at Columbia University.”</p>"
             }
           },
-          "id": 0,
+          "id": "1",
           "exercises": [
             {
               "questions": [
@@ -697,7 +697,7 @@
               "deftext": "<p class=\"definition\">very close, personal, private </p><p>INTIMATE is used in several senses, all with the general meaning of <i class=“def-ital\">close, personal, private. INTIMATE friends are very close, very deep friends. An INTIMATE conversation is a private, personal talk that you would not want to be overheard. A person who has an INTIMATE knowledge of a subject knows it extremely well, is deeply familiar with it. The INTIMATE details of an event or a per- son’s life are the private, secret matters that few people know about. </p><p>“The mechanic had an INTIMATE understanding of how cars work.” </p><p>“No one ever learned the INTIMATE secrets of her life.” </p><p>Other forms of the word: INTIMACY, n.</p>"
             }
           },
-          "id": 1,
+          "id": "2",
           "exercises": [
             {
               "questions": [
@@ -1299,7 +1299,7 @@
               "deftext": "<p class=\"definition\">miserable, foul, poor </p><p>A WRETCHED person is very unhappy or unlucky. </p><p>“I felt WRETCHED when I woke up this morning, but now I’m somewhat better.” </p><p>“This WRETCHED woman has had a hard life.” </p><p>A WRETCHED thing is of very poor quality. </p><p>“This book is WRETCHED. It is the worst I’ve ever read.” </p><p>“They live in a WRETCHED shack with no heat or running water.” </p><p>A WRETCH is a miserable person, either one who is very unfortunate or one who is very evil. </p><p>“Those poor WRETCHES are doomed to die very soon.” </p><p>“Some hateful WRETCH thought it would be fun to burn our house down.” </p><p>Other forms of the word: WRETCH, n.</p>"
             }
           },
-          "id": 2,
+          "id": "3",
           "exercises": [
             {
               "questions": [
@@ -1879,7 +1879,8 @@
             "answer": "embryonic"
           },
           {
-            "word": "JEST"
+            "word": "JEST",
+            "answer": "jests"
           },
           {
             "word": "PUNY",
@@ -2048,7 +2049,8 @@
           {
             "part1": "The speaker made a few",
             "part2": "about how fat he was, and then became serious.",
-            "correct": "jests"
+            "correct": "jests",
+            "word": "JEST"
           },
           {
             "part1": "He said that fifty people would not",
@@ -2360,7 +2362,7 @@
               "deftext": "<p class=\"definition\">harsh, hoarse, grating RAUCOUS is used mainly about sounds. The word means “disagreeably loud and harsh.” It often suggests that this loud noise is the result of disorderly behavior. </p><p>“We listened to the RAUCOUS noise of the crows outside our window.” </p><p>“The neighbors complained about the RAUCOUS party across the hall.” </p><p>“The RAUCOUS laughter stopped suddenly when the teacher entered the room.” </p><p>The most commonly chosen wrong answer on the Pretest is deep. <i class=“def-ital\">Deep</i> can also be used about sounds and voices, but deep sounds are not always loud and grating.</p>"
             }
           },
-          "id": 0,
+          "id": "4",
           "exercises": [
             {
               "questions": [
@@ -2962,7 +2964,7 @@
               "deftext": "<p class=\"definition\">to give in, yield </p><p>To RELENT is to become less harsh, to let up or give in. The word is usually used about people. </p><p>“The teacher finally RELENTED and told Bill he didn’t have to stay after school.” </p><p>“She begged her mother to let her go to the dance, but her mother wouldn’t RELENT.” </p><p>“When he saw her crying, he RELENTED and let her keep the toy.” </p><p>Someone who is RELENTLESS does not or cannot RE- LENT, is harsh and persistent. </p><p>“They begged him to stop teasing the child, but he was RELENTLESS.” </p><p>Other forms of the word: RELENTLESS, adj.</p>"
             }
           },
-          "id": 1,
+          "id": "5",
           "exercises": [
             {
               "questions": [
@@ -3564,7 +3566,7 @@
               "deftext": "<p class=\"definition\">distressing, agonizing, painful, frightening </p><p>A HARROW is a farming tool which cuts into and levels off ground. To HARROW something is to draw a HAR- ROW over it. The word has come to mean to <i class=“def-ital\">distress</i> or <i class=“def-ital\">disturb</i> a person as if he were being cut into by a HARROW. HARROWING is the adjective from this meaning of HARROW. It means <i class=“def-ital\">distressing, painful,</i> especially to the mind or the feelings. </p><p>“Being attacked by the bear was a HARROWING experience.” </p><p>“He told us a HARROWING tale of torture and suffering.” </p><p>Other forms of the word: HARROW,n.,v.</p>"
             }
           },
-          "id": 2,
+          "id": "6",
           "exercises": [
             {
               "questions": [
@@ -4626,7 +4628,7 @@
               "deftext": "<p class=\"definition\">to intrude, trespass, enter or take gradually  </p><p>To ENCROACH on or upon something is to advance farther than you are supposed to into it, to <i class=“def-ital\">trespass</i> on it. The word is used about trespassing on actual physical property, and also on things like rights and time. </p><p>“That new fence you built ENCROACHES on my property.” </p><p>“Your speech is too long. It will ENCROACH on my time to speak.” </p><p>ENCROACH is used especially when this trespassing happens gradually or secretly. </p><p>“Step by step the government started to ENCROACH on their rights.” </p><p>“As the years went by the sea ENCROACHED more and more on the land.” </p><p>Other forms of the word: ENCROACHMENT, n. </p><p>Usage: ENCROACH is usually followed by on or upon.</p>"
             }
           },
-          "id": 0,
+          "id": "7",
           "exercises": [
             {
               "questions": [
@@ -5228,7 +5230,7 @@
               "deftext": "<p class=\"definition\">to delay, lag, be slow; to remain, stay </p><p>TARRY has two meanings. The first meaning of TARRY is to <i class=“def-ital\">delay</i> or <i class=“def-ital\">hang back,</i> to <i class=“def-ital\">be slow</i> in coming or going, to <i class=“def-ital\">dawdle.</i> </p><p>“He TARRIES so long getting dressed that he’s always late for school.” </p><p>“Her mother called up to her, ‘Don’t TARRY any longer; we’re leaving immediately.’ </p><p>” The other meaning of TARRY is to <i class=“def-ital\">stay</i> or <i class=“def-ital\">remain.</i> </p><p>“We TARRIED at the seashore for a few more days.” </p><p>“Please TARRY awhile; we enjoy hearing about your travels.” </p><p><i class=“def-ital\">Rush</i> is the most commonly chosen wrong answer on the Pretest, perhaps because TARRY sounds like <i class=“def-ital\">hurry.</i></p>"
             }
           },
-          "id": 1,
+          "id": "8",
           "exercises": [
             {
               "questions": [
@@ -5830,7 +5832,7 @@
               "deftext": "<p class=\"definition\">rude, offensive, disrespectful, insulting </p><p>Someone who is INSOLENT lacks proper respect for people. An INSOLENT person is rude and insulting, especially to a person who is in a higher position. </p><p>“The INSOLENT private refused to salute the general.” </p><p>“Some INSOLENT students laughed during the principal’s speech.” </p><p>INSOLENT is also used about the way such a person acts, or what he says. </p><p>“When asked why he was late, he gave an INSOLENT reply.” </p><p>Other forms of the word: INSOLENCE, n.</p>"
             }
           },
-          "id": 2,
+          "id": "9",
           "exercises": [
             {
               "questions": [
@@ -6893,7 +6895,7 @@
               "deftext": "<p class=\"definition\">n.: the main part, main idea, essence, general sense </p><p>GIST is a legal term, meaning “the grounds for a legal action\"-that is, the basic reason or point of a case. In general use GIST has the same idea: it is the main point, the central idea of something. </p><p>“Don’t repeat the whole speech to me. I just want the GIST of what he said.” </p><p>“There was a lot more to it, but the GIST of his decision is that you can’t come.”</p>"
             }
           },
-          "id": 0,
+          "id": "10",
           "exercises": [
             {
               "questions": [
@@ -7495,7 +7497,7 @@
               "deftext": "<p class=\"definition\">a kingdom, territory, region </p><p>REALM is a fancy or poetical word for <i class=“def-ital\">kingdom.</i> </p><p>“The king searched throughout his REALM for one honest man.” </p><p>The word is also used in a general sense for <i class=“def-ital\">region, territory, or range.</i> </p><p>“He lived entirely within the REALM of his own imagination.” </p><p>If something is “within the REALM of possibility,” it is possible, it can happen. </p><p>The most commonly chosen wrong answer is tale, possibly because REALM is connected in people’s minds with stories and legends rather than with everyday speech.</p>"
             }
           },
-          "id": 1,
+          "id": "11",
           "exercises": [
             {
               "questions": [
@@ -8102,7 +8104,7 @@
               "deftext": "<p class=\"definition\">to try, make an effort, attempt, strive </p><p>ENDEAVOR means to <i class=“def-ital\">try.</i> The word usually adds to <i class=“def-ital\">try</i> a sense of determined effort or struggle. </p><p>“No matter how much they ENDEAVORED, they couldn’t finish in time.” </p><p>“They ENDEAVORED to clean up the house before their mother returned.” </p><p>ENDEAVOR when used as a noun emphasizes even more strongly this idea of difficulty and determination. </p><p>“They made a serious ENDEAVOR to solve these important problems.” </p><p>“The ENDEAVOR was worthwhile, even if it did not succeed.”</p>"
             }
           },
-          "id": 2,
+          "id": "12",
           "exercises": [
             {
               "questions": [
@@ -8678,7 +8680,8 @@
             "answer": "circuitous"
           },
           {
-            "word": "DON"
+            "word": "DON",
+            "answer": "donned"
           },
           {
             "word": "JURISDICTION",
@@ -8881,7 +8884,8 @@
           {
             "part1": "Alice",
             "part2": "her heaviest coat when she went out into the snowstorm.",
-            "correct": "donned"
+            "correct": "donned",
+            "word": "DON"
           },
           {
             "part1": "They",

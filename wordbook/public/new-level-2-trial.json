@@ -96,7 +96,7 @@
               "deftext": "<p class=\"definition\">priv’-lij) n.: a special right, special benefit </p><p>A PRIVILEGE is a special right which is given to some but not to others. </p><p>“He was given the PRIVILEGE of watching television until eleven o’clock on weekends.” </p><p>“We have the PRIVILEGE of parking our car on this street.” </p><p>“Should doctors have special PRIVILEGES the rest of us don’t have?” </p><p><i class=“def-ital\">Sworn duty</i> is often chosen as the meaning of PRIVILEGE. This phrase is actually just about an opposite of PRIVILEGE. A <i class=“def-ital\">duty</i> is something you have to do; a PRIVILEGE is something you are allowed to do. </p><p>Other forms of the word: PRIVILEGED, adj.</p>"
             }
           },
-          "id": 0,
+          "id": "1",
           "exercises": [
             {
               "questions": [
@@ -698,7 +698,7 @@
               "deftext": "<p class=\"definition\">to set on fire, cause to burn; to catch fire, begin to burn </p><p>To IGNITE something is to set fire to it. </p><p>“The burning cigarette IGNITED the straw.” </p><p>“He IGNITED the blaze with just one match.</p><p>” When something IGNITES, it begins to burn. </p><p>“When we threw on a few matches, the fire IGNITED.” </p><p>IGNITE is also used in a broader sense to mean to <i class=“def-ital\">excite, inflame</i>. </p><p>“Carol’s speech IGNITED the crowd’s enthusiasm.”</p>"
             }
           },
-          "id": 1,
+          "id": "2",
           "exercises": [
             {
               "questions": [
@@ -1300,7 +1300,7 @@
               "deftext": "<p class=\"definition\">a gift, present, contribution  </p><p>A DONATION is a gift or contribution, usually given to a charity of some kind. </p><p>“Every year we give a DONATION to the Heart Fund.” “After the disaster, the people whose homes had been destroyed needed DONATIONS of food and clothing.” </p><p>“He asked everyone for a small DONATION to buy a going-away present for George.” </p><p>When you make a DONATION, you DONATE. </p><p>“She refused to DONATE anything to the party.” </p><p>“We will accept whatever you choose to DONATE.” </p><p>Other forms of the word: DONATE, v.</p>"
             }
           },
-          "id": 2,
+          "id": "3",
           "exercises": [
             {
               "questions": [
@@ -1899,7 +1899,8 @@
             "answer": "concluded"
           },
           {
-            "word": "AIL"
+            "word": "AIL",
+            "answer": "ailing"
           },
           {
             "word": "DECEIVE",
@@ -2214,7 +2215,8 @@
           {
             "part1": "Ed has been",
             "part2": "for months, but he refuses to go to the doctor to find out what's wrong.",
-            "correct": "ailing"
+            "correct": "ailing",
+            "word": "AIL"
           },
           {
             "part1": "We wouldn't",
@@ -2364,7 +2366,7 @@
               "deftext": "<p class=\"definition\">to awaken, stir, excite To ROUSE someone is to stir or awaken him. “The fire alarm ROUSED them from their sleep.” You can ROUSE someone to something as well as from something. “The speaker’s words ROUSED the crowd to action.” “I was ROUSED to anger by his insults.” ROUSE is often used with up. “They ROUSED up their friends and made them help too.” ROUSING is an adjective which means exciting or stir- ring. “We gave a ROUSING cheer when the team came on the field.” Other forms of the word: ROUSING, adj.</p>"
             }
           },
-          "id": 0,
+          "id": "4",
           "exercises": [
             {
               "questions": [
@@ -2966,7 +2968,7 @@
               "deftext": "<p class=\"definition\">exact, certain, correct </p><p>PRECISE means <i class=“def-ital\">exact</i>, “without error or unclearness.” </p><p>“He says he’ll come some time next week, but he can’t be more PRECISE than that.” </p><p>“Donna tried to be PRECISE in her description of the car.” </p><p>“The bank knew the PRECISE amount of money he had in his savings account.” </p><p>“The game will start at PRECISELY eight o’clock- not a minute sooner or later.” </p><p>Other forms of the word: PRECISION, n.</p>"
             }
           },
-          "id": 1,
+          "id": "5",
           "exercises": [
             {
               "questions": [
@@ -3568,7 +3570,7 @@
               "deftext": "<p class=\"definition\">ruins, rubbish, refuse </p><p>Note the pronunciation. DEBRIS is a French word and keeps its French pronunciation. DEBRIS is the scattered broken pieces of something that has fallen apart or been destroyed. </p><p>“The ground was covered with DEBRIS after the train wreck.” </p><p>“It took weeks to clean up the DEBRIS left behind by the flood.” </p><p>“After the fire there was nothing but DEBRIS where the house had once stood.”</p>"
             }
           },
-          "id": 2,
+          "id": "6",
           "exercises": [
             {
               "questions": [
@@ -4441,7 +4443,8 @@
           {
             "part1": "The famous writer",
             "part2": "for many years in that house on the corner.",
-            "correct": "dwelt"
+            "correct": "dwelt",
+            "word": "DWELL"
           },
           {
             "part1": "There were several",
@@ -4627,7 +4630,7 @@
               "deftext": "<p class=\"definition\">to chase, follow, go after </p><p>To PURSUE something is to follow after it. You can PURSUE anything: a car, a person, success, happiness, and so on. </p><p>“The police PVRSUED the escaped prisoner.” </p><p>“He was PURSUED by shouts as he left the meeting.” </p><p>“All people should have the right to PURSUE happiness.” </p><p>PURSUIT is the noun from PURSUE. </p><p>“Everyone joined in the PURSUIT of the criminal.” </p><p>Other forms of the word: PURSUIT, n.</p>"
             }
           },
-          "id": 0,
+          "id": "7",
           "exercises": [
             {
               "questions": [
@@ -5230,7 +5233,7 @@
               "deftext": "<p class=\"definition\">praise </p><p>A COMPLIMENT is a polite expression of praise or approval. When you tell people that you admire them or ap- prove of what they’re doing, you are giving them a COMPLIMENT. </p><p>“She received several COMPLIMENTS from her friends about her new dress.” </p><p>COMPLIMENT is also a verb and means “to express approval of or to give praise to.” As a verb the word is pronounced kom’-pl;)-ment. </p><p>“The teacher COMPLIMENTED him for raising his grade in French.” </p><p>“She COMPLIMENTED the way we cleaned the house. </p><p>Other forms of the word COMPLIMENTARY, adj.</p>"
             }
           },
-          "id": 1,
+          "id": "8",
           "exercises": [
             {
               "questions": [
@@ -5832,7 +5835,7 @@
               "deftext": "<p class=\"definition\">an honor, gift; payment, taxation </p><p>A TRIBUTE is an honor or gift given to somebody to show respect or give thanks. </p><p>“With a charming speech, she accepted the TRIBUTE to her skill.” </p><p>“This statue is a TRIBUTE to the memory of soldiers who have fallen in war.” </p><p>TRIBUTE is often used in the phrase “to pay TRIBUTE,” which means to <i class=“def-ital\">give honor</i>. </p><p>“We gathered to pay TRIBUTE to the man who founded our company fifty years ago.” </p><p>TRIBUTE also means a kind of payment or taxation a conqueror gets from those he has conquered. “The king set the yearly TRIBUTE from the town at a hundred gold pieces.” </p><p>Usage: TRIBUTE, when it means honor or gift, is usually followed by to.</p>"
             }
           },
-          "id": 2,
+          "id": "9",
           "exercises": [
             {
               "questions": [
@@ -6895,7 +6898,7 @@
               "deftext": "<p class=\"definition\">magnificent, colorful, superb, dazzling </p><p>Someone or something that is GORGEOUS looks wonderful, usually because it is so spectacular or colorful. </p><p>“We could see mile after mile of beautiful lakes and forests; the view was simply GORGEOUS.” </p><p>“She looked really GORGEOUS in her expensive new gown.” </p><p>Many people think GORGEOUS means <i class=“def-ital\">pleasant</i>, but GORGEOUS is much stronger than that. Something that is GORGEOUS is quite beautiful.</p>"
             }
           },
-          "id": 0,
+          "id": "10",
           "exercises": [
             {
               "questions": [
@@ -7497,7 +7500,7 @@
               "deftext": "<p class=\"definition\">to live in, dwell in </p><p>See <i class=“def-ital\">in-1</i> under Prefixes. To INHABIT a place is to live in it. </p><p>“Several million people INHABIT that city.” </p><p>“A family of raccoons INHABITS the woods behind our house.” </p><p>An INHABITANT is someone who INHABITS a place, a resident. </p><p>“The firemen rescued all the INHABITANTS of the building.</p><p>” Many people choose get used to as the meaning of IN- HABIT, probably because they are confused by the word habit. </p><p>Other forms of the word: INHABITANT, n.</p>"
             }
           },
-          "id": 1,
+          "id": "11",
           "exercises": [
             {
               "questions": [
@@ -8087,7 +8090,7 @@
               "deftext": "<p class=\"definition\">to fear greatly, be terrified of </p><p>To DREAD something is to have a deep fear of it. DREAD is especially used about things that are going to happen in the future. </p><p>“I DREAD going to this party. I never have a good time at large parties.” </p><p>“Sally DREADED the math exam, but she ended up doing well on it.\"</p><p>DREAD is also a noun, meaning great fear. </p><p>“He has a DREAD of going into a dark house all by himself.” </p><p>“No one could cure her of her DREAD of spiders.”</p>"
             }
           },
-          "id": 2,
+          "id": "12",
           "exercises": [
             {
               "questions": [

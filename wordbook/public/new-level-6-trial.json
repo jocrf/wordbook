@@ -96,7 +96,7 @@
               "deftext": "<p class=\"definition\">to notice, observe, become aware of, sense </p><p>To PERCEIVE something is to become aware of it, especially through the senses. </p><p>“We PERCEIVED a faint light in the distance.” </p><p>“He could PERCEIVE very small differences in sounds.” </p><p>“The critics failed to PERCEIVE the greatness of the novel until many years later.” </p><p><i class=“def-ital\">Trick</i> is often chosen as the meaning of PERCEIVE. This is probably due to a confusion of PERCEIVE with <i class=“def-ital\">deceive</i>, which means to <i class=“def-ital\">trick</i>. </p><p>Other forms of the word: PERCEPTIBLE, adj. PERCEPTION, n. PERCEPTIVE, adj.</p>"
             }
           },
-          "id": 0,
+          "id": "1",
           "exercises": [
             {
               "questions": [
@@ -698,7 +698,7 @@
               "deftext": "<p class=\"definition\">a crowd, multitude </p><p>A THRONG is a great number of people crowded together. </p><p>“THRONGS of people came to see the hit movie.” </p><p>“The small child got lost in the THRONG at the parade.” </p><p>THRONG is also a verb, meaning to <i class=“def-ital\">crowd together</i> or to <i class=“def-ital\">fill by crowding</i>. </p><p>“People THRONGED into the street for the parade.” </p><p>“The park was THRONGED with people waiting to hear the concert.”</p>"
             }
           },
-          "id": 1,
+          "id": "2",
           "exercises": [
             {
               "questions": [
@@ -1300,7 +1300,7 @@
               "deftext": "<p class=\"definition\">a disturbance, uproar, noisy quarrel, fight, brawl </p><p>A FRACAS is a noisy disturbance, an uproar. The word is generally used about people fighting or disagreeing with one another. </p><p>“A FRACAS erupted among some spectators who had been drinking.” </p><p>“Two policemen were injured trying to end the FRACAS.” </p><p>“A nice party suddenly became a FRACAS when everyone started arguing about politics.” </p><p>A FRACAS is smaller and less serious than a <i class=“def-ital\">riot</i>, but larger and usually more violent than a <i class=“def-ital\">quarrel</i>.</p>"
             }
           },
-          "id": 2,
+          "id": "3",
           "exercises": [
             {
               "questions": [
@@ -1944,7 +1944,8 @@
             "answer": "imperative"
           },
           {
-            "word": "LEVY"
+            "word": "LEVY",
+            "answer": "levied"
           },
           {
             "word": "RETROSPECT",
@@ -2205,7 +2206,8 @@
           {
             "part1": "The state",
             "part2": "a tax on cigarettes and other tobacco products.",
-            "correct": "levied"
+            "correct": "levied",
+            "word": "LEVY"
           },
           {
             "part1": "She told the children a(n)",
@@ -2361,7 +2363,7 @@
               "deftext": "<p class=\"definition\">distant, indifferent, remote </p><p>ALOOF is used about people who like to keep the feelings and opinions of others at a distance. ALOOF people stand apart and don’t become involved in the affairs of others. Often the word suggests that this happens because these people feel superior to the rest of us. </p><p>“Mary always remained ALOOF from the other children, as if she thought their games were too silly for her.” </p><p>“He was very warm and friendly with his family, but at work he seemed quite ALOOF.”</p>"
             }
           },
-          "id": 0,
+          "id": "4",
           "exercises": [
             {
               "questions": [
@@ -2963,7 +2965,7 @@
               "deftext": "<p class=\"definition\">untidy, sloppy, careless </p><p>A SLOVEN is a person who always dresses, acts, or works in a messy, slipshod manner. SLOVENLY is the adjective from SLOVEN. (It is an adjective even though it ends in <i class=“def-ital\">-ly</i>.) A person is SLOVENLY if he is sloppy or careless about his appearance or work. </p><p>“She is so SLOVENLY. She looks as though she sleeps in her clothes.” </p><p>“Jim’s SLOVENLY appearance makes a very bad impression on people.” </p><p>SLOVENLY is also used about people’s activities and products. </p><p>“It was a SLOVENLY report, full of mistakes and erasures.” </p><p>“The supervisor criticized the mechanic’s SLOVENLY workmanship.” </p><p>Other forms of the word: SLOVEN, n.</p>"
             }
           },
-          "id": 1,
+          "id": "5",
           "exercises": [
             {
               "questions": [
@@ -3565,7 +3567,7 @@
               "deftext": "<p class=\"definition\">to recommend, support </p><p>To ADVOCATE something is to speak or write publicly in favor of it. </p><p>“She ADVOCATES a shorter school day and longer vacations for students.” </p><p>“Everyone at the meeting seemed to ADVOCATE a different way of solving the problem.” </p><p>“No one on the committee ADVOCATED doing away with taxes entirely.” </p><p>ADVOCATE is also a noun. An ADVOCATE is someone who defends or pleads for a cause or a person. </p><p>“The plan’s strongest ADVOCATES are the ones who will gain the most from it.” </p><p>Other forms of the word: ADVOCACY, n.</p>"
             }
           },
-          "id": 2,
+          "id": "6",
           "exercises": [
             {
               "questions": [
@@ -4628,7 +4630,7 @@
               "deftext": "<p class=\"definition\">emotionless, unmoved, indifferent </p><p>Someone who is IMPASSIVE shows no signs of feeling or interest. He has no emotions, at least none that anyone can see. </p><p>“She remained IMPASSIVE while they told her of her mother’s accident.” </p><p>“He stared IMPASSIVELY at them as they threatened to torture him.” </p><p>“Ken came back to the room with an IMPASSIVE look on his face. No one could tell whether he had passed or failed the test.”</p>"
             }
           },
-          "id": 0,
+          "id": "7",
           "exercises": [
             {
               "questions": [
@@ -5230,7 +5232,7 @@
               "deftext": "<p class=\"definition\">a mob, disorderly crowd </p><p>A RABBLE is a crowd or mob of people who act stupidly or unthinkingly. The word is always used in an insulting sense. </p><p>“He ignored the RABBLE who tried to block his way.” </p><p>“The RABBLE in the stadium shouted insults at the referee.” </p><p>A RABBLE-<i class=“def-ital\">rouser</i> is a person who tries to stir up a mob, usually by making speeches. </p><p>“Several RABBLE-rousers urged the mob to take the law into its own hands.”</p>"
             }
           },
-          "id": 1,
+          "id": "8",
           "exercises": [
             {
               "questions": [
@@ -5832,7 +5834,7 @@
               "deftext": "<p class=\"definition\">to agree, consent, concur </p><p>To ASSENT to something is to agree to it. ASSENT often does not suggest strong support but a weaker kind of “going along.” </p><p>“My father ASSENTED when I asked him if I could go to the movies.” </p><p>“I cannot ASSENT to the idea that all men are basically evil.” </p><p>“Everyone ASSENTED to the proposal that we have a party.” </p><p>ASSENT is also a noun, meaning <i class=“def-ital\">agreement</i>. </p><p>“The teacher gave her ASSENT to our suggestion that we have a class picnic.” </p><p>Usage: ASSENT is often followed by <i class=“def-ital\">to</i>.</p>"
             }
           },
-          "id": 2,
+          "id": "9",
           "exercises": [
             {
               "questions": [
@@ -6895,7 +6897,7 @@
               "deftext": "<p class=\"definition\">commonplace, undistinguished </p><p>In ancient Rome there were two classes of people, the <i class=“def-ital\">plebs</i>, or common people, and the <i class=“def-ital\">patricians</i>, or nobles. The adjective PLEBEIAN means “of or relating to the plebs or common people.” The word is used about people, things ,or activities that are considered crude or commonplace. </p><p>“The nobleman didn’t want his daughter to marry into such a PLEBEIAN family.” </p><p>“He considered himself too cultured to take part in so PLEBEIAN a sport as bowling.” </p><p>PLEBEIAN is also a noun. </p><p>“I may only be a simple PLEBEIAN, but I have rights too.”</p>"
             }
           },
-          "id": 0,
+          "id": "10",
           "exercises": [
             {
               "questions": [
@@ -7497,7 +7499,7 @@
               "deftext": "<p class=\"definition\">shallow, trivial, insignificant </p><p>SUPERFICIAL comes from the Latin word for <i class=“def-ital\">surface</i>. Something which is SUPERFICIAL is on the surface only; it doesn’t go very deep. A SUPERFICIAL wound is a minor wound which just involves the surface of the skin. When applied to people and their actions, SUPERFICIAL means “concerned only with what is on the surface, with what is apparent and obvious.” </p><p>“It was a SUPERFICIAL report. It just gave the facts, not the reasons behind them.” </p><p>“The doctor gave him a quick, SUPERFICIAL examination and said he was all right.” </p><p>Other forms of the word: SUPERFICIALITY, n.</p>"
             }
           },
-          "id": 1,
+          "id": "11",
           "exercises": [
             {
               "questions": [
@@ -8099,7 +8101,7 @@
               "deftext": "<p class=\"definition\">to free from blame, clear, relieve </p><p>EXONERATE comes from a Latin word meaning “to relieve of a burden.” Occasionally EXONERATE is used to mean “to relieve of a task or duty.” </p><p>“No one can EXONERATE you from your duty to your parents.” </p><p>The word is usually used, though, in the sense “to free from the burden of blame.” </p><p>“The witness’s testimony completely EXONERATED you.” </p><p>“They admitted the evidence seemed to EXONERATE him from any blame for the fire.” </p><p>EXONERATE gives the idea not only that the person is not guilty, but that he has been cleared so completely that all the burden of being suspected and accused falls away from him.</p>"
             }
           },
-          "id": 2,
+          "id": "12",
           "exercises": [
             {
               "questions": [
@@ -8687,7 +8689,8 @@
             "answer": "plebeian"
           },
           {
-            "word": "WILE"
+            "word": "WILE",
+            "answer": "wiles"
           },
           {
             "word": "ASPIRE",
@@ -8778,7 +8781,8 @@
             "answer": "discreet"
           },
           {
-            "word": "HEW"
+            "word": "HEW",
+            "answer": "hewed"
           },
           {
             "word": "INTREPID",
@@ -8847,7 +8851,8 @@
           {
             "part1": "The prisoner used all his",
             "part2": "in trying to escape.",
-            "correct": "wiles"
+            "correct": "wiles",
+            "word": "WILE"
           },
           {
             "part1": "The nobleman didn't want his son engaging in a(n)",
@@ -8996,7 +9001,8 @@
           {
             "part1": "He swung his ax and",
             "part2": "the large post in two.",
-            "correct": "hewed"
+            "correct": "hewed",
+            "word": "HEW"
           },
           {
             "part1": "I am confident this new evidence will completely",
