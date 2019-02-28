@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { getPhonetic } from '../API';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
-import ReactMarkdown from 'react-markdown';
 
 export default class Word extends Component {
   constructor (props) {
