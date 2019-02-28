@@ -30,7 +30,7 @@ export default class List extends Component {
       case 'exercise':
         level = this.props.level - 1;
         section = this.props.section - 1;
-        wordset = this.props.wordset - 1;
+        wordset = (this.props.wordset - 1) % 3;
         array = levels[level].sections[section].wordsets[wordset].exercises;
         break;
       default:
@@ -38,36 +38,33 @@ export default class List extends Component {
         break;
     }
     return (
-      <div className='col'>
-        <h2 className='text-muted'>{this.props.title}</h2>
-        <ol className='list-group list-group-flush'>
-          {array.map(arrayItem => (
-            <li key={arrayItem.title} className='list-group-item list-group-item-action'>
-              {/* endsWith to handle bug in level URL rendering - when in a section, the url given to the level List already includes 'level' so it is added on again... */}
-              {!arrayItem.title.startsWith('Review') && !this.props.url.endsWith(`${this.props.typeUrl}`) &&
-                <NavLink
-                  to={`${this.props.url}/${this.props.typeUrl}/${arrayItem.id}`}>
-                  {arrayItem.title}
-                </NavLink>
-              }
-              {!arrayItem.title.startsWith('Review') && this.props.url.endsWith(`${this.props.typeUrl}`) &&
-                <NavLink
-                  to={`${this.props.url}/${arrayItem.id}`}
-                >
-                  {arrayItem.title}
-                </NavLink>
-              }
-              {arrayItem.title.startsWith('Review') &&
-                <NavLink
-                  to={`${this.props.url}/review/${arrayItem.id}`}
-                >
-                  {arrayItem.title}
-                </NavLink>
-              }
-            </li>
-          ))}
-        </ol>
-      </div>
+      <ol className='list-group list-group-flush'>
+        {array.map(arrayItem => (
+          <li key={arrayItem.title} className='list-group-item list-group-item-action'>
+            {/* endsWith to handle bug in level URL rendering - when in a section, the url given to the level List already includes 'level' so it is added on again... */}
+            {!arrayItem.title.startsWith('Review') && !this.props.url.endsWith(`${this.props.typeUrl}`) &&
+              <NavLink
+                to={`${this.props.url}/${this.props.typeUrl}/${arrayItem.id}`}>
+                {arrayItem.title}
+              </NavLink>
+            }
+            {!arrayItem.title.startsWith('Review') && this.props.url.endsWith(`${this.props.typeUrl}`) &&
+              <NavLink
+                to={`${this.props.url}/${arrayItem.id}`}
+              >
+                {arrayItem.title}
+              </NavLink>
+            }
+            {arrayItem.title.startsWith('Review') &&
+              <NavLink
+                to={`${this.props.url}/review/${arrayItem.id}`}
+              >
+                {arrayItem.title}
+              </NavLink>
+            }
+          </li>
+        ))}
+      </ol>
     );
   }
 }

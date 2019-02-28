@@ -38,6 +38,7 @@ export const getExercise = (level, section, wordset, exercise, review) => {
         chapterData.exercise = selectedSection.reviewTest;
       }
       for (let key in selectedSection.wordsets) {
+        console.log(`wordset is ${wordset}, id is ${+selectedSection.wordsets[key].id}, key is ${+selectedSection.wordsets[key]}`);
         if (+selectedSection.wordsets[key].id === (wordset - 1)) {
           chapterData.exercise = selectedSection.wordsets[key].exercises[exercise];
           chapterData.definitions = selectedSection.wordsets[key].definitions;
