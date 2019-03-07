@@ -45,7 +45,6 @@ export default class ExercisePage extends Component {
   }
 
   populateData () {
-    console.log(this.props);
     const { level, section, wordset, exercise, review, placement } = this.props;
     getInstructions(exercise, review, placement)
       .then(instructions => this.setState({ instructions: instructions }));

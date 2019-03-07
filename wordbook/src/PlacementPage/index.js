@@ -15,7 +15,6 @@ export default class PlacementPage extends Component {
   }
 
   markWrongAnswers () {
-    console.log('marking answer wrong');
     this.setState((prevState) => ({ wrongAnswers: prevState.wrongAnswers + 1 }));
   }
 
