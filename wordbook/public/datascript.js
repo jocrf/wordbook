@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const level = require('./level-8-trial');
+const level = require('./level-2-trial');
 
 const newLevel = {sections: []};
 // go through the chapters
@@ -95,6 +95,8 @@ newLevel.sections.forEach(section => {
       const openSingleQuote = /'(?=[A-Z])/g;
       const closeSingleQuote = /'/g;
       const newline = /\n/g;
+      const suffixMatch = /See .* under Suffixes./g;
+      const prefixMatch = /See .* under Prefixes./g;
       const openP = '<p class="definition">';
       const closeP = '</p>';
       let openText = wordset.definitions[word].deftext.replace(openMatch, '<i class="def-ital">');
@@ -104,6 +106,22 @@ newLevel.sections.forEach(section => {
       let openSingleQuoteText = closeQuoteText.replace(openSingleQuote, '‘');
       let closeSingleQuoteText = openSingleQuoteText.replace(closeSingleQuote, '’');
       let newText = closeSingleQuoteText.replace(newline, '</p><p>');
+      if (suffixMatch.test(newText)) {
+        const matcher = newText.match(suffixMatch);
+        const index = newText.indexOf('See');
+        let part1 = newText.slice(0, index);
+        let part2 = newText.slice(index + matcher[0].length);
+        newText = part1 + part2;
+        wordset.definitions[word].suffix = matcher;
+      }
+      if (prefixMatch.test(newText)) {
+        const matcher = newText.match(prefixMatch);
+        const index = newText.indexOf('See');
+        let part1 = newText.slice(0, index);
+        let part2 = newText.slice(index + matcher[0].length);
+        newText = part1 + part2;
+        wordset.definitions[word].prefix = matcher;
+      }
       wordset.definitions[word].deftext = openP + newText + closeP;
     });
   });
@@ -112,6 +130,6 @@ newLevel.sections.forEach(section => {
 // console.log(JSON.stringify(newLevel, null, 2));
 
 fs.writeFileSync(
-  path.join(__dirname, 'new-level-8-trial.json'),
+  path.join(__dirname, 'new-level-2-trial.json'),
   JSON.stringify(newLevel, null, 2)
 );
