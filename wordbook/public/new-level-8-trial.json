@@ -51,7 +51,10 @@
               "word": "ACCEDE",
               "phonetic": "(ak-sEd')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to agree, assent, consent </p><p>The <i class=“def-ital\">cede</i> part of ACCEDE comes from a Latin word meaning to <i class=“def-ital\">yield</i>, also found in <i class=“def-ital\">concede</i> and <i class=“def-ital\">cede</i>. See <i class=“def-ital\">ad-</i> under Prefixes. To ACCEDE to something is to yield to it, to give one’s assent to it, often after persuasion. It is followed by <i class=“def-ital\">to</i>. </p><p>“If you do not ACCEDE to our demands we will go on strike.” </p><p>“The professor ACCEDED to Jim’s request for an extra day to complete his paper.” </p><p>“The treasurer was not prepared to ACCEDE to any changes in the budget.” </p><p><i class=“def-ital\">Give</i> is the most commonly chosen wrong answer, perhaps because of the word <i class=“def-ital\">cede</i>.</p>"
+              "deftext": "<p class=\"definition\">to agree, assent, consent </p><p>The <i class=“def-ital\">cede</i> part of ACCEDE comes from a Latin word meaning to <i class=“def-ital\">yield</i>, also found in <i class=“def-ital\">concede</i> and <i class=“def-ital\">cede</i>.  To ACCEDE to something is to yield to it, to give one’s assent to it, often after persuasion. It is followed by <i class=“def-ital\">to</i>. </p><p>“If you do not ACCEDE to our demands we will go on strike.” </p><p>“The professor ACCEDED to Jim’s request for an extra day to complete his paper.” </p><p>“The treasurer was not prepared to ACCEDE to any changes in the budget.” </p><p><i class=“def-ital\">Give</i> is the most commonly chosen wrong answer, perhaps because of the word <i class=“def-ital\">cede</i>.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">ad-</i> under Prefixes."
+              ]
             },
             "DIADEM": {
               "word": "DIADEM",
@@ -75,7 +78,10 @@
               "word": "INDISPOSED",
               "phonetic": "{in-dis-pOzd')",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">mildly ill; unwilling </p><p>One meaning of the verb <i class=“def-ital\">dispose</i> is “to be willing or receptive.” </p><p>“I am DISPOSED to believe you.” </p><p>To be INDISPOSED is to be unwilling or disinclined. See <i class=“def-ital\">in-2</i> under Prefixes. </p><p>“Bill was tired and grumpy and generally INDISPOSED to listen to Ralph’s excuses.” </p><p>INDISPOSED is usually seen with a very different meaning: <i class=“def-ital\">mildly ill</i>. The image is of a person who is not feeling well and is therefore not disposed to do something. </p><p>“When Ted called, Marge’s roommate said she was INDISPOSED and couldn’t come to the phone.” </p><p>“The performance had to be canceled because the star was INDISPOSED.” </p><p>Other forms of the word: INDISPOSITION, n.</p>"
+              "deftext": "<p class=\"definition\">mildly ill; unwilling </p><p>One meaning of the verb <i class=“def-ital\">dispose</i> is “to be willing or receptive.” </p><p>“I am DISPOSED to believe you.” </p><p>To be INDISPOSED is to be unwilling or disinclined.  </p><p>“Bill was tired and grumpy and generally INDISPOSED to listen to Ralph’s excuses.” </p><p>INDISPOSED is usually seen with a very different meaning: <i class=“def-ital\">mildly ill</i>. The image is of a person who is not feeling well and is therefore not disposed to do something. </p><p>“When Ted called, Marge’s roommate said she was INDISPOSED and couldn’t come to the phone.” </p><p>“The performance had to be canceled because the star was INDISPOSED.” </p><p>Other forms of the word: INDISPOSITION, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">in-2</i> under Prefixes."
+              ]
             },
             "INJUNCTION": {
               "word": "INJUNCTION",
@@ -647,13 +653,19 @@
               "word": "EGRESS",
               "phonetic": "(E'-gres)",
               "pos": "n.",
-              "deftext": "<p class=\"definition\">exit, departure </p><p>EGRESS comes from a Latin word meaning to <i class=“def-ital\">go out</i>. See <i class=“def-ital\">e-</i> under Prefixes. The <i class=“def-ital\">gress</i> root, meaning <i class=“def-ital\">go</i>, is also found in such words as <i class=“def-ital\">progress</i> and <i class=“def-ital\">regress</i>. An EGRESS is the act of leaving a place. </p><p>“The students’ EGRESS from the classroom at the end of the day was rapid and noisy.” </p><p>An EGRESS is also the place by means of which one departs, an exit. </p><p>“The only EGRESS from the room was a skylight far above his head.”</p>"
+              "deftext": "<p class=\"definition\">exit, departure </p><p>EGRESS comes from a Latin word meaning to <i class=“def-ital\">go out</i>.  The <i class=“def-ital\">gress</i> root, meaning <i class=“def-ital\">go</i>, is also found in such words as <i class=“def-ital\">progress</i> and <i class=“def-ital\">regress</i>. An EGRESS is the act of leaving a place. </p><p>“The students’ EGRESS from the classroom at the end of the day was rapid and noisy.” </p><p>An EGRESS is also the place by means of which one departs, an exit. </p><p>“The only EGRESS from the room was a skylight far above his head.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">e-</i> under Prefixes."
+              ]
             },
             "IMPECUNIOUS": {
               "word": "IMPECUNIOUS",
               "phonetic": "(im-pi-kyU'-nE-gs)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">penniless, indigent, needy </p><p><i class=“def-ital\">Pecunia</i> is the Latin word for <i class=“def-ital\">money</i>. It is found in the English words <i class=“def-ital\">pecuniary</i>, “having to do with money,” and IMPECUNIOUS. See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-ous</i> under Suffixes. The basic meaning of IMPECUNIOUS is “not having money.” IMPECUNIOUS generally implies that this is a more or less continuous state, and sometimes suggests that it is the person’s own fault, because of overspending. </p><p>“The IMPECUNIOUS young man was constantly borrowing money from his friends.” </p><p>“Her IMPECUNIOUS father was forever having difficulty making the mortgage payments on the house.”</p>"
+              "deftext": "<p class=\"definition\">penniless, indigent, needy </p><p><i class=“def-ital\">Pecunia</i> is the Latin word for <i class=“def-ital\">money</i>. It is found in the English words <i class=“def-ital\">pecuniary</i>, “having to do with money,” and IMPECUNIOUS.  The basic meaning of IMPECUNIOUS is “not having money.” IMPECUNIOUS generally implies that this is a more or less continuous state, and sometimes suggests that it is the person’s own fault, because of overspending. </p><p>“The IMPECUNIOUS young man was constantly borrowing money from his friends.” </p><p>“Her IMPECUNIOUS father was forever having difficulty making the mortgage payments on the house.”</p>",
+              "suffix": [
+                "See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-ous</i> under Suffixes."
+              ]
             },
             "MALADROIT": {
               "word": "MALADROIT",
@@ -2282,7 +2294,10 @@
               "word": "COGENT",
               "phonetic": "(kO'-jgnt)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">convincing, forceful, compelling </p><p>COGENT comes from a Latin word meaning to <i class=“def-ital\">force together</i>. See <i class=“def-ital\">co-</i> under Prefixes. COGENT is usually applied to arguments, reasons, or the like, and means <i class=“def-ital\">forceful</i>, <i class=“def-ital\">convincing</i>. </p><p>“Pete advanced several COGENT arguments about why he deserved a raise.” </p><p>“The principal made some COGENT remarks about the need for greater discipline in the school.” </p><p>“The mayor COGENTLY pointed out that taxes would have to be raised in order to pay for a new high school.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">obvious</i>, probably due to a confusion of COGENT with <i class=“def-ital\">blatant</i>. </p><p>Other forms of the word: COGENCY, n.</p>"
+              "deftext": "<p class=\"definition\">convincing, forceful, compelling </p><p>COGENT comes from a Latin word meaning to <i class=“def-ital\">force together</i>.  COGENT is usually applied to arguments, reasons, or the like, and means <i class=“def-ital\">forceful</i>, <i class=“def-ital\">convincing</i>. </p><p>“Pete advanced several COGENT arguments about why he deserved a raise.” </p><p>“The principal made some COGENT remarks about the need for greater discipline in the school.” </p><p>“The mayor COGENTLY pointed out that taxes would have to be raised in order to pay for a new high school.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">obvious</i>, probably due to a confusion of COGENT with <i class=“def-ital\">blatant</i>. </p><p>Other forms of the word: COGENCY, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">co-</i> under Prefixes."
+              ]
             },
             "FIRMAMENT": {
               "word": "FIRMAMENT",
@@ -2306,7 +2321,10 @@
               "word": "PREPOSSESSING",
               "phonetic": "(prE-pÔøΩzes'-ing)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">attractive, pleasing </p><p>To be PREPOSSESSING is to create a favorable impression. The word often suggests an obvious attractiveness that has an immediate, pleasant effect. See <i class=“def-ital\">pre-</i> under Prefixes. </p><p>“The friendly, PREPOSSESSING young man always did well in job interviews.” </p><p>“Her PREPOSSESSING appearance disposed people to think well of her as soon as they met her.” </p><p>“The album’s PREPOSSESSING cover certainly helped its sales.” </p><p><i class=“def-ital\">Kindly</i> is the most commonly chosen wrong answer. It is probably chosen by people who know that PREPOSSESSING is a positive word, hut don’t have a clear idea of its meaning. </p><p>Other forms of the word: PREPOSSESS, v.</p>"
+              "deftext": "<p class=\"definition\">attractive, pleasing </p><p>To be PREPOSSESSING is to create a favorable impression. The word often suggests an obvious attractiveness that has an immediate, pleasant effect.  </p><p>“The friendly, PREPOSSESSING young man always did well in job interviews.” </p><p>“Her PREPOSSESSING appearance disposed people to think well of her as soon as they met her.” </p><p>“The album’s PREPOSSESSING cover certainly helped its sales.” </p><p><i class=“def-ital\">Kindly</i> is the most commonly chosen wrong answer. It is probably chosen by people who know that PREPOSSESSING is a positive word, hut don’t have a clear idea of its meaning. </p><p>Other forms of the word: PREPOSSESS, v.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">pre-</i> under Prefixes."
+              ]
             },
             "RAPACIOUS": {
               "word": "RAPACIOUS",
@@ -2324,7 +2342,10 @@
               "word": "RISIBLE",
               "phonetic": "(riz'-ÔøΩ-bÔøΩI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">funny, laughable, ludicrous </p><p>RISIBLE comes from the Latin word meaning to <i class=“def-ital\">laugh</i>, also the source of <i class=“def-ital\">derision</i> and <i class=“def-ital\">ridiculous</i>. See <i class=“def-ital\">-able</i> under Suffixes. RISIBLE means “able to excite laughter,” <i class=“def-ital\">laughable</i>. </p><p>“The comedian’s RISIBLE stories kept the audience laughing all night.” </p><p>“The sight of all those clowns trying to fit into the little car was quite RISIBLE.” </p><p>“The boy thought his insults were RISIBLE, hut no one else even smiled at them.” </p><p>Other forms of the word: RISIBILITY, n.</p>"
+              "deftext": "<p class=\"definition\">funny, laughable, ludicrous </p><p>RISIBLE comes from the Latin word meaning to <i class=“def-ital\">laugh</i>, also the source of <i class=“def-ital\">derision</i> and <i class=“def-ital\">ridiculous</i>.  RISIBLE means “able to excite laughter,” <i class=“def-ital\">laughable</i>. </p><p>“The comedian’s RISIBLE stories kept the audience laughing all night.” </p><p>“The sight of all those clowns trying to fit into the little car was quite RISIBLE.” </p><p>“The boy thought his insults were RISIBLE, hut no one else even smiled at them.” </p><p>Other forms of the word: RISIBILITY, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-able</i> under Suffixes."
+              ]
             },
             "SUPERCILIOUS": {
               "word": "SUPERCILIOUS",
@@ -2354,7 +2375,10 @@
               "word": "ABJURE",
               "phonetic": "(ab-jur')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to renounce, recant, forswear, retract </p><p>The <i class=“def-ital\">jure</i> part of ABJURE comes from a Latin word meaning to <i class=“def-ital\">swear</i>. This word is also the source of the word <i class=“def-ital\">jury</i>, which is a group of people sworn to give a verdict in a legal case. See <i class=“def-ital\">ab-</i> under Prefixes. To ABJURE something is to “swear away” from it, to renounce it solemnly or publicly. </p><p>“The knight solemnly ABJURED his oath of allegiance to the former king and swore to follow King Henry instead.” </p><p>“The new members have to ABJURE violence as a means of changing society.” </p><p>“In a public ceremony the convert to the religion ABJURED his former beliefs.”</p>"
+              "deftext": "<p class=\"definition\">to renounce, recant, forswear, retract </p><p>The <i class=“def-ital\">jure</i> part of ABJURE comes from a Latin word meaning to <i class=“def-ital\">swear</i>. This word is also the source of the word <i class=“def-ital\">jury</i>, which is a group of people sworn to give a verdict in a legal case.  To ABJURE something is to “swear away” from it, to renounce it solemnly or publicly. </p><p>“The knight solemnly ABJURED his oath of allegiance to the former king and swore to follow King Henry instead.” </p><p>“The new members have to ABJURE violence as a means of changing society.” </p><p>“In a public ceremony the convert to the religion ABJURED his former beliefs.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">ab-</i> under Prefixes."
+              ]
             },
             "CANARD": {
               "word": "CANARD",
@@ -2890,7 +2914,10 @@
               "word": "PROSAIC",
               "phonetic": "(prO-zA'-ik)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">like prose; commonplace, matter-of-fact, ordinary, dull </p><p><i class=“def-ital\">Prose</i> is ordinary speech or writing, as distinguished from poetry. PROSAIC is the adjective from <i class=“def-ital\">prose</i>. See <i class=“def-ital\">-ic</i> under Suffixes. PROSAIC emphasizes the dull, commonplace character of prose, and can be used about anything that has this quality. </p><p>“The book is a very PROSAIC summary of his life, merely listing names and dates and places without trying to explain the man’s greatness.” </p><p>“Luciano Pavarotti left his PROSAIC job as an insurance salesman to become a famous opera singer.” </p><p>Twice as many people who take the Pretest think PROSAIC means <i class=“def-ital\">poetic</i> as think it means <i class=“def-ital\">commonplace</i>. These people are probably familiar with the phrase “prose and poetry,” but have not learned the distinction between the two.</p>"
+              "deftext": "<p class=\"definition\">like prose; commonplace, matter-of-fact, ordinary, dull </p><p><i class=“def-ital\">Prose</i> is ordinary speech or writing, as distinguished from poetry. PROSAIC is the adjective from <i class=“def-ital\">prose</i>.  PROSAIC emphasizes the dull, commonplace character of prose, and can be used about anything that has this quality. </p><p>“The book is a very PROSAIC summary of his life, merely listing names and dates and places without trying to explain the man’s greatness.” </p><p>“Luciano Pavarotti left his PROSAIC job as an insurance salesman to become a famous opera singer.” </p><p>Twice as many people who take the Pretest think PROSAIC means <i class=“def-ital\">poetic</i> as think it means <i class=“def-ital\">commonplace</i>. These people are probably familiar with the phrase “prose and poetry,” but have not learned the distinction between the two.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ic</i> under Suffixes."
+              ]
             },
             "QUERULOUS": {
               "word": "QUERULOUS",
@@ -2914,7 +2941,10 @@
               "word": "VIRULENT",
               "phonetic": "(vEr'-y;-l;nt",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">poisonous, venomous </p><p>VIRULENT comes from the Latin word <i class=“def-ital\">virus</i>, the source also of the English word <i class=“def-ital\">virus</i>. See <i class=“def-ital\">-ent</i> under Suffixes. In English today VIRULENT refers to the destructive and malignant qualities of a disease or poison. </p><p>“This VIRULENT form of the flu caused thousands of deaths last winter.” </p><p>In its extended use, VIRULENT refers to anything that is particularly bitter, hostile, or hateful. </p><p>“The mudslinging between the opponents became increasingly VIRULENT: terrible things were said on both sides.” </p><p>“Mr. Jones has a VIRULENT hatred of cats; he has been known to poison them.” </p><p><i class=“def-ital\">Persistent</i> is the most commonly chosen wrong answer. It is perhaps chosen by people who know that VIRULENT diseases are serious and long-term. The meaning of VIRULENT, however, is <i class=“def-ital\">poisonous</i>. </p><p>Other forms of the word: VIRULENCE, n.</p>"
+              "deftext": "<p class=\"definition\">poisonous, venomous </p><p>VIRULENT comes from the Latin word <i class=“def-ital\">virus</i>, the source also of the English word <i class=“def-ital\">virus</i>.  In English today VIRULENT refers to the destructive and malignant qualities of a disease or poison. </p><p>“This VIRULENT form of the flu caused thousands of deaths last winter.” </p><p>In its extended use, VIRULENT refers to anything that is particularly bitter, hostile, or hateful. </p><p>“The mudslinging between the opponents became increasingly VIRULENT: terrible things were said on both sides.” </p><p>“Mr. Jones has a VIRULENT hatred of cats; he has been known to poison them.” </p><p><i class=“def-ital\">Persistent</i> is the most commonly chosen wrong answer. It is perhaps chosen by people who know that VIRULENT diseases are serious and long-term. The meaning of VIRULENT, however, is <i class=“def-ital\">poisonous</i>. </p><p>Other forms of the word: VIRULENCE, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ent</i> under Suffixes."
+              ]
             },
             "CONFITURE": {
               "word": "CONFITURE",
@@ -3504,7 +3534,10 @@
               "word": "COLLOQUY",
               "phonetic": "(kol'-ÔøΩ-kwE)",
               "pos": "n.",
-              "deftext": "<p class=\"definition\">a conference, formal conversation </p><p>COLLOQUY comes from a Latin word meaning to <i class=“def-ital\">speak together</i>. See <i class=“def-ital\">col-</i> under Prefixes. The <i class=“def-ital\">loqu</i> root is also found in such words as <i class=“def-ital\">colloquial</i> and <i class=“def-ital\">loquacity</i>. A COLLOQUY is a conversation or a dialogue, especially one that is serious or at a high level. </p><p>“The COLLOQUY between the heads of state went on for several hours.” </p><p>“The labor-management COLLOQUY was amicable, but failed to resolve their differences.” </p><p><i class=“def-ital\">Expression</i> and <i class=“def-ital\">lecture <i class=“def-ital\">are both commonly chosen wrong answers. Both deal with speaking, but neither involve speaking <i class=“def-ital\">together</i>.</p>"
+              "deftext": "<p class=\"definition\">a conference, formal conversation </p><p>COLLOQUY comes from a Latin word meaning to <i class=“def-ital\">speak together</i>.  The <i class=“def-ital\">loqu</i> root is also found in such words as <i class=“def-ital\">colloquial</i> and <i class=“def-ital\">loquacity</i>. A COLLOQUY is a conversation or a dialogue, especially one that is serious or at a high level. </p><p>“The COLLOQUY between the heads of state went on for several hours.” </p><p>“The labor-management COLLOQUY was amicable, but failed to resolve their differences.” </p><p><i class=“def-ital\">Expression</i> and <i class=“def-ital\">lecture <i class=“def-ital\">are both commonly chosen wrong answers. Both deal with speaking, but neither involve speaking <i class=“def-ital\">together</i>.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">col-</i> under Prefixes."
+              ]
             },
             "HEGEMONY": {
               "word": "HEGEMONY",
@@ -4585,7 +4618,10 @@
               "word": "EXTIRPATE",
               "phonetic": "(ek'-stÔøΩr-pAt)",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to annihilate, exterminate, root out </p><p>The <i class=“def-ital\">tirp</i> part of EXTIRPATE comes from a Latin word meaning <i class=“def-ital\">root</i>. The literal meaning of EXTIRPATE is to <i class=“def-ital\">root out</i>. See <i class=“def-ital\">ex-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes. The word usually suggests total destruction. </p><p>“We must not only defeat the enemy, we must EXTIRPATE them.” </p><p>“Sharon was determined to EXTIRPATE the weeds from her garden, once and for all.” </p><p>“The missionaries were not successful in EXTIRPATING the devil worship among the natives.” </p><p>Other forms of the word: EXTIRPATION, n.</p>"
+              "deftext": "<p class=\"definition\">to annihilate, exterminate, root out </p><p>The <i class=“def-ital\">tirp</i> part of EXTIRPATE comes from a Latin word meaning <i class=“def-ital\">root</i>. The literal meaning of EXTIRPATE is to <i class=“def-ital\">root out</i>.  The word usually suggests total destruction. </p><p>“We must not only defeat the enemy, we must EXTIRPATE them.” </p><p>“Sharon was determined to EXTIRPATE the weeds from her garden, once and for all.” </p><p>“The missionaries were not successful in EXTIRPATING the devil worship among the natives.” </p><p>Other forms of the word: EXTIRPATION, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">ex-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+              ]
             },
             "INGENUOUS": {
               "word": "INGENUOUS",
@@ -5169,13 +5205,19 @@
               "word": "CUPIDITY",
               "phonetic": "(kyU-pid'-ÔøΩ-tE)",
               "pos": "n.",
-              "deftext": "<p class=\"definition\">greed, avarice, rapacity </p><p>Cupid was the Roman god of love. Both <i class=“def-ital\">Cupid</i> and CUPIDITY come from a Latin word meaning <i class=“def-ital\">desire</i>. See <i class=“def-ital\">-ity</i> under Suffixes. CUPIDITY, however, is only used about desire for wealth or possessions, <i class=“def-ital\">greed</i>. </p><p>“His CUPIDITY is only exceeded by his stupidity. He is not smart enough to know how to obtain the wealth he longs for.” </p><p>“Her greatest fault is her CUPIDITY; she wants to own everything she sees in the jewelry store.” </p><p>The wrong answer <i class=“def-ital\">love</i> attracts people who are familiar with Cupid, but don’t know the meaning of CUPIDITY.</p>"
+              "deftext": "<p class=\"definition\">greed, avarice, rapacity </p><p>Cupid was the Roman god of love. Both <i class=“def-ital\">Cupid</i> and CUPIDITY come from a Latin word meaning <i class=“def-ital\">desire</i>.  CUPIDITY, however, is only used about desire for wealth or possessions, <i class=“def-ital\">greed</i>. </p><p>“His CUPIDITY is only exceeded by his stupidity. He is not smart enough to know how to obtain the wealth he longs for.” </p><p>“Her greatest fault is her CUPIDITY; she wants to own everything she sees in the jewelry store.” </p><p>The wrong answer <i class=“def-ital\">love</i> attracts people who are familiar with Cupid, but don’t know the meaning of CUPIDITY.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ity</i> under Suffixes."
+              ]
             },
             "OFFICIOUS": {
               "word": "OFFICIOUS",
               "phonetic": "(ÔøΩ-fish'-ÔøΩs)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">meddlesome, impertinent, intrusive </p><p>One of the many meanings of the word OFFICE is “an act performed for another,” a <i class=“def-ital\">service</i> or <i class=“def-ital\">favor</i>. </p><p>“Through the kind OFFICES of a friend she was able to find transportation to the meeting.” </p><p>OFFICIOUS is an adjective from this sense of OFFICE. See <i class=“def-ital\">-ous</i> under Suffixes. OFFICIOUS originally meant simply “eager to offer one’s services.” Now, however, it always contains the sense that this offer is unwanted and intrusive. </p><p>“The president’s OFFICIOUS meddling made a mess out of the company volleyball tournament.” </p><p>“The OFFICIOUS nurse wants to have a hand in every decision made on the ward.” </p><p><i class=“def-ital\">Pompous</i> is a more common answer than the correct synonym, <i class=“def-ital\">meddlesome</i>. An OFFICIOUS person may seem pompous, but pomposity is not involved in the meaning of the word.</p>"
+              "deftext": "<p class=\"definition\">meddlesome, impertinent, intrusive </p><p>One of the many meanings of the word OFFICE is “an act performed for another,” a <i class=“def-ital\">service</i> or <i class=“def-ital\">favor</i>. </p><p>“Through the kind OFFICES of a friend she was able to find transportation to the meeting.” </p><p>OFFICIOUS is an adjective from this sense of OFFICE.  OFFICIOUS originally meant simply “eager to offer one’s services.” Now, however, it always contains the sense that this offer is unwanted and intrusive. </p><p>“The president’s OFFICIOUS meddling made a mess out of the company volleyball tournament.” </p><p>“The OFFICIOUS nurse wants to have a hand in every decision made on the ward.” </p><p><i class=“def-ital\">Pompous</i> is a more common answer than the correct synonym, <i class=“def-ital\">meddlesome</i>. An OFFICIOUS person may seem pompous, but pomposity is not involved in the meaning of the word.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ous</i> under Suffixes."
+              ]
             },
             "PROLIX": {
               "word": "PROLIX",
@@ -6821,13 +6863,19 @@
               "word": "ADDUCE",
               "phonetic": "(g-dUs'",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to cite, bring forward for consideration </p><p>See <i class=“def-ital\">ad-</i> under Prefixes. The <i class=“def-ital\">duc</i> root in ADDUCE comes from a Latin word meaning to <i class=“def-ital\">lead</i>; it is also found in such words as <i class=“def-ital\">induce</i>, <i class=“def-ital\">deduce</i>, and <i class=“def-ital\">reduce</i>. To ADDUCE something is to lead it to someone, to offer it or bring it forward. The word is used about facts, examples, or the like brought forward as evidence in a discussion. </p><p>“The student ADDUCED several reasons in his paper for the decline of the Roman Empire.” </p><p>“She ADDUCED many examples as proof of the doctor’s incompetence.” </p><p>“Since no facts were ADDUCED in support of his argument I must conclude that none exist.” </p><p><i class=“def-ital\">Solve</i> is chosen more frequently than the correct answer, <i class=“def-ital\">cite</i>, on the Pretest, probably due to the similarity of ADDUCE and <i class=“def-ital\">deduce</i>.</p>"
+              "deftext": "<p class=\"definition\">to cite, bring forward for consideration </p><p> The <i class=“def-ital\">duc</i> root in ADDUCE comes from a Latin word meaning to <i class=“def-ital\">lead</i>; it is also found in such words as <i class=“def-ital\">induce</i>, <i class=“def-ital\">deduce</i>, and <i class=“def-ital\">reduce</i>. To ADDUCE something is to lead it to someone, to offer it or bring it forward. The word is used about facts, examples, or the like brought forward as evidence in a discussion. </p><p>“The student ADDUCED several reasons in his paper for the decline of the Roman Empire.” </p><p>“She ADDUCED many examples as proof of the doctor’s incompetence.” </p><p>“Since no facts were ADDUCED in support of his argument I must conclude that none exist.” </p><p><i class=“def-ital\">Solve</i> is chosen more frequently than the correct answer, <i class=“def-ital\">cite</i>, on the Pretest, probably due to the similarity of ADDUCE and <i class=“def-ital\">deduce</i>.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">ad-</i> under Prefixes."
+              ]
             },
             "ADUMBRATE": {
               "word": "ADUMBRATE",
               "phonetic": "(ad'-uhm-brAt",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to foreshadow, suggest, prefigure, outline broadly </p><p>The <i class=“def-ital\">umbra</i> part of ADUMBRATE means <i class=“def-ital\">shadow</i> in Latin; this root is also found in the word <i class=“def-ital\">umbrella</i>. See <i class=“def-ital\">ad-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes. To ADUMBRATE means to <i class=“def-ital\">foreshadow</i>, especially in a vague or sketchy way. </p><p>“These happy times ADUMBRATE the joy we will someday feel when we live here permanently.” </p><p>In an extended sense, ADUMBRATE also means to <i class=“def-ital\">outline broadly</i> or to <i class=“def-ital\">disclose partially</i>. </p><p>“His brief synopsis could only ADUMBRATE the complexities of the novel.” </p><p>“The project was ADUMBRATED at a meeting last week; the complete proposal runs some two hundred pages.” </p><p>Other forms of the word: ADUMBRATION, n.</p>"
+              "deftext": "<p class=\"definition\">to foreshadow, suggest, prefigure, outline broadly </p><p>The <i class=“def-ital\">umbra</i> part of ADUMBRATE means <i class=“def-ital\">shadow</i> in Latin; this root is also found in the word <i class=“def-ital\">umbrella</i>.  To ADUMBRATE means to <i class=“def-ital\">foreshadow</i>, especially in a vague or sketchy way. </p><p>“These happy times ADUMBRATE the joy we will someday feel when we live here permanently.” </p><p>In an extended sense, ADUMBRATE also means to <i class=“def-ital\">outline broadly</i> or to <i class=“def-ital\">disclose partially</i>. </p><p>“His brief synopsis could only ADUMBRATE the complexities of the novel.” </p><p>“The project was ADUMBRATED at a meeting last week; the complete proposal runs some two hundred pages.” </p><p>Other forms of the word: ADUMBRATION, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">ad-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+              ]
             },
             "CONDIGN": {
               "word": "CONDIGN",
@@ -6857,7 +6905,10 @@
               "word": "INELUCTABLE",
               "phonetic": "(in-i-luhk'-tg-bÔøΩI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">inevitable, inescapable </p><p>The <i class=“def-ital\">eluct</i> root in INELUCTABLE comes from a Latin word meaning to <i class=“def-ital\">struggle out</i>. The basic meaning of INELUCTABLE is “not able to be struggled out of.” See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-able</i> under Suffixes. INELUCTABLE is a close synonym of <i class=“def-ital\">inevitable</i>, although it usually also contains the implication that struggling is useless. </p><p>“He felt it was his INELUCTABLE destiny to be a loser.” </p><p>“Down by forty points in the last quarter, the coach watched the INELUCTABLE approach of defeat with quiet dignity.” </p><p>“The conclusion is INELUCTABLE: it was our fault and we will have to pay the damages.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">unreachable</i>, which is virtually an opposite of INELUCTABLE.</p>"
+              "deftext": "<p class=\"definition\">inevitable, inescapable </p><p>The <i class=“def-ital\">eluct</i> root in INELUCTABLE comes from a Latin word meaning to <i class=“def-ital\">struggle out</i>. The basic meaning of INELUCTABLE is “not able to be struggled out of.”  INELUCTABLE is a close synonym of <i class=“def-ital\">inevitable</i>, although it usually also contains the implication that struggling is useless. </p><p>“He felt it was his INELUCTABLE destiny to be a loser.” </p><p>“Down by forty points in the last quarter, the coach watched the INELUCTABLE approach of defeat with quiet dignity.” </p><p>“The conclusion is INELUCTABLE: it was our fault and we will have to pay the damages.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">unreachable</i>, which is virtually an opposite of INELUCTABLE.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-able</i> under Suffixes."
+              ]
             },
             "INTERNECINE": {
               "word": "INTERNECINE",
@@ -6893,7 +6944,10 @@
               "word": "STERTOROUS",
               "phonetic": "(ster'-t;}r-;;ls)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">snoring, characterized by snoring </p><p>STERTOR is a medical term for a heavy snoring sound made while breathing. STERTOROUS is the adjective from STERTOR. See <i class=“def-ital\">-ous</i> under Suffixes. STERTOROUS means “characterized by a loud snoring sound.” It is often used about breathing. </p><p>“No one could sleep listening to the STERTOROUS breathing of the asthmatic man.” </p><p>“Jane finds the STERTOROUS sounds of her sleeping husband oddly reassuring.” </p><p>Other forms of the word: STERTOR, n.</p>"
+              "deftext": "<p class=\"definition\">snoring, characterized by snoring </p><p>STERTOR is a medical term for a heavy snoring sound made while breathing. STERTOROUS is the adjective from STERTOR.  STERTOROUS means “characterized by a loud snoring sound.” It is often used about breathing. </p><p>“No one could sleep listening to the STERTOROUS breathing of the asthmatic man.” </p><p>“Jane finds the STERTOROUS sounds of her sleeping husband oddly reassuring.” </p><p>Other forms of the word: STERTOR, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ous</i> under Suffixes."
+              ]
             }
           },
           "id": "10",
@@ -7483,7 +7537,10 @@
               "word": "TRADUCE",
               "phonetic": "(tr:}-dUs'",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to slander, defame, malign, libel </p><p>The common root <i class=“def-ital\">duce</i>, found in such words as <i class=“def-ital\">reduce</i>, <i class=“def-ital\">produce</i>, and <i class=“def-ital\">induce</i>, means to <i class=“def-ital\">lead</i>. See <i class=“def-ital\">tra-</i> under Prefixes. TRADUCE originally was used as a synonym of transport. It then came to mean “leading across as a spectacle,” and finally reached its current meaning, “to speak evil of,” to <i class=“def-ital\">slander</i>. </p><p>“The book TRADUCES a great man with its unsupported accusations and sly innuendoes.” </p><p>“The politician was not above planting false stories in the newspaper that TRADUCED his rivals.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">deceive</i>, probably because of confusion with <i class=“def-ital\">seduce</i>. To TRADUCE a person is not to deceive him, but to speak evil of him. This might deceive others, but it would not deceive the person being TRADUCED. </p><p>Other forms of the word: TRADUCEMENT, n.</p>"
+              "deftext": "<p class=\"definition\">to slander, defame, malign, libel </p><p>The common root <i class=“def-ital\">duce</i>, found in such words as <i class=“def-ital\">reduce</i>, <i class=“def-ital\">produce</i>, and <i class=“def-ital\">induce</i>, means to <i class=“def-ital\">lead</i>.  TRADUCE originally was used as a synonym of transport. It then came to mean “leading across as a spectacle,” and finally reached its current meaning, “to speak evil of,” to <i class=“def-ital\">slander</i>. </p><p>“The book TRADUCES a great man with its unsupported accusations and sly innuendoes.” </p><p>“The politician was not above planting false stories in the newspaper that TRADUCED his rivals.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">deceive</i>, probably because of confusion with <i class=“def-ital\">seduce</i>. To TRADUCE a person is not to deceive him, but to speak evil of him. This might deceive others, but it would not deceive the person being TRADUCED. </p><p>Other forms of the word: TRADUCEMENT, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">tra-</i> under Prefixes."
+              ]
             },
             "VENIAL": {
               "word": "VENIAL",

@@ -21,7 +21,10 @@
               "word": "EXCURSION",
               "phonetic": "(ek-sker'-zh:;in)",
               "pos": "n.",
-              "deftext": "<p class=\"definition\">a short journey, pleasure trip; a digression </p><p>See <i class=“def-ital\">ex-</i> under Prefixes. An EXCURSION is a short trip, usually made for pleasure as part of a group, with the intention of returning to the starting point. </p><p>“We had a pleasant EXCURSION to the country last weekend.” </p><p>“They made their annual EXCURSION to the seashore.” </p><p>EXCURSION is also occasionally used to mean digression, a brief departure from the main idea or the main goal. </p><p>“We could never follow him when he went off on one of his EXCURSIONS into higher mathematics.”</p>"
+              "deftext": "<p class=\"definition\">a short journey, pleasure trip; a digression </p><p> An EXCURSION is a short trip, usually made for pleasure as part of a group, with the intention of returning to the starting point. </p><p>“We had a pleasant EXCURSION to the country last weekend.” </p><p>“They made their annual EXCURSION to the seashore.” </p><p>EXCURSION is also occasionally used to mean digression, a brief departure from the main idea or the main goal. </p><p>“We could never follow him when he went off on one of his EXCURSIONS into higher mathematics.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">ex-</i> under Prefixes."
+              ]
             },
             "DERANGED": {
               "word": "DERANGED",
@@ -39,7 +42,10 @@
               "word": "LEGIBLE",
               "phonetic": "(lej'-:;i-b:;il)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">readable </p><p>See <i class=“def-ital\">-able</i> under Suffixes. The <i class=“def-ital\">leg</i> part of the word is from a Latin word meaning to <i class=“def-ital\">read</i>. Something which is LEGIBLE is able to be read easily, is clear and plain. </p><p>“Her handwriting was small but LEGIBLE.” </p><p>“The sign was so covered over with dirt that it was barely LEGIBLE.” </p><p>The opposite of LEGIBLE is ILLEGIBLE, <i class=“def-ital\">not readable</i>. </p><p>“He signed his name so quickly that it was completely ILLEGIBLE.” </p><p><i class=“def-ital\">Sensible</i> is often chosen as the meaning of LEGIBLE. Something can be LEGIBLE, however, and not make any sense. </p><p>Other forms of the word: LEGIBILITY, n.</p>"
+              "deftext": "<p class=\"definition\">readable </p><p> The <i class=“def-ital\">leg</i> part of the word is from a Latin word meaning to <i class=“def-ital\">read</i>. Something which is LEGIBLE is able to be read easily, is clear and plain. </p><p>“Her handwriting was small but LEGIBLE.” </p><p>“The sign was so covered over with dirt that it was barely LEGIBLE.” </p><p>The opposite of LEGIBLE is ILLEGIBLE, <i class=“def-ital\">not readable</i>. </p><p>“He signed his name so quickly that it was completely ILLEGIBLE.” </p><p><i class=“def-ital\">Sensible</i> is often chosen as the meaning of LEGIBLE. Something can be LEGIBLE, however, and not make any sense. </p><p>Other forms of the word: LEGIBILITY, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-able</i> under Suffixes."
+              ]
             },
             "GRANDEUR": {
               "word": "GRANDEUR",
@@ -57,13 +63,19 @@
               "word": "DECIPHER",
               "phonetic": "(di-sl'-far)",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to make out the meaning of, decode </p><p>One meaning of the word CIPHER is a <i class=“def-ital\">code</i>. To DECIPHER something is to take it out of its code and make it understandable. See <i class=“def-ital\">de-</i> under Prefixes. </p><p>“The army DECIPHERED the enemy’s top-secret messages.” </p><p>DECIPHER also means “to make out the meaning of” something difficult to understand or read. </p><p>“He managed to DECIPHER the hastily written note.” </p><p>“They DECIPHERED the faint writing on the cave walls.”</p>"
+              "deftext": "<p class=\"definition\">to make out the meaning of, decode </p><p>One meaning of the word CIPHER is a <i class=“def-ital\">code</i>. To DECIPHER something is to take it out of its code and make it understandable.  </p><p>“The army DECIPHERED the enemy’s top-secret messages.” </p><p>DECIPHER also means “to make out the meaning of” something difficult to understand or read. </p><p>“He managed to DECIPHER the hastily written note.” </p><p>“They DECIPHERED the faint writing on the cave walls.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">de-</i> under Prefixes."
+              ]
             },
             "MERCILESS": {
               "word": "MERCILESS",
               "phonetic": "(mer'-S:)-lgs)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">without mercy, showing no pity, cruel </p><p>See <i class=“def-ital\">-less</i> under Suffixes. A MERCILESS person lacks MERCY or pity. </p><p>“The judge was MERCILESS in punishing criminals.” </p><p>“The other boys laughed MERCILESSLY at John’s attempt to sing.” </p><p>“The boxer kept up his MERCILESS attack until his opponent was knocked out.” </p><p>The opposite of MERCILESS is MERCIFUL, <i class=“def-ital\">full of</i> MERCY. </p><p>“The father decided to be MERCIFUL and not punish his son.” </p><p>Other forms of the word: MERCY, n. MERCIFUL, adj.</p>"
+              "deftext": "<p class=\"definition\">without mercy, showing no pity, cruel </p><p> A MERCILESS person lacks MERCY or pity. </p><p>“The judge was MERCILESS in punishing criminals.” </p><p>“The other boys laughed MERCILESSLY at John’s attempt to sing.” </p><p>“The boxer kept up his MERCILESS attack until his opponent was knocked out.” </p><p>The opposite of MERCILESS is MERCIFUL, <i class=“def-ital\">full of</i> MERCY. </p><p>“The father decided to be MERCIFUL and not punish his son.” </p><p>Other forms of the word: MERCY, n. MERCIFUL, adj.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-less</i> under Suffixes."
+              ]
             },
             "GLUTTON": {
               "word": "GLUTTON",
@@ -93,7 +105,10 @@
               "word": "DISPEL",
               "phonetic": "(di-spel'",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to drive away, scatter, clear away </p><p>See <i class=“def-ital\">dis-</i> under Prefixes. The <i class=“def-ital\">pel</i> part of DISPEL means to <i class=“def-ital\">drive</i> or <i class=“def-ital\">push</i>. To <i class=“def-ital\">impel</i> is to drive <i class=“def-ital\">forward</i>; to <i class=“def-ital\">repel</i> is to drive <i class=“def-ital\">back</i>. To DISPEL is to drive <i class=“def-ital\">away</i>. DISPEL is used more about emotions and states of mind than about actual physical objects. </p><p>“His arguments DISPELLED any remaining doubts they had about the plan.” </p><p>“The teacher DISPELLED any illusions he might have had about passing the course.” </p><p>“Bill’s reassurances couldn’t DISPEL her feeling that someone was following them.”</p>"
+              "deftext": "<p class=\"definition\">to drive away, scatter, clear away </p><p> The <i class=“def-ital\">pel</i> part of DISPEL means to <i class=“def-ital\">drive</i> or <i class=“def-ital\">push</i>. To <i class=“def-ital\">impel</i> is to drive <i class=“def-ital\">forward</i>; to <i class=“def-ital\">repel</i> is to drive <i class=“def-ital\">back</i>. To DISPEL is to drive <i class=“def-ital\">away</i>. DISPEL is used more about emotions and states of mind than about actual physical objects. </p><p>“His arguments DISPELLED any remaining doubts they had about the plan.” </p><p>“The teacher DISPELLED any illusions he might have had about passing the course.” </p><p>“Bill’s reassurances couldn’t DISPEL her feeling that someone was following them.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">dis-</i> under Prefixes."
+              ]
             }
           },
           "id": "1",
@@ -617,7 +632,10 @@
               "word": "EXPLICIT",
               "phonetic": "(ik-splis'-it)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">clear, clearly expressed, definite, outspoken </p><p>See <i class=“def-ital\">ex-</i> under Prefixes. The root meaning of EXPLICIT is <i class=“def-ital\">folded out</i>. Something which is EXPLICIT is open to view like a piece of paper all folded out. EXPLICIT instructions are fully given and leave no room for misunderstanding. An EXPLICIT belief is clearly developed and fully understood. A person who is EXPLICIT says exactly what he means. </p><p>“He gave us EXPLICIT orders not to leave the room.” </p><p>“She was EXPLICIT about the need for complete obedience.” </p><p>The opposite of EXPLICIT is <i class=“def-ital\">implicit</i>. Something which is <i class=“def-ital\">implicit</i> is not clearly expressed; it is only hinted at or implied. </p><p>“Although he didn’t actually say so, we thought it was <i class=“def-ital\">implicit</i> that he agreed with us.”</p>"
+              "deftext": "<p class=\"definition\">clear, clearly expressed, definite, outspoken </p><p> The root meaning of EXPLICIT is <i class=“def-ital\">folded out</i>. Something which is EXPLICIT is open to view like a piece of paper all folded out. EXPLICIT instructions are fully given and leave no room for misunderstanding. An EXPLICIT belief is clearly developed and fully understood. A person who is EXPLICIT says exactly what he means. </p><p>“He gave us EXPLICIT orders not to leave the room.” </p><p>“She was EXPLICIT about the need for complete obedience.” </p><p>The opposite of EXPLICIT is <i class=“def-ital\">implicit</i>. Something which is <i class=“def-ital\">implicit</i> is not clearly expressed; it is only hinted at or implied. </p><p>“Although he didn’t actually say so, we thought it was <i class=“def-ital\">implicit</i> that he agreed with us.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">ex-</i> under Prefixes."
+              ]
             },
             "RURAL": {
               "word": "RURAL",
@@ -635,7 +653,10 @@
               "word": "THERMAL",
               "phonetic": "(ther'-mÔøΩI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">of heat, caused by heat </p><p>See <i class=“def-ital\">-al</i> under Suffixes. The <i class=“def-ital\">therm</i> part of THERMAL means <i class=“def-ital\">heat</i>; it is also found in the word <i class=“def-ital\">thermometer</i>, which is an instrument that measures how hot something is. THERMAL means “having to do with heat or temperature.” </p><p>“They used the hot water of the THERMAL springs as a source of THERMAL power.”</p>"
+              "deftext": "<p class=\"definition\">of heat, caused by heat </p><p> The <i class=“def-ital\">therm</i> part of THERMAL means <i class=“def-ital\">heat</i>; it is also found in the word <i class=“def-ital\">thermometer</i>, which is an instrument that measures how hot something is. THERMAL means “having to do with heat or temperature.” </p><p>“They used the hot water of the THERMAL springs as a source of THERMAL power.”</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-al</i> under Suffixes."
+              ]
             },
             "GESTURE": {
               "word": "GESTURE",
@@ -659,13 +680,19 @@
               "word": "UNSAVORY",
               "phonetic": "(uhn-sA'-vÔøΩrE)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">distasteful, nasty, disgusting </p><p>Something which is SAVORY is pleasant tasting or smelling. </p><p>“He could smell the SAVORY odor of the apple pie as it cooked.” </p><p>UNSAVORY means <i class=“def-ital\">not savory</i>, <i class=“def-ital\">distasteful</i>, <i class=“def-ital\">disgusting</i>. See <i class=“def-ital\">un-</i> under Prefixes. </p><p>“She felt sick the first time she had the UNSAVORY task of cleaning an infected wound.” </p><p>The word is usually used about people or things that are morally disgusting. </p><p>“He was led astray by UNSAVORY companions.” </p><p>“There is a great deal of truth in the UNSAVORY stories about him.”</p>"
+              "deftext": "<p class=\"definition\">distasteful, nasty, disgusting </p><p>Something which is SAVORY is pleasant tasting or smelling. </p><p>“He could smell the SAVORY odor of the apple pie as it cooked.” </p><p>UNSAVORY means <i class=“def-ital\">not savory</i>, <i class=“def-ital\">distasteful</i>, <i class=“def-ital\">disgusting</i>.  </p><p>“She felt sick the first time she had the UNSAVORY task of cleaning an infected wound.” </p><p>The word is usually used about people or things that are morally disgusting. </p><p>“He was led astray by UNSAVORY companions.” </p><p>“There is a great deal of truth in the UNSAVORY stories about him.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">un-</i> under Prefixes."
+              ]
             },
             "EMERGE": {
               "word": "EMERGE",
               "phonetic": "(i-merj')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to come out, come into view; to become known </p><p>In its original meaning, EMERGE was an exact opposite of <i class=“def-ital\">submerge</i>. When you EMERGE you rise up out of the water; when you <i class=“def-ital\">submerge</i> you sink or plunge beneath the surface of the water. The word now means to <i class=“def-ital\">come out</i> or <i class=“def-ital\">come into view</i> the way something does when it rises from water. See <i class=“def-ital\">ex-</i> under Prefixes. </p><p>“The men EMERGED from the cave.” </p><p>“The sun EMERGED from behind a cloud.” </p><p>EMERGE can also be used with ideas or facts or problems, in the sense of to <i class=“def-ital\">appear</i>, to <i class=“def-ital\">become known</i>. </p><p>“No new solutions EMERGED during the discussion.” </p><p>The most commonly chosen incorrect answer for EMERGED on the Pretest is <i class=“def-ital\">went in</i>, which is an exact opposite.</p>"
+              "deftext": "<p class=\"definition\">to come out, come into view; to become known </p><p>In its original meaning, EMERGE was an exact opposite of <i class=“def-ital\">submerge</i>. When you EMERGE you rise up out of the water; when you <i class=“def-ital\">submerge</i> you sink or plunge beneath the surface of the water. The word now means to <i class=“def-ital\">come out</i> or <i class=“def-ital\">come into view</i> the way something does when it rises from water.  </p><p>“The men EMERGED from the cave.” </p><p>“The sun EMERGED from behind a cloud.” </p><p>EMERGE can also be used with ideas or facts or problems, in the sense of to <i class=“def-ital\">appear</i>, to <i class=“def-ital\">become known</i>. </p><p>“No new solutions EMERGED during the discussion.” </p><p>The most commonly chosen incorrect answer for EMERGED on the Pretest is <i class=“def-ital\">went in</i>, which is an exact opposite.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">ex-</i> under Prefixes."
+              ]
             },
             "ADJACENT": {
               "word": "ADJACENT",
@@ -677,7 +704,10 @@
               "word": "REPEL",
               "phonetic": "(ri-pel')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to drive back, drive away; to cause distaste </p><p>See <i class=“def-ital\">re-</i> under Prefixes. To REPEL someone is to drive him back or away. The word is used about a person or group fighting off an attack. </p><p>“We REPELLED the robbers by throwing rocks at them.” </p><p>“The mayor REPELLED their attempt to force him out of office.” </p><p>REPEL also means “to cause distaste\"-that is, to force someone away by being offensive. </p><p>“His dirty appearance REPELS many people.” </p><p>“I am REPELLED by the idea of telling a lie.” </p><p>The adjective from REPEL is REPELLENT, which means “tending to REPEL or drive away,” <i class=“def-ital\">disgusting</i>. </p><p>“Many people find this movie REPELLENT.” </p><p><i class=“def-ital\">Fight</i> is the most common mistake made on the Pretest. <i class=“def-ital\">Fight</i> would often be used in the same situation as REPEL, but you could <i class=“def-ital\">fight</i> someone without managing to REPEL him. </p><p>Other forms of the word: REPELLENT, adj., n.</p>"
+              "deftext": "<p class=\"definition\">to drive back, drive away; to cause distaste </p><p> To REPEL someone is to drive him back or away. The word is used about a person or group fighting off an attack. </p><p>“We REPELLED the robbers by throwing rocks at them.” </p><p>“The mayor REPELLED their attempt to force him out of office.” </p><p>REPEL also means “to cause distaste\"-that is, to force someone away by being offensive. </p><p>“His dirty appearance REPELS many people.” </p><p>“I am REPELLED by the idea of telling a lie.” </p><p>The adjective from REPEL is REPELLENT, which means “tending to REPEL or drive away,” <i class=“def-ital\">disgusting</i>. </p><p>“Many people find this movie REPELLENT.” </p><p><i class=“def-ital\">Fight</i> is the most common mistake made on the Pretest. <i class=“def-ital\">Fight</i> would often be used in the same situation as REPEL, but you could <i class=“def-ital\">fight</i> someone without managing to REPEL him. </p><p>Other forms of the word: REPELLENT, adj., n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">re-</i> under Prefixes."
+              ]
             },
             "SURMOUNT": {
               "word": "SURMOUNT",
@@ -1225,13 +1255,19 @@
               "word": "REPRESS",
               "phonetic": "(ri-pres')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to hold back, keep down, control, subdue </p><p>See <i class=“def-ital\">re-</i> under Prefixes. To REPRESS something is to hold it back, to keep it under control. The word is used especially about feelings or actions that are controlled by an effort of the will. </p><p>“She REPRESSED a desire to speak up.” </p><p>“He REPRESSED a smile as he listened to the boy recite the poem.” </p><p>In a stronger sense, REPRESS can mean “to put down by force,” to <i class=“def-ital\">subdue</i>. </p><p>“The army was sent to REPRESS all rioting in the area.” </p><p>Usually, however, this sense is better expressed by the word <i class=“def-ital\">suppress</i>. </p><p>Other forms of the word: REPRESSION, n. REPRESSIVE, adj.</p>"
+              "deftext": "<p class=\"definition\">to hold back, keep down, control, subdue </p><p> To REPRESS something is to hold it back, to keep it under control. The word is used especially about feelings or actions that are controlled by an effort of the will. </p><p>“She REPRESSED a desire to speak up.” </p><p>“He REPRESSED a smile as he listened to the boy recite the poem.” </p><p>In a stronger sense, REPRESS can mean “to put down by force,” to <i class=“def-ital\">subdue</i>. </p><p>“The army was sent to REPRESS all rioting in the area.” </p><p>Usually, however, this sense is better expressed by the word <i class=“def-ital\">suppress</i>. </p><p>Other forms of the word: REPRESSION, n. REPRESSIVE, adj.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">re-</i> under Prefixes."
+              ]
             },
             "ILLUMINATE": {
               "word": "ILLUMINATE",
               "phonetic": "(i-lU'-mÔøΩnAt)",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to brighten, light up; to make clear </p><p>See <i class=“def-ital\">in-<i class=“def-ital\">1 under Prefixes and <i class=“def-ital\">-ate<i class=“def-ital\">1 under Suffixes. The root <i class=“def-ital\">lumin</i> in the word ILLUMINATE means <i class=“def-ital\">light</i>; it is also found in the word <i class=“def-ital\">luminous</i>. To ILLUMINATE means to <i class=“def-ital\">put light on</i> or <i class=“def-ital\">in</i> an object or space. </p><p>“The ballroom was ILLUMINATED by hundreds of glowing candles.” </p><p>“She decided to ILLUMINATE her paintings with spotlights that were hung from the ceiling.” </p><p>ILLUMINATE can also mean to <i class=“def-ital\">make clear</i> or <i class=“def-ital\">help explain<i class=“def-ital\">-that is, to <i class=“def-ital\">shed light upon</i> an idea or subject. </p><p>“The English professor had a remarkable way of ILLUMINATING difficult passages in the book so that we could easily understand what we had read.” </p><p>“The meaning of a word can be ILLUMINATED by using the word in several different sentences.” </p><p>Other forms of the word: ILLUMINATION, n.</p>"
+              "deftext": "<p class=\"definition\">to brighten, light up; to make clear </p><p> The root <i class=“def-ital\">lumin</i> in the word ILLUMINATE means <i class=“def-ital\">light</i>; it is also found in the word <i class=“def-ital\">luminous</i>. To ILLUMINATE means to <i class=“def-ital\">put light on</i> or <i class=“def-ital\">in</i> an object or space. </p><p>“The ballroom was ILLUMINATED by hundreds of glowing candles.” </p><p>“She decided to ILLUMINATE her paintings with spotlights that were hung from the ceiling.” </p><p>ILLUMINATE can also mean to <i class=“def-ital\">make clear</i> or <i class=“def-ital\">help explain<i class=“def-ital\">-that is, to <i class=“def-ital\">shed light upon</i> an idea or subject. </p><p>“The English professor had a remarkable way of ILLUMINATING difficult passages in the book so that we could easily understand what we had read.” </p><p>“The meaning of a word can be ILLUMINATED by using the word in several different sentences.” </p><p>Other forms of the word: ILLUMINATION, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">in-<i class=“def-ital\">1 under Prefixes and <i class=“def-ital\">-ate<i class=“def-ital\">1 under Suffixes."
+              ]
             },
             "PUNCTUAL": {
               "word": "PUNCTUAL",
@@ -1249,7 +1285,10 @@
               "word": "FABRICATE",
               "phonetic": "(fab'-rÔøΩkAt)",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to make up, invent, create </p><p>The basic meaning of FABRIC is “something that is put together,” a product of building or construction. To FABRICATE something is to make or produce it. See <i class=“def-ital\">-ate<i class=“def-ital\">1 under Suffixes. </p><p>“They FABRICATED the bridge using whatever material was on hand.” </p><p>When used about what people say, the word means to <i class=“def-ital\">make up</i> something false, in order to deceive. </p><p>“He FABRICATED the account of his travels in Europe.” </p><p>“The teacher thought his excuse was completely FABRICATED and she didn’t believe a word of it.” </p><p>In this sense, the word FABRICATION means “made up,” a <i class=“def-ital\">lie</i>. </p><p>“His story about winning the lottery was a FABRICATION.” </p><p>Other forms of the word: FABRIC, n. FABRICATION, n.</p>"
+              "deftext": "<p class=\"definition\">to make up, invent, create </p><p>The basic meaning of FABRIC is “something that is put together,” a product of building or construction. To FABRICATE something is to make or produce it.  </p><p>“They FABRICATED the bridge using whatever material was on hand.” </p><p>When used about what people say, the word means to <i class=“def-ital\">make up</i> something false, in order to deceive. </p><p>“He FABRICATED the account of his travels in Europe.” </p><p>“The teacher thought his excuse was completely FABRICATED and she didn’t believe a word of it.” </p><p>In this sense, the word FABRICATION means “made up,” a <i class=“def-ital\">lie</i>. </p><p>“His story about winning the lottery was a FABRICATION.” </p><p>Other forms of the word: FABRIC, n. FABRICATION, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ate<i class=“def-ital\">1 under Suffixes."
+              ]
             },
             "FELON": {
               "word": "FELON",
@@ -1285,7 +1324,10 @@
               "word": "REFRAIN",
               "phonetic": "(ri-frAn')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to hold back, abstain </p><p>TO REFRAIN from something is to keep from doing it, to <i class=“def-ital\">hold back</i>. See <i class=“def-ital\">re-</i> under Prefixes. </p><p>“Try to REFRAIN from interrupting me while I’m speaking.” </p><p>“The neighbors asked him to REFRAIN from playing the drums after midnight.” </p><p>“Sue REFRAINED from shouting out the window at him despite the noise he was making.” </p><p>Usage: REFRAIN is usually followed by <i class=“def-ital\">from</i>.</p>"
+              "deftext": "<p class=\"definition\">to hold back, abstain </p><p>TO REFRAIN from something is to keep from doing it, to <i class=“def-ital\">hold back</i>.  </p><p>“Try to REFRAIN from interrupting me while I’m speaking.” </p><p>“The neighbors asked him to REFRAIN from playing the drums after midnight.” </p><p>“Sue REFRAINED from shouting out the window at him despite the noise he was making.” </p><p>Usage: REFRAIN is usually followed by <i class=“def-ital\">from</i>.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">re-</i> under Prefixes."
+              ]
             },
             "DEVASTATE": {
               "word": "DEVASTATE",
@@ -1297,7 +1339,10 @@
               "word": "RECEDE",
               "phonetic": "(ri-sEd')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to go back, become more distant; decline </p><p>See <i class=“def-ital\">re-</i> under Prefixes. To RECEDE is to <i class=“def-ital\">go back</i> or <i class=“def-ital\">move away</i>. Usually this “going back” is slow or gradual. </p><p>“The land slowly RECEDED from sight as we set out to sea.” </p><p>“The flood waters began to RECEDE when the rain stopped.” </p><p>Sometimes RECEDE has the meaning “to fall to a lower level,” to <i class=“def-ital\">decline</i>. </p><p>“Public support of the president RECEDED as he continued to support a tax increase.” </p><p>“His financial worries began to RECEDE as his salary increased.” </p><p>Other forms of the word: RECESSION, n.</p>"
+              "deftext": "<p class=\"definition\">to go back, become more distant; decline </p><p> To RECEDE is to <i class=“def-ital\">go back</i> or <i class=“def-ital\">move away</i>. Usually this “going back” is slow or gradual. </p><p>“The land slowly RECEDED from sight as we set out to sea.” </p><p>“The flood waters began to RECEDE when the rain stopped.” </p><p>Sometimes RECEDE has the meaning “to fall to a lower level,” to <i class=“def-ital\">decline</i>. </p><p>“Public support of the president RECEDED as he continued to support a tax increase.” </p><p>“His financial worries began to RECEDE as his salary increased.” </p><p>Other forms of the word: RECESSION, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">re-</i> under Prefixes."
+              ]
             }
           },
           "id": "3",
@@ -2276,7 +2321,10 @@
               "word": "PERILOUS",
               "phonetic": "(per'-ÔøΩlÔøΩs)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">dangerous, hazardous </p><p>PERIL is <i class=“def-ital\">hazard</i> or <i class=“def-ital\">danger</i>.n“They faced many PERILS climbing the mountain.” </p><p>Something that is PERILOUS is full of PERIL. See <i class=“def-ital\">-ous</i> under Suffixes. </p><p>“The journey across the ocean was a PERILOUS one in the days of sailing ships.” </p><p>“Crossing a minefield is PERILOUS.” </p><p>“On the top floor of the burning building, they felt their situation was PERILOUS but not hopeless.” </p><p>Other forms of the word: PERIL, n.</p>"
+              "deftext": "<p class=\"definition\">dangerous, hazardous </p><p>PERIL is <i class=“def-ital\">hazard</i> or <i class=“def-ital\">danger</i>.n“They faced many PERILS climbing the mountain.” </p><p>Something that is PERILOUS is full of PERIL.  </p><p>“The journey across the ocean was a PERILOUS one in the days of sailing ships.” </p><p>“Crossing a minefield is PERILOUS.” </p><p>“On the top floor of the burning building, they felt their situation was PERILOUS but not hopeless.” </p><p>Other forms of the word: PERIL, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ous</i> under Suffixes."
+              ]
             },
             "SUBDUE": {
               "word": "SUBDUE",
@@ -2294,7 +2342,10 @@
               "word": "PRELIMINARY",
               "phonetic": "(prÔøΩlim'-ÔøΩner-E)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">introductory, preparatory </p><p>Something that is PRELIMINARY comes before something else, and usually leads up to or prepares for it. See <i class=“def-ital\">pre-</i> under Prefixes. </p><p>“These are just PRELIMINARY findings. The final report will be published later.” </p><p>“There were three PRELIMINARY fights before the main event.” </p><p>PRELIMINARY is also a noun. </p><p>“This test is just a PRELIMINARY. If you pass it, you have to take a much harder one.” </p><p>The most commonly marked incorrect answer on the Pretest is <i class=“def-ital\">final</i>, which is almost an opposite of PRELIMINARY.</p>"
+              "deftext": "<p class=\"definition\">introductory, preparatory </p><p>Something that is PRELIMINARY comes before something else, and usually leads up to or prepares for it.  </p><p>“These are just PRELIMINARY findings. The final report will be published later.” </p><p>“There were three PRELIMINARY fights before the main event.” </p><p>PRELIMINARY is also a noun. </p><p>“This test is just a PRELIMINARY. If you pass it, you have to take a much harder one.” </p><p>The most commonly marked incorrect answer on the Pretest is <i class=“def-ital\">final</i>, which is almost an opposite of PRELIMINARY.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">pre-</i> under Prefixes."
+              ]
             },
             "BRISK": {
               "word": "BRISK",
@@ -2306,7 +2357,10 @@
               "word": "NONCHALANT",
               "phonetic": "(non-shÔøΩlont')",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">casual, cool, unconcerned </p><p>See <i class=“def-ital\">non-</i> under Prefixes. The root meaning of NONCHALANT is <i class=“def-ital\">not warm</i>. The word is applied to people who have a cool and calm manner, who do not get excited or upset easily. </p><p>“He seems very NONCHALANT about winning the prize, but he’s really quite pleased.” </p><p>“When she was accused of lying, she acted very NONCHALANT, as if it didn’t bother her a bit.” </p><p>Other forms of the word: NONCHALANCE, n.</p>"
+              "deftext": "<p class=\"definition\">casual, cool, unconcerned </p><p> The root meaning of NONCHALANT is <i class=“def-ital\">not warm</i>. The word is applied to people who have a cool and calm manner, who do not get excited or upset easily. </p><p>“He seems very NONCHALANT about winning the prize, but he’s really quite pleased.” </p><p>“When she was accused of lying, she acted very NONCHALANT, as if it didn’t bother her a bit.” </p><p>Other forms of the word: NONCHALANCE, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">non-</i> under Prefixes."
+              ]
             },
             "DENOUNCE": {
               "word": "DENOUNCE",
@@ -2324,7 +2378,10 @@
               "word": "OPTIMISTIC",
               "phonetic": "(op-tÔøΩmis'-tik)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">hopeful, cheerful, confident </p><p>The word OPTIMIST comes from a Latin word meaning <i class=“def-ital\">best</i>. An OPTIMIST believes everything will turn out for the best. </p><p>“He’s such an OPTIMIST-he believes that he will soon be rich and famous.” </p><p>OPTIMISTIC is the adjective from OPTIMIST. See <i class=“def-ital\">-ic</i> under Suffixes. Someone who is OPTIMISTIC is hopeful and cheerful in his outlook. OPTIMISTIC people are confident that everything will turn out well, even though they may have no good reason to believe this. </p><p>“Although he knew he had only one year to live, he was OPTIMISTIC that a cure would be found in time to save him.” </p><p>“She was OPTIMISTIC about getting the job on the newspaper because the editor had seemed to like her during the interview.” </p><p>Other forms of the word: OPTIMISM, n. OPTIMIST, n.</p>"
+              "deftext": "<p class=\"definition\">hopeful, cheerful, confident </p><p>The word OPTIMIST comes from a Latin word meaning <i class=“def-ital\">best</i>. An OPTIMIST believes everything will turn out for the best. </p><p>“He’s such an OPTIMIST-he believes that he will soon be rich and famous.” </p><p>OPTIMISTIC is the adjective from OPTIMIST.  Someone who is OPTIMISTIC is hopeful and cheerful in his outlook. OPTIMISTIC people are confident that everything will turn out well, even though they may have no good reason to believe this. </p><p>“Although he knew he had only one year to live, he was OPTIMISTIC that a cure would be found in time to save him.” </p><p>“She was OPTIMISTIC about getting the job on the newspaper because the editor had seemed to like her during the interview.” </p><p>Other forms of the word: OPTIMISM, n. OPTIMIST, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ic</i> under Suffixes."
+              ]
             },
             "CONQUEST": {
               "word": "CONQUEST",
@@ -2348,7 +2405,10 @@
               "word": "DISCLOSE",
               "phonetic": "(dis-klOz')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to reveal, uncover, expose, divulge, make known </p><p>See <i class=“def-ital\">dis-</i> under Prefixes. To DISCLOSE something is to make it “not closed,” to open it up to view or to public knowledge. </p><p>“Examination of their records DISCLOSED several illegal business deals.” </p><p>The word is usually used about people saying something which was previously secret. </p><p>“Jim DISCLOSED that he had once been in jail.” </p><p>The noun from DISCLOSE is DISCLOSURE. </p><p>“Everyone was shocked by his DISCLOSURE that he was an alcoholic.” </p><p>Other forms of the word: DISCLOSURE, n.</p>"
+              "deftext": "<p class=\"definition\">to reveal, uncover, expose, divulge, make known </p><p> To DISCLOSE something is to make it “not closed,” to open it up to view or to public knowledge. </p><p>“Examination of their records DISCLOSED several illegal business deals.” </p><p>The word is usually used about people saying something which was previously secret. </p><p>“Jim DISCLOSED that he had once been in jail.” </p><p>The noun from DISCLOSE is DISCLOSURE. </p><p>“Everyone was shocked by his DISCLOSURE that he was an alcoholic.” </p><p>Other forms of the word: DISCLOSURE, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">dis-</i> under Prefixes."
+              ]
             },
             "ETIQUETTE": {
               "word": "ETIQUETTE",
@@ -2902,7 +2962,13 @@
               "word": "VULNERABLE",
               "phonetic": "(vul'-nÔøΩr-ÔøΩbÔøΩI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">unprotected, exposed, open to attack </p><p>VULNERABLE comes from the Latin word for <i class=“def-ital\">wound</i>. Something that is VULNERABLE is able to be wounded; it is unprotected against damage or attack. See <i class=“def-ital\">-able</i> under Suffixes. </p><p>“Our army is VULNERABLE to an attack from the rear.” </p><p>“In this new armor only his eyes and hands are VULNERABLE.” </p><p>VULNERABLE can be used about more than just physical attack. </p><p>“Several people ran against our governor this year because they thought he was VULNERABLE and could be defeated.” </p><p>The most common mistake is to choose <i class=“def-ital\">unbeatable</i> as the meaning of VULNERABLE. This is confusing a word with its opposite. INVULNERABLE means “not able to be wounded.” See <i class=“def-ital\">in-2</i> under Prefixes. <i class=“def-ital\">Unbeatable</i> would be synonymous with INVULNERABLE, but it is the opposite of VULNERABLE. </p><p>Other forms of the word: VULNERABILITY, n.</p>"
+              "deftext": "<p class=\"definition\">unprotected, exposed, open to attack </p><p>VULNERABLE comes from the Latin word for <i class=“def-ital\">wound</i>. Something that is VULNERABLE is able to be wounded; it is unprotected against damage or attack.  </p><p>“Our army is VULNERABLE to an attack from the rear.” </p><p>“In this new armor only his eyes and hands are VULNERABLE.” </p><p>VULNERABLE can be used about more than just physical attack. </p><p>“Several people ran against our governor this year because they thought he was VULNERABLE and could be defeated.” </p><p>The most common mistake is to choose <i class=“def-ital\">unbeatable</i> as the meaning of VULNERABLE. This is confusing a word with its opposite. INVULNERABLE means “not able to be wounded.”  <i class=“def-ital\">Unbeatable</i> would be synonymous with INVULNERABLE, but it is the opposite of VULNERABLE. </p><p>Other forms of the word: VULNERABILITY, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-able</i> under Suffixes."
+              ],
+              "prefix": [
+                "See <i class=“def-ital\">in-2</i> under Prefixes."
+              ]
             },
             "STRENUOUS": {
               "word": "STRENUOUS",
@@ -2926,7 +2992,10 @@
               "word": "INTERVENE",
               "phonetic": "(in-tÔøΩr-vEn')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to come between, be between </p><p>See <i class=“def-ital\">inter-</i> under Prefixes. INTERVENE is used in several different senses, each of which basically means to <i class=“def-ital\">come between</i>. The word is used about events or actions which might occur in the course of something. </p><p>“We will go on as usual unless some problem INTERVENES.” </p><p>A person INTERVENES when he comes between other people in a quarrel or fight. </p><p>“It looked like the two of them were going to fight until the teacher INTERVENED.” </p><p>The word is used about time that passes between two events. </p><p>“Nothing much happened during the years that INTERVENED between his graduation and his marriage.” </p><p>Other forms of the word: INTERVENTION,n.</p>"
+              "deftext": "<p class=\"definition\">to come between, be between </p><p> INTERVENE is used in several different senses, each of which basically means to <i class=“def-ital\">come between</i>. The word is used about events or actions which might occur in the course of something. </p><p>“We will go on as usual unless some problem INTERVENES.” </p><p>A person INTERVENES when he comes between other people in a quarrel or fight. </p><p>“It looked like the two of them were going to fight until the teacher INTERVENED.” </p><p>The word is used about time that passes between two events. </p><p>“Nothing much happened during the years that INTERVENED between his graduation and his marriage.” </p><p>Other forms of the word: INTERVENTION,n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">inter-</i> under Prefixes."
+              ]
             },
             "ELABORATE": {
               "word": "ELABORATE",
@@ -3533,13 +3602,19 @@
               "word": "SATANIC",
               "phonetic": "(s:;,-tan'-ik",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">devilish, wicked, evil </p><p>SATANIC is the adjective formed from SATAN, one of several names for the devil. See <i class=“def-ital\">-ic</i> under Suffixes. SATANIC means <i class=“def-ital\">wicked</i> or <i class=“def-ital\">evil</i>, like the devil. </p><p>“His SATANIC smile frightened everyone there.” </p><p>“Sometimes a truly SATANIC nature is hidden behind a mask of good manners.” </p><p><i class=“def-ital\">Crazy</i> is the most commonly chosen wrong answer on the Pretest, perhaps because SATANIC sounds a little like <i class=“def-ital\">moronic</i>.</p>"
+              "deftext": "<p class=\"definition\">devilish, wicked, evil </p><p>SATANIC is the adjective formed from SATAN, one of several names for the devil.  SATANIC means <i class=“def-ital\">wicked</i> or <i class=“def-ital\">evil</i>, like the devil. </p><p>“His SATANIC smile frightened everyone there.” </p><p>“Sometimes a truly SATANIC nature is hidden behind a mask of good manners.” </p><p><i class=“def-ital\">Crazy</i> is the most commonly chosen wrong answer on the Pretest, perhaps because SATANIC sounds a little like <i class=“def-ital\">moronic</i>.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ic</i> under Suffixes."
+              ]
             },
             "MULTITUDE": {
               "word": "MULTITUDE",
               "phonetic": "(muhl'-tg-tUd",
               "pos": "n.",
-              "deftext": "<p class=\"definition\">a crowd, a great number </p><p>See <i class=“def-ital\">-tude</i> under Suffixes. MULTITUDE comes from a Latin word meaning <i class=“def-ital\">many</i>, also the source of the word <i class=“def-ital\">multiply</i>. A MULTITUDE is a great number of something. </p><p>“This wonderful machine can do a MULTITUDE of jobs all at once.” </p><p>“There was a MULTITUDE of complaints about the new system of report cards.” </p><p>When used by itself, the word usually means “a great crowd of people.” </p><p>“A MULTITUDE had gathered to hear the president’s speech.”</p>"
+              "deftext": "<p class=\"definition\">a crowd, a great number </p><p> MULTITUDE comes from a Latin word meaning <i class=“def-ital\">many</i>, also the source of the word <i class=“def-ital\">multiply</i>. A MULTITUDE is a great number of something. </p><p>“This wonderful machine can do a MULTITUDE of jobs all at once.” </p><p>“There was a MULTITUDE of complaints about the new system of report cards.” </p><p>When used by itself, the word usually means “a great crowd of people.” </p><p>“A MULTITUDE had gathered to hear the president’s speech.”</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-tude</i> under Suffixes."
+              ]
             },
             "SHUN": {
               "word": "SHUN",
@@ -3557,7 +3632,10 @@
               "word": "MATERNAL",
               "phonetic": "(m:rter'-ngl)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">motherly </p><p><i class=“def-ital\">Mater</i> means <i class=“def-ital\">mother</i> in Latin. MATERNAL means “of or like a mother.” See <i class=“def-ital\">-al</i> under Suffixes. </p><p>“She has MATERNAL feelings for her students. She treats them all like her children.” </p><p>“Her MATERNAL instincts told her that her children were in trouble.” </p><p>MATERNAL also means “on your mother’s side of the family.” Your MATERNAL grandfather is your mother’s father.</p>"
+              "deftext": "<p class=\"definition\">motherly </p><p><i class=“def-ital\">Mater</i> means <i class=“def-ital\">mother</i> in Latin. MATERNAL means “of or like a mother.”  </p><p>“She has MATERNAL feelings for her students. She treats them all like her children.” </p><p>“Her MATERNAL instincts told her that her children were in trouble.” </p><p>MATERNAL also means “on your mother’s side of the family.” Your MATERNAL grandfather is your mother’s father.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-al</i> under Suffixes."
+              ]
             },
             "STREW": {
               "word": "STREW",
@@ -4542,7 +4620,10 @@
               "word": "COMPOUND",
               "phonetic": "(kom'-pownd)",
               "pos": "n.",
-              "deftext": "<p class=\"definition\">a combination, mixture </p><p>A COMPOUND is something formed by combining different parts or ingredients. See <i class=“def-ital\">con-</i> under Prefixes. </p><p>“Water is a COMPOUND of oxygen and hydrogen.” </p><p>“His book is a COMPOUND of interesting facts and silly theories.” </p><p>COMPOUND <i class=“def-ital\">words</i>, such as storeroom and outside, are words that are made up of other words. </p><p>COMPOUND is also a verb, meaning “to make a mixture.” The verb form of the word is pronounced (kÔøΩm- pownd)’. </p><p>“The druggist COMPOUNDED the medicine out of several others.” </p><p>The verb also means simply to <i class=“def-ital\">add to</i>, <i class=“def-ital\">increase</i>. </p><p>“Our latest attempt at a solution simply COMPOUNDED our problems.”</p>"
+              "deftext": "<p class=\"definition\">a combination, mixture </p><p>A COMPOUND is something formed by combining different parts or ingredients.  </p><p>“Water is a COMPOUND of oxygen and hydrogen.” </p><p>“His book is a COMPOUND of interesting facts and silly theories.” </p><p>COMPOUND <i class=“def-ital\">words</i>, such as storeroom and outside, are words that are made up of other words. </p><p>COMPOUND is also a verb, meaning “to make a mixture.” The verb form of the word is pronounced (kÔøΩm- pownd)’. </p><p>“The druggist COMPOUNDED the medicine out of several others.” </p><p>The verb also means simply to <i class=“def-ital\">add to</i>, <i class=“def-ital\">increase</i>. </p><p>“Our latest attempt at a solution simply COMPOUNDED our problems.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">con-</i> under Prefixes."
+              ]
             },
             "APPOINT": {
               "word": "APPOINT",
@@ -4590,7 +4671,10 @@
               "word": "IMPARTIAL",
               "phonetic": "(im-pahr'-shÔøΩI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">fair, unbiased, just </p><p>See <i class=“def-ital\">in-2</i> under Prefixes. One meaning of <i class=“def-ital\">partial</i> is “favoring one person or side more than the other.” </p><p>“He admitted that he was partial to people with a sense of humor.” </p><p>Someone who is IMPARTIAL shows no favoritism, is strictly fair and unprejudiced. </p><p>“We want an IMPARTIAL jury. We don’t want people who have made up their minds ahead of time.” </p><p>“They couldn’t agree among themselves, so they brought the problem to an IMPARTIAL outsider and let him decide.” </p><p>“It’s hard to be IMPARTIAL when you know someone who’s involved in the case.” </p><p>Other forms of the word: IMPARTIALITY,n.</p>"
+              "deftext": "<p class=\"definition\">fair, unbiased, just </p><p> One meaning of <i class=“def-ital\">partial</i> is “favoring one person or side more than the other.” </p><p>“He admitted that he was partial to people with a sense of humor.” </p><p>Someone who is IMPARTIAL shows no favoritism, is strictly fair and unprejudiced. </p><p>“We want an IMPARTIAL jury. We don’t want people who have made up their minds ahead of time.” </p><p>“They couldn’t agree among themselves, so they brought the problem to an IMPARTIAL outsider and let him decide.” </p><p>“It’s hard to be IMPARTIAL when you know someone who’s involved in the case.” </p><p>Other forms of the word: IMPARTIALITY,n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">in-2</i> under Prefixes."
+              ]
             },
             "CONTRARY": {
               "word": "CONTRARY",
@@ -5162,13 +5246,19 @@
               "word": "REVISE",
               "phonetic": "(ri-vlz')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to change, correct </p><p>REVISE basically means “to look back at.” See <i class=“def-ital\">re-</i> under Prefixes. The <i class=“def-ital\">vise</i> part of the word is related to words like <i class=“def-ital\">vision</i>. To REVISE something is to look it over or reexamine it and make changes and corrections. </p><p>“He REVISED his composition so that it made better sense.” </p><p>“The new figures caused them to REVISE their estimate of how much the job would cost.” </p><p>“When he started being nice to everyone we had to REVISE our bad opinion of him.” </p><p>Other forms of the word: REVISION, n.</p>"
+              "deftext": "<p class=\"definition\">to change, correct </p><p>REVISE basically means “to look back at.”  The <i class=“def-ital\">vise</i> part of the word is related to words like <i class=“def-ital\">vision</i>. To REVISE something is to look it over or reexamine it and make changes and corrections. </p><p>“He REVISED his composition so that it made better sense.” </p><p>“The new figures caused them to REVISE their estimate of how much the job would cost.” </p><p>“When he started being nice to everyone we had to REVISE our bad opinion of him.” </p><p>Other forms of the word: REVISION, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">re-</i> under Prefixes."
+              ]
             },
             "INFECTIOUS": {
               "word": "INFECTIOUS",
               "phonetic": "(in-fek'-shÔøΩs)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">catching, contagious </p><p>To INFECT someone is to contaminate him with disease-producing germs. </p><p>“Mosquitoes INFECTED the natives with malaria.” </p><p>“The wound became INFECTED when he didn’t keep it clean.” </p><p>INFECTIOUS is an adjective from INFECT. See <i class=“def-ital\">-ous</i> under Suffixes. An INFECTIOUS disease is one that spreads by INFECTING, like the flu or smallpox. INFECTIOUS is also used in a general way and means “spreading quickly,” <i class=“def-ital\">catching</i>. </p><p>“Yawning is INFECTIOUS. Once one person starts, everyone begins to do it.” </p><p>“He had an INFECTIOUS laugh that caused everyone to laugh with him.” </p><p><i class=“def-ital\">Deadly</i> is the most commonly chosen incorrect answer on the Pretest. INFECTIOUS diseases are communicated by germs. Some of these diseases are deadly, others are not. </p><p>Other forms of the word: INFECT, v. INFECTION, n.</p>"
+              "deftext": "<p class=\"definition\">catching, contagious </p><p>To INFECT someone is to contaminate him with disease-producing germs. </p><p>“Mosquitoes INFECTED the natives with malaria.” </p><p>“The wound became INFECTED when he didn’t keep it clean.” </p><p>INFECTIOUS is an adjective from INFECT.  An INFECTIOUS disease is one that spreads by INFECTING, like the flu or smallpox. INFECTIOUS is also used in a general way and means “spreading quickly,” <i class=“def-ital\">catching</i>. </p><p>“Yawning is INFECTIOUS. Once one person starts, everyone begins to do it.” </p><p>“He had an INFECTIOUS laugh that caused everyone to laugh with him.” </p><p><i class=“def-ital\">Deadly</i> is the most commonly chosen incorrect answer on the Pretest. INFECTIOUS diseases are communicated by germs. Some of these diseases are deadly, others are not. </p><p>Other forms of the word: INFECT, v. INFECTION, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ous</i> under Suffixes."
+              ]
             },
             "POPULACE": {
               "word": "POPULACE",
@@ -5180,7 +5270,10 @@
               "word": "MONUMENTAL",
               "phonetic": "(mon-yU-ment'-ÔøΩI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">immense, massive, imposing </p><p>A MONUMENT is a large building, statue, or other object which serves to keep alive the memory of a person or event. </p><p>“The Washington MONUMENT is a great tribute to our first president.” </p><p>MONUMENTAL means “having the size and impressiveness of a MONUMENT,” <i class=“def-ital\">massive</i>, <i class=“def-ital\">immense</i>. See <i class=“def-ital\">-al</i> under Suffixes. </p><p>“It was a MONUMENTAL structure, almost a hundred stories high.” </p><p>“They made a mistake of MONUMENTAL proportions. They almost ruined the entire project.” </p><p>“Building the Panama Canal was a MONUMENTAL achievement.” </p><p>Other forms of the word: MONUMENT, n.</p>"
+              "deftext": "<p class=\"definition\">immense, massive, imposing </p><p>A MONUMENT is a large building, statue, or other object which serves to keep alive the memory of a person or event. </p><p>“The Washington MONUMENT is a great tribute to our first president.” </p><p>MONUMENTAL means “having the size and impressiveness of a MONUMENT,” <i class=“def-ital\">massive</i>, <i class=“def-ital\">immense</i>.  </p><p>“It was a MONUMENTAL structure, almost a hundred stories high.” </p><p>“They made a mistake of MONUMENTAL proportions. They almost ruined the entire project.” </p><p>“Building the Panama Canal was a MONUMENTAL achievement.” </p><p>Other forms of the word: MONUMENT, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-al</i> under Suffixes."
+              ]
             },
             "PONDER": {
               "word": "PONDER",
@@ -5198,7 +5291,10 @@
               "word": "REIMBURSE",
               "phonetic": "(rE-im-bers')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to pay back, repay </p><p>See <i class=“def-ital\">re-</i> and <i class=“def-ital\">in-1</i> under Prefixes. The <i class=“def-ital\">burse</i> part of the word is related to the word <i class=“def-ital\">purse</i>. The basic meaning of the word is “to put back into someone’s purse,” that is, to <i class=“def-ital\">repay</i> someone. Usually the word is used about paying money to a person who has already had to spend some of his own. </p><p>“The company REIMBURSED him for the money he spent on the trip.” </p><p>“We will gladly REIMBURSE you for the cost of the phone calls.” </p><p>“He bought the plane ticket himself, expecting to be REIMBURSED later.” </p><p>The most commonly chosen incorrect answer on the Pretest is <i class=“def-ital\">back up</i>. This is probably chosen because REIMBURSE sounds like <i class=“def-ital\">reinforce</i>.</p>"
+              "deftext": "<p class=\"definition\">to pay back, repay </p><p> The <i class=“def-ital\">burse</i> part of the word is related to the word <i class=“def-ital\">purse</i>. The basic meaning of the word is “to put back into someone’s purse,” that is, to <i class=“def-ital\">repay</i> someone. Usually the word is used about paying money to a person who has already had to spend some of his own. </p><p>“The company REIMBURSED him for the money he spent on the trip.” </p><p>“We will gladly REIMBURSE you for the cost of the phone calls.” </p><p>“He bought the plane ticket himself, expecting to be REIMBURSED later.” </p><p>The most commonly chosen incorrect answer on the Pretest is <i class=“def-ital\">back up</i>. This is probably chosen because REIMBURSE sounds like <i class=“def-ital\">reinforce</i>.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">re-</i> and <i class=“def-ital\">in-1</i> under Prefixes."
+              ]
             },
             "OBSTINATE": {
               "word": "OBSTINATE",
@@ -5228,7 +5324,10 @@
               "word": "INFORMAL",
               "phonetic": "(in-for'-mÔøΩI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">not formal, unofficial </p><p>See <i class=“def-ital\">in-2</i> under Prefixes. FORMAL means “following the rules or customs.” Something which is INFORMAL is done without ceremony or great attention to the rules. </p><p>“They held some INFORMAL discussions before starting the official meeting.” </p><p>“There was an INFORMAL investigation into the cause of the fire, but no report was ever written.” </p><p>“He gave a brief, INFORMAL talk about his trip to Europe.” </p><p>Many people think INFORMAL means <i class=“def-ital\">unimportant</i>. An INFORMAL meeting or discussion could, however, be quite important. </p><p>Other forms of the word: INFORMALITY, n.</p>"
+              "deftext": "<p class=\"definition\">not formal, unofficial </p><p> FORMAL means “following the rules or customs.” Something which is INFORMAL is done without ceremony or great attention to the rules. </p><p>“They held some INFORMAL discussions before starting the official meeting.” </p><p>“There was an INFORMAL investigation into the cause of the fire, but no report was ever written.” </p><p>“He gave a brief, INFORMAL talk about his trip to Europe.” </p><p>Many people think INFORMAL means <i class=“def-ital\">unimportant</i>. An INFORMAL meeting or discussion could, however, be quite important. </p><p>Other forms of the word: INFORMALITY, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">in-2</i> under Prefixes."
+              ]
             }
           },
           "id": "8",
@@ -5746,7 +5845,10 @@
               "word": "CREDIBLE",
               "phonetic": "(kred'-ÔøΩ-bJI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">believable, trustworthy </p><p>See <i class=“def-ital\">-able</i> under Suffixes. The <i class=“def-ital\">cred</i> part of the word comes from the Latin word for <i class=“def-ital\">believe</i>. Something which is CREDIBLE is able to be believed. </p><p>“His explanation of why he was late was CREDIBLE.” </p><p>“His story about being captured by Martians was not very CREDIBLE.” </p><p>Someone who is CREDIBLE is trustworthy and can be believed. </p><p>“A CREDIBLE witness says she saw him somewhere else, so I guess he didn’t commit the crime.” </p><p>Many people select <i class=“def-ital\">true</i> as the meaning of CREDIBLE on the Pretest. Something that is CREDIBLE will usually be true, but does not have to be. </p><p>“The story was CREDIBLE, so newspapers printed it; we then found out it was a practical joke.” </p><p>Other forms of the word: CREDIBILITY, n.</p>"
+              "deftext": "<p class=\"definition\">believable, trustworthy </p><p> The <i class=“def-ital\">cred</i> part of the word comes from the Latin word for <i class=“def-ital\">believe</i>. Something which is CREDIBLE is able to be believed. </p><p>“His explanation of why he was late was CREDIBLE.” </p><p>“His story about being captured by Martians was not very CREDIBLE.” </p><p>Someone who is CREDIBLE is trustworthy and can be believed. </p><p>“A CREDIBLE witness says she saw him somewhere else, so I guess he didn’t commit the crime.” </p><p>Many people select <i class=“def-ital\">true</i> as the meaning of CREDIBLE on the Pretest. Something that is CREDIBLE will usually be true, but does not have to be. </p><p>“The story was CREDIBLE, so newspapers printed it; we then found out it was a practical joke.” </p><p>Other forms of the word: CREDIBILITY, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-able</i> under Suffixes."
+              ]
             },
             "LEGITIMATE": {
               "word": "LEGITIMATE",
@@ -5758,13 +5860,19 @@
               "word": "UNEARTH",
               "phonetic": "(uhn-erth')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to discover, uncover, find </p><p>See <i class=“def-ital\">un-</i> under Prefixes. UNEARTH basically means “to take the earth covering off something.” In general use, UNEARTH means to <i class=“def-ital\">uncover</i> or <i class=“def-ital\">discover</i> something. </p><p>“The researcher UNEARTHED some new information about George Washington’s career in the army.” </p><p>“When tracing your family’s history, you may UNEARTH embarrassing things about your ancestors.” </p><p>“He UNEARTHED a plot to kill the judge.”</p>"
+              "deftext": "<p class=\"definition\">to discover, uncover, find </p><p> UNEARTH basically means “to take the earth covering off something.” In general use, UNEARTH means to <i class=“def-ital\">uncover</i> or <i class=“def-ital\">discover</i> something. </p><p>“The researcher UNEARTHED some new information about George Washington’s career in the army.” </p><p>“When tracing your family’s history, you may UNEARTH embarrassing things about your ancestors.” </p><p>“He UNEARTHED a plot to kill the judge.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">un-</i> under Prefixes."
+              ]
             },
             "UNFURL": {
               "word": "UNFURL",
               "phonetic": "(uhn-ferl')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to open out, unroll, spread out </p><p>UNFURL is used chiefly with flags, sails, and other large pieces of fabric. When you FURL a flag or sail, you roll it up. So to UNFURL a flag is to open it out or to spread it out. See <i class=“def-ital\">un-</i> under Prefixes. </p><p>“For the holiday, all the flags were UNFURLED.” </p><p>“In preparation for the journey, all the sails on the ship were UNFURLED and inspected for damage.” </p><p>Other forms of the word: FURL, v.</p>"
+              "deftext": "<p class=\"definition\">to open out, unroll, spread out </p><p>UNFURL is used chiefly with flags, sails, and other large pieces of fabric. When you FURL a flag or sail, you roll it up. So to UNFURL a flag is to open it out or to spread it out.  </p><p>“For the holiday, all the flags were UNFURLED.” </p><p>“In preparation for the journey, all the sails on the ship were UNFURLED and inspected for damage.” </p><p>Other forms of the word: FURL, v.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">un-</i> under Prefixes."
+              ]
             },
             "PRIM": {
               "word": "PRIM",
@@ -5776,7 +5884,10 @@
               "word": "HABITUAL",
               "phonetic": "(h:)-bich'-:)-wÔøΩI)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">regular, usual, customary </p><p>A HABIT is a fixed way of doing something. </p><p>“He had a bad HABIT of talking with his mouth full.” </p><p>Something which is HABITUAL results from HABIT, is usual or regular. See <i class=“def-ital\">-al</i> under Suffixes. </p><p>“He took his HABITUAL walk after dinner.” </p><p>“She drank her HABITUAL cup of coffee in the middle of the morning.” </p><p>HABITUAL is also used about people, and means “acting by HABIT.” </p><p>“Don’t believe him; he’s a HABITUAL liar.” </p><p>“She’s a HABITUAL latecomer; she never gets anywhere on time.” </p><p>Other forms of the word: HABIT, n.</p>"
+              "deftext": "<p class=\"definition\">regular, usual, customary </p><p>A HABIT is a fixed way of doing something. </p><p>“He had a bad HABIT of talking with his mouth full.” </p><p>Something which is HABITUAL results from HABIT, is usual or regular.  </p><p>“He took his HABITUAL walk after dinner.” </p><p>“She drank her HABITUAL cup of coffee in the middle of the morning.” </p><p>HABITUAL is also used about people, and means “acting by HABIT.” </p><p>“Don’t believe him; he’s a HABITUAL liar.” </p><p>“She’s a HABITUAL latecomer; she never gets anywhere on time.” </p><p>Other forms of the word: HABIT, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-al</i> under Suffixes."
+              ]
             },
             "PUTRID": {
               "word": "PUTRID",
@@ -5812,7 +5923,10 @@
               "word": "PROMINENT",
               "phonetic": "(prom'-ÔøΩnÔøΩnt)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">easily seen, standing out; well-known, notable, distinguished </p><p>The basic meaning of PROMINENT is standing out, so as to be easily seen. See <i class=“def-ital\">pro-</i> under Prefixes. </p><p>“The huge mountain is a PROMINENT landmark in the area.” </p><p>“She has very PROMINENT cheekbones.” </p><p>When used about people, the word means <i class=“def-ital\">well-known</i>, <i class=“def-ital\">important</i>, usually in a good sense. </p><p>“He is one of the most PROMINENT citizens of this community.” </p><p>“The town was shocked when two PROMINENT doctors were charged with murder.” </p><p>“She played a PROMINENT part in producing the show.” </p><p>Other forms of the word: PROMINENCE, n.</p>"
+              "deftext": "<p class=\"definition\">easily seen, standing out; well-known, notable, distinguished </p><p>The basic meaning of PROMINENT is standing out, so as to be easily seen.  </p><p>“The huge mountain is a PROMINENT landmark in the area.” </p><p>“She has very PROMINENT cheekbones.” </p><p>When used about people, the word means <i class=“def-ital\">well-known</i>, <i class=“def-ital\">important</i>, usually in a good sense. </p><p>“He is one of the most PROMINENT citizens of this community.” </p><p>“The town was shocked when two PROMINENT doctors were charged with murder.” </p><p>“She played a PROMINENT part in producing the show.” </p><p>Other forms of the word: PROMINENCE, n.</p>",
+              "prefix": [
+                "See <i class=“def-ital\">pro-</i> under Prefixes."
+              ]
             },
             "MIMIC": {
               "word": "MIMIC",
@@ -6815,7 +6929,10 @@
               "word": "OUTLANDISH",
               "phonetic": "(owt-lan'-dish)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">strange, bizarre, ridiculous </p><p>See <i class=“def-ital\">-ish</i> under Suffixes. OUTLAND is a rare word for a foreign land or country-a land that is outside your own. Something that it OUTLANDISH has a foreign or unfamiliar appearance or quality. It is strange, bizarre, exotic. </p><p>“She dressed in OUTLANDISH clothing just to shock people.” </p><p>“He had some OUTLANDISH ideas about flying saucers.” </p><p>“They made some OUTLANDISH suggestions about how to improve television.”</p>"
+              "deftext": "<p class=\"definition\">strange, bizarre, ridiculous </p><p> OUTLAND is a rare word for a foreign land or country-a land that is outside your own. Something that it OUTLANDISH has a foreign or unfamiliar appearance or quality. It is strange, bizarre, exotic. </p><p>“She dressed in OUTLANDISH clothing just to shock people.” </p><p>“He had some OUTLANDISH ideas about flying saucers.” </p><p>“They made some OUTLANDISH suggestions about how to improve television.”</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ish</i> under Suffixes."
+              ]
             },
             "UNCANNY": {
               "word": "UNCANNY",
@@ -6833,13 +6950,19 @@
               "word": "NULLIFY",
               "phonetic": "(nuhl'-ÔøΩfl)",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to make void, invalidate, negate See <i class=“def-ital\">-fy</i> under Suffixes. The NULL part of the word means <i class=“def-ital\">nothing</i>. NULL is an adjective which means “without value or effect.” It is often used in the phrase “NULL and void,” which means “having no legal force.” </p><p>“The judges declared that the agreement was NULL and void.” </p><p>To NULLIFY something is to make it as if it were nothing, to take away its force, value, or usefulness. </p><p>“The referee’s decision NULLIFIED the touchdown.” </p><p>“His refusal to let us finish NULLIFIED all our work for the past month. It’s as if we’d never even begun.” </p><p>Other forms of the word: NULL, adj. NULLIFICATION, n.</p>"
+              "deftext": "<p class=\"definition\">to make void, invalidate, negate  The NULL part of the word means <i class=“def-ital\">nothing</i>. NULL is an adjective which means “without value or effect.” It is often used in the phrase “NULL and void,” which means “having no legal force.” </p><p>“The judges declared that the agreement was NULL and void.” </p><p>To NULLIFY something is to make it as if it were nothing, to take away its force, value, or usefulness. </p><p>“The referee’s decision NULLIFIED the touchdown.” </p><p>“His refusal to let us finish NULLIFIED all our work for the past month. It’s as if we’d never even begun.” </p><p>Other forms of the word: NULL, adj. NULLIFICATION, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-fy</i> under Suffixes."
+              ]
             },
             "INTERSPERSE": {
               "word": "INTERSPERSE",
               "phonetic": "(in-t::lr-spers')",
               "pos": "v.",
-              "deftext": "<p class=\"definition\">to scatter, place here and there </p><p>See <i class=“def-ital\">inter-</i> under Prefixes. To INTERSPERSE things is to scatter or sprinkle them between or among other things. </p><p>“Some red balls were INTERSPERSED among the black ones.” </p><p>“She INTERSPERSED some very funny jokes in an otherwise serious speech.” </p><p>In a slightly different sense, to INTERSPERSE something <i class=“def-ital\">with</i> other things is to supply it with these things here and there. </p><p>“He INTERSPERSED the black balls with some red ones.” </p><p>“The book was INTERSPERSED with many beautiful pictures.”</p>"
+              "deftext": "<p class=\"definition\">to scatter, place here and there </p><p> To INTERSPERSE things is to scatter or sprinkle them between or among other things. </p><p>“Some red balls were INTERSPERSED among the black ones.” </p><p>“She INTERSPERSED some very funny jokes in an otherwise serious speech.” </p><p>In a slightly different sense, to INTERSPERSE something <i class=“def-ital\">with</i> other things is to supply it with these things here and there. </p><p>“He INTERSPERSED the black balls with some red ones.” </p><p>“The book was INTERSPERSED with many beautiful pictures.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">inter-</i> under Prefixes."
+              ]
             },
             "FACSIMILE": {
               "word": "FACSIMILE",
@@ -6887,7 +7010,10 @@
               "word": "MONOTONOUS",
               "phonetic": "(mÔøΩnot'-ÔøΩnÔøΩs)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">unchanging, boring, tedious, repetitious </p><p>See <i class=“def-ital\">-ous</i> under Suffixes. The <i class=“def-ital\">mono</i> part of MONOTONOUS comes from the Greek word for one. A <i class=“def-ital\">monologue</i> is a speech for one person; a <i class=“def-ital\">monocle</i> is an eyeglass worn in one eye only. The <i class=“def-ital\">ton</i> part of the word comes from the word <i class=“def-ital\">tone</i>. Something that is MONOTONOUS has only one tone; it doesn’t vary at all, and therefore it is boring and uninteresting. </p><p>“The scenery was rather MONOTONOUS; there was nothing but cornfields as far as you could see.” </p><p>“The book was impressive at first, but after a while its heavy style became rather MONOTONOUS.” </p><p>“She quickly became bored with the MONOTONOUS work on the assembly line in the factory.” </p><p>Other forms of the word: MONOTONY, n.</p>"
+              "deftext": "<p class=\"definition\">unchanging, boring, tedious, repetitious </p><p> The <i class=“def-ital\">mono</i> part of MONOTONOUS comes from the Greek word for one. A <i class=“def-ital\">monologue</i> is a speech for one person; a <i class=“def-ital\">monocle</i> is an eyeglass worn in one eye only. The <i class=“def-ital\">ton</i> part of the word comes from the word <i class=“def-ital\">tone</i>. Something that is MONOTONOUS has only one tone; it doesn’t vary at all, and therefore it is boring and uninteresting. </p><p>“The scenery was rather MONOTONOUS; there was nothing but cornfields as far as you could see.” </p><p>“The book was impressive at first, but after a while its heavy style became rather MONOTONOUS.” </p><p>“She quickly became bored with the MONOTONOUS work on the assembly line in the factory.” </p><p>Other forms of the word: MONOTONY, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ous</i> under Suffixes."
+              ]
             },
             "ELUDE": {
               "word": "ELUDE",
@@ -7459,7 +7585,10 @@
               "word": "FINITE",
               "phonetic": "(fl'-nlt)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">limited, having boundaries </p><p>FINITE comes from the same Latin word as <i class=“def-ital\">finish</i> and <i class=“def-ital\">final</i>. All have to do with <i class=“def-ital\">ends</i> or <i class=“def-ital\">ending</i>. FINITE means “having an end,” <i class=“def-ital\">limited</i>. </p><p>“We cannot keep paying them forever; we have only a FINITE amount of money.” </p><p>Note that this does not mean we have a small amount of money. It simply means that we don’t have an unlimited amount of money. </p><p>“We should be able to find him; it’s a big city, but the number of people in it is still FINITE.” </p><p>The opposite of FINITE is INFINITE, <i class=“def-ital\">endless</i>, <i class=“def-ital\">unlimited</i>. See <i class=“def-ital\">in-2</i> under Prefixes. </p><p>“We can do anything we want; the possibilities are INFINITE.” </p><p>“Some people believe that the universe is INFINITE; others believe it is FINITE.”</p>"
+              "deftext": "<p class=\"definition\">limited, having boundaries </p><p>FINITE comes from the same Latin word as <i class=“def-ital\">finish</i> and <i class=“def-ital\">final</i>. All have to do with <i class=“def-ital\">ends</i> or <i class=“def-ital\">ending</i>. FINITE means “having an end,” <i class=“def-ital\">limited</i>. </p><p>“We cannot keep paying them forever; we have only a FINITE amount of money.” </p><p>Note that this does not mean we have a small amount of money. It simply means that we don’t have an unlimited amount of money. </p><p>“We should be able to find him; it’s a big city, but the number of people in it is still FINITE.” </p><p>The opposite of FINITE is INFINITE, <i class=“def-ital\">endless</i>, <i class=“def-ital\">unlimited</i>.  </p><p>“We can do anything we want; the possibilities are INFINITE.” </p><p>“Some people believe that the universe is INFINITE; others believe it is FINITE.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">in-2</i> under Prefixes."
+              ]
             },
             "FUTILE": {
               "word": "FUTILE",
@@ -7471,13 +7600,19 @@
               "word": "MUTINOUS",
               "phonetic": "(myU'-tÔøΩnÔøΩs)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">rebellious, ready to revolt, difficult to control </p><p>A MUTINY is a rebellion or revolt against people in authority. The word is particularly applied to soldiers or sailors who turn against their officers. MUTINOUS is the adjective from MUTINY. See <i class=“def-ital\">-ous</i> under Suffixes. Someone who is MUTINOUS is rebelling, or is ready to rebel, against the orders of his superiors. </p><p>“The soldiers became MUTINOUS over the rotten food they were forced to eat.” </p><p>MUTINOUS is also used in a broader sense to mean “difficult to control,” <i class=“def-ital\">unruly</i>. </p><p>“The teacher found it impossible to get the MUTINOUS child to sit still and stop pestering everyone.” </p><p>Other forms of the word: MUTINY, n.</p>"
+              "deftext": "<p class=\"definition\">rebellious, ready to revolt, difficult to control </p><p>A MUTINY is a rebellion or revolt against people in authority. The word is particularly applied to soldiers or sailors who turn against their officers. MUTINOUS is the adjective from MUTINY.  Someone who is MUTINOUS is rebelling, or is ready to rebel, against the orders of his superiors. </p><p>“The soldiers became MUTINOUS over the rotten food they were forced to eat.” </p><p>MUTINOUS is also used in a broader sense to mean “difficult to control,” <i class=“def-ital\">unruly</i>. </p><p>“The teacher found it impossible to get the MUTINOUS child to sit still and stop pestering everyone.” </p><p>Other forms of the word: MUTINY, n.</p>",
+              "suffix": [
+                "See <i class=“def-ital\">-ous</i> under Suffixes."
+              ]
             },
             "SUPERLATIVE": {
               "word": "SUPERLATIVE",
               "phonetic": "(sU-per'-1ÔøΩ-tiv)",
               "pos": "adj.",
-              "deftext": "<p class=\"definition\">supreme, excellent </p><p>See <i class=“def-ital\">super-</i> under Prefixes. Something which is SUPERLATIVE is of the highest quality; it is extremely great or excellent. </p><p>“It was a SUPERLATIVE dinner. It may have been the best I have ever had.” </p><p>“Her SUPERLATIVE paintings have won many prizes.” </p><p>“We thought it had been a SUPERLATIVE achievement to finish the job on time.”</p>"
+              "deftext": "<p class=\"definition\">supreme, excellent </p><p> Something which is SUPERLATIVE is of the highest quality; it is extremely great or excellent. </p><p>“It was a SUPERLATIVE dinner. It may have been the best I have ever had.” </p><p>“Her SUPERLATIVE paintings have won many prizes.” </p><p>“We thought it had been a SUPERLATIVE achievement to finish the job on time.”</p>",
+              "prefix": [
+                "See <i class=“def-ital\">super-</i> under Prefixes."
+              ]
             },
             "ATROCIOUS": {
               "word": "ATROCIOUS",
