@@ -2,8 +2,7 @@ export const getContent = (type) => {
   const fileName = getFile('frontBackMatter');
   return fetch(fileName)
     .then(response => response.json())
-    .then(response => response.backmatter[type])
-    .then(console.log);
+    .then(response => response.backmatter[type]);
 };
 
 export const getPlacement = (level) => {
