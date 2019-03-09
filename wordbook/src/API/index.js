@@ -1,3 +1,11 @@
+export const getContent = (type) => {
+  const fileName = getFile('frontBackMatter');
+  return fetch(fileName)
+    .then(response => response.json())
+    .then(response => response.backmatter[type])
+    .then(console.log);
+};
+
 export const getPlacement = (level) => {
   const fileName = getFile(0);
   let chapterData = {};
