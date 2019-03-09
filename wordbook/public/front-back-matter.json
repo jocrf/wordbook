@@ -66,310 +66,290 @@
       "text": [
         "A prefix is one or more syllables placed at the beginning of a word that change or add to its meaning. Only some of the more common prefixes have been listed here. Note that many prefixes have more than one spelling. Also note that prefixes may have more than one meaning. Only the most important ones are given here; check your dictionary for other meanings."
       ],
-      "prefix-list": [
+      "list": [
         {
-          "A": {
-            "title": "A-, also AN­",
-            "meaning": "not; without",
-            "examples": [
-              {
-                "word": "ANonymous",
-                "def": "without a name"
-              }
-            ]
-          }
+          "id": "A",
+          "title": "A-, also AN­",
+          "meaning": "not; without",
+          "examples": [
+            {
+              "word": "ANonymous",
+              "def": "without a name"
+            }
+          ]
         },
         {
-          "AB": {
-            "title": "AB-, also ABS-",
-            "meaning": "away from",
-            "examples": [
-              {
-                "word": "ABsent",
-                "def": "away, not present"
-              }
-            ]
-          }
+          "id": "AB",
+          "title": "AB-, also ABS-",
+          "meaning": "away from",
+          "examples": [
+            {
+              "word": "ABsent",
+              "def": "away, not present"
+            }
+          ]
         },
         {
-          "AD": {
-            "title": "AD-, also A followed by two consonants",
-            "meaning": "to; towards",
-            "examples": [
-              {
-                "word": "ADhere",
-                "def": "to stick to"
-              },
-              {
-                "word": "Attract",
-                "def": "to pull toward"
-              }
-            ]
-          }
+          "id": "AD",
+          "title": "AD-, also A followed by two consonants",
+          "meaning": "to; towards",
+          "examples": [
+            {
+              "word": "ADhere",
+              "def": "to stick to"
+            },
+            {
+              "word": "Attract",
+              "def": "to pull toward"
+            }
+          ]
         },
         {
-          "ANTI": {
-            "title": "ANTI-",
-            "meaning": "against",
-            "examples": [
-              {
-                "word": "ANTlslavery",
-                "def": "against slavery"
-              }
-            ]
-          }
+          "id": "ANTI",
+          "title": "ANTI-",
+          "meaning": "against",
+          "examples": [
+            {
+              "word": "ANTlslavery",
+              "def": "against slavery"
+            }
+          ]
         },
         {
-          "CON": {
-            "title": "CON-, also COM-, COL-, CO-, COR-",
-            "meaning": "with; together",
-            "examples": [
-              {
-                "word": "CONnect",
-                "def": "to join together"
-              },
-              {
-                "word": "COMbine",
-                "def": "to mix together"
-              }
-            ]
-          }
+          "id": "CON",
+          "title": "CON-, also COM-, COL-, CO-, COR-",
+          "meaning": "with; together",
+          "examples": [
+            {
+              "word": "CONnect",
+              "def": "to join together"
+            },
+            {
+              "word": "COMbine",
+              "def": "to mix together"
+            }
+          ]
         },
         {
-          "DE": {
-            "title": "DE-",
-            "meaning": "down from; away from; not",
-            "examples": [
-              {
-                "word": "DEpart",
-                "def": "to go away"
-              },
-              {
-                "word": "DEpress",
-                "def": "to press down on, make sad"
-              }
-            ]
-          }
+          "id": "DE",
+          "title": "DE-",
+          "meaning": "down from; away from; not",
+          "examples": [
+            {
+              "word": "DEpart",
+              "def": "to go away"
+            },
+            {
+              "word": "DEpress",
+              "def": "to press down on, make sad"
+            }
+          ]
         },
         {
-          "DIS": {
-            "title": "DIS-, also DI-",
-            "meaning": "apart; away; not",
-            "examples": [
-              {
-                "word": "DISmiss",
-                "def": "to send away"
-              },
-              {
-                "word": "DIShonest",
-                "def": "not honest"
-              }
-            ]
-          }
+          "id": "DIS",
+          "title": "DIS-, also DI-",
+          "meaning": "apart; away; not",
+          "examples": [
+            {
+              "word": "DISmiss",
+              "def": "to send away"
+            },
+            {
+              "word": "DIShonest",
+              "def": "not honest"
+            }
+          ]
         },
         {
-          "EX": {
-            "title": "EX-, also E-",
-            "meaning": "out of; from",
-            "examples": [
-              {
-                "word": "EXclaim",
-                "def": "to shout out"
-              },
-              {
-                "word": "Emerge",
-                "def": "to come out"
-              }
-            ]
-          }
+          "id": "EX",
+          "title": "EX-, also E-",
+          "meaning": "out of; from",
+          "examples": [
+            {
+              "word": "EXclaim",
+              "def": "to shout out"
+            },
+            {
+              "word": "Emerge",
+              "def": "to come out"
+            }
+          ]
         },
         {
-          "IN1": {
-            "title": "IN-, also IL-, IM-, IR-",
-            "meaning": "in; into",
-            "examples": [
-              {
-                "word": "INsert",
-                "def": "to put in"
-              },
-              {
-                "word": "IMport",
-                "def": "to bring into (a country)"
-              }
-            ]
-          }
+          "id": "IN1",
+          "title": "IN-, also IL-, IM-, IR-",
+          "meaning": "in; into",
+          "examples": [
+            {
+              "word": "INsert",
+              "def": "to put in"
+            },
+            {
+              "word": "IMport",
+              "def": "to bring into (a country)"
+            }
+          ]
         },
         {
-          "IN2": {
-            "title": "IN-, also IL-, IM-, IR-",
-            "meaning": "not",
-            "examples": [
-              {
-                "word": "INformal",
-                "def": "not formal"
-              },
-              {
-                "word": "ILlegal",
-                "def": "not legal"
-              }
-            ]
-          }
+          "id": "IN2",
+          "title": "IN-, also IL-, IM-, IR-",
+          "meaning": "not",
+          "examples": [
+            {
+              "word": "INformal",
+              "def": "not formal"
+            },
+            {
+              "word": "ILlegal",
+              "def": "not legal"
+            }
+          ]
         },
         {
-          "INTER": {
-            "title": "INTER-",
-            "meaning": "between; among",
-            "examples": [
-              {
-                "word": "INTERrupt",
-                "def": "to break into the middle of"
-              },
-              {
-                "word": "INTERnational",
-                "def": "among nations"
-              }
-            ]
-          }
+          "id": "INTER",
+          "title": "INTER-",
+          "meaning": "between; among",
+          "examples": [
+            {
+              "word": "INTERrupt",
+              "def": "to break into the middle of"
+            },
+            {
+              "word": "INTERnational",
+              "def": "among nations"
+            }
+          ]
         },
         {
-          "MIS": {
-            "title": "MIS-",
-            "meaning": "badly; wrong; not",
-            "examples": [
-              {
-                "word": "MIStreat",
-                "def": "to treat badly"
-              },
-              {
-                "word": "MIStake",
-                "def": "a wrong answer"
-              }
-            ]
-          }
+          "id": "MIS",
+          "title": "MIS-",
+          "meaning": "badly; wrong; not",
+          "examples": [
+            {
+              "word": "MIStreat",
+              "def": "to treat badly"
+            },
+            {
+              "word": "MIStake",
+              "def": "a wrong answer"
+            }
+          ]
         },
         {
-          "NON": {
-            "title": "NON-",
-            "meaning": "not",
-            "examples": [
-              {
-                "word": "NONbeliever",
-                "def": "not a believer"
-              },
-              {
-                "word": "NON stop",
-                "def": "not stopping"
-              }
-            ]
-          }
+          "id": "NON",
+          "title": "NON-",
+          "meaning": "not",
+          "examples": [
+            {
+              "word": "NONbeliever",
+              "def": "not a believer"
+            },
+            {
+              "word": "NON stop",
+              "def": "not stopping"
+            }
+          ]
         },
         {
-          "PRE": {
-            "title": "PRE-",
-            "meaning": "before; early; in advance",
-            "examples": [
-              {
-                "word": "PREpare",
-                "def": "to get ready beforehand"
-              },
-              {
-                "word": "PREhistoric",
-                "def": "before history"
-              }
-            ]
-          }
+          "id": "PRE",
+          "title": "PRE-",
+          "meaning": "before; early; in advance",
+          "examples": [
+            {
+              "word": "PREpare",
+              "def": "to get ready beforehand"
+            },
+            {
+              "word": "PREhistoric",
+              "def": "before history"
+            }
+          ]
         },
         {
-          "PRO": {
-            "title": "PRO-",
-            "meaning": "in front of; forward; in favor of",
-            "examples": [
-              {
-                "word": "PROceed",
-                "def": "to go forward"
-              },
-              {
-                "word": "PROminent",
-                "def": "standing out; easily seen"
-              }
-            ]
-          }
+          "id": "PRO",
+          "title": "PRO-",
+          "meaning": "in front of; forward; in favor of",
+          "examples": [
+            {
+              "word": "PROceed",
+              "def": "to go forward"
+            },
+            {
+              "word": "PROminent",
+              "def": "standing out; easily seen"
+            }
+          ]
         },
         {
-          "RE": {
-            "title": "RE-",
-            "meaning": "back; again",
-            "examples": [
-              {
-                "word": "REfund",
-                "def": "to pay back"
-              },
-              {
-                "word": "REsume",
-                "def": "to begin again"
-              }
-            ]
-          }
+          "id": "RE",
+          "title": "RE-",
+          "meaning": "back; again",
+          "examples": [
+            {
+              "word": "REfund",
+              "def": "to pay back"
+            },
+            {
+              "word": "REsume",
+              "def": "to begin again"
+            }
+          ]
         },
         {
-          "SUB": {
-            "title": "SUB-",
-            "meaning": "under; below",
-            "examples": [
-              {
-                "word": "SUBmarine",
-                "def": "a ship that can travel under water"
-              }
-            ]
-          }
+          "id": "SUB",
+          "title": "SUB-",
+          "meaning": "under; below",
+          "examples": [
+            {
+              "word": "SUBmarine",
+              "def": "a ship that can travel under water"
+            }
+          ]
         },
         {
-          "SUPER": {
-            "title": "SUPER-",
-            "meaning": "over; above; beyond",
-            "examples": [
-              {
-                "word": "SUPERvise",
-                "def": "to watch over"
-              },
-              {
-                "word": "SUPERhuman",
-                "def": "beyond human strength or ability"
-              }
-            ]
-          }
+          "id": "SUPER",
+          "title": "SUPER-",
+          "meaning": "over; above; beyond",
+          "examples": [
+            {
+              "word": "SUPERvise",
+              "def": "to watch over"
+            },
+            {
+              "word": "SUPERhuman",
+              "def": "beyond human strength or ability"
+            }
+          ]
         },
         {
-          "TRANS": {
-            "title": "TRANS-, also TRA-",
-            "meaning": "across; beyond; through",
-            "examples": [
-              {
-                "word": "TRANSparent",
-                "def": "able to be seen through"
-              },
-              {
-                "word": "TRANSoceanic",
-                "def": "crossing the ocean; beyond the ocean"
-              }
-            ]
-          }
+          "id": "TRANS",
+          "title": "TRANS-, also TRA-",
+          "meaning": "across; beyond; through",
+          "examples": [
+            {
+              "word": "TRANSparent",
+              "def": "able to be seen through"
+            },
+            {
+              "word": "TRANSoceanic",
+              "def": "crossing the ocean; beyond the ocean"
+            }
+          ]
         },
         {
-          "UN": {
-            "title": "UN-",
-            "meaning": "not; opposite of",
-            "examples": [
-              {
-                "word": "UNhappy",
-                "def": "not happy"
-              },
-              {
-                "word": "UNlock",
-                "def": "to do the opposite of locking"
-              }
-            ]
-          }
+          "id": "UN",
+          "title": "UN-",
+          "meaning": "not; opposite of",
+          "examples": [
+            {
+              "word": "UNhappy",
+              "def": "not happy"
+            },
+            {
+              "word": "UNlock",
+              "def": "to do the opposite of locking"
+            }
+          ]
         }
       ]
     },
@@ -378,300 +358,282 @@
       "text": [
         "A suffix is one or more syllables added to the end of a word to change or add to its meaning. As with the prefix list, only the more common ones have been listed here. Note that an important job of a suffix--and sometimes its only job--is to show the part of speech of the word to which it is attached."
       ],
-      "suffix-list": [
+      "list": [
         {
-          "ABLE": {
-            "title": "-ABLE, also -IBLE",
-            "meaning": "able to; tending to; having",
-            "examples": [
-              {
-                "word": "breakABLE",
-                "def": "able to be broken"
-              },
-              {
-                "word": "valuABLE",
-                "def": "having value"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "ABLE",
+          "title": "-ABLE, also -IBLE",
+          "meaning": "able to; tending to; having",
+          "examples": [
+            {
+              "word": "breakABLE",
+              "def": "able to be broken"
+            },
+            {
+              "word": "valuABLE",
+              "def": "having value"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "AL": {
-            "title": "-AL",
-            "meaning": "connected with; like",
-            "examples": [
-              {
-                "word": "originAL",
-                "def": "connected with the beginning"
-              },
-              {
-                "word": "monumentAL",
-                "def": "like a monument"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "AL",
+          "title": "-AL",
+          "meaning": "connected with; like",
+          "examples": [
+            {
+              "word": "originAL",
+              "def": "connected with the beginning"
+            },
+            {
+              "word": "monumentAL",
+              "def": "like a monument"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "ANT": {
-            "title": "-ANT, also -ENT",
-            "meaning": "doing; being",
-            "examples": [
-              {
-                "word": "pleasANT",
-                "def": "being pleasing"
-              },
-              {
-                "word": "differENT",
-                "def": "not being the same"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "ANT",
+          "title": "-ANT, also -ENT",
+          "meaning": "doing; being",
+          "examples": [
+            {
+              "word": "pleasANT",
+              "def": "being pleasing"
+            },
+            {
+              "word": "differENT",
+              "def": "not being the same"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "ATE1": {
-            "title": "-ATE",
-            "meaning": "to make; to act; to cause",
-            "examples": [
-              {
-                "word": "abbreviATE",
-                "def": "to make shorter"
-              },
-              {
-                "word": "activATE",
-                "def": "to cause to become active"
-              }
-            ],
-            "pos": "verb"
-          }
+          "id": "ATE1",
+          "title": "-ATE",
+          "meaning": "to make; to act; to cause",
+          "examples": [
+            {
+              "word": "abbreviATE",
+              "def": "to make shorter"
+            },
+            {
+              "word": "activATE",
+              "def": "to cause to become active"
+            }
+          ],
+          "pos": "verb"
         },
         {
-          "ATE2": {
-            "title": "-ATE",
-            "meaning": "being",
-            "examples": [
-              {
-                "word": "adequATE",
-                "def": "being enough"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "ATE2",
+          "title": "-ATE",
+          "meaning": "being",
+          "examples": [
+            {
+              "word": "adequATE",
+              "def": "being enough"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "ER": {
-            "title": "-ER, also -OR",
-            "meaning": "one that is; one that does",
-            "examples": [
-              {
-                "word": "foreignER",
-                "def": "one who is foreign"
-              },
-              {
-                "word": "actOR",
-                "def": "one who acts"
-              }
-            ],
-            "pos": "noun"
-          }
+          "id": "ER",
+          "title": "-ER, also -OR",
+          "meaning": "one that is; one that does",
+          "examples": [
+            {
+              "word": "foreignER",
+              "def": "one who is foreign"
+            },
+            {
+              "word": "actOR",
+              "def": "one who acts"
+            }
+          ],
+          "pos": "noun"
         },
         {
-          "FUL": {
-            "title": "-FUL",
-            "meaning": "full of; able to",
-            "examples": [
-              {
-                "word": "beautiFUL",
-                "def": "full of beauty"
-              },
-              {
-                "word": "harmFUL",
-                "def": "able to harm"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "FUL",
+          "title": "-FUL",
+          "meaning": "full of; able to",
+          "examples": [
+            {
+              "word": "beautiFUL",
+              "def": "full of beauty"
+            },
+            {
+              "word": "harmFUL",
+              "def": "able to harm"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "FY": {
-            "title": "-FY, also -IFY",
-            "meaning": "to make; to cause; to be",
-            "examples": [
-              {
-                "word": "simplIFY",
-                "def": "to make simple"
-              },
-              {
-                "word": "liqueFY",
-                "def": "to make liquid"
-              }
-            ],
-            "pos": "verb"
-          }
+          "id": "FY",
+          "title": "-FY, also -IFY",
+          "meaning": "to make; to cause; to be",
+          "examples": [
+            {
+              "word": "simplIFY",
+              "def": "to make simple"
+            },
+            {
+              "word": "liqueFY",
+              "def": "to make liquid"
+            }
+          ],
+          "pos": "verb"
         },
         {
-          "IC": {
-            "title": "-IC, also -ICAL",
-            "meaning": "like; being",
-            "examples": [
-              {
-                "word": "metallIC",
-                "def": "being metal"
-              },
-              {
-                "word": "fanatICAL",
-                "def": "like a fanatic"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "IC",
+          "title": "-IC, also -ICAL",
+          "meaning": "like; being",
+          "examples": [
+            {
+              "word": "metallIC",
+              "def": "being metal"
+            },
+            {
+              "word": "fanatICAL",
+              "def": "like a fanatic"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "ISH": {
-            "title": "-ISH",
-            "meaning": "like; somewhat",
-            "examples": [
-              {
-                "word": "childISH",
-                "def": "like a child"
-              },
-              {
-                "word": "reddISH",
-                "def": "somewhat red"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "ISH",
+          "title": "-ISH",
+          "meaning": "like; somewhat",
+          "examples": [
+            {
+              "word": "childISH",
+              "def": "like a child"
+            },
+            {
+              "word": "reddISH",
+              "def": "somewhat red"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "ITY": {
-            "title": "-ITY",
-            "meaning": "a state; condition",
-            "examples": [
-              {
-                "word": "insanITY",
-                "def": "the state of being insane"
-              }
-            ],
-            "pos": "noun"
-          }
+          "id": "ITY",
+          "title": "-ITY",
+          "meaning": "a state; condition",
+          "examples": [
+            {
+              "word": "insanITY",
+              "def": "the state of being insane"
+            }
+          ],
+          "pos": "noun"
         },
         {
-          "IVE": {
-            "title": "-IVE",
-            "meaning": "connected with; having a tendency toward",
-            "examples": [
-              {
-                "word": "actIVE",
-                "def": "tending to be full of action"
-              },
-              {
-                "word": "festIVE",
-                "def": "like a festival"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "IVE",
+          "title": "-IVE",
+          "meaning": "connected with; having a tendency toward",
+          "examples": [
+            {
+              "word": "actIVE",
+              "def": "tending to be full of action"
+            },
+            {
+              "word": "festIVE",
+              "def": "like a festival"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "LESS": {
-            "title": "-LESS",
-            "meaning": "without; unable to be done",
-            "examples": [
-              {
-                "word": "fatherLESS",
-                "def": "without a father"
-              },
-              {
-                "word": "countLESS",
-                "def": "unable to be counted"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "LESS",
+          "title": "-LESS",
+          "meaning": "without; unable to be done",
+          "examples": [
+            {
+              "word": "fatherLESS",
+              "def": "without a father"
+            },
+            {
+              "word": "countLESS",
+              "def": "unable to be counted"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "MENT": {
-            "title": "-MENT",
-            "meaning": "a state; condition; result",
-            "examples": [
-              {
-                "word": "amazeMENT",
-                "def": "the state of being amazed"
-              },
-              {
-                "word": "attachMENT",
-                "def": "the result of attaching"
-              }
-            ],
-            "pos": "noun"
-          }
+          "id": "MENT",
+          "title": "-MENT",
+          "meaning": "a state; condition; result",
+          "examples": [
+            {
+              "word": "amazeMENT",
+              "def": "the state of being amazed"
+            },
+            {
+              "word": "attachMENT",
+              "def": "the result of attaching"
+            }
+          ],
+          "pos": "noun"
         },
         {
-          "NESS": {
-            "title": "-NESS",
-            "meaning": "a quality; state",
-            "examples": [
-              {
-                "word": "darkNESS",
-                "def": "the state of being dark"
-              },
-              {
-                "word": "goodNESS",
-                "def": "the quality of being good"
-              }
-            ],
-            "pos": "noun"
-          }
+          "id": "NESS",
+          "title": "-NESS",
+          "meaning": "a quality; state",
+          "examples": [
+            {
+              "word": "darkNESS",
+              "def": "the state of being dark"
+            },
+            {
+              "word": "goodNESS",
+              "def": "the quality of being good"
+            }
+          ],
+          "pos": "noun"
         },
         {
-          "OUS": {
-            "title": "-OUS",
-            "meaning": "full of; having; like",
-            "examples": [
-              {
-                "word": "courageOUS",
-                "def": "having courage"
-              },
-              {
-                "word": "joyOUS",
-                "def": "full of joy"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "OUS",
+          "title": "-OUS",
+          "meaning": "full of; having; like",
+          "examples": [
+            {
+              "word": "courageOUS",
+              "def": "having courage"
+            },
+            {
+              "word": "joyOUS",
+              "def": "full of joy"
+            }
+          ],
+          "pos": "adjective"
         },
         {
-          "TUDE": {
-            "title": "-TUDE",
-            "meaning": "a state; condition",
-            "examples": [
-              {
-                "word": "gratiTUDE",
-                "def": "the state of being thankful"
-              }
-            ],
-            "pos": "noun"
-          }
+          "id": "TUDE",
+          "title": "-TUDE",
+          "meaning": "a state; condition",
+          "examples": [
+            {
+              "word": "gratiTUDE",
+              "def": "the state of being thankful"
+            }
+          ],
+          "pos": "noun"
         },
         {
-          "Y": {
-            "title": "-Y",
-            "meaning": "full of; having; inclined to",
-            "examples": [
-              {
-                "word": "greedY",
-                "def": "full of greed"
-              },
-              {
-                "word": "dreamY",
-                "def": "inclined to dream"
-              }
-            ],
-            "pos": "adjective"
-          }
+          "id": "Y",
+          "title": "-Y",
+          "meaning": "full of; having; inclined to",
+          "examples": [
+            {
+              "word": "greedY",
+              "def": "full of greed"
+            },
+            {
+              "word": "dreamY",
+              "def": "inclined to dream"
+            }
+          ],
+          "pos": "adjective"
         }
       ]
     }
