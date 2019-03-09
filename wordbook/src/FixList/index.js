@@ -15,7 +15,7 @@ export default class FixList extends Component {
   }
 
   componentDidMount () {
-    const type = this.props.match.url;
+    const type = this.props.fixType;
     if (type.endsWith('prefixes')) {
       getContent('prefixes')
         .then(content => this.setContent(content));
@@ -45,7 +45,7 @@ export default class FixList extends Component {
                 <p>{fix.meaning}</p>
                 <ul>
                   {fix.examples.map(example => (
-                    <li>
+                    <li key={example.word}>
                       {example.word}: {example.def}
                     </li>
                   ))}

@@ -20,11 +20,14 @@ export default class LearningPage extends Component {
   render () {
     return (
       <React.Fragment>
-        <Route exact path='/learning/prefixes' component={FixList} />
-        <Route exact path='/learning/suffixes' component={FixList} />
+        <Route exact path='/learning/:fixType' render={({ match }) => <FixList
+          fixType={match.params.fixType}
+        />}
+        />
+        {/* <Route path='/learning/suffixes' component={FixList} /> */}
         {this.state.showToC &&
           <Route
-            path='/learning/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?'
+            exact path='/learning/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?'
             component={TableOfContents}
           />
         }
