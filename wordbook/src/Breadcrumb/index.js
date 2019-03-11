@@ -48,6 +48,11 @@ export default class Breadcrumb extends Component {
               <NavLink exact to='/learning'>Learning</NavLink>
             </li>
           }
+          {(level === 'suffixes' || level === 'prefixes') &&
+            <li className='breadcrumb-item'>
+              <NavLink exact to={`/learning/${level}`}>{level[0].toUpperCase() + level.slice(1)}</NavLink>
+            </li>
+          }
           {l &&
             <li className='breadcrumb-item'>
               <NavLink exact to={`/learning/level/${level}`}>Level {level}</NavLink>

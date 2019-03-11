@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import { getPhonetic } from '../API';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
@@ -77,6 +78,12 @@ export default class Word extends Component {
           </div>
           <hr className='bg-secondary' />
           <p className='card-text' dangerouslySetInnerHTML={this.createMarkup(definition.deftext)} />
+          {definition.suffix &&
+            <Link to='/learning/suffixes' target='_blank' className='dark-bg-link' dangerouslySetInnerHTML={this.createMarkup(definition.suffix)} />
+          }
+          {definition.prefix &&
+            <Link to='/learning/prefixes' target='_blank' className='dark-bg-link' dangerouslySetInnerHTML={this.createMarkup(definition.prefix)} />
+          }
         </div>
       </div>
     );
