@@ -12,7 +12,7 @@ export default class Exercise extends Component {
     this.incrementQuestionIndex = this.incrementQuestionIndex.bind(this);
     this.state = {
       currentQuestionIndex: 0,
-      buttonText: 'Check Answer',
+      buttonText: 'Submit',
       showAnswers: false,
       selectedAnswers: {}
     };
@@ -24,15 +24,15 @@ export default class Exercise extends Component {
     this.setState({ selectedAnswers: selectedAnswers });
   }
 
-  // TODO: 'Next Question' not appropriate for multi-item quizzes
+  // TODO: 'Next' not appropriate for multi-item quizzes
   checkButtonHandler () {
-    if (this.state.buttonText === 'Check Answer') {
+    if (this.state.buttonText === 'Submit') {
       this.setState({
-        buttonText: 'Next Question',
+        buttonText: 'Next',
         showAnswers: true
       });
     }
-    if (this.state.buttonText === 'Next Question') {
+    if (this.state.buttonText === 'Next') {
       // check if there are more questions
       // increment if there are
       // end quiz if there are not
@@ -54,7 +54,7 @@ export default class Exercise extends Component {
     if (this.state.currentQuestionIndex < this.props.questions.length - 1) {
       this.setState((state) => ({
         currentQuestionIndex: state.currentQuestionIndex + numQuestions,
-        buttonText: 'Check Answer',
+        buttonText: 'Submit',
         showAnswers: false
       }));
     } else {

@@ -28,13 +28,6 @@ export default class MultipleChoice extends Component {
         <fieldset onChange={this.changeHandler} className='form-group'>
           <div className='questionBox'>
             <legend onClick={this.props.toggleDefinition} className={(this.props.showAnswers && this.props.type !== 'mc-one') ? 'clickable' : null}>{prompt}</legend>
-            {/* show score component on the checked answer */}
-            {this.props.showAnswers &&
-              <Score
-                chosenAnswer={this.props.value}
-                correctAnswer={this.props.correctAnswer}
-              />
-            }
           </div>
           {this.props.showDefinition &&
             <Word definition={this.props.definition} />
@@ -52,6 +45,13 @@ export default class MultipleChoice extends Component {
               </div>
             )}
           </div>
+          {/* show score component on the checked answer */}
+          {this.props.showAnswers &&
+            <Score
+              chosenAnswer={this.props.value}
+              correctAnswer={this.props.correctAnswer}
+            />
+          }
         </fieldset>
       </React.Fragment>
     );
