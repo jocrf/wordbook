@@ -51,7 +51,7 @@ export default class Home extends Component {
               <p className='text-dark'>
                 Otherwise, continue learning.
               </p>
-              <Link to='/learning' className='btn btn-orange'>Select Your Level</Link>
+              <Link to='/learning' className='btn btn-orange'>Select Your Exercise</Link>
             </div>
           </div>
         </div>
