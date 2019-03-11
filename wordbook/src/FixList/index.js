@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { getContent } from '../API';
+import { NavLink } from 'react-router-dom';
 
 export default class FixList extends Component {
   constructor (props) {
@@ -28,6 +29,13 @@ export default class FixList extends Component {
     }
   }
 
+  componentDidUpdate (prevProps) {
+    if (prevProps.fixType !== this.props.fixType) {
+      getContent(this.props.fixType)
+        .then(content => this.setContent(content));
+    }
+  }
+
   componentWillUnmount () {
     this.props.toggleToC();
   }
@@ -37,11 +45,19 @@ export default class FixList extends Component {
   }
 
   render () {
-    console.log(this.state.content.list);
+    // const linkOptions = {
+    //   prefixes: 'Prefixes',
+    //   suffixes: 'Suffixes'
+    // };
+    const linkText = this.props.fixType === 'prefixes' ? 'suffixes' : 'prefixes';
+    console.log(this.props);
     return (
       <React.Fragment>
         <div>
-          <h2>{this.state.content.title}</h2>
+          <div>
+            <h2>{this.state.content.title}</h2>
+            <NavLink to={`/learning/${linkText}`}>Common {linkText[0].toUpperCase() + linkText.slice(1)}</NavLink>
+          </div>
           <p>{this.state.content.text}</p>
           <ul>
             {this.state.content.list.map(fix => (

@@ -21,6 +21,7 @@ export default class LearningPage extends Component {
     return (
       <React.Fragment>
         <Route exact path='/learning/:fixType' render={({ match }) => <FixList
+          {...match}
           fixType={match.params.fixType}
           toggleToC={this.toggleToC}
         />}
