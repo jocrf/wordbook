@@ -40,6 +40,7 @@ export const getExercise = (level, section, wordset, exercise, review) => {
   return fetch(fileName)
     .then(response => response.json())
     .then(response => {
+      console.log(response);
       let selectedSection = response.sections[section - 1];
       if (review) {
         // return review test early

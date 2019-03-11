@@ -48,6 +48,8 @@ export default class MultipleChoice extends Component {
           {/* show score component on the checked answer */}
           {this.props.showAnswers &&
             <Score
+              placement={this.props.placement}
+              markWrongAnswers={this.props.markWrongAnswers}
               chosenAnswer={this.props.value}
               correctAnswer={this.props.correctAnswer}
             />

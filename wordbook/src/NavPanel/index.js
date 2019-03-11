@@ -90,7 +90,7 @@ export default withRouter(class NavPanel extends Component {
             }
             {/* end of placement quiz / outro */}
             {
-              (this.state.wordsetCompleted || !this.props.passed) &&
+              this.state.wordsetCompleted &&
               <React.Fragment>
                 <p className='card-text'>Level {+group + 1} is the correct difficulty level for you! Are you ready to start building your vocabulary?</p>
                 <NavLink className='btn btn-primary' to={`/learning/level/${+group + 1}/section/1/wordset/1/exercise/0`}>Begin learning</NavLink>
