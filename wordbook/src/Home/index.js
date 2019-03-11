@@ -45,7 +45,7 @@ export default class Home extends Component {
               <p className='text-dark'>
                 If this is your first visit, take the placement quiz.
               </p>
-              <Link to='/placement/0' className='btn btn-orange'>Placement Quiz</Link>
+              <Link to='/placement/1' className='btn btn-orange'>Placement Quiz</Link>
             </div>
             <div className='container d-flex flex-column justify-content-between'>
               <p className='text-dark'>

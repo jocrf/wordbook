@@ -15,13 +15,16 @@ export default withRouter(class NavPanel extends Component {
     let nextExercise = null;
     // group for placement, exercise for LearningPage
     const { exercise, group } = this.props;
-    if (group) {
+    console.log(`group is ${group}, exercise is ${exercise}`);
+    if (group >= 0) {
+      console.log('we have a group');
       if (group < 8 && this.props.passed) { // hard-coded based on placement data
         nextExercise = +group + 1;
       } else {
         nextExercise = null;
       }
     } else {
+      console.log('before exercise switch');
       switch (exercise) {
         case '1':
         case '2':
@@ -37,10 +40,12 @@ export default withRouter(class NavPanel extends Component {
           throw new Error(console.log(`unexpected exercise type: ${exercise}`));
       }
     }
+    console.log(`nextExercise is ${nextExercise}`);
     if (nextExercise) {
       const currentUrl = this.props.match.url;
       const regex = /(\w+)$|\d$/;
-      this.props.history.push(currentUrl.replace(regex, nextExercise));
+      console.log(currentUrl);
+      this.props.history.push(currentUrl.replace(regex, nextExercise + 1));
     } else {
       this.setState({ wordsetCompleted: true });
     }
@@ -49,6 +54,7 @@ export default withRouter(class NavPanel extends Component {
   render () {
     // TODO: add type checker - if type 'review', say 'x', if type 'placement', say 'y', etc
     const { level, section, wordset, exercise, group, instructions } = this.props;
+    console.log(`render: group is ${group}, exercise is ${exercise}`);
     return (
       <React.Fragment>
         {/* for placement quiz */}
@@ -84,7 +90,7 @@ export default withRouter(class NavPanel extends Component {
             }
             {/* end of placement quiz / outro */}
             {
-              this.state.wordsetCompleted &&
+              (this.state.wordsetCompleted || !this.props.passed) &&
               <React.Fragment>
                 <p className='card-text'>Level {+group + 1} is the correct difficulty level for you! Are you ready to start building your vocabulary?</p>
                 <NavLink className='btn btn-primary' to={`/learning/level/${+group + 1}/section/1/wordset/1/exercise/0`}>Begin learning</NavLink>
