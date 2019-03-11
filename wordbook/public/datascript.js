@@ -88,17 +88,20 @@ newLevel.sections.forEach(section => {
   section.wordsets.forEach(wordset => {
     const words = Object.keys(wordset.definitions);
     words.forEach(word => {
+      // look for underscores surrounding italics
       const openMatch = /_(?=\w|-)/g;
       const closeMatch = /_(?!\w|-)/g;
+      // look for open and close quotes
       const openQuote = /"(?=\w|')/g;
       const closeQuote = /"(?= |$)/g;
       const openSingleQuote = /'(?=[A-Z])/g;
       const closeSingleQuote = /'/g;
+      // look for line breaks
       const newline = /\n/g;
+      // look for text linking to -fix lists
       const suffixMatch = /See .* under Suffixes./g;
       const prefixMatch = /See .* under Prefixes./g;
-      const openP = '<p class="definition">';
-      const closeP = '</p>';
+      // replace regexp matches with new HTML tags
       let openText = wordset.definitions[word].deftext.replace(openMatch, '<i class="def-ital">');
       let closeText = openText.replace(closeMatch, '</i>');
       let openQuoteText = closeText.replace(openQuote, '“');
@@ -106,6 +109,7 @@ newLevel.sections.forEach(section => {
       let openSingleQuoteText = closeQuoteText.replace(openSingleQuote, '‘');
       let closeSingleQuoteText = openSingleQuoteText.replace(closeSingleQuote, '’');
       let newText = closeSingleQuoteText.replace(newline, '</p><p>');
+      // remove -fix links from deftext and add them to object as separate properties
       if (suffixMatch.test(newText)) {
         const matcher = newText.match(suffixMatch);
         const index = newText.indexOf('See');
@@ -122,7 +126,8 @@ newLevel.sections.forEach(section => {
         newText = part1 + part2;
         wordset.definitions[word].prefix = matcher;
       }
-      wordset.definitions[word].deftext = openP + newText + closeP;
+      // reassign new text with open and close <p>
+      wordset.definitions[word].deftext = '<p class="definition">' + newText + '</p>';
     });
   });
 });

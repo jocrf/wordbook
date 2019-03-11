@@ -1,3 +1,4 @@
+// type === 'prefixes' or 'suffixes'
 export const getContent = (type) => {
   const fileName = getFile('frontBackMatter');
   return fetch(fileName)
