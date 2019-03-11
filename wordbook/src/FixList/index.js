@@ -15,6 +15,7 @@ export default class FixList extends Component {
   }
 
   componentDidMount () {
+    this.props.toggleToC();
     const type = this.props.fixType;
     if (type.endsWith('prefixes')) {
       getContent('prefixes')
@@ -25,6 +26,10 @@ export default class FixList extends Component {
     } else {
       throw new Error(console.log(`unexpected list type ${type}`));
     }
+  }
+
+  componentWillUnmount () {
+    this.props.toggleToC();
   }
 
   setContent (content) {
