@@ -44,8 +44,11 @@ export default withRouter(class NavPanel extends Component {
     if (nextExercise) {
       const currentUrl = this.props.match.url;
       const regex = /(\w+)$|\d$/;
-      console.log(currentUrl);
-      this.props.history.push(currentUrl.replace(regex, nextExercise));
+      if (group >= 0) {
+        this.props.history.push(currentUrl.replace(regex, nextExercise + 1));
+      } else {
+        this.props.history.push(currentUrl.replace(regex, nextExercise));
+      }
     } else {
       this.setState({ wordsetCompleted: true });
     }
