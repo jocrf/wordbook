@@ -7,7 +7,7 @@ wordbook/node_modules
 wordbook/coverage
 
 # production
-/build
+wordbook/build
 
 # misc
 .DS_Store
