@@ -1,0 +1,934 @@
+{
+    "instructions": "This multiple-choice quiz will determine which wordbook level is right for you. Each test word will be shown in BOLD CAPITAL letters in a phrase. From the five choices, select the one that comes closest in meaning to the meaning of the test word.",
+    "type": "placement",
+    "groups": [
+      {
+        "type": "mc-one",
+        "title": "Group One",
+        "questions": [
+          {
+            "prompt": "She ESTABLISHED the business.",
+            "answers": [
+              "announced",
+              "bought",
+              "sold",
+              "improved",
+              "set up"
+            ],
+            "correct": "set up"
+          },
+          {
+            "prompt": "Enjoying the EXPEDITION.",
+            "answers": [
+              "visit",
+              "display",
+              "journey",
+              "boat race",
+              "sights"
+            ],
+            "correct": "journey"
+          },
+          {
+            "prompt": "Best way to INSTRUCT.",
+            "answers": [
+              "forget",
+              "teach",
+              "learn",
+              "punish",
+              "build"
+            ],
+            "correct": "teach"
+          },
+          {
+            "prompt": "GNARLED branches.",
+            "answers": [
+              "old",
+              "decorated",
+              "smooth",
+              "diseased",
+              "twisted"
+            ],
+            "correct": "twisted"
+          },
+          {
+            "prompt": "Tried to FLATTER him.",
+            "answers": [
+              "insult",
+              "improve",
+              "overpraise",
+              "crush",
+              "agree with"
+            ],
+            "correct": "overpraise"
+          },
+          {
+            "prompt": "They were EXTERMINATED.",
+            "answers": [
+              "wiped out",
+              "stopped",
+              "beaten up",
+              "cured",
+              "thrown away"
+            ],
+            "correct": "wiped out"
+          },
+          {
+            "prompt": "Began to LAG.",
+            "answers": [
+              "sink",
+              "give up",
+              "breathe heavily",
+              "fall behind",
+              "catch up"
+            ],
+            "correct": "fall behind"
+          },
+          {
+            "prompt": "FATAL blows.",
+            "answers": [
+              "deadly",
+              "soft",
+              "natural",
+              "first",
+              "painful"
+            ],
+            "correct": "deadly"
+          },
+          {
+            "prompt": "Powerful HEX.",
+            "answers": [
+              "evil",
+              "prayer",
+              "tool",
+              "fear",
+              "curse"
+            ],
+            "correct": "curse"
+          },
+          {
+            "prompt": "Clever IMPOSTOR.",
+            "answers": [
+              "detective",
+              "customer",
+              "magician",
+              "faker",
+              "thief"
+            ],
+            "correct": "faker"
+          }
+        ]
+      },
+      {
+        "type": "mc-one",
+        "title": "Group Two",
+        "questions": [
+          {
+            "prompt": "Read the CONTRACT.",
+            "answers": [
+              "report",
+              "instructions",
+              "agreement",
+              "decision",
+              "statement"
+            ],
+            "correct": "agreement"
+          },
+          {
+            "prompt": "Watched them SLITHER.",
+            "answers": [
+              "fall",
+              "slide",
+              "run",
+              "jump",
+              "fly"
+            ],
+            "correct": "slide"
+          },
+          {
+            "prompt": "They were LEGISLATORS.",
+            "answers": [
+              "leaders",
+              "teachers",
+              "judges",
+              "lawyers",
+              "lawmakers"
+            ],
+            "correct": "lawmakers"
+          },
+          {
+            "prompt": "Running PARALLEL.",
+            "answers": [
+              "side by side",
+              "to a point",
+              "across",
+              "opposite",
+              "at angles"
+            ],
+            "correct": "side by side"
+          },
+          {
+            "prompt": "Completely LOGICAL.",
+            "answers": [
+              "reasonable",
+              "wonderful",
+              "serious",
+              "true",
+              "stupid"
+            ],
+            "correct": "reasonable"
+          },
+          {
+            "prompt": "FIENDISH plans.",
+            "answers": [
+              "childish",
+              "wonderful",
+              "poor",
+              "difficult",
+              "devilish"
+            ],
+            "correct": "devilish"
+          },
+          {
+            "prompt": "True MONARCH.",
+            "answers": [
+              "servant",
+              "owner",
+              "father",
+              "ruler",
+              "kingdom"
+            ],
+            "correct": "ruler"
+          },
+          {
+            "prompt": "I can't RECOLLECT.",
+            "answers": [
+              "win",
+              "remember",
+              "say",
+              "forget",
+              "refuse"
+            ],
+            "correct": "remember"
+          },
+          {
+            "prompt": "He SNICKERS.",
+            "answers": [
+              "groans",
+              "sighs",
+              "sneezes",
+              "shouts",
+              "laughs"
+            ],
+            "correct": "laughs"
+          },
+          {
+             "prompt": "What is your VERDICT?",
+             "answers": [
+               "belief",
+               "charge",
+               "decision",
+               "request",
+               "excuse"
+             ],
+             "correct": "decision"
+           }
+         ]
+      },
+      {
+        "type": "mc-one",
+        "title": "Group Three",
+        "questions": [
+          {
+            "prompt": "It was REVOLTING.",
+            "answers": [
+              "foolish",
+              "fascinating",
+              "forbidden",
+              "disgusting",
+              "frightening"
+            ],
+            "correct": "disgusting"
+          },
+          {
+            "prompt": "ENTRENCHED in their position.",
+            "answers": [
+              "fixed firmly",
+              "lowered",
+              "supported",
+              "expected",
+              "left"
+            ],
+            "correct": "fixed firmly"
+          },
+          {
+            "prompt": "IDLE machines.",
+            "answers": [
+              "slow",
+              "busy",
+              "perfect",
+              "poor",
+              "unused"
+            ],
+            "correct": "unused"
+          },
+          {
+            "prompt": "They ERECTED the statue.",
+            "answers": [
+              "moved",
+              "tore down",
+              "straightened",
+              "raised up",
+              "admired"
+            ],
+            "correct": "raised up"
+          },
+          {
+            "prompt": "Wanted to EVALUATE it.",
+            "answers": [
+              "buy",
+              "destroy",
+              "rate",
+              "improve",
+              "sell"
+            ],
+            "correct": "rate"
+          },
+          {
+            "prompt": "NEGLIGENT parents.",
+            "answers": [
+              "harsh",
+              "helpful",
+              "hardworking",
+              "easygoing",
+              "careless"
+            ],
+            "correct": "careless"
+          },
+          {
+            "prompt": "SERENE attitude.",
+            "answers": [
+              "eager",
+              "peaceful",
+              "disgusting",
+              "necessary",
+              "hopeful"
+            ],
+            "correct": "peaceful"
+          },
+          {
+            "prompt": "POTENTIAL candidates.",
+            "answers": [
+              "usual",
+              "hopeless",
+              "powerful",
+              "possible",
+              "young"
+            ],
+            "correct": "possible"
+          },
+          {
+            "prompt": "They OBSTRUCTED the corridor.",
+            "answers": [
+              "built",
+              "opened up",
+              "blocked",
+              "destroyed",
+              "stood in"
+            ],
+            "correct": "blocked"
+          },
+          {
+            "prompt": "RADIANT expressions.",
+            "answers": [
+              "sorrowful",
+              "glowing",
+              "unfriendly",
+              "confident",
+              "cheerful"
+            ],
+            "correct": "glowing"
+          }
+        ]
+      },
+      {
+        "type": "mc-one",
+        "title": "Group Four",
+        "questions": [
+          {
+            "prompt": "Knew the ARISTOCRACY.",
+            "answers": [
+              "church",
+              "nobility",
+              "magicians",
+              "peasants",
+              "businessman"
+            ],
+            "correct": "nobility"
+          },
+          {
+            "prompt": "Strange LUSTER.",
+            "answers": [
+              "appearance",
+              "shape",
+              "smoothness",
+              "warmth",
+              "brightness"
+            ],
+            "correct": "brightness"
+          },
+          {
+            "prompt": "Who will SUPERINTEND them?",
+            "answers": [
+              "manage",
+              "protect",
+              "expect",
+              "obey",
+              "improve"
+            ],
+            "correct": "manage"
+          },
+          {
+            "prompt": "Great ZEAL.",
+            "answers": [
+              "pity",
+              "confidence",
+              "eagerness",
+              "importance",
+              "hope"
+            ],
+            "correct": "eagerness"
+          },
+          {
+            "prompt": "SHIRK responsibility.",
+            "answers": [
+              "seek",
+              "laugh at",
+              "avoid",
+              "lose",
+              "hate"
+            ],
+            "correct": "avoid"
+          },
+          {
+            "prompt": "Unusual COMPASSION.",
+            "answers": [
+              "game",
+              "payment",
+              "pity",
+              "sickness",
+              "pride"
+            ],
+            "correct": "pity"
+          },
+          {
+            "prompt": "Inclined to RAMBLE.",
+            "answers": [
+              "return",
+              "shake",
+              "fall",
+              "rush",
+              "wander"
+            ],
+            "correct": "wander"
+          },
+          {
+            "prompt": "Surprised by the STENCH.",
+            "answers": [
+              "mess",
+              "stink",
+              "dust",
+              "noise",
+              "heat"
+            ],
+            "correct": "stink"
+          },
+          {
+            "prompt": "Great REMORSE.",
+            "answers": [
+              "ability",
+              "pleasure",
+              "hatred",
+              "regret",
+              "anger"
+            ],
+            "correct": "regret"
+          },
+          {
+            "prompt": " New FORMAT.",
+            "answers": [
+              "covering",
+              "arrangement",
+              "contents",
+              "idea",
+              "requirements"
+            ],
+            "correct": "arrangement"
+           }
+         ]
+      },
+      {
+        "type": "mc-one",
+        "title": "Group Five",
+        "questions": [
+          {
+            "prompt": "DICTATORIAL manner.",
+            "answers": [
+              "meek",
+              "convincing",
+              "royal",
+              "overbearing",
+              "businesslike"
+            ],
+            "correct": "overbearing"
+          },
+          {
+            "prompt": "We RELISH it.",
+            "answers": [
+              "dislike",
+              "need",
+              "study",
+              "approve of",
+              "enjoy"
+            ],
+            "correct": "enjoy"
+          },
+          {
+            "prompt": "DON the coat.",
+            "answers": [
+              "put on",
+              "finish",
+              "brush",
+              "take off",
+              "choose"
+            ],
+            "correct": "put on"
+          },
+          {
+            "prompt": "Typical LIVELIHOOD.",
+            "answers": [
+              "fast dance",
+              "hobby",
+              "criminal",
+              "investment",
+              "means of support"
+            ],
+            "correct": "means of support"
+          },
+          {
+            "prompt": "To ASSERT that it is true.",
+            "answers": [
+              "believe",
+              "pretend",
+              "hope",
+              "declare",
+              "deny"
+            ],
+            "correct": "declare"
+          },
+          {
+            "prompt": "INVOKE his mercy.",
+            "answers": [
+              "hope for",
+              "expect",
+              "call upon",
+              "accept",
+              "refuse"
+            ],
+            "correct": "call upon"
+          },
+          {
+            "prompt": "Discussed its UTILITY.",
+            "answers": [
+              "power",
+              "usefulness",
+              "importance",
+              "result",
+              "uselessness"
+            ],
+            "correct": "usefulness"
+          },
+          {
+            "prompt": "They PARTITIONED the area.",
+            "answers": [
+              "divided",
+              "sought",
+              "destroyed",
+              "united",
+              "surrounded"
+            ],
+            "correct": "divided"
+          },
+          {
+            "prompt": "GROPE for them.",
+            "answers": [
+              "go out",
+              "wish",
+              "ask angrily",
+              "feel blindly",
+              "wait"
+            ],
+            "correct": "feel blindly"
+          },
+          {
+            "prompt": "A common FALLACY.",
+            "answers": [
+              "false idea",
+              "understanding",
+              "lie",
+              "old saying",
+              "truth"
+            ],
+            "correct": "false idea"
+          }
+        ]
+      },
+      {
+        "type": "mc-one",
+        "title": "Group Six",
+        "questions": [
+          {
+            "prompt": "Remarkable AFFINITY.",
+            "answers": [
+              "concern",
+              "distrust",
+              "attraction",
+              "history",
+              "distance"
+            ],
+            "correct": "attraction"
+          },
+          {
+            "prompt": "Amazing VISTA.",
+            "answers": [
+              "area",
+              "future",
+              "view",
+              "times",
+              "idea"
+            ],
+            "correct": "view"
+          },
+          {
+            "prompt": "ASPIRE to be the leader.",
+            "answers": [
+              "demand",
+              "ask",
+              "long",
+              "claim",
+              "refuse"
+            ],
+            "correct": "long"
+          },
+          {
+            "prompt": "Completely ASSIMILATED.",
+            "answers": [
+              "rejected",
+              "hidden",
+              "absorbed",
+              "recognized",
+              "revealed"
+            ],
+            "correct": "absorbed"
+          },
+          {
+            "prompt": "The IMPETUS behind it.",
+            "answers": [
+              "rushing around",
+              "happiness",
+              "thought",
+              "moving force",
+              "indifference"
+            ],
+            "correct": "moving force"
+          },
+          {
+            "prompt": "ARDENT desire.",
+            "answers": [
+              "new",
+              "real",
+              "constant",
+              "burning",
+              "mild"
+            ],
+            "correct": "burning"
+          },
+          {
+            "prompt": "He will CONFOUND you.",
+            "answers": [
+              "anger",
+              "please",
+              "discover",
+              "impress",
+              "confuse"
+            ],
+            "correct": "confuse"
+          },
+          {
+            "prompt": "REVEL until dawn.",
+            "answers": [
+              "sleep",
+              "make merry",
+              "fight",
+              "sing",
+              "work hard"
+            ],
+            "correct": "make merry"
+          },
+          {
+            "prompt": "BESTIAL behavior.",
+            "answers": [
+              "criminal",
+              "excellent",
+              "animal-like",
+              "logical",
+              "unusual"
+            ],
+            "correct": "animal-like"
+          },
+          {
+            "prompt": "Forget about the ORDEAL.",
+            "answers": [
+              "triumph",
+              "contract",
+              "accident",
+              "severe trial",
+              "strange sight"
+            ],
+            "correct": "severe trial"
+          }
+        ]
+      },
+      {
+        "type": "mc-one",
+        "title": "Group Seven",
+        "questions": [
+          {
+            "prompt": "Why did they VILIFY him?",
+            "answers": [
+              "slander",
+              "appease",
+              "despise",
+              "terrify",
+              "cheat"
+            ],
+            "correct": "slander"
+          },
+          {
+            "prompt": "ABNEGATION is a way of life.",
+            "answers": [
+              "improvement",
+              "cancellation",
+              "self-denial",
+              "indulgence",
+              "purity"
+            ],
+            "correct": "self-denial"
+          },
+          {
+            "prompt": "AMENABLE people.",
+            "answers": [
+              "happy",
+              "submissive",
+              "irresponsible",
+              "holy",
+              "fragile"
+            ],
+            "correct": "submissive"
+          },
+          {
+            "prompt": "ASCETIC habits.",
+            "answers": [
+              "holy",
+              "self-indulgent",
+              "beautiful",
+              "austere",
+              "powerful"
+            ],
+            "correct": "austere"
+          },
+          {
+            "prompt": "BELLICOSE manner.",
+            "answers": [
+              "warlike",
+              "peaceful",
+              "comical",
+              "overweight",
+              "evil"
+            ],
+            "correct": "warlike"
+          },
+          {
+            "prompt": "She was BENIGN.",
+            "answers": [
+              "kindly",
+              "lovely",
+              "silent",
+              "malicious",
+              "unforgiving"
+            ],
+            "correct": "kindly"
+          },
+          {
+            "prompt": "They were CREDULOUS.",
+            "answers": [
+              "stupid",
+              "unknown",
+              "extravagant",
+              "suspicious",
+              "gullible"
+            ],
+            "correct": "gullible"
+          },
+          {
+            "prompt": "The PARADIGM was discussed.",
+            "answers": [
+              "story",
+              "model",
+              "lesson",
+              "copy",
+              "result"
+            ],
+            "correct": "model"
+          },
+          {
+            "prompt": "SEQUESTER the animal.",
+            "answers": [
+              "isolate",
+              "assemble",
+              "harass",
+              "protect",
+              "follow"
+            ],
+            "correct": "isolate"
+          },
+          {
+            "prompt": "A STODGY person.",
+            "answers": [
+              "lively",
+              "old",
+              "cruel",
+              "dull",
+              "clever"
+            ],
+            "correct": "dull"
+          }
+        ]
+      },
+      {
+        "type": "mc-one",
+        "title": "Group Eight",
+        "questions": [
+          {
+            "prompt": "EQUABLE behavior.",
+            "answers": [
+              "irascible",
+              "fair-minded",
+              "pliable",
+              "even-tempered",
+              "rational"
+          ],
+          "correct": "even-tempered"
+        },
+          {
+            "prompt": "APOCRYPHAL story.",
+            "answers": [
+              "mysterious",
+              "ancient",
+              "spurious",
+              "inspired",
+              "deceitful"
+          ],
+          "correct": "spurious"
+        },
+          {
+            "prompt": "Her REFULGENT smile.",
+            "answers": [
+              "disgusting",
+              "gleaming",
+              "swelling",
+              "echoing",
+              "exciting"
+          ],
+          "correct": "gleaming"
+        },
+          {
+            "prompt": "MERETRICIOUS appearance.",
+            "answers": [
+              "exemplary",
+              "elegant",
+              "tawdry",
+              "auspicious",
+              "fiendish"
+          ],
+          "correct": "tawdry"
+        },
+          {
+            "prompt": "Muttering an IMPRECATION.",
+            "answers": [
+              "praise",
+              "involvement",
+              "curse",
+              "accusation",
+              "shout"
+          ],
+          "correct": "curse"
+        },
+          {
+            "prompt": "To VITIATE.",
+            "answers": [
+              "spoil",
+              "cleanse",
+              "soften",
+              "remove",
+              "transform"
+          ],
+          "correct": "spoil"
+        },
+          {
+            "prompt": "PROTEAN force.",
+            "answers": [
+              "powerful",
+              "invisible",
+              "nautical",
+              "growing",
+              "changeable"
+          ],
+          "correct": "changeable"
+        },
+          {
+            "prompt": "A PERSPICUOUS meaning.",
+            "answers": [
+              "hidden",
+              "difficult",
+              "uncommon",
+              "famous",
+              "clear"
+          ],
+          "correct": "clear"
+        },
+          {
+            "prompt": "To OBVIATE the problem.",
+            "answers": [
+              "conceal",
+              "reveal",
+              "change",
+              "prevent",
+              "reduce"
+          ],
+          "correct": "prevent"
+        },
+          {
+            "prompt": "FULSOME speech.",
+            "answers": [
+              "pleasant",
+              "sickening",
+              "flowery",
+              "important",
+              "deceitful"
+            ],
+            "correct": "sickening"
+          }
+        ]
+      }
+    ]
+}

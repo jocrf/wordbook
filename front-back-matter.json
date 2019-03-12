@@ -1,0 +1,641 @@
+{
+  "general-info": {
+    "about": {
+      "title": "About the Foundation",
+      "text": [
+        "The Johnson O'Connor Research Foundation, Inc., is a nonprofit research organization devoted to the study of aptitudes and vocabulary and their use in school and work. Since 1922, hundreds of thousands of people have taken its program of aptitude measurements to learn more about themselves and to derive more satisfaction from their lives and work. The Foundation has testing centers in major cities across the nation."
+      ]
+    },
+    "how-to-use": {
+      "title": "How to Use Wordbook",
+      "text": [
+        "This tool has been created to help you increase your knowledge of words. It does this by discussing and testing you on words that are at a certain level of difficulty on our vocabulary scale. The first step is to take the placement test, which shows you where you score on this scale. If you study the words which are about at your level, they should be easier for you to learn than words that are much higher on the scale.",
+        "There are many different ways of using this tool. If you are studying vocabulary as part of a class, your teacher may tell you the best way he or she has found to use it. If you are studying on your own, here are some suggestions:",
+        "Start at the beginning of the level, even if it is below your vocabulary scale score. If you do not know some words below that level you certainly should learn them, and they should not be too difficult to learn.",
+        "The first step in studying a set of words is to take the Pretest. This will tell you what words you do not know. You should certainly study any words you get wrong on this Pretest. Since it is possible to get an item right by guessing, you should also make a note of any words you aren't quite sure of; study them even if you get them right.",
+        "Next, read over the discussion of each word you missed or weren't sure of. Memorize its meaning. Pay careful attention to the way the word is used in the sample sentences. Try to get a feel for the word. Use a dictionary (or two) in addition to reading the discussion. Try to understand the other forms which the word may take. (The lists of prefixes and suffixes that will be linked to can be very helpful for this.) When you think you know the words, go on to the exercises.",
+        "The exercises give you three ways of testing your understanding of the words. They do not have to be done in any particular order. If you make a mistake on any one of them, though, you should reread the definition for that word. After every three wordsets there is a review section for words in those sets. Any words you get wrong on this review section should, of course, be restudied.",
+        "You might want to work with the test words in other ways as well. Have someone read the words aloud to you; see if you can recognize them and write them correctly. Try to write a story or article that uses all of the words. See if you can write good definitions of the words without looking at the discussions or a dictionary.",
+        "Once you think you have learned the words in a set, go on to the next one. It is a good idea, though, to make a list of the words you have learned so that you can review them from time to time. As you go through the level you may find the words becoming slightly more difficult. This will be particularly true as you go beyond your score on the vocabulary scale. If you get to a point where you are missing about half the words in a wordset, you should slow down and spend more time with each word. It would also be a good idea to begin studying the words that you got right on the Pretest, in order to fix them more firmly in your mind.",
+        "By the time you finish a level we hope that all the words in it will be a part of your vocabulary. At that point you should be ready to learn more words that are harder than these. You should continue to review these words, however, until you know them so well that they are a natural part of your speech and writing."
+      ]
+    }
+  },
+  "instructions": {
+    "placement": {
+      "title": "Placement Quiz",
+      "overview": "The placement quiz will determine which of the eight Wordbook levels is the right one for your current level of knowledge. You'll answer a series of multiple-choice questions. After each set of ten questions, you'll be told whether you've advanced to the next level or if the current one is a good level for you to start learning.",
+      "instructions": "Each test word is printed in CAPITAL letters in a phrase. From the five choices given, select the one which comes nearest in meaning to the meaning of the test word."
+    },
+    "exercises": {
+      "0": {
+        "id": 0,
+        "title": "Pretest",
+        "instructions": "Each test word is printed in CAPITAL letters in a phrase. From the five choices given, select the one which comes nearest in meaning to the meaning of the test word."
+      },
+      "1": {
+        "id": 1,
+        "title": "Exercise 1",
+        "instructions": "Answer each question with a TRUE or FALSE.",
+        "example": "Is a speck of dust TINY?",
+        "example-answer": "FALSE"
+      },
+      "2": {
+        "id": 2,
+        "title": "Exercise 2",
+        "instructions": "Each sentence contains a test word in CAPITAL letters. Decide whether the test word is being used correctly (TRUE) or incorrectly (FALSE) in the sentence.",
+        "example": "After working hard all day Bill felt TINY and wanted to sleep.",
+        "example-answer": "FALSE"
+      },
+      "3": {
+        "id": 3,
+        "title": "Exercise 3",
+        "instructions": "Each test word is followed by three other words. Decide which of the three words is LEAST CLOSELY RELATED in its meaning to the meaning of the test word.",
+        "example": "TINY: small, short, angry",
+        "example-answer": "angry"
+      }
+    },
+    "review": {
+      "title": "Review Test",
+      "instructions": "Fill in each blank with the test word (or a form of the test word) which best fits the sentence."
+    }
+  },
+  "backmatter": {
+    "prefixes": {
+      "title": "Common Prefixes",
+      "text": [
+        "A prefix is one or more syllables placed at the beginning of a word that change or add to its meaning. Only some of the more common prefixes have been listed here. Note that many prefixes have more than one spelling. Also note that prefixes may have more than one meaning. Only the most important ones are given here; check your dictionary for other meanings."
+      ],
+      "list": [
+        {
+          "id": "A",
+          "title": "A-, also AN­",
+          "meaning": "not; without",
+          "examples": [
+            {
+              "word": "ANonymous",
+              "def": "without a name"
+            }
+          ]
+        },
+        {
+          "id": "AB",
+          "title": "AB-, also ABS-",
+          "meaning": "away from",
+          "examples": [
+            {
+              "word": "ABsent",
+              "def": "away, not present"
+            }
+          ]
+        },
+        {
+          "id": "AD",
+          "title": "AD-, also A followed by two consonants",
+          "meaning": "to; towards",
+          "examples": [
+            {
+              "word": "ADhere",
+              "def": "to stick to"
+            },
+            {
+              "word": "Attract",
+              "def": "to pull toward"
+            }
+          ]
+        },
+        {
+          "id": "ANTI",
+          "title": "ANTI-",
+          "meaning": "against",
+          "examples": [
+            {
+              "word": "ANTlslavery",
+              "def": "against slavery"
+            }
+          ]
+        },
+        {
+          "id": "CON",
+          "title": "CON-, also COM-, COL-, CO-, COR-",
+          "meaning": "with; together",
+          "examples": [
+            {
+              "word": "CONnect",
+              "def": "to join together"
+            },
+            {
+              "word": "COMbine",
+              "def": "to mix together"
+            }
+          ]
+        },
+        {
+          "id": "DE",
+          "title": "DE-",
+          "meaning": "down from; away from; not",
+          "examples": [
+            {
+              "word": "DEpart",
+              "def": "to go away"
+            },
+            {
+              "word": "DEpress",
+              "def": "to press down on, make sad"
+            }
+          ]
+        },
+        {
+          "id": "DIS",
+          "title": "DIS-, also DI-",
+          "meaning": "apart; away; not",
+          "examples": [
+            {
+              "word": "DISmiss",
+              "def": "to send away"
+            },
+            {
+              "word": "DIShonest",
+              "def": "not honest"
+            }
+          ]
+        },
+        {
+          "id": "EX",
+          "title": "EX-, also E-",
+          "meaning": "out of; from",
+          "examples": [
+            {
+              "word": "EXclaim",
+              "def": "to shout out"
+            },
+            {
+              "word": "Emerge",
+              "def": "to come out"
+            }
+          ]
+        },
+        {
+          "id": "IN1",
+          "title": "IN-, also IL-, IM-, IR-",
+          "meaning": "in; into",
+          "examples": [
+            {
+              "word": "INsert",
+              "def": "to put in"
+            },
+            {
+              "word": "IMport",
+              "def": "to bring into (a country)"
+            }
+          ]
+        },
+        {
+          "id": "IN2",
+          "title": "IN-, also IL-, IM-, IR-",
+          "meaning": "not",
+          "examples": [
+            {
+              "word": "INformal",
+              "def": "not formal"
+            },
+            {
+              "word": "ILlegal",
+              "def": "not legal"
+            }
+          ]
+        },
+        {
+          "id": "INTER",
+          "title": "INTER-",
+          "meaning": "between; among",
+          "examples": [
+            {
+              "word": "INTERrupt",
+              "def": "to break into the middle of"
+            },
+            {
+              "word": "INTERnational",
+              "def": "among nations"
+            }
+          ]
+        },
+        {
+          "id": "MIS",
+          "title": "MIS-",
+          "meaning": "badly; wrong; not",
+          "examples": [
+            {
+              "word": "MIStreat",
+              "def": "to treat badly"
+            },
+            {
+              "word": "MIStake",
+              "def": "a wrong answer"
+            }
+          ]
+        },
+        {
+          "id": "NON",
+          "title": "NON-",
+          "meaning": "not",
+          "examples": [
+            {
+              "word": "NONbeliever",
+              "def": "not a believer"
+            },
+            {
+              "word": "NON stop",
+              "def": "not stopping"
+            }
+          ]
+        },
+        {
+          "id": "PRE",
+          "title": "PRE-",
+          "meaning": "before; early; in advance",
+          "examples": [
+            {
+              "word": "PREpare",
+              "def": "to get ready beforehand"
+            },
+            {
+              "word": "PREhistoric",
+              "def": "before history"
+            }
+          ]
+        },
+        {
+          "id": "PRO",
+          "title": "PRO-",
+          "meaning": "in front of; forward; in favor of",
+          "examples": [
+            {
+              "word": "PROceed",
+              "def": "to go forward"
+            },
+            {
+              "word": "PROminent",
+              "def": "standing out; easily seen"
+            }
+          ]
+        },
+        {
+          "id": "RE",
+          "title": "RE-",
+          "meaning": "back; again",
+          "examples": [
+            {
+              "word": "REfund",
+              "def": "to pay back"
+            },
+            {
+              "word": "REsume",
+              "def": "to begin again"
+            }
+          ]
+        },
+        {
+          "id": "SUB",
+          "title": "SUB-",
+          "meaning": "under; below",
+          "examples": [
+            {
+              "word": "SUBmarine",
+              "def": "a ship that can travel under water"
+            }
+          ]
+        },
+        {
+          "id": "SUPER",
+          "title": "SUPER-",
+          "meaning": "over; above; beyond",
+          "examples": [
+            {
+              "word": "SUPERvise",
+              "def": "to watch over"
+            },
+            {
+              "word": "SUPERhuman",
+              "def": "beyond human strength or ability"
+            }
+          ]
+        },
+        {
+          "id": "TRANS",
+          "title": "TRANS-, also TRA-",
+          "meaning": "across; beyond; through",
+          "examples": [
+            {
+              "word": "TRANSparent",
+              "def": "able to be seen through"
+            },
+            {
+              "word": "TRANSoceanic",
+              "def": "crossing the ocean; beyond the ocean"
+            }
+          ]
+        },
+        {
+          "id": "UN",
+          "title": "UN-",
+          "meaning": "not; opposite of",
+          "examples": [
+            {
+              "word": "UNhappy",
+              "def": "not happy"
+            },
+            {
+              "word": "UNlock",
+              "def": "to do the opposite of locking"
+            }
+          ]
+        }
+      ]
+    },
+    "suffixes": {
+      "title": "Common Suffixes",
+      "text": [
+        "A suffix is one or more syllables added to the end of a word to change or add to its meaning. As with the prefix list, only the more common ones have been listed here. Note that an important job of a suffix--and sometimes its only job--is to show the part of speech of the word to which it is attached."
+      ],
+      "list": [
+        {
+          "id": "ABLE",
+          "title": "-ABLE, also -IBLE",
+          "meaning": "able to; tending to; having",
+          "examples": [
+            {
+              "word": "breakABLE",
+              "def": "able to be broken"
+            },
+            {
+              "word": "valuABLE",
+              "def": "having value"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "AL",
+          "title": "-AL",
+          "meaning": "connected with; like",
+          "examples": [
+            {
+              "word": "originAL",
+              "def": "connected with the beginning"
+            },
+            {
+              "word": "monumentAL",
+              "def": "like a monument"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "ANT",
+          "title": "-ANT, also -ENT",
+          "meaning": "doing; being",
+          "examples": [
+            {
+              "word": "pleasANT",
+              "def": "being pleasing"
+            },
+            {
+              "word": "differENT",
+              "def": "not being the same"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "ATE1",
+          "title": "-ATE",
+          "meaning": "to make; to act; to cause",
+          "examples": [
+            {
+              "word": "abbreviATE",
+              "def": "to make shorter"
+            },
+            {
+              "word": "activATE",
+              "def": "to cause to become active"
+            }
+          ],
+          "pos": "verb"
+        },
+        {
+          "id": "ATE2",
+          "title": "-ATE",
+          "meaning": "being",
+          "examples": [
+            {
+              "word": "adequATE",
+              "def": "being enough"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "ER",
+          "title": "-ER, also -OR",
+          "meaning": "one that is; one that does",
+          "examples": [
+            {
+              "word": "foreignER",
+              "def": "one who is foreign"
+            },
+            {
+              "word": "actOR",
+              "def": "one who acts"
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "id": "FUL",
+          "title": "-FUL",
+          "meaning": "full of; able to",
+          "examples": [
+            {
+              "word": "beautiFUL",
+              "def": "full of beauty"
+            },
+            {
+              "word": "harmFUL",
+              "def": "able to harm"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "FY",
+          "title": "-FY, also -IFY",
+          "meaning": "to make; to cause; to be",
+          "examples": [
+            {
+              "word": "simplIFY",
+              "def": "to make simple"
+            },
+            {
+              "word": "liqueFY",
+              "def": "to make liquid"
+            }
+          ],
+          "pos": "verb"
+        },
+        {
+          "id": "IC",
+          "title": "-IC, also -ICAL",
+          "meaning": "like; being",
+          "examples": [
+            {
+              "word": "metallIC",
+              "def": "being metal"
+            },
+            {
+              "word": "fanatICAL",
+              "def": "like a fanatic"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "ISH",
+          "title": "-ISH",
+          "meaning": "like; somewhat",
+          "examples": [
+            {
+              "word": "childISH",
+              "def": "like a child"
+            },
+            {
+              "word": "reddISH",
+              "def": "somewhat red"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "ITY",
+          "title": "-ITY",
+          "meaning": "a state; condition",
+          "examples": [
+            {
+              "word": "insanITY",
+              "def": "the state of being insane"
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "id": "IVE",
+          "title": "-IVE",
+          "meaning": "connected with; having a tendency toward",
+          "examples": [
+            {
+              "word": "actIVE",
+              "def": "tending to be full of action"
+            },
+            {
+              "word": "festIVE",
+              "def": "like a festival"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "LESS",
+          "title": "-LESS",
+          "meaning": "without; unable to be done",
+          "examples": [
+            {
+              "word": "fatherLESS",
+              "def": "without a father"
+            },
+            {
+              "word": "countLESS",
+              "def": "unable to be counted"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "MENT",
+          "title": "-MENT",
+          "meaning": "a state; condition; result",
+          "examples": [
+            {
+              "word": "amazeMENT",
+              "def": "the state of being amazed"
+            },
+            {
+              "word": "attachMENT",
+              "def": "the result of attaching"
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "id": "NESS",
+          "title": "-NESS",
+          "meaning": "a quality; state",
+          "examples": [
+            {
+              "word": "darkNESS",
+              "def": "the state of being dark"
+            },
+            {
+              "word": "goodNESS",
+              "def": "the quality of being good"
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "id": "OUS",
+          "title": "-OUS",
+          "meaning": "full of; having; like",
+          "examples": [
+            {
+              "word": "courageOUS",
+              "def": "having courage"
+            },
+            {
+              "word": "joyOUS",
+              "def": "full of joy"
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "id": "TUDE",
+          "title": "-TUDE",
+          "meaning": "a state; condition",
+          "examples": [
+            {
+              "word": "gratiTUDE",
+              "def": "the state of being thankful"
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "id": "Y",
+          "title": "-Y",
+          "meaning": "full of; having; inclined to",
+          "examples": [
+            {
+              "word": "greedY",
+              "def": "full of greed"
+            },
+            {
+              "word": "dreamY",
+              "def": "inclined to dream"
+            }
+          ],
+          "pos": "adjective"
+        }
+      ]
+    }
+  }
+}
