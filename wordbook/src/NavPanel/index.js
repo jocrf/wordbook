@@ -45,7 +45,7 @@ export default withRouter(class NavPanel extends Component {
       const currentUrl = this.props.match.url;
       const regex = /(\w+)$|\d$/;
       console.log(currentUrl);
-      this.props.history.push(currentUrl.replace(regex, nextExercise + 1));
+      this.props.history.push(currentUrl.replace(regex, nextExercise));
     } else {
       this.setState({ wordsetCompleted: true });
     }
@@ -122,7 +122,7 @@ export default withRouter(class NavPanel extends Component {
             {
               this.props.quizCompleted && !this.state.wordsetCompleted && !this.props.review &&
               <div>
-                <p className='card-text'>You just completed the {exercise} exercise of the {wordset} wordset of Level {level}, Section {section}.</p>
+                <p className='card-text'>You just completed {+exercise === 0 ? 'the Pretest' : 'Exercise ' + exercise} of Wordset {wordset} of Level {level}, Section {section}.</p>
                 {/* TODO add report of quiz results */}
                 <p className='card-text'>Ready to keep learning?</p>
                 <button className='btn btn-primary'onClick={this.incrementExercise}>Next</button>
