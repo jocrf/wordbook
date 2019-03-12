@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/wordbook/static/js/runtime~main.ea05a217.js"
   },
   {
-    "revision": "8589efe750b61ee8db7b",
-    "url": "/wordbook/static/js/main.8589efe7.chunk.js"
+    "revision": "7d05839164d0580a8f8d",
+    "url": "/wordbook/static/js/main.7d058391.chunk.js"
   },
   {
     "revision": "67f8960062070c5cb6c7",
     "url": "/wordbook/static/js/2.67f89600.chunk.js"
   },
   {
-    "revision": "8589efe750b61ee8db7b",
+    "revision": "7d05839164d0580a8f8d",
     "url": "/wordbook/static/css/main.d53589db.chunk.css"
   },
   {
-    "revision": "d4948042cd0e6eb8555186f6c6f801b0",
+    "revision": "9222baea9e08e6f190da4401eaaa2460",
     "url": "/wordbook/index.html"
   }
 ];
