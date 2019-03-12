@@ -74,7 +74,7 @@ export default withRouter(class NavPanel extends Component {
             }
             {/* before starting next placement level */}
             {
-              !this.props.quizCompleted && +group > 0 &&
+              !this.props.quizCompleted && +group > 0 && +group < 8 &&
               <React.Fragment>
                 <p className='card-text'>Ready to start the next level?</p>
                 <button className='btn btn-primary' onClick={this.props.toggleQuizState}>Ready</button>
@@ -88,12 +88,12 @@ export default withRouter(class NavPanel extends Component {
                 <button className='btn btn-primary' onClick={this.incrementExercise}>Continue</button>
               </React.Fragment>
             }
-            {/* end of placement quiz / outro */}
+            {/* end of placement quiz / outro - 8 is an exception because it's the max, and we don't want the group to be displayed as level 9 */}
             {
-              this.state.wordsetCompleted &&
+              (this.state.wordsetCompleted || +group === 8) &&
               <React.Fragment>
-                <p className='card-text'>Level {+group + 1} is the correct difficulty level for you! Are you ready to start building your vocabulary?</p>
-                <NavLink className='btn btn-primary' to={`/learning/level/${+group + 1}/section/1/wordset/1/exercise/0`}>Begin learning</NavLink>
+                <p className='card-text'>Level {+group === 8 ? +group : +group + 1} is the correct difficulty level for you! Are you ready to start building your vocabulary?</p>
+                <NavLink className='btn btn-primary' to={`/learning/level/${+group === 8 ? +group : +group + 1}/section/1/wordset/1/exercise/0`}>Begin learning</NavLink>
               </React.Fragment>
             }
           </React.Fragment>
