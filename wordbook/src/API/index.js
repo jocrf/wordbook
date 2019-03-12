@@ -20,16 +20,16 @@ export const getPlacement = (level) => {
 export const getFile = (name) => {
   // TODO: if these files remain in the public folder, substitute '%PUBLIC_URL%' for first part of URL to build correctly, BUT the files won't be minified or post-processed if they stay here
   const fileNames = {
-    'frontBackMatter': '%PUBLIC_URL%/front-back-matter.json',
-    0: '%PUBLIC_URL%/placementdata.json',
-    1: '%PUBLIC_URL%/new-level-1-trial.json',
-    2: '%PUBLIC_URL%/new-level-2-trial.json',
-    3: '%PUBLIC_URL%/new-level-3-trial.json',
-    4: '%PUBLIC_URL%/new-level-4-trial.json',
-    5: '%PUBLIC_URL%/new-level-5-trial.json',
-    6: '%PUBLIC_URL%/new-level-6-trial.json',
-    7: '%PUBLIC_URL%/new-level-7-trial.json',
-    8: '%PUBLIC_URL%/new-level-8-trial.json'
+    'frontBackMatter': 'https://amyfrieson.com/wordbook/front-back-matter.json',
+    0: 'https://amyfrieson.com/wordbook/placementdata.json',
+    1: 'https://amyfrieson.com/wordbook/new-level-1-trial.json',
+    2: 'https://amyfrieson.com/wordbook/new-level-2-trial.json',
+    3: 'https://amyfrieson.com/wordbook/new-level-3-trial.json',
+    4: 'https://amyfrieson.com/wordbook/new-level-4-trial.json',
+    5: 'https://amyfrieson.com/wordbook/new-level-5-trial.json',
+    6: 'https://amyfrieson.com/wordbook/new-level-6-trial.json',
+    7: 'https://amyfrieson.com/wordbook/new-level-7-trial.json',
+    8: 'https://amyfrieson.com/wordbook/new-level-8-trial.json'
   };
   return fileNames[name];
 };
