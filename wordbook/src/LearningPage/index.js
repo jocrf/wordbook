@@ -3,6 +3,7 @@ import { Route } from 'react-router-dom';
 import ExercisePage from '../ExercisePage';
 import TableOfContents from '../TableOfContents';
 import FixList from '../FixList';
+import { urlPrefix } from '../API';
 
 export default class LearningPage extends Component {
   constructor (props) {
@@ -56,7 +57,7 @@ export default class LearningPage extends Component {
         <footer className='d-flex justify-content-end align-items-end mt-3'>
           <p className='pb-0 pr-3 text-muted footer-text'>Phonetics and audio provided by Merriam-Webster Inc.</p>
           <div className='mw-logo'>
-            <img src='http://localhost:3000/MWLogo_LightBG.png' alt='Merriam-Webster logo' />
+            <img src={`${urlPrefix}/MWLogo_LightBG.png`} alt='Merriam-Webster logo' />
           </div>
         </footer>
       </React.Fragment>
