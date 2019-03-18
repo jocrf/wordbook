@@ -15,16 +15,13 @@ export default withRouter(class NavPanel extends Component {
     let nextExercise = null;
     // group for placement, exercise for LearningPage
     const { exercise, group } = this.props;
-    console.log(`group is ${group}, exercise is ${exercise}`);
     if (group >= 0) {
-      console.log('we have a group');
       if (group < 8 && this.props.passed) { // hard-coded based on placement data
         nextExercise = +group + 1;
       } else {
         nextExercise = null;
       }
     } else {
-      console.log('before exercise switch');
       switch (exercise) {
         case '1':
         case '2':
@@ -40,7 +37,6 @@ export default withRouter(class NavPanel extends Component {
           throw new Error(console.log(`unexpected exercise type: ${exercise}`));
       }
     }
-    console.log(`nextExercise is ${nextExercise}`);
     if (nextExercise) {
       const currentUrl = this.props.match.url;
       const regex = /(\w+)$|\d$/;
@@ -57,7 +53,6 @@ export default withRouter(class NavPanel extends Component {
   render () {
     // TODO: add type checker - if type 'review', say 'x', if type 'placement', say 'y', etc
     const { level, section, wordset, exercise, group, instructions } = this.props;
-    console.log(`render: group is ${group}, exercise is ${exercise}`);
     return (
       <React.Fragment>
         {/* for placement quiz */}

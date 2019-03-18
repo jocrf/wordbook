@@ -1,4 +1,4 @@
-export const urlPrefix = 'https://amyfrieson.com/wordbook';
+export const urlPrefix = 'http://localhost:3000';
 
 // type === 'prefixes' or 'suffixes'
 export const getContent = (type) => {
@@ -24,7 +24,7 @@ export const getFile = (name) => {
   const fileNames = {
     'frontBackMatter': `${urlPrefix}/front-back-matter.json`,
     0: `${urlPrefix}/placementdata.json`,
-    1: `${urlPrefix}/new-level-1-trial.json`,
+    1: `${urlPrefix}/level-1`,
     2: `${urlPrefix}/new-level-2-trial.json`,
     3: `${urlPrefix}/new-level-3-trial.json`,
     4: `${urlPrefix}/new-level-4-trial.json`,
@@ -38,22 +38,22 @@ export const getFile = (name) => {
 
 export const getExercise = (level, section, wordset, exercise, review) => {
   // correct for zero-indexing
-  const fileName = getFile(level);
+  const folderName = getFile(level);
   let chapterData = {};
+  let fileName = folderName;
+  if (review) {
+    fileName += `/level-${level}-review-${review}.json`;
+  } else {
+    fileName += `/level-${level}-wordset-${wordset}.json`;
+  }
   return fetch(fileName)
     .then(response => response.json())
     .then(response => {
-      console.log(response);
-      let selectedSection = response.sections[section - 1];
       if (review) {
-        // return review test early
-        chapterData.exercise = selectedSection.reviewTest;
-      }
-      for (let key in selectedSection.wordsets) {
-        if (selectedSection.wordsets[key].id === wordset) {
-          chapterData.exercise = selectedSection.wordsets[key].exercises[exercise];
-          chapterData.definitions = selectedSection.wordsets[key].definitions;
-        }
+        chapterData.exercise = response;
+      } else {
+        chapterData.definitions = response.definitions;
+        chapterData.exercise = response.exercises[exercise];
       }
       return chapterData;
     });
