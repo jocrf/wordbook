@@ -3,7 +3,7 @@ import { Route } from 'react-router-dom';
 import ExercisePage from '../ExercisePage';
 import TableOfContents from '../TableOfContents';
 import FixList from '../FixList';
-import { urlPrefix } from '../API';
+import { urlPrefix, storageAvailable } from '../API';
 
 export default class LearningPage extends Component {
   constructor (props) {
@@ -12,6 +12,13 @@ export default class LearningPage extends Component {
     this.state = {
       showToC: true
     };
+  }
+
+  componentDidMount () {
+    if (storageAvailable('localStorage')) {
+      // pop up a modal to ask if we can use it
+      console.log('we have storage!');
+    }
   }
 
   toggleToC () {
