@@ -1,0 +1,617 @@
+{
+  "title": "4.3",
+  "definitions": {
+    "APPRENTICE": {
+      "word": "APPRENTICE",
+      "phonetic": "(ÔøΩpren'-tis)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a beginner, learner </p><p>An APPRENTICE is a person who learns a trade or skill by working with someone who already knows it. Thus, an APPRENTICE is a <i class=“def-ital\">learner</i> or <i class=“def-ital\">beginner</i>. </p><p>“Before becoming a good carpenter or plumber, you must spend several years as an APPRENTICE in order to learn the work.” </p><p>“Although she was just an APPRENTICE, she was quite skillful at doing electrical repairs.” </p><p>Other forms of the word: APPRENTICESHIP, n.</p>"
+    },
+    "NOMAD": {
+      "word": "NOMAD",
+      "phonetic": "(nO'-mad)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">wanderer, roamer </p><p>A NOMAD is a person who moves around constantly without settling in one spot. Usually the word is used in connection with tribes or groups of people who move about in search of food or grazing lands. </p><p>“The Bedouins of North Africa are NOMADS who wander from place to place with their camels, sheep, and goats.” </p><p>“After they invaded the city, the NOMADS settled down to a different way of life.” </p><p>NOMAD is also used about anyone who travels about constantly. </p><p>“The workers lived like NOMADS, going anywhere in the country their company needed them.” </p><p>Other forms of the word: NOMADIC, adj.</p>"
+    },
+    "REPRESS": {
+      "word": "REPRESS",
+      "phonetic": "(ri-pres')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to hold back, keep down, control, subdue </p><p> To REPRESS something is to hold it back, to keep it under control. The word is used especially about feelings or actions that are controlled by an effort of the will. </p><p>“She REPRESSED a desire to speak up.” </p><p>“He REPRESSED a smile as he listened to the boy recite the poem.” </p><p>In a stronger sense, REPRESS can mean “to put down by force,” to <i class=“def-ital\">subdue</i>. </p><p>“The army was sent to REPRESS all rioting in the area.” </p><p>Usually, however, this sense is better expressed by the word <i class=“def-ital\">suppress</i>. </p><p>Other forms of the word: REPRESSION, n. REPRESSIVE, adj.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "ILLUMINATE": {
+      "word": "ILLUMINATE",
+      "phonetic": "(i-lU'-mÔøΩnAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to brighten, light up; to make clear </p><p> The root <i class=“def-ital\">lumin</i> in the word ILLUMINATE means <i class=“def-ital\">light</i>; it is also found in the word <i class=“def-ital\">luminous</i>. To ILLUMINATE means to <i class=“def-ital\">put light on</i> or <i class=“def-ital\">in</i> an object or space. </p><p>“The ballroom was ILLUMINATED by hundreds of glowing candles.” </p><p>“She decided to ILLUMINATE her paintings with spotlights that were hung from the ceiling.” </p><p>ILLUMINATE can also mean to <i class=“def-ital\">make clear</i> or <i class=“def-ital\">help explain<i class=“def-ital\">-that is, to <i class=“def-ital\">shed light upon</i> an idea or subject. </p><p>“The English professor had a remarkable way of ILLUMINATING difficult passages in the book so that we could easily understand what we had read.” </p><p>“The meaning of a word can be ILLUMINATED by using the word in several different sentences.” </p><p>Other forms of the word: ILLUMINATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-<i class=“def-ital\">1 under Prefixes and <i class=“def-ital\">-ate<i class=“def-ital\">1 under Suffixes."
+      ]
+    },
+    "PUNCTUAL": {
+      "word": "PUNCTUAL",
+      "phonetic": "(pungk'-chU-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">prompt, on time </p><p>PUNCTUAL comes from the Latin word for <i class=“def-ital\">point</i> or <i class=“def-ital\">dot</i>. A person or thing that is PUNCTUAL arrives right on the dot, is not late or tardy. </p><p>“Because John is always PUNCTUAL, he spends a lot of time waiting for others to show up.” </p><p>“I always try to be PUNCTUAL, but sometimes I’m late anyway.” </p><p>“The class starts PUNCTUALLY at nine o’clock.” </p><p>Other forms of the word: PUNCTUALITY, n.</p>"
+    },
+    "SURVEILLANCE": {
+      "word": "SURVEILLANCE",
+      "phonetic": "(sÔøΩ-vAl'-ÔøΩns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">close watch, observation </p><p>SURVEILLANCE is a close watch that is maintained on a person who is suspected of being involved in a crime, or who needs to be watched for some other reason. </p><p>“The man who was suspected of being a dope peddler was kept under SURVEILLANCE by the police.” </p><p>“The government kept the foreign agent under SURVEILLANCE while he was in the country.” </p><p>“The staff had to maintain a strict SURVEILLANCE of all the patients in the mental hospital.”</p>"
+    },
+    "FABRICATE": {
+      "word": "FABRICATE",
+      "phonetic": "(fab'-rÔøΩkAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make up, invent, create </p><p>The basic meaning of FABRIC is “something that is put together,” a product of building or construction. To FABRICATE something is to make or produce it.  </p><p>“They FABRICATED the bridge using whatever material was on hand.” </p><p>When used about what people say, the word means to <i class=“def-ital\">make up</i> something false, in order to deceive. </p><p>“He FABRICATED the account of his travels in Europe.” </p><p>“The teacher thought his excuse was completely FABRICATED and she didn’t believe a word of it.” </p><p>In this sense, the word FABRICATION means “made up,” a <i class=“def-ital\">lie</i>. </p><p>“His story about winning the lottery was a FABRICATION.” </p><p>Other forms of the word: FABRIC, n. FABRICATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ate<i class=“def-ital\">1 under Suffixes."
+      ]
+    },
+    "FELON": {
+      "word": "FELON",
+      "phonetic": "(fel'-ÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a criminal </p><p>A FELON is a person who commits a serious crime, like murder or armed robbery, for which he could be sent to prison for a long time. Such a crime is called a FELONY. A FELONY is contrasted in law with a <i class=“def-ital\">misdemeanor</i>, which is a less serious offense (like speeding in a car) for which you usually don’t get sent to prison. </p><p>“The convicted FELON found it difficult to get a job when he got out of prison.” </p><p>“The judge made the FELONS pay back the people they had robbed.” </p><p>Other forms of the word: FELONIOUS, adj. FELONY, n.</p>"
+    },
+    "PERPETUAL": {
+      "word": "PERPETUAL",
+      "phonetic": "(pÔøΩr-pech'-U-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">endless, everlasting, eternal; constant, continual </p><p>PERPETUAL means <i class=“def-ital\">lasting forever</i>. </p><p>“He hoped for PERPETUAL happiness in heaven after he died.” </p><p>“The old man longed for a drug that would give him PERPETUAL youth.” </p><p>In a similar sense, PERPETUAL also means <i class=“def-ital\">constant</i>, <i class=“def-ital\">not stopping</i>. </p><p>“They are PERPETUALLY fighting. They never get along.” </p><p>“It’s a PERPETUAL problem. We may never solve it.” </p><p>To PERPETUATE something is to make it PERPETUAL, to keep it from being ended or forgotten. </p><p>“They built a monument to PERPETUATE the memory of his great deeds.” </p><p>Other forms of the word: PERPETUATE, v. PERPETUITY, n.</p>"
+    },
+    "REVOLT": {
+      "word": "REVOLT",
+      "phonetic": "(ri-vOlt')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a rebellion, uprising </p><p>A REVOLT is an uprising against the government. </p><p>“The people rose in REVOLT against the cruel king.” </p><p>“The soldiers quickly put down the REVOLT.” </p><p>A REVOLT can also be any kind of refusal to accept authority. </p><p>“The young people were in REVOLT against the beliefs of their parents.” </p><p>REVOLT is also a verb. </p><p>“They REVOLTED against their rulers.” </p><p>Sometimes, the verb can mean to <i class=“def-ital\">disgust</i>. </p><p>“The filth in the house REVOLTED him.” </p><p><i class=“def-ital\">Trouble</i> is the most commonly chosen incorrect answer in the Pretest. REVOLT, however, is much more specific than that. A REVOLT is a <i class=“def-ital\">rebellion</i>.</p>"
+    },
+    "METROPOLIS": {
+      "word": "METROPOLIS",
+      "phonetic": "(mÔøΩtrop'-ÔøΩlÔøΩs)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a large city </p><p>A METROPOLIS is a large or great city. The word is formed from two Greek words meaning <i class=“def-ital\">mother</i> and <i class=“def-ital\">city</i>. Originally a METROPOLIS was a “mother-city\"-one which sent people to start colonies or new cities. Now the word is used for any large, busy city. </p><p>“The explorers discovered a thriving METROPOLIS in the middle of the jungle.” </p><p>“New York has been a METROPOLIS for over a hundred years.” </p><p>Other forms of the word: METROPOLITAN, adj.</p>"
+    },
+    "NOOK": {
+      "word": "NOOK",
+      "phonetic": "(nuk)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a corner or recess, an out-of-the-way place </p><p>A NOOK is a corner or recess in a house or a room, a small alcove. NOOK is also used for any out-of-the-way spot. </p><p>“They found a quiet little NOOK in the crowded room where they could talk.” </p><p>“He sat in a shady NOOK at the far end of the garden.” </p><p>“She sat in her usual NOOK by the fireplace.”</p>"
+    },
+    "REFRAIN": {
+      "word": "REFRAIN",
+      "phonetic": "(ri-frAn')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to hold back, abstain </p><p>TO REFRAIN from something is to keep from doing it, to <i class=“def-ital\">hold back</i>.  </p><p>“Try to REFRAIN from interrupting me while I’m speaking.” </p><p>“The neighbors asked him to REFRAIN from playing the drums after midnight.” </p><p>“Sue REFRAINED from shouting out the window at him despite the noise he was making.” </p><p>Usage: REFRAIN is usually followed by <i class=“def-ital\">from</i>.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "DEVASTATE": {
+      "word": "DEVASTATE",
+      "phonetic": "(dev'-ÔøΩstAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to ruin, lay waste to, ravage; to overwhelm </p><p>To DEVASTATE something is to ruin it completely. </p><p>“The enemy’s bombs DEVASTATED the city.” </p><p>“The region was DEVASTATED by the hurricane.” </p><p>In a slightly different use, DEVASTATE can mean to <i class=“def-ital\">overwhelm</i>. </p><p>“She was completely DEVASTATED by the news of her husband’s death.” </p><p>“The book gave a DEVASTATING picture of the evils of war.” </p><p>DEVASTATE is often confused with <i class=“def-ital\">attack</i>. An <i class=“def-ital\">attack</i> may cause a place to be DEVASTATED, but the words do not have the same meaning. </p><p>Other forms of the word: DEVASTATION, n.</p>"
+    },
+    "RECEDE": {
+      "word": "RECEDE",
+      "phonetic": "(ri-sEd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go back, become more distant; decline </p><p> To RECEDE is to <i class=“def-ital\">go back</i> or <i class=“def-ital\">move away</i>. Usually this “going back” is slow or gradual. </p><p>“The land slowly RECEDED from sight as we set out to sea.” </p><p>“The flood waters began to RECEDE when the rain stopped.” </p><p>Sometimes RECEDE has the meaning “to fall to a lower level,” to <i class=“def-ital\">decline</i>. </p><p>“Public support of the president RECEDED as he continued to support a tax increase.” </p><p>“His financial worries began to RECEDE as his salary increased.” </p><p>Other forms of the word: RECESSION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    }
+  },
+  "id": "3",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "They were all APPRENTICES.",
+          "answers": [
+            "carpenters",
+            "experts",
+            "printers",
+            "beginners",
+            "servants"
+          ],
+          "word": "APPRENTICE",
+          "correct": "beginners"
+        },
+        {
+          "prompt": "He was a NOMAD.",
+          "answers": [
+            "native",
+            "knight",
+            "farmer",
+            "wanderer",
+            "settler"
+          ],
+          "word": "NOMAD",
+          "correct": "wanderer"
+        },
+        {
+          "prompt": "Hard to REPRESS.",
+          "answers": [
+            "hold back",
+            "speak to",
+            "make right",
+            "start",
+            "criticize"
+          ],
+          "word": "REPRESS",
+          "correct": "hold back"
+        },
+        {
+          "prompt": "ILLUMINATE the room.",
+          "answers": [
+            "destroy",
+            "darken",
+            "clean up",
+            "find",
+            "light up"
+          ],
+          "word": "ILLUMINATE",
+          "correct": "light up"
+        },
+        {
+          "prompt": "We must be PUNCTUAL.",
+          "answers": [
+            "prepared",
+            "cruel",
+            "polite",
+            "early",
+            "prompt"
+          ],
+          "word": "PUNCTUAL",
+          "correct": "prompt"
+        },
+        {
+          "prompt": "Aware of the SURVEILLANCE.",
+          "answers": [
+            "secret talks",
+            "expedition",
+            "close watch",
+            "suspicion",
+            "vehicle"
+          ],
+          "word": "SURVEILLANCE",
+          "correct": "close watch"
+        },
+        {
+          "prompt": "He FABRICATED the whole story.",
+          "answers": [
+            "illustrated",
+            "made up",
+            "listened to",
+            "lived through",
+            "retold"
+          ],
+          "word": "FABRICATE",
+          "correct": "made up"
+        },
+        {
+          "prompt": "A typical FELON.",
+          "answers": [
+            "criminal",
+            "young man",
+            "old person",
+            "minister",
+            "prisoner"
+          ],
+          "word": "FELON",
+          "correct": "criminal"
+        },
+        {
+          "prompt": "Seems PERPETUAL.",
+          "answers": [
+            "new",
+            "dead",
+            "old",
+            "endless",
+            "excellent"
+          ],
+          "word": "PERPETUAL",
+          "correct": "endless"
+        },
+        {
+          "prompt": "The REVOLT began.",
+          "answers": [
+            "trouble",
+            "spinning",
+            "journey",
+            "rebellion",
+            "victory"
+          ],
+          "word": "REVOLT",
+          "correct": "rebellion"
+        },
+        {
+          "prompt": "Visited the METROPOLIS.",
+          "answers": [
+            "great city",
+            "old fortress",
+            "village",
+            "tall building",
+            "center"
+          ],
+          "word": "METROPOLIS",
+          "correct": "great city"
+        },
+        {
+          "prompt": "Sat in the NOOK.",
+          "answers": [
+            "middle",
+            "stream",
+            "attic",
+            "bedroom",
+            "corner"
+          ],
+          "word": "NOOK",
+          "correct": "corner"
+        },
+        {
+          "prompt": "You must REFRAIN.",
+          "answers": [
+            "continue",
+            "change",
+            "hold back",
+            "give in",
+            "hold on"
+          ],
+          "word": "REFRAIN",
+          "correct": "hold back"
+        },
+        {
+          "prompt": "The town was DEVASTATED.",
+          "answers": [
+            "divided",
+            "attacked",
+            "saved",
+            "surrounded",
+            "ruined"
+          ],
+          "word": "DEVASTATE",
+          "correct": "ruined"
+        },
+        {
+          "prompt": "The water RECEDED.",
+          "answers": [
+            "entered",
+            "stopped",
+            "moved back",
+            "came close",
+            "disappeared"
+          ],
+          "word": "RECEDE",
+          "correct": "moved back"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would an APPRENTICE work by himself?",
+          "word": "APPRENTICE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a NOMAD build a mansion?",
+          "word": "NOMAD",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is someone who is shouting and screaming REPRESSING his anger?",
+          "word": "REPRESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do logs burning in a fireplace help to ILLUMINATE a room?",
+          "word": "ILLUMINATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would you be PUNCTUAL if you were half an hour late?",
+          "word": "PUNCTUAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most people like to be kept under SURVEILLANCE?",
+          "word": "SURVEILLANCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do liars FABRICATE the stories they tell?",
+          "word": "FABRICATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would kidnapping be a FELONY?",
+          "word": "FELON",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does PERPETUAL motion ever stop?",
+          "word": "PERPETUAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can people REVOLT against laws?",
+          "word": "REVOLT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is Los Angeles a METROPOLIS?",
+          "word": "METROPOLIS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could you play a baseball game in a NOOK?",
+          "word": "NOOK",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people REFRAIN from jumping in front of a speeding car?",
+          "word": "REFRAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can an atomic bomb DEVASTATE a region?",
+          "word": "DEVASTATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do objects appear to get larger as they RECEDE?",
+          "word": "RECEDE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He wanted to be an APPRENTICE to a good plumber.",
+          "word": "APPRENTICE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was quite a NOMAD; he saved every penny he earned and hid it all in a chest beneath his bed.",
+          "word": "NOMAD",
+          "correct": "false"
+        },
+        {
+          "prompt": "The lecture was so boring that we had to keep REPRESSING yawns.",
+          "word": "REPRESS",
+          "correct": "true"
+        },
+        {
+          "prompt": " He tried hard to ILLUMINATE all mistakes from his paper.",
+          "word": "ILLUMINATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The PUNCTUAL teenagers burned down the building on a dare.",
+          "word": "PUNCTUAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The SURVEILLANCE lasted for months before they saw him do something illegal.",
+          "word": "SURVEILLANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "My mother gets upset when somebody tries to FABRICATE her.",
+          "word": "FABRICATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The FELONS were kept after school for talking back to the teacher.",
+          "word": "FELON",
+          "correct": "false"
+        },
+        {
+          "prompt": "They had a PERPETUAL argument once in a while, but overall they were very happy.",
+          "word": "PERPETUAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Many people joined the REVOLT against paying high taxes.",
+          "word": "REVOLT",
+          "correct": "true"
+        },
+        {
+          "prompt": "We live in a tiny METROPOLIS at the top of a mountain.",
+          "word": "METROPOLIS",
+          "correct": "false"
+        },
+        {
+          "prompt": "There was a little NOOK where she could sit and be by herself.",
+          "word": "NOOK",
+          "correct": "true"
+        },
+        {
+          "prompt": "She came back tanned and well-rested when she REFRAINED from her summer vacation.",
+          "word": "REFRAIN",
+          "correct": "false"
+        },
+        {
+          "prompt": "A DEVASTATING plague of insects stripped the trees of fruit and thoroughly ruined that year's crop.",
+          "word": "DEVASTATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The fear that he felt in the dark forest RECEDED with the coming of the dawn.",
+          "word": "RECEDE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "APPRENTICE",
+          "answers": [
+            "learner",
+            "worker",
+            "writer"
+          ],
+          "word": "APPRENTICE",
+          "correct": "2"
+        },
+        {
+          "prompt": "NOMAD",
+          "answers": [
+            "hunter",
+            "traveler",
+            "wanderer"
+          ],
+          "word": "NOMAD",
+          "correct": "0"
+        },
+        {
+          "prompt": "REPRESS",
+          "answers": [
+            "give up",
+            "keep down",
+            "hold back"
+          ],
+          "word": "REPRESS",
+          "correct": "0"
+        },
+        {
+          "prompt": "ILLUMINATE",
+          "answers": [
+            "brighten",
+            "explain",
+            "decorate"
+          ],
+          "word": "ILLUMINATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PUNCTUAL",
+          "answers": [
+            "on time",
+            "prompt",
+            "well-dressed"
+          ],
+          "word": "PUNCTUAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "SURVEILLANCE",
+          "answers": [
+            "observation",
+            "justice",
+            "watchfulness"
+          ],
+          "word": "SURVEILLANCE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FABRICATE",
+          "answers": [
+            "make up",
+            "invent",
+            "discover"
+          ],
+          "word": "FABRICATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "FELON",
+          "answers": [
+            "nuisance",
+            "criminal",
+            "lawbreaker"
+          ],
+          "word": "FELON",
+          "correct": "0"
+        },
+        {
+          "prompt": "PERPETUAL",
+          "answers": [
+            "constant",
+            "hopeless",
+            "eternal"
+          ],
+          "word": "PERPETUAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "REVOLT",
+          "answers": [
+            "rebellion",
+            "uprising",
+            "explosion"
+          ],
+          "word": "REVOLT",
+          "correct": "2"
+        },
+        {
+          "prompt": "METROPOLIS",
+          "answers": [
+            "crowd",
+            "jungle",
+            "city"
+          ],
+          "word": "METROPOLIS",
+          "correct": "1"
+        },
+        {
+          "prompt": "NOOK",
+          "answers": [
+            "circle",
+            "corner",
+            "alcove"
+          ],
+          "word": "NOOK",
+          "correct": "0"
+        },
+        {
+          "prompt": "REFRAIN",
+          "answers": [
+            "hold back",
+            "fall down",
+            "stay away"
+          ],
+          "word": "REFRAIN",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEVASTATE",
+          "answers": [
+            "ravage",
+            "destroy",
+            "darken"
+          ],
+          "word": "DEVASTATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "RECEDE",
+          "answers": [
+            "move back",
+            "go back",
+            "come back"
+          ],
+          "word": "RECEDE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

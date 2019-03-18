@@ -1,0 +1,617 @@
+{
+  "title": "4.8",
+  "definitions": {
+    "TIMID": {
+      "word": "TIMID",
+      "phonetic": "()",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fearful, easily frightened, shy </p><p>TIMID means <i class=“def-ital\">fearful</i>, <i class=“def-ital\">easily frightened</i>, <i class=“def-ital\">easily alarmed</i>. </p><p>“He became very TIMID about riding in elevators after he was stuck in one once.” </p><p>“She looks TIMID, but she can really be quite brave when she needs to be.” </p><p>TIMID often adds to <i class=“def-ital\">fearful</i> the idea of <i class=“def-ital\">shyness</i>. </p><p>“He greeted his grandfather with a TIMID smile.” </p><p>“She is very TIMID at large parties.” </p><p>Other forms of the word: TIMIDITY, n.</p>"
+    },
+    "SPLINTER": {
+      "word": "SPLINTER",
+      "phonetic": "(splin'-tÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to break up, split into pieces, break off </p><p>A SPLINTER is a little piece of something, usually wood. </p><p>“You’re apt to get SPLINTERS in your fingers when you’re working with wood.” </p><p>SPLINTER, when used as a verb, means “to break into very small pieces.” </p><p>“The wall SPLINTERED with just one blow from the heavy hammer.” </p><p>“The icicles SPLINTERED when they hit the ground.” </p><p>“He could SPLINTER a board with his bare hand.”</p>"
+    },
+    "PROVERB": {
+      "word": "PROVERB",
+      "phonetic": "(prov'-erb)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a saying, maxim, adage </p><p>A PROVERB is a short saying that uses simple, vivid language to express some ancient wisdom. Some examples of PROVERBS are “Look before you leap,” “A rolling stone gathers no moss,” and “Still waters run deep.” </p><p>Something that is so well known that it has become a PROVERB is called PROVERBIAL. </p><p>“She talked about the PROVERBIAL curiosity of a cat.” </p><p>The most common mistake for the meaning of PROVERB on the Pretest is <i class=“def-ital\">story</i>. A PROVERB is never more than a sentence or two long. It does not tell a story, but gives some general truth. </p><p>Other forms of the word: PROVERBIAL, adj.</p>"
+    },
+    "REVISE": {
+      "word": "REVISE",
+      "phonetic": "(ri-vlz')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to change, correct </p><p>REVISE basically means “to look back at.”  The <i class=“def-ital\">vise</i> part of the word is related to words like <i class=“def-ital\">vision</i>. To REVISE something is to look it over or reexamine it and make changes and corrections. </p><p>“He REVISED his composition so that it made better sense.” </p><p>“The new figures caused them to REVISE their estimate of how much the job would cost.” </p><p>“When he started being nice to everyone we had to REVISE our bad opinion of him.” </p><p>Other forms of the word: REVISION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "INFECTIOUS": {
+      "word": "INFECTIOUS",
+      "phonetic": "(in-fek'-shÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">catching, contagious </p><p>To INFECT someone is to contaminate him with disease-producing germs. </p><p>“Mosquitoes INFECTED the natives with malaria.” </p><p>“The wound became INFECTED when he didn’t keep it clean.” </p><p>INFECTIOUS is an adjective from INFECT.  An INFECTIOUS disease is one that spreads by INFECTING, like the flu or smallpox. INFECTIOUS is also used in a general way and means “spreading quickly,” <i class=“def-ital\">catching</i>. </p><p>“Yawning is INFECTIOUS. Once one person starts, everyone begins to do it.” </p><p>“He had an INFECTIOUS laugh that caused everyone to laugh with him.” </p><p><i class=“def-ital\">Deadly</i> is the most commonly chosen incorrect answer on the Pretest. INFECTIOUS diseases are communicated by germs. Some of these diseases are deadly, others are not. </p><p>Other forms of the word: INFECT, v. INFECTION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "POPULACE": {
+      "word": "POPULACE",
+      "phonetic": "(pop'-yÔøΩlis)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">the common people, the general public </p><p>POPULACE comes from the Latin word for <i class=“def-ital\">people</i>, also the source of the words <i class=“def-ital\">population</i> and <i class=“def-ital\">popular</i>. The POPULACE is the common people, as opposed to the wealthy or the noble. </p><p>“The politician’s plan appealed to the POPULACE, although big business was against it.” </p><p>“Although the king now had less power, the POPULACE still did not like him.” </p><p>POPULACE is also used for the entire population of a place. </p><p>“It seemed as if the whole POPULACE of the town had turned out to greet him.”</p>"
+    },
+    "MONUMENTAL": {
+      "word": "MONUMENTAL",
+      "phonetic": "(mon-yU-ment'-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">immense, massive, imposing </p><p>A MONUMENT is a large building, statue, or other object which serves to keep alive the memory of a person or event. </p><p>“The Washington MONUMENT is a great tribute to our first president.” </p><p>MONUMENTAL means “having the size and impressiveness of a MONUMENT,” <i class=“def-ital\">massive</i>, <i class=“def-ital\">immense</i>.  </p><p>“It was a MONUMENTAL structure, almost a hundred stories high.” </p><p>“They made a mistake of MONUMENTAL proportions. They almost ruined the entire project.” </p><p>“Building the Panama Canal was a MONUMENTAL achievement.” </p><p>Other forms of the word: MONUMENT, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "PONDER": {
+      "word": "PONDER",
+      "phonetic": "(pon'-dÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to consider, reflect, meditate, deliberate </p><p>PONDER comes from a Latin word meaning to <i class=“def-ital\">weigh</i>. PONDER means “to weigh carefully in the mind.” </p><p>“He PONDERED the decision for a long time before acting.” </p><p>“Sally PONDERED whether to save her money or buy a new dress.” </p><p>PONDER is sometimes followed by <i class=“def-ital\">over</i> or <i class=“def-ital\">on</i>, in which case it means to <i class=“def-ital\">think deeply</i>, to <i class=“def-ital\">meditate</i>. </p><p>“She PONDERED over the mysteries of life.” </p><p>“He PONDERED on the importance of planning ahead.”</p>"
+    },
+    "SCORN": {
+      "word": "SCORN",
+      "phonetic": "(skorn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to despise, feel contempt for; refuse SCORN is both a verb and a noun. To SCORN something is to despise it, to treat it or consider it with contempt. </p><p>“Everyone SCORNED him for his laziness.” </p><p>You can also SCORN something and refuse to do it because it is worthless or beneath you. </p><p>“Although she needs the money, she SCORNS offers of jobs as a cleaning person.” </p><p>When SCORN is used as a noun, it means “a feeling of contempt.” </p><p>“She has a great deal of SCORN for people who lie about their ages.” </p><p>Other forms of the word: SCORNFUL, adj.</p>"
+    },
+    "REIMBURSE": {
+      "word": "REIMBURSE",
+      "phonetic": "(rE-im-bers')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to pay back, repay </p><p> The <i class=“def-ital\">burse</i> part of the word is related to the word <i class=“def-ital\">purse</i>. The basic meaning of the word is “to put back into someone’s purse,” that is, to <i class=“def-ital\">repay</i> someone. Usually the word is used about paying money to a person who has already had to spend some of his own. </p><p>“The company REIMBURSED him for the money he spent on the trip.” </p><p>“We will gladly REIMBURSE you for the cost of the phone calls.” </p><p>“He bought the plane ticket himself, expecting to be REIMBURSED later.” </p><p>The most commonly chosen incorrect answer on the Pretest is <i class=“def-ital\">back up</i>. This is probably chosen because REIMBURSE sounds like <i class=“def-ital\">reinforce</i>.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> and <i class=“def-ital\">in-1</i> under Prefixes."
+      ]
+    },
+    "OBSTINATE": {
+      "word": "OBSTINATE",
+      "phonetic": "(ob'-stÔøΩnit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">stubborn, unyielding </p><p>OBSTINATE people do not yield to another’s arguments or persuasion. They hold fast to their own ideas or plans. The word often suggests that OBSTINATE people are being unreasonable in not changing their minds or listening to others. </p><p>“The OBSTINATE mule wouldn’t move until its master fed him.” </p><p>“He OBSTINATELY refused to see a doctor until it was too late.” </p><p>Something that is OBSTINATE is not easily overcome or removed. </p><p>“Their OBSTINATE resistance to change finally forced them to go out of business.” </p><p>“His illness was quite OBSTINATE; despite all the treatment he still didn’t get better.” </p><p>Other forms of the word: OBSTINACY, n.</p>"
+    },
+    "VELOCITY": {
+      "word": "VELOCITY",
+      "phonetic": "(v:rlos'-:rtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">speed, quickness </p><p>VELOCITY is the speed of something along a given path. </p><p>“The car traveled at a VELOCITY of fifty miles an hour.” </p><p>“They had an instrument which measured the VELOCITY of a baseball thrown by a pitcher.” </p><p>“The wind is blowing in an easterly direction at a VELOCITY of 25 miles per hour.”</p>"
+    },
+    "PERPLEX": {
+      "word": "PERPLEX",
+      "phonetic": "(pÔøΩr-pleks')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to confuse, bewilder, puzzle </p><p>To PERPLEX someone is to confuse and puzzle him. The word usually suggests a problem that worries and frustrates a person. </p><p>“The teacher’s questions PERPLEXED him until he suddenly hit upon the answer.” </p><p>“We have several PERPLEXING problems that we must somehow solve.” </p><p>“I’m PERPLEXED by your attitude. I just don’t understand why you’re acting this way.” </p><p>PERPLEXED is also an adjective. </p><p>“The PERPLEXED young man didn’t know which way to turn for help.” </p><p>PERPLEXITY is the state of being PERPLEXED. </p><p>“He admitted his PERPLEXITY at the strange way she was behaving.” </p><p>Other forms of the word: PERPLEXITY, n.</p>"
+    },
+    "PEDIGREE": {
+      "word": "PEDIGREE",
+      "phonetic": "(ped'-:rgrE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">ancestry, family descent </p><p>A PEDIGREE is the ancestry of a person or animal, or a record of that ancestry. The word usually suggests a noble or distinguished family tree. The word is especially used in reference to animals, where it stresses proof of pure breeding for many generations. </p><p>“She insisted that any dog she bought should have a PEDIGREE.” </p><p>“They were very proud of their family’s long PEDIGREE.”</p>"
+    },
+    "INFORMAL": {
+      "word": "INFORMAL",
+      "phonetic": "(in-for'-mÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">not formal, unofficial </p><p> FORMAL means “following the rules or customs.” Something which is INFORMAL is done without ceremony or great attention to the rules. </p><p>“They held some INFORMAL discussions before starting the official meeting.” </p><p>“There was an INFORMAL investigation into the cause of the fire, but no report was ever written.” </p><p>“He gave a brief, INFORMAL talk about his trip to Europe.” </p><p>Many people think INFORMAL means <i class=“def-ital\">unimportant</i>. An INFORMAL meeting or discussion could, however, be quite important. </p><p>Other forms of the word: INFORMALITY, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    }
+  },
+  "id": "8",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "TIMID children.",
+          "answers": [
+            "fearful",
+            "brave",
+            "lonely",
+            "well-behaved",
+            "pretty"
+          ],
+          "word": "TIMID",
+          "correct": "fearful"
+        },
+        {
+          "prompt": "SPLINTER the board.",
+          "answers": [
+            "smooth down",
+            "drop",
+            "break up",
+            "take away",
+            "repair"
+          ],
+          "word": "SPLINTER",
+          "correct": "break up"
+        },
+        {
+          "prompt": "Typical PROVERB.",
+          "answers": [
+            "answer",
+            "country",
+            "story",
+            "action",
+            "saying"
+          ],
+          "word": "PROVERB",
+          "correct": "saying"
+        },
+        {
+          "prompt": "Said it was INFECTIOUS.",
+          "answers": [
+            "curable",
+            "sugary",
+            "catching",
+            "exciting",
+            "deadly"
+          ],
+          "word": "INFECTIOUS",
+          "correct": "catching"
+        },
+        {
+          "prompt": "Among the POPULACE.",
+          "answers": [
+            "businessmen",
+            "winners",
+            "families",
+            "common people",
+            "best"
+          ],
+          "word": "POPULACE",
+          "correct": "common people"
+        },
+        {
+          "prompt": "Had to REVISE it.",
+          "answers": [
+            "change",
+            "increase",
+            "repeat",
+            "inspect",
+            "start"
+          ],
+          "word": "REVISE",
+          "correct": "change"
+        },
+        {
+          "prompt": "MONUMENTAL proportions.",
+          "answers": [
+            "artistic",
+            "immense",
+            "tiny",
+            "unknown",
+            "basic"
+          ],
+          "word": "MONUMENTAL",
+          "correct": "immense"
+        },
+        {
+          "prompt": "She PONDERED the incident.",
+          "answers": [
+            "feared",
+            "forgot",
+            "imagined",
+            "considered",
+            "wrote about"
+          ],
+          "word": "PONDER",
+          "correct": "considered"
+        },
+        {
+          "prompt": "He SCORNED them.",
+          "answers": [
+            "suspected",
+            "admired",
+            "burned",
+            "advised",
+            "despised"
+          ],
+          "word": "SCORN",
+          "correct": "despised"
+        },
+        {
+          "prompt": "REIMBURSE them.",
+          "answers": [
+            "repay",
+            "satisfy",
+            "back",
+            "plead with",
+            "relieve"
+          ],
+          "word": "REIMBURSE",
+          "correct": "repay"
+        },
+        {
+          "prompt": "OBSTINATE boys.",
+          "answers": [
+            "stubborn",
+            "lazy",
+            "mean",
+            "obedient",
+            "angry"
+          ],
+          "word": "OBSTINATE",
+          "correct": "stubborn"
+        },
+        {
+          "prompt": "Unusual VELOCITY.",
+          "answers": [
+            "depth",
+            "power",
+            "size",
+            "speed",
+            "slowness"
+          ],
+          "word": "VELOCITY",
+          "correct": "speed"
+        },
+        {
+          "prompt": "He was PERPLEXED.",
+          "answers": [
+            "excited",
+            "overlooked",
+            "enraged",
+            "relieved",
+            "confused"
+          ],
+          "word": "PERPLEX",
+          "correct": "confused"
+        },
+        {
+          "prompt": "Their PEDIGREE.",
+          "answers": [
+            "talent",
+            "ancestry",
+            "beauty",
+            "future",
+            "size"
+          ],
+          "word": "PEDIGREE",
+          "correct": "ancestry"
+        },
+        {
+          "prompt": "INFORMAL visits.",
+          "answers": [
+            "daily",
+            "unimportant",
+            "unofficial",
+            "necessary",
+            "educational"
+          ],
+          "word": "INFORMAL",
+          "correct": "unofficial"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Are heroes usually TIMID?",
+          "word": "TIMID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you SPLINTER ice cream?",
+          "word": "SPLINTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are PROVERBS usually new?",
+          "word": "PROVERB",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a sprained ankle INFECTIOUS?",
+          "word": "INFECTIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are most people part of the POPULACE?",
+          "word": "POPULACE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can books be REVISED?",
+          "word": "REVISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a MONUMENTAL mistake be easy to fix?",
+          "word": "MONUMENTAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people usually PONDER things quickly?",
+          "word": "PONDER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it pleasant to be SCORNED?",
+          "word": "SCORN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a person earn a lot of money by being REIMBURSED?",
+          "word": "REIMBURSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it difficult to change the mind of an OBSTINATE person?",
+          "word": "OBSTINATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does using the brake of a car increase its VELOCITY?",
+          "word": "VELOCITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a riddle PERPLEX a person?",
+          "word": "PERPLEX",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a prince have a distinguished PEDIGREE?",
+          "word": "PEDIGREE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a picnic usually be INFORMAL?",
+          "word": "INFORMAL",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He TIMIDLY tasted the octopus soup, and then discovered he liked it.",
+          "word": "TIMID",
+          "correct": "true"
+        },
+        {
+          "prompt": "We used tweezers to get the SPLINTERS out of his knee.",
+          "word": "SPLINTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "He said that this latest problem was the PROVERBIAL straw that broke the camel's back.",
+          "word": "PROVERB",
+          "correct": "true"
+        },
+        {
+          "prompt": "His INFECTIOUS enthusiasm made everyone want to try harder.",
+          "word": "INFECTIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The president could not convince the POPULACE that they should pay higher taxes.",
+          "word": "POPULACE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He REVISED us again that we would be in trouble if we didn't agree.",
+          "word": "REVISE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He claimed his invention was of MONUMENTAL importance.",
+          "word": "MONUMENTAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "She PONDERED why he could be acting so strangely.",
+          "word": "PONDER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The coach feels nothing but SCORN for players who don't try as hard as they can.",
+          "word": "SCORN",
+          "correct": "true"
+        },
+        {
+          "prompt": "We offered to REIMBURSE him, but he said he had spent too little money for us to worry about it.",
+          "word": "REIMBURSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The lock proved to be quite OBSTINATE, so finally we had to break the door down.",
+          "word": "OBSTINATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The arrows hit the target at different times because each had a different VELOCITY.",
+          "word": "VELOCITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "She PERPLEXED us to stop talking during class.",
+          "word": "PERPLEX",
+          "correct": "false"
+        },
+        {
+          "prompt": "Since the dog had no PEDIGREE, we decided not to buy him.",
+          "word": "PEDIGREE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The president met INFORMALLY with the two reporters this morning, but his official news conference isn't until this afternoon.",
+          "word": "INFORMAL",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "TIMID",
+          "answers": [
+            "nervous",
+            "lost",
+            "bashful"
+          ],
+          "word": "TIMID",
+          "correct": "1"
+        },
+        {
+          "prompt": "SPLINTER",
+          "answers": [
+            "wood",
+            "cloth",
+            "glass"
+          ],
+          "word": "SPLINTER",
+          "correct": "1"
+        },
+        {
+          "prompt": "PROVERB",
+          "answers": [
+            "joke",
+            "saying",
+            "adage"
+          ],
+          "word": "PROVERB",
+          "correct": "0"
+        },
+        {
+          "prompt": "INFECTIOUS",
+          "answers": [
+            "spreading",
+            "growing",
+            "improving"
+          ],
+          "word": "INFECTIOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "POPULACE",
+          "answers": [
+            "family",
+            "people",
+            "crowd"
+          ],
+          "word": "POPULACE",
+          "correct": "0"
+        },
+        {
+          "prompt": "REVISE",
+          "answers": [
+            "review",
+            "correct",
+            "reject"
+          ],
+          "word": "REVISE",
+          "correct": "2"
+        },
+        {
+          "prompt": "MONUMENTAL",
+          "answers": [
+            "huge",
+            "important",
+            "strange"
+          ],
+          "word": "MONUMENTAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "PONDER",
+          "answers": [
+            "reflect",
+            "expect",
+            "think"
+          ],
+          "word": "PONDER",
+          "correct": "1"
+        },
+        {
+          "prompt": "SCORN",
+          "answers": [
+            "hate",
+            "enjoy",
+            "refuse"
+          ],
+          "word": "SCORN",
+          "correct": "1"
+        },
+        {
+          "prompt": "REIMBURSE",
+          "answers": [
+            "refund",
+            "recover",
+            "repay"
+          ],
+          "word": "REIMBURSE",
+          "correct": "1"
+        },
+        {
+          "prompt": "OBSTINATE",
+          "answers": [
+            "stupid",
+            "unyielding",
+            "dogged"
+          ],
+          "word": "OBSTINATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "VELOCITY",
+          "answers": [
+            "excitement",
+            "rapidity",
+            "speed"
+          ],
+          "word": "VELOCITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "PERPLEX",
+          "answers": [
+            "puzzle",
+            "mystify",
+            "anger"
+          ],
+          "word": "PERPLEX",
+          "correct": "2"
+        },
+        {
+          "prompt": "PEDIGREE",
+          "answers": [
+            "lineage",
+            "education",
+            "parents"
+          ],
+          "word": "PEDIGREE",
+          "correct": "1"
+        },
+        {
+          "prompt": "INFORMAL",
+          "answers": [
+            "unplanned",
+            "useless",
+            "casual"
+          ],
+          "word": "INFORMAL",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

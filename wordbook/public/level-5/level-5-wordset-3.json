@@ -1,0 +1,605 @@
+{
+  "title": "5.3",
+  "definitions": {
+    "CONCUR": {
+      "word": "CONCUR",
+      "phonetic": "(kÔøΩn-ker')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to agree; to happen together </p><p>To CONCUR with someone is to agree with him, to have the same opinion as he does. </p><p>“Everyone CONCURRED that this was the only ac- tion that could be taken.” </p><p>“The two of us did not CONCUR in our opinion of the movie.” </p><p>CONCUR can also mean “to happen or work together.” </p><p>“His father’s death and his accident CONCURRED, making it impossible for him to start college this se- mester.” </p><p>The noun from CONCUR is CONCURRENCE, which means <i class=“def-ital\">agreement.</i> </p><p>“With her parents’ CONCURRENCE she decided to take a year off from school.” </p><p>Other forms of the word: CONCURRENCE, n. CONCURRENT, adj.</p>"
+    },
+    "INITIAL": {
+      "word": "INITIAL",
+      "phonetic": "(i-ni'-shÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">beginning, first </p><p>INITIAL comes from a Latin word meaning <i class=“def-ital\">beginning.</i> This is also the source of the word <i class=“def-ital\">initiate,</i> which means to <i class=“def-ital\">begin, set going.</i> INITIAL means “of or at the beginning.” </p><p>“My INITIAL feeling was that he was being unfair, but later I changed my mind.” </p><p>“His INITIAL act as king was to release all the politi- cal prisoners.” </p><p>“INITIALLY we opposed the idea, but now we are in favor of it.” </p><p>INITIALS are the beginning letters of names. </p><p>“The INITIALS ‘U.S.A.’ stand for the United States of America.”</p>"
+    },
+    "ABDUCT": {
+      "word": "ABDUCT",
+      "phonetic": "(ab-duhkt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to kidnap, carry off </p><p>To ABDUCT a person is to carry him off by force and illegally, to <i class=“def-ital\">kidnap</i> him. </p><p>“Two men ABDUCTED the child and held him for ransom.” </p><p>“The rich businessman was ABDUCTED yesterday by three masked men.” </p><p><i class=“def-ital\">Harm</i> is often chosen as the meaning of ABDUCT in the Pretest. A person who is ABDUCTED may also be <i class=“def-ital\">harmed,</i> but ABDUCT means only to <i class=“def-ital\">kidnap.</i> Other forms of the word: ABDUCTION, n.</p>"
+    },
+    "ADVERSARY": {
+      "word": "ADVERSARY",
+      "phonetic": "(ad'-vÔøΩr-ser-E)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an enemy, opponent </p><p>An ADVERSARY is an enemy or opponent, someone you fight with or have a contest with. </p><p>“Those two hated each other from the day they met, and they’ve been ADVERSARIES ever since.” </p><p>“Try to be nicer to people; don’t act as if everyone were your ADVERSARY.” </p><p>“Although the two lawyers often were ADVERSARIES in court, they were the best of friends otherwise.” </p><p>People often think an ADVERSARY is a partner, which is almost opposite in meaning.</p>"
+    },
+    "SABER": {
+      "word": "SABER",
+      "phonetic": "(sA'-bÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a sword </p><p>A SABER is a heavy military sword with a curved blade. It is also a fencing or dueling sword. </p><p>“The officer swung his SABER at the advancing enemy.” </p><p>“He stood at attention before the general, his SABER at his side.” </p><p>“SABER rattling” is a threatening display of military power of any kind. </p><p>“The enemy put thousands of troops on our borders and made insulting speeches about us. This SABER rattling didn’t bother us a bit.’’</p>"
+    },
+    "ARID": {
+      "word": "ARID",
+      "phonetic": "(ar'-ÔøΩd)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dry, barren, parched </p><p>ARID means “without moisture,” <i class=“def-ital\">dry.</i> ARID is usually a somewhat stronger word than <i class=“def-ital\">dry.</i> Something that is ARID is totally dry and lifeless. When used about land, the word means specifically “without enough rainfall to grow crops.” </p><p>“Farmers couldn’t survive in the ARID regions of the West.” </p><p>ARID can also be used in a general sense to mean <i class=“def-ital\">lifeless, barren, monotonous.</i> </p><p>“The book’s treatment of history was rather ARID-it was just a listing of dates and names.” </p><p>“She fell asleep during the ARID discussion of the rules for the meeting.” </p><p>Other forms of the word: ARIDITY, n.</p>"
+    },
+    "CASCADE": {
+      "word": "CASCADE",
+      "phonetic": "(kas-kAd')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a waterfall </p><p>A CASCADE is a fall of water over steep, slanted rocks, as in a river or stream. It is not just a straight fall of water but one that is broken up into a series of stages or steps. </p><p>“Halfway up the mountain we came upon a CASCADE of clear water that rushed over a series of jagged rocks high above us.” </p><p>CASCADE can be used about anything that falls or rushes forth in great quantity. </p><p>“The end of the symphony was truly magnificent, with its CASCADE of sound filling every corner of the huge auditorium.” </p><p>CASCADE can also be used as a verb meaning “to fall or pour down as if in a waterfall.” </p><p>“Yards of gorgeous lace CASCADED down the front of the bridal gown.”</p>"
+    },
+    "DILIGENT": {
+      "word": "DILIGENT",
+      "phonetic": "(dil'-ÔøΩjÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hard-working, industrious, tireless </p><p>Someone who is DILIGENT works hard and carefully at something. He doesn’t let up or make silly mistakes. </p><p>“We will only hire DILIGENT employees. We want people who will put in a good day’s work.” </p><p>“They searched DILIGENTLY for the lost ring all day, but finally had to give up.” </p><p>“The DILIGENT student did his homework faithfully every night.” </p><p>Other forms of the word: DILIGENCE, n.</p>"
+    },
+    "ACCUSATION": {
+      "word": "ACCUSATION",
+      "phonetic": "(ak-yU-zA'-shJn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a charge </p><p>To ACCUSE a person is to declare that he is guilty of having done something wrong or evil, to charge him with something. </p><p>“The teacher ACCUSED him of stealing the watch.” </p><p>“I was ACCUSED of being one of the gang.” </p><p>If you are ACCUSED of a crime, it doesn’t mean you are guilty. It just means someone thinks you are guilty. </p><p>ACCUSATION is the noun from ACCUSE. It is a <i class=“def-ital\">charge,</i> a declaration of wrongdoing. </p><p>“There was an ACCUSATION in the newspaper that the mayor had accepted a bribe.” </p><p>“He denied all the ACCUSATIONS against him.” </p><p>Other forms of the word: ACCUSE, v.</p>"
+    },
+    "MEANDER": {
+      "word": "MEANDER",
+      "phonetic": "(mE-an'-dÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to wander, ramble, follow a winding course </p><p>The MEANDER was a river in ancient Asia noted for its winding course. As a verb, MEANDER means to <i class=“def-ital\">wander aimlessly,</i> without a destination. The word can be used about people, and about things like roads or rivers. </p><p>“The path MEANDERED through the forest.” </p><p>“After dinner they MEANDERED through the park for a while.” </p><p>“He MEANDERED from town to town, heading nowhere in particular.”</p>"
+    },
+    "ENCOMPASS": {
+      "word": "ENCOMPASS",
+      "phonetic": "(en-kuhm'-pÔøΩs)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to include, surround, encircle, envelop </p><p>One meaning of COMPASS is <i class=“def-ital\">limits</i> or <i class=“def-ital\">boundaries.</i> </p><p>“This subject is well within the COMPASS of our study.” </p><p>To ENCOMPASS something is to include it within a par- ticular COMPASS, to <i class=“def-ital\">encircle</i> or <i class=“def-ital\">enclose</i> it. </p><p>“These mountains ENCOMPASS the valley.” </p><p>“This book ENCOMPASSES the entire history of opera\"-that is, the entire history is included in the book. </p><p>“The study of art ENCOMPASSES painting, drawing, and sculpture.”</p>"
+    },
+    "EMBRYONIC": {
+      "word": "EMBRYONIC",
+      "phonetic": "(em-brE-on'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">undeveloped, im- mature, rudimentary </p><p>An EMBRYO is an animal in the early stages of its devel- opment before birth. The adjective from EMBRYO is EMBRYONIC, which means “like an EMBRYO.”  Since an EMBRYO is very young and un- developed, EMBRYONIC can apply to anything which is in its earliest stages, which hasn’t developed enough to be recognizable. Just as an EMBRYO turns into a mature adult, something which is called EMBRYONIC should be capable of developing into something much larger and more complete. </p><p>“The plans are still EMBRYONIC: it will take us a while to complete them.” </p><p>“When the industry was in its EMBRYONIC stages few people realized how important it would become.” </p><p>Other forms of the word: EMBRYO, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ic</i> under Suffixes."
+      ]
+    },
+    "AFFILIATE": {
+      "word": "AFFILIATE",
+      "phonetic": "(ÔøΩfil'-E-At)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to ally, associate </p><p>The Latin word <i class=“def-ital\">filius</i> means <i class=“def-ital\">son.</i> AFFILIATE comes from a Latin word which means “to adopt as a son.” In English the word has come to mean “to enter into associa- tion” or “to join as a member.” AFFILIATE usually sug- gests a close relationship, but one in which the various people or parts stay at least somewhat separate. </p><p>“Our team tried to AFFILIATE itself with the local softball league.” </p><p>“He is not AFFILIATED with any company. He works for himself.” </p><p>“The national organization has many local branches AFFILIATED with it.” </p><p>AFFILIATE is also a noun, pronounced :rfll’-E-:it. </p><p>“Channel 3 is an AFFILIATE of the CBS television network.” </p><p>Other forms of the word: AFFILIATION, n.</p>"
+    },
+    "BISECT": {
+      "word": "BISECT",
+      "phonetic": "(bl-sekt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cut in two, halve, split To BISECT something is to cut it into two, usually equal, pieces. The <i class=“def-ital\">bi-</i> part of the word means <i class=“def-ital\">two,</i> as in <i class=“def-ital\">bicycle</i> and <i class=“def-ital\">binoculars.<i class=“def-ital\">- The <i class=“def-ital\">-sect</i> part means <i class=“def-ital\">cut,</i> as in <i class=“def-ital\">dissect</i> (to cut apart) and <i class=“def-ital\">intersect</i> (to cut across). “The new road will BISECT the town neatly, passing right through the center of it.” “The 90¬∞ angle was BISECTED to make two 45¬∞ an- gles.” </p><p><i class=“def-ital\">Double</i> is the most common incorrect answer on the Pre- test. People who choose it know that <i class=“def-ital\">bi-</i> means <i class=“def-ital\">two,</i> but don’t know its special use in BISECT.</p>"
+    },
+    "WRETCHED": {
+      "word": "WRETCHED",
+      "phonetic": "(rech'-ÔøΩd)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">miserable, foul, poor </p><p>A WRETCHED person is very unhappy or unlucky. </p><p>“I felt WRETCHED when I woke up this morning, but now I’m somewhat better.” </p><p>“This WRETCHED woman has had a hard life.” </p><p>A WRETCHED thing is of very poor quality. </p><p>“This book is WRETCHED. It is the worst I’ve ever read.” </p><p>“They live in a WRETCHED shack with no heat or running water.” </p><p>A WRETCH is a miserable person, either one who is very unfortunate or one who is very evil. </p><p>“Those poor WRETCHES are doomed to die very soon.” </p><p>“Some hateful WRETCH thought it would be fun to burn our house down.” </p><p>Other forms of the word: WRETCH, n.</p>"
+    }
+  },
+  "id": "3",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Will he CONCUR?",
+          "answers": [
+            "help",
+            "agree",
+            "decide",
+            "be there",
+            "argue"
+          ],
+          "word": "CONCUR",
+          "correct": "agree"
+        },
+        {
+          "prompt": "The INITIAL reports.",
+          "answers": [
+            "beginning",
+            "clever",
+            "shortened",
+            "final",
+            "latest"
+          ],
+          "word": "INITIAL",
+          "correct": "beginning"
+        },
+        {
+          "prompt": "To ABDUCT her.",
+          "answers": [
+            "save",
+            "admit",
+            "threaten",
+            "kidnap",
+            "harm"
+          ],
+          "word": "ABDUCT",
+          "correct": "kidnap"
+        },
+        {
+          "prompt": "His usual ADVERSARY.",
+          "answers": [
+            "partner",
+            "target",
+            "messenger",
+            "argument",
+            "opponent"
+          ],
+          "word": "ADVERSARY",
+          "correct": "opponent"
+        },
+        {
+          "prompt": "His SABER.",
+          "answers": [
+            "armor",
+            "spear",
+            "sword",
+            "cannon",
+            "fur"
+          ],
+          "word": "SABER",
+          "correct": "sword"
+        },
+        {
+          "prompt": "ARID places.",
+          "answers": [
+            "dry",
+            "rainy",
+            "bare",
+            "hot",
+            "green"
+          ],
+          "word": "ARID",
+          "correct": "dry"
+        },
+        {
+          "prompt": "Marvelous CASCADE.",
+          "answers": [
+            "stream",
+            "sunbeam",
+            "waterfall",
+            "mountain",
+            "tomb"
+          ],
+          "word": "CASCADE",
+          "correct": "waterfall"
+        },
+        {
+          "prompt": "DILIGENT teacher.",
+          "answers": [
+            "low-paid",
+            "strict",
+            "careless",
+            "wise",
+            "hard-working"
+          ],
+          "word": "DILIGENT",
+          "correct": "hard-working"
+        },
+        {
+          "prompt": "Another ACCUSATION.",
+          "answers": [
+            "remark",
+            "decision",
+            "charge",
+            "suggestion",
+            "problem"
+          ],
+          "word": "ACCUSATION",
+          "correct": "charge"
+        },
+        {
+          "prompt": "Tendency to MEANDER.",
+          "answers": [
+            "mumble",
+            "wander",
+            "dream",
+            "sleep",
+            "despair"
+          ],
+          "word": "MEANDER",
+          "correct": "wander"
+        },
+        {
+          "prompt": "What does it ENCOMPASS?",
+          "answers": [
+            "point to",
+            "leave out",
+            "mean",
+            "include",
+            "matter"
+          ],
+          "word": "ENCOMPASS",
+          "correct": "include"
+        },
+        {
+          "prompt": "EMBRYONIC plans.",
+          "answers": [
+            "exciting",
+            "productive",
+            "undeveloped",
+            "complete",
+            "unusual"
+          ],
+          "word": "EMBRYONIC",
+          "correct": "undeveloped"
+        },
+        {
+          "prompt": "No longer AFFILIATED.",
+          "answers": [
+            "separated",
+            "allied",
+            "admired",
+            "pleased",
+            "ashamed"
+          ],
+          "word": "AFFILIATE",
+          "correct": "allied"
+        },
+        {
+          "prompt": "BISECT it.",
+          "answers": [
+            "double",
+            "meet",
+            "decrease",
+            "halve",
+            "change"
+          ],
+          "word": "BISECT",
+          "correct": "halve"
+        },
+        {
+          "prompt": "They were WRETCHED.",
+          "answers": [
+            "captured",
+            "alert",
+            "soaked",
+            "sick",
+            "miserable"
+          ],
+          "word": "WRETCHED",
+          "correct": "miserable"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do people usually get upset when someone CONCURS with them?",
+          "word": "CONCUR",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is December the INITIAL month of the year?",
+          "word": "INITIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it against the law to ABDUCT someone?",
+          "word": "ABDUCT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would ADVERSARIES usually help each other?",
+          "word": "ADVERSARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you cut someone with a SABER?",
+          "word": "SABER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a desert be ARID?",
+          "word": "ARID",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would molasses CASCADE out of the jar?",
+          "word": "CASCADE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are lazy people usually DILIGENT?",
+          "word": "DILIGENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are people who are ACCUSED of murder always guilty?",
+          "word": "ACCUSATION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do runners usually MEANDER toward the finish line?",
+          "word": "MEANDER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does the atmosphere ENCOMPASS the earth?",
+          "word": "ENCOMPASS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an EMBRYONIC project be nearly finished?",
+          "word": "EMBRYONIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a person AFFILIATE himself with a political party?",
+          "word": "AFFILIATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a river BISECT a city?",
+          "word": "BISECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most people like to eat WRETCHED food?",
+          "word": "WRETCHED",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "No one CONCURRED with Jim's opinion that the earth is flat.",
+          "word": "CONCUR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Their INITIAL findings were supported by later research.",
+          "word": "INITIAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jane ABDUCTED to us that we weren't trying hard enough.",
+          "word": "ABDUCT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Poor people love this senator because he is their leading ADVERSARY in Congress.",
+          "word": "ADVERSARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The scar on his face is the result of a SABER duel.",
+          "word": "SABER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Everyone became excited and angry during the ARID debate.",
+          "word": "ARID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Her long hair fell over her shoulders in beautiful CASCADES.",
+          "word": "CASCADE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jane was so DILIGENT we knew that nothing would get done while she was in charge.",
+          "word": "DILIGENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "She was terribly upset by the ACCUSATION that she had lied.",
+          "word": "ACCUSATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "The speaker MEANDERED us to the point where we were all bored.",
+          "word": "MEANDER",
+          "correct": "false"
+        },
+        {
+          "prompt": "He ENCOMPASSED the dog by letting it run free.",
+          "word": "ENCOMPASS",
+          "correct": "false"
+        },
+        {
+          "prompt": "His idea was at such an EMBRYONIC stage that we didn't know if it was any good or not.",
+          "word": "EMBRYONIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "Our organization is not AFFILIATED with any other group.",
+          "word": "AFFILIATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He BISECTED the pie with a knife.",
+          "word": "BISECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "That WRETCH made our lives miserable for years.",
+          "word": "WRETCHED",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "CONCUR",
+          "answers": [
+            "agree",
+            "consent",
+            "expect"
+          ],
+          "word": "CONCUR",
+          "correct": "2"
+        },
+        {
+          "prompt": "INITIAL",
+          "answers": [
+            "recent",
+            "first",
+            "earliest"
+          ],
+          "word": "INITIAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "ABDUCT",
+          "answers": [
+            "steal",
+            "kidnap",
+            "chase"
+          ],
+          "word": "ABDUCT",
+          "correct": "2"
+        },
+        {
+          "prompt": "ADVERSARY",
+          "answers": [
+            "opponent",
+            "soldier",
+            "rival"
+          ],
+          "word": "ADVERSARY",
+          "correct": "1"
+        },
+        {
+          "prompt": "SABER",
+          "answers": [
+            "sword",
+            "arrow",
+            "blade"
+          ],
+          "word": "SABER",
+          "correct": "1"
+        },
+        {
+          "prompt": "ARID",
+          "answers": [
+            "waterless",
+            "aged",
+            "dull"
+          ],
+          "word": "ARID",
+          "correct": "1"
+        },
+        {
+          "prompt": "CASCADE",
+          "answers": [
+            "fall",
+            "pour",
+            "fly"
+          ],
+          "word": "CASCADE",
+          "correct": "2"
+        },
+        {
+          "prompt": "DILIGENT",
+          "answers": [
+            "careful",
+            "busy",
+            "slow"
+          ],
+          "word": "DILIGENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "ACCUSATION",
+          "answers": [
+            "blame",
+            "admission",
+            "criticism"
+          ],
+          "word": "ACCUSATION",
+          "correct": "1"
+        },
+        {
+          "prompt": "MEANDER",
+          "answers": [
+            "ramble",
+            "search",
+            "stray"
+          ],
+          "word": "MEANDER",
+          "correct": "1"
+        },
+        {
+          "prompt": "ENCOMPASS",
+          "answers": [
+            "contain",
+            "describe",
+            "encircle"
+          ],
+          "word": "ENCOMPASS",
+          "correct": "1"
+        },
+        {
+          "prompt": "EMBRYONIC",
+          "answers": [
+            "new",
+            "small",
+            "different"
+          ],
+          "word": "EMBRYONIC",
+          "correct": "2"
+        },
+        {
+          "prompt": "AFFILIATE",
+          "answers": [
+            "remember",
+            "join",
+            "associate"
+          ],
+          "word": "AFFILIATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "BISECT",
+          "answers": [
+            "smash",
+            "cut",
+            "split"
+          ],
+          "word": "BISECT",
+          "correct": "0"
+        },
+        {
+          "prompt": "WRETCHED",
+          "answers": [
+            "unhappy",
+            "dumb",
+            "disgusting"
+          ],
+          "word": "WRETCHED",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "title": "8.2",
+  "definitions": {
+    "ACETOUS": {
+      "word": "ACETOUS",
+      "phonetic": "(as'-g-tgs",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">vinegary, sour tasting </p><p>ACETOUS comes from the Latin word for <i class=“def-ital\">vinegar</i>. It means “pertaining to or producing vinegar.” It is sometimes used in an extended sense to mean generally <i class=“def-ital\">sour</i> or <i class=“def-ital\">sour tasting</i>. </p><p>“The chemical formula produces an ACETOUS solution that is very sour to the taste.” </p><p>“The sarcastic man made some ACETOUS comments about the way the government was being run.”</p>"
+    },
+    "ALACRITY": {
+      "word": "ALACRITY",
+      "phonetic": "(g-lak'-rg-tE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">eagerness, readiness, willingness </p><p>ALACRITY is promptness, eagerness, lively readiness. The word is used with regard to a person who is eager or quite willing to do something, and who will respond quickly and cheerfully when asked. </p><p>“When Charles asked her to the party, she accepted with ALACRITY.” </p><p>“The ALACRITY with which George went on overtime surprised his boss; he hadn’t thought George needed the money.” </p><p>“When the call came, the firemen responded with ALACRITY: they were dressed and in their engines in thirty seconds.”</p>"
+    },
+    "COMPORT": {
+      "word": "COMPORT",
+      "phonetic": "(kgm-port')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to behave, conduct; to agree, correspond </p><p>COMPORT means to <i class=“def-ital\">behave</i>. It is used reflexively--that is, with a word such as <i class=“def-ital\">himself</i>, <i class=“def-ital\">herself</i>, or <i class=“def-ital\">themselves</i>. </p><p>“James COMPORTED himself with great dignity at his father’s funeral.” </p><p>“At the opera Ann COMPORTED herself in such a way that we knew she went there all the time.” </p><p>In a different sense, COMPORT can mean to <i class=“def-ital\">agree</i> or <i class=“def-ital\">correspond</i>. In this sense the word is followed by <i class=“def-ital\">with</i>. </p><p>“The statements in this book do not COMPORT with our current understanding of the facts.” </p><p>Other forms of the word: COMPORTMENT, n.</p>"
+    },
+    "CURSORY": {
+      "word": "CURSORY",
+      "phonetic": "(ker'-sg-rE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">superficial, hasty </p><p>CURSORY comes from a Latin word meaning to <i class=“def-ital\">run</i>, also the source of <i class=“def-ital\">current</i> and <i class=“def-ital\">course</i>. CURSORY means “done hastily and without thoroughness,” <i class=“def-ital\">superficial</i>. The word usually suggests casualness and lack of attention to detail. </p><p>“With a single CURSORY glance at the painting the expert said it was obviously a fake.” </p><p>“Jim had time for only a CURSORY reading of the report before the meeting.” </p><p>“The president made a CURSORY reference to the problem, but didn’t go into any detail about how he would solve it.” </p><p>Many people pick <i class=“def-ital\">swift</i> as the word closest in meaning to CURSORY on the Pretest. CURSORY certainly suggests swiftness, but the emphasis in the word is on the lack of care and thoroughness brought about by one’s speed of doing something.</p>"
+    },
+    "DENIZEN": {
+      "word": "DENIZEN",
+      "phonetic": "(den'-g-zgn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an inhabitant, resident </p><p>A DENIZEN is an inhabitant of a region or a country, particularly one who belongs there by birth or naturalization. </p><p>“The stranger’s wild appearance shocked the staid DENIZENS of the small town.” “At the aquarium we saw sharks, squid, and other DENIZENS of the ocean.” “The woodsman was familiar with all the DENIZENS of the forest.”</p>"
+    },
+    "DESICCATE": {
+      "word": "DESICCATE",
+      "phonetic": "(des'-i-kAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to dry up, dry thoroughly </p><p>To DESICCATE is to dry thoroughly, to remove all the moisture from. </p><p>“The intense dry heat DESICCATED all the logs we had cut.” </p><p>It can also mean to <i class=“def-ital\">become dry</i>. </p><p>“All the plants DESICCATED during the drought.” </p><p>In a specific sense, DESICCATE can mean “to preserve (a food) by removing the moisture.” In an extension of its basic meaning, DESICCATE also means “to make dry or dull, to drain of interest and vitality.” </p><p>“The critic called the play stale and DESICCATED, devoid of intellectual or human interest.” </p><p>“The professor claimed that censorship DESICCATED art by removing all that was fresh and vital in it.” </p><p>Other forms of the word: DESICCATION, n. DESICCATIVE, adj.</p>"
+    },
+    "EGRESS": {
+      "word": "EGRESS",
+      "phonetic": "(E'-gres)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">exit, departure </p><p>EGRESS comes from a Latin word meaning to <i class=“def-ital\">go out</i>.  The <i class=“def-ital\">gress</i> root, meaning <i class=“def-ital\">go</i>, is also found in such words as <i class=“def-ital\">progress</i> and <i class=“def-ital\">regress</i>. An EGRESS is the act of leaving a place. </p><p>“The students’ EGRESS from the classroom at the end of the day was rapid and noisy.” </p><p>An EGRESS is also the place by means of which one departs, an exit. </p><p>“The only EGRESS from the room was a skylight far above his head.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">e-</i> under Prefixes."
+      ]
+    },
+    "IMPECUNIOUS": {
+      "word": "IMPECUNIOUS",
+      "phonetic": "(im-pi-kyU'-nE-gs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">penniless, indigent, needy </p><p><i class=“def-ital\">Pecunia</i> is the Latin word for <i class=“def-ital\">money</i>. It is found in the English words <i class=“def-ital\">pecuniary</i>, “having to do with money,” and IMPECUNIOUS.  The basic meaning of IMPECUNIOUS is “not having money.” IMPECUNIOUS generally implies that this is a more or less continuous state, and sometimes suggests that it is the person’s own fault, because of overspending. </p><p>“The IMPECUNIOUS young man was constantly borrowing money from his friends.” </p><p>“Her IMPECUNIOUS father was forever having difficulty making the mortgage payments on the house.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "MALADROIT": {
+      "word": "MALADROIT",
+      "phonetic": "(mal-g-droyt')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">awkward, clumsy; tactless, inept </p><p>The French and Latin prefix <i class=“def-ital\">mal-</i> means <i class=“def-ital\">bad</i> or <i class=“def-ital\">badly</i>. Someone who is MALADROIT is “badly adroit,” is not at all skillful or dexterous. The word can be used about physical clumsiness, but it is more frequently applied to a lack of tact or good judgment in social situations. </p><p>“The president’s MALADROIT remarks managed to offend just about everyone at the meeting.” </p><p>“Her MALADROIT attempt to make excuses for herself only got her into deeper trouble.” </p><p>“Betty detested family gatherings; try as she would, she always seemed to say something MALADROIT and offend someone.”</p>"
+    },
+    "MALEDICTION": {
+      "word": "MALEDICTION",
+      "phonetic": "(mal-g-dik'-shgn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a curse, slander </p><p>The <i class=“def-ital\">dic</i> part of MALEDICTION comes from a Latin word meaning <i class=“def-ital\">speak</i>; it is also found in words like <i class=“def-ital\">diction</i>, <i class=“def-ital\">dictation</i>, <i class=“def-ital\">predict</i>, and <i class=“def-ital\">contradict</i>. The <i class=“def-ital\">mal</i> part of the word means <i class=“def-ital\">bad</i>; see <i class=“def-ital\">maladroit</i> in this chapter. A MALEDICTION is bad speech directed at someone, a curse or slander. It is the opposite of <i class=“def-ital\">benediction</i>, which is a <i class=“def-ital\">blessing</i>. </p><p>“The witch uttered a grim MALEDICTION against her torturers.” </p><p>“Despite the MALEDICTIONS of his opponents the governor was reelected.”</p>"
+    },
+    "MENDICANT": {
+      "word": "MENDICANT",
+      "phonetic": "(men'-di-kgnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a beggar </p><p>A MENDICANT is a person who lives by begging. </p><p>“The MENDICANT went from house to house, begging for alms.” </p><p>MENDICANT is also an adjective meaning “practicing begging.” </p><p>“The MENDICANT friars depended on the charity of the townspeople for food and shelter.” </p><p>MENDICANT orders are religious orders whose members are not allowed to own property, and who originally had to live by receiving alms.</p>"
+    },
+    "SALUTARY": {
+      "word": "SALUTARY",
+      "phonetic": "(sal'-yÔøΩ-ter-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wholesome, healthful, salubrious, remedial </p><p>SALUTARY comes from the Latin word for <i class=“def-ital\">health</i>. Its basic meaning is “promoting health.” </p><p>“This ointment’s effect is SALUTARY; it will be quite an effective medicine.” </p><p>In an extended sense, SALUTARY means “producing a beneficial effect.” In this sense, it is often used about things that may be temporarily unpleasant, but ultimately will be helpful. </p><p>“The doctor said that a salt-free diet would prove to be SALUTARY in the long run.” </p><p>“This SALUTARY criticism helped the pianist overcome many of her problems.” </p><p>“The SALUTARY debate forced both sides to think more deeply about the issue.”</p>"
+    },
+    "UMBRAGE": {
+      "word": "UMBRAGE",
+      "phonetic": "(uhm'-brij)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">offense, resentment, annoyance </p><p>UMBRAGE is usually used in the phrases “to give UMBRAGE” or “to take UMBRAGE.” To take UMBRAGE is to take offense, often because one’s pride is hurt. </p><p>“John took UMBRAGE at the coach’s suggestion that he wasn’t trying hard.” </p><p>“I’m afraid I gave UMBRAGE to Mr. Donnelly with my remarks about his children.” </p><p>“Jones said he didn’t feel any UMBRAGE about being passed over for the promotion, because he didn’t think he was qualified.”</p>"
+    },
+    "ABSCOND": {
+      "word": "ABSCOND",
+      "phonetic": "(ab-skond')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to depart hurriedly and secretly, flee, escape </p><p>To ABSCOND is to leave in a sudden and secret manner, generally to avoid the consequences of a crime. </p><p>“The embezzler ABSCONDED with millions of dollars of the bank’s money.” </p><p>“When the Internal Revenue Service began investigating his tax returns, Bill decided to ABSCOND from the country.” </p><p>“The mobster chose to ABSCOND rather than stand trial for murder.” </p><p><i class=“def-ital\">Rob</i> is the most common wrong answer, chosen by people who know that ABSCOND has something to do with crime. Robbers might ABSCOND after committing their crime, but ABSCOND means to <i class=“def-ital\">flee</i>, not to <i class=“def-ital\">rob</i>.</p>"
+    },
+    "LACHRYMOSE": {
+      "word": "LACHRYMOSE",
+      "phonetic": "(lak'-rÔøΩ-mOs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">tearful, weepy; melancholy, mournful </p><p>LACHRYMOSE comes from the Latin word for <i class=“def-ital\">tear</i> and means “given to tears or weeping.” The word usually has a somewhat negative sense, suggesting that the weepiness is excessive. </p><p>“When he was drunk he became quite LACHRYMOSE, weeping over the sins of his past and the state of the world.” </p><p>LACHRYMOSE also means “causing tears,” <i class=“def-ital\">melancholy</i>. </p><p>“After his defeat the politician made a LACHRYMOSE speech, full of self-pity and resentment.” </p><p>“Their farewell at the airport was long and LACHRYMOSE. They didn’t know if they’d ever see each other again.”</p>"
+    }
+  },
+  "id": "2",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "ACETOUS",
+          "answers": [
+            "vinegary",
+            "smooth",
+            "brittle",
+            "putrid",
+            "sweet"
+          ],
+          "word": "ACETOUS",
+          "correct": "vinegary"
+        },
+        {
+          "prompt": "ALACRITY",
+          "answers": [
+            "uncertainty",
+            "despair",
+            "sarcasm",
+            "cleverness",
+            "eagerness"
+          ],
+          "word": "ALACRITY",
+          "correct": "eagerness"
+        },
+        {
+          "prompt": "to COMPORT",
+          "answers": [
+            "instruct",
+            "transmit",
+            "join",
+            "believe",
+            "behave"
+          ],
+          "word": "COMPORT",
+          "correct": "behave"
+        },
+        {
+          "prompt": "CURSORY",
+          "answers": [
+            "careful",
+            "swift",
+            "superficial",
+            "deceptive",
+            "unnecessary"
+          ],
+          "word": "CURSORY",
+          "correct": "superficial"
+        },
+        {
+          "prompt": "DENIZEN",
+          "answers": [
+            "stranger",
+            "inhabitant",
+            "supporter",
+            "veteran",
+            "victim"
+          ],
+          "word": "DENIZEN",
+          "correct": "inhabitant"
+        },
+        {
+          "prompt": "to DESICCATE",
+          "answers": [
+            "massacre",
+            "flood",
+            "dry up",
+            "crush",
+            "burn"
+          ],
+          "word": "DESICCATE",
+          "correct": "dry up"
+        },
+        {
+          "prompt": "EGRESS",
+          "answers": [
+            "entrance",
+            "exit",
+            "corridor",
+            "descent",
+            "pathway"
+          ],
+          "word": "EGRESS",
+          "correct": "exit"
+        },
+        {
+          "prompt": "IMPECUNIOUS",
+          "answers": [
+            "extravagant",
+            "homeless",
+            "penniless",
+            "strange",
+            "humorless"
+          ],
+          "word": "IMPECUNIOUS",
+          "correct": "penniless"
+        },
+        {
+          "prompt": "MALADROIT",
+          "answers": [
+            "ill",
+            "vicious",
+            "unhappy",
+            "awkward",
+            "skillful"
+          ],
+          "word": "MALADROIT",
+          "correct": "awkward"
+        },
+        {
+          "prompt": "MALEDICTION",
+          "answers": [
+            "admiration",
+            "illness",
+            "mistake",
+            "criticism",
+            "curse"
+          ],
+          "word": "MALEDICTION",
+          "correct": "curse"
+        },
+        {
+          "prompt": "MENDICANT",
+          "answers": [
+            "beggar",
+            "tailor",
+            "cripple",
+            "miser",
+            "priest"
+          ],
+          "word": "MENDICANT",
+          "correct": "beggar"
+        },
+        {
+          "prompt": "SALUTARY",
+          "answers": [
+            "lonely",
+            "wholesome",
+            "perfect",
+            "bad",
+            "wet"
+          ],
+          "word": "SALUTARY",
+          "correct": "wholesome"
+        },
+        {
+          "prompt": "UMBRAGE",
+          "answers": [
+            "pleasure",
+            "concern",
+            "offense",
+            "danger",
+            "pressure"
+          ],
+          "word": "UMBRAGE",
+          "correct": "offense"
+        },
+        {
+          "prompt": "to ABSCOND",
+          "answers": [
+            "lie",
+            "wander",
+            "flee",
+            "rob",
+            "hide"
+          ],
+          "word": "ABSCOND",
+          "correct": "flee"
+        },
+        {
+          "prompt": "LACHRYMOSE",
+          "answers": [
+            "tearful",
+            "sleepy",
+            "thirsty",
+            "grim",
+            "lazy"
+          ],
+          "word": "LACHRYMOSE",
+          "correct": "tearful"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is sugar ACETOUS?",
+          "word": "ACETOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are lazy people known for their ALACRITY?",
+          "word": "ALACRITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a rowdy COMPORT himself with dignity?",
+          "word": "COMPORT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a painstaking examination CURSORY?",
+          "word": "CURSORY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are you a DENIZEN of the universe?",
+          "word": "DENIZEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can heat cause things to DESICCATE?",
+          "word": "DESICCATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a trap door be an EGRESS?",
+          "word": "EGRESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are IMPECUNIOUS people likely to spend a great deal of money?",
+          "word": "IMPECUNIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Should diplomats be MALADROIT?",
+          "word": "MALADROIT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person generally be pleased by MALEDICTIONS?",
+          "word": "MALEDICTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are MENDICANTS usually needy?",
+          "word": "MENDICANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can self-denial be SALUTARY?",
+          "word": "SALUTARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person take UMBRAGE at being cursed at?",
+          "word": "UMBRAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person who is ABSCONDING be in a hurry?",
+          "word": "ABSCOND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a love story be LACHRYMOSE?",
+          "word": "LACHRYMOSE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The cider had an unpleasant ACETOUS taste that told us it had gone bad.",
+          "word": "ACETOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her ALACRITY in accepting the job startled the interviewer.",
+          "word": "ALACRITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Mary COMPORTED herself better than anyone else in the contest.",
+          "word": "COMPORT",
+          "correct": "true"
+        },
+        {
+          "prompt": "His CURSORY attempts to keep us informed showed that he really didn't care what we knew.",
+          "word": "CURSORY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The exterminator said he would get rid of the termites, carpenter ants, and any other unwanted DENIZENS of the house.",
+          "word": "DENIZEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "The piece of fruit was old and DESICCATED and did not look very appetizing.",
+          "word": "DESICCATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The fire blocked their only means of EGRESS from the building.",
+          "word": "EGRESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The IMPECUNIOUS man finally went bankrupt.",
+          "word": "IMPECUNIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The speaker's MALADROIT witticisms did little to put the audience at ease.",
+          "word": "MALADROIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The priest uttered a brief MALEDICTION for us before we set off on the dangerous journey.",
+          "word": "MALEDICTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "We offered the MENDICANT what food and money we could spare.",
+          "word": "MENDICANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The SALUTARY woman said she had never felt better in her life.",
+          "word": "SALUTARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Mrs. Fields took UMBRAGE at the teacher's comment that her son watched too much television.",
+          "word": "UMBRAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Three teenagers ABSCONDED the liquor store of a thousand dollars.",
+          "word": "ABSCOND",
+          "correct": "false"
+        },
+        {
+          "prompt": "The LACHRYMOSE girl found a dozen things to weep about in the newspaper every morning.",
+          "word": "LACHRYMOSE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ACETOUS",
+          "answers": [
+            "tart",
+            "hot",
+            "sour"
+          ],
+          "word": "ACETOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "ALACRITY",
+          "answers": [
+            "harshness",
+            "swiftness",
+            "eagerness"
+          ],
+          "word": "ALACRITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "COMPORT",
+          "answers": [
+            "express",
+            "agree",
+            "behave"
+          ],
+          "word": "COMPORT",
+          "correct": "0"
+        },
+        {
+          "prompt": "CURSORY",
+          "answers": [
+            "haphazard",
+            "rapid",
+            "hasty"
+          ],
+          "word": "CURSORY",
+          "correct": "1"
+        },
+        {
+          "prompt": "DENIZEN",
+          "answers": [
+            "resident",
+            "traveler",
+            "inhabitant"
+          ],
+          "word": "DENIZEN",
+          "correct": "1"
+        },
+        {
+          "prompt": "DESICCATE",
+          "answers": [
+            "starve",
+            "bake",
+            "parch"
+          ],
+          "word": "DESICCATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "EGRESS",
+          "answers": [
+            "movement",
+            "departure",
+            "exit"
+          ],
+          "word": "EGRESS",
+          "correct": "0"
+        },
+        {
+          "prompt": "IMPECUNIOUS",
+          "answers": [
+            "needy",
+            "devious",
+            "destitute"
+          ],
+          "word": "IMPECUNIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "MALADROIT",
+          "answers": [
+            "tactless",
+            "sarcastic",
+            "gauche"
+          ],
+          "word": "MALADROIT",
+          "correct": "1"
+        },
+        {
+          "prompt": "MALEDICTION",
+          "answers": [
+            "curse",
+            "denunciation",
+            "fright"
+          ],
+          "word": "MALEDICTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "MENDICANT",
+          "answers": [
+            "solicitor",
+            "physician",
+            "beggar"
+          ],
+          "word": "MENDICANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "SALUTARY",
+          "answers": [
+            "sanitary",
+            "truthful",
+            "beneficial"
+          ],
+          "word": "SALUTARY",
+          "correct": "1"
+        },
+        {
+          "prompt": "UMBRAGE",
+          "answers": [
+            "resentment",
+            "indignation",
+            "incredulity"
+          ],
+          "word": "UMBRAGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ABSCOND",
+          "answers": [
+            "escape",
+            "flee",
+            "retreat"
+          ],
+          "word": "ABSCOND",
+          "correct": "2"
+        },
+        {
+          "prompt": "LACHRYMOSE",
+          "answers": [
+            "ashamed",
+            "tearful",
+            "sorrowful"
+          ],
+          "word": "LACHRYMOSE",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

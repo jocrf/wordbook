@@ -25,13 +25,13 @@ export const getFile = (name) => {
     'frontBackMatter': `${urlPrefix}/front-back-matter.json`,
     0: `${urlPrefix}/placementdata.json`,
     1: `${urlPrefix}/level-1`,
-    2: `${urlPrefix}/new-level-2-trial.json`,
-    3: `${urlPrefix}/new-level-3-trial.json`,
-    4: `${urlPrefix}/new-level-4-trial.json`,
-    5: `${urlPrefix}/new-level-5-trial.json`,
-    6: `${urlPrefix}/new-level-6-trial.json`,
-    7: `${urlPrefix}/new-level-7-trial.json`,
-    8: `${urlPrefix}/new-level-8-trial.json`
+    2: `${urlPrefix}/level-2`,
+    3: `${urlPrefix}/level-3`,
+    4: `${urlPrefix}/level-4`,
+    5: `${urlPrefix}/level-5`,
+    6: `${urlPrefix}/level-6`,
+    7: `${urlPrefix}/level-7`,
+    8: `${urlPrefix}/level-8`
   };
   return fileNames[name];
 };

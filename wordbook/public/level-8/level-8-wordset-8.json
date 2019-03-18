@@ -1,0 +1,608 @@
+{
+  "title": "8.8",
+  "definitions": {
+    "APPOSITE": {
+      "word": "APPOSITE",
+      "phonetic": "(ap'-ÔøΩzit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fitting, suitable, appropriate </p><p>APPOSITE means <i class=“def-ital\">fitting</i>, <i class=“def-ital\">apt</i>, <i class=“def-ital\">pertinent</i>. The word is usually applied to something, like a quotation, that is strikingly appropriate for a particular situation. </p><p>“I thought the dean’s remarks about belt-tightening were extremely APPOSITE, given the recent release of this year’s budget figures.” </p><p>“The text was reasonably clear, but the photographs were not particularly APPOSITE.” </p><p>“We thought it was an APPOSITE decision to dedicate the new gym on the twenty-fifth anniversary of the dedication of the old gym.”</p>"
+    },
+    "CALLOW": {
+      "word": "CALLOW",
+      "phonetic": "(kal'-0)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">immature, inexperienced, unsophisticated </p><p>CALLOW comes from an Anglo-Saxon word meaning <i class=“def-ital\">bald</i>, which would seem to be almost an opposite of its current meaning, <i class=“def-ital\">immature</i>. Originally, however, the word was applied to birds, and referred to the lack of feathers of a young bird. CALLOW people, then, are like birds who haven’t learned to fly; they are naive and inexperienced in the ways of the world. </p><p>“The upperclassmen at the school often take advantage of the CALLOW freshmen.” </p><p>“The CALLOW recruits were hopelessly inept at being soldiers.” </p><p><i class=“def-ital\">Insincere</i> is the most commonly chosen wrong answer on the Pretest, perhaps because CALLOW sounds like such negative words as <i class=“def-ital\">callous</i> and <i class=“def-ital\">shallow</i>.</p>"
+    },
+    "CONTUMACIOUS": {
+      "word": "CONTUMACIOUS",
+      "phonetic": "(kon-tU-mA'-shÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">rebellious, insubordinate </p><p>A CONTUMACIOUS person is stubbornly, and often contemptuously, resistant to authority. The word is especially used about resistance to legal authority, for example by ignoring a summons. </p><p>“The CONTUMACIOUS rebels scoffed at the indictments, saying they were nothing but worthless pieces of paper.” </p><p>“When asked if he would abide by the committee’s decision, his CONTUMACIOUS reply was ‘Nuts!’.” </p><p>The noun form of CONTUMACIOUS is CONTUMACY. </p><p>“His CONTUMACY in refusing to turn over the documents to the court is reprehensible and illegal.” </p><p>Other forms of the word: CONTUMACY, n.</p>"
+    },
+    "COUNTERPANE": {
+      "word": "COUNTERPANE",
+      "phonetic": "(kown'-tÔøΩr-pAn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a bedspread, coverlet </p><p>COUNTERPANE is an old-fashioned word for bedspread. </p><p>“When you make the bed, turn the COUNTERPANE down neatly under the pillow.” </p><p>“The bed was covered with a beautiful needlepoint COUNTERPANE.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">window</i>, probably a guess based on the <i class=“def-ital\">pane</i> part of COUNTERPANE.</p>"
+    },
+    "CUPIDITY": {
+      "word": "CUPIDITY",
+      "phonetic": "(kyU-pid'-ÔøΩ-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">greed, avarice, rapacity </p><p>Cupid was the Roman god of love. Both <i class=“def-ital\">Cupid</i> and CUPIDITY come from a Latin word meaning <i class=“def-ital\">desire</i>.  CUPIDITY, however, is only used about desire for wealth or possessions, <i class=“def-ital\">greed</i>. </p><p>“His CUPIDITY is only exceeded by his stupidity. He is not smart enough to know how to obtain the wealth he longs for.” </p><p>“Her greatest fault is her CUPIDITY; she wants to own everything she sees in the jewelry store.” </p><p>The wrong answer <i class=“def-ital\">love</i> attracts people who are familiar with Cupid, but don’t know the meaning of CUPIDITY.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ity</i> under Suffixes."
+      ]
+    },
+    "OFFICIOUS": {
+      "word": "OFFICIOUS",
+      "phonetic": "(ÔøΩ-fish'-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">meddlesome, impertinent, intrusive </p><p>One of the many meanings of the word OFFICE is “an act performed for another,” a <i class=“def-ital\">service</i> or <i class=“def-ital\">favor</i>. </p><p>“Through the kind OFFICES of a friend she was able to find transportation to the meeting.” </p><p>OFFICIOUS is an adjective from this sense of OFFICE.  OFFICIOUS originally meant simply “eager to offer one’s services.” Now, however, it always contains the sense that this offer is unwanted and intrusive. </p><p>“The president’s OFFICIOUS meddling made a mess out of the company volleyball tournament.” </p><p>“The OFFICIOUS nurse wants to have a hand in every decision made on the ward.” </p><p><i class=“def-ital\">Pompous</i> is a more common answer than the correct synonym, <i class=“def-ital\">meddlesome</i>. An OFFICIOUS person may seem pompous, but pomposity is not involved in the meaning of the word.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "PROLIX": {
+      "word": "PROLIX",
+      "phonetic": "(prO'-liks)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wordy, verbose, long-winded </p><p>A PROLIX person speaks or writes at such great length as to be tedious. A PROLIX work is one that is too wordy. </p><p>“It seemed as if the PROLIX after-dinner speaker would go on forever.” </p><p>“My teacher hasn’t assigned many books, but each one is so PROLIX I’m afraid I won’t get through any of them.” </p><p>“Your essay is too PROLIX; you go on for ten pages to state what you could have said in one.” </p><p>Other forms of the word: PROLIXITY, n.</p>"
+    },
+    "UKASE": {
+      "word": "UKASE",
+      "phonetic": "(yU'-kAs",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an edict, decree </p><p>UKASE is one of the few words in English that come from the Russian. A UKASE was a proclamation or order of the czar that had the force of law. In English, a UKASE is any edict or decree that is backed by strong authority and a presumption that it will be obeyed. </p><p>“When Mr. Phipps issued a UKASE, no one dared disobey; he was the absolute authority in the company.” </p><p>“The citizens rebelled against the dictator’s government by UKASE, and insisted that they be able to elect representatives who could vote on laws.”</p>"
+    },
+    "ANIMUS": {
+      "word": "ANIMUS",
+      "phonetic": "(an'-ÔøΩ-mÔøΩs)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">hostility, animosity, enmity </p><p>ANIMUS is the Latin word for <i class=“def-ital\">soul</i>. In English it can be used in a similar way to mean <i class=“def-ital\">spirit</i> or <i class=“def-ital\">imagination</i>, but it is generally used in a narrower sense to mean “a spirit of ill will,” <i class=“def-ital\">hostility</i>. It is similar to <i class=“def-ital\">animosity</i>, which comes from the same Latin source, except that an ANIMUS is more deep-seated and personal. </p><p>“The defendant’s ANIMUS toward the lawyer was evident in the short, surly answers he gave.” </p><p>“It is difficult to overcome the children’s ANIMUS toward classical music.” </p><p>“Her ANIMUS toward her ex-husband was so strong that no one mentioned his name in her presence.”</p>"
+    },
+    "ATELIER": {
+      "word": "ATELIER",
+      "phonetic": "(at-ÔøΩ1-yA')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a workshop, artist’s studio </p><p>Note the pronunciation: ATELIER is from the French, and keeps its French pronunciation. An ATELIER is an artist’s studio or a workroom where students or apprentices of an artist work. </p><p>“The painter’s ATELIER has a skylight so that he gets natural light.” </p><p>“The huge mural covered one wall of the ATELIER; dozens of students worked on little pieces of it.” </p><p>More people choose <i class=“def-ital\">garret</i>, a wrong answer, than <i class=“def-ital\">workshop</i>, the right one. This could be due to a confusion with <i class=“def-ital\">attic</i>, or <i class=“def-ital\">garret</i> may be chosen by people who know that an ATELIER is usually at the top of a building, without knowing precisely what it is.</p>"
+    },
+    "EVANESCENT": {
+      "word": "EVANESCENT",
+      "phonetic": "(ev-ÔøΩ-nes'-ÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">vanishing, fleeting, impermanent </p><p>Something that is EVANESCENT exists only for a short time and then vanishes. The word usually implies that this brief existence is due to the object’s delicacy and fragility. EVANESCENT is used about both physical objects and nonphysical states like fame. </p><p>“Her dreams were so EVANESCENT that she couldn’t remember them, and was left only with uncertain memories of loveliness.” </p><p>“The EVANESCENT morning mist drifted up from the river and vanished in the sunlight.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">sparkling</i>. This is probably due to a confusion with <i class=“def-ital\">effervescent</i>. </p><p>Other forms of the word: EVANESCE, v. EVANESCENCE, n.</p>"
+    },
+    "PERTINACIOUS": {
+      "word": "PERTINACIOUS",
+      "phonetic": "(per-tÔøΩ-nA'-shÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">obstinate, stubborn, persistent </p><p>PERTINACIOUS is related to the word <i class=“def-ital\">tenacious</i>. Both come from a Latin word meaning to <i class=“def-ital\">hold</i> and are used about people who hold fast to a purpose or belief. But while <i class=“def-ital\">tenacious</i> is usually used in a positive sense, PERTINACIOUS has a negative connotation; it is used about people who are stubbornly persistent, who annoy others with their doggedness. </p><p>“The PERTINACIOUS derelict followed me down the street, asking again and again for money.” </p><p>“The guide PERTINACIOUSLY insisted we were heading east, even when the sun began to set in front of us.” </p><p>“The boy’s PERTINACIOUS curiosity exhausted us and then started to irritate us.” </p><p><i class=“def-ital\">Rude</i> is a commonly chosen wrong answer, probably due to confusion with <i class=“def-ital\">impertinent</i>. </p><p>Other forms of the word: PERTINACITY, n.</p>"
+    },
+    "PILEOUS": {
+      "word": "PILEOUS",
+      "phonetic": "(pll'-E-ÔøΩs",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hairy, furry </p><p>PILEOUS and the similar adjective <i class=“def-ital\">pilose</i> both come from a Latin word for <i class=“def-ital\">hair</i>, and mean <i class=“def-ital\">hairy</i>. The words particularly refer to hair with a soft texture. Another word from this source is <i class=“def-ital\">pile</i>, the soft compact surface texture of certain kinds of carpets. </p><p>“He was startled awake when he reached over and embraced something very PILEOUS, but it was only his daughter’s huge teddy bear.” </p><p>“Tarantulas have PILEOUS bodies that, along with their large size, make them quite gruesome.”</p>"
+    },
+    "PUNCTILIOUS": {
+      "word": "PUNCTILIOUS",
+      "phonetic": "(puh",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">attentive to fine points, careful, precise, scrupulous </p><p>PUNCTILIOUS and its related noun PUNCTILIO come from Italian and Spanish words meaning “a small point.” A PUNCTILIO is a fine point of behavior or etiquette. </p><p>“He had no use for the PUNCTILIOS of these stuffy people, so he said and did whatever he pleased.” </p><p>PUNCTILIOUS means “attentive to fine points” and would be used about a person who is careful to observe the niceties of formal behavior. Often the word suggests excessive attention to these fine points. </p><p>“Mrs. Andrews is PUNCTILIOUS about following the etiquette books in every detail when she gives a party.” </p><p>“The PUNCTILIOUS expert is always correcting everyone’s grammar.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">pompous</i>, possibly because PUNCTILIOUS people seem pompous and arrogant, possibly because of confusion with the word <i class=“def-ital\">supercilious</i>, which means <i class=“def-ital\">haughty</i>, <i class=“def-ital\">disdainful</i>. See <i class=“def-ital\">supercilious</i> in Chapter 4. </p><p>Other forms of the word: PUNCTILIO, n.</p>"
+    },
+    "COMITY": {
+      "word": "COMITY",
+      "phonetic": "(kom'-ÔøΩ-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">civility, mutual courtesy </p><p>COMITY is a rather formal word for <i class=“def-ital\">civility</i>. It is often used to refer to courteous relations between countries or heads of state, as in “COMITY of nations.” </p><p>“We must strive for COMITY; if nothing else, we should treat each other with respect.” </p><p>“The COMITY of the two leaders was based on a sincere desire for world peace; to this end, they started by treating one another civilly.” </p><p>“As it became clear that the little principality was not going to repay its debts soon, the COMITY it shared with larger states began to wear thin.”</p>"
+    }
+  },
+  "id": "8",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "APPOSITE",
+          "answers": [
+            "unsuitable",
+            "correct",
+            "famous",
+            "different",
+            "fitting"
+          ],
+          "word": "APPOSITE",
+          "correct": "fitting"
+        },
+        {
+          "prompt": "CALLOW",
+          "answers": [
+            "insincere",
+            "serene",
+            "pompous",
+            "good-looking",
+            "immature"
+          ],
+          "word": "CALLOW",
+          "correct": "immature"
+        },
+        {
+          "prompt": "CONTUMACIOUS",
+          "answers": [
+            "diplomatic",
+            "afflicted",
+            "enormous",
+            "rebellious",
+            "dangerous"
+          ],
+          "word": "CONTUMACIOUS",
+          "correct": "rebellious"
+        },
+        {
+          "prompt": "COUNTERPANE",
+          "answers": [
+            "window",
+            "bedspread",
+            "tablecloth",
+            "pillow",
+            "rug"
+          ],
+          "word": "COUNTERPANE",
+          "correct": "bedspread"
+        },
+        {
+          "prompt": "CUPIDITY",
+          "answers": [
+            "generosity",
+            "love",
+            "greed",
+            "fear",
+            "deceit"
+          ],
+          "word": "CUPIDITY",
+          "correct": "greed"
+        },
+        {
+          "prompt": "OFFICIOUS",
+          "answers": [
+            "useful",
+            "pompous",
+            "arrogant",
+            "hardworking",
+            "meddlesome"
+          ],
+          "word": "OFFICIOUS",
+          "correct": "meddlesome"
+        },
+        {
+          "prompt": "PROLIX",
+          "answers": [
+            "wordy",
+            "short",
+            "political",
+            "complicated",
+            "unnecessary"
+          ],
+          "word": "PROLIX",
+          "correct": "wordy"
+        },
+        {
+          "prompt": "UKASE",
+          "answers": [
+            "edict",
+            "debate",
+            "greeting",
+            "tyrant",
+            "ordinance"
+          ],
+          "word": "UKASE",
+          "correct": "edict"
+        },
+        {
+          "prompt": "ANIMUS",
+          "answers": [
+            "attraction",
+            "perplexity",
+            "fear",
+            "power",
+            "hostility"
+          ],
+          "word": "ANIMUS",
+          "correct": "hostility"
+        },
+        {
+          "prompt": "ATELIER",
+          "answers": [
+            "restaurant",
+            "workshop",
+            "museum",
+            "hotel",
+            "garret"
+          ],
+          "word": "ATELIER",
+          "correct": "workshop"
+        },
+        {
+          "prompt": "EVANESCENT",
+          "answers": [
+            "bright",
+            "sparkling",
+            "vanishing",
+            "eternal",
+            "simple"
+          ],
+          "word": "EVANESCENT",
+          "correct": "vanishing"
+        },
+        {
+          "prompt": "PERTINACIOUS",
+          "answers": [
+            "rude",
+            "graceful",
+            "important",
+            "obstinate",
+            "intelligent"
+          ],
+          "word": "PERT!NACIOUS",
+          "correct": "obstinate"
+        },
+        {
+          "prompt": "PILEOUS",
+          "answers": [
+            "tiny",
+            "hairy",
+            "ugly",
+            "winged",
+            "flat-headed"
+          ],
+          "word": "PILEOUS",
+          "correct": "hairy"
+        },
+        {
+          "prompt": "PUNCTILIOUS",
+          "answers": [
+            "careful",
+            "extravagant",
+            "ridiculous",
+            "pompous",
+            "stern"
+          ],
+          "word": "PUNCTILIOUS",
+          "correct": "careful"
+        },
+        {
+          "prompt": "COMITY",
+          "answers": [
+            "hostility",
+            "pleasure",
+            "love",
+            "beauty",
+            "civility"
+          ],
+          "word": "COMITY",
+          "correct": "civility"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can an adage be APPOSITE?",
+          "word": "APPOSITE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a CALLOW youth likely to be extremely self-confident?",
+          "word": "CALLOW",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a timid person likely to be CONTUMACIOUS?",
+          "word": "CONTUMACIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are COUNTERPANES generally soft?",
+          "word": "COUNTERPANE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is CUPIDITY a vice?",
+          "word": "CUPIDITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could an OFFICIOUS person be annoying?",
+          "word": "OFFICIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a PROLIX person use a great many words?",
+          "word": "PROLIX",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can the president of a company issue a UKASE?",
+          "word": "UKASE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an extravagant person feel an ANIMUS against spending money?",
+          "word": "ANIMUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would an ATELIER generally be tiny?",
+          "word": "ATELIER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a cathedral EVANESCENT?",
+          "word": "EVANESCENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it easy to get rid of a PERTINACIOUS admirer?",
+          "word": "PERTINACIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are billiard balls PILEOUS?",
+          "word": "PILEOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a sloppy person likely to be PUNCTILIOUS?",
+          "word": "PUNCTILIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are belligerent nations interested in COMITY?",
+          "word": "COMITY",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "No one could gainsay the principal's APPOSITE remarks about the need for discipline.",
+          "word": "APPOSITE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The CALLOW young actress was afraid to ask the director for an audition.",
+          "word": "CALLOW",
+          "correct": "true"
+        },
+        {
+          "prompt": "The judge deplored their CONTUMACY and threatened to hold them in contempt of court.",
+          "word": "CONTUMACIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The baseball shattered the COUNTERPANE.",
+          "word": "COUNTERPANE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The accountant's CUPIDITY led him to steal thousands of dollars in company funds.",
+          "word": "CUPIDITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The OFFICIOUS results showed neither candidate gaining a majority.",
+          "word": "OFFICIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Because of space limitations, the editor told the writer to avoid PROLIXITY.",
+          "word": "PROLIX",
+          "correct": "true"
+        },
+        {
+          "prompt": "The workers resent these management UKASES; they want some say in how the company is run.",
+          "word": "UKASE",
+          "correct": "true"
+        },
+        {
+          "prompt": "His ANIMUS toward foreigners is an unfortunate byproduct of his experiences during the war.",
+          "word": "ANIMUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The apprentices crowded into the ATELIER to see the famous sculptor at work.",
+          "word": "ATELIER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her happiness proved to be EVANESCENT; in a few months tragedy struck.",
+          "word": "EVANESCENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "It is PERTINACIOUS of you to suggest that I am bigoted.",
+          "word": "PERTINACIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The animal is smooth-skinned except for small PILEOUS areas on each paw.",
+          "word": "PILEOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was PUNCTILIOUS about winning the contest; he simply said he deserved it.",
+          "word": "PUNCTILIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "These new trade restrictions will certainly not increase COMITY among the affected nations.",
+          "word": "COMITY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "APPOSITE",
+          "answers": [
+            "pertinent",
+            "germane",
+            "ardent"
+          ],
+          "word": "APPOSITE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CALLOW",
+          "answers": [
+            "naive",
+            "carefree",
+            "inexperienced"
+          ],
+          "word": "CALLOW",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONTUMACIOUS",
+          "answers": [
+            "defiant",
+            "vindictive",
+            "rebellious"
+          ],
+          "word": "CONTUMACIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "COUNTERPANE",
+          "answers": [
+            "pillow",
+            "quilt",
+            "coverlet"
+          ],
+          "word": "COUNTERPANE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CUPIDITY",
+          "answers": [
+            "antagonism",
+            "avarice",
+            "rapacity"
+          ],
+          "word": "CUPIDITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "OFFICIOUS",
+          "answers": [
+            "obtrusive",
+            "irrelevant",
+            "impertinent"
+          ],
+          "word": "OFFICIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "PROLIX",
+          "answers": [
+            "voluble",
+            "steadfast",
+            "loquacious"
+          ],
+          "word": "PROLIX",
+          "correct": "1"
+        },
+        {
+          "prompt": "UKASE",
+          "answers": [
+            "request",
+            "law",
+            "proclamation"
+          ],
+          "word": "UKASE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ANIMUS",
+          "answers": [
+            "antipathy",
+            "aversion",
+            "indifference"
+          ],
+          "word": "ANIMUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "ATELIER",
+          "answers": [
+            "parlor",
+            "workshop",
+            "studio"
+          ],
+          "word": "ATELIER",
+          "correct": "0"
+        },
+        {
+          "prompt": "EVANESCENT",
+          "answers": [
+            "cerebral",
+            "transitory",
+            "ephemeral"
+          ],
+          "word": "EVANESCENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "PERTINACIOUS",
+          "answers": [
+            "rowdy",
+            "stubborn",
+            "dogged"
+          ],
+          "word": "PERTINACIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "PILEOUS",
+          "answers": [
+            "woolly",
+            "scaly",
+            "furry"
+          ],
+          "word": "PILEOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "PUNCTILIOUS",
+          "answers": [
+            "meticulous",
+            "timeless",
+            "scrupulous"
+          ],
+          "word": "PUNCTILIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "COMITY",
+          "answers": [
+            "amicability",
+            "loyalty",
+            "courtesy"
+          ],
+          "word": "COMITY",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

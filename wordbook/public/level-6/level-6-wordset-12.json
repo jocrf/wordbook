@@ -1,0 +1,611 @@
+{
+  "title": "6.12",
+  "definitions": {
+    "AFFINITY": {
+      "word": "AFFINITY",
+      "phonetic": "(:)-fin'-:)-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an attraction, natural liking, close connection </p><p>An AFFINITY <i class=“def-ital\">for</i> something is a strong liking for or attraction to it. </p><p>“She found she had an AFFINITY for speaking in public.” </p><p>“They felt a strange AFFINITY for the deserted old house.” </p><p>An AFFINITY <i class=“def-ital\">with</i> or <i class=“def-ital\">between</i> things or people is a close resemblance or connection between them. </p><p>“There is a strong AFFINITY between the two writers.” </p><p>“The English language has many AFFINITIES with German.” </p><p>AFFINITY has some very specific uses involving this basic idea of <i class=“def-ital\">attraction</i> or <i class=“def-ital\">connection</i>. AFFINITY is relationship by marriage (as opposed to a relationship by blood). In chemistry, AFFINITY is the force by which atoms are held together in chemical compounds.</p>"
+    },
+    "VISTA": {
+      "word": "VISTA",
+      "phonetic": "(vis'-tJ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a view, prospect </p><p>A VISTA is a <i class=“def-ital\">view</i>, especially one seen through or along a narrow passage or avenue. </p><p>“We saw the beautiful VISTA of the distant mountains through the long rows of trees.” </p><p>“A VISTA of the huge mansion appeared to them at the end of the driveway.” </p><p>A VISTA can also be a mental view extending over long periods of time or many matters. </p><p>“Einstein’s theories opened many new VISTAS for research in physics.”</p>"
+    },
+    "ASPIRE": {
+      "word": "ASPIRE",
+      "phonetic": "(J-splr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to long, yearn, be ambitious </p><p>To ASPIRE <i class=“def-ital\">to</i> or <i class=“def-ital\">after</i> something is to be filled with ambition to reach it or accomplish it. You usually ASPIRE to something grand or important. </p><p>“Jane ASPIRED to the presidency.” </p><p>“She ASPIRED to be the best singer of her time.” </p><p>“Tom only ASPIRED after knowledge; nothing else mattered to him.” </p><p>ASPIRATION is the noun from ASPIRE and means <i class=“def-ital\">ambition</i>, <i class=“def-ital\">goal</i>. </p><p>“His one ASPIRATION is to be a professional baseball player.” </p><p>Other forms of the word: ASPIRATION, n.</p>"
+    },
+    "ASSIMILATE": {
+      "word": "ASSIMILATE",
+      "phonetic": "(J-sim'-:)-IAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to absorb, take in </p><p>To ASSIMILATE something is to take it in so that it becomes a part of you. The word can be used about food. </p><p>“The body can ASSIMILATE some foods more easily than others.” </p><p>Or it can be used in a wider sense of ideas or knowledge. </p><p>“Johnny found it difficult to ASSIMILATE all the material the teacher presented to the class.” </p><p>The word is also used about races and cultural groups. </p><p>“It took many years before the immigrants were completely ASSIMILATED into American society.” </p><p>Other forms of the word: ASSIMILATION, n.</p>"
+    },
+    "IMPETUS": {
+      "word": "IMPETUS",
+      "phonetic": "(im'-pJ-tJs)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a moving force, impulse, stimulus </p><p>IMPETUS is the force behind something, the energy with which it is moving. </p><p>“He gave the tricycle a push, and this IMPETUS carried it all the way down the street.” </p><p>“The train didn’t have enough IMPETUS to get to the top of the hill.” </p><p>IMPETUS is also used in a more general sense to mean any <i class=“def-ital\">driving force</i> or <i class=“def-ital\">stimulus</i>. </p><p>“The idea of getting rich quick was a strong IMPETUS behind the gold rush.” </p><p>“His enthusiasm was the real IMPETUS behind the project.”</p>"
+    },
+    "ARDENT": {
+      "word": "ARDENT",
+      "phonetic": "(ahr'-dJnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">burning, warm, passionate, enthusiastic </p><p>ARDENT comes from a Latin word meaning to <i class=“def-ital\">burn</i>. ARDENT is now not often used about actual fire or heat, but means <i class=“def-ital\">on fire</i> with desire, enthusiasm, or some other strong emotion. </p><p>“He was an ARDENT supporter of free speech.” </p><p>“She felt an ARDENT desire to see her native land once more.” </p><p>“He spoke ARDENTLY of his love for his wife.” </p><p>The noun related to ARDENT is ARDOR, which means “warmth of emotion,” <i class=“def-ital\">passion</i>, <i class=“def-ital\">zeal</i>. </p><p>“His ARDOR for chess cooled when he started playing opponents who could beat him.” </p><p>Other forms of the word: ARDOR, n.</p>"
+    },
+    "CONFOUND": {
+      "word": "CONFOUND",
+      "phonetic": "(kÔøΩn-townd'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to confuse, mix up, puzzle, perplex </p><p>CONFOUND comes from Latin words which mean to <i class=“def-ital\">pour together</i>.  To CONFOUND things is to mix them up so that one thing is confused with another. </p><p>“The author’s error is to CONFOUND the desire to do good with the good deed itself.” </p><p>To CONFOUND a person is to confuse him. CONFOUND in this sense is a rather strong word, and suggests such total puzzlement that it is difficult for a person to act. </p><p>“The sudden disappearance of the jewels CONFOUNDED everyone.” </p><p>“They were CONFOUNDED by his stubborn refusal to go along.” </p><p>In the Pretest, many people choose <i class=“def-ital\">anger</i> as the meaning of CONFOUND, probably because CONFOUND is used in a mild oath, “CONFOUND it.” In this sense, CONFOUND means <i class=“def-ital\">damn</i>. It is an expression of anger, but it doesn’t mean to make someone angry.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">con-</i> under Prefixes."
+      ]
+    },
+    "REVEL": {
+      "word": "REVEL",
+      "phonetic": "(rev'-ÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make merry </p><p>To REVEL is to make merry, to be festive. </p><p>“They REVELED for days when they heard the war was over.” </p><p>To REVEL <i class=“def-ital\">in</i> something is take great delight in it. </p><p>“He seemed to REVEL in making people feel uncomfortable.” </p><p>“They REVELED in their freedom when school was over.” </p><p>REVEL is also a noun meaning <i class=“def-ital\">merrymaking</i>, <i class=“def-ital\">noisy festivities</i>. </p><p>“It was quite a REVEL. The fun lasted until dawn.” </p><p>“There were REVELS every night on the millionaire’s yacht.” </p><p>Other forms of the word: REVELRY, n.</p>"
+    },
+    "BESTIAL": {
+      "word": "BESTIAL",
+      "phonetic": "(bes'-chÔøΩI",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">beast-like, brutal, savage </p><p>BESTIAL is an adjective from <i class=“def-ital\">beast</i>.  The word means “of or like a beast” and usually emphasizes the cruelty and savagery of a wild animal. </p><p>“The BESTIAL soldiers killed the women and children in cold blood.” </p><p>“They should go to prison for life for their BESTIAL crimes.” </p><p>“His BESTIAL behavior when he has been drinking shocks everyone.” </p><p>The noun from BESTIAL is BESTIALITY, which is the quality of being a beast. </p><p>“The BESTIALITY of these vicious criminals outraged the public.” </p><p>Other forms of the word: BESTIALITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "ORDEAL": {
+      "word": "ORDEAL",
+      "phonetic": "(or-dEI')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a severe trial </p><p>In ancient times, one way of deciding whether a person was guilty or innocent of a crime was to make the person undergo a severe or painful test like walking through fire. If the person survived this test, he was thought to be innocent of the crime. This test was known as an ORDEAL. </p><p>Nowadays, ORDEAL is used for any severe test or trying experience. </p><p>“Being lost in the desert without water was quite an ORDEAL.” </p><p>“For her, every math test was an ORDEAL.” </p><p>“It was a terrible ORDEAL for him to speak before a crowd.”</p>"
+    },
+    "AFFABLE": {
+      "word": "AFFABLE",
+      "phonetic": "(af'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">pleasant, friendly, gracious </p><p> AFFABLE comes from Latin words meaning “able to speak to.” An AFFABLE person is easy to talk to; he is friendly and polite to everyone. </p><p>“The manager was unusually AFFABLE this morning; she laughed and joked with everyone on the staff.” </p><p>“Our boss is very AFFABLE; he even stops and says hello to the part-time clerks.” </p><p><i class=“def-ital\">Competent</i> is the most commonly chosen wrong answer. Perhaps the people who choose this are confused by the <i class=“def-ital\">-able</i> part of AFFABLE and think the word means <i class=“def-ital\">capable</i>. </p><p>Other forms of the word: AFFABILITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "BLASÉ": {
+      "word": "BLASÉ",
+      "phonetic": "(blah-zA')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">indifferent, world-weary </p><p>BLASÉ is a French word, and keeps its French pronunciation. </p><p>A BLASÉ person has experienced so many pleasures (or pretends that he has) that he has become bored with them. The things that excite or interest the average person leave him indifferent and unimpressed. </p><p>“She was quite BLASÉ about winning the prize. You’d think it happened to her every day.” </p><p>“With a BLASÉ shrug of his shoulders he said it didn’t matter to him whether he went on the trip or not.” </p><p>“He tried to act BLASÉ about being elected class president, but he couldn’t hide his excitement.” </p><p><i class=“def-ital\">Old-fashioned</i> is the most commonly chosen incorrect answer, due to confusion with <i class=“def-ital\">passé</i>, which looks and sounds much like BLASÉ.</p>"
+    },
+    "DEFILE": {
+      "word": "DEFILE",
+      "phonetic": "(di-fll'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make dirty, corrupt, pollute </p><p>To DEFILE something is to make it dirty or impure. DEFILE is a very strong word and suggests doing foul things to something that should be kept pure or sacred. </p><p>“A madman DEFILED the statue by pouring garbage all over it.” </p><p>“He said his home was being DEFILED by the presence of such a vicious person, and he demanded that the man leave immediately.”</p>"
+    },
+    "BANAL": {
+      "word": "BANAL",
+      "phonetic": "(bA'-nÔøΩI",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">commonplace, trite, worn-out </p><p>Something that is BANAL lacks all freshness or originality. It is commonplace and uninteresting. </p><p>“The speaker’s BANAL remarks put everyone to sleep.” </p><p>“The plot of the novel was quite BANAL; I’ve read the same sort of thing a hundred times before.” </p><p>“All her ideas are BANAL; she hasn’t had an original thought in her life.” </p><p>Many people choose <i class=“def-ital\">annoying</i> as the meaning of BANAL. This may be due to confusion of BANAL with <i class=“def-ital\">bane</i>. A <i class=“def-ital\">bane</i> is something that causes trouble or ruin. It is not related to the word BANAL. </p><p>Other forms of the word: BANALITY, n.</p>"
+    },
+    "EXONERATE": {
+      "word": "EXONERATE",
+      "phonetic": "(eg-zon'-ÔøΩrAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to free from blame, clear, relieve </p><p>EXONERATE comes from a Latin word meaning “to relieve of a burden.” Occasionally EXONERATE is used to mean “to relieve of a task or duty.” </p><p>“No one can EXONERATE you from your duty to your parents.” </p><p>The word is usually used, though, in the sense “to free from the burden of blame.” </p><p>“The witness’s testimony completely EXONERATED you.” </p><p>“They admitted the evidence seemed to EXONERATE him from any blame for the fire.” </p><p>EXONERATE gives the idea not only that the person is not guilty, but that he has been cleared so completely that all the burden of being suspected and accused falls away from him.</p>"
+    }
+  },
+  "id": "12",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Remarkable AFFINITY.",
+          "answers": [
+            "concern",
+            "distrust",
+            "attraction",
+            "history",
+            "distance"
+          ],
+          "word": "AFFINITY",
+          "correct": "attraction"
+        },
+        {
+          "prompt": "Amazing VISTA.",
+          "answers": [
+            "area",
+            "future",
+            "view",
+            "times",
+            "idea"
+          ],
+          "word": "VISTA",
+          "correct": "view"
+        },
+        {
+          "prompt": "ASPIRE to be the leader.",
+          "answers": [
+            "demand",
+            "ask",
+            "long",
+            "claim",
+            "refuse"
+          ],
+          "word": "ASPIRE",
+          "correct": "long"
+        },
+        {
+          "prompt": "Completely ASSIMILATED.",
+          "answers": [
+            "rejected",
+            "hidden",
+            "absorbed",
+            "recognized",
+            "revealed"
+          ],
+          "word": "ASSIMILATE",
+          "correct": "absorbed"
+        },
+        {
+          "prompt": "The IMPETUS behind it.",
+          "answers": [
+            "rushing around",
+            "happiness",
+            "thought",
+            "moving force",
+            "indifference"
+          ],
+          "word": "IMPETUS",
+          "correct": "moving force"
+        },
+        {
+          "prompt": "ARDENT desire.",
+          "answers": [
+            "new",
+            "real",
+            "constant",
+            "burning",
+            "mild"
+          ],
+          "word": "ARDENT",
+          "correct": "burning"
+        },
+        {
+          "prompt": "He will CONFOUND anyone.",
+          "answers": [
+            "anger",
+            "please",
+            "discover",
+            "impress",
+            "confuse"
+          ],
+          "word": "CONFOUND",
+          "correct": "confuse"
+        },
+        {
+          "prompt": "REVEL until dawn.",
+          "answers": [
+            "sleep",
+            "make merry",
+            "fight",
+            "sing",
+            "work hard"
+          ],
+          "word": "REVEL",
+          "correct": "make merry"
+        },
+        {
+          "prompt": "BESTIAL behavior.",
+          "answers": [
+            "criminal",
+            "excellent",
+            "animal-like",
+            "logical",
+            "unusual"
+          ],
+          "word": "BESTIAL",
+          "correct": "animal-like"
+        },
+        {
+          "prompt": "Forget about the ORDEAL.",
+          "answers": [
+            "triumph",
+            "contract",
+            "accident",
+            "severe trial",
+            "strange sight"
+          ],
+          "word": "ORDEAL",
+          "correct": "severe trial"
+        },
+        {
+          "prompt": "AFFABLE men.",
+          "answers": [
+            "stupid",
+            "vicious",
+            "competent",
+            "pleasant",
+            "holy"
+          ],
+          "word": "AFFABLE",
+          "correct": "pleasant"
+        },
+        {
+          "prompt": "BLASÉ expression.",
+          "answers": [
+            "indifferent",
+            "lively",
+            "sulky",
+            "innocent",
+            "old-fashioned"
+          ],
+          "word": "BLASÉ",
+          "correct": "indifferent"
+        },
+        {
+          "prompt": "To DEFILE it.",
+          "answers": [
+            "hate",
+            "clean",
+            "steal",
+            "dirty",
+            "break"
+          ],
+          "word": "DEFILE",
+          "correct": "dirty"
+        },
+        {
+          "prompt": "BANAL ideas.",
+          "answers": [
+            "mistaken",
+            "unique",
+            "annoying",
+            "fashionable",
+            "commonplace"
+          ],
+          "word": "BANAL",
+          "correct": "commonplace"
+        },
+        {
+          "prompt": "He was EXONERATED.",
+          "answers": [
+            "accused",
+            "cleared",
+            "found guilty",
+            "released",
+            "arrested"
+          ],
+          "word": "EXONERATE",
+          "correct": "cleared"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do sailors usually have an AFFINITY for the sea?",
+          "word": "AFFINITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a VISTA be very close to a person?",
+          "word": "VISTA",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do some people ASPIRE after fame?",
+          "word": "ASPIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can your body ASSIMILATE rocks?",
+          "word": "ASSIMILATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a push give something IMPETUS?",
+          "word": "IMPETUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an ARDENT swimmer enjoy going to the beach?",
+          "word": "ARDENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people usually enjoy being CONFOUNDED?",
+          "word": "CONFOUND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a team REVEL after it had won a championship?",
+          "word": "REVEL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are BESTIAL people usually likable?",
+          "word": "BESTIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is eating dessert an ORDEAL for most people?",
+          "word": "ORDEAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would an AFFABLE person frighten most people?",
+          "word": "AFFABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a BLASÉ person get excited very easily?",
+          "word": "BLASÉ",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person dislike seeing his church DEFILED?",
+          "word": "DEFILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a BANAL play be fascinating to watch?",
+          "word": "BANAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "If someone was suspected of murder, would he like to be EXONERATED?",
+          "word": "EXONERATED",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The stars seemed to go on and on into AFFINITY.",
+          "word": "AFFINITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "These inventions opened up for us wonderful VISTAS of mankind's future.",
+          "word": "VISTA",
+          "correct": "true"
+        },
+        {
+          "prompt": "He ASPIRED to be a writer, but he ended up working in a factory instead.",
+          "word": "ASPIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They were able to ASSIMILATE the new students into the class without any problem.",
+          "word": "ASSIMILATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The project lost all its IMPETUS when Susan quit.",
+          "word": "IMPETUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "He shrugged ARDENTLY and said he didn't care much one way or the other.",
+          "word": "ARDENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The two men CONFOUNDED the business together and have been partners ever since.",
+          "word": "CONFOUND",
+          "correct": "false"
+        },
+        {
+          "prompt": "It seemed as if everyone were joining in the noisy REVELS celebrating the end of the war.",
+          "word": "REVEL",
+          "correct": "true"
+        },
+        {
+          "prompt": "You must all be on your BESTIAL behavior when we meet the principal.",
+          "word": "BESTIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The man claimed that walking home through the blizzard wasn't an ORDEAL, it was just a minor inconvenience.",
+          "word": "ORDEAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jim was not very AFFABLE at the party; he sat in a corner and refused to speak to anyone.",
+          "word": "AFFABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "This waltz is so BLASÉ. You should be learning all the modern dances.",
+          "word": "BLASÉ",
+          "correct": "false"
+        },
+        {
+          "prompt": "He DEFILED us to come out and fight him.",
+          "word": "DEFILE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The BANAL poison killed them both.",
+          "word": "BANAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The judge EXONERATED the man and set him free.",
+          "word": "EXONERATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "AFFINITY",
+          "answers": [
+            "liking",
+            "increase",
+            "resemblance"
+          ],
+          "word": "AFFINITY",
+          "correct": "1"
+        },
+        {
+          "prompt": "VISTA",
+          "answers": [
+            "distance",
+            "smallness",
+            "view"
+          ],
+          "word": "VISTA",
+          "correct": "1"
+        },
+        {
+          "prompt": "ASPIRE",
+          "answers": [
+            "remember",
+            "desire",
+            "hope"
+          ],
+          "word": "ASPIRE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ASSIMILATE",
+          "answers": [
+            "blend",
+            "adopt",
+            "increase"
+          ],
+          "word": "ASSIMILATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "IMPETUS",
+          "answers": [
+            "power",
+            "height",
+            "force"
+          ],
+          "word": "IMPETUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "ARDENT",
+          "answers": [
+            "tight",
+            "fiery",
+            "strong"
+          ],
+          "word": "ARDENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONFOUND",
+          "answers": [
+            "excite",
+            "bewilder",
+            "puzzle"
+          ],
+          "word": "CONFOUND",
+          "correct": "0"
+        },
+        {
+          "prompt": "REVEL",
+          "answers": [
+            "delight",
+            "expect",
+            "enjoy"
+          ],
+          "word": "REVEL",
+          "correct": "1"
+        },
+        {
+          "prompt": "BESTIAL",
+          "answers": [
+            "crude",
+            "sad",
+            "vicious"
+          ],
+          "word": "BESTIAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "ORDEAL",
+          "answers": [
+            "difficulty",
+            "pain",
+            "surprise"
+          ],
+          "word": "ORDEAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "AFFABLE",
+          "answers": [
+            "friendly",
+            "beautiful",
+            "approachable"
+          ],
+          "word": "AFFABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "BLASÉ",
+          "answers": [
+            "nonchalant",
+            "bored",
+            "ill"
+          ],
+          "word": "BLASÉ",
+          "correct": "2"
+        },
+        {
+          "prompt": "DEFILE",
+          "answers": [
+            "endanger",
+            "corrupt",
+            "dirty"
+          ],
+          "word": "DEFILE",
+          "correct": "0"
+        },
+        {
+          "prompt": "BANAL",
+          "answers": [
+            "stale",
+            "strange",
+            "dull"
+          ],
+          "word": "BANAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "EXONERATE",
+          "answers": [
+            "free",
+            "reward",
+            "relieve"
+          ],
+          "word": "EXONERATE",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

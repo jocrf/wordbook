@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ANGUISH",
+      "answer": "anguish"
+    },
+    {
+      "word": "CLAD",
+      "answer": "clad"
+    },
+    {
+      "word": "ENDEAVOR",
+      "answer": "endeavor"
+    },
+    {
+      "word": "LIVELIHOOD",
+      "answer": "livelihood"
+    },
+    {
+      "word": "PARTITION",
+      "answer": "partitioned"
+    },
+    {
+      "word": "ASSERT",
+      "answer": "asserted"
+    },
+    {
+      "word": "CONSPICUOUS",
+      "answer": "conspicuous"
+    },
+    {
+      "word": "GIST",
+      "answer": "gist"
+    },
+    {
+      "word": "NARRATIVE",
+      "answer": "narrative"
+    },
+    {
+      "word": "PRESUMPTUOUS",
+      "answer": "presumptuous"
+    },
+    {
+      "word": "CASTE",
+      "answer": "castes"
+    },
+    {
+      "word": "DICTATORIAL",
+      "answer": "dictatorial"
+    },
+    {
+      "word": "INVOKE",
+      "answer": "invoked"
+    },
+    {
+      "word": "ORNATE",
+      "answer": "ornate"
+    },
+    {
+      "word": "REPRIMAND",
+      "answer": "reprimanded"
+    },
+    {
+      "word": "CIRCUITOUS",
+      "answer": "circuitous"
+    },
+    {
+      "word": "DON",
+      "answer": "donned"
+    },
+    {
+      "word": "JURISDICTION",
+      "answer": "jurisdiction"
+    },
+    {
+      "word": "PANDEMONIUM",
+      "answer": "pandemonium"
+    },
+    {
+      "word": "SOMBER",
+      "answer": "somber"
+    },
+    {
+      "word": "ANECDOTE",
+      "answer": "anecdotes"
+    },
+    {
+      "word": "DEVISE",
+      "answer": "devise"
+    },
+    {
+      "word": "DWINDLE",
+      "answer": "dwindle"
+    },
+    {
+      "word": "HURTLE",
+      "answer": "hurtle"
+    },
+    {
+      "word": "REALM",
+      "answer": "realm"
+    },
+    {
+      "word": "ANNIHILATE",
+      "answer": "annihilated"
+    },
+    {
+      "word": "DIMINISH",
+      "answer": "diminished"
+    },
+    {
+      "word": "EFFERVESCENT",
+      "answer": "effervescent"
+    },
+    {
+      "word": "IMPEDIMENT",
+      "answer": "impediment"
+    },
+    {
+      "word": "RELISH",
+      "answer": "relish"
+    },
+    {
+      "word": "BEDLAM",
+      "answer": "bedlam"
+    },
+    {
+      "word": "DISCORD",
+      "answer": "discord"
+    },
+    {
+      "word": "FALLACY",
+      "answer": "fallacy"
+    },
+    {
+      "word": "JAUNT",
+      "answer": "jaunt"
+    },
+    {
+      "word": "TALON",
+      "answer": "talons"
+    },
+    {
+      "word": "DEFRAUD",
+      "answer": "defraud"
+    },
+    {
+      "word": "DISSIPATE",
+      "answer": "dissipated"
+    },
+    {
+      "word": "GROPE",
+      "answer": "groped"
+    },
+    {
+      "word": "JOVIAL",
+      "answer": "jovial"
+    },
+    {
+      "word": "TUMULT",
+      "answer": "tumult"
+    },
+    {
+      "word": "DEPLORABLE",
+      "answer": "deplorable"
+    },
+    {
+      "word": "DORMANT",
+      "answer": "dormant"
+    },
+    {
+      "word": "HUE",
+      "answer": "hue"
+    },
+    {
+      "word": "MERCANTILE",
+      "answer": "mercantile"
+    },
+    {
+      "word": "UTILITY",
+      "answer": "utility"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "His",
+      "part2": "methods upset everyone. If he'd just ask nicely instead of demanding to be obeyed he'd be a lot better off.",
+      "correct": "dictatorial",
+      "word": "DICTATORIAL"
+    },
+    {
+      "part1": "Jim's mother",
+      "part2": "him because his room was such a mess.",
+      "correct": "reprimanded",
+      "word": "REPRIMAND"
+    },
+    {
+      "part1": "The news that her son was missing in action caused her great",
+      "part2": ".",
+      "correct": "anguish",
+      "word": "ANGUISH"
+    },
+    {
+      "part1": "The people of India's lowest",
+      "part2": "are traditionally called the \"Untouchables.\"",
+      "correct": "castes",
+      "word": "CASTE"
+    },
+    {
+      "part1": "Everyone stared at the strangely",
+      "part2": "man wearing a clown's hat, a red cape, and long pointed shoes.",
+      "correct": "clad",
+      "word": "CLAD"
+    },
+    {
+      "part1": "He kept us spellbound during the",
+      "part2": "of his escape from the cannibals.",
+      "correct": "narrative",
+      "word": "NARRATIVE"
+    },
+    {
+      "part1": "Tom was so",
+      "part2": "in his wild costume that people could easily spot him from the other side of the hall.",
+      "correct": "conspicuous",
+      "word": "CONSPICUOUS"
+    },
+    {
+      "part1": "At the height of the party it was utter",
+      "part2": "around here. I thought for sure the police would come.",
+      "correct": "pandemonium",
+      "word": "PANDEMONIUM"
+    },
+    {
+      "part1": "He asked only for the",
+      "part2": "of your statement, not an explanation of every word in it.",
+      "correct": "gist",
+      "word": "GIST"
+    },
+    {
+      "part1": "The champion publicly",
+      "part2": "that he was the best boxer in the world.",
+      "correct": "asserted",
+      "word": "ASSERT"
+    },
+    {
+      "part1": "They",
+      "part2": "the area to make several smaller offices out of the one large space.",
+      "correct": "partitioned",
+      "word": "PARTITION"
+    },
+    {
+      "part1": "The salesman's",
+      "part2": "depended on people's believing what he told them.",
+      "correct": "livelihood",
+      "word": "LIVELIHOOD"
+    },
+    {
+      "part1": "She told them they must all",
+      "part2": "to lose weight, no matter how difficult it would be.",
+      "correct": "endeavor",
+      "word": "ENDEAVOR"
+    },
+    {
+      "part1": "The judge said that, since the events had taken place in another state, he didn't have any",
+      "part2": "in the case.",
+      "correct": "jurisdiction",
+      "word": "JURISDICTION"
+    },
+    {
+      "part1": "Alice",
+      "part2": "her heaviest coat when she went out into the snowstorm.",
+      "correct": "donned",
+      "word": "DON"
+    },
+    {
+      "part1": "They",
+      "part2": "the Bill of Rights as support for their argument.",
+      "correct": "invoked",
+      "word": "INVOKE"
+    },
+    {
+      "part1": "The main road was closed, so we had to take a rather",
+      "part2": "route to get home.",
+      "correct": "circuitous",
+      "word": "CIRCUITOUS"
+    },
+    {
+      "part1": "His language was",
+      "part2": ", full of long sentences and elaborate descriptions.",
+      "correct": "ornate",
+      "word": "ORNATE"
+    },
+    {
+      "part1": "The",
+      "part2": "assistant thought he knew best, so he never bothered to ask his boss for permission before he did anything.",
+      "correct": "presumptuous",
+      "word": "PRESUMPTUOUS"
+    },
+    {
+      "part1": "The judge had a(n)",
+      "part2": "expression on his face as he explained why he had to sentence the man to die.",
+      "correct": "somber",
+      "word": "SOMBER"
+    },
+    {
+      "part1": "The idea that man couldn't fly because he didn't have wings was a common",
+      "part2": "in the old days.",
+      "correct": "fallacy",
+      "word": "FALLACY"
+    },
+    {
+      "part1": "The argument over who owned the land created a great deal of",
+      "part2": "between the two neighbors.",
+      "correct": "discord",
+      "word": "DISCORD"
+    },
+    {
+      "part1": "That weekend they went on a short",
+      "part2": "to the mountains.",
+      "correct": "jaunt",
+      "word": "JAUNT"
+    },
+    {
+      "part1": "They",
+      "part2": "around in the dark trying to find her earring.",
+      "correct": "groped",
+      "word": "GROPE"
+    },
+    {
+      "part1": "Buying and selling is the everyday business of",
+      "part2": "companies.",
+      "correct": "mercantile",
+      "word": "MERCANTILE"
+    },
+    {
+      "part1": "Our army",
+      "part2": "the enemy's forces. There was nothing left of them by the end of the battle.",
+      "correct": "annihilated",
+      "word": "ANNIHILATE"
+    },
+    {
+      "part1": "Jane didn't",
+      "part2": "the thought of making the long trip home by herself.",
+      "correct": "relish",
+      "word": "RELISH"
+    },
+    {
+      "part1": "Bill accused them of trying to",
+      "part2": "him of his money with their real-estate scheme.",
+      "correct": "defraud",
+      "word": "DEFRAUD"
+    },
+    {
+      "part1": "Amy didn't like the vivid",
+      "part2": "of the dress, so she decided to return it to the store.",
+      "correct": "hue",
+      "word": "HUE"
+    },
+    {
+      "part1": "The house was in",
+      "part2": "condition. No one had fixed or cleaned anything in years.",
+      "correct": "deplorable",
+      "word": "DEPLORABLE"
+    },
+    {
+      "part1": "In one year he",
+      "part2": "his life's savings on gambling and drinking.",
+      "correct": "dissipated",
+      "word": "DISSIPATE"
+    },
+    {
+      "part1": "Mark's",
+      "part2": "personality seemed to light up any room he entered.",
+      "correct": "effervescent",
+      "word": "EFFERVESCENT"
+    },
+    {
+      "part1": "This piece of furniture is pretty to look at but it doesn't have much",
+      "part2": ". I don't think It would ever come in handy.",
+      "correct": "utility",
+      "word": "UTILITY"
+    },
+    {
+      "part1": "His musical talent lay",
+      "part2": "until he began composing in his forties.",
+      "correct": "dormant",
+      "word": "DORMANT"
+    },
+    {
+      "part1": "Bad weather was a serious",
+      "part2": "to rescuing the shipwrecked sailors.",
+      "correct": "impediment",
+      "word": "IMPEDIMENT"
+    },
+    {
+      "part1": "I can 't stand all this",
+      "part2": "; I have to go someplace where there's peace and quiet.",
+      "correct": "bedlam",
+      "word": "BEDLAM"
+    },
+    {
+      "part1": "The racing cars",
+      "part2": "around the track at over two hundred miles an hour.",
+      "correct": "hurtle",
+      "word": "HURTLE"
+    },
+    {
+      "part1": "It would be impossible to",
+      "part2": "a more efficient system than the one we have now.",
+      "correct": "devise",
+      "word": "DEVISE"
+    },
+    {
+      "part1": "People came from throughout his",
+      "part2": "to see the crowning of the new king.",
+      "correct": "realm",
+      "word": "REALM"
+    },
+    {
+      "part1": "We watched the burning candles",
+      "part2": "until there was nothing left of them.",
+      "correct": "dwindle",
+      "word": "DWINDLE"
+    },
+    {
+      "part1": "The bird's sharp",
+      "part2": "dug into the soft bark of the tree.",
+      "correct": "talons",
+      "word": "TALON"
+    },
+    {
+      "part1": "The population of the town",
+      "part2": "year after year until finally there were only a few people left.",
+      "correct": "diminished",
+      "word": "DIMINISH"
+    },
+    {
+      "part1": "She was such a(n)",
+      "part2": "woman that everyone around her became happy and full of fun too.",
+      "correct": "jovial",
+      "word": "JOVIAL"
+    },
+    {
+      "part1": "There was",
+      "part2": "outside the bar until the police came and quieted things down.",
+      "correct": "tumult",
+      "word": "TUMULT"
+    },
+    {
+      "part1": "We listened with delight to his many",
+      "part2": "about famous people he had met.",
+      "correct": "anecdotes",
+      "word": "ANECDOTE"
+    }
+  ],
+  "type": "fitb",
+  "id": 4
+}

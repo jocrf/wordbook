@@ -1,0 +1,611 @@
+{
+  "title": "2.1",
+  "definitions": {
+    "PEER": {
+      "word": "PEER",
+      "phonetic": "(pEr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to look carefully, stare </p><p>To PEER at something is to look at it long and carefully in order to see it clearly. </p><p>“He PEERED through his glasses at the dim object.” </p><p>“The children PEERED out at us from behind the fence.” </p><p>“Jim PEERED at the street sign in the snowstorm.</p><p>” Usage: PEER is usually used with at.</p>"
+    },
+    "SIGNIFY": {
+      "word": "SIGNIFY",
+      "phonetic": "(sig'-nÔøΩfl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to mean, show, be a sign of </p><p>You can see the word <i class=“def-ital\">sign</i> in SIGNIFY (although the words are pronounced differently). To SIGNIFY something is to be a sign of it, to show it.  </p><p>“The ship’s anchor on Rhode Island’s flag SIGNIFIES the importance of the sea in the state’s history. </p><p>“He SIGNIFIED that he was still there by raising his hand.</p><p>” Often the sense of SIGNIFY is to mean. “The seal at the bottom of the page SIGNIFIES that this is an official document.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-fy</i> under Suffixes."
+      ]
+    },
+    "TASK": {
+      "word": "TASK",
+      "phonetic": "(task)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a job, duty, chore, assignment A TASK is a job or duty, usually one that is difficult. It is often work that is assigned or given to someone.</p><p> “She took on the hard TASK of cleaning the garage.” </p><p>“Bob was given the TASK of washing the attic windows.” </p><p>“Your TASK for today is to finish Chapter Three and write a summary of it.” </p><p>“We divided the TASKS according to age.”</p>"
+    },
+    "AVALANCHE": {
+      "word": "AVALANCHE",
+      "phonetic": "(av'-ÔøΩlanch)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a snow or rock slide/n An AVALANCHE is a huge mass of snow, earth, or rock which comes crashing down the side of a mountain.</p><p> “The Alpine village was completely covered by the AVALANCHE.\"</p><p> “They say any loud noise, like a gunshot, can cause an AVALANCHE.\"</p><p> From this basic meaning, AVALANCHE has come to be used about any sudden great rush or outpouring.</p><p> “The young actor received an AVALANCHE of mail after his first movie.”</p>"
+    },
+    "THRESHOLD": {
+      "word": "THRESHOLD",
+      "phonetic": "(thresh'-hOld",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">thresh’-Old) n.: an entrance, doorstep </p><p> A THRESHOLD is a board or stone at the bottom of a doorway or entrance into a building or room. THRESHOLD is usually used simply to mean an -<i class=“def-ital\">entrance</i> to a room. </p><p>“He stood on the THRESHOLD waiting to be admitted.” </p><p>“The bridegroom is supposed to carry the bride across the THRESHOLD of their new home.” </p><p>Because you cross the THRESHOLD in order to enter, the word has also come to be used about the entrance to or beginning of almost  anything. </p><p>“He is at the THRESHOLD of a great career in politics.” “This is the THRESHOLD of a new Golden Age in human affairs.”</p>"
+    },
+    "TRANSFORM": {
+      "word": "TRANSFORM",
+      "phonetic": "(trans-form')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to change /nYou can see the word <i class=“def-ital\">form</i> in TRANSFORM. To TRANSFORM something is to change its shape or form.  </p><p>“Solar cells TRANSFORM sunlight into electricity.” </p><p>“Her appearance was totally TRANSFORMED when she changed from blue jeans to an evening gown.” </p><p>“The ugly duckling was TRANSFORMED into a beautiful swan.” </p><p>When something is TRANSFORMED it undergoes a TRANSFORMATION. </p><p>“His TRANSFORMATION from bus driver to movie star happened in less than six months.\"</p><p> In the Pretest, <i class=“def-ital\">move</i> is the most commonly chosen wrong answer for TRANSFORM, perhaps because TRANSFORM sounds like <i class=“def-ital\">transfer</i>, which means to <i class=“def-ital\">move</i>. Other forms of the word: TRANSFORMATION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">trans-</i> under Prefixes."
+      ]
+    },
+    "REPLY": {
+      "word": "REPLY",
+      "phonetic": "(ri-pll')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an answer, response </p><p>A REPLY is an <i class=“def-ital\">answer</i>. </p><p>“His REPLY to the question was hard to understand.\"</p><p>“What did you say in REPLY to that?” </p><p>You don’t have to REPLY in words. </p><p>“Their REPLY to our request was to laugh at us.” </p><p>REPLY is also a verb. </p><p>“I REPLIED that I didn’t know anything about it.” </p><p>“Please REPLY to his letter as soon as you can.”</p>"
+    },
+    "TUTOR": {
+      "word": "TUTOR",
+      "phonetic": "(tU'-tÔøΩr",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">tyU’-tÔøΩr) v.: to teach, train </p><p>TUTOR means to <i class=“def-ital\">teach</i> or <i class=“def-ital\">train</i>, usually where one teacher teaches one pupil. To TUTOR someone is to give him private, personal lessons, usually in one subject. </p><p>“My father is getting someone to TUTOR me in math.” </p><p>TUTOR is also a noun meaning a <i class=“def-ital\">teacher- or <i class=“def-ital\">trainer</i>. </p><p>“Mr. Jones is looking for a job as a TUTOR of English.” </p><p>“Jane never went to school; she was taught at home by a TUTOR.”</p>"
+    },
+    "PULVERIZE": {
+      "word": "PULVERIZE",
+      "phonetic": "(puhl'-vÔøΩr-lz)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to crush, grind into dust </p><p>PULVERIZE comes from the Latin word for <i class=“def-ital\">dust</i>. To PULVERIZE something is to crush it so completely that it is turned into powder or dust. </p><p>“The miller PULVERIZED the wheat between the grindstones.” </p><p>In general use the word means to destroy completely. </p><p>“The invading army was PULVERIZED by our superior forces.” </p><p>“The boxer PULVERIZED his weaker opponent.”</p>"
+    },
+    "ACCURATE": {
+      "word": "ACCURATE",
+      "phonetic": "(ak'-yÔøΩrit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">correct, exact </p><p>The <i class=“def-ital\">cur</i> part of ACCURATE comes from a Latin word for <i class=“def-ital\">care</i>. Something that is ACCURATE is <i class=“def-ital\">correct</i>, without errors, especially as a result of taking care. </p><p>“Her income tax report is ACCURATE to the penny.” </p><p>“He made an ACCURATE guess about how fast they were traveling.” </p><p>Someone who is ACCURATE does not make mistakes. </p><p>“He is usually ACCURATE in his predictions about who will win the election.” </p><p>The noun form is ACCURACY. “His ACCURACY in hitting the bullseye on the dartboard was unbelievable.” </p><p>“We look for ACCURACY rather than speed in this kind of work.” </p><p>Other forms of the word: ACCURACY, n.</p>"
+    },
+    "ASSIST": {
+      "word": "ASSIST",
+      "phonetic": "(ÔøΩsist')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to help, aid </p><p>ASSIST comes from Latin words meaning to <i class=“def-ital\">stand by</i>. To ASSIST someone is to help him by giving him support or doing something for him. </p><p>“Several nurses ASSISTED the doctor during the operation.” </p><p>“I wanted to ASSIST my brother, but he said he could do it by himself.” </p><p>“His deputy ASSISTED him in writing the report.” </p><p>ASSISTANCE is the act of helping. </p><p>“The baby didn’t need anyone’s ASSISTANCE in walking across the room.” </p><p>Other forms of the word: ASSISTANCE, n. ASSISTANT, n.</p>"
+    },
+    "CONCLUDE": {
+      "word": "CONCLUDE",
+      "phonetic": "(kÔøΩn-klUd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to end; to decide </p><p>The verb CONCLUDE has two meanings. The first is to <i class=“def-ital\">end</i>. </p><p>“He CONCLUDED the meeting by asking everyone to leave.” </p><p>“The teacher always CONCLUDES the class by asking if there are any further questions.” </p><p>CONCLUDE also means “to reach a final judgment,” <i class=“def-ital\">to decide</i>. </p><p>“After a great deal of thought, we CONCLUDED that it was best for her to go to a private school.” </p><p>“The detective CONCLUDED that Mr. Perkins was not to blame for the robbery.” </p><p>Other forms of the word: CONCLUSION, n. </p><p>CONCLUSIVE, adj.</p>"
+    },
+    "DROUGHT": {
+      "word": "DROUGHT",
+      "phonetic": "(drowt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a dry period </p><p>A DROUGHT is a long period of dry weather. </p><p>“All the grass turned brown and the crops failed during the DROUGHT.” </p><p>“The DROUGHT finally ended when a thunderstorm soaked the region.” </p><p>DROUGHT is sometimes used to mean any kind of long shortage or lack of something. </p><p>“The team finally ended its season-long scoring DROUGHT by getting four goals in a game.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">flood</i>, which is an opposite of DROUGHT.</p>"
+    },
+    "EDIBLE": {
+      "word": "EDIBLE",
+      "phonetic": "(ed'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fit to be eaten, suitable for food, not poisonous </p><p>Something that is EDIBLE is able to be eaten. () The word does not mean that something tastes good or is good for you to eat, only that it is fit to be eaten. </p><p>“The food was so bad it was barely EDIBLE.” </p><p>“This fruit will not be EDIBLE until it ripens.” </p><p>The plural noun EDIBLES is a fancy word for food. EDIBLES are things which are fit to be eaten. </p><p>Other forms of the word: EDIBLES, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "PRIVILEGE": {
+      "word": "PRIVILEGE",
+      "phonetic": "(priv'-ÔøΩlij",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">priv’-lij) n.: a special right, special benefit </p><p>A PRIVILEGE is a special right which is given to some but not to others. </p><p>“He was given the PRIVILEGE of watching television until eleven o’clock on weekends.” </p><p>“We have the PRIVILEGE of parking our car on this street.” </p><p>“Should doctors have special PRIVILEGES the rest of us don’t have?” </p><p><i class=“def-ital\">Sworn duty</i> is often chosen as the meaning of PRIVILEGE. This phrase is actually just about an opposite of PRIVILEGE. A <i class=“def-ital\">duty</i> is something you have to do; a PRIVILEGE is something you are allowed to do. </p><p>Other forms of the word: PRIVILEGED, adj.</p>"
+    }
+  },
+  "id": "1",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "PEER at them.",
+          "answers": [
+            "look closely",
+            "laugh",
+            "take aim",
+            "shout",
+            "jump"
+          ],
+          "word": "PEER",
+          "correct": "look closely"
+        },
+        {
+          "prompt": "What does this SIGNIFY?",
+          "answers": [
+            "need",
+            "improve",
+            "stop",
+            "mean",
+            "use"
+          ],
+          "word": "SIGNIFY",
+          "correct": "mean"
+        },
+        {
+          "prompt": "Important TASK.",
+          "answers": [
+            "order",
+            "thought",
+            "question",
+            "job",
+            "trip"
+          ],
+          "word": "TASK",
+          "correct": "job"
+        },
+        {
+          "prompt": "Saw the AVALANCHE.",
+          "answers": [
+            "blizzard",
+            "army",
+            "spear",
+            "earthquake",
+            "snow slide"
+          ],
+          "word": "AVALANCHE",
+          "correct": "snow slide"
+        },
+        {
+          "prompt": "At the THRESHOLD.",
+          "answers": [
+            "top",
+            "entrance",
+            "stairs",
+            "prison",
+            "barn"
+          ],
+          "word": "THRESHOLD",
+          "correct": "entrance"
+        },
+        {
+          "prompt": "To TRANSFORM it.",
+          "answers": [
+            "change",
+            "move",
+            "lose",
+            "keep",
+            "break"
+          ],
+          "word": "TRANSFORM",
+          "correct": "change"
+        },
+        {
+          "prompt": "Usual REPLY.",
+          "answers": [
+            "amount",
+            "idea",
+            "question",
+            "answer",
+            "talk"
+          ],
+          "word": "REPLY",
+          "correct": "answer"
+        },
+        {
+          "prompt": "We will TUTOR him.",
+          "answers": [
+            "forget",
+            "teach",
+            "encourage",
+            "amuse",
+            "drive"
+          ],
+          "word": "TUTOR",
+          "correct": "teach"
+        },
+        {
+          "prompt": "PULVERIZE them.",
+          "answers": [
+            "open",
+            "strengthen",
+            "squeeze",
+            "cut",
+            "crush"
+          ],
+          "word": "PULVERIZE",
+          "correct": "crush"
+        },
+        {
+          "prompt": "Your report is ACCURATE.",
+          "answers": [
+            "correct",
+            "revealing",
+            "helpful",
+            "wrong",
+            "clever"
+          ],
+          "word": "ACCURATE",
+          "correct": "correct"
+        },
+        {
+          "prompt": "Please ASSIST him.",
+          "answers": [
+            "join",
+            "obey",
+            "stop",
+            "help",
+            "ask"
+          ],
+          "word": "ASSIST",
+          "correct": "help"
+        },
+        {
+          "prompt": "CONCLUDED at ten o'clock.",
+          "answers": [
+            "changed",
+            "opened",
+            "ended",
+            "met",
+            "agreed"
+          ],
+          "word": "CONCLUDE",
+          "correct": "ended"
+        },
+        {
+          "prompt": "Predicted the DROUGHT.",
+          "answers": [
+            "defeat",
+            "dry period",
+            "flood",
+            "windstorm",
+            "heat wave"
+          ],
+          "word": "DROUGHT",
+          "correct": "dry period"
+        },
+        {
+          "prompt": "This was EDIBLE.",
+          "answers": [
+            "sweet",
+            "silly",
+            "good tasting",
+            "burned",
+            "fit to eat"
+          ],
+          "word": "EDIBLE",
+          "correct": "fit to eat"
+        },
+        {
+          "prompt": "It was his PRIVILEGE.",
+          "answers": [
+            "secrecy",
+            "turn",
+            "sworn duty",
+            "special right",
+            "present"
+          ],
+          "word": "PRIVILEGE",
+          "correct": "special right"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can you PEER at something that is far away?",
+          "word": "PEER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does + SIGNIFY the word plus?",
+          "word": "SIGNIFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is eating cake a TASK for most people?",
+          "word": "TASK",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it safe to be in front of an AVALANCHE?",
+          "word": "AVALANCHE",
+          "correct": "false"
+        },
+        {
+          "prompt": "If you are on the THRESHOLD of something, have you just completed it?",
+          "word": "THRESHOLD",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a caterpillar undergo a TRANSFORMATION when it becomes a butterfly?",
+          "word": "TRANSFORM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people usually expect a REPLY when they ask a question?",
+          "word": "REPLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should a person who can't speak Spanish become a TUTOR of it?",
+          "word": "TUTOR",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a rock be PULVERIZED?",
+          "word": "PULVERIZE",
+          "correct": "true"
+        },
+        {
+          "prompt": "If a clock is ten minutes fast, does it give you the ACCURATE time?",
+          "word": "ACCURATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most adults need ASSISTANCE in putting on their clothes?",
+          "word": "ASSIST",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does dinner usually CONCLUDE with dessert?",
+          "word": "CONCLUDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people usually enjoy DROUGHTS?",
+          "word": "DROUGHT",
+          "correct": "false"
+        },
+        {
+          "prompt": "When food turns rotten, does it become EDIBLE?",
+          "word": "EDIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do some people have more PRIVILEGES than others?",
+          "word": "PRIVILEGE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The old man PEERED at Jim for several minutes before recognizing him.",
+          "word": "PEER",
+          "correct": "true"
+        },
+        {
+          "prompt": "He nodded his head to SIGNIFY that he was ready.",
+          "word": "SIGNIFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Sandra had the difficult TASK of getting the house ready for the party.",
+          "word": "TASK",
+          "correct": "true"
+        },
+        {
+          "prompt": "The announcement of the job opening produced an AVALANCHE of applications for it.",
+          "word": "AVALANCHE",
+          "correct": "true"
+        },
+        {
+          "prompt": "George couldn't make up his mind to go in; he just stood on the THRESHOLD and looked around.",
+          "word": "THRESHOLD",
+          "correct": "true"
+        },
+        {
+          "prompt": "His company TRANSFORMED him from the Chicago office to the New York office.",
+          "word": "TRANSFORM",
+          "correct": "false"
+        },
+        {
+          "prompt": "He REPLIED to her greeting with a nod.",
+          "word": "REPLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "When you are failing a course, it might be wise to get a TUTOR.",
+          "word": "TUTOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "The cement factory uses a rock-crushing machine to PULVERIZE stones.",
+          "word": "PULVERIZE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jim practiced for hours to increase his ACCURACY in shooting the basketball.",
+          "word": "ACCURATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She ASSISTED that we all come to the party.",
+          "word": "ASSIST",
+          "correct": "false"
+        },
+        {
+          "prompt": "He CONCLUDED to them that he was going away.",
+          "word": "CONCLUDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The severe DROUGHT left two feet of snow on the ground.",
+          "word": "DROUGHT",
+          "correct": "false"
+        },
+        {
+          "prompt": "EDIBLE mushrooms are not poisonous.",
+          "word": "EDIBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "As punishment, he was given the PRIVILEGE of taking out the garbage for a month.",
+          "word": "PRIVILEGE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "PEER",
+          "answers": [
+            "notice",
+            "glance",
+            "hear"
+          ],
+          "word": "PEER",
+          "correct": "2"
+        },
+        {
+          "prompt": "SIGNIFY",
+          "answers": [
+            "show",
+            "mean",
+            "stay"
+          ],
+          "word": "SIGNIFY",
+          "correct": "2"
+        },
+        {
+          "prompt": "TASK",
+          "answers": [
+            "cry",
+            "work",
+            "struggle"
+          ],
+          "word": "TASK",
+          "correct": "0"
+        },
+        {
+          "prompt": "AVALANCHE",
+          "answers": [
+            "snow",
+            "time",
+            "rush"
+          ],
+          "word": "AVALANCHE",
+          "correct": "1"
+        },
+        {
+          "prompt": "THRESHOLD",
+          "answers": [
+            "doorway",
+            "beginning",
+            "exit"
+          ],
+          "word": "THRESHOLD",
+          "correct": "2"
+        },
+        {
+          "prompt": "TRANSFORM",
+          "answers": [
+            "copy",
+            "change",
+            "vary"
+          ],
+          "word": "TRANSFORM",
+          "correct": "0"
+        },
+        {
+          "prompt": "REPLY",
+          "answers": [
+            "read",
+            "respond",
+            "answer"
+          ],
+          "word": "REPLY",
+          "correct": "0"
+        },
+        {
+          "prompt": "TUTOR",
+          "answers": [
+            "remember",
+            "train",
+            "teach"
+          ],
+          "word": "TUTOR",
+          "correct": "0"
+        },
+        {
+          "prompt": "PULVERIZE",
+          "answers": [
+            "grind",
+            "twist",
+            "destroy"
+          ],
+          "word": "PULVERIZE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ACCURATE",
+          "answers": [
+            "right",
+            "full",
+            "definite"
+          ],
+          "word": "ACCURATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ASSIST",
+          "answers": [
+            "support",
+            "use",
+            "aid"
+          ],
+          "word": "ASSIST",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONCLUDE",
+          "answers": [
+            "remember",
+            "decide",
+            "finish"
+          ],
+          "word": "CONCLUDE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DROUGHT",
+          "answers": [
+            "dampness",
+            "heat",
+            "dryness"
+          ],
+          "word": "DROUGHT",
+          "correct": "0"
+        },
+        {
+          "prompt": "EDIBLE",
+          "answers": [
+            "eatable",
+            "nonpoisonous",
+            "harmful"
+          ],
+          "word": "EDIBLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PRIVILEGE",
+          "answers": [
+            "desire",
+            "right",
+            "benefit"
+          ],
+          "word": "PRIVILEGE",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

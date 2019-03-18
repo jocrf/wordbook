@@ -1,0 +1,614 @@
+{
+  "title": "8.4",
+  "definitions": {
+    "CAVIL": {
+      "word": "CAVIL",
+      "phonetic": "(kav'-gl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to quibble, carp </p><p>To CAVIL is to raise petty or trivial objections to something. It is usually used with <i class=“def-ital\">at</i>, <i class=“def-ital\">about</i>, or <i class=“def-ital\">with</i>. </p><p>“A small group delayed the passage of the treaty for some time by CAVILING about its language.” </p><p>“I wish you wouldn’t CAVIL at my grammar; you understand what I mean.” </p><p>“Critics’ reviews often skim over the whole performance to CAVIL with minor details.” </p><p>CAVIL is also a noun, meaning a <i class=“def-ital\">trivial objection</i>. </p><p>“Despite the CAVILS of petty critics, audiences seem to love the play.”</p>"
+    },
+    "COGENT": {
+      "word": "COGENT",
+      "phonetic": "(kO'-jgnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">convincing, forceful, compelling </p><p>COGENT comes from a Latin word meaning to <i class=“def-ital\">force together</i>.  COGENT is usually applied to arguments, reasons, or the like, and means <i class=“def-ital\">forceful</i>, <i class=“def-ital\">convincing</i>. </p><p>“Pete advanced several COGENT arguments about why he deserved a raise.” </p><p>“The principal made some COGENT remarks about the need for greater discipline in the school.” </p><p>“The mayor COGENTLY pointed out that taxes would have to be raised in order to pay for a new high school.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">obvious</i>, probably due to a confusion of COGENT with <i class=“def-ital\">blatant</i>. </p><p>Other forms of the word: COGENCY, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">co-</i> under Prefixes."
+      ]
+    },
+    "FIRMAMENT": {
+      "word": "FIRMAMENT",
+      "phonetic": "(fer'-mg-mgnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the heavens, sky, celestial sphere </p><p>The word FIRMAMENT is difficult because the <i class=“def-ital\">firm</i> part of the word makes people think it means <i class=“def-ital\">earth</i>, an opposite of its correct meaning, <i class=“def-ital\">sky</i> or <i class=“def-ital\">heavens</i>. FIRMAMENT in fact is related to the word <i class=“def-ital\">firm</i>; it means <i class=“def-ital\">sky</i> because of the ancient belief that the outermost portion of the heavens was actually solid, an arch or vault into which the stars were fixed. FIRMAMENT in modern usage is a poetic or literary word. </p><p>“Every star in the FIRMAMENT seemed to blaze with an unnatural light.” </p><p>“Kate gazed up at the FIRMAMENT and wondered if one day she would travel to the stars.”</p>"
+    },
+    "HALCYON": {
+      "word": "HALCYON",
+      "phonetic": "(hal'-sE-gn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">tranquil, calm, peaceful </p><p>The HALCYON was a mythical bird that nested on the sea at the time of the winter solstice, and was supposed to have the power to calm the wind and the waves during that time. As an adjective, HALCYON refers to this magical calmness and tranquility. “HALCYON days” are literally the days of fine weather around the winter solstice; in extended use the phrase is applied to any tranquil time. </p><p>“The man reflected that life was simpler and people were happier in the HALCYON days of his youth.” </p><p>“Summer vacations were a HALCYON time when we spent endless days relaxing on the beach.” </p><p>“The commencement speaker said that these HALCYON college days would stay in our memories all our lives.”</p>"
+    },
+    "NONPLUSSED": {
+      "word": "NONPLUSSED",
+      "phonetic": "(non-pluhsd')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">perplexed, puzzled, baffled </p><p>NONPLUSSED is also spelled NONPLUSED. </p><p>The verb to NONPLUS comes from the Latin words <i class=“def-ital\">non plus</i>, meaning “no more.” It suggests a state in which no more can be said or done because of profound puzzlement or perplexity. </p><p>“The mayor’s decision not to seek reelection NONPLUSSED his supporters. They couldn’t understand why he wanted to leave the job.” </p><p>The word is usually seen in its adjective form, NONPLUSSED. </p><p>“I was NONPLUSSED at the man’s insults. Why would he say such things?” </p><p>“The NONPLUSSED audience stared in disbelief as the conductor threw down his baton and walked offstage.” </p><p>The word is also occasionally used as a noun, in the expression <i class=“def-ital\">at</i> or <i class=“def-ital\">to a</i> NONPLUS. </p><p>“We were reduced to a NONPLUS when the lamp suddenly started moving across the room.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">certain</i>, an opposite of NONPLUSSED. </p><p>Other forms of the word: NONPLUS, n., v.</p>"
+    },
+    "PREPOSSESSING": {
+      "word": "PREPOSSESSING",
+      "phonetic": "(prE-pÔøΩzes'-ing)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">attractive, pleasing </p><p>To be PREPOSSESSING is to create a favorable impression. The word often suggests an obvious attractiveness that has an immediate, pleasant effect.  </p><p>“The friendly, PREPOSSESSING young man always did well in job interviews.” </p><p>“Her PREPOSSESSING appearance disposed people to think well of her as soon as they met her.” </p><p>“The album’s PREPOSSESSING cover certainly helped its sales.” </p><p><i class=“def-ital\">Kindly</i> is the most commonly chosen wrong answer. It is probably chosen by people who know that PREPOSSESSING is a positive word, hut don’t have a clear idea of its meaning. </p><p>Other forms of the word: PREPOSSESS, v.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">pre-</i> under Prefixes."
+      ]
+    },
+    "RAPACIOUS": {
+      "word": "RAPACIOUS",
+      "phonetic": "(rÔøΩ-pA'-shÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">greedy, grasping, plundering </p><p>RAPACIOUS and <i class=“def-ital\">rape</i> both come from a Latin word meaning to <i class=“def-ital\">seize</i>. RAPACIOUS means “seizing or grasping like a bird of prey” and usually suggests extreme greed. </p><p>“The RAPACIOUS pirates seized everything on the defenseless ship.” </p><p>“The RAPACIOUS loanshark was unrelenting in the collection of his debts; he brought many people to financial ruin.” </p><p>The noun form of RAPACIOUS is RAPACITY. </p><p>“The consumer advocate condemned the RAPACITY of businesses that cared only about making high profits without considering the cost to society.” </p><p>Other forms of the word: RAPACITY, n.</p>"
+    },
+    "REVILE": {
+      "word": "REVILE",
+      "phonetic": "(ri-vll')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to abuse, rail against, denounce, malign </p><p>To REVILE is to denounce or abuse, often at length. The <i class=“def-ital\">vile</i> part of the word is from the same Latin word as the English words <i class=“def-ital\">vile</i> and <i class=“def-ital\">vilify</i>. </p><p>“The prisoner REVILED his captors as evil, soulless persecutors.” </p><p>“In his hook the author REVILES an economic system that can produce such human misery.” </p><p>“You shouldn’t REVILE us for criticizing you; you should praise us for having the courage to say what we think.” </p><p><i class=“def-ital\">Hate</i> is by far the most commonly chosen wrong answer. This is an understandable confusion, since one will usually hate what one REVILES. But to REVILE something is to express one’s hatred for it in abusive language.</p>"
+    },
+    "RISIBLE": {
+      "word": "RISIBLE",
+      "phonetic": "(riz'-ÔøΩ-bÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">funny, laughable, ludicrous </p><p>RISIBLE comes from the Latin word meaning to <i class=“def-ital\">laugh</i>, also the source of <i class=“def-ital\">derision</i> and <i class=“def-ital\">ridiculous</i>.  RISIBLE means “able to excite laughter,” <i class=“def-ital\">laughable</i>. </p><p>“The comedian’s RISIBLE stories kept the audience laughing all night.” </p><p>“The sight of all those clowns trying to fit into the little car was quite RISIBLE.” </p><p>“The boy thought his insults were RISIBLE, hut no one else even smiled at them.” </p><p>Other forms of the word: RISIBILITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "SUPERCILIOUS": {
+      "word": "SUPERCILIOUS",
+      "phonetic": "(sU-pÔøΩr-sil'-E-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">haughty, disdainful, arrogant </p><p>SUPERCILIOUS means “having a haughty, superior manner.” It comes from the Latin word for <i class=“def-ital\">eyebrow</i>; the image is of a person raising an eyebrow in disdain. </p><p>“Her SUPERCILIOUS attitude infuriates us; why does she think she is so much better than the rest of us?” </p><p>“With a SUPERCILIOUS sneer he said the miners’ lives were too unimportant for him to worry about.” </p><p>“The SUPERCILIOUS boss does nothing but make cutting remarks about how stupid his workers are.” </p><p><i class=“def-ital\">Ridiculous</i> is the most commonly chosen wrong answer, probably because SUPERCILIOUS sounds like <i class=“def-ital\">super silly</i>.</p>"
+    },
+    "TORPOR": {
+      "word": "TORPOR",
+      "phonetic": "(tor'-p:r)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">sluggishness, lethargy, lassitude </p><p>TORPOR is mental or physical inactivity, like that of an animal in hibernation. In a slightly extended sense, the word can also be used as a synonym of <i class=“def-ital\">apathy</i> or <i class=“def-ital\">lethargy</i>. </p><p>“The drug caused a strange TORPOR to fall over the crew; they didn’t have enough energy to lift their oars.” </p><p>“Nothing could rouse him from his TORPOR; he just wanted to lie in bed all day and sleep.” </p><p>TORPID is the adjective related to TORPOR. It means <i class=“def-ital\">lethargic</i>, <i class=“def-ital\">sluggish</i>. </p><p>“Used to the hectic big city life, he can’t adjust to the TORPID pace of village life.” </p><p><i class=“def-ital\">Heat</i> is the most commonly chosen wrong answer, probably because hot weather can be a cause of TORPOR. </p><p>Other forms of the word: TORPID, adj.</p>"
+    },
+    "TUMID": {
+      "word": "TUMID",
+      "phonetic": "(tU'-mid",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">swollen, distended, bloated </p><p>TUMID is related to the word <i class=“def-ital\">tumor</i>; both come from a Latin word meaning to <i class=“def-ital\">swell</i>. TUMID means <i class=“def-ital\">swollen</i>, usually in an unhealthy way; it is usually used about parts of the body. </p><p>“His foot became TUMID because of the infection.” </p><p>In an extended sense TUMID is often applied to language and means <i class=“def-ital\">overblown</i>, <i class=“def-ital\">bombastic</i>. </p><p>“The old-fashioned politician’s TUMID style made his speeches very dull to listen to.” </p><p><i class=“def-ital\">Diseased</i>, the most commonly chosen wrong answer, is probably selected by people who make the connection of TUMID with <i class=“def-ital\">tumor</i>, but aren’t sure of the exact meaning of TUMID.</p>"
+    },
+    "UNCTUOUS": {
+      "word": "UNCTUOUS",
+      "phonetic": "(uh",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">oily, slippery, greasy </p><p>UNCTUOUS comes from the Latin word for <i class=“def-ital\">ointment</i>; it is related to the word <i class=“def-ital\">unguent</i>, which is an ointment or salve. The basic meaning of UNCTUOUS is <i class=“def-ital\">oily</i> or <i class=“def-ital\">greasy</i>, like an ointment. It is most often used in an extended sense about people with an oily manner, particularly when they are hypocritically ingratiating. </p><p>“The woman was completely taken in by the salesman’s UNCTUOUS flattery.” </p><p>“The new minister’s UNCTUOUS air of spirituality strikes many members of the congregation as completely phony.” </p><p><i class=“def-ital\">Proud</i> is the most commonly chosen wrong answer, perhaps due to confusion with the equally unpleasant word <i class=“def-ital\">pompous</i>.</p>"
+    },
+    "ABJURE": {
+      "word": "ABJURE",
+      "phonetic": "(ab-jur')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to renounce, recant, forswear, retract </p><p>The <i class=“def-ital\">jure</i> part of ABJURE comes from a Latin word meaning to <i class=“def-ital\">swear</i>. This word is also the source of the word <i class=“def-ital\">jury</i>, which is a group of people sworn to give a verdict in a legal case.  To ABJURE something is to “swear away” from it, to renounce it solemnly or publicly. </p><p>“The knight solemnly ABJURED his oath of allegiance to the former king and swore to follow King Henry instead.” </p><p>“The new members have to ABJURE violence as a means of changing society.” </p><p>“In a public ceremony the convert to the religion ABJURED his former beliefs.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ab-</i> under Prefixes."
+      ]
+    },
+    "CANARD": {
+      "word": "CANARD",
+      "phonetic": "(k:-nahrd'):",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a false story, groundless report </p><p>CANARD is the French word for <i class=“def-ital\">duck</i>. It comes into English by way of a French phrase that means “to half-sell a duck,” to cheat or deceive someone; it has come to mean in English a <i class=“def-ital\">false story</i>, an <i class=“def-ital\">unfounded rumor</i>. </p><p>“Bob just told me there was an earthquake in California today, but I think it’s a CANARD: it would have been on the news if it had actually happened.” </p><p>“Joel keeps us endlessly entertained with his tales of adventure: they’re probably all CANARDS, but it doesn’t matter.”</p>"
+    }
+  },
+  "id": "4",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "to CAVIL",
+          "answers": [
+            "wonder",
+            "quibble",
+            "rejoice",
+            "mumble",
+            "sigh"
+          ],
+          "word": "CAVIL",
+          "correct": "quibble"
+        },
+        {
+          "prompt": "COGENT",
+          "answers": [
+            "fanciful",
+            "misleading",
+            "convincing",
+            "complex",
+            "obvious"
+          ],
+          "word": "COGENT",
+          "correct": "convincing"
+        },
+        {
+          "prompt": "FIRMAMENT",
+          "answers": [
+            "earth",
+            "heavens",
+            "solar system",
+            "mountains",
+            "horizon"
+          ],
+          "word": "FIRMAMENT",
+          "correct": "heavens"
+        },
+        {
+          "prompt": "HALCYON",
+          "answers": [
+            "tranquil",
+            "frantic",
+            "remote",
+            "cloudy",
+            "holy"
+          ],
+          "word": "HALCYON",
+          "correct": "tranquil"
+        },
+        {
+          "prompt": "NONPLUSSED",
+          "answers": [
+            "certain",
+            "puzzled",
+            "excited",
+            "afraid",
+            "worried"
+          ],
+          "word": "NONPLUSSED",
+          "correct": "puzzled"
+        },
+        {
+          "prompt": "PREPOSSESSING",
+          "answers": [
+            "weird",
+            "rich",
+            "attractive",
+            "sloppy",
+            "kindly"
+          ],
+          "word": "PREPOSSESSING",
+          "correct": "attractive"
+        },
+        {
+          "prompt": "RAPACIOUS",
+          "answers": [
+            "kindly",
+            "fierce",
+            "polite",
+            "greedy",
+            "impatient"
+          ],
+          "word": "RAPACIOUS",
+          "correct": "greedy"
+        },
+        {
+          "prompt": "to REVILE",
+          "answers": [
+            "praise",
+            "annoy",
+            "disturb",
+            "abuse",
+            "hate"
+          ],
+          "word": "REVILE",
+          "correct": "abuse"
+        },
+        {
+          "prompt": "RISIBLE",
+          "answers": [
+            "mournful",
+            "obvious",
+            "petty",
+            "uplifting",
+            "funny"
+          ],
+          "word": "RISIBLE",
+          "correct": "funny"
+        },
+        {
+          "prompt": "SUPERCILIOUS",
+          "answers": [
+            "precise",
+            "outstanding",
+            "ridiculous",
+            "hostile",
+            "haughty"
+          ],
+          "word": "SUPERCILIOUS",
+          "correct": "haughty"
+        },
+        {
+          "prompt": "TORPOR",
+          "answers": [
+            "heat",
+            "sweetness",
+            "sluggishness",
+            "anger",
+            "fever"
+          ],
+          "word": "TORPOR",
+          "correct": "sluggishness"
+        },
+        {
+          "prompt": "TUMID",
+          "answers": [
+            "swollen",
+            "shrunken",
+            "moist",
+            "heavy",
+            "diseased"
+          ],
+          "word": "TUMID",
+          "correct": "swollen"
+        },
+        {
+          "prompt": "UNCTUOUS",
+          "answers": [
+            "crusty",
+            "careful",
+            "gorgeous",
+            "oily",
+            "proud"
+          ],
+          "word": "UNCTUOUS",
+          "correct": "oily"
+        },
+        {
+          "prompt": "to ABJURE",
+          "answers": [
+            "uphold",
+            "renounce",
+            "despair",
+            "resist",
+            "curse"
+          ],
+          "word": "ABJURE",
+          "correct": "renounce"
+        },
+        {
+          "prompt": "CANARD",
+          "answers": [
+            "adage",
+            "card trick",
+            "opinion",
+            "legend",
+            "false story"
+          ],
+          "word": "CANARD",
+          "correct": "false story"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is an argumentative person likely to CAVIL?",
+          "word": "CAVIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would people be persuaded by a COGENT argument?",
+          "word": "COGENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you walk on the FIRMAMENT?",
+          "word": "FIRMAMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are HALCYON days unpleasant?",
+          "word": "HALCYON",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a confident person be likely to act NONPLUSSED?",
+          "word": "NONPLUSSED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a lackluster person likely to be PREPOSSESSING?",
+          "word": "PREPOSSESSING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is RAPACITY a good trait to have?",
+          "word": "RAPACIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could one use curses in REVILING someone?",
+          "word": "REVILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are sordid events RISIBLE?",
+          "word": "RISIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a SUPERCILIOUS person be likely to think of others as childish?",
+          "word": "SUPERCILIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is TORPOR a characteristic of lazy people?",
+          "word": "TORPOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is TUMID flesh pleasant to look at?",
+          "word": "TUMID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would nastiness be a characteristic of an UNCTUOUS person?",
+          "word": "UNCTUOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you ABJURE a vow?",
+          "word": "ABJURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should one be gullible when it comes to CANARDS?",
+          "word": "CANARD",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Their mother CAVILED them for not doing their homework.",
+          "word": "CAVIL",
+          "correct": "false"
+        },
+        {
+          "prompt": "It is COGENT that we will have to do something about our old car pretty soon.",
+          "word": "COGENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The explosion seemed to make the FIRMAMENT glow from one end to the other.",
+          "word": "FIRMAMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Those early years were fondly recalled as a HALCYON period in the organization's history.",
+          "word": "HALCYON",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jim is NONPLUSSED at hockey; he is by far the best player on the team.",
+          "word": "NONPLUSSED",
+          "correct": "false"
+        },
+        {
+          "prompt": "You didn't have to be so PREPOSSESSING, but we appreciated the thought.",
+          "word": "PREPOSSESSING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Your arguments are RAPACIOUS; they make no sense at all.",
+          "word": "RAPACIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The speaker REVILED the people who are unwilling to get involved in community affairs.",
+          "word": "REVILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The playwright thought that this scene would be quite dramatic, but the audience found it RISIBLE.",
+          "word": "RISIBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Tom looked SUPERCILIOUS wearing that lampshade at the party.",
+          "word": "SUPERCILIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The young radicals decried the intellectual TORPOR of the university.",
+          "word": "TORPOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was difficult to breathe the hot, TUMID air.",
+          "word": "TUMID",
+          "correct": "false"
+        },
+        {
+          "prompt": "The butler's UNCTUOUS manner completely hid his true feelings and opinions.",
+          "word": "UNCTUOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "She ABJURED us to hurry, because time was running out.",
+          "word": "ABJURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "No one believed the CANARD about the con man selling the Brooklyn Bridge to a rich tourist.",
+          "word": "CANARD",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "CAVIL",
+          "answers": [
+            "criticize",
+            "quibble",
+            "instruct"
+          ],
+          "word": "CAVIL",
+          "correct": "2"
+        },
+        {
+          "prompt": "COGENT",
+          "answers": [
+            "weighty",
+            "childish",
+            "convincing"
+          ],
+          "word": "COGENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "FIRMAMENT",
+          "answers": [
+            "heavens",
+            "sky",
+            "planets"
+          ],
+          "word": "FIRMAMENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "HALCYON",
+          "answers": [
+            "serene",
+            "placid",
+            "dull"
+          ],
+          "word": "HALCYON",
+          "correct": "2"
+        },
+        {
+          "prompt": "NONPLUSSED",
+          "answers": [
+            "conquered",
+            "bewildered",
+            "disconcerted"
+          ],
+          "word": "NONPLUSSED",
+          "correct": "0"
+        },
+        {
+          "prompt": "PREPOSSESSING",
+          "answers": [
+            "charming",
+            "beautiful",
+            "knowledgeable"
+          ],
+          "word": "PREPOSSESSING",
+          "correct": "2"
+        },
+        {
+          "prompt": "RAPACIOUS",
+          "answers": [
+            "presumptuous",
+            "avaricious",
+            "voracious"
+          ],
+          "word": "RAPACIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "REVILE",
+          "answers": [
+            "vilify",
+            "loathe",
+            "upbraid"
+          ],
+          "word": "REVILE",
+          "correct": "1"
+        },
+        {
+          "prompt": "RISIBLE",
+          "answers": [
+            "amusing",
+            "entertaining",
+            "edifying"
+          ],
+          "word": "RISIBLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SUPERCILIOUS",
+          "answers": [
+            "prideful",
+            "contemptuous",
+            "envious"
+          ],
+          "word": "SUPERCILIOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "TORPOR",
+          "answers": [
+            "loneliness",
+            "lethargy",
+            "listlessness"
+          ],
+          "word": "TORPOR",
+          "correct": "0"
+        },
+        {
+          "prompt": "TUMID",
+          "answers": [
+            "distended",
+            "rotten",
+            "overblown"
+          ],
+          "word": "TUMID",
+          "correct": "1"
+        },
+        {
+          "prompt": "UNCTUOUS",
+          "answers": [
+            "extravagant",
+            "doleful",
+            "cloying"
+          ],
+          "word": "UNCTUOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "ABJURE",
+          "answers": [
+            "despise",
+            "reject",
+            "eschew"
+          ],
+          "word": "ABJURE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CANARD",
+          "answers": [
+            "fabrication",
+            "falsehood",
+            "facade"
+          ],
+          "word": "CANARD",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

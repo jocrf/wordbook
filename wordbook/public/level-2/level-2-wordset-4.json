@@ -1,0 +1,614 @@
+{
+  "title": "2.4",
+  "definitions": {
+    "STAMPEDE": {
+      "word": "STAMPEDE",
+      "phonetic": "(stam-pEd')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a wild rush, sudden charge A STAMPEDE is a sudden, wild rush, usually of animals that have become frightened and run blindly. In a STAM- PEDE the animals are out of control; they are so crazy with fear they will trample anything in their way. “The cattle STAMPEDE destroyed the field of new corn.” “Don’t shoot your rifle now. The noise will cause a STAMPEDE.” STAMPEDE can also be used in a general sense about any wild rush. “The announcement of the big sale almost caused a STAMPEDE of shoppers to the store.” STAMPEDE is also a verb, which means to rush wildly or overrun. “The starving people STAMPEDED the supply wagons.</p>"
+    },
+    "PROCLAIM": {
+      "word": "PROCLAIM",
+      "phonetic": "(prO-klAm')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to declare openly, announce To PROCLAIM something is to announce it openly and publicly. “After he won the fight the boxer was PROCLAIMED champion of the world.” “When his father died the noblemen PROCLAIMED him king.” Often PROCLAIM has an official sense to it. “The governor PROCLAIMED next Monday a state holiday.” A PROCLAMATION is an official announcement. “Lincoln issued a PROCLAMATION that ended slavery in America.” Other forms of the word: PROCLAMATION, n.</p>"
+    },
+    "INCIDENT": {
+      "word": "INCIDENT",
+      "phonetic": "(in'-sÔøΩdent",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">in’-sÔøΩdant) n.: an event, occurrence, happening An INCIDENT is simply something that happens, an event. Usually an INCIDENT is small or unimportant. “It was just one of those unpleasant INCIDENTS that happen every day.” Often, though, the word is used about a seemingly minor event which could lead to serious consequences. “The arrest of the novelist became a serious interna- tional INCIDENT.” “There were so many violent INCIDENTS at the bor- der that both countries threatened to declare war.”</p>"
+    },
+    "MINDFUL": {
+      "word": "MINDFUL",
+      "phonetic": "(mlnd'-fal)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">aware, careful, attentive MINDFUL is made up of two parts: mind and ful.  If your mind is full of something, you are very aware of it. MINDFUL means “keeping in mind,” aware. “He was MINDFUL of the orders he had been given.” “You should be MINDFUL of the danger.” “You must be MINDFUL that some of these animals could hurt you.” Usage: MINDFUL is usually followed by of.</p>",
+      "suffix": [
+        "See -ful under Suffixes."
+      ]
+    },
+    "PREVIOUS": {
+      "word": "PREVIOUS",
+      "phonetic": "(prE'-vE-as)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">former, earlier, prior PREVIOUS means “happening before” something else, former.  “All the PREVIOUS reports were wrong. Only the one we are putting out now is correct.” “We did well that season, but we did even better in the PREVIOUS season.” “After working there for a while he went back to his PREVIOUS job as a salesman.” PREVIOUS is often used with to to mean before. “PREVIOUS to the speech there was a wonderful din- ner.”</p>",
+      "prefix": [
+        "See pre- under Prefixes."
+      ]
+    },
+    "QUARANTINE": {
+      "word": "QUARANTINE",
+      "phonetic": "(kwor'-ÔøΩn-tEn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to isolate or separate from others to prevent the spread of a disease QUARANTINE is both a verb and a noun. To QUARANTINE a person is to keep him apart from others while he has a disease, or while he is suspected of having a disease, to make sure that the disease doesn’t spread. QUARAN- TINE comes from the Latin word for forty, because originally a person had to be kept isolated for a period of forty days. “You can take your dog to England, but it will have to be kept in QUARANTINE for six months.” “The entire ship was QUARANTINED when one of the passengers came down with smallpox.”</p>"
+    },
+    "RECREATION": {
+      "word": "RECREATION",
+      "phonetic": "(rek-rE-A'-shan)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">play, amusement RECREATION is something that refreshes you by pro- viding you with amusement or entertainment. “Walking is a pleasant RECREATION.” “His favorite RECREATION is watching television.” “She works too hard. She hardly has any time for RECREATION.” The adjective from RECREATION is RECREATIONAL. RECREATIONAL activities are things like games, sports, or hobbies which provide RECREATION. Other forms of the word: RECREATIONAL, adj.</p>"
+    },
+    "SEGMENT": {
+      "word": "SEGMENT",
+      "phonetic": "(seg'-mant)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a part, section, division A SEGMENT is a section, a piece of a larger whole. “One SEGMENT of the magazine is made up of business reports.” “Mr. Sweeney is the counselor for a large SEGMENT of the junior class.” “Mrs. Ames gave each of the children a SEGMENT of the orange.”</p>"
+    },
+    "SUBMERGE": {
+      "word": "SUBMERGE",
+      "phonetic": "(sab-merj')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to place underwater; to go under water, sink -  To SUBMERGE something is to plunge it into water. “The blacksmith quickly SUBMERGED the glowing horseshoe in a bucket of water.” When something SUBMERGES, it goes underwater. “The submarine SUBMERGED and quickly disappeared from sight.” “The treasure lay SUBMERGED in ten feet of water.”</p>",
+      "prefix": [
+        "See sub- under Prefixes."
+      ]
+    },
+    "TURQUOISE": {
+      "word": "TURQUOISE",
+      "phonetic": "(ter'-kwoyz",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">ter’-koyz) adj.: blue- green TURQUOISE, when used as a noun, is a stone that is often blue-green in color. TURQUOISE, as an adjective, is used about anything with this blue-green color. “Her eyes are almost TURQUOISE in color.” “My TURQUOISE dress is the color of sea at mid- day.”</p>"
+    },
+    "UTMOST": {
+      "word": "UTMOST",
+      "phonetic": "(uht'-mOst)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">greatest, most extreme UTMOST means “of the highest degree possible\"-that is, the furthest, the most, the greatest, and so on. “This job requires the UTMOST skill and intelli- gence.” “This meeting will take place in the UTMOST secrecy.” UTMOST is also a noun, meaning “the most that is possible or that one can do.” “He enjoyed life to the UTMOST\"-that is, to the greatest degree possible. “This hotel will give you the UTMOST in comfort and service.” “We will do our UTMOST to finish the job on Saturday.”</p>"
+    },
+    "VICTOR": {
+      "word": "VICTOR",
+      "phonetic": "(vik'-tar)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a winner, conqueror A VICTOR is a person who defeats another in battle or any other kind of contest. “This year the VICTOR in the weight-lifting contest was a Russian.” “Harry Smith will be our mayor next year because he was the VICTOR in last week’s election.” A VICTOR wins a VICTORY; he is VICTORIOUS. “After his famous VICTORY, the VICTORIOUS general received all the glory due a VICTOR.” Other forms of the word: VICTORY, n. VICTORIOUS, adj.</p>"
+    },
+    "DWELL": {
+      "word": "DWELL",
+      "phonetic": "(dwel)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to live, reside; to speak, write, or think at length To DWELL in or at a place is to make your home there. “She DWELT all her life in the house where she was born.” “Many interesting people DWELL in that section of town.” In another sense, to DWELL on or upon something is to speak, write, or think about it at length. “I hate to DWELL on this, but you still owe me five dollars.” “In the first few chapters the author DWELLS on the problems of the early settlers.” Other forms of the word: DWELLING, n. Usage: The past tense of DWELL is DWELT or DWELLED.</p>"
+    },
+    "QUESTIONABLE": {
+      "word": "QUESTIONABLE",
+      "phonetic": "(kwes'-chÔøΩn-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">doubtful, uncertain  Something which is QUES- TIONABLE is able to be QUESTIONED, is open to QUESTION. “The referee made a QUESTIONABLE call\"-that is, we are not certain that it was wrong, but we don’t think it was right. “It was QUESTIONABLE whether or not we would make it to school on time.” “He thought our results were QUESTIONABLE, so we checked them and discovered we had made a mistake.” Certain is the most commonly chosen incorrect answer on the Pretest. It is the exact opposite of QUESTIONABLE. Perhaps people who choose certain are confusing QUES- TIONABLE with unquestionable, which means “not open to QUESTION,” certain. Other forms of the word: QUESTION, n., v.</p>",
+      "suffix": [
+        "See -able under Suffixes."
+      ]
+    },
+    "ROUSE": {
+      "word": "ROUSE",
+      "phonetic": "(rowz)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to awaken, stir, excite To ROUSE someone is to stir or awaken him. “The fire alarm ROUSED them from their sleep.” You can ROUSE someone to something as well as from something. “The speaker’s words ROUSED the crowd to action.” “I was ROUSED to anger by his insults.” ROUSE is often used with up. “They ROUSED up their friends and made them help too.” ROUSING is an adjective which means exciting or stir- ring. “We gave a ROUSING cheer when the team came on the field.” Other forms of the word: ROUSING, adj.</p>"
+    }
+  },
+  "id": "4",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Join the STAMPEDE.",
+          "answers": [
+            "meeting",
+            "crowd",
+            "wild rush",
+            "defense line",
+            "cattle"
+          ],
+          "word": "STAMPEDE",
+          "correct": "wild rush"
+        },
+        {
+          "prompt": "To PROCLAIM it.",
+          "answers": [
+            "invent",
+            "declare",
+            "want",
+            "oppose",
+            "celebrate"
+          ],
+          "word": "PROCLAIM",
+          "correct": "declare"
+        },
+        {
+          "prompt": "Unusual INCIDENT.",
+          "answers": [
+            "crime",
+            "problem",
+            "idea",
+            "complaint",
+            "event"
+          ],
+          "word": "INCIDENT",
+          "correct": "event"
+        },
+        {
+          "prompt": "MINDFUL of his duties.",
+          "answers": [
+            "aware",
+            "fond",
+            "afraid",
+            "forgetful",
+            "ashamed"
+          ],
+          "word": "MINDFUL",
+          "correct": "aware"
+        },
+        {
+          "prompt": "PREVIOUS job.",
+          "answers": [
+            "former",
+            "steady",
+            "second",
+            "important",
+            "new"
+          ],
+          "word": "PREVIOUS",
+          "correct": "former"
+        },
+        {
+          "prompt": "To QUARANTINE them.",
+          "answers": [
+            "destroy",
+            "divide",
+            "isolate",
+            "protect",
+            "free"
+          ],
+          "word": "QUARANTINE",
+          "correct": "isolate"
+        },
+        {
+          "prompt": "More time for RECREATION.",
+          "answers": [
+            "sleep",
+            "play",
+            "work",
+            "practice",
+            "thinking"
+          ],
+          "word": "RECREATION",
+          "correct": "play"
+        },
+        {
+          "prompt": "This SEGMENT.",
+          "answers": [
+            "word",
+            "choice",
+            "part",
+            "idea",
+            "time"
+          ],
+          "word": "SEGMENT",
+          "correct": "part"
+        },
+        {
+          "prompt": "Completely SUBMERGED.",
+          "answers": [
+            "open",
+            "lost",
+            "sunk",
+            "wet",
+            "joined"
+          ],
+          "word": "SUBMERGE",
+          "correct": "sunk"
+        },
+        {
+          "prompt": "TURQUOISE dresses.",
+          "answers": [
+            "blue-green",
+            "foreign",
+            "dark-red",
+            "white",
+            "gold"
+          ],
+          "word": "TURQUOISE",
+          "correct": "blue-green"
+        },
+        {
+          "prompt": "The UTMOST danger.",
+          "answers": [
+            "unknown",
+            "least",
+            "next",
+            "famous",
+            "greatest"
+          ],
+          "word": "UTMOST",
+          "correct": "greatest"
+        },
+        {
+          "prompt": "Who was the VICTOR?",
+          "answers": [
+            "loser",
+            "minister",
+            "general",
+            "winner",
+            "leader"
+          ],
+          "word": "VICTOR",
+          "correct": "winner"
+        },
+        {
+          "prompt": "Where does she DWELL?",
+          "answers": [
+            "live",
+            "eat",
+            "study",
+            "travel",
+            "work"
+          ],
+          "word": "DWELL",
+          "correct": "live"
+        },
+        {
+          "prompt": "It was QUESTIONABLE.",
+          "answers": [
+            "difficult",
+            "impossible",
+            "doubtful",
+            "certain",
+            "unnecessary"
+          ],
+          "word": "QUESTIONABLE",
+          "correct": "doubtful"
+        },
+        {
+          "prompt": "ROUSE the people.",
+          "answers": [
+            "cheat",
+            "awaken",
+            "trap",
+            "unite",
+            "destroy"
+          ],
+          "word": "ROUSE",
+          "correct": "awaken"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is it dangerous to he in the middle of a STAMPEDE?",
+          "word": "STAMPEDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people usually PROCLAIM secrets?",
+          "word": "PROCLAIM",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is going to the dentist an INCIDENT in people's lives?",
+          "word": "INCIDENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should a driver be MINDFUL of dangers on the road?",
+          "word": "MINDFUL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Did the Civil War happen PREVIOUS to the War of Independence?",
+          "word": "PREVIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are people who aren't sick ever QUARANTINED?",
+          "word": "QUARANTINE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is swimming a form of RECREATION?",
+          "word": "RECREATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a chapter a SEGMENT of a book?",
+          "word": "SEGMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a rock be SUBMERGED?",
+          "word": "SUBMERGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can the sky ever appear TURQUOISE?",
+          "word": "TURQUOISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are people who are doing their UTMOST really trying?",
+          "word": "UTMOST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is the VICTOR in a race the one who finishes last?",
+          "word": "VICTOR",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you DWELL somewhere?",
+          "word": "DWELL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a close call by an umpire in baseball be QUESTIONABLE?",
+          "word": "QUESTIONABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a sleeping person usually be ROUSED by a leaf falling?",
+          "word": "ROUSE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The STAMPEDE was quiet all night, but acted up again in the morning.",
+          "word": "STAMPEDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Sam said he caught the criminal, so he PROCLAIMED the reward.",
+          "word": "PROCLAIM",
+          "correct": "false"
+        },
+        {
+          "prompt": "This book is about several INCIDENTS that took place in the town of Salem.",
+          "word": "INCIDENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "I won't he MINDFUL if you want to come with me.",
+          "word": "MINDFUL",
+          "correct": "false"
+        },
+        {
+          "prompt": "She had no PREVIOUS experience, hut still she did the job very well.",
+          "word": "PREVIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The horse was kept in QUARANTINE until it was completely cured.",
+          "word": "QUARANTINE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Scientists think it has been five billion years since the RECREATION of the earth.",
+          "word": "RECREATION",
+          "correct": "false"
+        },
+        {
+          "prompt": "One SEGMENT of the movie takes place in Spain.",
+          "word": "SEGMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He SUBMERGED from the water and walked up onto the beach.",
+          "word": "SUBMERGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Barry turned TURQUOISE with anger at the insult.",
+          "word": "TURQUOISE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Dave enjoyed himself to the UTMOST during his vacation.",
+          "word": "UTMOST",
+          "correct": "true"
+        },
+        {
+          "prompt": "They were VICTORIOUS in their battle with the enemy forces.",
+          "word": "VICTOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "His speech will DWELL on the problems of getting a job.",
+          "word": "DWELL",
+          "correct": "true"
+        },
+        {
+          "prompt": "His honesty is QUESTIONABLE. There are rumors that he takes bribes.",
+          "word": "QUESTIONABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The coach's speech ROUSED the team to try even harder.",
+          "word": "ROUSE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "STAMPEDE",
+          "answers": [
+            "speed",
+            "joy",
+            "fear"
+          ],
+          "word": "STAMPEDE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PROCLAIM",
+          "answers": [
+            "shout",
+            "whisper",
+            "state"
+          ],
+          "word": "PROCLAIM",
+          "correct": "1"
+        },
+        {
+          "prompt": "INCIDENT",
+          "answers": [
+            "happening",
+            "hope",
+            "occurrence"
+          ],
+          "word": "INCIDENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "MINDFUL",
+          "answers": [
+            "aware",
+            "careful",
+            "brilliant"
+          ],
+          "word": "MINDFUL",
+          "correct": "2"
+        },
+        {
+          "prompt": "PREVIOUS",
+          "answers": [
+            "easier",
+            "past",
+            "earlier"
+          ],
+          "word": "PREVIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "QUARANTINE",
+          "answers": [
+            "separate",
+            "isolate",
+            "tax"
+          ],
+          "word": "QUARANTINE",
+          "correct": "2"
+        },
+        {
+          "prompt": "RECREATION",
+          "answers": [
+            "lessons",
+            "games",
+            "sports"
+          ],
+          "word": "RECREATION",
+          "correct": "0"
+        },
+        {
+          "prompt": "SEGMENT",
+          "answers": [
+            "most",
+            "all",
+            "half"
+          ],
+          "word": "SEGMENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "SUBMERGE",
+          "answers": [
+            "sink",
+            "dive",
+            "sail"
+          ],
+          "word": "SUBMERGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "TURQUOISE",
+          "answers": [
+            "green",
+            "blue",
+            "yellow"
+          ],
+          "word": "TURQUOISE",
+          "correct": "2"
+        },
+        {
+          "prompt": "UTMOST",
+          "answers": [
+            "extra",
+            "furthest",
+            "best"
+          ],
+          "word": "UTMOST",
+          "correct": "0"
+        },
+        {
+          "prompt": "VICTOR",
+          "answers": [
+            "conqueror",
+            "fighter",
+            "winner"
+          ],
+          "word": "VICTOR",
+          "correct": "1"
+        },
+        {
+          "prompt": "DWELL",
+          "answers": [
+            "stay",
+            "live",
+            "visit"
+          ],
+          "word": "DWELL",
+          "correct": "2"
+        },
+        {
+          "prompt": "QUESTIONABLE",
+          "answers": [
+            "doubtful",
+            "untrue",
+            "uncertain"
+          ],
+          "word": "QUESTIONABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ROUSE",
+          "answers": [
+            "excite",
+            "worry",
+            "stir"
+          ],
+          "word": "ROUSE",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

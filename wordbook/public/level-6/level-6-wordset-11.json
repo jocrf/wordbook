@@ -1,0 +1,617 @@
+{
+  "title": "6.11",
+  "definitions": {
+    "RECAPITULATE": {
+      "word": "RECAPITULATE",
+      "phonetic": "(rE-kg-pich'-ÔøΩIAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to sum up, summarize, restate briefly </p><p>To RECAPITULATE means to <i class=“def-ital\">sum up</i> an argument, a discussion, or the like, by going over the main points again. </p><p>“At the end of the debate both sides briefly RECAPITULATED their positions.” </p><p>“She RECAPITULATED the reasons why she should be elected president.” </p><p>“I would like to RECAPITULATE what other writers have said about this novel.” </p><p>In the Pretest, many people choose <i class=“def-ital\">continue</i> as the meaning of RECAPITULATE, but RECAPITULATE means to <i class=“def-ital\">summarize</i>, usually with a view towards ending a speech or an argument. </p><p>Other forms of the word: RECAPITULATION, n.</p>"
+    },
+    "EXODUS": {
+      "word": "EXODUS",
+      "phonetic": "(ek'-sg-dÔøΩs)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a mass departure, emigration </p><p>The EXODUS was the departure of the Israelites from Egypt, described in the second book of the Bible. An EXODUS has come to mean any departure or going away of a large group of people, with or without the difficulties that the Israelites had in leaving Egypt.  </p><p>“The promise of better jobs in the growing cities caused a large EXODUS of workers from rural areas.” </p><p>The most popular wrong answer is <i class=“def-ital\">trip</i>, which is close to the meaning of EXODUS but not quite the same. One person could go by himself on a <i class=“def-ital\">trip</i> to the store, but this would not be an EXODUS.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ex-</i> under Prefixes."
+      ]
+    },
+    "IMBIBE": {
+      "word": "IMBIBE",
+      "phonetic": "(im-blb')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to drink, drink in, absorb </p><p>IMBIBE comes from Latin words meaning “to drink in.”  The word means actual drinking and “drinking in” or absorbing ideas, knowledge, and the like. </p><p>“He tried to IMBIBE all the knowledge the teacher could give him.” </p><p>When IMBIBE means actual drinking, it sometimes has a rather humorous tone. </p><p>“The drunk said he only IMBIBED on national holidays.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-1</i> under Prefixes."
+      ]
+    },
+    "HEW": {
+      "word": "HEW",
+      "phonetic": "(hyU)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cut, chop, carve </p><p>To HEW something is to cut it. The word usually suggests a rough job of cutting, done with an ax, a sword, or the like. </p><p>“He HEWED the trunk of the tree with one mighty blow of his ax.” </p><p>“This statue was HEWN out of solid rock.” </p><p>“They had to HEW a path for themselves through the thick jungle.” </p><p>“She HEWED the branches from the tree.” </p><p>Usage: The past participle of HEW is HEWN.</p>"
+    },
+    "ILLUSTRIOUS": {
+      "word": "ILLUSTRIOUS",
+      "phonetic": "(Huhs'-trE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">famous, eminent, distinguished, celebrated </p><p>ILLUSTRIOUS comes from a Latin word meaning to <i class=“def-ital\">brighten</i>, also the source of the word <i class=“def-ital\">luster</i>. People who are ILLUSTRIOUS are famous. They are brilliantly distinguished because of what they have done or because of their good qualities. </p><p>“Our ILLUSTRIOUS ancestors made this nation as great as it is today.” </p><p>“This novel will make the ILLUSTRIOUS writer even more famous.” </p><p>“When the ILLUSTRIOUS judge retired, everyone honored him for his wisdom and mercy.” </p><p><i class=“def-ital\">Hardworking</i> is the most commonly chosen incorrect answer, probably because of confusion between ILLUSTRIOUS and <i class=“def-ital\">industrious</i>.</p>"
+    },
+    "WANTON": {
+      "word": "WANTON",
+      "phonetic": "(won'-tÔøΩn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">immoral, irresponsible, reckless, undisciplined </p><p>The basic meaning of WANTON is “lacking discipline.” The word is used in several ways using this idea. WANTON can mean “done unjustifiably,” <i class=“def-ital\">malicious</i>. </p><p>“The youths were charged with the WANTON attack on the old man.” </p><p>It can mean <i class=“def-ital\">extravagant</i>, <i class=“def-ital\">unchecked</i>. </p><p>“Your WANTON spending is going to make us all poor.” </p><p>Or it can mean <i class=“def-ital\">immoral</i>, <i class=“def-ital\">unchaste</i>. </p><p>“These WANTON people are a disgrace to the neighborhood.” </p><p><i class=“def-ital\">Rare</i> is the most commonly chosen wrong answer, perhaps because of the <i class=“def-ital\">want</i> part of the word.</p>"
+    },
+    "IMPART": {
+      "word": "IMPART",
+      "phonetic": "(im-pahrt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make known, communicate, transmit, pass on </p><p>To IMPART means to <i class=“def-ital\">communicate</i>, to <i class=“def-ital\">pass on</i>. The word is used in two different senses. The first is to <i class=“def-ital\">give</i> or <i class=“def-ital\">pass on</i> a quality or condition to something. </p><p>“The new carpet IMPARTED a certain elegance to the dining room.” </p><p>“The general’s signature at the bottom IMPARTED a great deal of authority to the orders.” </p><p>The second sense is simply to <i class=“def-ital\">tell</i> or <i class=“def-ital\">make known</i> something. </p><p>“I want to IMPART some secret information to you.” </p><p>“The professor IMPARTED his knowledge to the students.”</p>"
+    },
+    "WILE": {
+      "word": "WILE",
+      "phonetic": "(wll)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a trick, ploy, ruse </p><p>A WILE is a trick used to entrap someone or to lure him on. </p><p>“The babysitter had to use all her WILES to get the children to go to bed.” </p><p>“He was not taken in by her WILES, and refused to go along with the scheme.” </p><p>“We used all our WILES, but we still couldn’t get the teacher to postpone the test.” </p><p>WILY is the adjective from WILE.  WILY means <i class=“def-ital\">tricky</i>, <i class=“def-ital\">crafty</i>, <i class=“def-ital\">sly</i>. </p><p>“The WILY old thief knew all the ways to steal people’s money.” </p><p>Usage: WILE is usually used in the plural, WILES.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-y</i> under Suffixes."
+      ]
+    },
+    "ESPOUSE": {
+      "word": "ESPOUSE",
+      "phonetic": "(es-powz'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to support, adopt, make one’s own, come to believe in </p><p>A <i class=“def-ital\">spouse</i> is a marriage partner, a husband or wife. To ESPOUSE meant originally “to take as a spouse,” to <i class=“def-ital\">wed</i>. The word is still sometimes used in this way, but it usually now has the sense “to attach yourself to a cause or a belief’ as if you were married to it. </p><p>“They eagerly ESPOUSED the doctrine of equal pay for equal work.” </p><p>“Everyone ESPOUSED the miners’ cause.” </p><p>“He ESPOUSED a strange theory that turned out to be correct.” </p><p>ESPOUSE is a stronger word than <i class=“def-ital\">believe</i> or <i class=“def-ital\">support</i>; it suggests more eagerness and completeness in your feelings. </p><p>“Once he had ESPOUSED this new idea, no one could talk him out of it.”</p>"
+    },
+    "WROUGHT": {
+      "word": "WROUGHT",
+      "phonetic": "(rot)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">shaped, fashioned, formed </p><p>WROUGHT is an old form of the past tense of <i class=“def-ital\">work</i>. WROUGHT as an adjective basically means <i class=“def-ital\">worked</i>. The word is usually applied to objects that have been carefully or elaborately fashioned, especially by hand. </p><p>“He bought his wife a pair of beautifully WROUGHT earrings for her birthday.” </p><p>“The lovely hand-WROUGHT lampshade was quite expensive.” </p><p>When used of metals, WROUGHT means “beaten or hammered into shape with tools.” </p><p>“The candlesticks were WROUGHT of the finest silver.” </p><p>In a different sense WROUGHT is used in the phrase “WROUGHT up,” which means <i class=“def-ital\">worked up</i>, <i class=“def-ital\">excited</i>. </p><p>“My mother gets all WROUGHT up when I don’t come home on time.”</p>"
+    },
+    "LAUDABLE": {
+      "word": "LAUDABLE",
+      "phonetic": "(lod'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">praiseworthy, deserving praise, commendable </p><p> LAUD is a rare word meaning to <i class=“def-ital\">praise highly</i>. Something or someone that is LAUDABLE is able to be praised, is worthy of being praised. </p><p>“Your desire to increase your vocabulary is LAUDABLE.” </p><p>“We thought his opinions were LAUDABLE, but we didn’t like the way he insisted that everyone agree with him.” </p><p><i class=“def-ital\">Understandable</i> is the most commonly chosen wrong answer, perhaps because LAUDABLE sounds like <i class=“def-ital\">audible</i>, which means “able to be heard.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "CULPABLE": {
+      "word": "CULPABLE",
+      "phonetic": "(kuhl'-pÔøΩÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">blameworthy </p><p> The <i class=“def-ital\">culp</i> part of the word comes from a Latin word meaning <i class=“def-ital\">blame</i>, also the source of the word <i class=“def-ital\">culprit</i>. Someone or something that is CULPABLE is worthy of being blamed for something, deserves condemnation or punishment. </p><p>“The judge said her parents were as CULPABLE for her crimes as she was.” </p><p>“You cannot consider him CULPABLE, since he was forced to do what he did.” </p><p>“His ignorance of the dangerous situation was CULPABLE, because it was his job to know about such things.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">effective</i>, probably because of a confusion between CULPABLE and <i class=“def-ital\">capable</i>. </p><p>Other forms of the word: CULPABILITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "PICAYUNE": {
+      "word": "PICAYUNE",
+      "phonetic": "(pik'-E-yUn",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">trivial, trifling, small, unworthy of notice </p><p>A PICAYUNE was a small coin used in the Spanish colo- nies in America. When the Americans took over the word, it came to be used as an adjective which means <i class=“def-ital\">small</i>, <i class=“def-ital\">insignificant</i>, <i class=“def-ital\">practically worthless</i>. </p><p>“She owes a PICAYUNE amount--not more than a dollar.” </p><p>“Several of the patients had PICAYUNE complaints about their treatment, but everyone was pleased in general.” </p><p>“He thought her criticisms were PICAYUNE; they were just about minor points that didn’t make any difference.”</p>"
+    },
+    "SCATHING": {
+      "word": "SCATHING",
+      "phonetic": "(skATH'-ing)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">damaging, harmful, very severe </p><p>SCATHING is an old English word which meant <i class=“def-ital\">harmful</i>, <i class=“def-ital\">damaging</i>, or <i class=“def-ital\">injurious</i>. SCATHING is now used chiefly about damaging or harmful words. </p><p>“The reviewer gave a SCATHING criticism of the new play, saying that the author couldn’t write and that the actors couldn’t perform.” </p><p>“The boss’s SCATHING reply to Ken’s suggestion hurt him deeply.” </p><p>The related word UNSCATHED means <i class=“def-ital\">unharmed</i>, <i class=“def-ital\">undamaged</i>. </p><p>“It was a miracle she walked away from the accident UNSCATHED.” </p><p>Other forms of the word: UNSCATHED, adj.</p>"
+    },
+    "SUPERFICIAL": {
+      "word": "SUPERFICIAL",
+      "phonetic": "(sU-pÔøΩr-fish'-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">shallow, trivial, insignificant </p><p>SUPERFICIAL comes from the Latin word for <i class=“def-ital\">surface</i>. Something which is SUPERFICIAL is on the surface only; it doesn’t go very deep. A SUPERFICIAL wound is a minor wound which just involves the surface of the skin. When applied to people and their actions, SUPERFICIAL means “concerned only with what is on the surface, with what is apparent and obvious.” </p><p>“It was a SUPERFICIAL report. It just gave the facts, not the reasons behind them.” </p><p>“The doctor gave him a quick, SUPERFICIAL examination and said he was all right.” </p><p>Other forms of the word: SUPERFICIALITY, n.</p>"
+    }
+  },
+  "id": "11",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "RECAPITULATE the argument.",
+          "answers": [
+            "continue",
+            "answer",
+            "sum up",
+            "end",
+            "lose"
+          ],
+          "word": "RECAPITULATE",
+          "correct": "sum up"
+        },
+        {
+          "prompt": "The EXODUS began.",
+          "answers": [
+            "prayer",
+            "mass departure",
+            "trip",
+            "long visit",
+            "miracle"
+          ],
+          "word": "EXODUS",
+          "correct": "mass departure"
+        },
+        {
+          "prompt": "The guests IMBIBED.",
+          "answers": [
+            "ate",
+            "were late",
+            "wrote",
+            "stayed sober",
+            "drank"
+          ],
+          "word": "IMBIBE",
+          "correct": "drank"
+        },
+        {
+          "prompt": "To HEW it.",
+          "answers": [
+            "replace",
+            "cut",
+            "burn",
+            "fix",
+            "kill"
+          ],
+          "word": "HEW",
+          "correct": "cut"
+        },
+        {
+          "prompt": "ILLUSTRIOUS men.",
+          "answers": [
+            "famous",
+            "happy",
+            "beloved",
+            "unknown",
+            "hardworking"
+          ],
+          "word": "ILLUSTRIOUS",
+          "correct": "famous"
+        },
+        {
+          "prompt": "WANTON people.",
+          "answers": [
+            "needy",
+            "immoral",
+            "rare",
+            "popular",
+            "holy"
+          ],
+          "word": "WANTON",
+          "correct": "immoral"
+        },
+        {
+          "prompt": "To IMPART knowledge.",
+          "answers": [
+            "lose",
+            "hide",
+            "divide up",
+            "gain",
+            "make known"
+          ],
+          "word": "IMPART",
+          "correct": "make known"
+        },
+        {
+          "prompt": "Full of WILES.",
+          "answers": [
+            "smiles",
+            "danger",
+            "fear",
+            "tears",
+            "tricks"
+          ],
+          "word": "WILE",
+          "correct": "tricks"
+        },
+        {
+          "prompt": "He ESPOUSES their plan.",
+          "answers": [
+            "admires",
+            "requests",
+            "opposes",
+            "supports",
+            "demands"
+          ],
+          "word": "ESPOUSE",
+          "correct": "supports"
+        },
+        {
+          "prompt": "Carefully WROUGHT.",
+          "answers": [
+            "shaped",
+            "colored",
+            "placed",
+            "chosen",
+            "purchased"
+          ],
+          "word": "WROUGHT",
+          "correct": "shaped"
+        },
+        {
+          "prompt": "LAUDABLE actions.",
+          "answers": [
+            "impossible",
+            "praiseworthy",
+            "silly",
+            "understandable",
+            "clever"
+          ],
+          "word": "LAUDABLE",
+          "correct": "praiseworthy"
+        },
+        {
+          "prompt": "He was CULPABLE.",
+          "answers": [
+            "miserable",
+            "wonderful",
+            "evil",
+            "effective",
+            "blameworthy"
+          ],
+          "word": "CULPABLE",
+          "correct": "blameworthy"
+        },
+        {
+          "prompt": "Several PICAYUNE points.",
+          "answers": [
+            "typical",
+            "boring",
+            "trivial",
+            "crucial",
+            "different"
+          ],
+          "word": "PICAYUNE",
+          "correct": "trivial"
+        },
+        {
+          "prompt": "SCATHING reports.",
+          "answers": [
+            "revealing",
+            "exciting",
+            "disturbing",
+            "damaging",
+            "disagreeing"
+          ],
+          "word": "SCATHING",
+          "correct": "damaging"
+        },
+        {
+          "prompt": "SUPERFICIAL treatment.",
+          "answers": [
+            "formal",
+            "unnecessary",
+            "shallow",
+            "careful",
+            "mistaken"
+          ],
+          "word": "SUPERFICIAL",
+          "correct": "shallow"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can you RECAPITULATE what someone else has said?",
+          "word": "RECAPITULATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it an EXODUS when a person leaves his house in the morning?",
+          "word": "EXODUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you IMBIBE milk?",
+          "word": "IMBIBE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you HEW a table?",
+          "word": "HEW",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is Adolf Hitler ILLUSTRIOUS?",
+          "word": "ILLUSTRIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are WANTON people always poor?",
+          "word": "WANTON",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do dictionaries IMPART information?",
+          "word": "IMPART",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would it be easy to cheat a WILY person?",
+          "word": "WILE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people who are against change ESPOUSE it?",
+          "word": "ESPOUSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a highly WROUGHT piece of furniture usually be plain?",
+          "word": "WROUGHT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it LAUDABLE to save a person from drowning?",
+          "word": "LAUDABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person be CULPABLE if he struck a car while driving on the wrong side of the road?",
+          "word": "CULPABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is PICAYUNE criticism helpful to a person?",
+          "word": "PICAYUNE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do mothers sing SCATHING lullabies to their babies?",
+          "word": "SCATHING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a SUPERFICIAL injury usually be very serious?",
+          "word": "SUPERFICIAL",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Hal RECAPITULATED his main arguments against the proposal.",
+          "word": "RECAPITULATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The governor tried to stop the EXODUS of businesses from his state by lowering taxes.",
+          "word": "EXODUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "He IMBIBED her not to give in.",
+          "word": "IMBIBE",
+          "correct": "false"
+        },
+        {
+          "prompt": "An immense hole was HEWN in the side of the mountain.",
+          "word": "HEW",
+          "correct": "true"
+        },
+        {
+          "prompt": "The ILLUSTRIOUS composer wrote some of the greatest symphonies of our time.",
+          "word": "ILLUSTRIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The judge criticized their WANTON disregard for the ordinary standards of decency.",
+          "word": "WANTON",
+          "correct": "true"
+        },
+        {
+          "prompt": "His presence IMPARTED a sense of importance to the meeting.",
+          "word": "IMPART",
+          "correct": "true"
+        },
+        {
+          "prompt": "He knew about all his opponent's WILES and didn't let himself be trapped.",
+          "word": "WILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "All the students ESPOUSED the idea of a shorter school day.",
+          "word": "ESPOUSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The robbers took all his money and then WROUGHT him up.",
+          "word": "WROUGHT",
+          "correct": "false"
+        },
+        {
+          "prompt": "His first attempt at playing the trumpet was LAUDABLE. No one could stay in the same room when he was practicing.",
+          "word": "LAUDABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "John is our most CULPABLE salesman; no one is as good as he is.",
+          "word": "CULPABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "You had better not make a mistake. This is the most PICAYUNE decision you will ever have to make.",
+          "word": "PICAYUNE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Many were injured in the explosion, but Barry was UNSCATHED.",
+          "word": "SCHATHING",
+          "correct": "true"
+        },
+        {
+          "prompt": "That movie was SUPERFICIAL. I think it's the best I've ever seen.",
+          "word": "SUPERFICIAL",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "RECAPITULATE",
+          "answers": [
+            "explain",
+            "repeat",
+            "summarize"
+          ],
+          "word": "RECAPITULATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXODUS",
+          "answers": [
+            "emigration",
+            "departure",
+            "visit"
+          ],
+          "word": "EXODUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "IMBIBE",
+          "answers": [
+            "absorb",
+            "drink",
+            "eat"
+          ],
+          "word": "IMBIBE",
+          "correct": "0"
+        },
+        {
+          "prompt": "HEW",
+          "answers": [
+            "spill",
+            "split",
+            "saw"
+          ],
+          "word": "HEW",
+          "correct": "0"
+        },
+        {
+          "prompt": "ILLUSTRIOUS",
+          "answers": [
+            "different",
+            "great",
+            "distinguished"
+          ],
+          "word": "ILLUSTRIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "WANTON",
+          "answers": [
+            "extravagant",
+            "powerful",
+            "spiteful"
+          ],
+          "word": "WANTON",
+          "correct": "1"
+        },
+        {
+          "prompt": "IMPART",
+          "answers": [
+            "know",
+            "tell",
+            "transmit"
+          ],
+          "word": "IMPART",
+          "correct": "0"
+        },
+        {
+          "prompt": "WILE",
+          "answers": [
+            "cheat",
+            "winner",
+            "fake"
+          ],
+          "word": "WILE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ESPOUSE",
+          "answers": [
+            "applaud",
+            "believe",
+            "erect"
+          ],
+          "word": "ESPOUSE",
+          "correct": "2"
+        },
+        {
+          "prompt": "WROUGHT",
+          "answers": [
+            "fixed",
+            "made",
+            "formed"
+          ],
+          "word": "WROUGHT",
+          "correct": "0"
+        },
+        {
+          "prompt": "LAUDABLE",
+          "answers": [
+            "good",
+            "rare",
+            "worthwhile"
+          ],
+          "word": "LAUDABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "CULPABLE",
+          "answers": [
+            "guilty",
+            "unreasonable",
+            "responsible"
+          ],
+          "word": "CULPABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PICAYUNE",
+          "answers": [
+            "petty",
+            "lost",
+            "worthless"
+          ],
+          "word": "PICAYUNE",
+          "correct": "1"
+        },
+        {
+          "prompt": "SCATHING",
+          "answers": [
+            "bitter",
+            "ridiculous",
+            "insulting"
+          ],
+          "word": "SCATHING",
+          "correct": "1"
+        },
+        {
+          "prompt": "SUPERFICIAL",
+          "answers": [
+            "outward",
+            "insignificant",
+            "extraordinary"
+          ],
+          "word": "SUPERFICIAL",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABDUCT",
+      "answer": "abducted"
+    },
+    {
+      "word": "CONTEMPORARY",
+      "answer": "contemplative"
+    },
+    {
+      "word": "EXORBITANT",
+      "answer": "exorbitant"
+    },
+    {
+      "word": "MEDITATE",
+      "answer": "meditated"
+    },
+    {
+      "word": "RELATE",
+      "answer": "related"
+    },
+    {
+      "word": "ACCUSATION",
+      "answer": "accusation"
+    },
+    {
+      "word": "CONTEMPTUOUS",
+      "answer": "contemplative"
+    },
+    {
+      "word": "HOARD",
+      "answer": "hoard"
+    },
+    {
+      "word": "OBSESS",
+      "answer": "obsessed"
+    },
+    {
+      "word": "SABER",
+      "answer": "saber"
+    },
+    {
+      "word": "ADHERE",
+      "answer": "adhere"
+    },
+    {
+      "word": "DILIGENT",
+      "answer": "diligent"
+    },
+    {
+      "word": "INTIMATE",
+      "answer": "intimate"
+    },
+    {
+      "word": "PROFICIENT",
+      "answer": "proficient"
+    },
+    {
+      "word": "SLIPSHOD",
+      "answer": "slipshod"
+    },
+    {
+      "word": "CASCADE",
+      "answer": "cascade"
+    },
+    {
+      "word": "EMBRYONIC",
+      "answer": "embryonic"
+    },
+    {
+      "word": "JEST",
+      "answer": "jests"
+    },
+    {
+      "word": "PUNY",
+      "answer": "puny"
+    },
+    {
+      "word": "SUFFICE",
+      "answer": "suffice"
+    },
+    {
+      "word": "CONCUR",
+      "answer": "concur"
+    },
+    {
+      "word": "ENCOMPASS",
+      "answer": "encompassed"
+    },
+    {
+      "word": "ADVERSARY",
+      "answer": "adversary"
+    },
+    {
+      "word": "CLICHE",
+      "answer": "cliche"
+    },
+    {
+      "word": "EXULT",
+      "answer": "exulted"
+    },
+    {
+      "word": "PRECINCT",
+      "answer": "precinct"
+    },
+    {
+      "word": "SUMMIT",
+      "answer": "summit"
+    },
+    {
+      "word": "AFFILIATE",
+      "answer": "affiliated"
+    },
+    {
+      "word": "CORDIAL",
+      "answer": "cordial"
+    },
+    {
+      "word": "INDUCE",
+      "answer": "induced"
+    },
+    {
+      "word": "PROLOGUE",
+      "answer": "prologue"
+    },
+    {
+      "word": "SURPLUS",
+      "answer": "surplus"
+    },
+    {
+      "word": "ARID",
+      "answer": "arid"
+    },
+    {
+      "word": "CONTEMPLATIVE",
+      "answer": "contemplative"
+    },
+    {
+      "word": "INITIAL",
+      "answer": "initial"
+    },
+    {
+      "word": "RENOWN",
+      "answer": "renown"
+    },
+    {
+      "word": "UNITY",
+      "answer": "unity"
+    },
+    {
+      "word": "BISECT",
+      "answer": "bisected"
+    },
+    {
+      "word": "DISGRUNTLE",
+      "answer": "disgruntled"
+    },
+    {
+      "word": "MAUL",
+      "answer": "mauled"
+    },
+    {
+      "word": "SULLEN",
+      "answer": "sullen"
+    },
+    {
+      "word": "WRETCHED",
+      "answer": "wretched"
+    },
+    {
+      "word": "CHRONIC",
+      "answer": "chronic"
+    },
+    {
+      "word": "DISINTEGRATE",
+      "answer": "disintegrated"
+    },
+    {
+      "word": "MEANDER",
+      "answer": "meandered"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "I have to",
+      "part2": "with you. You're right, Jim is not a very good baseball player.",
+      "correct": "concur",
+      "word": "CONCUR"
+    },
+    {
+      "part1": "He was so",
+      "part2": "about getting his work done on time that they gave him a raise.",
+      "correct": "diligent",
+      "word": "DILIGENT"
+    },
+    {
+      "part1": "Algebra and geometry are",
+      "part2": "in the overall field of mathematics.",
+      "correct": "encompassed",
+      "word": "ENCOMPASS"
+    },
+    {
+      "part1": "He was",
+      "part2": "by the need to prove he wasn't a coward.",
+      "correct": "obsessed",
+      "word": "OBSESS"
+    },
+    {
+      "part1": "Although he doesn't enjoy driving he is quite",
+      "part2": "at it, and he has never had an accident.",
+      "correct": "proficient",
+      "word": "PROFICIENT"
+    },
+    {
+      "part1": "Bill used to be rather",
+      "part2": ", but lately he has gained a lot of weight and become much stronger.",
+      "correct": "puny",
+      "word": "PUNY"
+    },
+    {
+      "part1": "She",
+      "part2": "a humorous story about traveling in Europe.",
+      "correct": "related",
+      "word": "RELATE"
+    },
+    {
+      "part1": "He used a special glue to make the shelf",
+      "part2": "to the refrigerator.",
+      "correct": "adhere",
+      "word": "ADHERE"
+    },
+    {
+      "part1": "Their prices are so",
+      "part2": "that I'm surprised they ever sell anything.",
+      "correct": "exorbitant",
+      "word": "EXORBITANT"
+    },
+    {
+      "part1": "The speaker made a few",
+      "part2": "about how fat he was, and then became serious.",
+      "correct": "jests",
+      "word": "JEST"
+    },
+    {
+      "part1": "He said that fifty people would not",
+      "part2": "for the job. He needed at least a hundred.",
+      "correct": "suffice",
+      "word": "SUFFICE"
+    },
+    {
+      "part1": "The two poets were",
+      "part2": "with each other; they were both born in the same year, and died in the same year.",
+      "correct": "contemporary",
+      "word": "CONTEMPLATIVE"
+    },
+    {
+      "part1": "A group of daring criminals",
+      "part2": "the mayor and demanded a million dollars for his safe return.",
+      "correct": "abducted",
+      "word": "ABDUCT"
+    },
+    {
+      "part1": "The fencer cut his opponent on the arm with his",
+      "part2": ".",
+      "correct": "saber",
+      "word": "SABER"
+    },
+    {
+      "part1": "The newspaper reporter somehow learned the",
+      "part2": "secrets of his personal life.",
+      "correct": "intimate",
+      "word": "INTIMATE"
+    },
+    {
+      "part1": "Bill was",
+      "part2": "of the other students because he was so much smarter than they were.",
+      "correct": "contemptuous",
+      "word": "CONTEMPLATIVE"
+    },
+    {
+      "part1": "He kept a(n)",
+      "part2": "of old coins in a strongbox that no one knew about.",
+      "correct": "hoard",
+      "word": "HOARD"
+    },
+    {
+      "part1": "The",
+      "part2": "of water pouring down the side of the mountain was a beautiful sight.",
+      "correct": "cascade",
+      "word": "CASCADE"
+    },
+    {
+      "part1": "When they arrested him, he denied the",
+      "part2": "that he had robbed the bank.",
+      "correct": "accusation",
+      "word": "ACCUSATION"
+    },
+    {
+      "part1": "Even the most",
+      "part2": "workers occasionally do something carefully and correctly.",
+      "correct": "slipshod",
+      "word": "SLIPSHOD"
+    },
+    {
+      "part1": "The plan is still rather",
+      "part2": "; when it is more developed you will understand it better.",
+      "correct": "embryonic",
+      "word": "EMBRYONIC"
+    },
+    {
+      "part1": "She",
+      "part2": "a great deal about whether or not to go to college.",
+      "correct": "meditated",
+      "word": "MEDITATE"
+    },
+    {
+      "part1": "The policeman talked to the man for a long time and finally",
+      "part2": "him to come in from the window ledge.",
+      "correct": "induced",
+      "word": "INDUCE"
+    },
+    {
+      "part1": "Their marriage was a happy one, and they lived together in",
+      "part2": "and harmony for many, many years.",
+      "correct": "unity",
+      "word": "UNITY"
+    },
+    {
+      "part1": "All of us are",
+      "part2": "at the low pay we are receiving.",
+      "correct": "disgruntled",
+      "word": "DISGRUNTLE"
+    },
+    {
+      "part1": "The",
+      "part2": "boy refused to speak to anyone when he didn't get his way.",
+      "correct": "sullen",
+      "word": "SULLEN"
+    },
+    {
+      "part1": "He came in all bruised and bleeding. He said he had been",
+      "part2": "by some vicious teenagers.",
+      "correct": "mauled",
+      "word": "MAUL"
+    },
+    {
+      "part1": "The land in that region is so",
+      "part2": "that only a very few plants can survive.",
+      "correct": "arid",
+      "word": "ARID"
+    },
+    {
+      "part1": "The",
+      "part2": "results showed him ahead, but in the final results his opponent had won.",
+      "correct": "initial",
+      "word": "INITIAL"
+    },
+    {
+      "part1": "We tried to help some of the",
+      "part2": "people who were left homeless by the flood.",
+      "correct": "wretched",
+      "word": "WRETCHED"
+    },
+    {
+      "part1": "This charity used to be",
+      "part2": "with the United Way, but it no longer has anything to do with that organization.",
+      "correct": "affiliated",
+      "word": "AFFILIATE"
+    },
+    {
+      "part1": "There was a(n)",
+      "part2": "at the start of the play, during which an actor explained that it was a true story.",
+      "correct": "prologue",
+      "word": "PROLOGUE"
+    },
+    {
+      "part1": "His",
+      "part2": "was so powerful that Brett had little chance of defeating him.",
+      "correct": "adversary",
+      "word": "ADVERSARY"
+    },
+    {
+      "part1": "It is better to gain honor and",
+      "part2": "for your achievements while still alive than to become famous after you're dead.",
+      "correct": "renown",
+      "word": "RENOWN"
+    },
+    {
+      "part1": "Jane",
+      "part2": "slowly through the store, not looking for anything in particular.",
+      "correct": "meandered",
+      "word": "MEANDER"
+    },
+    {
+      "part1": "We can't fit all our stuff into our new small apartment, so we're going to sell our",
+      "part2": "furniture before we move.",
+      "correct": "surplus",
+      "word": "SURPLUS"
+    },
+    {
+      "part1": "He was at the",
+      "part2": "of his career during his forties.",
+      "correct": "summit",
+      "word": "SUMMIT"
+    },
+    {
+      "part1": "The railroad tracks passed through the middle of town and",
+      "part2": "it exactly.",
+      "correct": "bisected",
+      "word": "BISECT"
+    },
+    {
+      "part1": "They",
+      "part2": "over their good luck in finding the buried treasure.",
+      "correct": "exulted",
+      "word": "EXULT"
+    },
+    {
+      "part1": "Her feet are always sore. It's been a(n)",
+      "part2": "problem for her for some time now.",
+      "correct": "chronic",
+      "word": "CHRONIC"
+    },
+    {
+      "part1": "Ray is a(n)",
+      "part2": "sort of person. He will spend a whole afternoon just thinking about the nature of life.",
+      "correct": "contemplative",
+      "word": "CONTEMPLATIVE"
+    },
+    {
+      "part1": "The police said there is a high burglary rate in this particular",
+      "part2": "; in other areas of the city the problem isn't so bad.",
+      "correct": "precinct",
+      "word": "PRECINCT"
+    },
+    {
+      "part1": "She thought it was quite an original expression, but to me it was just another",
+      "part2": "",
+      "correct": "cliche",
+      "word": "CLICHE"
+    },
+    {
+      "part1": "The force of the explosion completely",
+      "part2": "the building.",
+      "correct": "disintegrated",
+      "word": "DISINTEGRATE"
+    },
+    {
+      "part1": "Our old friend greeted us with a(n)",
+      "part2": "smile and handshake.",
+      "correct": "cordial",
+      "word": "CORDIAL"
+    }
+  ],
+  "type": "fitb",
+  "id": 1
+}

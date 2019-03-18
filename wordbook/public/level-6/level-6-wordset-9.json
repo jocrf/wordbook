@@ -1,0 +1,608 @@
+{
+  "title": "6.9",
+  "definitions": {
+    "SMUG": {
+      "word": "SMUG",
+      "phonetic": "(smuhg)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">self-satisfied, pleased with oneself, complacent </p><p>A SMUG person is quite pleased with himself. SMUG people firmly believe they are right or superior, and take delight in being better than others. SMUGNESS is not a very admirable quality. </p><p>“Alice felt quite SMUG after she had beaten her brother at tennis.” </p><p>“SMUG in his belief that he knew the subject, he didn’t bother studying for the test.” </p><p>“She gave her friends a SMUG smile as she walked up to the stage to receive her award.” </p><p>Other forms of the word: SMUGNESS, n.</p>"
+    },
+    "VINDICTIVE": {
+      "word": "VINDICTIVE",
+      "phonetic": "(vin-dik'-tiv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">vengeful, unforgiving </p><p>VINDICTIVE means “showing a desire for revenge.” A VINDICTIVE person by nature wants to get even with anyone who wrongs him. </p><p>“She’s a VINDICTIVE person. If she thinks you’ve said something bad about her, she’ll spend weeks trying to get back at you.” </p><p>“My father was stern, but he wasn’t VINDICTIVE.” </p><p>“He made some VINDICTIVE remarks about his old enemy.” </p><p>“We don’t want to be VINDICTIVE; we just want to get back the money he took from us.”</p>"
+    },
+    "BEDEVIL": {
+      "word": "BEDEVIL",
+      "phonetic": "(bi-dev'-ÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to torment, harass, annoy, plague </p><p><i class=“def-ital\">Be-</i> is a prefix which forms verbs out of nouns. To BEDEVIL someone is to treat him <i class=“def-ital\">devilishly</i>, usually by constantly annoying or worrying him. </p><p>“The mosquitoes BEDEVILED us when we camped by the lake.” </p><p>“This project has been BEDEVILED by problems since the beginning.” </p><p>“She was BEDEVILED by minor illnesses all year.” </p><p>In the Pretest, the most commonly chosen incorrect answer is <i class=“def-ital\">astound</i>, perhaps due to a confusion of BEDEVIL with <i class=“def-ital\">bedazzle</i>, which means to <i class=“def-ital\">impress forcefully</i>.</p>"
+    },
+    "NEGLIGIBLE": {
+      "word": "NEGLIGIBLE",
+      "phonetic": "(neg'-li-jÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unimportant, small, not worthy of attention </p><p> Anything that is NEGLIGIBLE is able to be neglected without worrying about it, usually because it is so unimportant or tiny. </p><p>“The medicine had a NEGLIGIBLE effect. She was no better after taking it than before.” </p><p>“His attempts to help us were NEGLIGIBLE. I don’t think he tried very hard.” </p><p>“You get a NEGLIGIBLE saving by buying the large economy size. It’s just not worth it.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "EDIFYING": {
+      "word": "EDIFYING",
+      "phonetic": "(ed'-ÔøΩfl-ing)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">uplifting, enlightening, instructive </p><p>EDIFYING and its related verb EDIFY are from the same Latin root as <i class=“def-ital\">edifice</i>, which means “a large and impressive building.” To EDIFY originally meant simply to <i class=“def-ital\">build</i>. Now it is only used in the sense of “to build up one’s mind or morals.” </p><p>An “EDIFYING experience” is one which improves you spiritually or intellectually. It is not necessarily an enjoyable experience, although it may be. </p><p>“The teacher said it would be an EDIFYING experience for us to go to the museum.” </p><p>“The minister delivered a very EDIFYING sermon.” </p><p>Other forms of the word: EDIFY, v. EDIFICATION, n.</p>"
+    },
+    "MALEFACTOR": {
+      "word": "MALEFACTOR",
+      "phonetic": "(mal'-ÔøΩfak-tÔøΩ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a criminal, evildoer </p><p>MALEFACTOR comes from Latin words meaning “to do evil.” A MALEFACTOR is a criminal, or anyone who does evil to another. </p><p>“Some unknown MALEFACTOR broke several windows in the school last night.” </p><p>“The MALEFACTORS must not be allowed to get away with their crime.” </p><p>The opposite of MALEFACTOR is <i class=“def-ital\">benefactor</i>, someone who does good to other people.</p>"
+    },
+    "MUSE": {
+      "word": "MUSE",
+      "phonetic": "(myUz)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to think, meditate, ponder, reflect </p><p>To MUSE <i class=“def-ital\">on</i> or <i class=“def-ital\">over</i> something is to think silently about it. The word usually suggests a dreamy or wondering attitude rather than serious thought. </p><p>“He MUSED on the shortness of human life.” </p><p>“She MUSED over the good times they used to have.” </p><p>“Sally MUSED about the beauty of nature.”</p>"
+    },
+    "REPROACH": {
+      "word": "REPROACH",
+      "phonetic": "(ri-prOch')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to blame, criticize, rebuke </p><p>To REPROACH someone is to find fault with him, especially in a tone that suggests sorrow or the need for sorrow. The idea is often that of shaming a person into being better. </p><p>“Jim’s mother REPROACHED him for forgetting her birthday.” </p><p>“The teacher REPROACHED the students for not studying harder.” </p><p>REPROACH is also a noun, meaning <i class=“def-ital\">blame</i> or <i class=“def-ital\">censure</i>. A person whose reputation is “above REPROACH” has never done anything he might be blamed for. </p><p>“His criminal activities brought REPROACH on his entire family.” </p><p>Other forms of the word: REPROACHFUL, adj.</p>"
+    },
+    "ENVOY": {
+      "word": "ENVOY",
+      "phonetic": "(on'-voy",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a messenger, agent, deputy, representative </p><p>ENVOY is from a French word meaning to <i class=“def-ital\">send</i>. An ENVOY is a person sent somewhere as a representative of a government, business, group of people, etc. </p><p>“We sent him as our ENVOY to meet with our opponents.” </p><p>“The ENVOY came to beg us to forgive his king.” </p><p>In diplomacy, ENVOY is a specific rank of diplomat, second in importance after an ambassador. </p><p>Note the different pronunciations. Sometimes words from foreign languages keep their foreign pronunciation for a long time in English. ENVOY seems to be in the process of changing from the French pronunciation <i class=“def-ital\">on’-voy</i> to the English <i class=“def-ital\">en’-voy</i>.</p>"
+    },
+    "FISSURE": {
+      "word": "FISSURE",
+      "phonetic": "(fish'-ÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a narrow crack or opening </p><p>A FISSURE is a long, narrow crack, usually rather deep, and usually made by splitting or breaking. </p><p>“The earthquake caused many FISSURES to appear on the sides of the mountain.” </p><p>In a broader sense, a FISSURE is a division or disagreement which threatens to break up a group of people. </p><p>“A FISSURE developed in the party between those who supported the war and those who opposed it.” </p><p>“His stand on unemployment opened up many FISSURES in his previously solid support.”</p>"
+    },
+    "COALESCE": {
+      "word": "COALESCE",
+      "phonetic": "(kO-ÔøΩ-les')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to unite, join together </p><p>To COALESCE is to come or grow together into one body or group. COALESCE often suggests a slow or natural process of growing together. </p><p>“Over time the land between them was built up and the two islands finally COALESCED.” </p><p>“Several small parties managed to COALESCE into one important political organization.”</p>"
+    },
+    "DELUGE": {
+      "word": "DELUGE",
+      "phonetic": "(del'-yUj)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a flood, downpour </p><p>A DELUGE is a great flood, usually caused by a tremendous downpour of rain. A DELUGE can also be anything that overwhelms like a flood. </p><p>“When the movie star was sick, the hospital received a DELUGE of mail.” </p><p>“There was a DELUGE of criticism when the popular teacher was fired.” </p><p>DELUGE is also a verb meaning to <i class=“def-ital\">flood</i>. </p><p>“When the dam broke, towns along the river were DELUGED.” </p><p>“They DELUGED the company with requests for more information.” </p><p>“He was DELUGED with job offers after he graduated from school.” </p><p><i class=“def-ital\">Battle</i> is the most commonly chosen wrong answer, possibly because DELUGE sometimes has a sense of violence and destructiveness.</p>"
+    },
+    "FARCICAL": {
+      "word": "FARCICAL",
+      "phonetic": "(fahr'-sg-kgl",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">absurd, laughable, ridiculous </p><p>A FARCE is a comedy, usually one filled with silly characters and unbelievable situations. </p><p>“We expected a serious drama, but it turned out to be a light-hearted FARCE.” </p><p>A FARCE is also any situation or event that is like such a comedy. </p><p>“Everything seemed to go wrong; the entire picnic was a complete FARCE.” </p><p>FARCICAL is the adjective from FARCE.  Something that is FARCICAL is like a FARCE, so silly and extreme that it is funny. </p><p>“His attempts to explain why he was late were almost FARCICAL.” </p><p>“It was a FARCICAL game. The players seemed to make up the rules as they went along.” </p><p>Other forms of the word: FARCE, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ic</i> under Suffixes."
+      ]
+    },
+    "SURMISE": {
+      "word": "SURMISE",
+      "phonetic": "(sgr-mlz')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to guess, suspect, suppose, think </p><p>To SURMISE means “to believe without strong evidence,” to <i class=“def-ital\">guess</i> or <i class=“def-ital\">suppose</i>. </p><p>“He SURMISED that there would be a surprise party for him.” </p><p>“The detective SURMISED that the burglars had entered the house through an open window.” </p><p>SURMISE is also a noun, which means a <i class=“def-ital\">guess</i>. </p><p>“Her SURMISE proved to be correct.”</p>"
+    },
+    "ASSENT": {
+      "word": "ASSENT",
+      "phonetic": "(g-sent')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to agree, consent, concur </p><p>To ASSENT to something is to agree to it. ASSENT often does not suggest strong support but a weaker kind of “going along.” </p><p>“My father ASSENTED when I asked him if I could go to the movies.” </p><p>“I cannot ASSENT to the idea that all men are basically evil.” </p><p>“Everyone ASSENTED to the proposal that we have a party.” </p><p>ASSENT is also a noun, meaning <i class=“def-ital\">agreement</i>. </p><p>“The teacher gave her ASSENT to our suggestion that we have a class picnic.” </p><p>Usage: ASSENT is often followed by <i class=“def-ital\">to</i>.</p>"
+    }
+  },
+  "id": "9",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "SMUG people.",
+          "answers": [
+            "insulting",
+            "self-satisfied",
+            "frightened",
+            "clever",
+            "funny"
+          ],
+          "word": "SMUG",
+          "correct": "self-satisfied"
+        },
+        {
+          "prompt": "Known to be VINDICTIVE.",
+          "answers": [
+            "lying",
+            "unkind",
+            "vengeful",
+            "loving",
+            "blameless"
+          ],
+          "word": "VINDICTIVE",
+          "correct": "vengeful"
+        },
+        {
+          "prompt": "Continues to BEDEVIL me.",
+          "answers": [
+            "astound",
+            "thrill",
+            "torment",
+            "defeat",
+            "fear"
+          ],
+          "word": "BEDEVIL",
+          "correct": "torment"
+        },
+        {
+          "prompt": "NEGLIGIBLE amounts.",
+          "answers": [
+            "unknown",
+            "unimportant",
+            "usual",
+            "considerable",
+            "agreed"
+          ],
+          "word": "NEGLIGIBLE",
+          "correct": "unimportant"
+        },
+        {
+          "prompt": "A very EDIFYING experience.",
+          "answers": [
+            "shameful",
+            "boring",
+            "solemn",
+            "frightening",
+            "uplifting"
+          ],
+          "word": "EDIFYING",
+          "correct": "uplifting"
+        },
+        {
+          "prompt": "Approached the MALEFACTOR.",
+          "answers": [
+            "priest",
+            "policeman",
+            "businessman",
+            "criminal",
+            "soldier"
+          ],
+          "word": "MALEFACTOR",
+          "correct": "criminal"
+        },
+        {
+          "prompt": "To MUSE on it.",
+          "answers": [
+            "meditate",
+            "sleep",
+            "smile",
+            "speak",
+            "decide"
+          ],
+          "word": "MUSE",
+          "correct": "meditate"
+        },
+        {
+          "prompt": "To REPROACH them.",
+          "answers": [
+            "forget",
+            "ruin",
+            "applaud",
+            "meet",
+            "blame"
+          ],
+          "word": "REPROACH",
+          "correct": "blame"
+        },
+        {
+          "prompt": "He sent the ENVOY.",
+          "answers": [
+            "warning",
+            "messenger",
+            "spy",
+            "guard",
+            "ship"
+          ],
+          "word": "ENVOY",
+          "correct": "messenger"
+        },
+        {
+          "prompt": "Found the FISSURE.",
+          "answers": [
+            "stream",
+            "narrow crack",
+            "joining place",
+            "deep hole",
+            "boulder"
+          ],
+          "word": "FISSURE",
+          "correct": "narrow crack"
+        },
+        {
+          "prompt": "They will COALESCE.",
+          "answers": [
+            "change",
+            "boil",
+            "unite",
+            "separate",
+            "harden"
+          ],
+          "word": "COALESCE",
+          "correct": "unite"
+        },
+        {
+          "prompt": "After the DELUGE.",
+          "answers": [
+            "winter",
+            "battle",
+            "explosion",
+            "flood",
+            "trick"
+          ],
+          "word": "DELUGE",
+          "correct": "flood"
+        },
+        {
+          "prompt": "FARCICAL actions.",
+          "answers": [
+            "violent",
+            "serious",
+            "unexplained",
+            "thoughtless",
+            "absurd"
+          ],
+          "word": "FARCICAL",
+          "correct": "absurd"
+        },
+        {
+          "prompt": "I SURMISE.",
+          "answers": [
+            "know",
+            "hope",
+            "guess",
+            "feel",
+            "remember"
+          ],
+          "word": "SURMISE",
+          "correct": "guess"
+        },
+        {
+          "prompt": "They all ASSENTED.",
+          "answers": [
+            "sat down",
+            "finished",
+            "prepared",
+            "agreed",
+            "refused"
+          ],
+          "word": "ASSENT",
+          "correct": "agreed"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Are SMUG people usually very likable?",
+          "word": "SMUG",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a VINDICTIVE person hold a grudge?",
+          "word": "VINDICTIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it pleasant to be BEDEVILED?",
+          "word": "BEDEVILED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a jackhammer cause a NEGLIGIBLE amount of noise?",
+          "word": "NEGLIGIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is an EDIFYING experience always an enjoyable one?",
+          "word": "EDIFYING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a MALEFACTOR be famous?",
+          "word": "MALEFACTOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you MUSE over something unimportant?",
+          "word": "MUSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people often feel sorry after they have been REPROACHED?",
+          "word": "REPROACH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is an ENVOY likely to travel much?",
+          "word": "ENVOY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a FISSURE solid?",
+          "word": "FISSURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can heat make objects COALESCE?",
+          "word": "COALESCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would three letters be a DELUGE of mail?",
+          "word": "DELUGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would people be sad at a FARCICAL event?",
+          "word": "FARCICAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you SURMISE when you aren't certain?",
+          "word": "SURMISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a person ASSENT to something he doesn't particularly like?",
+          "word": "ASSENT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "With a SMUG air of superiority he showed them how to put the puzzle together.",
+          "word": "SMUG",
+          "correct": "true"
+        },
+        {
+          "prompt": "Our VINDICTIVE neighbors built a large fence just to block our view.",
+          "word": "VINDICTIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Doubts about his decision continued to BEDEVIL him long after it had been made.",
+          "word": "BEDEVIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Although they worked hard at cleaning the house, the results were NEGLIGIBLE; it was just about as dirty as before.",
+          "word": "NEGLIGIBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She only bought top-quality food to EDIFY her family.",
+          "word": "EDIFYING",
+          "correct": "false"
+        },
+        {
+          "prompt": "He had a secret MALEFACTOR who sent him the money to finish college.",
+          "word": "MALEFACTOR",
+          "correct": "false"
+        },
+        {
+          "prompt": "The comedian MUSED us with his jokes.",
+          "word": "MUSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The car REPROACHED us at seventy miles an hour.",
+          "word": "REPROACH",
+          "correct": "false"
+        },
+        {
+          "prompt": "The president sent his personal ENVOY to talk with the king.",
+          "word": "ENVOY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The debate over whether to hire him caused a FISSURE in the organization.",
+          "word": "FISSURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The six streams meet and COALESCE into a river.",
+          "word": "COALESCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They DELUGED him with prizes after he won the contest.",
+          "word": "DELUGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "His explanation of how electricity works was so obviously wrong it was almost FARCICAL.",
+          "word": "FARCICAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "From the way Bill was acting, Mary SURMISED that he was unhappy in his new job.",
+          "word": "SURMISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She ASSENTED the fact that he made more money than she did for doing the same job.",
+          "word": "ASSENT",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "SMUG",
+          "answers": [
+            "confident",
+            "vain",
+            "eager"
+          ],
+          "word": "SMUG",
+          "correct": "2"
+        },
+        {
+          "prompt": "VINDICTIVE",
+          "answers": [
+            "hopeless",
+            "merciless",
+            "spiteful"
+          ],
+          "word": "VINDICTIVE",
+          "correct": "0"
+        },
+        {
+          "prompt": "BEDEVIL",
+          "answers": [
+            "trouble",
+            "annoy",
+            "defeat"
+          ],
+          "word": "BEDEVIL",
+          "correct": "2"
+        },
+        {
+          "prompt": "NEGLIGIBLE",
+          "answers": [
+            "uncertain",
+            "insignificant",
+            "tiny"
+          ],
+          "word": "NEGLIGIBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "EDIFYING",
+          "answers": [
+            "educational",
+            "enjoyable",
+            "uplifting"
+          ],
+          "word": "EDIFYING",
+          "correct": "1"
+        },
+        {
+          "prompt": "MALEFACTOR",
+          "answers": [
+            "madman",
+            "thief",
+            "murderer"
+          ],
+          "word": "MALEFACTOR",
+          "correct": "0"
+        },
+        {
+          "prompt": "MUSE",
+          "answers": [
+            "wonder",
+            "consider",
+            "discuss"
+          ],
+          "word": "MUSE",
+          "correct": "2"
+        },
+        {
+          "prompt": "REPROACH",
+          "answers": [
+            "scold",
+            "criticize",
+            "despise"
+          ],
+          "word": "REPROACH",
+          "correct": "2"
+        },
+        {
+          "prompt": "ENVOY",
+          "answers": [
+            "leader",
+            "diplomat",
+            "representative"
+          ],
+          "word": "ENVOY",
+          "correct": "0"
+        },
+        {
+          "prompt": "FISSURE",
+          "answers": [
+            "split",
+            "opening",
+            "increase"
+          ],
+          "word": "FISSURE",
+          "correct": "2"
+        },
+        {
+          "prompt": "COALESCE",
+          "answers": [
+            "join",
+            "add",
+            "blend"
+          ],
+          "word": "COALESCE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DELUGE",
+          "answers": [
+            "overwhelm",
+            "drown",
+            "hurt"
+          ],
+          "word": "DELUGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "FARCICAL",
+          "answers": [
+            "ridiculous",
+            "dangerous",
+            "humorous"
+          ],
+          "word": "FARCICAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "SURMISE",
+          "answers": [
+            "guess",
+            "imagine",
+            "study"
+          ],
+          "word": "SURMISE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ASSENT",
+          "answers": [
+            "agree",
+            "waver",
+            "comply"
+          ],
+          "word": "ASSENT",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

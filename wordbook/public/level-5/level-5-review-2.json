@@ -1,0 +1,457 @@
+{
+  "wordList": [
+    {
+      "word": "ALLIANCE",
+      "answer": "alliance"
+    },
+    {
+      "word": "IMPOVERISH",
+      "answer": "impoverished"
+    },
+    {
+      "word": "MERIT",
+      "answer": "merited"
+    },
+    {
+      "word": "RAUCOUS",
+      "answer": "raucous"
+    },
+    {
+      "word": "SARCASTIC",
+      "answer": "sarcastic"
+    },
+    {
+      "word": "CIVILITY",
+      "answer": "civility"
+    },
+    {
+      "word": "INSTIGATE",
+      "answer": "instigated"
+    },
+    {
+      "word": "MINUSCULE",
+      "answer": "minuscule"
+    },
+    {
+      "word": "RENDEZVOUS",
+      "answer": "rendezvous"
+    },
+    {
+      "word": "VILE",
+      "answer": "vile"
+    },
+    {
+      "word": "COMPOSURE",
+      "answer": "composure"
+    },
+    {
+      "word": "INVIGORATE",
+      "answer": "invigorated"
+    },
+    {
+      "word": "NOVICE",
+      "answer": "novice"
+    },
+    {
+      "word": "RESOLUTE",
+      "answer": "resolute"
+    },
+    {
+      "word": "WAFT",
+      "answer": "wafted"
+    },
+    {
+      "word": "DISPATCH",
+      "answer": "dispatched"
+    },
+    {
+      "word": "LAPSE",
+      "answer": "lapses"
+    },
+    {
+      "word": "PERSEVERE",
+      "answer": "persevere"
+    },
+    {
+      "word": "RESTRICT",
+      "answer": "restricted"
+    },
+    {
+      "word": "YIELD",
+      "answer": "yielded"
+    },
+    {
+      "word": "EMIT",
+      "answer": "emit"
+    },
+    {
+      "word": "APPALLING",
+      "answer": "appalling"
+    },
+    {
+      "word": "EXCAVATE",
+      "answer": "excavated"
+    },
+    {
+      "word": "HUMILITY",
+      "answer": "humility"
+    },
+    {
+      "word": "MAGISTERIAL",
+      "answer": "magisterial"
+    },
+    {
+      "word": "RELENT",
+      "answer": "relented"
+    },
+    {
+      "word": "BOMBARD",
+      "answer": "bombarded"
+    },
+    {
+      "word": "EXEMPT",
+      "answer": "exempt"
+    },
+    {
+      "word": "ILLICIT",
+      "answer": "illicit"
+    },
+    {
+      "word": "MARINER",
+      "answer": "Mariner"
+    },
+    {
+      "word": "STUPEFY",
+      "answer": "stupefied"
+    },
+    {
+      "word": "DEEM",
+      "answer": "deemed"
+    },
+    {
+      "word": "HAGGARD",
+      "answer": "haggard"
+    },
+    {
+      "word": "INFILTRATE",
+      "answer": "infiltrate"
+    },
+    {
+      "word": "PETITION",
+      "answer": "petition"
+    },
+    {
+      "word": "UNRULY",
+      "answer": "unruly"
+    },
+    {
+      "word": "EMINENT",
+      "answer": "eminent"
+    },
+    {
+      "word": "HAMPER",
+      "answer": "hampered"
+    },
+    {
+      "word": "INGRAINED",
+      "answer": "ingrained"
+    },
+    {
+      "word": "PLIANT",
+      "answer": "pliant"
+    },
+    {
+      "word": "VAGABOND",
+      "answer": "vagabond"
+    },
+    {
+      "word": "ESPIONAGE",
+      "answer": "espionage"
+    },
+    {
+      "word": "HARROWING",
+      "answer": "harrowing"
+    },
+    {
+      "word": "JOCULAR",
+      "answer": "jocular"
+    },
+    {
+      "word": "PROPHECY",
+      "answer": "prophecy"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "He manages to keep his",
+      "part2": "even when everyone else is upset and worried.",
+      "correct": "composure",
+      "word": "COMPOSURE"
+    },
+    {
+      "part1": "The teacher",
+      "part2": "three of us to see what was causing all the noise downstairs.",
+      "correct": "dispatched",
+      "word": "DISPATCH"
+    },
+    {
+      "part1": "Wally's back operations",
+      "part2": "his family; they owed the hospital thousands of dollars.",
+      "correct": "impoverished",
+      "word": "IMPOVERISH"
+    },
+    {
+      "part1": "A border dispute broke up the previously strong",
+      "part2": "between the two countries.",
+      "correct": "alliance",
+      "word": "ALLIANCE"
+    },
+    {
+      "part1": "He tried not to be",
+      "part2": "but he often couldn't help making fun in a cruel way of other people.",
+      "correct": "sarcastic",
+      "word": "SARCASTIC"
+    },
+    {
+      "part1": "A quick swim always",
+      "part2": "him and made him feel as good as new.",
+      "correct": "invigorated",
+      "word": "INVIGORATE"
+    },
+    {
+      "part1": "When volcanoes erupt, they",
+      "part2": "tons of lava and gas.",
+      "correct": "emit",
+      "word": "EMIT"
+    },
+    {
+      "part1": "He was such a(n)",
+      "part2": "at the job that he didn't even know the name of the machine he was supposed to run.",
+      "correct": "novice",
+      "word": "NOVICE"
+    },
+    {
+      "part1": "On her diet she is",
+      "part2": "to salt-free foods.",
+      "correct": "restricted",
+      "word": "RESTRICT"
+    },
+    {
+      "part1": "The apartment is so",
+      "part2": "I don't know how anyone could live in it; there is garbage everywhere.",
+      "correct": "vile",
+      "word": "VILE"
+    },
+    {
+      "part1": "Because they weren't allowed to see each other, they had to arrange a secret",
+      "part2": "for late that night.",
+      "correct": "rendezvous",
+      "word": "RENDEZVOUS"
+    },
+    {
+      "part1": "After all their work the miners only found a(n)",
+      "part2": "amount of gold-barely enough to fill a bottlecap.",
+      "correct": "minuscule",
+      "word": "MINUSCULE"
+    },
+    {
+      "part1": "The gentle breeze",
+      "part2": "the clouds across the sky.",
+      "correct": "wafted",
+      "word": "WAFT"
+    },
+    {
+      "part1": "Her fiery speech",
+      "part2": "the workers to go on strike.",
+      "correct": "instigated",
+      "word": "INSTIGATE"
+    },
+    {
+      "part1": "He had one or two",
+      "part2": "as he recited the poem, but overall he had it memorized quite well.",
+      "correct": "lapses",
+      "word": "LAPSE"
+    },
+    {
+      "part1": "We must treat all people we meet with",
+      "part2": ", even if we do not particularly like them.",
+      "correct": "civility",
+      "word": "CIVILITY"
+    },
+    {
+      "part1": "We were awakened by the",
+      "part2": "sounds of the men shouting to each other and banging rubbish cans together.",
+      "correct": "raucous",
+      "word": "RAUCOUS"
+    },
+    {
+      "part1": "We must be",
+      "part2": "and not give in to their demands.",
+      "correct": "resolute",
+      "word": "RESOLUTE"
+    },
+    {
+      "part1": "The principal promised to",
+      "part2": "in his efforts to improve the school.",
+      "correct": "persevere",
+      "word": "PERSEVERE"
+    },
+    {
+      "part1": "Her great performance",
+      "part2": "a gold medal.",
+      "correct": "merited",
+      "word": "MERIT"
+    },
+    {
+      "part1": "He",
+      "part2": "his place in line to someone who was in a hurry.",
+      "correct": "yielded",
+      "word": "YIELD"
+    },
+    {
+      "part1": "We need a material that is",
+      "part2": "enough to bend easily around this metal rod.",
+      "correct": "pliant",
+      "word": "PLIANT"
+    },
+    {
+      "part1": "My uncle is quite a(n)",
+      "part2": "fellow. He always has a funny story or riddle to tell us.",
+      "correct": "jocular",
+      "word": "JOCULAR"
+    },
+    {
+      "part1": "The store was charged with the",
+      "part2": "sale of alcohol to minors.",
+      "correct": "illicit",
+      "word": "ILLICIT"
+    },
+    {
+      "part1": "Jack was so",
+      "part2": "by the incredible news that he forgot his own name.",
+      "correct": "stupefied",
+      "word": "STUPEFY"
+    },
+    {
+      "part1": "By the end of the long hot day all the workers looked very",
+      "part2": ".",
+      "correct": "haggard",
+      "word": "HAGGARD"
+    },
+    {
+      "part1": "It was a(n)",
+      "part2": "experience to be trapped in the house during the flood.",
+      "correct": "harrowing",
+      "word": "HARROWING"
+    },
+    {
+      "part1": "The students' scores on the reading test were they were by far the worst in the city.",
+      "correct": "appalling",
+      "word": "APPALLING"
+    },
+    {
+      "part1": "He quit his job, sold his house, and became a(n)",
+      "part2": ", traveling constantly throughout the country.",
+      "correct": "vagabond",
+      "word": "VAGABOND"
+    },
+    {
+      "part1": "They presented the king with a(n)",
+      "part2": "asking that taxes be lowered.",
+      "correct": "petition",
+      "word": "PETITION"
+    },
+    {
+      "part1": "Bill's father wasn't going to let him go to the movies, but finally he",
+      "part2": "and said it was all right.",
+      "correct": "relented",
+      "word": "RELENT"
+    },
+    {
+      "part1": "They",
+      "part2": "tons of earth from the area in order to make the tunnel.",
+      "correct": "excavated",
+      "word": "EXCAVATE"
+    },
+    {
+      "part1": "Despite his success, he kept a sense of",
+      "part2": ", thinking that he didn't really deserve it.",
+      "correct": "humility",
+      "word": "HUMILITY"
+    },
+    {
+      "part1": "The mayor",
+      "part2": "it to be of the utmost importance that everyone be prepared for a flood.",
+      "correct": "deemed",
+      "word": "DEEM"
+    },
+    {
+      "part1": "The clever spy managed to",
+      "part2": "the secret organization.",
+      "correct": "infiltrate",
+      "word": "INFILTRATE"
+    },
+    {
+      "part1": "The habit of eating breakfast quickly has become",
+      "part2": "in him over the years, and now it's difficult to stop.",
+      "correct": "ingrained",
+      "word": "INGRAINED"
+    },
+    {
+      "part1": "He was accused of stealing secret documents and committing other acts of",
+      "part2": ".",
+      "correct": "espionage",
+      "word": "ESPIONAGE"
+    },
+    {
+      "part1": "The enemy guns",
+      "part2": "us night and day until we were forced to surrender.",
+      "correct": "bombarded",
+      "word": "BOMBARD"
+    },
+    {
+      "part1": "We are annoyed by his",
+      "part2": "attitude. Why does he think he can give us orders?",
+      "correct": "magisterial",
+      "word": "MAGISTERIAL"
+    },
+    {
+      "part1": "Coleridge wrote a long poem about a shipwrecked sailor called \"The Rime of the Ancient",
+      "part2": ".\"",
+      "correct": "Mariner",
+      "word": "MARINER"
+    },
+    {
+      "part1": "This",
+      "part2": "scientist has won many prizes for his brilliant studies.",
+      "correct": "eminent",
+      "word": "EMINENT"
+    },
+    {
+      "part1": "The",
+      "part2": "crowd surged through the police barriers and shouted insults at the politician.",
+      "correct": "unruly",
+      "word": "UNRULY"
+    },
+    {
+      "part1": "A hundred years ago he made the remarkable",
+      "part2": "that someday men would walk on the moon.",
+      "correct": "prophecy",
+      "word": "PROPHECY"
+    },
+    {
+      "part1": "A shortage of money",
+      "part2": "our efforts to clean up the school.",
+      "correct": "hampered",
+      "word": "HAMPER"
+    },
+    {
+      "part1": "They decided to",
+      "part2": "him from having to pass the height requirement for the police force.",
+      "correct": "exempt",
+      "word": "EXEMPT"
+    }
+  ],
+  "type": "fitb",
+  "id": 2
+}

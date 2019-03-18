@@ -1,0 +1,602 @@
+{
+  "title": "4.12",
+  "definitions": {
+    "ARISTOCRACY": {
+      "word": "ARISTOCRACY",
+      "phonetic": "(ar-ÔøΩstok'-rÔøΩsE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the nobility, upper class </p><p>ARISTOCRACY comes from Greek words meaning “rule by the best.” The basic meaning of ARISTOCRACY is “a form of government in which the best people rule.” In common use the word refers to the highest social class of a country, the noble families who are accustomed to ruling and having power. </p><p>“As members of the ARISTOCRACY, the noblemen were entitled to many things that the common people could not have.” </p><p>“The United States has never had an ARISTOCRACY or ruling class.” </p><p>Other forms of the word: ARISTOCRAT, n. ARISTOCRATIC, adj.</p>"
+    },
+    "LUSTER": {
+      "word": "LUSTER",
+      "phonetic": "(luhs'-tar)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">brightness, sheen; brilliance, glory </p><p>LUSTER is the soft glow of light reflected off a polished surface. </p><p>“She rubbed the table with a special oil to increase its LUSTER.” </p><p>From this, LUSTER has come to mean <i class=“def-ital\">brightness</i> in the sense of <i class=“def-ital\">glory</i>, <i class=“def-ital\">brilliance</i>, <i class=“def-ital\">distinction</i>. </p><p>“The mere presence of the famous woman added LUSTER to the occasion.” </p><p>“This act of heroism added further LUSTER to his already great reputation.” </p><p>Other forms of the word: LUSTROUS, adj.</p>"
+    },
+    "SUPERINTEND": {
+      "word": "SUPERINTEND",
+      "phonetic": "(sU-pÔøΩr-in-tend'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to manage, oversee, look after </p><p>To SUPERINTEND something is to have charge of it, to supervise the management of it. </p><p>“He was chosen to SUPERINTEND the running of the store.” </p><p>“There was only one person to SUPERINTEND the entire building.” </p><p>A SUPERINTENDENT is a person who manages something like a building or a school. </p><p>“If your heat goes off, call the building’s SUPERINTENDENT immediately.” </p><p>Other forms of the word: SUPERINTENDENT, n.</p>"
+    },
+    "ZEAL": {
+      "word": "ZEAL",
+      "phonetic": "(zEI)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">eagerness, passion, enthusiasm </p><p>ZEAL is eager devotion to a cause, religion, idea, or the like. </p><p>“Despite the ZEAL of his supporters he lost the election.” </p><p>“His ZEAL for teaching young children is unmatched.” </p><p>“In his ZEAL to improve humanity he sometimes goes too far and offends people.” </p><p>Someone who feels a great deal of ZEAL for a cause or goal is ZEALOUS. ZEALOUS is pronounced zel’-as. </p><p>“Jane is a ZEALOUS defender of the rights of poor people.” </p><p>“The policemen were ZEALOUS in enforcing the new law.” </p><p>Other forms of the word: ZEALOT, n. ZEALOUS, adj.</p>"
+    },
+    "SHIRK": {
+      "word": "SHIRK",
+      "phonetic": "(sherk)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to avoid, dodge </p><p>SHIRK means “to try to escape from doing” something, usually because of laziness, fear, or simple dislike of the work to be done. </p><p>“He would like to SHIRK his homework, but he knows he has to do it.” </p><p>“I cannot SHIRK the responsibility for my mistake.” </p><p>A person who is lazy and tries to avoid doing a fair share of the work is called a SHIRKER. </p><p>“SHIRKERS always try to get somebody else to do their work for them.” </p><p>Other forms of the word: SHIRKER, n.</p>"
+    },
+    "COMPASSION": {
+      "word": "COMPASSION",
+      "phonetic": "(kÔøΩm-pash'-:m)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">pity, sympathy </p><p>COMPASSION is a feeling of pity. If you have COMPASSION, you understand and share in the suffering or pain which someone else feels. </p><p>“She had COMPASSION for suffering animals, so people brought her their sick and unwanted cats and dogs.” </p><p>“He gave the beggar a quarter, not out of COMPASSION, but simply to get rid of him.” </p><p>Someone who feels COMPASSION is COMPASSIONATE. </p><p>“William gave Sally a COMPASSIONATE glance when her mother scolded her for being late again.” </p><p>Other forms of the word: COMPASSIONATE, adj.</p>"
+    },
+    "RAMBLE": {
+      "word": "RAMBLE",
+      "phonetic": "(ram'-bÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to wander, roam </p><p>To RAMBLE is to wander about, to go from place to place, without any special aim. </p><p>“They RAMBLED across the countryside, stopping whenever they liked.” </p><p>The word is often applied to talking and writing that goes on and on without any point. </p><p>“He had a tendency to RAMBLE when he talked. He just couldn’t stick to the subject.” </p><p>“She RAMBLED on about her garden until everyone had fallen asleep.”</p>"
+    },
+    "STENCH": {
+      "word": "STENCH",
+      "phonetic": "(stench)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a stink, foul odor </p><p>A STENCH is a strong, foul odor, like the odor of something rotting. </p><p>“The meat created quite a STENCH after it was left out in the hot sun all day.” </p><p>“No one could stand the STENCH of the tobacco he used in his pipe.”</p>"
+    },
+    "REMORSE": {
+      "word": "REMORSE",
+      "phonetic": "(ri-mors')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">regret, repentance </p><p>REMORSE is deep, bitter guilt and sorrow for having done wrong. It comes from a Latin word meaning “to bite again” and suggests a guilty feeling that is gnawing away at your conscience. </p><p>“I immediately felt REMORSE for having yelled at her.” </p><p>“The criminal showed no REMORSE for the murder.” </p><p>“Their REMORSE didn’t seem genuine. I don’t think they’re a bit sorry.” </p><p>Other forms of the word: REMORSEFUL, adj. REMORSELESS, adj.</p>"
+    },
+    "FORMAT": {
+      "word": "FORMAT",
+      "phonetic": "(for'-mat)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">arrangement </p><p>FORMAT is related to the word <i class=“def-ital\">form</i>. The FORMAT is the general physical arrangement of something, particularly of a book or magazine. </p><p>“They changed the FORMAT of the magazine so that it was bigger and had more pictures.” </p><p>“They hoped the new FORMAT of the books would make them easier to read.” </p><p>The word can also be used about other kinds of arrangements, like that of a television show. </p><p>“The idea behind the show is good, but the FORMAT is all wrong.”</p>"
+    },
+    "CHRONOLOGY": {
+      "word": "CHRONOLOGY",
+      "phonetic": "(krÔøΩnol'-ÔøΩjE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">time order </p><p>The <i class=“def-ital\">chron</i> part of CHRONOLOGY means <i class=“def-ital\">time</i>. It is found in the word <i class=“def-ital\">chronograph</i> (a stop watch), as well as in the words <i class=“def-ital\">chronic</i> and <i class=“def-ital\">chronicle</i>. A CHRONOLOGY is the order in which a particular series of events occurred. </p><p>“The detective tried to establish the CHRONOLOGY of the events that led up to the murder.” </p><p>A CHRONOLOGY is also a table or list which organizes things according to the time at which they occurred. Finally, CHRONOLOGY is the science that tries to establish accurate dates for past events. </p><p>CHRONOLOGICAL is the adjective from CHRONOLOGY. To put things “in CHRONOLOGICAL order” is to arrange them in the order of their time. </p><p>“He listed Shakespeare’s plays in CHRONOLOGICAL order.” </p><p>Other forms of the word: CHRONOLOGICAL, adj.</p>"
+    },
+    "FEASIBLE": {
+      "word": "FEASIBLE",
+      "phonetic": "(fE'-zÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">possible, practicable; likely; suitable Something which is FEASIBLE is able to be done, is possible. </p><p>“It was hardly a FEASIBLE plan, considering the costs involved.” </p><p>“The most FEASIBLE solution is not necessarily the fairest one.” </p><p>FEASIBLE is also sometimes used to mean <i class=“def-ital\">logical</i> or <i class=“def-ital\">likely</i>. </p><p>“His excuse seemed FEASIBLE enough.” </p><p>The word can also mean “capable of being dealt with successfully,” <i class=“def-ital\">suitable</i>. </p><p>“They chose the most FEASIBLE route they could find for the new road.” </p><p>“Is sunlight a FEASIBLE source of energy?” </p><p>Other forms of the word: FEASIBILITY, n.</p>"
+    },
+    "INTELLECT": {
+      "word": "INTELLECT",
+      "phonetic": "(in'-tÔøΩlekt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">mind, understanding, reasoning </p><p>INTELLECT is related to the word <i class=“def-ital\">intelligent</i>. The INTELLECT is the reasoning power of the mind, as opposed to its feelings and instincts. </p><p>“He has a great INTELLECT, but he’s not a very pleasant person to know.” </p><p>“My INTELLECT tells me that this is the right decision, but I wish it could be otherwise.” </p><p>INTELLECT is also used to mean “a person with great reasoning powers.” </p><p>“The finest INTELLECTS in the country were present at the conference.” </p><p>INTELLECTUAL is an adjective formed from INTELLECT. It means “having to do with the INTELLECT.” </p><p>“He preferred INTELLECTUAL pursuits, such as reading and chess, to sports.” </p><p>Other forms of the word: INTELLECTUAL, adj., n.</p>"
+    },
+    "PREVAIL": {
+      "word": "PREVAIL",
+      "phonetic": "(pri-vAI')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to win, triumph; to be widespread; to persuade </p><p>To PREVAIL <i class=“def-ital\">over</i> or <i class=“def-ital\">against</i> means to <i class=“def-ital\">win</i> or <i class=“def-ital\">gain victory</i>. </p><p>“We PREVAILED over our enemies.” </p><p>Sometimes the word is used without <i class=“def-ital\">over</i> or <i class=“def-ital\">against</i>. </p><p>” ‘Justice will PREVAIL’ means that justice will finally win out.” </p><p>PREVAIL can also mean “to be common or widespread.” </p><p>“After weeks of rioting, a feeling of calm now PREVAILS in the city.” </p><p>To PREVAIL <i class=“def-ital\">on</i> or <i class=“def-ital\">upon</i> someone is to persuade him, often with some difficulty. </p><p>“We finally PREVAILED upon him to tell us the secret.” </p><p>“She PREVAILED on her father to let her use the car.” </p><p>Other forms of the word: PREVAILING, adj. PREVALENT, adj.</p>"
+    },
+    "SHREWD": {
+      "word": "SHREWD",
+      "phonetic": "(shrUd)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">clever, keen, astute </p><p>A SHREWD person has a great deal of cleverness and sound judgment, especially in practical matters. </p><p>“He’s a SHREWD judge of talent. He rarely makes a mistake about actors.” </p><p>“Several SHREWD businessmen bought all the land before oil was discovered there.” </p><p>SHREWD often contains a sense of trickiness in its meaning. </p><p>“The SHREWD salesman knew just how to get people to buy the worthless stock.” </p><p>People often think SHREWD means <i class=“def-ital\">unpleasant</i>, possibly because SHREWD is often used in a negative way about people who are tricky or dishonest. SHREWD might also be confused with the word <i class=“def-ital\">shrew</i>, which means “a bad-tempered woman.”</p>"
+    }
+  },
+  "id": "12",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Knew the ARISTOCRACY.",
+          "answers": [
+            "church",
+            "nobility",
+            "magicians",
+            "peasants",
+            "businessmen"
+          ],
+          "word": "ARISTOCRACY",
+          "correct": "nobility"
+        },
+        {
+          "prompt": "Strange LUSTER.",
+          "answers": [
+            "appearance",
+            "shape",
+            "smoothness",
+            "warmth",
+            "brightness"
+          ],
+          "word": "LUSTER",
+          "correct": "brightness"
+        },
+        {
+          "prompt": "Who will SUPERINTEND them?",
+          "answers": [
+            "manage",
+            "protect",
+            "expect",
+            "obey",
+            "improve"
+          ],
+          "word": "SUPERINTEND",
+          "correct": "manage"
+        },
+        {
+          "prompt": "Great ZEAL.",
+          "answers": [
+            "pity",
+            "confidence",
+            "eagerness",
+            "importance",
+            "hope"
+          ],
+          "word": "ZEAL",
+          "correct": "eagerness"
+        },
+        {
+          "prompt": "SHIRK responsibility.",
+          "answers": [
+            "seek",
+            "laugh at",
+            "avoid",
+            "lose",
+            "hate"
+          ],
+          "word": "SHIRK",
+          "correct": "avoid"
+        },
+        {
+          "prompt": "Unusual COMPASSION.",
+          "answers": [
+            "game",
+            "payment",
+            "pity",
+            "sickness",
+            "pride"
+          ],
+          "word": "COMPASSION",
+          "correct": "pity"
+        },
+        {
+          "prompt": "Inclined to RAMBLE.",
+          "answers": [
+            "return",
+            "shake",
+            "fall",
+            "rush",
+            "wander"
+          ],
+          "word": "RAMBLE",
+          "correct": "wander"
+        },
+        {
+          "prompt": "Surprised by the STENCH.",
+          "answers": [
+            "mess",
+            "stink",
+            "dust",
+            "noise",
+            "heat"
+          ],
+          "word": "STENCH",
+          "correct": "stink"
+        },
+        {
+          "prompt": "Great REMORSE.",
+          "answers": [
+            "ability",
+            "pleasure",
+            "hatred",
+            "regret",
+            "anger"
+          ],
+          "word": "REMORSE",
+          "correct": "regret"
+        },
+        {
+          "prompt": "New FORMAT.",
+          "answers": [
+            "covering",
+            "arrangement",
+            "contents",
+            "idea",
+            "requirement"
+          ],
+          "word": "FORMAT",
+          "correct": "arrangement"
+        },
+        {
+          "prompt": "Inaccurate CHRONOLOGY.",
+          "answers": [
+            "measurement",
+            "time order",
+            "land survey",
+            "color chart",
+            "clock"
+          ],
+          "word": "CHRONOLOGY",
+          "correct": "time order"
+        },
+        {
+          "prompt": "It was FEASIBLE.",
+          "answers": [
+            "laughable",
+            "visible",
+            "difficult",
+            "necessary",
+            "possible"
+          ],
+          "word": "FEASIBLE",
+          "correct": "possible"
+        },
+        {
+          "prompt": "His INTELLECT.",
+          "answers": [
+            "belief",
+            "speech",
+            "feelings",
+            "mind",
+            "memory"
+          ],
+          "word": "INTELLECT",
+          "correct": "mind"
+        },
+        {
+          "prompt": "We will PREVAIL.",
+          "answers": [
+            "help",
+            "continue",
+            "triumph",
+            "increase",
+            "finish"
+          ],
+          "word": "PREVAIL",
+          "correct": "triumph"
+        },
+        {
+          "prompt": "Very SHREWD.",
+          "answers": [
+            "foolish",
+            "unpleasant",
+            "unhappy",
+            "clever",
+            "handsome"
+          ],
+          "word": "SHREWD",
+          "correct": "clever"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a duke belong to the ARISTOCRACY?",
+          "word": "ARISTOCRACY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does polishing spoons give them LUSTER?",
+          "word": "LUSTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a school SUPERINTENDENT be in charge of schools?",
+          "word": "SUPERINTEND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a ZEALOUS worker likely to be fired?",
+          "word": "ZEAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a SHIRKER a good person to work with?",
+          "word": "SHIRK",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are COMPASSIONATE people likely to feel sorry for those who are not as lucky as they are?",
+          "word": "COMPASSION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are speakers who RAMBLE usually interesting to listen to?",
+          "word": "RAMBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do roses have a STENCH?",
+          "word": "STENCH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Should a person feel REMORSE for stealing money?",
+          "word": "REMORSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do magazines have different FORMATS?",
+          "word": "FORMAT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is there a CHRONOLOGY to the events of your life?",
+          "word": "CHRONOLOGY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it FEASIBLE to play football and read at the same time?",
+          "word": "FEASIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you use your INTELLECT when you take a test?",
+          "word": "INTELLECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does the better team always PREVAIL?",
+          "word": "PREVAIL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are only evil people SHREWD?",
+          "word": "SHREWD",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He started out as a poor farmer, but when he died he was a member of the ARISTOCRACY.",
+          "word": "ARISTOCRACY",
+          "correct": "true"
+        },
+        {
+          "prompt": "His drunken behavior took away from the LUSTER of the event.",
+          "word": "LUSTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Dave SUPERINTENDED to go to the party, but he just couldn't make it.",
+          "word": "SUPERINTEND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Her ZEAL for doing good works made everyone admire her.",
+          "word": "ZEAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "He tried to SHIRK the blame for the disaster, but we wouldn't let him.",
+          "word": "SHIRK",
+          "correct": "true"
+        },
+        {
+          "prompt": "He had a COMPASSION for tennis. He would play it all day if he could.",
+          "word": "COMPASSION",
+          "correct": "false"
+        },
+        {
+          "prompt": "She RAMBLED quickly and directly to her destination.",
+          "word": "RAMBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The STENCH of garlic on his breath was overwhelming.",
+          "word": "STENCH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Everyone felt genuine REMORSE and satisfaction when we finally won the championship.",
+          "word": "REMORSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "When the new editor took over, he changed the FORMAT of the newspaper.",
+          "word": "FORMAT",
+          "correct": "true"
+        },
+        {
+          "prompt": "She used the dates at the top to arrange the letters in CHRONOLOGICAL order.",
+          "word": "CHRONOLOGY",
+          "correct": "true"
+        },
+        {
+          "prompt": "She was a very FEASIBLE woman; she inherited a lot of money when she was young.",
+          "word": "FEASIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The president called in several great INTELLECTS to advise him.",
+          "word": "INTELLECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "We PREVAILED on him to say a few words to the class.",
+          "word": "PREVAIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "He SHREWDLY hinted that if we didn't want the house, there were plenty of other people who did.",
+          "word": "SHREWD",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ARISTOCRACY",
+          "answers": [
+            "nobility",
+            "populace",
+            "upper class"
+          ],
+          "word": "ARISTOCRACY",
+          "correct": "1"
+        },
+        {
+          "prompt": "LUSTER",
+          "answers": [
+            "light",
+            "happiness",
+            "glory"
+          ],
+          "word": "LUSTER",
+          "correct": "1"
+        },
+        {
+          "prompt": "SUPERINTEND",
+          "answers": [
+            "supervise",
+            "oversee",
+            "help"
+          ],
+          "word": "SUPERINTEND",
+          "correct": "2"
+        },
+        {
+          "prompt": "ZEAL",
+          "answers": [
+            "enthusiasm",
+            "devotion",
+            "interest"
+          ],
+          "word": "ZEAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "SHIRK",
+          "answers": [
+            "avoid",
+            "dodge",
+            "enjoy"
+          ],
+          "word": "SHIRK",
+          "correct": "2"
+        },
+        {
+          "prompt": "COMPASSION",
+          "answers": [
+            "knowledge",
+            "sympathy",
+            "understanding"
+          ],
+          "word": "COMPASSION",
+          "correct": "0"
+        },
+        {
+          "prompt": "RAMBLE",
+          "answers": [
+            "disappear",
+            "roam",
+            "stray"
+          ],
+          "word": "RAMBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "STENCH",
+          "answers": [
+            "taste",
+            "smell",
+            "odor"
+          ],
+          "word": "STENCH",
+          "correct": "0"
+        },
+        {
+          "prompt": "REMORSE",
+          "answers": [
+            "guilt",
+            "fear",
+            "sorrow"
+          ],
+          "word": "REMORSE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FORMAT",
+          "answers": [
+            "appearance",
+            "arrangement",
+            "explanation"
+          ],
+          "word": "FORMAT",
+          "correct": "2"
+        },
+        {
+          "prompt": "CHRONOLOGY",
+          "answers": [
+            "series",
+            "time",
+            "memory"
+          ],
+          "word": "CHRONOLOGY",
+          "correct": "2"
+        },
+        {
+          "prompt": "FEASIBLE",
+          "answers": [
+            "reliable",
+            "possible",
+            "suitable"
+          ],
+          "word": "FEASIBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INTELLECT",
+          "answers": [
+            "cleverness",
+            "logic",
+            "anger"
+          ],
+          "word": "INTELLECT",
+          "correct": "2"
+        },
+        {
+          "prompt": "PREVAIL",
+          "answers": [
+            "persuade",
+            "decide",
+            "win"
+          ],
+          "word": "PREVAIL",
+          "correct": "1"
+        },
+        {
+          "prompt": "SHREWD",
+          "answers": [
+            "holy",
+            "tricky",
+            "smart"
+          ],
+          "word": "SHREWD",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

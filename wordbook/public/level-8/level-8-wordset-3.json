@@ -1,0 +1,602 @@
+{
+  "title": "8.3",
+  "definitions": {
+    "PUERILE": {
+      "word": "PUERILE",
+      "phonetic": "(pyU'-ÔøΩr-il",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">childish, juvenile, foolish </p><p>PUERILE comes from the Latin word for boy, <i class=“def-ital\">puer</i>. Someone who is PUERILE is boyish, childish. It is an uncomplimentary term that suggests immaturity, even foolishness. </p><p>“‘Stop being so PUERILE--it’s time to grow up’, she would say whenever her husband threw a tantrum.” </p><p>“You may be twenty-one-years old, but your PUERILE behavior makes you seem about ten.” </p><p>Other forms of the word: PUERILITY, n.</p>"
+    },
+    "TRENCHANT": {
+      "word": "TRENCHANT",
+      "phonetic": "(tren'-ch:mt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">incisive, keen, effective </p><p>TRENCHANT was originally applied to objects and meant <i class=“def-ital\">sharp</i>, <i class=“def-ital\">keen</i>, as a “TRENCHANT blade.” That meaning is now obsolete and the word is only used figuratively to describe speech, thought, or manner that penetrates or cuts to the heart of an issue. </p><p>“The speaker’s comments on civil rights were TRENCHANT: we saw the issue more clearly than ever before.” </p><p>“The judge’s TRENCHANT analysis of the case aided the jury in its debate.” </p><p>“The politician’s grave manner made his utterances seem TRENCHANT even when they were nonsensical.” </p><p>Other forms of the word: TRENCHANCY, n.</p>"
+    },
+    "BUFFET": {
+      "word": "BUFFET",
+      "phonetic": "(buht'-it)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to strike, hit, batter, beat, thrash </p><p>To BUFFET is to hit repeatedly as if with an open hand. The word can be used about actual physical beating, or it can be used figuratively. </p><p>“High waves BUFFETED the sides of the ship.” </p><p>“He had been constantly BUFFETED by the misfortunes of life.” </p><p>BUFFET is also a noun. </p><p>“The house withstood the BUFFETS of the tree branches during the hurricane.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">protect</i>, probably due to a confusion of BUFFET and <i class=“def-ital\">buffer</i>, which is something that protects by reducing the shock of impact or by shielding from undesirable pressures.</p>"
+    },
+    "CRAVEN": {
+      "word": "CRAVEN",
+      "phonetic": "(krA'-vÔøΩn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">cowardly, pusillanimous </p><p>CRAVEN is both a noun and an adjective. A CRAVEN is an abject coward, someone who is contemptibly fearful in the face of danger. </p><p>“The CRAVEN turned and ran as soon as he saw the enemy soldiers in the distance.” </p><p>As an adjective CRAVEN is used about people and activities that demonstrate this cowardice. </p><p>“The CRAVEN scoundrel challenged me to a duel, then fled the city when I accepted his challenge.” </p><p>“Your CRAVEN refusal to stand up for your principles sickens me.”</p>"
+    },
+    "DETRITUS": {
+      "word": "DETRITUS",
+      "phonetic": "(di-trl'-tÔøΩs)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">debris </p><p>DETRITUS is the loose material that forms from the abrasion or erosion of rocks. In an extended sense, DETRITUS is used about fragmented material of any sort, <i class=“def-ital\">debris</i>. </p><p>“After the avalanche, all that remained of the cliff was DETRITUS.” </p><p>“The flood victims searched among the DETRITUS of their homes for prized possessions.” </p><p>DETRITUS can also be used figuratively. </p><p>“The woman tried in vain to dredge the visitor’s name from the DETRITUS of her memory.”</p>"
+    },
+    "DIDACTIC": {
+      "word": "DIDACTIC",
+      "phonetic": "(dl-dak'-tik",
+      "pos": " adj.",
+      "deftext": "<p class=\"definition\">instructive, pedantic </p><p>DIDACTIC means “intended to teach,” often some moral lesson. It is frequently used in a derogatory sense about someone or something that tries to teach too much or too often. </p><p>“DIDACTIC Aunt Betty never missed a chance to instruct: even a social call was turned into a lecture.” </p><p>“The professor was so DIDACTIC that he would quiz a student if he met him in the hall.” </p><p>“The history text is accurate, but so dry and DIDACTIC that it’s impossible to read.”</p>"
+    },
+    "PREVARICATE": {
+      "word": "PREVARICATE",
+      "phonetic": "(pri-var'-::!-kAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to lie, equivocate </p><p>PREVARICATE comes from a Latin word meaning “to walk crookedly.” In English, to PREVARICATE is to stray from the path of the truth. It is a formal and high-sounding synonym of <i class=“def-ital\">lie</i>. It is also used to suggest a weaker kind of “avoiding the truth.” </p><p>“The student attempted to PREVARICATE, and said he hadn’t really meant to cheat, but the book just happened to be open on his lap.” </p><p>“Ed’s boss accused him of PREVARICATING when he said that the report must have been lost in the mail.” </p><p>Other forms of the word: PREVARICATION, n. PREVARICATOR, n.</p>"
+    },
+    "INCIPIENT": {
+      "word": "INCIPIENT",
+      "phonetic": "(in-sip'-E-:;,nt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">beginning, commencing, initial </p><p>INCIPIENT means “at an early stage,” <i class=“def-ital\">beginning</i>. It comes from a Latin verb meaning “to take in hand,” and thus to <i class=“def-ital\">start</i>. The <i class=“def-ital\">cip</i> root, meaning to <i class=“def-ital\">take</i>, is also found in the word <i class=“def-ital\">recipient</i>. </p><p>“The INCIPIENT revolt was crushed before it had a chance to spread.” </p><p>“The INCIPIENT stage of the illness is characterized by nausea and a low fever.” </p><p>“The president thought it was an INCIPIENT problem and should be taken care of before it became serious.” </p><p>Other forms of the word: INCIPIENCE, n. INCIPIENCY, n.</p>"
+    },
+    "PITHY": {
+      "word": "PITHY",
+      "phonetic": "(pith'-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">terse, concise, cogent </p><p>A PITHY statement is one that is both brief and full of substance, so that it is particularly effective. </p><p>“His argument was intelligent and PITHY; the opposition had no time to think of a rebuttal.” </p><p>“The father and daughter corresponded with notes that were short but PITHY; all the important information was transmitted.” </p><p>“Angela preferred the PITHY news reports on television to the wordiness of the newspaper.” </p><p><i class=“def-ital\">Sarcastic</i> is chosen more often than the correct answer, <i class=“def-ital\">concise</i>. PITHY remarks are short and forceful and often witty; they may be sarcastic, but they do not have to be.</p>"
+    },
+    "RAREFIED": {
+      "word": "RAREFIED",
+      "phonetic": "(rÔøΩ_ir'-:;,-fld)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">exalted, elevated, esoteric </p><p>The basic meaning of the verb to RAREFY is to <i class=“def-ital\">make rare</i>. From this it came to mean “to make more spiritual.” RAREFIED is the adjective from RAREFY. It can mean “of interest to a small select group,” <i class=“def-ital\">esoteric</i>. </p><p>“The art of glass-blowing has become so RAREFIED that only a few craftsmen now practice it.” </p><p>Or it can mean <i class=“def-ital\">exalted</i>, <i class=“def-ital\">lofty</i>, usually in a figurative sense. </p><p>“The young ballplayer aspired to the RAREFIED heights of the Hall of Fame.” </p><p>“We were completely lost in this RAREFIED realm of pure mathematics.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">unknown</i>, probably a guess based on the <i class=“def-ital\">rare</i> in RAREFIED. Other forms of the word: RAREFY, v.</p>"
+    },
+    "SANGFROID": {
+      "word": "SANGFROID",
+      "phonetic": "(sahn-frwah')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">composure, equanimity, self-possession, imperturbability </p><p>Note the pronunciation. SANGFROID is from the French, and keeps its French pronunciation. SANGFROID literally means “cold blood” in French. In English SANGFROID is used for the quality of great coolness and self-possession, especially under trying circumstances. </p><p>“With incredible SANGFROID he walked right up to the criminal and took the gun away from him.” </p><p>“You have to admire her SANGFROID. Millions of people were watching her performance, and it didn’t seem to bother her at all.” </p><p>“Bill is somewhat lacking in SANGFROID. He gets very nervous when there is any pressure put on him.” </p><p><i class=“def-ital\">Arrogance</i> is the most commonly chosen wrong answer. Arrogance is a characteristic that one might associate with SANGFROID, but the two words are not synonymous.</p>"
+    },
+    "SUCCOR": {
+      "word": "SUCCOR",
+      "phonetic": "(suhk'-ÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">aid, assistance, relief </p><p>SUCCOR means <i class=“def-ital\">help</i>, especially help given to someone in distress. </p><p>“The Coast Guard is always there to give SUCCOR to ships in distress.” </p><p>“In times of trouble, the family found SUCCOR in their faith.” </p><p>SUCCOR is also the person or thing that gives help. </p><p>“The Aid to Families with Dependent Children program is a great SUCCOR to poor people.” </p><p>SUCCOR is also used as a verb. </p><p>“All attempts to SUCCOR the poor man and his family proved fruitless.”</p>"
+    },
+    "ACERBITY": {
+      "word": "ACERBITY",
+      "phonetic": "(ÔøΩ-ser'-bÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">sourness, acidity of taste or manner </p><p>ACERBITY comes from the Latin word for <i class=“def-ital\">sharp</i>. Its basic meaning in English is “sour or acid to the taste\": “The cranberry’s ACERBITY is such that you can’t eat it without sugar.” It is used more often in its extended sense of sourness of disposition, sharpness of manner. </p><p>“The woman’s ACERBITY made her a harsh mistress; nothing was ever done right, or quickly enough.” </p><p>“Barbara’s quick mind and ACERBITY of manner made her a formidable debating opponent.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">quickness</i>, perhaps due to a confusion with the word <i class=“def-ital\">alacrity</i>. See <i class=“def-ital\">alacrity</i> in Chapter 2. </p><p>Other forms of the word: ACERB, adj. ACERBIC, adj.</p>"
+    },
+    "BUCOLIC": {
+      "word": "BUCOLIC",
+      "phonetic": "(byU-kol'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">pastoral, rustic </p><p>BUCOLIC means “pertaining to shepherds,” <i class=“def-ital\">pastoral</i>. In a broader sense, it can refer to the life of the countryside generally. The word usually emphasizes the peacefulness and simplicity of rustic life. </p><p>“Victoria felt sure she would be happy in this BUCOLIC setting of meadows and farms.” </p><p>“The BUCOLIC atmosphere was destroyed when the bulldozers appeared and started tearing up the fields.” </p><p>The wrong answer <i class=“def-ital\">poisonous</i> attracts many people, probably due to confusion with the adjective <i class=“def-ital\">bubonic</i>. The <i class=“def-ital\">bubonic</i> plague is a contagious, usually fatal disease transmitted by infected rats.</p>"
+    },
+    "CALUMNY": {
+      "word": "CALUMNY",
+      "phonetic": "(kal'-ÔøΩm-nE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">slander, detraction, defamation </p><p>CALUMNY is the malicious telling of an untruth in order to hurt someone. </p><p>“The candidate said that the rumors about her past were CALUMNY; she had never been to prison.” </p><p>“Famous people cannot escape CALUMNY; someone is always out to destroy their reputations.” </p><p>CALUMNY is also used about the false statement itself. </p><p>“The movie star said she would sue the reporter over his outrageous CALUMNIES.” </p><p>“Paul said it was a CALUMNY even to suggest he might have cheated on the test.” </p><p>Other forms of the word: CALUMNIATE, v. CALUMNIOUS, adj.</p>"
+    }
+  },
+  "id": "3",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "PUERILE",
+          "answers": [
+            "difficult",
+            "easy",
+            "childish",
+            "unimportant",
+            "indecent"
+          ],
+          "word": "PUERILE",
+          "correct": "childish"
+        },
+        {
+          "prompt": "TRENCHANT",
+          "answers": [
+            "disgusting",
+            "incisive",
+            "ambiguous",
+            "painful",
+            "unnecessary"
+          ],
+          "word": "TRENCHANT",
+          "correct": "incisive"
+        },
+        {
+          "prompt": "to BUFFET",
+          "answers": [
+            "protect",
+            "trip",
+            "hurt",
+            "strike",
+            "threaten"
+          ],
+          "word": "BUFFET",
+          "correct": "strike"
+        },
+        {
+          "prompt": "CRAVEN",
+          "answers": [
+            "cowardly",
+            "tricky",
+            "sarcastic",
+            "helpless",
+            "shy"
+          ],
+          "word": "CRAVEN",
+          "correct": "cowardly"
+        },
+        {
+          "prompt": "DETRITUS",
+          "answers": [
+            "debris",
+            "equipment",
+            "rain",
+            "food",
+            "clothing"
+          ],
+          "word": "DETRITUS",
+          "correct": "debris"
+        },
+        {
+          "prompt": "DIDACTIC",
+          "answers": [
+            "impersonal",
+            "boring",
+            "complicated",
+            "imitative",
+            "instructive"
+          ],
+          "word": "DIDACTIC",
+          "correct": "instructive"
+        },
+        {
+          "prompt": "to PREVARICATE",
+          "answers": [
+            "postpone",
+            "lie",
+            "gossip",
+            "hide out",
+            "prepare"
+          ],
+          "word": "PREVARICATE",
+          "correct": "lie"
+        },
+        {
+          "prompt": "INCIPIENT",
+          "answers": [
+            "final",
+            "difficult",
+            "beginning",
+            "worst",
+            "next"
+          ],
+          "word": "INCIPIENT",
+          "correct": "beginning"
+        },
+        {
+          "prompt": "PITHY",
+          "answers": [
+            "true",
+            "ugly",
+            "sarcastic",
+            "terse",
+            "humorous"
+          ],
+          "word": "PITHY",
+          "correct": "terse"
+        },
+        {
+          "prompt": "RAREFIED",
+          "answers": [
+            "exalted",
+            "aged",
+            "microscopic",
+            "fake",
+            "unknown"
+          ],
+          "word": "RAREFIED",
+          "correct": "exalted"
+        },
+        {
+          "prompt": "SANGFROID",
+          "answers": [
+            "agitation",
+            "spirit",
+            "charm",
+            "composure",
+            "arrogance"
+          ],
+          "word": "SANGFROID",
+          "correct": "composure"
+        },
+        {
+          "prompt": "SUCCOR",
+          "answers": [
+            "trickery",
+            "food",
+            "affection",
+            "praise",
+            "aid"
+          ],
+          "word": "SUCCOR",
+          "correct": "aid"
+        },
+        {
+          "prompt": "ACERBITY",
+          "answers": [
+            "quickness",
+            "sourness",
+            "courtesy",
+            "silliness",
+            "unhappiness"
+          ],
+          "word": "ACERBITY",
+          "correct": "sourness"
+        },
+        {
+          "prompt": "BUCOLIC",
+          "answers": [
+            "urban",
+            "poisonous",
+            "pastoral",
+            "joyous",
+            "heavenly"
+          ],
+          "word": "BUCOLIC",
+          "correct": "pastoral"
+        },
+        {
+          "prompt": "CALUMNY",
+          "answers": [
+            "praise",
+            "disgrace",
+            "slander",
+            "celebration",
+            "rumor"
+          ],
+          "word": "CALUMNY",
+          "correct": "slander"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a PUERILE plan excite admiration?",
+          "word": "PUERILE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a brief examination likely to lead to a TRENCHANT analysis?",
+          "word": "TRENCHANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person dislike being BUFFETED?",
+          "word": "BUFFET",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a CRAVEN be brave during a battle?",
+          "word": "CRAVEN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is DETRITUS generally valuable?",
+          "word": "DETRITUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a DIDACTIC person usually ignorant?",
+          "word": "DIDACTIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are witnesses at a trial supposed to PREVARICATE?",
+          "word": "PREVARICATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a person getting better during the INCIPIENT stages of a disease?",
+          "word": "INCIPIENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are mottoes usually PITHY?",
+          "word": "PITHY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is general a RAREFIED rank in the army?",
+          "word": "RAREFIED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a frightened person possess SANGFROID?",
+          "word": "SANGFROID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a beggar be in need of SUCCOR?",
+          "word": "SUCCOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a movie critic possess ACERBITY?",
+          "word": "ACERBITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would shepherds live in a BUCOLIC area?",
+          "word": "BUCOLIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a CALUMNY be true?",
+          "word": "CALUMNY",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Her PUERILE chatter convinced us she didn't have the maturity required for the job.",
+          "word": "PUERILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "All the actors felt the sting of the critic's TRENCHANT comments.",
+          "word": "TRENCHANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "She had received so many BUFFETS at the hands of Fate that finally she just gave up.",
+          "word": "BUFFET",
+          "correct": "true"
+        },
+        {
+          "prompt": "The CRAVEN general saved his own skin while endangering all his troops.",
+          "word": "CRAVEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "There is so much DETRITUS in the basement that we'll never get it all cleaned out.",
+          "word": "DETRITUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her DIDACTIC speech told us more than we wanted to know about the benefits of virtuous living.",
+          "word": "DIDACTIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "The fireman PREVARICATED us from entering the burning building.",
+          "word": "PREVARICATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Grandma's INCIPIENT deafness caused her to occasionally miss snatches of the conversation.",
+          "word": "INCIPIENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The announcer's PITHY comments heightened our enjoyment of the football game.",
+          "word": "PITHY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Buffalo are almost completely RAREFIED in that part of the country.",
+          "word": "RAREFIED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Phipps could tell the most outrageous lies with complete SANGFROID, even when speaking to very important people.",
+          "word": "SANGFROID",
+          "correct": "true"
+        },
+        {
+          "prompt": "The relief agencies could provide little SUCCOR for the thousands of unemployed.",
+          "word": "SUCCOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "The ACERBITY of the teacher's comments showed she didn't think much of Steve's paper.",
+          "word": "ACERBITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Albert feared any BUCOLIC intrusion into his already busy life.",
+          "word": "BUCOLIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "These CALUMNIES cannot be allowed to go unchallenged, or people will start believing them.",
+          "word": "CALUMNY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "PUERILE",
+          "answers": [
+            "adolescent",
+            "infantile",
+            "novel"
+          ],
+          "word": "PUERILE",
+          "correct": "2"
+        },
+        {
+          "prompt": "TRENCHANT",
+          "answers": [
+            "comical",
+            "caustic",
+            "penetrating"
+          ],
+          "word": "TRENCHANT",
+          "correct": "0"
+        },
+        {
+          "prompt": "BUFFET",
+          "answers": [
+            "smite",
+            "pummel",
+            "cleave"
+          ],
+          "word": "BUFFET",
+          "correct": "2"
+        },
+        {
+          "prompt": "CRAVEN",
+          "answers": [
+            "timorous",
+            "sly",
+            "frightened"
+          ],
+          "word": "CRAVEN",
+          "correct": "1"
+        },
+        {
+          "prompt": "DETRITUS",
+          "answers": [
+            "boulders",
+            "fragments",
+            "rubbish"
+          ],
+          "word": "DETRITUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "DIDACTIC",
+          "answers": [
+            "erudite",
+            "moralistic",
+            "mournful"
+          ],
+          "word": "DIDACTIC",
+          "correct": "2"
+        },
+        {
+          "prompt": "PREVARICATE",
+          "answers": [
+            "deceive",
+            "disagree",
+            "lie"
+          ],
+          "word": "PREVARICATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "INCIPIENT",
+          "answers": [
+            "initial",
+            "derivative",
+            "introductory"
+          ],
+          "word": "INCIPIENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "PITHY",
+          "answers": [
+            "succinct",
+            "cogent",
+            "cursory"
+          ],
+          "word": "PITHY",
+          "correct": "2"
+        },
+        {
+          "prompt": "RAREFIED",
+          "answers": [
+            "abstruse",
+            "lofty",
+            "banal"
+          ],
+          "word": "RAREFIED",
+          "correct": "2"
+        },
+        {
+          "prompt": "SANGFROID",
+          "answers": [
+            "composure",
+            "zeal",
+            "aplomb"
+          ],
+          "word": "SANGFROID",
+          "correct": "1"
+        },
+        {
+          "prompt": "SUCCOR",
+          "answers": [
+            "assist",
+            "relieve",
+            "flee"
+          ],
+          "word": "SUCCOR",
+          "correct": "2"
+        },
+        {
+          "prompt": "ACERBITY",
+          "answers": [
+            "bitterness",
+            "acrimony",
+            "anguish"
+          ],
+          "word": "ACERBITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "BUCOLIC",
+          "answers": [
+            "diseased",
+            "serene",
+            "rural"
+          ],
+          "word": "BUCOLIC",
+          "correct": "0"
+        },
+        {
+          "prompt": "CALUMNY",
+          "answers": [
+            "abuse",
+            "vilification",
+            "rebuke"
+          ],
+          "word": "CALUMNY",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

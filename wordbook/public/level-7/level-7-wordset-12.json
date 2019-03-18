@@ -1,0 +1,605 @@
+{
+  "title": "7.12",
+  "definitions": {
+    "VILIFY": {
+      "word": "VILIFY",
+      "phonetic": "(vil'-ÔøΩfl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to slander, defame, malign </p><p>To VILIFY people is to speak ill of them with the intention of ruining their reputations, and without regard for the truth. The word suggests direct and violent accusation. </p><p>“The newspaper had VILIFIED the accused murderer with such lurid stories that he couldn’t get a fair trial.” </p><p>“The politician VILIFIED his opponent in the debate, calling him a thief and a scoundrel.” </p><p>“The manager should not be VILIFIED for her unorthodox methods.” </p><p>Other forms of the word: VILIFICATION, n.</p>"
+    },
+    "ABNEGATION": {
+      "word": "ABNEGATION",
+      "phonetic": "(ab-ni-gA'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">self-denial, renunciation, eschewal </p><p>The Latin word <i class=“def-ital\">negare</i> means to <i class=“def-ital\">deny</i>, to <i class=“def-ital\">say no</i>. It is the source of English words like <i class=“def-ital\">negate</i>, <i class=“def-ital\">negative</i>, and ABNEGATION.  ABNEGATION is self-denial, the practice of giving up what one desires. The term SELF-ABNEGATION is also frequently used, with the same meaning. </p><p>“In an act of utter ABNEGATION, Joan said her sister should keep all of the inheritance.” </p><p>“We admire your ABNEGATION, but you must act in your own self-interest once in a while.” </p><p>“Through SELF-ABNEGATION he felt he was able to achieve a purity of spirit.” </p><p>Other forms of the word: ABNEGATE, v.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ab-</i> under Prefixes."
+      ]
+    },
+    "AMENABLE": {
+      "word": "AMENABLE",
+      "phonetic": "(ÔøΩmEn'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">submissive, obedient, responsive; responsible </p><p>AMENABLE has two different meanings. One meaning is <i class=“def-ital\">submissive</i>, <i class=“def-ital\">responsive</i>. In this sense the word would be used about a person or thing that is naturally receptive to change, criticism, or the like. The word is often followed by <i class=“def-ital\">to</i>. </p><p>“The teacher was quite AMENABLE to the idea of holding the class outdoors.” </p><p>“This problem is not AMENABLE to the kinds of solutions we have tried in the past.” </p><p>The other meaning of AMENABLE is <i class=“def-ital\">accountable</i>, <i class=“def-ital\">responsible</i>. “The court ruled that he was AMENABLE for this debt.” </p><p>The most common wrong answer on the Pretest is <i class=“def-ital\">happy</i>, perhaps suggested by the good-natured willingness of a person who is AMENABLE. </p><p>Other forms of the word: AMENABILITY, n.</p>"
+    },
+    "ASCETIC": {
+      "word": "ASCETIC",
+      "phonetic": "(ÔøΩset'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">austere, self-denying </p><p>ASCETIC is both an adjective and a noun. An ASCETIC is a person who leads an austere and self-disciplined life, fasting and avoiding the comforts of society, usually for religious reasons. </p><p>“A small group of ASCETICS lived in the desert and spent their days in fasting and prayer.” </p><p>As an adjective ASCETIC means “characteristic of an ASCETIC,” <i class=“def-ital\">austere</i>. </p><p>“Few people were strong enough to endure the monk’s ASCETIC way of life.” </p><p>“The ASCETIC man denied himself all pleasures, saying he was atoning for his sins.” </p><p><i class=“def-ital\">Beautiful</i> is the most commonly chosen wrong answer on the Pretest. This is probably due to a confusion of ASCETIC with <i class=“def-ital\">aesthetic</i>, which means “pertaining to the sense of beauty,” <i class=“def-ital\">artistic</i>. </p><p>Other forms of the word: ASCETICISM, n.</p>"
+    },
+    "BELLICOSE": {
+      "word": "BELLICOSE",
+      "phonetic": "(bel'-i-kOs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">belligerent, warlike, combative </p><p>BELLICOSE, like the similar word <i class=“def-ital\">belligerent</i>, comes from the Latin <i class=“def-ital\">bellum</i>, meaning <i class=“def-ital\">war</i>. BELLICOSE means “having a warlike manner or attitude.” It is often used in a somewhat weaker sense about people who are always ready to start an argument or pick a fight. </p><p>“The BELLICOSE tribe was always at war.” “The BELLICOSE drunk threatened to punch me in the nose.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">comical</i>, perhaps because of confusion with <i class=“def-ital\">jocose</i>, which means <i class=“def-ital\">merry</i>, <i class=“def-ital\">humorous</i>. </p><p>Other forms of the word: BELLICOSITY, n.</p>"
+    },
+    "BENIGN": {
+      "word": "BENIGN",
+      "phonetic": "(bi-nln')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">kindly, gracious; favorable </p><p>BENIGN comes from the Latin word <i class=“def-ital\">bene</i>, meaning <i class=“def-ital\">well</i>, also the source of the English words <i class=“def-ital\">benevolent</i> and <i class=“def-ital\">beneficial</i>. BENIGN has two related meanings. The first is “having a kind or gentle temperament.” </p><p>“The BENIGN man simply smiled and put down his book when the children interrupted his reading.” </p><p>“You certainly could not say that Adolf Hitler, the leader of Nazi Germany, was a BENIGN ruler.” </p><p>The other meaning is <i class=“def-ital\">favorable</i>, <i class=“def-ital\">beneficial</i>. </p><p>“The older boy’s good example had a BENIGN influence on the younger children.” </p><p>In medicine, a BENIGN tumor is one that doesn’t threaten one’s health or life. In this sense, the opposite of BENIGN is <i class=“def-ital\">malignant</i>. By far the most popular wrong answer on the Pretest is <i class=“def-ital\">silent</i>, which may be one characteristic of a BENIGN person, but hardly the major one. </p><p>Other forms of the word: BENIGNITY (b::i-nig’-nHE), n.</p>"
+    },
+    "CREDULOUS": {
+      "word": "CREDULOUS",
+      "phonetic": "(krej'-ÔøΩlÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">gullible, overly trusting </p><p>The words CREDULOUS, <i class=“def-ital\">credible</i>, <i class=“def-ital\">credence</i>, and <i class=“def-ital\">credit</i> all come from a Latin word meaning to <i class=“def-ital\">believe</i>. Someone who is CREDULOUS is too easily given to believing something. Such a person might be easily fooled by a tall tale or a lie. </p><p>“The CREDULOUS fellow actually believed the two women when they told him about their trip in the flying saucer.” </p><p>“You are too CREDULOUS. Just because one of your friends says something, that doesn’t mean it has to be true.” </p><p>CREDULOUS is difficult mainly because of confusion with its opposite, <i class=“def-ital\">incredulous</i> (see Chapter 11). People who are <i class=“def-ital\">incredulous</i> of something do not believe in it; they are skeptical or suspicious. <i class=“def-ital\">Incredulous</i> is more commonly used than CREDULOUS, and that may be why so many people pick <i class=“def-ital\">suspicious</i> as the meaning of CREDULOUS. </p><p>Other forms of the word: CREDULITY, n.</p>"
+    },
+    "PARADIGM": {
+      "word": "PARADIGM",
+      "phonetic": "(par'-ÔøΩdlm",
+      "pos": " n.",
+      "deftext": "<p class=\"definition\">a model, example, pattern </p><p>The prefix <i class=“def-ital\">para-</i> means “alongside,” as in the word <i class=“def-ital\">parallel</i>. The <i class=“def-ital\">digm</i> part of PARADIGM comes from a Greek word meaning to <i class=“def-ital\">show</i> or <i class=“def-ital\">display</i>. A PARADIGM is a model or pattern of something else. The word tends to have an academic or scientific flavor. </p><p>“In the classic conditioned-response PARADIGM, the dog that hears a bell ring whenever he receives food will eventually salivate when he hears the bell, even without receiving food.” </p><p>“They were considered the PARADIGMS of artistic perfection.” </p><p>“Shakespeare’s Macbeth is a PARADIGM of the man destroyed by his ambition.” </p><p>The most popular wrong answers are <i class=“def-ital\">story</i> and <i class=“def-ital\">lesson</i>, perhaps suggested by the word <i class=“def-ital\">parable</i>. </p><p>Other forms of the word: PARADIGMATIC (par-::i-dig- mat’-ikl, adj.</p>"
+    },
+    "SEQUESTER": {
+      "word": "SEQUESTER",
+      "phonetic": "(si-kwes'-tÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to isolate, segregate, seclude </p><p>SEQUESTER means to <i class=“def-ital\">set apart</i>, to <i class=“def-ital\">isolate</i>. Often the sense of the word is “to withdraw into seclusion or solitude.” </p><p>“His ranch is SEQUESTERED in the California mountains, far from the city.” </p><p>“The judge SEQUESTERED the jury, putting them in a hotel at night.” </p><p>“The strange man SEQUESTERED himself in his room and refused to have anything more to do with the world.” </p><p>In legal usage, SEQUESTER means “to seize property by public authority until legal claims are satisfied,” to <i class=“def-ital\">confiscate</i>. </p><p>“The estate of the deceased multimillionaire was SEQUESTERED while various parties contested his will.” </p><p>Other forms of the word: SEQUESTRATION, n.</p>"
+    },
+    "STODGY": {
+      "word": "STODGY",
+      "phonetic": "(stoj'-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dull, pompous, stuffy </p><p>STODGY comes from the word <i class=“def-ital\">stodge</i>, which is any thick food, like oatmeal. STODGY can mean <i class=“def-ital\">thick</i> or <i class=“def-ital\">heavy</i>, like <i class=“def-ital\">stodge</i>, but it is usually used in an extended sense to mean <i class=“def-ital\">dull</i>, <i class=“def-ital\">stuffy</i>, “lacking in humor or lightness.” </p><p>“The STODGY teacher disapproved of students talking and laughing in the corridor.” </p><p>“Susan thought the reception was terribly STODGY-just a bunch of serious people standing around, talking quietly.” </p><p>“Classical music isn’t always STODGY; some of it is quite exciting.” </p><p>The difficulty people have with this word is thinking that it means <i class=“def-ital\">old</i>. An old person, of course, can be the very opposite of STODGY.</p>"
+    },
+    "SUFFUSE": {
+      "word": "SUFFUSE",
+      "phonetic": "(sÔøΩfyUz')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to overspread, spread through </p><p>The <i class=“def-ital\">-fuse</i> part of SUFFUSE comes from a Latin word meaning to <i class=“def-ital\">pour</i>. This root is also found in <i class=“def-ital\">infuse</i>, <i class=“def-ital\">diffuse</i>, and <i class=“def-ital\">transfuse</i>. To SUFFUSE is to overspread, especially with a liquid or a color. </p><p>“The sunset SUFFUSED the western sky with purple and gold.” </p><p>“Her eyes were SUFFUSED with tears as she remembered her late husband.” </p><p>“Chekhov’s plays are SUFFUSED with an air of wistful melancholy.” </p><p>Other forms of the word: SUFFUSIVE, adj. SUFFUSION, n.</p>"
+    },
+    "CELERITY": {
+      "word": "CELERITY",
+      "phonetic": "(sÔøΩler'-ÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">swiftness, quickness, rapidity </p><p>CELERITY comes from the Latin word for <i class=“def-ital\">speed</i>, also the source of <i class=“def-ital\">accelerate</i>; it is a rather literary synonym for <i class=“def-ital\">swiftness</i>, <i class=“def-ital\">quickness</i>. </p><p>“The CELERITY of his response showed that he had mastered the subject.” </p><p>“Art finished his homework with astonishing CELERITY so that he could watch his favorite TV program.” </p><p>“The experienced surgeon performed the operation with ease and CELERITY.” </p><p><i class=“def-ital\">Smoothness</i> is the most common wrong answer, perhaps suggested by the sound of CELERITY, and a confusion of quick movements with smooth ones.</p>"
+    },
+    "ABLUTION": {
+      "word": "ABLUTION",
+      "phonetic": "(ÔøΩblU'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a cleansing or washing of the body </p><p>An ABLUTION is a washing of the body, particularly as part of a religious rite. It is usually used in the plural. </p><p>“The novices had to perform their ABLUTIONS before they were allowed to wear the sacred vestments of the priesthood.” </p><p>ABLUTION is only occasionally used about washing of the body in general. </p><p>“After Bill had finished his morning ABLUTIONS he felt much better.”</p>"
+    },
+    "ABRADE": {
+      "word": "ABRADE",
+      "phonetic": "(ÔøΩbrAd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to wear away, erode, scrape, chafe </p><p>ABRADE is related to the word ABRASIVE. To ABRADE is to rub or wear away, usually as the result of friction. </p><p>“The skin on her knees was ABRADED when she slid along the concrete.” </p><p>“The sandpaper ABRADED the surface of the dish.” </p><p>ABRADE is also sometimes used figuratively, meaning to <i class=“def-ital\">wear down</i> or <i class=“def-ital\">irritate</i>. </p><p>“Our nerves were ABRADED by the constant noise of the jackhammer outside our window.” </p><p>Other forms of the word: ABRASION, n. ABRASIVE, adj.</p>"
+    },
+    "ABSTRUSE": {
+      "word": "ABSTRUSE",
+      "phonetic": "(ab-strUs')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hard to understand, obscure, mysterious </p><p>ABSTRUSE means “difficult to understand,” usually because of extreme complexity, or because of the remoteness of the material from everyday experience. The word occasionally has a slightly negative sense, suggesting that this complexity may be unnecessary or excessive. </p><p>“Modern physics is a very ABSTRUSE subject. You have to be an expert to understand much of it.” </p><p>“No one in the audience could make sense of the play’s ABSTRUSE symbolism.” </p><p>“The senator’s arguments were so ABSTRUSE that no one else on the committee could follow them.”</p>"
+    }
+  },
+  "id": "12",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "to VILIFY",
+          "answers": [
+            "slander",
+            "appease",
+            "despise",
+            "terrify",
+            "cheat"
+          ],
+          "word": "VILIFY",
+          "correct": "slander"
+        },
+        {
+          "prompt": "ABNEGATION",
+          "answers": [
+            "improvement",
+            "cancellation",
+            "self-denial",
+            "indulgence",
+            "purity"
+          ],
+          "word": "ABNEGATION",
+          "correct": "self-denial"
+        },
+        {
+          "prompt": "AMENABLE",
+          "answers": [
+            "happy",
+            "submissive",
+            "irresponsible",
+            "holy",
+            "fragile"
+          ],
+          "word": "AMENABLE",
+          "correct": "submissive"
+        },
+        {
+          "prompt": "ASCETIC",
+          "answers": [
+            "holy",
+            "self-indulgent",
+            "beautiful",
+            "austere",
+            "powerful"
+          ],
+          "word": "ASCETIC",
+          "correct": "austere"
+        },
+        {
+          "prompt": "BELLICOSE",
+          "answers": [
+            "warlike",
+            "peaceful",
+            "comical",
+            "overweight",
+            "evil"
+          ],
+          "word": "BELLICOSE",
+          "correct": "warlike"
+        },
+        {
+          "prompt": "BENIGN",
+          "answers": [
+            "kindly",
+            "lovely",
+            "silent",
+            "malicious",
+            "unforgiving"
+          ],
+          "word": "BENIGN",
+          "correct": "kindly"
+        },
+        {
+          "prompt": "CREDULOUS",
+          "answers": [
+            "stupid",
+            "unknown",
+            "extravagant",
+            "suspicious",
+            "gullible"
+          ],
+          "word": "CREDULOUS",
+          "correct": "gullible"
+        },
+        {
+          "prompt": "PARADIGM",
+          "answers": [
+            "story",
+            "model",
+            "lesson",
+            "copy",
+            "result"
+          ],
+          "word": "PARADIGM",
+          "correct": "model"
+        },
+        {
+          "prompt": "to SEQUESTER",
+          "answers": [
+            "isolate",
+            "assemble",
+            "harass",
+            "protect",
+            "follow"
+          ],
+          "word": "SEQUESTER",
+          "correct": "isolate"
+        },
+        {
+          "prompt": "STODGY",
+          "answers": [
+            "lively",
+            "old",
+            "cruel",
+            "dull",
+            "clever"
+          ],
+          "word": "STODGY",
+          "correct": "dull"
+        },
+        {
+          "prompt": "to SUFFUSE",
+          "answers": [
+            "disappear",
+            "undergo",
+            "overspread",
+            "affect",
+            "darken"
+          ],
+          "word": "SUFFUSE",
+          "correct": "overspread"
+        },
+        {
+          "prompt": "CELERITY",
+          "answers": [
+            "rashness",
+            "swiftness",
+            "sluggishness",
+            "isolation",
+            "smoothness"
+          ],
+          "word": "CELERITY",
+          "correct": "swiftness"
+        },
+        {
+          "prompt": "ABLUTION",
+          "answers": [
+            "staining",
+            "forgiveness",
+            "cleansing",
+            "prayer",
+            "blessing"
+          ],
+          "word": "ABLUTION",
+          "correct": "cleansing"
+        },
+        {
+          "prompt": "to ABRADE",
+          "answers": [
+            "insult",
+            "uproot",
+            "break apart",
+            "twist",
+            "wear away"
+          ],
+          "word": "ABRADE",
+          "correct": "wear away"
+        },
+        {
+          "prompt": "ABSTRUSE",
+          "answers": [
+            "mysterious",
+            "obvious",
+            "dull",
+            "forgotten",
+            "religious"
+          ],
+          "word": "ABSTRUSE",
+          "correct": "mysterious"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a gentleman VILIFY a friend?",
+          "word": "VILIFY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a person who fasts practice ABNEGATION?",
+          "word": "ABNEGATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are stubborn people AMENABLE to change?",
+          "word": "AMENABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is an ASCETIC likely to be overweight?",
+          "word": "ASCETIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a BELLICOSE person be likely to have a large circle of friends?",
+          "word": "BELLICOSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a BENIGN tumor dangerous?",
+          "word": "BENIGN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are skeptics CREDULOUS?",
+          "word": "CREDULOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a person be a PARADIGM?",
+          "word": "PARADIGM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a hermit want to SEQUESTER himself?",
+          "word": "SEQUESTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are most children STODGY?",
+          "word": "STODGY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a room be SUFFUSED with light?",
+          "word": "SUFFUSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should a typist possess CELERITY?",
+          "word": "CELERITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a bath be a form of ABLUTION?",
+          "word": "ABLUTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can sandpaper ABRADE metal?",
+          "word": "ABRADE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a poem be ABSTRUSE?",
+          "word": "ABSTRUSE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He claimed the magazine was VILIFYING him, but the editor said it was legitimate criticism.",
+          "word": "VILIFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The woman's entire life was one of SELF-ABNEGATION; she always helped others before thinking of herself.",
+          "word": "ABNEGATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jake's boss was not AMENABLE to any of the suggestions he made.",
+          "word": "AMENABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Their ASCETIC practices included eating only one meal a day.",
+          "word": "ASCETIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "The BELLICOSE comedian had us rolling in the aisles with laughter.",
+          "word": "BELLICOSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "His vacation had a BENIGN effect: he came back rested, refreshed, and eager to work.",
+          "word": "BENIGN",
+          "correct": "true"
+        },
+        {
+          "prompt": "It is a CREDULOUS story; we are inclined to believe it.",
+          "word": "CREDULOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The minister gave his sermon on the PARADIGM of the loaves and the fishes.",
+          "word": "PARADIGM",
+          "correct": "false"
+        },
+        {
+          "prompt": "She longed to live in a SEQUESTERED village deep in some hidden valley.",
+          "word": "SEQUESTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "No one could accuse Mr. Wilkes of being STODGY; he was the life of every party.",
+          "word": "STODGY",
+          "correct": "true"
+        },
+        {
+          "prompt": "They SUFFUSED us about their true reason for coming here.",
+          "word": "SUFFUSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The CELERITY of the surface made the dish difficult to grip.",
+          "word": "CELERITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "They performed their ABLUTIONS with water from a nearby stream.",
+          "word": "ABLUTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "She ABRADED us constantly for our poor performance in school.",
+          "word": "ABRADE",
+          "correct": "false"
+        },
+        {
+          "prompt": "It was ABSTRUSE of him to treat me that way; he should be ashamed of himself.",
+          "word": "ABSTRUSE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "VILIFY",
+          "answers": [
+            "defame",
+            "malign",
+            "belie"
+          ],
+          "word": "VILIFY",
+          "correct": "2"
+        },
+        {
+          "prompt": "ABNEGATION",
+          "answers": [
+            "sacrifice",
+            "prayer",
+            "denial"
+          ],
+          "word": "ABNEGATION",
+          "correct": "1"
+        },
+        {
+          "prompt": "AMENABLE",
+          "answers": [
+            "docile",
+            "pleasant",
+            "responsible"
+          ],
+          "word": "AMENABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ASCETIC",
+          "answers": [
+            "disciplined",
+            "austere",
+            "serene"
+          ],
+          "word": "ASCETIC",
+          "correct": "2"
+        },
+        {
+          "prompt": "BELLICOSE",
+          "answers": [
+            "noisy",
+            "argumentative",
+            "aggressive"
+          ],
+          "word": "BELLICOSE",
+          "correct": "0"
+        },
+        {
+          "prompt": "BENIGN",
+          "answers": [
+            "humane",
+            "cordial",
+            "tireless"
+          ],
+          "word": "BENIGN",
+          "correct": "2"
+        },
+        {
+          "prompt": "CREDULOUS",
+          "answers": [
+            "trusting",
+            "trustworthy",
+            "gullible"
+          ],
+          "word": "CREDULOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "PARADIGM",
+          "answers": [
+            "example",
+            "character",
+            "standard"
+          ],
+          "word": "PARADIGM",
+          "correct": "1"
+        },
+        {
+          "prompt": "SEQUESTER",
+          "answers": [
+            "seclude",
+            "destroy",
+            "confiscate"
+          ],
+          "word": "SEQUESTER",
+          "correct": "1"
+        },
+        {
+          "prompt": "STODGY",
+          "answers": [
+            "boring",
+            "prudish",
+            "learned"
+          ],
+          "word": "STODGY",
+          "correct": "2"
+        },
+        {
+          "prompt": "SUFFUSE",
+          "answers": [
+            "saturate",
+            "imbue",
+            "darken"
+          ],
+          "word": "SUFFUSE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CELERITY",
+          "answers": [
+            "softness",
+            "fleetness",
+            "briskness"
+          ],
+          "word": "CELERITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "ABLUTION",
+          "answers": [
+            "washing",
+            "cleansing",
+            "beautifying"
+          ],
+          "word": "ABLUTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "ABRADE",
+          "answers": [
+            "scrape",
+            "puncture",
+            "irritate"
+          ],
+          "word": "ABRADE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ABSTRUSE",
+          "answers": [
+            "obscure",
+            "complicated",
+            "ancient"
+          ],
+          "word": "ABSTRUSE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

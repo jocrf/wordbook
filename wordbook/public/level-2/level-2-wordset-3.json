@@ -1,0 +1,605 @@
+{
+  "title": "2.3",
+  "definitions": {
+    "COMMOTION": {
+      "word": "COMMOTION",
+      "phonetic": "(kÔøΩmO'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a disturbance; confusion, noise, excitement </p><p>A COMMOTION is a disturbance. You can see the word</i> motion</i> in COMMOTION. COMMOTION usually suggests a great deal of movement and, often, noise and excitement. </p><p>“I don’t know how you could sleep through all that COMMOTION.” </p><p>“The sudden appearance of the long-lost son during the reading of the will caused quite a COMMOTION.” </p><p>“The rubbish collectors made an awful COMMOTION as they banged the barrels around.” </p><p>“Despite the COMMOTION we were still able to carry on a conversation.”</p>"
+    },
+    "AIL": {
+      "word": "AIL",
+      "phonetic": "(Al)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to trouble, be the matter with; to have some- thing the matter, be ill </p><p>When something AILS a person it troubles him, it causes him pain or discomfort. The word is used when we don’t know exactly what the matter is. </p><p>“He went to the doctor to find out what was AILING him.” </p><p>“Nothing AILED her that a long vacation couldn’t cure.” </p><p>When a person is AILING, something is the matter with him. </p><p>“She was always AILING. Ever day she had some kind of ache or pain.” </p><p>An AILMENT is an illness or a disorder. </p><p>“Bob had several AILMENTS, but none of them was serious enough for him to go into the hospital.” </p><p>Other forms of the word: AILMENT, n.</p>"
+    },
+    "BATTER": {
+      "word": "BATTER",
+      "phonetic": "(bat'-ÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to beat, hit repeatedly/n BATTER means “to hit over and over again,” <i class=“def-ital\">to beat</i>. If a thing is BATTERED, it is usually beaten out of shape. If a person is BATTERED, he is usually deeply bruised or injured. </p><p>“During the storm, heavy waves BATTERED the houses on the shore and many were destroyed.” </p><p>“We used a heavy piece of wood to BATTER down the door.” </p><p>“The fighter was badly BATTERED during the boxing match.”</p>"
+    },
+    "COMMAND": {
+      "word": "COMMAND",
+      "phonetic": "(kÔøΩmand')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an order </p><p>A COMMAND is an <i class=“def-ital\">order</i>. </p><p>“The leader gave the COMMAND to begin marching.” </p><p>“He put his COMMANDS in writing so there would be no question about what they were supposed to do.” </p><p>“They refused to obey the foolish COMMAND to step over the edge of the cliff.</p><p>” COMMAND is also a verb. </p><p>“She COMMANDED them to leave the house or she would call the police.” </p><p>“The king COMMANDED the council to meet and approve his decisions.” <i class=“def-ital\">Request</i> is the most popular wrong answer in the Pretest. When you make a <i class=“def-ital\">request</i> you ask a person to do something. When you give a COMMAND you order him to do something.</p>"
+    },
+    "DANGLE": {
+      "word": "DANGLE",
+      "phonetic": "(dang'-gÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to swing, hang loosely </p><p>When something DANGLES it hangs loosely, so that it can swing back and forth. </p><p>“The wind chimes on the tree limb DANGLED in the breeze.” </p><p>“The baby tried to grab his mother’s necklace which was DANGLING in front of him.” </p><p>To DANGLE something is to swing it loosely. “He DANGLED the watch in front of our eyes.” </p><p>You can also DANGLE things like promises or jobs. </p><p>“Visions of great wealth were DANGLED before him in order to interest him in investing in their project.” </p><p>“The manager DANGLED the prospect of a better job for her within six months or so.”</p>"
+    },
+    "DECEIVE": {
+      "word": "DECEIVE",
+      "phonetic": "(di-sEv')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to trick, mislead </p><p> To DECEIVE someone is to make him believe something that is false. </p><p>“Ellen DECEIVED me by making me think she really liked me.” </p><p>“Jane was DECEIVED into believing that the money would be used to feed the poor.” </p><p>“Don’t DECEIVE yourself. You can’t really climb that mountain.” </p><p>DECEIT is <i class=“def-ital\">trickery</i>, the quality or act of DECEIVNG. </p><p>“She accused Don of DECEIT in hiding the truth from her.” </p><p>“There was an element of DECEIT in the way the commercial presented the facts.” </p><p>Other forms of the word: DECEIT, n. </p><p>DECEITFUL, adj.</p>"
+    },
+    "ASTOUND": {
+      "word": "ASTOUND",
+      "phonetic": "(ÔøΩstownd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to amaze, overcome with surprise </p><p>To ASTOUND means to <i class=“def-ital\">amaze</i>, to <i class=“def-ital\">astonish</i>. Someone who is ASTOUNDED is much more than surprised; he is so astonished that he can barely think. </p><p>“The news of his victory ASTOUNDED all of us.” “She was ASTOUNDED to discover that one of her ancestors had been a duchess.” </p><p>“He was ASTOUNDED when he found out he had won the lottery.” </p><p>Other forms: ASTOUNDING, adj.</p>"
+    },
+    "DISPUTE": {
+      "word": "DISPUTE",
+      "phonetic": "(dis-pyUt')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an argument, quarrel, verbal conflict  /nA DISPUTE is an argument or quarrel. </p><p>“There was a long DISPUTE among them about who was the best.” </p><p>“Several minor DISPUTES between the countries finally led to full-scale war.” </p><p>“There can be no DISPUTE about it. We have to leave now.” </p><p>DISPUTE is also a verb. It can mean to <i class=“def-ital\">argue</i>. </p><p>“He DISPUTED with the other boys over how much to spend.” </p><p>Or it can mean “to call into question,” to <i class=“def-ital\">argue against</i>. </p><p>“The players all DISPUTED the referee’s call.” </p><p>“Jim DISPUTED everything his brother had said.”</p>"
+    },
+    "EAVESDROP": {
+      "word": "EAVESDROP",
+      "phonetic": "(Evz'-drop)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to listen secretly to a private conversation </p><p>An eave is the part of the roof which overhangs the side of a building. The <i class=“def-ital\">eavesdrop</i> is the water which falls from an eave, or the ground under the eave on which the water falls. To EAVESDROP originally meant to stand on this eavesdrop in order to listen to a conversation inside the building. From this the word has come to mean any kind of attempt to listen secretly to what people are saying in private. The word emphasizes sneakiness and secrecy. To EAVESDROP on someone else’s conversation is not a polite thing to do. An EAVESDROPPER is a person who listens secretly to conversation he is not supposed to hear. </p><p>“She stood outside the kitchen door to EAVESDROP on her parents’ conversation.” </p><p>Other forms of the word: EAVESDROPPER, n.</p>"
+    },
+    "EMBLEM": {
+      "word": "EMBLEM",
+      "phonetic": "(em'-blÔøΩm)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a symbol, sign, image </p><p>An EMBLEM is a picture, design, or figure that stands for something else. It could represent an idea, a school, a company, or the like. </p><p>“Our school’s EMBLEM is a screaming eagle.” </p><p>“The dove is an EMBLEM of peace. Many people pick <i class=“def-ital\">motto</i> as the meaning of EMBLEM. A <i class=“def-ital\">motto</i> is a short phrase that is associated with a country or a group of people; an EMBLEM doesn’t use words. </p><p>“Our motto is ‘Ever to excel.’ Our EMBLEM is a tiger cat ready to jump.\"</p><p> Other forms of the word: EMBLEMATIC, adj.</p>"
+    },
+    "CLOAK": {
+      "word": "CLOAK",
+      "phonetic": "(klOk)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a cape </p><p>A CLOAK is a long cape or sleeveless robe. </p><p>“She likes to wear her red CLOAK with the fur trim.” </p><p>“He held the dog under his CLOAK to keep it warm.” </p><p>CLOAK is also a verb meaning to <i class=“def-ital\">cover</i> or <i class=“def-ital\">hide</i>. </p><p>“He CLOAKED his hatred under a mask of smiles.” </p><p>“The house was CLOAKED in darkness; we couldn’t see it until we were almost there.” </p><p>“The mountain top is always CLOAKED in mist.” </p><p><i class=“def-ital\">Dress</i> is the most commonly chosen incorrect answer. Both a <i class=“def-ital\">dress</i> and a CLOAK are articles of clothing, but they are not the same thing.</p>"
+    },
+    "ESTIMATE": {
+      "word": "ESTIMATE",
+      "phonetic": "(es'-tÔøΩmAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to judge, rate, evaluate </p><p>To ESTIMATE is to make a judgment about something without having complete information. </p><p>“The teacher ESTIMATED that half of her students would pass the test.” </p><p>“We tried to ESTIMATE how long it would take us to finish the job.” </p><p>“No one could ESTIMATE the height of the mountain.” </p><p>An ESTIMATE is this kind of a judgment. As a noun, the word is pronounced es’-t:rmit. </p><p>“He didn’t know exactly how many people were coming to the party. He had to make an ESTIMATE.” </p><p>Other forms of the word: ESTIMATION, n.</p>"
+    },
+    "FRAGMENT": {
+      "word": "FRAGMENT",
+      "phonetic": "(frag'-m:)nt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a part, piece A FRAGMENT is a separate or incomplete part of something, especially a part that is broken off. “We recovered several FRAGMENTS of the broken glass, but some are still missing.” </p><p>“He could only remember FRAGMENTS of the song; he had forgotten most of it.” </p><p>“They overheard FRAGMENTS of the conversation going on in the next room.“nFRAGMENTARY is an adjective which means “made up of FRAGMENTS,” <i class=“def-ital\">incomplete</i>. </p><p>“We have received only FRAGMENTARY reports of what happened there.” </p><p>Other forms of the word: FRAGMENTARY, adj.</p>"
+    },
+    "HYMN": {
+      "word": "HYMN",
+      "phonetic": "(Him)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a song of praise, usually to God </p><p>A HYMN is a song praising God. It is usually sung in a church service of some kind. </p><p>“They sang his favorite HYMN in church that Sunday.” </p><p>HYMN is also sometimes used for any song of praise. </p><p>“He wrote a solemn HYMN in honor of his nation’s independence.”</p>"
+    },
+    "DONATION": {
+      "word": "DONATION",
+      "phonetic": "(dO-nA'-sh:)n)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a gift, present, contribution  </p><p>A DONATION is a gift or contribution, usually given to a charity of some kind. </p><p>“Every year we give a DONATION to the Heart Fund.” “After the disaster, the people whose homes had been destroyed needed DONATIONS of food and clothing.” </p><p>“He asked everyone for a small DONATION to buy a going-away present for George.” </p><p>When you make a DONATION, you DONATE. </p><p>“She refused to DONATE anything to the party.” </p><p>“We will accept whatever you choose to DONATE.” </p><p>Other forms of the word: DONATE, v.</p>"
+    }
+  },
+  "id": "3",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Another COMMOTION.",
+          "answers": [
+            "vacation",
+            "problem",
+            "disturbance",
+            "mixture",
+            "meeting"
+          ],
+          "word": "COMMOTION",
+          "correct": "disturbance"
+        },
+        {
+          "prompt": "What AILS you?",
+          "answers": [
+            "stops",
+            "frightens",
+            "cures",
+            "convinces",
+            "troubles"
+          ],
+          "word": "AIL",
+          "correct": "troubles"
+        },
+        {
+          "prompt": "Started to BATTER it.",
+          "answers": [
+            "beat",
+            "hate",
+            "shut",
+            "praise",
+            "build"
+          ],
+          "word": "BATTER",
+          "correct": "beat"
+        },
+        {
+          "prompt": "His first COMMAND.",
+          "answers": [
+            "question",
+            "warning",
+            "order",
+            "idea",
+            "request"
+          ],
+          "word": "COMMAND",
+          "correct": "order"
+        },
+        {
+          "prompt": "He DANGLED the keys.",
+          "answers": [
+            "lost",
+            "dropped",
+            "hid",
+            "swung",
+            "mixed up"
+          ],
+          "word": "DANGLE",
+          "correct": "swung"
+        },
+        {
+          "prompt": "To DECEIVE us.",
+          "answers": [
+            "rob",
+            "trick",
+            "laugh at",
+            "warn",
+            "fire"
+          ],
+          "word": "DECEIVE",
+          "correct": "trick"
+        },
+        {
+          "prompt": "ASTOUNDED by the news.",
+          "answers": [
+            "excited",
+            "fooled",
+            "driven",
+            "annoyed",
+            "amazed"
+          ],
+          "word": "ASTOUND",
+          "correct": "amazed"
+        },
+        {
+          "prompt": "Another DISPUTE.",
+          "answers": [
+            "threat",
+            "agreement",
+            "injustice",
+            "criticism",
+            "argument"
+          ],
+          "word": "DISPUTE",
+          "correct": "argument"
+        },
+        {
+          "prompt": "Tried to EAVESDROP.",
+          "answers": [
+            "run away",
+            "listen secretly",
+            "sneak in",
+            "understand",
+            "speak clearly"
+          ],
+          "word": "EAVESDROP",
+          "correct": "listen secretly"
+        },
+        {
+          "prompt": "A new EMBLEM.",
+          "answers": [
+            "map",
+            "motto",
+            "song",
+            "symbol",
+            "mistake"
+          ],
+          "word": "EMBLEM",
+          "correct": "symbol"
+        },
+        {
+          "prompt": "Her CLOAK.",
+          "answers": [
+            "dress",
+            "watch",
+            "cape",
+            "shoes",
+            "hood"
+          ],
+          "word": "CLOAK",
+          "correct": "cape"
+        },
+        {
+          "prompt": "Had to ESTIMATE it.",
+          "answers": [
+            "share",
+            "forget",
+            "praise",
+            "judge",
+            "sell"
+          ],
+          "word": "ESTIMATE",
+          "correct": "judge"
+        },
+        {
+          "prompt": "Another FRAGMENT.",
+          "answers": [
+            "part",
+            "glass",
+            "book",
+            "idea",
+            "problem"
+          ],
+          "word": "FRAGMENT",
+          "correct": "part"
+        },
+        {
+          "prompt": "Wrote the HYMN.",
+          "answers": [
+            "organ music",
+            "prayer",
+            "drinking song",
+            "holy song",
+            "poem"
+          ],
+          "word": "HYMN",
+          "correct": "holy song"
+        },
+        {
+          "prompt": "Many small DONATIONS.",
+          "answers": [
+            "regions",
+            "services",
+            "gifts",
+            "checks",
+            "requests"
+          ],
+          "word": "DONATION",
+          "correct": "gifts"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a dogfight be a COMMOTION?",
+          "word": "COMMOTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people with a lot of AILMENTS feel good?",
+          "word": "AIL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a car be BATTERED?",
+          "word": "BATIER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do children usually give COMMANDS to their parents?",
+          "word": "COMMAND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do mountains DANGLE?",
+          "word": "DANGLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can the appearance of something DECEIVE people?",
+          "word": "DECEIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person be ASTOUNDED if the sun rose in the morning?",
+          "word": "ASTOUND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a DISPUTE lead to a fistfight?",
+          "word": "DISPUTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does an EAVESDROPPER try to avoid being noticed?",
+          "word": "EAVESDROP",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is \"In God We Trust\" the EMBLEM of the United States?",
+          "word": "EMBLEM",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a CLOAK cover a person's shoulders?",
+          "word": "CLOAK",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you ESTIMATE the price of something without knowing everything",
+          "word": "ESTIMATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "about it?",
+          "word": "FRAGMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are light bulbs sold in FRAGMENTS?",
+          "word": "HYMN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a HYMN usually be sung in church?",
+          "word": "DONATION",
+          "correct": "false"
+        },
+        {
+          "prompt": "If you earn money, does your boss DONATE your pay to you?"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Tom COMMOTIONED to us to join him.",
+          "word": "COMMOTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "I don't know what's AILING Bill; he's been moping around the house for over a week.",
+          "word": "AIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "The boxer BATTERED his opponent until the fight had to be stopped.",
+          "word": "BATIER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The policeman COMMANDED the driver to show his license.",
+          "word": "COMMAND",
+          "correct": "true"
+        },
+        {
+          "prompt": "The boss DANGLED the prospect of a big raise in front of Jim to get him to stay with the company.",
+          "word": "DANGLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I don't DECEIVE that you are coming at all.",
+          "word": "DECEIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Bill was ASTOUNDED when he found the treasure buried in his backyard.",
+          "word": "ASTOUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Dick didn't care which side of the DISPUTE he was on; he just loved to argue.",
+          "word": "DISPUTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They were talking so loud there was no need to EAVESDROP on their conversation.",
+          "word": "EAVESDROP",
+          "correct": "true"
+        },
+        {
+          "prompt": "A maple leaf is Canada's EMBLEM: it appears on many of their coins.",
+          "word": "EMBLEM",
+          "correct": "true"
+        },
+        {
+          "prompt": "The houses along the beach were CLOAKED in a thick fog.",
+          "word": "CLOAK",
+          "correct": "true"
+        },
+        {
+          "prompt": "His ESTIMATE of the number of marbles in the jar proved to be correct.",
+          "word": "ESTIMATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Nick's FRAGMENTARY knowledge of Spanish enabled him to speak it perfectly.",
+          "word": "FRAGMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "He sang a beautiful HYMN which inspired them all.",
+          "word": "HYMN",
+          "correct": "true"
+        },
+        {
+          "prompt": "He asked us for a large DONATION to his favorite charity.",
+          "word": "DONATION",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "COMMOTION",
+          "answers": [
+            "noise",
+            "confusion",
+            "danger"
+          ],
+          "word": "COMMOTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "AIL",
+          "answers": [
+            "be ill",
+            "hurt",
+            "fear"
+          ],
+          "word": "AIL",
+          "correct": "2"
+        },
+        {
+          "prompt": "BATTER",
+          "answers": [
+            "beat",
+            "dent",
+            "stop"
+          ],
+          "word": "BATIER",
+          "correct": "2"
+        },
+        {
+          "prompt": "COMMAND",
+          "answers": [
+            "demand",
+            "order",
+            "ask"
+          ],
+          "word": "COMMAND",
+          "correct": "2"
+        },
+        {
+          "prompt": "DANGLE",
+          "answers": [
+            "drop",
+            "swing",
+            "hang"
+          ],
+          "word": "DANGLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DECEIVE",
+          "answers": [
+            "fool",
+            "amuse",
+            "cheat"
+          ],
+          "word": "DECEIVE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ASTOUND",
+          "answers": [
+            "surprise",
+            "worry",
+            "astonish"
+          ],
+          "word": "ASTOUND",
+          "correct": "1"
+        },
+        {
+          "prompt": "DISPUTE",
+          "answers": [
+            "decide",
+            "quarrel",
+            "oppose"
+          ],
+          "word": "DISPUTE",
+          "correct": "0"
+        },
+        {
+          "prompt": "EAVESDROP",
+          "answers": [
+            "attack",
+            "listen",
+            "spy"
+          ],
+          "word": "EAVESDROP",
+          "correct": "0"
+        },
+        {
+          "prompt": "EMBLEM",
+          "answers": [
+            "design",
+            "picture",
+            "school"
+          ],
+          "word": "EMBLEM",
+          "correct": "2"
+        },
+        {
+          "prompt": "CLOAK",
+          "answers": [
+            "gown",
+            "cape",
+            "robe"
+          ],
+          "word": "CLOAK",
+          "correct": "0"
+        },
+        {
+          "prompt": "ESTIMATE",
+          "answers": [
+            "know",
+            "guess",
+            "judge"
+          ],
+          "word": "ESTIMATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "FRAGMENT",
+          "answers": [
+            "hole",
+            "section",
+            "piece"
+          ],
+          "word": "FRAGMENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "HYMN",
+          "answers": [
+            "church",
+            "band",
+            "song"
+          ],
+          "word": "HYMN",
+          "correct": "1"
+        },
+        {
+          "prompt": "DONATION",
+          "answers": [
+            "gift",
+            "present",
+            "debt"
+          ],
+          "word": "DONATION",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

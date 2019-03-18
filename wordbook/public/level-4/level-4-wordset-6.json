@@ -1,0 +1,611 @@
+{
+  "title": "4.6",
+  "definitions": {
+    "CONDEMN": {
+      "word": "CONDEMN",
+      "phonetic": "(kÔøΩn-dem')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to blame, criticize; to sentence, doom </p><p>To CONDEMN something is to declare that it is wrong or evil. CONDEMN is a very strong word and suggests complete disapproval. </p><p>“We all CONDEMNED his cruel treatment of the students.” </p><p>“She CONDEMNED the governor for his stand on taxes.” </p><p>To CONDEMN someone <i class=“def-ital\">to</i> something is to doom or sentence him to it. </p><p>“The judge CONDEMNED him to death.” </p><p>“His illness CONDEMNED him to a life spent in a wheelchair.” </p><p>The most common mistake in the Pretest is to choose <i class=“def-ital\">dislike</i> as the meaning of CONDEMN. CONDEMN is much stronger than <i class=“def-ital\">dislike</i>, however. You can <i class=“def-ital\">dislike</i> someone but not CONDEMN him. </p><p>Other forms of the word: CONDEMNATION, n.</p>"
+    },
+    "ENTERPRISE": {
+      "word": "ENTERPRISE",
+      "phonetic": "(en'-tÔøΩr-prlz)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an undertaking, project; a business, company; energy, daring, spirit </p><p>An ENTERPRISE is a project or undertaking, especially one that is risky or requires a great deal of skill or courage. </p><p>“Climbing MountbEverest is quite an ENTERPRISE.” </p><p>“Getting him up in the morning was a difficult ENTERPRISE.” </p><p>ENTERPRISE is also used for the spirit or energy which someone has to have to accomplish a challenging project. </p><p>“It took men of great ENTERPRISE to explore this jungle.” </p><p>ENTERPRISE is also another word for <i class=“def-ital\">business</i> or <i class=“def-ital\">company</i>. </p><p>“He owned a small but growing ENTERPRISE.” </p><p>“Free ENTERPRISE” is an economic system in which business projects can be undertaken with little restriction by the government. </p><p>Other forms of the word: ENTERPRISING, adj.</p>"
+    },
+    "MURAL": {
+      "word": "MURAL",
+      "phonetic": "(myUr'-ÔøΩI)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a wall painting </p><p>A MURAL is a painting done directly on a wall. The word MURAL comes from the Latin word for <i class=“def-ital\">wall</i>. MURALS can also be large photographs or wallpaper scenes which are attached right to the wall, without a frame. </p><p>\"<i class=“def-ital\">The Last Supper</i> is a MURAL painted by Leonardo da Vinci.” </p><p>“The artist painted a colorful MURAL in the subway station.”</p>"
+    },
+    "REMNANT": {
+      "word": "REMNANT",
+      "phonetic": "(rem'-nÔøΩnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a remainder, part left over </p><p>REMNANT is related to the word <i class=“def-ital\">remain</i>. A REMNANT is a part left over, usually a very small or insignificant part. </p><p>“This painting is the only REMNANT of a once-huge art collection.” </p><p>“The enemy quickly captured the REMNANTS of the defeated army.” </p><p>“After the town burned down, people searched through the REMNANTS looking for survivors.” </p><p>A specific use of REMNANT is for a small piece of cloth left over after the larger part has been sold. </p><p>“The fabric store sold the REMNANTS at a greatly reduced price.”</p>"
+    },
+    "CORONATION": {
+      "word": "CORONATION",
+      "phonetic": "(kor-;}-nA'-shÔøΩn",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the act of crowning </p><p>Corona is the Latin word for <i class=“def-ital\">crown</i>. A CORONATION is a crowning of a king, queen, or other ruler, with all the ceremonies that are part of the event. </p><p>“Many heads of state attended the CORONATION of the new king.” </p><p>“At Napoleon’s CORONATION he took the crown and placed it on his head himself.” </p><p>The most common wrong answer on the Pretest is <i class=“def-ital\">celebration</i>. There may be <i class=“def-ital\">celebrations</i> along with a CORONATION, but CORONATION has to do specifically with the crowning of a ruler.</p>"
+    },
+    "EMPLOY": {
+      "word": "EMPLOY",
+      "phonetic": "(em-ploy')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to use, make use of; to give work to </p><p>To EMPLOY something is to make use of it. </p><p>“He EMPLOYED every trick he knew, but he still couldn’t beat his opponent.” </p><p>“The grounds crew EMPLOYED a large helicopter to help dry off the field.” </p><p>To EMPLOY a person is to make use of his services, usually for pay. </p><p>“This factory EMPLOYS thousands of workers.” </p><p>“Bill is EMPLOYED by the insurance company to investigate accident claims.” </p><p>An EMPLOYER is a person or company who hires a worker, and an EMPLOYEE is a person who works for a company. </p><p>Other forms of the word: EMPLOYEE, n. EMPLOYER, n. EMPLOYMENT, n.</p>"
+    },
+    "GALA": {
+      "word": "GALA",
+      "phonetic": "(gA'-1:;,",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">festive, showy </p><p>GALA is both an adjective and a noun. As a noun it means “a special entertainment,” a <i class=“def-ital\">celebration</i>. </p><p>“All the leading society figures came to the GALA celebrating the opening of the museum.” </p><p>As an adjective the word means “like a GALA or celebration,” <i class=“def-ital\">festive</i>. </p><p>“His parties were always GALA occasions. Everyone loved to go to them.” </p><p>“It was a GALA day from beginning to end, with parades, games, plays, and all kinds of festivities.”</p>"
+    },
+    "OOZE": {
+      "word": "OOZE",
+      "phonetic": "(Uz)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to flow slowly, leak out </p><p>OOZE is the soft liquid mud at the bottom of a river or other body of water. To OOZE is to flow slowly like this mud, especially through small openings. </p><p>“Oil OOZED out of the crack in the engine.” </p><p>“Blood OOZED from the wound.” </p><p>OOZE can also mean to <i class=“def-ital\">give off</i>. </p><p>“His faced OOZED sweat as he tried to lift the trunk.” </p><p>The word can be used in a general sense about things and qualities besides liquids. </p><p>“She OOZED self-confidence as she strode into the room\"-that is, she had so much self-confidence that it seemed to flow out of her. </p><p>Many people think OOZE means to <i class=“def-ital\">overflow</i>. Both words are used about the flow of liquids, but OOZE means to <i class=“def-ital\">flow out slowly</i>.</p>"
+    },
+    "ORATION": {
+      "word": "ORATION",
+      "phonetic": "(8-rA'-sh:;,n)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a formal speech </p><p>An ORATION is a formal, dignified speech made on a public occasion. </p><p>“Marc Antony delivered a great ORATION at Caesar’s funeral.” </p><p>“The politician’s ORATION put most of the audience to sleep.” </p><p>An ORATOR is a person who makes such speeches. </p><p>“Daniel Webster was a great ORATOR. People would travel hundreds of miles to hear one of his speeches.” </p><p>Other forms of the word: ORATOR, n. ORATORY, n.</p>"
+    },
+    "SATANIC": {
+      "word": "SATANIC",
+      "phonetic": "(s:;,-tan'-ik",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">devilish, wicked, evil </p><p>SATANIC is the adjective formed from SATAN, one of several names for the devil.  SATANIC means <i class=“def-ital\">wicked</i> or <i class=“def-ital\">evil</i>, like the devil. </p><p>“His SATANIC smile frightened everyone there.” </p><p>“Sometimes a truly SATANIC nature is hidden behind a mask of good manners.” </p><p><i class=“def-ital\">Crazy</i> is the most commonly chosen wrong answer on the Pretest, perhaps because SATANIC sounds a little like <i class=“def-ital\">moronic</i>.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ic</i> under Suffixes."
+      ]
+    },
+    "MULTITUDE": {
+      "word": "MULTITUDE",
+      "phonetic": "(muhl'-tg-tUd",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a crowd, a great number </p><p> MULTITUDE comes from a Latin word meaning <i class=“def-ital\">many</i>, also the source of the word <i class=“def-ital\">multiply</i>. A MULTITUDE is a great number of something. </p><p>“This wonderful machine can do a MULTITUDE of jobs all at once.” </p><p>“There was a MULTITUDE of complaints about the new system of report cards.” </p><p>When used by itself, the word usually means “a great crowd of people.” </p><p>“A MULTITUDE had gathered to hear the president’s speech.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-tude</i> under Suffixes."
+      ]
+    },
+    "SHUN": {
+      "word": "SHUN",
+      "phonetic": "(shuhn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to avoid, stay away from </p><p>SHUN means to <i class=“def-ital\">avoid</i> or <i class=“def-ital\">stay away from</i> something, usually because it is hateful, undesirable, or dangerous. You can SHUN both people and things. </p><p>“His friends SHUNNED him after they learned about his evil past.” “She SHUNS work whenever she can.” </p><p>“A hermit SHUNS the company of other people.”</p>"
+    },
+    "AGENDA": {
+      "word": "AGENDA",
+      "phonetic": "(g-jen'-dg)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an outline, program </p><p>An AGENDA is a list or outline of things to be done, a plan of procedure. Often a committee will organize its meetings around an AGENDA of subjects to be discussed or business to be carried out. </p><p>“The chairman made sure that every committee member received an AGENDA before each meeting.” </p><p>“The next item on the AGENDA is a discussion of how the money is to be spent.” </p><p>“My father called and wanted to know what was on our AGENDA for this weekend\"-that is, he wanted to know what we were planning to do.</p>"
+    },
+    "MATERNAL": {
+      "word": "MATERNAL",
+      "phonetic": "(m:rter'-ngl)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">motherly </p><p><i class=“def-ital\">Mater</i> means <i class=“def-ital\">mother</i> in Latin. MATERNAL means “of or like a mother.”  </p><p>“She has MATERNAL feelings for her students. She treats them all like her children.” </p><p>“Her MATERNAL instincts told her that her children were in trouble.” </p><p>MATERNAL also means “on your mother’s side of the family.” Your MATERNAL grandfather is your mother’s father.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "STREW": {
+      "word": "STREW",
+      "phonetic": "(strU)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to spread, scatter, sprinkle </p><p>To STREW something is to spread it here and there over a surface. </p><p>“She STREWED the birdseed on the ground for the pigeons.” </p><p>STREW also means “to cover a surface with scattered things.” </p><p>“Pebbles STREW the surface of the road.” </p><p>The form STREWN is often used for what is called the <i class=“def-ital\">past participle</i> of STREW. </p><p>“The floor was STREWN with books and papers.” </p><p>“The child’s toys were STREWN over the room.”</p>"
+    }
+  },
+  "id": "6",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "They CONDEMN him.",
+          "answers": [
+            "overlook",
+            "fear",
+            "praise",
+            "dislike",
+            "blame"
+          ],
+          "word": "CONDEMN",
+          "correct": "blame"
+        },
+        {
+          "prompt": "A great ENTERPRISE.",
+          "answers": [
+            "plan",
+            "idea",
+            "project",
+            "trip",
+            "mistake"
+          ],
+          "word": "ENTERPRISE",
+          "correct": "project"
+        },
+        {
+          "prompt": "Impressed by the MURAL.",
+          "answers": [
+            "small statue",
+            "landscape",
+            "photograph",
+            "wall painting",
+            "portrait"
+          ],
+          "word": "MURAL",
+          "correct": "wall painting"
+        },
+        {
+          "prompt": "Saw the REMNANT.",
+          "answers": [
+            "remainder",
+            "difficulty",
+            "result",
+            "whole thing",
+            "beginning"
+          ],
+          "word": "REMNANT",
+          "correct": "remainder"
+        },
+        {
+          "prompt": "During the CORONATION.",
+          "answers": [
+            "battle",
+            "funeral",
+            "crowning",
+            "celebration",
+            "speech"
+          ],
+          "word": "CORONATION",
+          "correct": "crowning"
+        },
+        {
+          "prompt": "He EMPLOYED everything.",
+          "answers": [
+            "begged for",
+            "used",
+            "improved",
+            "threw out",
+            "started"
+          ],
+          "word": "EMPLOY",
+          "correct": "used"
+        },
+        {
+          "prompt": "GALA events.",
+          "answers": [
+            "famous",
+            "theatrical",
+            "dull",
+            "feminine",
+            "festive"
+          ],
+          "word": "GALA",
+          "correct": "festive"
+        },
+        {
+          "prompt": "Began to OOZE.",
+          "answers": [
+            "sink",
+            "leak slowly",
+            "overflow",
+            "slide",
+            "boil away"
+          ],
+          "word": "OOZE",
+          "correct": "leak slowly"
+        },
+        {
+          "prompt": "Impressive ORATION.",
+          "answers": [
+            "thought",
+            "politician",
+            "speech",
+            "badge",
+            "action"
+          ],
+          "word": "ORATION",
+          "correct": "speech"
+        },
+        {
+          "prompt": "SATANIC expression.",
+          "answers": [
+            "unfriendly",
+            "devilish",
+            "crazy",
+            "saintly",
+            "clever"
+          ],
+          "word": "SATANIC",
+          "correct": "devilish"
+        },
+        {
+          "prompt": "Saw the MULTITUDE.",
+          "answers": [
+            "heavens",
+            "stars",
+            "crowd",
+            "beauty",
+            "desert"
+          ],
+          "word": "MULTITUDE",
+          "correct": "crowd"
+        },
+        {
+          "prompt": "SHUN these people.",
+          "answers": [
+            "dislike",
+            "greet",
+            "hurt",
+            "fight",
+            "avoid"
+          ],
+          "word": "SHUN",
+          "correct": "avoid"
+        },
+        {
+          "prompt": "Examined the AGENDA.",
+          "answers": [
+            "contents",
+            "program",
+            "article",
+            "report",
+            "office"
+          ],
+          "word": "AGENDA",
+          "correct": "program"
+        },
+        {
+          "prompt": "MATERNAL interest.",
+          "answers": [
+            "undying",
+            "feminine",
+            "motherly",
+            "family",
+            "fatherly"
+          ],
+          "word": "MATERNAL",
+          "correct": "motherly"
+        },
+        {
+          "prompt": "STREW the seeds.",
+          "answers": [
+            "pick",
+            "find",
+            "destroy",
+            "spread",
+            "want"
+          ],
+          "word": "STREW",
+          "correct": "spread"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do judges CONDEMN people to prison?",
+          "word": "CONDEMN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a restaurant an ENTERPRISE?",
+          "word": "ENTERPRISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a MURAL he outside?",
+          "word": "MURAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a single tree be a REMNANT of a forest?",
+          "word": "REMNANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does the president of the United States have a CORONATION when he enters office?",
+          "word": "CORONATION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you EMPLOY a new worker?",
+          "word": "EMPLOY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a wedding celebration usually a GALA event?",
+          "word": "GALA",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can catsup OOZE?",
+          "word": "OOZE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is an ORATION spoken?",
+          "word": "ORATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a SATANIC person be frightening?",
+          "word": "SATANIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is there a MULTITUDE of cars on the streets during a traffic jam?",
+          "word": "MULTITUDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do you SHUN someone you're eager to see?",
+          "word": "SHUN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can there be several items on an AGENDA?",
+          "word": "AGENDA",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a person's MATERNAL aunt his mother's sister?",
+          "word": "MATERNAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do neat people like to see things STREWN about?",
+          "word": "STREW",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "You shouldn't CONDEMN him just because he's not perfect.",
+          "word": "CONDEMN",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was her ENTERPRISE that kept the business going.",
+          "word": "ENTERPRISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He carried the MURAL around in his wallet to show people.",
+          "word": "MURAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "He wrote himself a REMNANT that he had to go to the store after school.",
+          "word": "REMNANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "After the young queen's CORONATION, there were parties throughout the city.",
+          "word": "CORONATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "My father is no longer EMPLOYED by the hardware store.",
+          "word": "EMPLOY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The Mardi Gras festival in New Orleans is a city-wide GALA.",
+          "word": "GALA",
+          "correct": "true"
+        },
+        {
+          "prompt": "The new father seemed to OOZE happiness as he showed us pictures of the baby.",
+          "word": "OOZE",
+          "correct": "true"
+        },
+        {
+          "prompt": "His ORATION moved the audience to tears.",
+          "word": "ORATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "His SATANIC laughter made their blood run cold.",
+          "word": "SATANIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "He complained about the MULTITUDE of problems he had to solve.",
+          "word": "MULTITUDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "His father told Tom to SHUN the company of evil people.",
+          "word": "SHUN",
+          "correct": "true"
+        },
+        {
+          "prompt": "He wrote a complete AGENDA about what had happened at the meeting last week.",
+          "word": "AGENDA",
+          "correct": "false"
+        },
+        {
+          "prompt": "She took a MATERNAL interest in the girls in the club, treating them as she would her own daughters.",
+          "word": "MATERNAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Two little girls walked in front of the bride and STREWED rose petals along the path.",
+          "word": "STREW",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "CONDEMN",
+          "answers": [
+            "doom",
+            "disbelieve",
+            "criticize"
+          ],
+          "word": "CONDEMN",
+          "correct": "1"
+        },
+        {
+          "prompt": "ENTERPRISE",
+          "answers": [
+            "courage",
+            "happiness",
+            "business"
+          ],
+          "word": "ENTERPRISE",
+          "correct": "1"
+        },
+        {
+          "prompt": "MURAL",
+          "answers": [
+            "design",
+            "sculpture",
+            "painting"
+          ],
+          "word": "MURAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "REMNANT",
+          "answers": [
+            "beginning",
+            "trace",
+            "fragment"
+          ],
+          "word": "REMNANT",
+          "correct": "0"
+        },
+        {
+          "prompt": "CORONATION",
+          "answers": [
+            "enthronement",
+            "crowning",
+            "trip"
+          ],
+          "word": "CORONATION",
+          "correct": "2"
+        },
+        {
+          "prompt": "EMPLOY",
+          "answers": [
+            "use",
+            "seek",
+            "hire"
+          ],
+          "word": "EMPLOY",
+          "correct": "1"
+        },
+        {
+          "prompt": "GALA",
+          "answers": [
+            "joy",
+            "nervousness",
+            "excitement"
+          ],
+          "word": "GALA",
+          "correct": "1"
+        },
+        {
+          "prompt": "OOZE",
+          "answers": [
+            "flood",
+            "flow",
+            "leak"
+          ],
+          "word": "OOZE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ORATION",
+          "answers": [
+            "talk",
+            "song",
+            "lecture"
+          ],
+          "word": "ORATION",
+          "correct": "1"
+        },
+        {
+          "prompt": "SATANIC",
+          "answers": [
+            "criminal",
+            "fiendish",
+            "demonic"
+          ],
+          "word": "SATANIC",
+          "correct": "0"
+        },
+        {
+          "prompt": "MULTITUDE",
+          "answers": [
+            "several",
+            "many",
+            "few"
+          ],
+          "word": "MULTITUDE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SHUN",
+          "answers": [
+            "switch",
+            "escape",
+            "evade"
+          ],
+          "word": "SHUN",
+          "correct": "0"
+        },
+        {
+          "prompt": "AGENDA",
+          "answers": [
+            "list",
+            "story",
+            "plan"
+          ],
+          "word": "AGENDA",
+          "correct": "1"
+        },
+        {
+          "prompt": "MATERNAL",
+          "answers": [
+            "parental",
+            "motherly",
+            "childish"
+          ],
+          "word": "MATERNAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "STREW",
+          "answers": [
+            "find",
+            "sprinkle",
+            "cover"
+          ],
+          "word": "STREW",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

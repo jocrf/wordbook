@@ -1,0 +1,605 @@
+{
+  "title": "6.4",
+  "definitions": {
+    "MANIFOLD": {
+      "word": "MANIFOLD",
+      "phonetic": "(kwerk)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">numerous, various, diverse </p><p>The suffix <i class=“def-ital\">-fold</i> means “multiplied by.” To increase something a <i class=“def-ital\">hundredfold</i> means to increase it a hundred times. The <i class=“def-ital\">mani-</i> part of MANIFOLD is the word <i class=“def-ital\">many</i>. So MANIFOLD basically means “multiplied by many.” The word is used about things or actions that are numerous and varied, or that have many different features or uses. </p><p>“As head of the organization he has MANIFOLD responsibilities.” </p><p>“One of the machine’s MANIFOLD advantages is that it is easy to fix.” </p><p>The most commonly chosen incorrect answer in the Pretest is <i class=“def-ital\">obvious</i>. This is probably due to a confusion of MANIFOLD with <i class=“def-ital\">manifest</i>. <i class=“def-ital\">Manifest</i> means “clear to the senses,\", <i class=“def-ital\">evident</i>, <i class=“def-ital\">obvious</i>.</p>"
+    },
+    "QUIRK": {
+      "word": "QUIRK",
+      "phonetic": "(kwerk)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a peculiarity of behavior </p><p>The basic meaning of QUIRK is “a sudden twist or curve.” It is still used this way in the phrase “a QUIRK of fate,” which is a sudden twist or change of fate. Usually today the word means “twists” of behavior--that is, personal peculiarities or mannerisms. </p><p>“If you ignore some of the QUIRKS of his personality, he’s really a very nice fellow.” </p><p>“She has this odd QUIRK of always wanting to be the last one to arrive at a party.”</p>"
+    },
+    "NONPAREIL": {
+      "word": "NONPAREIL",
+      "phonetic": "(non-pÔøΩ-rel')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unequaled, having no equal, the best, peerless </p><p>NONPAREIL is a French word used in English; it means <i class=“def-ital\">not equaled</i>.  Anything which is NONPAREIL cannot be topped. It is the best. </p><p>“She has a marvelous, NONPAREIL beauty.” </p><p>“He was a NONPAREIL boxer.” </p><p>Sometimes NONPAREIL comes after the word it modifies. </p><p>“He was a boxer NONPAREIL.” NONPAREIL is also a noun, meaning “a person or thing that has no equal.” </p><p>“She was a NONPAREIL as a pianist. I’ve never heard anyone better.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">non-</i> under Prefixes."
+      ]
+    },
+    "PANG": {
+      "word": "PANG",
+      "phonetic": "(pang)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a sharp pain </p><p>A PANG is a sudden, brief, sharp pain. </p><p>“The starving man felt PANGS of hunger.” </p><p>The word is more commonly used about mental pain than physical pain. It is used about a piercing feeling of sorrow, longing, or a similar strong emotion. </p><p>“He suffered PANGS of conscience after he stole the bicycle.” </p><p>“Jane felt a PANG of envy when she saw how popular Mary was.” </p><p>“With a PANG of regret they looked back for the last time at their old house.” </p><p>“She was eighteen when she first felt the PANGS of love.”</p>"
+    },
+    "SWOON": {
+      "word": "SWOON",
+      "phonetic": "(swUn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to faint; to become enraptured </p><p>SWOON means to <i class=“def-ital\">faint</i> or <i class=“def-ital\">lose consciousness</i>. Often SWOON is used about people in a state of sudden excitement or rapture. </p><p>“The young girls SWOONED when they saw their favorite singer come into the room.” </p><p>“He felt faint and nearly SWOONED at the sight of so much beauty.” </p><p>SWOON is also a noun meaning a <i class=“def-ital\">faint</i> or a <i class=“def-ital\">fainting fit</i>. </p><p>“She started to regain consciousness and come out of the SWOON.”</p>"
+    },
+    "HALLOWED": {
+      "word": "HALLOWED",
+      "phonetic": "(hal'-Od)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">holy, sacred, blessed </p><p>To HALLOW something is to make it holy or to treat it as sacred. HALLOWED is the adjective from HALLOW and means <i class=“def-ital\">sacred</i>, <i class=“def-ital\">holy</i>. </p><p>“We walked solemnly past the HALLOWED ground of the graveyard.” </p><p>“No one was allowed to touch the HALLOWED objects that had once belonged to the saint.” </p><p>November 1 is the Feast of All Saints, which used to be <i class=“def-ital\">All</i> HALLOW. So October 31 is HALLOWEEN, which is short for <i class=“def-ital\">All</i> HALLOW <i class=“def-ital\">Evening</i>. </p><p>The most popular mistake on the pretest for HALLOWED is <i class=“def-ital\">haunted</i>, due to the confusion caused by HALLOWEEN and the tales of ghosts and demons we associate with it. </p><p>Other forms of the word: HALLOW, v.</p>"
+    },
+    "IMPLORE": {
+      "word": "IMPLORE",
+      "phonetic": "(im-plor')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">beg, beseech, request earnestly </p><p>To IMPLORE someone is to call upon him urgently for help, mercy, or the like. </p><p>“I IMPLORE you not to let us down when we need you the most.” </p><p>“We IMPLORED the teacher not to give us any homework.” </p><p>To IMPLORE something is to ask for it urgently. </p><p>“We IMPLORED his forgiveness.” </p><p>“He IMPLORED her to help him, and finally she agreed.” </p><p>IMPLORE means almost exactly the same as <i class=“def-ital\">beg</i>, except that usually IMPLORE is a stronger word. </p><p>“I asked him to come. Then I begged him. Finally I IMPLORED him to come.”</p>"
+    },
+    "PROCURE": {
+      "word": "PROCURE",
+      "phonetic": "(prO-KyUr'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to get, obtain </p><p>PROCURE means to <i class=“def-ital\">get</i>, especially as the result of effort and planning. </p><p>“We managed to PROCURE our supplies before they ran out.” </p><p>“She was unable to PROCURE the necessary funds.” </p><p>“He had to go to a hardware store ten miles away to PROCURE the special tool he wanted.” </p><p><i class=“def-ital\">Protect</i> and <i class=“def-ital\">save</i> are often mistakenly chosen as the meaning of PROCURE, perhaps because of confusion with the word <i class=“def-ital\">secure</i>.</p>"
+    },
+    "ALLOT": {
+      "word": "ALLOT",
+      "phonetic": "(ÔøΩlot')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to assign, distribute by lot </p><p><i class=“def-ital\">Lots</i> are objects like straws or pebbles used to decide something by chance. To <i class=“def-ital\">draw lots</i>, for example, is to choose pieces of paper or the like to decide who will do something, who wins something, etc. To ALLOT something is to distribute it or divide it up as if by lot. Usually the word doesn’t suggest the actual drawing of lots. </p><p>“He took whatever he was ALLOTTED and didn’t complain, even if it was much less than everyone else received.” </p><p>“The ALLOTTED time for his speech had ended, but he refused to stop talking.” </p><p>The noun from ALLOT is ALLOTMENT, which means “a share or portion.” </p><p>“His ALLOTMENT was only nine dollars.” </p><p><i class=“def-ital\">Permit</i> is often thought to be the meaning of ALLOT, probably because ALLOT looks so much like <i class=“def-ital\">allow</i>. </p><p>Other forms of the word: ALLOTMENT, n.</p>"
+    },
+    "BLASPHEME": {
+      "word": "BLASPHEME",
+      "phonetic": "(blas-fEm')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to curse, speak irreverently </p><p>BLASPHEME comes from a Greek word meaning to <i class=“def-ital\">speak evil</i>. In English BLASPHEME also means to <i class=“def-ital\">speak evil</i>, especially to talk in an irreverent or abusive way about God or something sacred. </p><p>“The church leaders said he had BLASPHEMED the name of God by his criticisms of religion.” </p><p>BLASPHEMY is an act of irreverence toward something sacred. </p><p>“The priest said the youths committed BLASPHEMY by writing swear words on the church doors.” </p><p>Other forms of the word: BLASPHEMOUS, adj. BLASPHEMY, n.</p>"
+    },
+    "MELEE": {
+      "word": "MELEE",
+      "phonetic": "(mA'-IA)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a confused struggle, free-for-all, brawl </p><p>Note the pronunciation. MELEE is a French word, and has kept its French pronunciation. </p><p>A MELEE is a confused struggle involving a crowd of people. </p><p>“A MELEE broke out among the fans at the football game.” </p><p>“The police had to use tear gas to break up the MELEE.” </p><p>MELEE is also used about a confused or disorganized crowd in general, without the suggestion of fighting. </p><p>“He elbowed his way through the MELEE of people trying to finish their Christmas shopping.”</p>"
+    },
+    "PLACATE": {
+      "word": "PLACATE",
+      "phonetic": "(plA'-kAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to soothe, pacify, appease, mollify </p><p>To PLACATE means to <i class=“def-ital\">soothe</i> someone who is hostile or offended, usually by making concessions. </p><p>“In order to PLACATE his teacher Bob did extra homework that weekend.” </p><p>“We tried to PLACATE Jane, but everything we did seemed to make her even angrier.” </p><p>“He PLACATED the store owner by agreeing to return everything he had stolen.”</p>"
+    },
+    "VEHEMENT": {
+      "word": "VEHEMENT",
+      "phonetic": "(vE'->mÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">intense, strong, passionate, emphatic </p><p>VEHEMENT means <i class=“def-ital\">intense</i>, <i class=“def-ital\">passionate</i>, <i class=“def-ital\">earnest</i>. </p><p>“The lawyer had some VEHEMENT objections to the judge’s rulings.” </p><p>VEHEMENT is often used about the way people talk or act. </p><p>“His VEHEMENT tone left no doubt that he was quite upset about the matter.” </p><p>“Jim VEHEMENTLY denied having taken the money.” </p><p>Other forms of the word: VEHEMENCE, n.</p>"
+    },
+    "STEADFAST": {
+      "word": "STEADFAST",
+      "phonetic": "(sted'-fast)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">faithful, loyal, firm, unswerving </p><p>The <i class=“def-ital\">stead</i> part of STEADFAST comes from an old English word meaning <i class=“def-ital\">place</i>. A <i class=“def-ital\">homestead</i>, for example, is a place where you have your home. The <i class=“def-ital\">fast</i> part does not mean <i class=“def-ital\">quick</i> or <i class=“def-ital\">speedy</i>, but comes from another use of the word which means <i class=“def-ital\">firmly fixed</i>. You can see this use of <i class=“def-ital\">fast</i> in the word <i class=“def-ital\">fasten</i>. So something which is STEADFAST is firmly fixed in place. Usually today STEADFAST is used about people, and means “firmly fixed in one’s beliefs or loyalties,” <i class=“def-ital\">faithful</i>, <i class=“def-ital\">resolute</i>. </p><p>“He was a STEADFAST friend. He would always help you when you needed it most.” </p><p>“She STEADFASTLY maintained her innocence despite all the proof that she was guilty.”</p>"
+    },
+    "ALOOF": {
+      "word": "ALOOF",
+      "phonetic": "(>IUf')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">distant, indifferent, remote </p><p>ALOOF is used about people who like to keep the feelings and opinions of others at a distance. ALOOF people stand apart and don’t become involved in the affairs of others. Often the word suggests that this happens because these people feel superior to the rest of us. </p><p>“Mary always remained ALOOF from the other children, as if she thought their games were too silly for her.” </p><p>“He was very warm and friendly with his family, but at work he seemed quite ALOOF.”</p>"
+    }
+  },
+  "id": "4",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "MANIFOLD attractions.",
+          "answers": [
+            "few",
+            "numerous",
+            "different",
+            "wonderful",
+            "obvious"
+          ],
+          "word": "MANIFOLD",
+          "correct": "numerous"
+        },
+        {
+          "prompt": "Obvious QUIRK.",
+          "answers": [
+            "intelligence",
+            "problem",
+            "peculiarity",
+            "grin",
+            "nervousness"
+          ],
+          "word": "QUIRK",
+          "correct": "peculiarity"
+        },
+        {
+          "prompt": "The performance was NONPAREIL.",
+          "answers": [
+            "well-received",
+            "unfortunate",
+            "unequaled",
+            "sloppy",
+            "free"
+          ],
+          "word": "NONPAREIL",
+          "correct": "unequaled"
+        },
+        {
+          "prompt": "Unexpected PANGS.",
+          "answers": [
+            "terrors",
+            "expressions",
+            "pains",
+            "delights",
+            "noises"
+          ],
+          "word": "PANG",
+          "correct": "pains"
+        },
+        {
+          "prompt": "Made them SWOON.",
+          "answers": [
+            "fall",
+            "sing",
+            "cry",
+            "wake up",
+            "faint"
+          ],
+          "word": "SWOON",
+          "correct": "faint"
+        },
+        {
+          "prompt": "HALLOWED places.",
+          "answers": [
+            "holy",
+            "awful",
+            "lovely",
+            "ancient",
+            "haunted"
+          ],
+          "word": "HALLOWED",
+          "correct": "holy"
+        },
+        {
+          "prompt": "They IMPLORED us.",
+          "answers": [
+            "told",
+            "asked",
+            "begged",
+            "needed",
+            "hated"
+          ],
+          "word": "IMPLORE",
+          "correct": "begged"
+        },
+        {
+          "prompt": "To PROCURE it.",
+          "answers": [
+            "pay for",
+            "protect",
+            "obtain",
+            "reach",
+            "save"
+          ],
+          "word": "PROCURE",
+          "correct": "obtain"
+        },
+        {
+          "prompt": "His ALLOTTED share.",
+          "answers": [
+            "expected",
+            "assigned",
+            "permitted",
+            "huge",
+            "stolen"
+          ],
+          "word": "ALLOT",
+          "correct": "assigned"
+        },
+        {
+          "prompt": "To BLASPHEME them.",
+          "answers": [
+            "hate",
+            "punish",
+            "curse",
+            "bless",
+            "envy"
+          ],
+          "word": "BLASPHEME",
+          "correct": "curse"
+        },
+        {
+          "prompt": "During the MELEE.",
+          "answers": [
+            "rush hour",
+            "free-for-all",
+            "ambush",
+            "quiet evening",
+            "war"
+          ],
+          "word": "MELEE",
+          "correct": "free-for-all"
+        },
+        {
+          "prompt": "To PLACATE them.",
+          "answers": [
+            "love",
+            "show",
+            "ask",
+            "arouse",
+            "soothe"
+          ],
+          "word": "PLACATE",
+          "correct": "soothe"
+        },
+        {
+          "prompt": "VEHEMENT speech.",
+          "answers": [
+            "long",
+            "difficult",
+            "quiet",
+            "intense",
+            "well-meaning"
+          ],
+          "word": "VEHEMENT",
+          "correct": "intense"
+        },
+        {
+          "prompt": "STEADFAST people.",
+          "answers": [
+            "quick",
+            "likable",
+            "dangerous",
+            "loyal",
+            "powerful"
+          ],
+          "word": "STEADFAST",
+          "correct": "loyal"
+        },
+        {
+          "prompt": "He seemed ALOOF.",
+          "answers": [
+            "friendly",
+            "lazy",
+            "odd",
+            "cruel",
+            "distant"
+          ],
+          "word": "ALOOF",
+          "correct": "distant"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would most people want to buy a house that has MANIFOLD problems?",
+          "word": "MANIFOLD",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a QUIRK always a bad thing?",
+          "word": "QUIRK",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a NONPAREIL dancer be better than average?",
+          "word": "NONPAREIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are PANGS usually pleasant?",
+          "word": "PANG",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a person in a SWOON fully awake?",
+          "word": "SWOON",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a church contain HALLOWED objects?",
+          "word": "HALLOWED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person who is drowning IMPLORE someone to save him?",
+          "word": "IMPLORE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do you have to go to a doctor to PROCURE a disease?",
+          "word": "PROCURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can food be ALLOTTED?",
+          "word": "ALLOT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it BLASPHEMY to rob a bank?",
+          "word": "BLASPHEME",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a MELEE generally peaceful?",
+          "word": "MELEE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does an angry person like to PLACATE people?",
+          "word": "PLACATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a VEHEMENT tone indicate that a person is upset?",
+          "word": "VEHEMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a STEADFAST friend desert you in time of trouble?",
+          "word": "STEADFAST",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are salesmen usually ALOOF?",
+          "word": "ALOOF",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "We went to see the MANIFOLD attractions and displays in the museum.",
+          "word": "MANIFOLD",
+          "correct": "true"
+        },
+        {
+          "prompt": "We were so accustomed to his QUIRKS that we were surprised when other people commented on how odd he was.",
+          "word": "QUIRK",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was a singer NONPAREIL--perhaps the greatest that ever lived.",
+          "word": "NONPAREIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "He felt a few PANGS of fear as he walked into the haunted house.",
+          "word": "PANG",
+          "correct": "true"
+        },
+        {
+          "prompt": "She SWOONED with joy when the rock 'n' roll star threw her a flower.",
+          "word": "SWOON",
+          "correct": "true"
+        },
+        {
+          "prompt": "Seeing the ghost really HALLOWED them.",
+          "word": "HALLOWED",
+          "correct": "false"
+        },
+        {
+          "prompt": "The king IMPLORED them to join the fight against their common enemy.",
+          "word": "IMPLORE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We had to PROCURE a license before we were allowed to stay at the campgrounds.",
+          "word": "PROCURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher ALLOTTED us each five minutes to speak to the class.",
+          "word": "ALLOT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He BLASPHEMED all religions, calling them the work of the devil.",
+          "word": "BLASPHEME",
+          "correct": "true"
+        },
+        {
+          "prompt": "Each afternoon there was a MELEE at the bus stop as all the school children tried to get on at once.",
+          "word": "MELEE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The king refused to do anything to PLACATE the angry mob.",
+          "word": "PLACATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The leaf drifted VEHEMENTLY down to the ground.",
+          "word": "VEHEMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The STEADFAST horse raced around the track in record time.",
+          "word": "STEADFAST",
+          "correct": "false"
+        },
+        {
+          "prompt": "The rich boy kept ALOOF from all the other children at school.",
+          "word": "ALOOF",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "MANIFOLD",
+          "answers": [
+            "many",
+            "complicated",
+            "varied"
+          ],
+          "word": "MANIFOLD",
+          "correct": "1"
+        },
+        {
+          "prompt": "QUIRK",
+          "answers": [
+            "oddity",
+            "strangeness",
+            "pleasantness"
+          ],
+          "word": "QUIRK",
+          "correct": "2"
+        },
+        {
+          "prompt": "NONPAREIL",
+          "answers": [
+            "good",
+            "marvelous",
+            "perfect"
+          ],
+          "word": "NONPAREIL",
+          "correct": "0"
+        },
+        {
+          "prompt": "PANG",
+          "answers": [
+            "ache",
+            "noise",
+            "sorrow"
+          ],
+          "word": "PANG",
+          "correct": "1"
+        },
+        {
+          "prompt": "SWOON",
+          "answers": [
+            "fainting",
+            "unconscious",
+            "sleepy"
+          ],
+          "word": "SWOON",
+          "correct": "2"
+        },
+        {
+          "prompt": "HALLOWED",
+          "answers": [
+            "sacred",
+            "beautiful",
+            "divine"
+          ],
+          "word": "HALLOWED",
+          "correct": "1"
+        },
+        {
+          "prompt": "IMPLORE",
+          "answers": [
+            "plead",
+            "beg",
+            "need"
+          ],
+          "word": "IMPLORE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PROCURE",
+          "answers": [
+            "get",
+            "show",
+            "buy"
+          ],
+          "word": "PROCURE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ALLOT",
+          "answers": [
+            "divide",
+            "distribute",
+            "desire"
+          ],
+          "word": "ALLOT",
+          "correct": "2"
+        },
+        {
+          "prompt": "BLASPHEME",
+          "answers": [
+            "insult",
+            "refuse",
+            "swear"
+          ],
+          "word": "BLASPHEME",
+          "correct": "1"
+        },
+        {
+          "prompt": "MELEE",
+          "answers": [
+            "joy",
+            "crowd",
+            "struggle"
+          ],
+          "word": "MELEE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PLACATE",
+          "answers": [
+            "trick",
+            "please",
+            "calm"
+          ],
+          "word": "PLACATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "VEHEMENT",
+          "answers": [
+            "passionate",
+            "enthusiastic",
+            "vain"
+          ],
+          "word": "VEHEMENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "STEADFAST",
+          "answers": [
+            "generous",
+            "faithful",
+            "firm"
+          ],
+          "word": "STEADFAST",
+          "correct": "0"
+        },
+        {
+          "prompt": "ALOOF",
+          "answers": [
+            "talkative",
+            "superior",
+            "indifferent"
+          ],
+          "word": "ALOOF",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

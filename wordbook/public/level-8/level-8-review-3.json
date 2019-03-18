@@ -1,0 +1,457 @@
+{
+  "wordList": [
+    {
+      "word": "ADJURE",
+      "answer": "adjured"
+    },
+    {
+      "word": "CALLOW",
+      "answer": "callow or ingenuous"
+    },
+    {
+      "word": "INGENUOUS",
+      "answer": "ingenuous"
+    },
+    {
+      "word": "OFFICIOUS",
+      "answer": "officious"
+    },
+    {
+      "word": "RECALCITRANT",
+      "answer": "recalcitrant"
+    },
+    {
+      "word": "ANIMUS",
+      "answer": "animus"
+    },
+    {
+      "word": "EPIGONE",
+      "answer": "epigones"
+    },
+    {
+      "word": "INSOUCIANT",
+      "answer": "insouciant"
+    },
+    {
+      "word": "PERTINACIOUS",
+      "answer": "pertinacious"
+    },
+    {
+      "word": "SOBRIQUET",
+      "answer": "sobriquet"
+    },
+    {
+      "word": "APPOSITE",
+      "answer": "apposite"
+    },
+    {
+      "word": "GAINSAY",
+      "answer": "gainsay"
+    },
+    {
+      "word": "MORIBUND",
+      "answer": "moribund"
+    },
+    {
+      "word": "PILEOUS",
+      "answer": "pileous"
+    },
+    {
+      "word": "SPATE",
+      "answer": "spate"
+    },
+    {
+      "word": "ATELIER",
+      "answer": "atelier"
+    },
+    {
+      "word": "GELID",
+      "answer": "gelid"
+    },
+    {
+      "word": "NUGATORY",
+      "answer": "nugatory"
+    },
+    {
+      "word": "PUNCTILIOUS",
+      "answer": "punctilious"
+    },
+    {
+      "word": "TRUCULENT",
+      "answer": "truculent or recalcitrant"
+    },
+    {
+      "word": "ASPERITY",
+      "answer": "asperity"
+    },
+    {
+      "word": "COUNTERPANE",
+      "answer": "counterpane"
+    },
+    {
+      "word": "EXTIRPATE",
+      "answer": "extirpate"
+    },
+    {
+      "word": "PROLIX",
+      "answer": "prolix"
+    },
+    {
+      "word": "SEDULOUS",
+      "answer": "sedulous"
+    },
+    {
+      "word": "BENIGHTED",
+      "answer": "benighted"
+    },
+    {
+      "word": "CUPIDITY",
+      "answer": "cupidity"
+    },
+    {
+      "word": "FEBRILE",
+      "answer": "febrile"
+    },
+    {
+      "word": "RATIOCINATION",
+      "answer": "ratiocination"
+    },
+    {
+      "word": "SENTIENT",
+      "answer": "sentient"
+    },
+    {
+      "word": "CAPTIOUS",
+      "answer": "captious"
+    },
+    {
+      "word": "DILATORY",
+      "answer": "dilatory"
+    },
+    {
+      "word": "FRIABLE",
+      "answer": "friable"
+    },
+    {
+      "word": "SACERDOTAL",
+      "answer": "sacerdotal"
+    },
+    {
+      "word": "TEMERITY",
+      "answer": "temerity"
+    },
+    {
+      "word": "COMITY",
+      "answer": "comity"
+    },
+    {
+      "word": "DOYEN",
+      "answer": "doyen"
+    },
+    {
+      "word": "LACUNA",
+      "answer": "lacuna"
+    },
+    {
+      "word": "SANGUINE",
+      "answer": "sanguine"
+    },
+    {
+      "word": "TURPITUDE",
+      "answer": "turpitude"
+    },
+    {
+      "word": "CONTUMACIOUS",
+      "answer": "contumacious"
+    },
+    {
+      "word": "EVANESCENT",
+      "answer": "evanescent"
+    },
+    {
+      "word": "NACREOUS",
+      "answer": "nacreous"
+    },
+    {
+      "word": "SATURNINE",
+      "answer": "saturnine"
+    },
+    {
+      "word": "UKASE",
+      "answer": "ukase"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The article was enhanced by the use of",
+      "part2": "quotations to illustrate the author's points.",
+      "correct": "apposite",
+      "word": "APPOSITE"
+    },
+    {
+      "part1": "The members of the club solemnly",
+      "part2": "Bill never to reveal their secret.",
+      "correct": "adjured",
+      "word": "ADJURE"
+    },
+    {
+      "part1": "The night air was so",
+      "part2": "we could feel it even through five layers of clothing.",
+      "correct": "gelid",
+      "word": "GELID"
+    },
+    {
+      "part1": "Even though Gwen tries to act",
+      "part2": ", we know she cares very deeply about what other people think.",
+      "correct": "insouciant",
+      "word": "INSOUCIANT"
+    },
+    {
+      "part1": "The artist worked all day long on the huge painting in his brightly lit",
+      "part2": ".",
+      "correct": "atelier",
+      "word": "ATELIER"
+    },
+    {
+      "part1": "The drunk became quite",
+      "part2": "when the police tried to arrest him, so they had to call for assistance.",
+      "correct": "truculent or recalcitrant",
+      "word": "TRUCULENT"
+    },
+    {
+      "part1": "The",
+      "part2": "young woman told him that she didn't know the first thing about typing, but wanted the job anyway.",
+      "correct": "ingenuous",
+      "word": "INGENUOUS"
+    },
+    {
+      "part1": "Her",
+      "part2": "toward doctors is so intense that she can't even speak to one at a party.",
+      "correct": "animus",
+      "word": "ANIMUS"
+    },
+    {
+      "part1": "The amazing new treatment turned the scalp from bald to",
+      "part2": "overnight.",
+      "correct": "pileous",
+      "word": "PILEOUS"
+    },
+    {
+      "part1": "The book's constant errors of fact make it",
+      "part2": "as a source of information.",
+      "correct": "nugatory",
+      "word": "NUGATORY"
+    },
+    {
+      "part1": "The servant is more formal and correct in his behavior than his easygoing employer.",
+      "correct": "punctilious",
+      "word": "PUNCTILIOUS"
+    },
+    {
+      "part1": "The great writer attracts many",
+      "part2": "who strive, without success, to imitate his style.",
+      "correct": "epigones",
+      "word": "EPIGONE"
+    },
+    {
+      "part1": "No one can",
+      "part2": "the importance of Shakespeare in English literature.",
+      "correct": "gainsay",
+      "word": "GAINSAY"
+    },
+    {
+      "part1": "Nothing could make the",
+      "part2": "workers return to the dangerous mine.",
+      "correct": "recalcitrant",
+      "word": "RECALCITRANT"
+    },
+    {
+      "part1": "The",
+      "part2": "new manager meddles in everyone's work, trying to show he knows what he is doing.",
+      "correct": "officious",
+      "word": "OFFICIOUS"
+    },
+    {
+      "part1": "The downtown district was",
+      "part2": "until federal funds were obtained to revitalize it.",
+      "correct": "moribund",
+      "word": "MORIBUND"
+    },
+    {
+      "part1": "The company received a(n)",
+      "part2": "of orders when it started advertising its new product.",
+      "correct": "spate",
+      "word": "SPATE"
+    },
+    {
+      "part1": "The",
+      "part2": "youth was unprepared for the sophistication and glamour of big-city life.",
+      "correct": "callow or ingenuous",
+      "word": "CALLOW"
+    },
+    {
+      "part1": "The",
+      "part2": "salesman called a dozen times trying to convince Jim to buy life insurance.",
+      "correct": "pertinacious",
+      "word": "PERTINACIOUS"
+    },
+    {
+      "part1": "Mark was from Texas, so it was natural that he would receive the",
+      "part2": "\"Tex.\"",
+      "correct": "sobriquet",
+      "word": "SOBRIQUET"
+    },
+    {
+      "part1": "Jim was",
+      "part2": "about doing his homework every night, and finally his hard work paid off when he got straight A's.",
+      "correct": "sedulous",
+      "word": "SEDULOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "natives still live in the Stone Age and know nothing of the civilized world.",
+      "correct": "benighted",
+      "word": "BENIGHTED"
+    },
+    {
+      "part1": "This plaster is too",
+      "part2": "; it crumbles as soon as you put any pressure on it.",
+      "correct": "friable",
+      "word": "FRIABLE"
+    },
+    {
+      "part1": "The fellow's",
+      "part2": "disposition makes him difficult to like; he is too cold and gloomy for most people.",
+      "correct": "saturnine",
+      "word": "SATURNINE"
+    },
+    {
+      "part1": "The aged",
+      "part2": "of South American writers was finally rewarded with the Nobel Prize.",
+      "correct": "doyen",
+      "word": "DOYEN"
+    },
+    {
+      "part1": "The priest's",
+      "part2": "duties include visiting the sick and burying the dead.",
+      "correct": "sacerdotal",
+      "word": "SACERDOTAL"
+    },
+    {
+      "part1": "The editor made",
+      "part2": "criticisms of insignificant details in the manuscript.",
+      "correct": "captious",
+      "word": "CAPTIOUS"
+    },
+    {
+      "part1": "The philosopher said that all",
+      "part2": "beings shared the same life force that enabled them to perceive their environment.",
+      "correct": "sentient",
+      "word": "SENTIENT"
+    },
+    {
+      "part1": "The",
+      "part2": "among these nations is based on mutual respect for each other's sovereignty.",
+      "correct": "comity",
+      "word": "COMITY"
+    },
+    {
+      "part1": "She admired the",
+      "part2": "luster of the pearl necklace.",
+      "correct": "nacreous",
+      "word": "NACREOUS"
+    },
+    {
+      "part1": "Simpson remarked with some",
+      "part2": "that if we didn't like it, we could get out.",
+      "correct": "asperity",
+      "word": "ASPERITY"
+    },
+    {
+      "part1": "Fame is",
+      "part2": "; everyone knows you today, and tomorrow you are forgotten.",
+      "correct": "evanescent",
+      "word": "EVANESCENT"
+    },
+    {
+      "part1": "I wish I had the",
+      "part2": "to tell my boss what I really think of him.",
+      "correct": "temerity",
+      "word": "TEMERITY"
+    },
+    {
+      "part1": "Their refusal to accept the decision of the court was considered",
+      "part2": "by many.",
+      "correct": "contumacious",
+      "word": "CONTUMACIOUS"
+    },
+    {
+      "part1": "His ignorance of early German silent films was the one",
+      "part2": "in his knowledge of the cinema.",
+      "correct": "lacuna",
+      "word": "LACUNA"
+    },
+    {
+      "part1": "They bought a beautiful quilted",
+      "part2": "for their bed.",
+      "correct": "counterpane",
+      "word": "COUNTERPANE"
+    },
+    {
+      "part1": "The dean expelled the student, citing her moral",
+      "part2": ".",
+      "correct": "turpitude",
+      "word": "TURPITUDE"
+    },
+    {
+      "part1": "Anne is a rather",
+      "part2": "correspondent; she uses any excuse to delay writing a letter.",
+      "correct": "dilatory",
+      "word": "DILATORY"
+    },
+    {
+      "part1": "The jewels aroused her",
+      "part2": "; she decided she would do anything to possess them.",
+      "correct": "cupidity",
+      "word": "CUPIDITY"
+    },
+    {
+      "part1": "The coach was",
+      "part2": "about our chances of winning; he said it was the easiest game on our schedule.",
+      "correct": "sanguine",
+      "word": "SANGUINE"
+    },
+    {
+      "part1": "The introduction is too",
+      "part2": "; the author should have cut unnecessary details.",
+      "correct": "prolix",
+      "word": "PROLIX"
+    },
+    {
+      "part1": "After considerable",
+      "part2": "the mathematician was able to solve the problem.",
+      "correct": "ratiocination",
+      "word": "RATIOCINATION"
+    },
+    {
+      "part1": "The",
+      "part2": "heat and redness of her face indicated that she was seriously ill.",
+      "correct": "febrile",
+      "word": "FEBRILE"
+    },
+    {
+      "part1": "The doctor said the proposed operation would",
+      "part2": "the cancer.",
+      "correct": "extirpate",
+      "word": "EXTIRPATE"
+    },
+    {
+      "part1": "After the accident the dean issued a(n)",
+      "part2": "banning motorcycles from the campus.",
+      "correct": "ukase",
+      "word": "UKASE"
+    }
+  ],
+  "type": "fitb",
+  "id": 3
+}

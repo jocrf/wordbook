@@ -1,0 +1,617 @@
+{
+  "title": "7.4",
+  "definitions": {
+    "ASCRIBE": {
+      "word": "ASCRIBE",
+      "phonetic": "(ÔøΩskrlb')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to attribute </p><p>To ASCRIBE something is to attribute or assign it as a cause or source. The word comes from the Latin <i class=“def-ital\">scribere</i>, to <i class=“def-ital\">write</i>, and originally meant “to add to a writing or enter in a list.” This Latin source is found in words like <i class=“def-ital\">prescribe</i> and <i class=“def-ital\">scribe</i>. Sometimes ASCRIBE still carries with it the sense of writing, in that it suggests the knowledge or authority of an expert. But ASCRIBE is often used interchangeably with the verb <i class=“def-ital\">attribute</i>. It is usually used with <i class=“def-ital\">to</i>. </p><p>“After careful examination, the scholar ASCRIBED the newly discovered diary to the second mate of the famous admiral.” </p><p>“He ASCRIBES his financial misfortunes to careless bookkeeping.” </p><p>Other forms of the word: ASCRIPTION, n.</p>"
+    },
+    "AUSPICIOUS": {
+      "word": "AUSPICIOUS",
+      "phonetic": "(o-spish'-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">favorable, propitious, fortunate </p><p>AUSPICIOUS comes from Latin words meaning “to look at birds,” and refers to the ancient Roman practice of telling the future by observing the flight of birds. Something that is AUSPICIOUS is a good omen; it augurs well for the future, usually because it is successful or fortunate itself. </p><p>“The singer’s debut was AUSPICIOUS; the critics said she had a great career ahead of her.” </p><p>“The first day of school was AUSPICIOUS; everything seemed to go well for Dale.” </p><p>“The day began AUSPICIOUSLY when Bill found a five-dollar bill on the sidewalk.”</p>"
+    },
+    "GLOWER": {
+      "word": "GLOWER",
+      "phonetic": "(glow'-ÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to scowl, frown </p><p>To GLOWER is to stare blackly, to look with sullen anger. It is usually followed by <i class=“def-ital\">at</i>. </p><p>“The professor GLOWERED at the student who dared to criticize his lecture.” </p><p>“The customer GLOWERED at the clerk and demanded his money back.” </p><p><i class=“def-ital\">Beam</i> is the most common wrong answer on the Pretest, probably because of the <i class=“def-ital\">glow</i> part of GLOWER. GLOWER is not related to the word <i class=“def-ital\">glow</i>, however. Notice that its pronunciation is different: GLOWER rhymes with <i class=“def-ital\">shower</i>.</p>"
+    },
+    "GUILE": {
+      "word": "GUILE",
+      "phonetic": "(gll)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">trickery, treachery, craftiness, duplicity </p><p>GUILE is treacherous cunning, the use of one’s cleverness in order to deceive. </p><p>“He used GUILE and deceit to worm his way into the king’s circle of advisors.” </p><p>“James is entirely without GUILE. He has never tried to trick or cheat anyone in his life.” </p><p><i class=“def-ital\">Evil</i> is frequently chosen as the synonym for GUILE by people who know that GUILE is a bad quality, but aren’t sure of its exact meaning. </p><p>Other forms of the word: GUILEFUL, adj. GUILELESS, adj.</p>"
+    },
+    "OBDURATE": {
+      "word": "OBDURATE",
+      "phonetic": "(ob'-dyU-rÔøΩt",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">stubborn, inflexible, unyielding, intractable </p><p>OBDURATE comes from the Latin word for <i class=“def-ital\">hard</i>, also the source for the word <i class=“def-ital\">durable</i>. Someone who is OBDURATE is hardened against any influence, especially appeals to reform or to be merciful. </p><p>“We begged the teacher to let us out of class early, but she was OBDURATE.” </p><p>“The OBDURATE criminal said he would never give up his life of crime.” </p><p>Other forms of the word: OBDURACY, n.</p>"
+    },
+    "PARITY": {
+      "word": "PARITY",
+      "phonetic": "(par'-ÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">equality, equivalence, correspondence </p><p>PARITY comes from a Latin word meaning <i class=“def-ital\">equal</i>, also the source of the English words <i class=“def-ital\">par</i> and <i class=“def-ital\">compare</i>. PARITY means <i class=“def-ital\">equality</i>. It is usually used in a technical sense about exact equivalence of value or amount, while the word <i class=“def-ital\">equality</i> often stresses the sense of equal rights. For example, PARITY is the equivalent in value of a sum of money as expressed in a different currency. </p><p>“The new soccer league’s aim was to achieve PARITY with the older league.” </p><p>“There was a lack of PARITY in the pay scales at the company: some people were paid a lot less than others for doing exactly the same kind of work.”</p>"
+    },
+    "PAUCITY": {
+      "word": "PAUCITY",
+      "phonetic": "(po'-sÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">scarcity, dearth, fewness </p><p>PAUCITY is smallness of number or amount, <i class=“def-ital\">scarcity</i>, <i class=“def-ital\">scantiness</i>. </p><p>“There was a PAUCITY of good actors at the tryout for the school play.” </p><p>“The PAUCITY of available funds will make it very difficult for us to complete the project on time.” </p><p>“There was no PAUCITY of advice for Joe about how to solve the problem, but finally he had to decide for himself.”</p>"
+    },
+    "TRANSGRESS": {
+      "word": "TRANSGRESS",
+      "phonetic": "(trans-gres')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go beyond a limit; to violate, break </p><p>TRANSGRESS comes from a Latin word meaning <i class=“def-ital\">go beyond</i> or <i class=“def-ital\">step across</i>.  The <i class=“def-ital\">gress</i> root is also foundin words like <i class=“def-ital\">progress</i>, <i class=“def-ital\">regress</i>, and <i class=“def-ital\">egress</i>. TRANSGRESS is usually used in a figurative sense, of going beyond some legal or moral limit. </p><p>“He admitted he had TRANSGRESSED the law, and was willing to take his punishment.” </p><p>The word is often used without a direct object, in which case it means to <i class=“def-ital\">sin</i> or <i class=“def-ital\">trespass</i>. </p><p>“According to her religion, she TRANSGRESSED whenever she drank coffee or liquor.” </p><p>The noun is TRANSGRESSION, which means a <i class=“def-ital\">violation</i> or <i class=“def-ital\">breach</i>. </p><p>“He knew that we would never forgive his countless TRANSGRESSIONS.</p><p>” TRANSGRESS is occasionally used about physically going beyond a limit or boundary, and this might suggest <i class=“def-ital\">advance</i> as a synonym on the Pretest. </p><p>Other forms of the word: TRANSGRESSION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">trans-</i> under Prefixes."
+      ]
+    },
+    "TRAVAIL": {
+      "word": "TRAVAIL",
+      "phonetic": "(trÔøΩvAI'",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">toil, labor; suffering, anguish </p><p>TRAVAIL is hard work, especially when accompanied by pain or suffering. It comes from a Latin word for a torture device. </p><p>“It must have taken years of TRAVAIL to build the pyramids.” </p><p>Sometimes the emphasis is so strongly on the suffering that this becomes more important to the word’s meaning than the labor. </p><p>“He recounted his family’s TRAVAILS during the long and dangerous trip across the plains.” </p><p>The most popular wrong answer on the Pretest is <i class=“def-ital\">triumph</i>, possibly because of a confusion of TRAVAIL with <i class=“def-ital\">prevail</i>.</p>"
+    },
+    "WAN": {
+      "word": "WAN",
+      "phonetic": "(won)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sickly, pale, pallid </p><p>WAN means “lacking color or vitality.” The word often suggests that this paleness is the result of sickness; these two ideas are of about equal importance to the word’s meaning. </p><p>“After her long illness Sheila looked WAN and haggard.” </p><p>“The child gave a WAN smile and said he was feeling a little better.”</p>"
+    },
+    "COMMISERATE": {
+      "word": "COMMISERATE",
+      "phonetic": "(kÔøΩmiz'-ÔøΩrAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to sympathize, condole </p><p> The <i class=“def-ital\">miser</i> part of COMMISERATE comes from the same Latin root as <i class=“def-ital\">misery</i> and <i class=“def-ital\">miserable</i>. To COMMISERATE with people is literally to feel miserable along with them. The word is applied to a feeling of sympathy or pity, especially when it is spoken or expressed publicly. It is usually followed by <i class=“def-ital\">with</i>. </p><p>“The police officer COMMISERATED with us over the loss of our valuables, but said there was nothing he could do.” </p><p>“I can’t really COMMISERATE with him because I don’t know why he’s so unhappy.” </p><p>“He COMMISERATED with me about my problems, but he could do nothing to help me solve them.” </p><p>Other forms of the word: COMMISERATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">com-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "DISCERN": {
+      "word": "DISCERN",
+      "phonetic": "(di-sÔøΩrn'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to notice, perceive, detect, distinguish </p><p>DISCERN comes from a Latin word meaning “to sift apart.”  DISCERN can be used about sight, and means to <i class=“def-ital\">make out</i> or <i class=“def-ital\">notice</i>, especially something that is far away or hard to see. </p><p>“We could barely DISCERN the ship’s sails in the distance.” </p><p>DISCERN is also used about the other senses. </p><p>“I could not DISCERN a great deal of difference between the two recordings of the piece.” </p><p>And it is used about recognizing or distinguishing something mentally. </p><p>“She DISCERNED that it would be difficult to get ahead in the company without more education.” </p><p>“I couldn’t DISCERN any sympathy in her attitude.” </p><p>Other forms of the word: DISCERNIBLE, adj. DISCERNING, adj. DISCERNMENT, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    },
+    "PONDEROUS": {
+      "word": "PONDEROUS",
+      "phonetic": "(pon'-dÔøΩrÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">heavy, massive, cumbersome; oppressive, dull </p><p>PONDEROUS comes from a Latin word meaning <i class=“def-ital\">weight</i>; it is related to the English word <i class=“def-ital\">pound</i>. The basic meaning of PONDEROUS is “having great weight,” <i class=“def-ital\">heavy</i>. The word especially emphasizes the clumsiness that results from this weight. </p><p>“The PONDEROUS old dictionary was so heavy the child could barely lift it from the shelf.” </p><p>In an extended sense, PONDEROUS is used about anything that is heavy for the mind or spirit; in this sense the word means <i class=“def-ital\">labored</i>, <i class=“def-ital\">dull</i>. </p><p>“The after-dinner speaker gave a long and PONDEROUS talk on the history of the Soviet Union’s fiscal policy.” </p><p>On the Pretest, many people chose <i class=“def-ital\">gloomy</i> as the meaning of PONDEROUS, probably through a vague understanding of this extended sense of PONDEROUS.</p>"
+    },
+    "SHIFTLESS": {
+      "word": "SHIFTLESS",
+      "phonetic": "(shift'-lÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">lazy, idle, lacking ambition </p><p>An old meaning of the word <i class=“def-ital\">shift</i> is <i class=“def-ital\">resourcefulness</i>. This sense can still be seen in the adjective <i class=“def-ital\">shifty</i>, which means <i class=“def-ital\">resourceful</i> in a bad sense, <i class=“def-ital\">tricky</i>, <i class=“def-ital\">cunning</i>. Someone who is SHIFTLESS lacks resourcefulness.  The word nowadays also emphasizes lack of ambition or energy. </p><p>“Dave is a SHIFTLESS fellow who will never amount to anything.” </p><p>“The bar was filled with SHIFTLESS men who had nothing better to do than drink all day.” </p><p>The most common wrong answer is <i class=“def-ital\">evil</i>, probably chosen by people who know that it is bad to be SHIFTLESS, but aren’t quite sure why.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-less</i> under Suffixes."
+      ]
+    },
+    "AMITY": {
+      "word": "AMITY",
+      "phonetic": "(am'-ÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">friendship, peaceful relations </p><p>AMITY comes from a Latin word meaning <i class=“def-ital\">friend</i>, also the source of <i class=“def-ital\">amiable</i> and <i class=“def-ital\">amicable</i>.  AMITY is <i class=“def-ital\">friendship</i>, especially between nations. The word often suggests that two people or groups get along despite at least potential sources of discord. </p><p>“The settlers and the natives lived together in comparative AMITY for several years.” </p><p>“The lack of AMITY among the South American countries provided a constant threat of war in the hemisphere.” </p><p>“They appeared to live in AMITY, but deep down they really disliked each other.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-y</i> under Suffixes."
+      ]
+    }
+  },
+  "id": "4",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "to ASCRIBE",
+          "answers": [
+            "propose",
+            "attribute",
+            "consider",
+            "command",
+            "write"
+          ],
+          "word": "ASCRIBE",
+          "correct": "attribute"
+        },
+        {
+          "prompt": "AUSPICIOUS",
+          "answers": [
+            "strange",
+            "unfortunate",
+            "curious",
+            "favorable",
+            "cautious"
+          ],
+          "word": "AUSPICIOUS",
+          "correct": "favorable"
+        },
+        {
+          "prompt": "to GLOWER",
+          "answers": [
+            "scowl",
+            "groan",
+            "beam",
+            "shrink",
+            "cry"
+          ],
+          "word": "GLOWER",
+          "correct": "scowl"
+        },
+        {
+          "prompt": "GUILE",
+          "answers": [
+            "evil",
+            "trickiness",
+            "innocence",
+            "energy",
+            "sorrow"
+          ],
+          "word": "GUILE",
+          "correct": "trickiness"
+        },
+        {
+          "prompt": "OBDURATE",
+          "answers": [
+            "stubborn",
+            "inferior",
+            "powerful",
+            "mistaken",
+            "angry"
+          ],
+          "word": "OBDURATE",
+          "correct": "stubborn"
+        },
+        {
+          "prompt": "PARITY",
+          "answers": [
+            "precision",
+            "normality",
+            "completeness",
+            "equality",
+            "humor"
+          ],
+          "word": "PARITY",
+          "correct": "equality"
+        },
+        {
+          "prompt": "PAUCITY",
+          "answers": [
+            "variety",
+            "truthfulness",
+            "capacity",
+            "abundance",
+            "scarcity"
+          ],
+          "word": "PAUCITY",
+          "correct": "scarcity"
+        },
+        {
+          "prompt": "to TRANSGRESS",
+          "answers": [
+            "obey",
+            "violate",
+            "carry",
+            "advance",
+            "disagree"
+          ],
+          "word": "TRANSGRESS",
+          "correct": "violate"
+        },
+        {
+          "prompt": "TRAVAIL",
+          "answers": [
+            "toil",
+            "triumph",
+            "secrecy",
+            "danger",
+            "hostility"
+          ],
+          "word": "TRAVAIL",
+          "correct": "toil"
+        },
+        {
+          "prompt": "WAN",
+          "answers": [
+            "secret",
+            "tiny",
+            "sickly",
+            "old",
+            "nice"
+          ],
+          "word": "WAN",
+          "correct": "sickly"
+        },
+        {
+          "prompt": "to COMMISERATE",
+          "answers": [
+            "agree",
+            "discuss",
+            "assist",
+            "suffer",
+            "sympathize"
+          ],
+          "word": "COMMISERATE",
+          "correct": "sympathize"
+        },
+        {
+          "prompt": "to DISCERN",
+          "answers": [
+            "learn",
+            "notice",
+            "forget",
+            "remove",
+            "expect"
+          ],
+          "word": "DISCERN",
+          "correct": "notice"
+        },
+        {
+          "prompt": "PONDEROUS",
+          "answers": [
+            "stupid",
+            "broad",
+            "dangerous",
+            "heavy",
+            "gloomy"
+          ],
+          "word": "PONDEROUS",
+          "correct": "heavy"
+        },
+        {
+          "prompt": "SHIFTLESS",
+          "answers": [
+            "lazy",
+            "busy",
+            "silent",
+            "evil",
+            "hungry"
+          ],
+          "word": "SHIFTLESS",
+          "correct": "lazy"
+        },
+        {
+          "prompt": "AMITY",
+          "answers": [
+            "friendship",
+            "hostility",
+            "dullness",
+            "fairness",
+            "cheerfulness"
+          ],
+          "word": "AMITY",
+          "correct": "friendship"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can filthiness sometimes be ASCRIBED to laziness?",
+          "word": "ASCRIBE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a fumble on the first play be an AUSPICIOUS start for a football team?",
+          "word": "AUSPICIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a friendly person frequently GLOWER?",
+          "word": "GLOWER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people consider GUILE to be offensive?",
+          "word": "GUILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do OBDURATE people change their minds easily?",
+          "word": "OBDURATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would an underpaid worker want to achieve PARITY with other workers?",
+          "word": "PARITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a PAUCITY of money make it difficult to pay bills?",
+          "word": "PAUCITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people usually feel guilty about committing a TRANSGRESSION?",
+          "word": "TRANSGRESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does TRAVAIL cause happiness?",
+          "word": "TRAVAIL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is Santa Claus usually pictured as being WAN?",
+          "word": "WAN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a self-centered person likely to COMMISERATE with others?",
+          "word": "COMMISERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can colors and shapes be DISCERNED?",
+          "word": "DISCERN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a comedy supposed to be PONDEROUS?",
+          "word": "PONDEROUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are business executives generally SHIFTLESS?",
+          "word": "SHIFTLESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does hatred contribute to AMITY?",
+          "word": "AMITY",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Bill ASCRIBED them that all was well and that he'd be home soon.",
+          "word": "ASCRIBE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Don't be AUSPICIOUS; the work will get done on time.",
+          "word": "AUSPICIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The teacher GLOWERED at the student who came to class late.",
+          "word": "GLOWER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The Greeks couldn't conquer Troy by force, so they decided to use GUILE.",
+          "word": "GUILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Mary Ann OBDURATELY refused to listen to our arguments.",
+          "word": "OBDURATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Johnson claimed there was a lack of PARITY in the agreement: he was giving up much more than he was getting.",
+          "word": "PARITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "There is no PAUCITY that we can go with you on Saturday. We're just too busy.",
+          "word": "PAUCITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The explorers TRANSGRESSED rapidly through the woods.",
+          "word": "TRANSGRESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The victorious general sent word of his TRAVAIL over the enemy.",
+          "word": "TRAVAIL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The WAN face of the spurned lover showed how much he was suffering.",
+          "word": "WAN",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher COMMISERATED her students by giving them so much homework.",
+          "word": "COMMISERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Bill's parents DISCERNED a subtle change in him when he came back from summer camp.",
+          "word": "DISCERN",
+          "correct": "true"
+        },
+        {
+          "prompt": "The book's theme seemed interesting, but the author's treatment of it was rather PONDEROUS.",
+          "word": "PONDEROUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "These SHIFTLESS teenagers dropped out of school and just hang around the park all day.",
+          "word": "SHIFTLESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The AMITY between the two nations was shattered by the dispute over who owned the tiny island.",
+          "word": "AMITY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ASCRIBE",
+          "answers": [
+            "assign",
+            "impute",
+            "transfer"
+          ],
+          "word": "ASCRIBE",
+          "correct": "2"
+        },
+        {
+          "prompt": "AUSPICIOUS",
+          "answers": [
+            "encouraging",
+            "fearful",
+            "favorable"
+          ],
+          "word": "AUSPICIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "GLOWER",
+          "answers": [
+            "stare",
+            "blare",
+            "glare"
+          ],
+          "word": "GLOWER",
+          "correct": "1"
+        },
+        {
+          "prompt": "GUILE",
+          "answers": [
+            "sincerity",
+            "cleverness",
+            "deception"
+          ],
+          "word": "GUILE",
+          "correct": "0"
+        },
+        {
+          "prompt": "OBDURATE",
+          "answers": [
+            "unyielding",
+            "unmerciful",
+            "unpopular"
+          ],
+          "word": "OBDURATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PARITY",
+          "answers": [
+            "mercy",
+            "fairness",
+            "equivalence"
+          ],
+          "word": "PARITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "PAUCITY",
+          "answers": [
+            "scarcity",
+            "glut",
+            "want"
+          ],
+          "word": "PAUCITY",
+          "correct": "1"
+        },
+        {
+          "prompt": "TRANSGRESS",
+          "answers": [
+            "misbehave",
+            "sin",
+            "travel"
+          ],
+          "word": "TRANSGRESS",
+          "correct": "2"
+        },
+        {
+          "prompt": "TRAVAIL",
+          "answers": [
+            "ordeal",
+            "suffering",
+            "exercise"
+          ],
+          "word": "TRAVAIL",
+          "correct": "2"
+        },
+        {
+          "prompt": "WAN",
+          "answers": [
+            "pallid",
+            "unhealthy",
+            "feverish"
+          ],
+          "word": "WAN",
+          "correct": "2"
+        },
+        {
+          "prompt": "COMMISERATE",
+          "answers": [
+            "understand",
+            "empathize",
+            "wish"
+          ],
+          "word": "COMMISERATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "DISCERN",
+          "answers": [
+            "observe",
+            "expect",
+            "detect"
+          ],
+          "word": "DISCERN",
+          "correct": "1"
+        },
+        {
+          "prompt": "PONDEROUS",
+          "answers": [
+            "massive",
+            "tumultuous",
+            "laborious"
+          ],
+          "word": "PONDEROUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "SHIFTLESS",
+          "answers": [
+            "recreational",
+            "lazy",
+            "slothful"
+          ],
+          "word": "SHIFTLESS",
+          "correct": "0"
+        },
+        {
+          "prompt": "AMITY",
+          "answers": [
+            "neighborliness",
+            "peace",
+            "distance"
+          ],
+          "word": "AMITY",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

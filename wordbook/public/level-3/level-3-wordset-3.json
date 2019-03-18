@@ -1,0 +1,608 @@
+{
+  "title": "3.3",
+  "definitions": {
+    "ROSTER": {
+      "word": "ROSTER",
+      "phonetic": "(ros'-t:;,r)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a list of names </p><p>A ROSTER is a <i class=“def-ital\">list</i>, especially a list of persons (as in the army) and the turns of duty each one will take. </p><p>“He studied the ROSTER to find out when he had to work that week.” </p><p>ROSTER can be used about any list of names. </p><p>“We are proud to add his name to our membership ROSTER.” </p><p>“They accidentally left his name off the team ROSTER.”</p>"
+    },
+    "INTERSECT": {
+      "word": "INTERSECT",
+      "phonetic": "(in-tÔøΩ-sekt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cross, cut across </p><p> The <i class=“def-ital\">sect</i> part of the word comes from a Latin word meaning to <i class=“def-ital\">cut</i>. To <i class=“def-ital\">bisect</i> something is to cut it in half. To <i class=“def-ital\">dissect</i> something is to cut it apart. To INTERSECT something is to cut across it, to divide it by passing across it. </p><p>“The river INTERSECTS the state.” </p><p>Two things INTERSECT when they cross at a point. </p><p>“The two roads INTERSECTED just north of the city.” </p><p>An INTERSECTION is a place where two things, especially roads, meet and cross. </p><p>“It was a dangerous INTERSECTION, with cars traveling quickly along both roads.” </p><p>Other forms of the word: INTERSECTION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">inter-</i> under Prefixes."
+      ]
+    },
+    "ENVELOP": {
+      "word": "ENVELOP",
+      "phonetic": "(en-vel'-ÔøΩ)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to surround, enclose </p><p>To ENVELOP something is to surround it completely, usually with clothing or a non-solid material. </p><p>“Thick smoke ENVELOPED the burning building, and we couldn’t see a thing.” </p><p>“She was completely ENVELOPED in blankets to keep from catching cold.” </p><p>“Dark clouds ENVELOPED the tops of the mountains.” </p><p>An ENVELOPE (pronounced phonetic: en’-vÔøΩIOp or phonetic: on’-vÔøΩIO.-’ is what you put a letter in to mail it. Its basic meaning is “something that ENVELOPS,” a <i class=“def-ital\">wrapper</i> or <i class=“def-ital\">container</i>. </p><p>Other forms of the word: ENVELOPE, n.</p>"
+    },
+    "FEEBLE": {
+      "word": "FEEBLE",
+      "phonetic": "(fE'-bÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">weak, frail; dim </p><p>FEEBLE means <i class=“def-ital\">very weak</i>, “lacking strength or energy.” The word is usually used about people and their actions. </p><p>“He became very FEEBLE in his old age and couldn’t do anything for himself.” </p><p>“She made a FEEBLE attempt to smile.” </p><p>“His arguments were extremely FEEBLE. Anyone could have pointed out the errors in his reasoning.” </p><p>When used about things, FEEBLE means <i class=“def-ital\">dim</i>, <i class=“def-ital\">faint</i>. </p><p>“The old record player could only produce a very FEEBLE sound.”</p>"
+    },
+    "SITE": {
+      "word": "SITE",
+      "phonetic": "(sit)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">location, position </p><p>The SITE of something is the exact place where it was, is, or will be located. </p><p>“They visited the SITE of the Battle of Gettysburg.” </p><p>“No one was allowed near the construction SITE while the building was going up.” </p><p>“This will be the SITE of the new city hall.” </p><p>On the Pretest, a common choice as a synonym for SITE is <i class=“def-ital\">view</i>. This is the result of confusion between SITE and <i class=“def-ital\">sight</i>, which sound the same but have different meanings. The <i class=“def-ital\">sight</i> of something is a <i class=“def-ital\">view</i> of it; the SITE of something is where it is located.</p>"
+    },
+    "INQUIRE": {
+      "word": "INQUIRE",
+      "phonetic": "(in-kwlr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to ask, ask about </p><p>INQUIRE means to <i class=“def-ital\">ask</i> or <i class=“def-ital\">ask about</i>, usually in a formal way about something specific. </p><p>“I wanted to INQUIRE about the job that was advertised in the newspaper.” </p><p>“She INQUIRED about my health.” </p><p>When used with <i class=“def-ital\">into</i>, INQUIRE means “to make an investigation.” </p><p>“The man from the insurance company INQUIRED into the condition of the car before the accident.” </p><p>An INQUIRY is the act of INQUIRING. </p><p>“When his polite INQUIRY brought no response, he demanded that his questions be answered.” </p><p>Other forms of the word: INQUIRY, n.</p>"
+    },
+    "FOE": {
+      "word": "FOE",
+      "phonetic": "(fO)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an enemy, opponent, adversary </p><p>FOE and <i class=“def-ital\">enemy</i> have just about the same meaning. <i class=“def-ital\">Enemy</i> is the more common word. FOE sometimes suggests a more actively dangerous person than <i class=“def-ital\">enemy</i>. </p><p>“We met our FOE in a fierce battle and we were victorious.” </p><p>“Even his greatest FOES admitted he was a generous man.” </p><p>“She was a bitter FOE of injustice.”</p>"
+    },
+    "INTENSE": {
+      "word": "INTENSE",
+      "phonetic": "(in-tens')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">extreme, high in degree </p><p>INTENSE comes from a Latin word meaning <i class=“def-ital\">stretched out</i>, <i class=“def-ital\">strained</i>, also the source of the English words <i class=“def-ital\">tense</i> and <i class=“def-ital\">tension</i>. INTENSE means “existing in an extreme or strained degree.” The word can be used in many different ways. </p><p>“The INTENSE light bothered his eyes.” </p><p>“There was an INTENSE hatred between the two men.” </p><p>“The cold was so INTENSE that we began to shiver.” </p><p>INTENSE is also used about people who are full of strong feelings. </p><p>“Jim is a very INTENSE young man. He is always getting excited about something.” </p><p>Other forms of the word: INTENSIFY, v. INTENSITY, n.</p>"
+    },
+    "JAVELIN": {
+      "word": "JAVELIN",
+      "phonetic": "(jav'-lÔøΩn",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a light spear </p><p>A JAVELIN is a light spear; it was originally used in hunting and in war, but now it is thrown for distance in track and field meets. </p><p>“He set a new world’s record for throwing the JAVELIN.” </p><p>Many people confuse JAVELIN with <i class=“def-ital\">knife</i>, probably because both are weapons.</p>"
+    },
+    "PERISH": {
+      "word": "PERISH",
+      "phonetic": "(per'-ish)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to die, be destroyed, pass away completely </p><p>To PERISH is to come to an end, to be destroyed, often in a violent way. The word is usually used about living things. </p><p>“Hundreds of small birds and animals PERISHED in the forest fire.” </p><p>“The entire group of mountain climbers PERISHED from the cold winds.” </p><p>“My cousin’s herd of horses PERISHED during the hurricane.” </p><p>PERISHABLE is the adjective from PERISH and means <i class=“def-ital\">easily ruined</i>, <i class=“def-ital\">quick to decay</i>. Generally, this form of the word is used when talking about food. </p><p>“Supermarkets must keep PERISHABLE items, such as milk and butter, in refrigerated cases.” </p><p>Other forms of the word: PERISHABLE, adj.</p>"
+    },
+    "LIBERATE": {
+      "word": "LIBERATE",
+      "phonetic": "(lib'-ÔøΩrAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to free, set free </p><p> LIBERATE comes from the same Latin word as <i class=“def-ital\">liberal</i> and <i class=“def-ital\">liberty</i>. All have to do with <i class=“def-ital\">freedom</i>. To LIBERATE someone is to <i class=“def-ital\">free</i> him. </p><p>“President Abraham Lincoln LIBERATED the slaves in the United States.” </p><p>“Winning this money will LIBERATE us from all our worries.” </p><p>Many people pick <i class=“def-ital\">rule</i> as the meaning of LIBERATE. <i class=“def-ital\">Rule</i> means just about the opposite of LIBERATE. </p><p>Other forms of the word: LIBERATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "PLEAD": {
+      "word": "PLEAD",
+      "phonetic": "(plEd)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to beg, appeal, implore, claim </p><p>The basic use of PLEAD is in law. To PLEAD in law is to make an answer to a legal charge: “to plead innocent,” “to plead insanity.” From this it has come to mean “to offer as an excuse.” </p><p>“When asked for an explanation of his behavior, he PLEADED ignorance.” </p><p>In a related sense PLEAD means “to argue strongly or ask earnestly,” to <i class=“def-ital\">beg</i>. </p><p>“He PLEADED for a little more time to finish the test.” </p><p>“Mary PLEADED with them to let her and her sister join the club.” </p><p>Other forms of the word: PLEA, n.</p>"
+    },
+    "RUPTURE": {
+      "word": "RUPTURE",
+      "phonetic": "(ruhp'-chor)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to burst, break </p><p>To RUPTURE something is to burst it, to break it apart. </p><p>“She RUPTURED a blood vessel and was rushed to the hospital.” </p><p>The word is often used about a break in the friendly relations between people or countries. </p><p>“The president’s angry speech RUPTURED the relations between the two countries.” </p><p>When something RUPTURES, it bursts. </p><p>“The weight of the water caused the dam to RUPTURE.” </p><p>“Her appendix RUPTURED, so the doctor operated immediately.” </p><p>RUPTURE is also a noun, meaning a <i class=“def-ital\">breaking apart</i> or <i class=“def-ital\">bursting</i>. </p><p>“The bitter disagreement caused a RUPTURE between the brothers that lasted for years.”</p>"
+    },
+    "SANITARY": {
+      "word": "SANITARY",
+      "phonetic": "(san'-o-ter-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">healthful, clean </p><p>SANITARY means “of or relating to health.” The word is especially used about things that are free of impurities that might cause disease. </p><p>“The hospital room must be completely SANITARY.” </p><p>“Conditions are not very SANITARY around here. We must clean everything thoroughly.”</p>"
+    },
+    "VIGOR": {
+      "word": "VIGOR",
+      "phonetic": "(vig'-or)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">power, strength, energy, pep </p><p>VIGOR is strength or energy that comes from good health. </p><p>“He attacked the problem with VIGOR.” </p><p>“Her constant VIGOR makes others tired; they wonder how she keeps it up.” </p><p>The adjective form of VIGOR is VIGOROUS, which means <i class=“def-ital\">strong</i> or <i class=“def-ital\">forceful</i>. </p><p>“The VIGOROUS series of exercises left her gasping for breath.” </p><p>Other forms of the word: VIGOROUS, adj.</p>"
+    }
+  },
+  "id": "3",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Looked at the ROSTER.",
+          "answers": [
+            "book",
+            "letter",
+            "sign",
+            "ruler",
+            "list"
+          ],
+          "word": "ROSTER",
+          "correct": "list"
+        },
+        {
+          "prompt": "INTERSECTED it.",
+          "answers": [
+            "cut across",
+            "entered",
+            "studied",
+            "drove by",
+            "opened"
+          ],
+          "word": "INTERSECT",
+          "correct": "cut across"
+        },
+        {
+          "prompt": "To ENVELOP them.",
+          "answers": [
+            "need",
+            "leave",
+            "search for",
+            "surround",
+            "approach"
+          ],
+          "word": "ENVELOP",
+          "correct": "surround"
+        },
+        {
+          "prompt": "FEEBLE voice.",
+          "answers": [
+            "loud",
+            "frightened",
+            "famous",
+            "weak",
+            "musical"
+          ],
+          "word": "FEEBLE",
+          "correct": "weak"
+        },
+        {
+          "prompt": "SITE of the library.",
+          "answers": [
+            "view",
+            "lay out",
+            "location",
+            "size",
+            "section"
+          ],
+          "word": "SITE",
+          "correct": "location"
+        },
+        {
+          "prompt": "If they INQUIRED.",
+          "answers": [
+            "wrote",
+            "asked",
+            "worried about",
+            "replied",
+            "decided"
+          ],
+          "word": "INQUIRE",
+          "correct": "asked"
+        },
+        {
+          "prompt": "He is the FOE.",
+          "answers": [
+            "boss",
+            "old friend",
+            "unhappy man",
+            "foreigner",
+            "enemy"
+          ],
+          "word": "FOE",
+          "correct": "enemy"
+        },
+        {
+          "prompt": "INTENSE interest.",
+          "answers": [
+            "extreme",
+            "little",
+            "future",
+            "usual",
+            "steady"
+          ],
+          "word": "INTENSE",
+          "correct": "extreme"
+        },
+        {
+          "prompt": "Picked up the JAVELIN.",
+          "answers": [
+            "sword",
+            "hammer",
+            "arrow",
+            "spear",
+            "knife"
+          ],
+          "word": "JAVELIN",
+          "correct": "spear"
+        },
+        {
+          "prompt": "They will PERISH.",
+          "answers": [
+            "grow",
+            "die",
+            "live",
+            "weaken",
+            "give up"
+          ],
+          "word": "PERISH",
+          "correct": "die"
+        },
+        {
+          "prompt": "Who will LIBERATE us?",
+          "answers": [
+            "pay",
+            "rule",
+            "free",
+            "love",
+            "allow"
+          ],
+          "word": "LIBERATE",
+          "correct": "free"
+        },
+        {
+          "prompt": "Willing to PLEAD.",
+          "answers": [
+            "say",
+            "suggest",
+            "listen",
+            "deny",
+            "beg"
+          ],
+          "word": "PLEAD",
+          "correct": "beg"
+        },
+        {
+          "prompt": "Expect it to RUPTURE.",
+          "answers": [
+            "leak",
+            "close",
+            "burn",
+            "burst",
+            "hurt"
+          ],
+          "word": "RUPTURE",
+          "correct": "burst"
+        },
+        {
+          "prompt": "SANITARY conditions.",
+          "answers": [
+            "healthful",
+            "filthy",
+            "proper",
+            "calm",
+            "wonderful"
+          ],
+          "word": "SANITARY",
+          "correct": "healthful"
+        },
+        {
+          "prompt": "Increased VIGOR.",
+          "answers": [
+            "weakness",
+            "power",
+            "difficulty",
+            "beauty",
+            "size"
+          ],
+          "word": "VIGOR",
+          "correct": "power"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Could a ROSTER be put on a bulletin board?",
+          "word": "ROSTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do parallel lines INTERSECT each other?",
+          "word": "INTERSECT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a burning log ENVELOPED in flames?",
+          "word": "ENVELOP",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a person with FEEBLE eyesight need glasses?",
+          "word": "FEEBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is New York City the SITE of the White House?",
+          "word": "SITE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do the police INQUIRE into crimes?",
+          "word": "INQUIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would you trust a FOE with your money?",
+          "word": "FOE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a toothache cause INTENSE pain?",
+          "word": "INTENSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you carry a JAVELIN in your hands?",
+          "word": "JAVELIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do flowers PERISH?",
+          "word": "PERISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a rat in a cage LIBERATED?",
+          "word": "LIBERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you PLEAD for something you are not supposed to have?",
+          "word": "PLEAD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could too much weight inside cause a bag to RUPTURE?",
+          "word": "RUPTURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is garbage SANITARY?",
+          "word": "SANITARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does eating good food and exercising help to increase your VIGOR?",
+          "word": "VIGOR",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The club added his name to the ROSTER when he paid his dues.",
+          "word": "ROSTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "They're building a motel close to the INTERSECTION of the two highways.",
+          "word": "INTERSECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The scientist ENVELOPED a new method for making steel.",
+          "word": "ENVELOP",
+          "correct": "false"
+        },
+        {
+          "prompt": "Tom's FEEBLE attempt at humor didn't make anyone laugh.",
+          "word": "FEEBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He climbed up the SITE of the house to the roof.",
+          "word": "SITE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He INQUIRED if there were any seats left on the airplane.",
+          "word": "INQUIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Although they were FOES they respected each other.",
+          "word": "FOE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bill was worried for a while, but then he became INTENSE when they told him everything was all right.",
+          "word": "INTENSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The warrior pulled back on the bow and shot the JAYELIN into the air.",
+          "word": "JAVELIN",
+          "correct": "false"
+        },
+        {
+          "prompt": "These vegetables are PERISHABLE; you must eat them soon or they will go bad.",
+          "word": "PERISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "The cruel king LIBERATED his nation with an iron hand.",
+          "word": "LIBERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "We PLEADED with the teacher not to give us any homework.",
+          "word": "PLEAD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Nothing anyone could say or do could mend the RUPTURE between them.",
+          "word": "RUPTURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "After years of treatment in the mental hospital he became SANITARY once again.",
+          "word": "SANITARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Bill VIGOROUSLY denied having taken the money.",
+          "word": "VIGOR",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ROSTER",
+          "answers": [
+            "name",
+            "list",
+            "idea"
+          ],
+          "word": "ROSTER",
+          "correct": "2"
+        },
+        {
+          "prompt": "INTERSECT",
+          "answers": [
+            "cross",
+            "widen",
+            "cut"
+          ],
+          "word": "INTERSECT",
+          "correct": "1"
+        },
+        {
+          "prompt": "ENVELOP",
+          "answers": [
+            "wrap",
+            "cover",
+            "lose"
+          ],
+          "word": "ENVELOP",
+          "correct": "2"
+        },
+        {
+          "prompt": "FEEBLE",
+          "answers": [
+            "weak",
+            "disgusted",
+            "sick"
+          ],
+          "word": "FEEBLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "SITE",
+          "answers": [
+            "purpose",
+            "place",
+            "position"
+          ],
+          "word": "SITE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INQUIRE",
+          "answers": [
+            "ask",
+            "wonder",
+            "question"
+          ],
+          "word": "INQUIRE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FOE",
+          "answers": [
+            "rival",
+            "friend",
+            "enemy"
+          ],
+          "word": "FOE",
+          "correct": "1"
+        },
+        {
+          "prompt": "INTENSE",
+          "answers": [
+            "mild",
+            "strong",
+            "high"
+          ],
+          "word": "INTENSE",
+          "correct": "0"
+        },
+        {
+          "prompt": "JAVELIN",
+          "answers": [
+            "spear",
+            "lance",
+            "knife"
+          ],
+          "word": "JAVELIN",
+          "correct": "2"
+        },
+        {
+          "prompt": "PERISH",
+          "answers": [
+            "decay",
+            "end",
+            "refuse"
+          ],
+          "word": "PERISH",
+          "correct": "2"
+        },
+        {
+          "prompt": "LIBERATE",
+          "answers": [
+            "free",
+            "delight",
+            "release"
+          ],
+          "word": "LIBERATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PLEAD",
+          "answers": [
+            "ask",
+            "demand",
+            "beg"
+          ],
+          "word": "PLEAD",
+          "correct": "1"
+        },
+        {
+          "prompt": "RUPTURE",
+          "answers": [
+            "stain",
+            "divide",
+            "tear"
+          ],
+          "word": "RUPTURE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SANITARY",
+          "answers": [
+            "cleanliness",
+            "beauty",
+            "health"
+          ],
+          "word": "SANITARY",
+          "correct": "1"
+        },
+        {
+          "prompt": "VIGOR",
+          "answers": [
+            "energy",
+            "strength",
+            "desire"
+          ],
+          "word": "VIGOR",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

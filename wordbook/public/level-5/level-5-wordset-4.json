@@ -1,0 +1,620 @@
+{
+  "title": "5.4",
+  "definitions": {
+    "INSTIGATE": {
+      "word": "INSTIGATE",
+      "phonetic": "(in'-st:;,-gAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to urge on, stir up, goad, incite </p><p>To INSTIGATE is to urge on, usually for some evil purpose. You can INSTIGATE a person. </p><p>“They INSTIGATED the people to riot in the streets.” </p><p>Or you can INSTIGATE an action. </p><p>“They INSTIGATED the war by spreading lies about both countries.” </p><p>“We must discover who INSTIGATED the plot to murder the king.” </p><p>Other forms of the word: INSTIGATION, n. INSTIGATOR, n.</p>"
+    },
+    "HAMPER": {
+      "word": "HAMPER",
+      "phonetic": "(ham'-pJr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to obstruct, block, impede, interfere with, hinder </p><p>To HAMPER something is to hold it back, to make diffi- culties for it in some way. To HAMPER is not to stop something completely, but simply to make it harder to do or finish. </p><p>“Their opposition HAMPERED our work but couldn’t prevent it.” </p><p>“The team was HAMPERED by a lack of time to prac- tice.” </p><p>“His quick temper doesn’t help him on the job; in fact, I think it HAMPERS his effectiveness.”</p>"
+    },
+    "ALLIANCE": {
+      "word": "ALLIANCE",
+      "phonetic": "(:;,-I1'-;;,ns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a union, association, connection </p><p>An ALLIANCE is a union of two or more people or countries who agree to act together for their mutual benefit. </p><p>“The North Atlantic Treaty Organization (NATO) is a military ALLIANCE of Western nations.” </p><p>“We couldn’t understand the sudden ALLIANCE be- tween David and Bob, because they had been un- friendly for years.” </p><p>An ALLY is someone who is in a union or association with another. </p><p>“We became ALLIES when we decided that neither of us could win without the other.” </p><p>“During World War II, the United States and Great Britain were ALLIES.” Other forms of the word: ALLY, n., v.</p>"
+    },
+    "BOMBARD": {
+      "word": "BOMBARD",
+      "phonetic": "(born-bahrd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shell </p><p>BOMBARD comes from the word BOMB and means “to attack with explosive weapons,” to <i class=“def-ital\">shell.</i> </p><p>“The enemy troops BOMBARDED the building with hand grenades.” </p><p>“The battleships BOMBARDED several towns along the coast.” </p><p>BOMBARD can also be used in a more general sense to mean “to attack vigorously.” </p><p>“The teacher was BOMBARDED with questions about the final exam.” </p><p>“The sanitation department was BOMBARDED with complaints when its workers went on strike.” </p><p>BOMBARDMENT is the act of BOMBARDING. </p><p>“The entire city was a mass of crumbling ruins as a result of the BOMBARDMENT by enemy aircraft.” </p><p>Other forms of the word: BOMBARDMENT, n.</p>"
+    },
+    "LAPSE": {
+      "word": "LAPSE",
+      "phonetic": "(laps)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a slight error, slip; a fall, decline; a passing of time </p><p>LAPSE comes from a Latin word meaning to <i class=“def-ital\">fall,</i> also the source of the words <i class=“def-ital\">collapse, relapse,</i> and <i class=“def-ital\">elapse.</i> LAPSE is used in several different senses. A LAPSE is a slight mistake or slip. </p><p>“There were a few LAPSES in his performance, but overall it was quite good.” </p><p>“He had a sudden memory LAPSE and could not re- call his friend’s name.” </p><p>A LAPSE is also a falling or decline to a lower degree or standard. </p><p>“After they behaved well all day there was a brief LAPSE into their former rudeness.” </p><p>It is also a period of time that has passed, an interval. </p><p>“There was a LAPSE of ten minutes before they started the show again.”</p>"
+    },
+    "IMPOVERISH": {
+      "word": "IMPOVERISH",
+      "phonetic": "(im-pov'-rish)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make poor, reduce to poverty </p><p>IMPOVERISH comes from the Latin word for poor, also the source of the English word <i class=“def-ital\">poverty.</i> To IMPOVERISH someone is to make him very poor. </p><p>“The Depression IMPOVERISHED many families.” </p><p>You can IMPOVERISH something by removing its strength, richness, or other good qualities. </p><p>“This town will be IMPOVERISHED by the loss of these two fine men.” </p><p>“The soil was IMPOVERISHED by planting the same crops year after year.” </p><p>IMPOVERISH is often used in the form of an adjective, IMPOVERISHED. </p><p>“The IMPOVERISHED farmers asked for loans so that they could keep their land.” </p><p>Other forms of the word: IMPOVERISHED, adj.</p>"
+    },
+    "EXCAVATE": {
+      "word": "EXCAVATE",
+      "phonetic": "(eks'-kÔøΩvAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to dig out, hollow out, unearth </p><p> To EXCAVATE something is to make a <i class=“def-ital\">cave</i> out of it, to hollow it out, to remove the earth from it. </p><p>“They EXCAVATED a large area for the foundation of the building.” </p><p>“WE EXCAVATED a long tunnel through the moun- tain.” </p><p>EXCAVATE is also used in a slightly different sense, to mean “to uncover by digging.” </p><p>“The archaeologists EXCAVATED the ancient city, which had been buried for thousands of years.” </p><p>An EXCAVATION is the act of EXCAVATING, or the hole made by EXCAVATING. </p><p>“They examined the entire EXCAVATION before al- lowing the engineers to complete the tunnel.” </p><p>Other forms of the word: EXCAVATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">ex-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "DEEM": {
+      "word": "DEEM",
+      "phonetic": "(dEm)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to consider, believe, think </p><p>DEEM means “to have as an opinion,” to <i class=“def-ital\">consider</i> or <i class=“def-ital\">believe.</i> </p><p>“They DEEM him the best person for the job.” </p><p>“I DEEM it best that I continue in school rather than go to work right away.” </p><p>“She DEEMS it her duty to help.” </p><p>Usage: DEEM is a rather formal word, and would not be used often in ordinary conversation.</p>"
+    },
+    "UNRULY": {
+      "word": "UNRULY",
+      "phonetic": "(uhn-rU'-IE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wild, disorderly, uncontrollable </p><p>The basic meaning of UNRULY is “not obeying the rules.”  Usually the word is ap- plied to people who are wild or difficult to control. </p><p>“After two hours of sitting quietly and listening to the speech, the children started to become UNRULY.” </p><p>“The UNRULY mob shouted and jeered at the police- men who were trying to keep order.” </p><p>“These children are not evil, just excited and UNRULY.” </p><p>Many people think UNRULY means <i class=“def-ital\">angry.</i> The two words are close in meaning, but someone could be disor- derly without being <i class=“def-ital\">angry.</i></p>",
+      "prefix": [
+        "See <i class=“def-ital\">un-</i> under Prefixes."
+      ]
+    },
+    "INFILTRATE": {
+      "word": "INFILTRATE",
+      "phonetic": "(in'-fil-trAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to pass into or through by filtering </p><p>A <i class=“def-ital\">filter</i> is an article or substance which allows certain things to pass through it and keeps out others. A cigarette filter, for example, lets smoke through but keeps out some impurities from the tobacco. </p><p>To INFILTRATE is to pass into something through a filter, or as if through a filter.  The word is often used about soldiers entering enemy territory in small groups through weak points in the enemy defenses. </p><p>“The general decided to INFILTRATE enemy territory rather than to launch a full-scale attack.” </p><p>INFILTRATE is used generally about people entering someplace or something secretly. </p><p>“The FBI agent INFILTRATED the terrorist group.” </p><p>“He believed the organization had been INFILTRATED by Communist spies.” </p><p>Other forms of the word: INFILTRATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-1</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "HUMILITY": {
+      "word": "HUMILITY",
+      "phonetic": "(hyU-mil'-ÔøΩ-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">modesty, lack of pride </p><p>HUMILITY comes from the adjective HUMBLE. A HUMBLE person has a low or modest opinion of himself, is not proud or self-important. HUMILITY is the quality of being HUMBLE.  </p><p>“Her HUMILITY was genuine. She really didn’t think she was very important.” </p><p>“We all felt greater HUMILITY after meeting this brilliant and saintly man.” </p><p>“With deep HUMILITY he said that other people deserved the award more than he.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ity</i> under Suffixes."
+      ]
+    },
+    "ESPIONAGE": {
+      "word": "ESPIONAGE",
+      "phonetic": "(es'-pE-ÔøΩ-nahzh)",
+      "pos": "n.,",
+      "deftext": "<p class=\"definition\">adj.: spying, the use of spies </p><p>ESPIONAGE is from a French word meaning to <i class=“def-ital\">spy.</i> ESPIONAGE is <i class=“def-ital\">spying,</i> the secret observation of people, governments, and the like. </p><p>“The Russians accused him of ESPIONAGE.” </p><p>“They set up a large network of ESPIONAGE agents.” </p><p>ESPIONAGE can be used about the actual spying itself, or the general system of using spies to collect information. </p><p>“Their ESPIONAGE system was good at uncovering information but bad at understanding it.”</p>"
+    },
+    "DISPATCH": {
+      "word": "DISPATCH",
+      "phonetic": "(dis-pach')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to send, send away; to get through or done; to kill </p><p>To DISPATCH something is to send it away, usually quickly or for a special purpose.  </p><p>“He DISPATCHED a telegram reporting the king’s death.” </p><p>“The police DISPATCHED a patrol car to the scene of the robbery.” </p><p>The word can also mean “to get through quickly” and is used about things like work or food. </p><p>“He DISPATCHED the first job in under an hour and started immediately on the second.” </p><p>In a special sense, DISPATCH can also mean to <i class=“def-ital\">kill,</i> especially rapidly and efficiently. “The executioner DISPATCHED him with one blow of the ax.” </p><p>Usage: DISPATCH is sometimes spelled DESPATCH.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    },
+    "CIVILITY": {
+      "word": "CIVILITY",
+      "phonetic": "(sÔøΩ-vil'-ÔøΩ-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">politeness, courtesy </p><p>To be CIVIL is to be polite. The word often suggests merely adequate politeness rather than great courtesy. </p><p>“It was all he could do to be CIVIL with the rude cus- tomers.” </p><p>CIVILITY is the state of being CIVIL, <i class=“def-ital\">politeness.</i>  </p><p>“She greeted the stranger with CIVILITY but without enthusiasm.” </p><p>“We admired his CIVILITY toward people he hated.” </p><p>CIVILITIES, the plural form, are polite acts or expres- sions. </p><p>“The two men exchanged CIVILITIES and then got quickly down to work.” </p><p><i class=“def-ital\">Patience</i> is the most commonly chosen incorrect answer. CIVILITY might include <i class=“def-ital\">patience,</i> but the two words aren’t synonyms. Other forms of the word: CIVIL, adj.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ity</i> under Suffixes."
+      ]
+    },
+    "RAUCOUS": {
+      "word": "RAUCOUS",
+      "phonetic": "(ro'-kÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">harsh, hoarse, grating RAUCOUS is used mainly about sounds. The word means “disagreeably loud and harsh.” It often suggests that this loud noise is the result of disorderly behavior. </p><p>“We listened to the RAUCOUS noise of the crows outside our window.” </p><p>“The neighbors complained about the RAUCOUS party across the hall.” </p><p>“The RAUCOUS laughter stopped suddenly when the teacher entered the room.” </p><p>The most commonly chosen wrong answer on the Pretest is deep. <i class=“def-ital\">Deep</i> can also be used about sounds and voices, but deep sounds are not always loud and grating.</p>"
+    }
+  },
+  "id": "4",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "INSTIGATE the violence.",
+          "answers": [
+            "end",
+            "increase",
+            "look into",
+            "stir up",
+            "join in"
+          ],
+          "word": "INSTIGATE",
+          "correct": "stir up"
+        },
+        {
+          "prompt": "To HAMPER it.",
+          "answers": [
+            "forbid",
+            "block",
+            "help",
+            "inspect",
+            "compliment"
+          ],
+          "word": "HAMPER",
+          "correct": "block"
+        },
+        {
+          "prompt": "Unusual ALLIANCE.",
+          "answers": [
+            "delay",
+            "part",
+            "meeting",
+            "breakup",
+            "union"
+          ],
+          "word": "ALLIANCE",
+          "correct": "union"
+        },
+        {
+          "prompt": "BOMBARD the city.",
+          "answers": [
+            "shell",
+            "flood",
+            "enter",
+            "build",
+            "guard"
+          ],
+          "word": "BOMBARD",
+          "correct": "shell"
+        },
+        {
+          "prompt": "An occasional LAPSE.",
+          "answers": [
+            "remark",
+            "victory",
+            "error",
+            "crime",
+            "criticism"
+          ],
+          "word": "LAPSE",
+          "correct": "error"
+        },
+        {
+          "prompt": "IMPOVERISHED areas.",
+          "answers": [
+            "wasteful",
+            "ugly",
+            "poor",
+            "rich",
+            "empty"
+          ],
+          "word": "IMPOVERISH",
+          "correct": "poor"
+        },
+        {
+          "prompt": "EXCAVATE the tomb.",
+          "answers": [
+            "cover",
+            "build",
+            "discover",
+            "dig out",
+            "restore"
+          ],
+          "word": "EXCAVATE",
+          "correct": "dig out"
+        },
+        {
+          "prompt": "We DEEM it to be unnecessary.",
+          "answers": [
+            "consider",
+            "wish",
+            "expect",
+            "like",
+            "remember"
+          ],
+          "word": "DEEM",
+          "correct": "consider"
+        },
+        {
+          "prompt": "UNRULY spectators.",
+          "answers": [
+            "unexcited",
+            "angry",
+            "wild",
+            "late",
+            "unfriendly"
+          ],
+          "word": "UNRULY",
+          "correct": "wild"
+        },
+        {
+          "prompt": "INFILTRATED enemy territory.",
+          "answers": [
+            "sealed off",
+            "attacked",
+            "passed into",
+            "sailed around",
+            "blew up"
+          ],
+          "word": "INFILTRATE",
+          "correct": "passed into"
+        },
+        {
+          "prompt": "Admired his HUMILITY.",
+          "answers": [
+            "quietness",
+            "usefulness",
+            "confidence",
+            "calmness",
+            "modesty"
+          ],
+          "word": "HUMILITY",
+          "correct": "modesty"
+        },
+        {
+          "prompt": "A case of ESPIONAGE.",
+          "answers": [
+            "spying",
+            "lying",
+            "stealing",
+            "destruction",
+            "murder"
+          ],
+          "word": "ESPIONAGE",
+          "correct": "spying"
+        },
+        {
+          "prompt": "DISPATCH them.",
+          "answers": [
+            "ruin",
+            "sell",
+            "call for",
+            "send",
+            "lead"
+          ],
+          "word": "DISPATCH",
+          "correct": "send"
+        },
+        {
+          "prompt": "Treated with CIVILITY.",
+          "answers": [
+            "amusement",
+            "love",
+            "patience",
+            "politeness",
+            "rudeness"
+          ],
+          "word": "CIVILITY",
+          "correct": "politeness"
+        },
+        {
+          "prompt": "RAUCOUS voices.",
+          "answers": [
+            "deep",
+            "funny",
+            "harsh",
+            "soft",
+            "far-off"
+          ],
+          "word": "RAUCOUS",
+          "correct": "harsh"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do the police usually INSTIGATE crimes?",
+          "word": "INSTIGATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would wearing mittens HAMPER a person who is trying to play the guitar?",
+          "word": "HAMPER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do ALLIES fight against each other?",
+          "word": "ALLIANCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can someone be BOMBARDED with requests?",
+          "word": "BOMBARD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a \"slip of the tongue\" be a LAPSE?",
+          "word": "LAPSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an IMPOVERISHED area be quite wealthy?",
+          "word": "IMPOVERISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a shovel be used in making an EXCAVATION?",
+          "word": "EXCAVATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "If someone DEEMS a book to be terrible, does he dislike it?",
+          "word": "DEEM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are UNRULY children quiet and well-behaved?",
+          "word": "UNRULY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would it be easy to INFILTRATE a place that was well-guarded?",
+          "word": "INFILTRATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most people admire HUMILITY?",
+          "word": "HUMILITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do countries practice ESPIONAGE during wartime?",
+          "word": "ESPIONAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you DISPATCH a letter?",
+          "word": "DISPATCH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most salesmen try to be CIVIL with their customers?",
+          "word": "CIVILITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can laughter be RAUCOUS?",
+          "word": "RAUCOUS",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The protest group INSTIGATED the demonstration against the new tax.",
+          "word": "INSTIGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was HAMPERED by his inability to read.",
+          "word": "HAMPER",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was only a temporary ALLIANCE; when the battle was over they went back to being enemies.",
+          "word": "ALLIANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The company BOMBARDED him with letters demanding that he pay his bills.",
+          "word": "BOMBARD",
+          "correct": "true"
+        },
+        {
+          "prompt": "After a LAPSE of three years he started to skate again.",
+          "word": "LAPSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We IMPOVERISHED them not to come with us.",
+          "word": "IMPOVERISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "They EXCAVATED a tomb that was thousands of years old.",
+          "word": "EXCAVATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher DEEMED him the best student in the school.",
+          "word": "DEEM",
+          "correct": "true"
+        },
+        {
+          "prompt": "The UNRULY crowd refused to obey the police officers.",
+          "word": "UNRULY",
+          "correct": "true"
+        },
+        {
+          "prompt": "He INFILTRATED his father's wallet looking for money.",
+          "word": "INFILTRATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He had a great sense of HUMILITY; he could make us laugh any time he wanted.",
+          "word": "HUMILITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The enemy bribed him to become an ESPIONAGE agent.",
+          "word": "ESPIONAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The newspaper DISPATCHED a photographer to take pictures of the event.",
+          "word": "DISPATCH",
+          "correct": "true"
+        },
+        {
+          "prompt": "The soldiers ordered all the CIVILITY to leave the area at once.",
+          "word": "CIVILITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "He ran his hands over the cold, RAUCOUS sides ofthe cave.",
+          "word": "RAUCOUS",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "INSTIGATE",
+          "answers": [
+            "start",
+            "urge",
+            "expect"
+          ],
+          "word": "INSTIGATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "HAMPER",
+          "answers": [
+            "bother",
+            "hurt",
+            "discover"
+          ],
+          "word": "HAMPER",
+          "correct": "2"
+        },
+        {
+          "prompt": "ALLIANCE",
+          "answers": [
+            "friendship",
+            "hope",
+            "assistance"
+          ],
+          "word": "ALLIANCE",
+          "correct": "1"
+        },
+        {
+          "prompt": "BOMBARD",
+          "answers": [
+            "attack",
+            "shell",
+            "defend"
+          ],
+          "word": "BOMBARD",
+          "correct": "2"
+        },
+        {
+          "prompt": "LAPSE",
+          "answers": [
+            "fall",
+            "slip",
+            "shake"
+          ],
+          "word": "LAPSE",
+          "correct": "2"
+        },
+        {
+          "prompt": "IMPOVERISH",
+          "answers": [
+            "terrify",
+            "beggar",
+            "weaken"
+          ],
+          "word": "IMPOVERISH",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXCAVATE",
+          "answers": [
+            "bury",
+            "dig",
+            "uncover"
+          ],
+          "word": "EXCAVATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DEEM",
+          "answers": [
+            "wonder",
+            "believe",
+            "decide"
+          ],
+          "word": "DEEM",
+          "correct": "0"
+        },
+        {
+          "prompt": "UNRULY",
+          "answers": [
+            "quiet",
+            "disorderly",
+            "disobedient"
+          ],
+          "word": "UNRULY",
+          "correct": "0"
+        },
+        {
+          "prompt": "INFILTRATE",
+          "answers": [
+            "enter",
+            "penetrate",
+            "connect"
+          ],
+          "word": "INFILTRATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "HUMILITY",
+          "answers": [
+            "meekness",
+            "happiness",
+            "modesty"
+          ],
+          "word": "HUMILITY",
+          "correct": "1"
+        },
+        {
+          "prompt": "ESPIONAGE",
+          "answers": [
+            "combat",
+            "secrecy",
+            "information"
+          ],
+          "word": "ESPIONAGE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISPATCH",
+          "answers": [
+            "kill",
+            "transmit",
+            "find"
+          ],
+          "word": "DISPATCH",
+          "correct": "2"
+        },
+        {
+          "prompt": "CIVILITY",
+          "answers": [
+            "permission",
+            "friendliness",
+            "graciousness"
+          ],
+          "word": "CIVILITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "RAUCOUS",
+          "answers": [
+            "rough",
+            "loud",
+            "weird"
+          ],
+          "word": "RAUCOUS",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

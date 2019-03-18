@@ -1,0 +1,605 @@
+{
+  "title": "7.6",
+  "definitions": {
+    "INTIMATION": {
+      "word": "INTIMATION",
+      "phonetic": "(in-ta-mA'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a suggestion, hint </p><p>To INTIMATE (in’-tQ-mAt) something is to communicate it subtly and indirectly, usually in order to be discreet rather than to be misleading. </p><p>“Janice INTIMATED that she might be busy that night and that Bill should find another date for the party.” </p><p>INTIMATION is the noun form of INTIMATE. </p><p>“There was no INTIMATION of wrongdoing in the report; it merely stated that standard procedures had not been followed.” </p><p>“We were all worried by the INTIMATION that John’s inquiry was more serious than we had thought.” </p><p>Other forms of the word: INTIMATE, v.</p>"
+    },
+    "INVIOLATE": {
+      "word": "INVIOLATE",
+      "phonetic": "(in-vl'-a-lit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">intact, undisturbed, unprofaned </p><p>One meaning of <i class=“def-ital\">violate</i> is to <i class=“def-ital\">harm</i> or <i class=“def-ital\">disturb</i>, as in the sentence, “The presence of the unbeliever <i class=“def-ital\">violated</i> the sacredness of the temple.” </p><p>Something that is INVIOLATE has <i class=“def-ital\">not</i> been violated in this sense.  The word is used about people, objects, institutions, and the like that are free from being attacked or profaned. </p><p>“The enemy bombers destroyed most of the city, but hospitals and churches were left INVIOLATE.” </p><p>“The president said he would cut the budget, but that Social Security would be INVIOLATE.” </p><p>“This promise must be kept INVIOLATE; if you break it, you will be punished.” </p><p>The most common wrong answer on the Pretest is <i class=“def-ital\">injured</i>, probably chosen because of <i class=“def-ital\">violate</i>.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "LUMINARY": {
+      "word": "LUMINARY",
+      "phonetic": "(IU'-mÔøΩner-E)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a celebrity, notable, leading light </p><p>LUMINARY is derived from a Latin word for <i class=“def-ital\">light</i>, also the source of <i class=“def-ital\">luminous</i> and <i class=“def-ital\">illuminate</i>. A LUMINARY is a celestial body, such as the sun, that gives light. But the word is usually used in a figurative sense of a person who is eminent in his or her field, a “leading light.” </p><p>“All the greatest LUMINARIES of the literary world were at the dinner.” </p><p>“The medical society was astonished by the bitter disagreement between the two LUMINARIES of the profession.” </p><p>“She was at best a minor LUMINARY in the galaxy of Hollywood stars.”</p>"
+    },
+    "PANACHE": {
+      "word": "PANACHE",
+      "phonetic": "(pa-nash'",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">flair, verve, dash, swagger </p><p>The basic meaning of PANACHE is “a plume of feathers worn as an ornament on a helmet or cap.” </p><p>From this it has come to be used for style or flair, such as would be demonstrated by wearing a PANACHE. </p><p>“She did everything with a little bit of PANACHE. She arrived at her college reunion in a hot air balloon.” </p><p>“You should dress with more PANACHE. The gray business suits and dark ties you wear are just too dull.” </p><p>“The singer is quite talented, but lacks the PANACHE that would make audiences really excited.”</p>"
+    },
+    "PARRY": {
+      "word": "PARRY",
+      "phonetic": "(par'-E)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to ward off, deflect, evade </p><p>To PARRY something-a blow or a thrust with a sword, for example-is to ward it off. </p><p>“The boxer was unable to PARRY his opponent’s barrage of jabs.” </p><p>“The fencer easily PARRIED his opponent’s feeble thrusts.” </p><p>PARRY is often used about nonphysical kinds of warding off. </p><p>“The politician skillfully PARRIED the reporter’s probing questions.” </p><p>“It is useless to try to PARRY his demands; let’s just give in to them.” </p><p>PARRY is also a noun. </p><p>“The president was an expert in the thrust and PARRY of these press conferences.”</p>"
+    },
+    "SURREPTITIOUS": {
+      "word": "SURREPTITIOUS",
+      "phonetic": "(ser-ÔøΩp-tish'-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">secret, clandestine, stealthy, covert </p><p>SURREPTITIOUS means “done in a secret or underhanded manner,” usually because the action is felt to be improper. </p><p>“Because of their SURREPTITIOUS manner, we knew they were up to no good.” </p><p>“The shoplifter SURREPTITIOUSLY placed the bracelet into her bag.” </p><p>“The conservative professor occasionally indulged his SURREPTITIOUS fondness for disco dancing.”</p>"
+    },
+    "UPBRAID": {
+      "word": "UPBRAID",
+      "phonetic": "(uhp-brAd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to scold, censure, reprove </p><p>UPBRAID comes from an Old English word meaning “to throw up against,” and means “to scold severely, to reprove vehemently.” The word suggests a formal criticism, usually by a superior or an official. </p><p>“The teacher UPBRAIDED the students for smoking in the corridor.” </p><p>“The policeman UPBRAIDED the motorist for disregarding the safety of others.” </p><p>“The boys were UPBRAIDED by the lady when they tossed the empty cans on her lawn.”</p>"
+    },
+    "DISPARATE": {
+      "word": "DISPARATE",
+      "phonetic": "(dis'-pÔøΩr-it",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unlike, dissimilar, distinct, different, diverse </p><p>DISPARATE comes from the Latin verb <i class=“def-ital\">parare</i>, meaning to <i class=“def-ital\">prepare</i>, and the prefix <i class=“def-ital\">dis-</i>, which in this case means <i class=“def-ital\">apart</i>. DISPARATE now emphasizes the <i class=“def-ital\">apart</i> rather than the <i class=“def-ital\">prepare</i> of its derivation, and means “completely different, markedly dissimilar.” </p><p>“The students come from many DISPARATE backgrounds: some rich, some poor, some raised strictly, others given a great deal of freedom.” </p><p>“The artist created strange sculptures from such DISPARATE elements as old tires and parts of machines.” </p><p>The noun DISPARITY means difference, and is applied particularly to inequality of age or wealth. </p><p>“If they are truly in love, the DISPARITY between their ages will not matter.” </p><p>Other forms of the word: DISPARITY, n.</p>"
+    },
+    "PECUNIARY": {
+      "word": "PECUNIARY",
+      "phonetic": "(pi-kyU'-nE-er-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">monetary, financial </p><p>PECUNIARY comes from the Latin word for <i class=“def-ital\">money</i>, also the source of the word <i class=“def-ital\">impecunious</i>, which means “lacking money.” PECUNIARY means “relating to or consisting of money.” </p><p>It is usually used with reference to small- scale or practical matters dealing with money. </p><p>“Alice didn’t help us out of friendship but from a PECUNIARY motive-she knew we would pay her.” </p><p>“There is psychological satisfaction to be gained from this job, but the PECUNIARY rewards are slight.” </p><p>“Mr. Micawber was always optimistic despite his PECUNIARY difficulties.”</p>"
+    },
+    "PROVISO": {
+      "word": "PROVISO",
+      "phonetic": "(prÔøΩvl'-zO)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a stipulation, condition, reservation, provision </p><p>A PROVISO is a clause in a contract or other agreement that introduces some sort of qualification or limitation. The word PROVISO comes from the Latin phrase <i class=“def-ital\">proviso quod</i>, “provided that,” with which such clauses began in documents of the Middle Ages. PROVISO can also be used in a general sense to refer to any stipulation or condition. </p><p>“The contract contained a PROVISO stating that if payments were not made by the end of each month either party could withdraw from the agreement.” </p><p>“Mrs. Collins let her son go to the party with the PROVISO that he be back by eleven.” </p><p><i class=“def-ital\">Agreement</i> is a common choice on the Pretest. People who choose it are aware that a PROVISO has something to do with an agreement, but aren’t quite sure what.</p>"
+    },
+    "REMISS": {
+      "word": "REMISS",
+      "phonetic": "(ri-mis')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">careless, inattentive, negligent </p><p>REMISS means “careless or negligent in attending to one’s duty.” It is often used after the noun it modifies. </p><p>“Sharon is REMISS about doing her homework.” </p><p>“The lawyer was REMISS in not informing his client of her rights.” </p><p>Occasionally the word is applied to the duty itself and means “showing negligence.” </p><p>“Her reports have been REMISS; she should have shown how she reached her conclusions, instead of just stating them as facts.”</p>"
+    },
+    "STIGMA": {
+      "word": "STIGMA",
+      "phonetic": "(stig'-mÔøΩ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a stain, brand, mark of disgrace </p><p>STIGMA comes from the Greek word for <i class=“def-ital\">tattoo</i>. Originally in English a STIGMA was a mark made by a branding iron on the skin of a slave or criminal. From this it came to be used figuratively about any mark of shame or disgrace. </p><p>“The ex-convict tried to overcome the STIGMA of his criminal record.” </p><p>“She felt there was a STIGMA attached to being on welfare, so she refused to apply for it.” </p><p>“He thought his rural accent was a STIGMA that marked him as a yokel.” </p><p>The verb from STIGMA is STIGMATIZE, which means “to mark with a STIGMA, to brand as disgraceful.” </p><p>“The speaker said he didn’t mean to STIGMATIZE all college students as lazy and stupid.” </p><p>Other forms of the word: STIGMATIZE, v.</p>"
+    },
+    "TRUNCATE": {
+      "word": "TRUNCATE",
+      "phonetic": "(truhng'-kAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cut short, lop </p><p>TRUNCATE is related to the word <i class=“def-ital\">trunk</i>. The <i class=“def-ital\">trunk</i> is the main part of anything. The <i class=“def-ital\">trunk</i> of a human body, for example, is the central part of it, excluding the head and the limbs. To TRUNCATE something is to cut it short by lopping off part of it. </p><p>“The mountain’s peak appears to have been TRUNCATED by an ancient volcanic eruption.” </p><p>“They had to TRUNCATE their presentation when they ran out of time.” </p><p>“The cross-country trip had to be TRUNCATED in Denver because of a lack of funds.” </p><p>“Craig’s session at the computer terminal was TRUNCATED when the system went down.”</p>"
+    },
+    "VAPID": {
+      "word": "VAPID",
+      "phonetic": "(vap'-id)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">lifeless, flat, uninteresting, insipid </p><p>VAPID means “lacking taste, life, or spirit.” The word is sometimes used about wine, beer, or other drinks that have become flat and tasteless. It is more often used about people and their intellectual activities. </p><p>“This movie is utterly VAPID. It doesn’t have the slightest bit of intellectual or human interest.” </p><p>“The VAPID young man spent all of his time watching game shows on television.” </p><p>“She had the same VAPID smile for everything and everyone; clearly she didn’t understand a bit of what was going on.” </p><p><i class=“def-ital\">Bubbly</i> is the most popular wrong answer. In one sense this is almost an opposite of VAPID. A person with a bubbly manner may also be VAPID, and this may cause the confusion. </p><p>Other forms of the word: VAPIDITY, n.</p>"
+    },
+    "ABSTEMIOUS": {
+      "word": "ABSTEMIOUS",
+      "phonetic": "(ab-stE'-mE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sparing, abstinent </p><p>To be ABSTEMIOUS is to be moderate and self-restrained, especially in eating and drinking. </p><p>“The ABSTEMIOUS gentleman never had more than an occasional glass of wine.” </p><p>“Far from being ABSTEMIOUS, he indulged to the fullest in every pleasure.” </p><p>In a slightly different sense ABSTEMIOUS can mean “characterized by moderation,” <i class=“def-ital\">sparing</i>. </p><p>“Her ABSTEMIOUS diet consisted of little more than bread and water.”</p>"
+    }
+  },
+  "id": "6",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "INTIMATION",
+          "answers": [
+            "friendship",
+            "suggestion",
+            "thought",
+            "threat",
+            "solution"
+          ],
+          "word": "INTIMATION",
+          "correct": "suggestion"
+        },
+        {
+          "prompt": "INVIOLATE",
+          "answers": [
+            "intact.",
+            "injured",
+            "kindly",
+            "beautiful",
+            "new"
+          ],
+          "word": "INVIOLATE",
+          "correct": "intact"
+        },
+        {
+          "prompt": "LUMINARY",
+          "answers": [
+            "optimist",
+            "student",
+            "priest",
+            "substitute",
+            "celebrity"
+          ],
+          "word": "LUMINARY",
+          "correct": "celebrity"
+        },
+        {
+          "prompt": "PANACHE",
+          "answers": [
+            "delight",
+            "jollity",
+            "flair",
+            "care",
+            "despair"
+          ],
+          "word": "PANACHE",
+          "correct": "flair"
+        },
+        {
+          "prompt": "to PARRY",
+          "answers": [
+            "give back",
+            "annoy",
+            "imitate",
+            "ward off",
+            "seek out"
+          ],
+          "word": "PARRY",
+          "correct": "ward off"
+        },
+        {
+          "prompt": "SURREPTITIOUS",
+          "answers": [
+            "apparent",
+            "secret",
+            "destructive",
+            "celebrated",
+            "evil"
+          ],
+          "word": "SURREPTITIOUS",
+          "correct": "secret"
+        },
+        {
+          "prompt": "to UPBRAID",
+          "answers": [
+            "praise",
+            "teach",
+            "hang",
+            "scold",
+            "correct"
+          ],
+          "word": "UPBRAID",
+          "correct": "scold"
+        },
+        {
+          "prompt": "DISPARATE",
+          "answers": [
+            "unlike",
+            "identical",
+            "unprepared",
+            "frightening",
+            "far off"
+          ],
+          "word": "DISPARATE",
+          "correct": "unlike"
+        },
+        {
+          "prompt": "PECUNIARY",
+          "answers": [
+            "involuntary",
+            "psychological",
+            "monetary",
+            "official",
+            "joyous"
+          ],
+          "word": "PECUNIARY",
+          "correct": "monetary"
+        },
+        {
+          "prompt": "PROVISO",
+          "answers": [
+            "request",
+            "stipulation",
+            "assistance",
+            "preparation",
+            "agreement"
+          ],
+          "word": "PROVISO",
+          "correct": "stipulation"
+        },
+        {
+          "prompt": "REMISS",
+          "answers": [
+            "careless",
+            "crazy",
+            "irritating",
+            "confused",
+            "cowardly"
+          ],
+          "word": "REMISS",
+          "correct": "careless"
+        },
+        {
+          "prompt": "STIGMA",
+          "answers": [
+            "fame",
+            "rumor",
+            "pain",
+            "stain",
+            "disease"
+          ],
+          "word": "STIGMA",
+          "correct": "stain"
+        },
+        {
+          "prompt": "to TRUNCATE",
+          "answers": [
+            "extend",
+            "cut short",
+            "twirl",
+            "gather up",
+            "hide"
+          ],
+          "word": "TRUNCATE",
+          "correct": "cut short"
+        },
+        {
+          "prompt": "VAPID",
+          "answers": [
+            "lifeless",
+            "bubbly",
+            "muddy",
+            "entertaining",
+            "pretty"
+          ],
+          "word": "VAPID",
+          "correct": "lifeless"
+        },
+        {
+          "prompt": "ABSTEMIOUS",
+          "answers": [
+            "extravagant",
+            "stern",
+            "sparing",
+            "secret",
+            "healthy"
+          ],
+          "word": "ABSTEMIOUS",
+          "correct": "sparing"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would an INTIMATION be blunt?",
+          "word": "INTIMATION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a custom be INVIOLATE?",
+          "word": "INVIOLATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Was Albert Einstein a scientific LUMINARY?",
+          "word": "LUMINARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do some great entertainers have PANACHE?",
+          "word": "PANACHE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Will a PARRY generally wound an opponent?",
+          "word": "PARRY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a spying mission usually be carried out SURREPTITIOUSLY?",
+          "word": "SURREPTITIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are mischievous children likely to be UPBRAIDED?",
+          "word": "UPBRAID",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are love and hate DISPARATE emotions?",
+          "word": "DISPARATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a bankrupt business be suffering from PECUNIARY difficulties?",
+          "word": "PECUNIARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do some contracts contain PROVISOS?",
+          "word": "PROVISO",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a shiftless teacher be REMISS in his duties?",
+          "word": "REMISS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a person's continual lying become a STIGMA?",
+          "word": "STIGMA",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a trip be TRUNCATED?",
+          "word": "TRUNCATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a book be VAPID?",
+          "word": "VAPID",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a drunkard ABSTEMIOUS?",
+          "word": "ABSTEMIOUS",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The boss INTIMATED that there might be a promotion for Ted if he did a good job.",
+          "word": "INTIMATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "The play's director left nothing-not even Hamlet's soliloquies-INVIOLATE.",
+          "word": "INVIOLATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Simpson wasn't a LUMINARY in the business world, but he was respected by those who knew him.",
+          "word": "LUMINARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The students rented a Rolls-Royce so that they would arrive at the prom with PANACHE.",
+          "word": "PANACHE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The boss PARRIED Bill's request for a raise by telling him to work harder.",
+          "word": "PARRY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The police became SURREPTITIOUS of the men driving the truck down the alley.",
+          "word": "SURREPTITIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The boss UPBRAIDED her workers for constantly arriving late.",
+          "word": "UPBRAID",
+          "correct": "true"
+        },
+        {
+          "prompt": "We were DISPARATE to go to the beach that hot day.",
+          "word": "DISPARATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "PECUNIARY problems are making it difficult for me to pay my bills.",
+          "word": "PECUNIARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The college admitted Bill with the PROVISO that he take a remedial writing course.",
+          "word": "PROVISO",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bill's mother told him he was REMISS in not giving her the telephone message.",
+          "word": "REMISS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Once the principal had STIGMATIZED them as troublemakers, they had a hard time living down their reputation.",
+          "word": "STIGMA",
+          "correct": "true"
+        },
+        {
+          "prompt": "The director TRUNCATED the play by leaving out the last two scenes.",
+          "word": "TRUNCATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The VAPID girl did nothing but read movie magazines and go to parties.",
+          "word": "VAPID",
+          "correct": "true"
+        },
+        {
+          "prompt": "John has an ABSTEMIOUS lifestyle: he spends very little on entertainment.",
+          "word": "ABSTEMIOUS",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "INTIMATION",
+          "answers": [
+            "whisper",
+            "lie",
+            "suggestion"
+          ],
+          "word": "INTIMATION",
+          "correct": "1"
+        },
+        {
+          "prompt": "INVIOLATE",
+          "answers": [
+            "refined",
+            "venerated",
+            "protected"
+          ],
+          "word": "INVIOLATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "LUMINARY",
+          "answers": [
+            "eminent",
+            "notable",
+            "notorious"
+          ],
+          "word": "LUMINARY",
+          "correct": "2"
+        },
+        {
+          "prompt": "PANACHE",
+          "answers": [
+            "expense",
+            "flamboyance",
+            "style"
+          ],
+          "word": "PANACHE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PARRY",
+          "answers": [
+            "dodge",
+            "deflect",
+            "stab"
+          ],
+          "word": "PARRY",
+          "correct": "2"
+        },
+        {
+          "prompt": "SURREPTITIOUS",
+          "answers": [
+            "stubborn",
+            "secretive",
+            "clandestine"
+          ],
+          "word": "SURREPTITIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "UPBRAID",
+          "answers": [
+            "admonish",
+            "berate",
+            "convince"
+          ],
+          "word": "UPBRAID",
+          "correct": "2"
+        },
+        {
+          "prompt": "DISPARATE",
+          "answers": [
+            "unnecessary",
+            "divergent",
+            "unequal"
+          ],
+          "word": "DISPARATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PECUNIARY",
+          "answers": [
+            "federal",
+            "fiscal",
+            "financial"
+          ],
+          "word": "PECUNIARY",
+          "correct": "0"
+        },
+        {
+          "prompt": "PROVISO",
+          "answers": [
+            "bargain",
+            "condition",
+            "requirement"
+          ],
+          "word": "PROVISO",
+          "correct": "0"
+        },
+        {
+          "prompt": "REMISS",
+          "answers": [
+            "lax",
+            "wan",
+            "slipshod"
+          ],
+          "word": "REMISS",
+          "correct": "1"
+        },
+        {
+          "prompt": "STIGMA",
+          "answers": [
+            "shame",
+            "disgrace",
+            "ruin"
+          ],
+          "word": "STIGMA",
+          "correct": "2"
+        },
+        {
+          "prompt": "TRUNCATE",
+          "answers": [
+            "hide",
+            "abbreviate",
+            "lop"
+          ],
+          "word": "TRUNCATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "VAPID",
+          "answers": [
+            "insipid",
+            "vivacious",
+            "banal"
+          ],
+          "word": "VAPID",
+          "correct": "1"
+        },
+        {
+          "prompt": "ABSTEMIOUS",
+          "answers": [
+            "starving",
+            "abstinent",
+            "sober"
+          ],
+          "word": "ABSTEMIOUS",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}
