@@ -1,0 +1,608 @@
+{
+  "title": "1.12",
+  "definitions": {
+    "ESTABLISH": {
+      "word": "ESTABLISH",
+      "phonetic": "(e-stab'-lish)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to set up, make firm, start up, bring about, found </p><p>ESTABLISH is related to the adjective <i class=“def-ital\">stable</i>, which means <i class=“def-ital\">solid</i>, <i class=“def-ital\">fixed</i>, <i class=“def-ital\">not easily moved</i>. The basic meaning of ESTABLISH is “to make something stable.” The word is usually used in the sense “to set up or bring about something,” usually on a firm or stable basis. It is often used about businesses: </p><p>“This company was ESTABLISHED in 1959.” </p><p>About customs: </p><p>“Who ESTABLISHED the custom of kissing underneath mistletoe?” </p><p>About rights, claims, facts, and the like: </p><p>“It took a long time to ESTABLISH the facts of the case.” </p><p>And about people: </p><p>“They were comfortably ESTABLISHED in their new headquarters.” </p><p>In all cases, ESTABLISH has the idea of setting something up, putting something on a firm foundation. </p><p>Other forms of the word: ESTABLISHMENT, n.</p>"
+    },
+    "EXPEDITION": {
+      "word": "EXPEDITION",
+      "phonetic": "(ek-spÔøΩdish'-::m)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a journey, voyage </p><p>An EXPEDITION is a journey or voyage which usually is made for a definite reason. It is usually well organized, and its purpose is often to explore. </p><p>“He went on an EXPEDITION into the jungle to study the rare plants that grow there.” </p><p>“When we had everything packed for our vacation, it looked like we were going on an EXPEDITION to Alaska.” </p><p>“The military EXPEDITION lasted two months.”</p>"
+    },
+    "INSTRUCT": {
+      "word": "INSTRUCT",
+      "phonetic": "(in-struhkt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to teach, educate, inform; to order </p><p>To INSTRUCT someone is to give knowledge to him. Often it means just about the same as teach. </p><p>“The teacher INSTRUCTED the class about how to do multiplication.” </p><p>“The piano teacher comes to the house to INSTRUCT Sue.” </p><p>Sometimes INSTRUCT has a stronger meaning-to <i class=“def-ital\">order</i> or <i class=“def-ital\">direct</i>. </p><p>“The teacher INSTRUCTED us to return to our seats immediately.” </p><p>The adjective from INSTRUCT is INSTRUCTIVE, which means <i class=“def-ital\">giving knowledge</i>, <i class=“def-ital\">informative</i>. </p><p>“The class was very INSTRUCTIVE. I think we all learned a lot.” </p><p>Other forms of the word: INSTRUCTION, n. </p><p>INSTRUCTIVE, adj. </p><p>INSTRUCTOR, n.</p>"
+    },
+    "GNARLED": {
+      "word": "GNARLED",
+      "phonetic": "(nahrld)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">twisted, rugged, knotty </p><p>GNARLED is used about the rough, twisted, knotty appearance of the branches on oak and other trees. </p><p>“The kite was caught in the GNARLED branches of the tree.” </p><p>From this use the word has come to be applied to anything or anyone that looks rugged, tough, or weatherbeaten. </p><p>“His hands were GNARLED from years of hard work.” </p><p>“The GNARLED old cowboy told us many exciting tales of his younger days.” </p><p>Other forms of the word: GNARL, v.</p>"
+    },
+    "FLATTER": {
+      "word": "FLATTER",
+      "phonetic": "(flat'-ÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to over praise; to show favorably </p><p>To FLATTER someone is to praise him more than he deserves, usually with the hope of gaining something. </p><p>“The noblemen FLATTERED the king by telling him what a great leader he was.” </p><p>“Ted tried to FLATTER her, but she realized he wasn’t sincere with his compliments.” </p><p>In a related sense, FLATTER means “to show off to advantage.” </p><p>“That photograph FLATTERS her. She’s not really that good-looking.” </p><p>Other forms of the word: FLATTERY, n.</p>"
+    },
+    "EXTERMINATE": {
+      "word": "EXTERMINATE",
+      "phonetic": "(ek-ster'-mÔøΩnAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to destroy completely, wipe out, put an end to, get rid of </p><p>To EXTERMINATE something is to wipe it out, to destroy it totally. The word is used about people, ideas, pests, diseases, and other things. </p><p>“The enemy tried to EXTERMINATE us, but somehow a few of us managed to survive.” </p><p>“Our attempt to EXTERMINATE this new disease was completely successful; no cases of it were reported last year.” </p><p>An EXTERMINATOR is someone who EXTERMINATES, particularly someone whose job is to EXTERMINATE insects, rats, or other pests. </p><p>“The new house was so filled with bugs, we had to call the EXTERMINATOR.” </p><p>In the Pretest, <i class=“def-ital\">stop</i> is often chosen as the meaning of EXTERMINATE. EXTERMINATE is a much stronger word than stop, however. To EXTERMINATE means to <i class=“def-ital\">destroy completely</i>. </p><p>Other forms of the word: EXTERMINATION, n. </p><p>EXTERMINATOR, n.</p>"
+    },
+    "LAG": {
+      "word": "LAG",
+      "phonetic": "(lag)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to fall behind, fail to keep up To </p><p>LAG is to go too slow, to fail to keep up the pace. </p><p>“All the runners kept on going, but Jim was tired and LAGGED behind.” </p><p>“The two of us LAGGED behind the others so that we could talk some more.” </p><p>Sometimes LAG is used to mean “to weaken little by little, to become less active.” “After a while his interest in history began to LAG.” </p><p>Usage: LAG is often followed by <i class=“def-ital\">behind</i>.</p>"
+    },
+    "FATAL": {
+      "word": "FATAL",
+      "phonetic": "(fAt'-1)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">deadly, mortal, disastrous </p><p>FATE is the influence or power that is supposed to control our lives. </p><p>FATAL is an adjective from FATE.  The basic meaning of FATAL is “determining one’s FATE.” </p><p>The word is generally used about death, which is everyone’s ultimate FATE. A FATAL accident is one that causes death; a FATAL dose of a drug is one large enough to bring about death. Sometimes the word is used about things that are so bad or disastrous that they seem deadly. </p><p>“This one FATAL mistake caused many problems for her later on.” </p><p>A FATALITY is a death, usually one caused by an accident or a disaster. </p><p>“The police reported seven FATALITIES on the icy highway that night.” </p><p>Other forms of the word: <i class=“def-ital\">FATE</i>, n. <i class=“def-ital\">FATALITY</i>, n.</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">al</i> under Suffixes."
+      ]
+    },
+    "HEX": {
+      "word": "HEX",
+      "phonetic": "(heks)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a curse, evil spell, jinx </p><p>A HEX is an evil spell, a curse that a witch might put on someone. </p><p>“When the machine kept breaking down, it began to look as though someone had put a HEX on it.” </p><p>“There must be a HEX on those people; everything they do turns out wrong.” </p><p>HEX can also be used as a verb. </p><p>“Dave thought that if anyone even mentioned losing it might somehow HEX the team.”</p>"
+    },
+    "IMPOSTOR": {
+      "word": "IMPOSTOR",
+      "phonetic": "{im-pos'-tÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a pretender, faker, fraud </p><p>An IMPOSTOR is a person who pretends to be someone he is not. </p><p>“The man said he was from the F.B.I., but he turned out to be an IMPOSTOR.” </p><p>“The doctor knew so little about medicine that we accused him of being an IMPOSTOR.” </p><p>“It would be impossible for an IMPOSTOR to fool us.”</p>"
+    },
+    "GLUM": {
+      "word": "GLUM",
+      "phonetic": "(gluhm)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">gloomy, sad, dejected </p><p>GLUM is related to the word <i class=“def-ital\">gloom</i>. Someone who is GLUM is in low spirits; he is in a silent, unhappy mood. </p><p>“The student looked very GLUM as he waited in the principal’s office.” </p><p>“The GLUM athletes sat silently in the locker room after losing the game.” </p><p>“Our mailman always looks GLUM. I don’t think he likes his job.”</p>"
+    },
+    "FEROCIOUS": {
+      "word": "FEROCIOUS",
+      "phonetic": "(fÔøΩrO'-sh:)s)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fierce, savage, cruel, violently aggressive </p><p>FEROCIOUS is used about animals and people and the way they act. It means “extremely cruel, wild, and savage.” </p><p>“The dog was small but FEROCIOUS: it would attack dogs three times its size.” </p><p>“The FEROCIOUS battle lasted all day, with neither side giving an inch.” </p><p>The noun from FEROCIOUS is FEROCITY. </p><p>“The FEROCITY of his criticism surprised us; we didn’t think he had disliked it that much.” </p><p>“His FEROCITY when he was angry made everyone afraid of him.” </p><p>Other forms of the word: FEROCITY, n.</p>"
+    },
+    "INTERIOR": {
+      "word": "INTERIOR",
+      "phonetic": "(in-tir'-E-:)r)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the inside </p><p> The INTERIOR of something is its inside. </p><p>“She liked the house from the outside, but thought its INTERIOR was very ugly.” </p><p>“He traveled from the coast to the INTERIOR of the country.” An “INTERIOR decorator” is a person who decorates the insides of houses and buildings. The opposite of INTERIOR is <i class=“def-ital\">exterior</i>, the <i class=“def-ital\">outside</i>. </p><p><i class=“def-ital\">Decoration</i> is often chosen as the meaning of INTERIOR. People who pick decoration have probably heard the phrase INTERIOR <i class=“def-ital\">decoration</i> but don’t know exactly what it means.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in<i class=“def-ital\">-1 under Prefixes."
+      ]
+    },
+    "EXPENSE": {
+      "word": "EXPENSE",
+      "phonetic": "(ek-spens')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">price, cost, spending </p><p>The EXPENSE of something is how much it costs, how much you have to pay for it. This cost is usually calculated in terms of money. </p><p>“I want that car, no matter what the EXPENSE.” </p><p>“He worried about the EXPENSE of the trip.” </p><p>EXPENSE can refer to other things besides money. </p><p>“He stayed outside in the snowstorm, at great EXPENSE to his health\"-that is, he paid the price for staying outside by becoming sick. </p><p>“We managed to finish the project, but it required a tremendous EXPENSE of time and energy.” Something that is EXPENSIVE causes EXPENSE-costs a lot of money or more than it is worth. </p><p>“This car is too EXPENSIVE; I have to find one that costs less.” </p><p>Other forms of the word: EXPEND, v. EXPENSIVE, adj.</p>"
+    },
+    "GLEEFUL": {
+      "word": "GLEEFUL",
+      "phonetic": "(glE'-fal)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">merry, joyous, glad </p><p>GLEE is <i class=“def-ital\">joy</i>, especially joy caused by triumph or success. </p><p>“He shouted with GLEE as they called out his name as the winner.” </p><p>GLEEFUL means “full of GLEE.” </p><p>“He was GLEEFUL at the news that he had been accepted at college.” </p><p>“The GLEEFUL child got onto her new bicycle.” </p><p><i class=“def-ital\">Excited</i> is a common choice as the meaning of GLEEFUL. A GLEEFUL person will usually be <i class=“def-ital\">excited</i>, but GLEEFUL has to do with joy and happiness, not with excitement. </p><p>Other forms of the word: GLEE, n.</p>"
+    }
+  },
+  "id": "12",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "She ESTABLISHED the business.",
+          "answers": [
+            "announced",
+            "bought",
+            "sold",
+            "improved",
+            "set up"
+          ],
+          "word": "ESTABLISH",
+          "correct": "set up"
+        },
+        {
+          "prompt": "Enjoying the EXPEDITION.",
+          "answers": [
+            "visit",
+            "display",
+            "journey",
+            "boat race",
+            "sights"
+          ],
+          "word": "EXPEDITION",
+          "correct": "journey"
+        },
+        {
+          "prompt": "Best way to INSTRUCT.",
+          "answers": [
+            "forget",
+            "teach",
+            "learn",
+            "punish",
+            "build"
+          ],
+          "word": "INSTRUCT",
+          "correct": "teach"
+        },
+        {
+          "prompt": "GNARLED branches.",
+          "answers": [
+            "old",
+            "decorated",
+            "smooth",
+            "diseased",
+            "twisted"
+          ],
+          "word": "GNARLED",
+          "correct": "twisted"
+        },
+        {
+          "prompt": "Tried to FLATTER him.",
+          "answers": [
+            "insult",
+            "improve",
+            "over praise",
+            "crush",
+            "agree with"
+          ],
+          "word": "FLATTER",
+          "correct": "over praise"
+        },
+        {
+          "prompt": "They were EXTERMINATED.",
+          "answers": [
+            "wiped out",
+            "stopped",
+            "beaten up",
+            "cured",
+            "thrown away"
+          ],
+          "word": "EXTERMINATE",
+          "correct": "wiped out"
+        },
+        {
+          "prompt": "Began to LAG.",
+          "answers": [
+            "sink",
+            "give up",
+            "breathe heavily",
+            "fall behind",
+            "catch up"
+          ],
+          "word": "LAG",
+          "correct": "fall behind"
+        },
+        {
+          "prompt": "FATAL blows.",
+          "answers": [
+            "deadly",
+            "soft",
+            "natural",
+            "first",
+            "painful"
+          ],
+          "word": "FATAL",
+          "correct": "deadly"
+        },
+        {
+          "prompt": "Powerful HEX.",
+          "answers": [
+            "evil",
+            "prayer",
+            "tool",
+            "fear",
+            "curse"
+          ],
+          "word": "HEX",
+          "correct": "curse"
+        },
+        {
+          "prompt": "Clever IMPOSTOR.",
+          "answers": [
+            "detective",
+            "customer",
+            "magician",
+            "faker",
+            "thief"
+          ],
+          "word": "IMPOSTOR",
+          "correct": "faker"
+        },
+        {
+          "prompt": "GLUM people.",
+          "answers": [
+            "mean",
+            "cheerful",
+            "gloomy",
+            "stupid",
+            "clumsy"
+          ],
+          "word": "GLUM",
+          "correct": "gloomy"
+        },
+        {
+          "prompt": "They were FEROCIOUS.",
+          "answers": [
+            "huge",
+            "fierce",
+            "loud",
+            "clever",
+            "mild"
+          ],
+          "word": "FEROCIOUS",
+          "correct": "fierce"
+        },
+        {
+          "prompt": "Examined the INTERIOR.",
+          "answers": [
+            "tomb",
+            "decoration",
+            "inside",
+            "room",
+            "outside"
+          ],
+          "word": "INTERIOR",
+          "correct": "inside"
+        },
+        {
+          "prompt": "It was worth the EXPENSE.",
+          "answers": [
+            "price",
+            "income",
+            "protection",
+            "time",
+            "effort"
+          ],
+          "word": "EXPENSE",
+          "correct": "price"
+        },
+        {
+          "prompt": "Everyone was GLEEFUL.",
+          "answers": [
+            "worried",
+            "dangerous",
+            "excited",
+            "merry",
+            "warm"
+          ],
+          "word": "GLEEFUL",
+          "correct": "merry"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do wreckers ESTABLISH buildings?",
+          "word": "ESTABLISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can there be only one person on an EXPEDITION?",
+          "word": "EXPEDITION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a teacher INSTRUCT a class?",
+          "word": "INSTRUCT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do babies usually have GNARLED hands?",
+          "word": "GNARLED",
+          "correct": "false"
+        },
+        {
+          "prompt": "If you tell someone he is ugly, mean, and stingy, are you FLATTERING him?",
+          "word": "FLATTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Have rats been completely EXTERMINATED?",
+          "word": "EXTERMINATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a speedy person usually LAG behind?",
+          "word": "LAG",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a cold usually FATAL?",
+          "word": "FATAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a HEX meant to help a person?",
+          "word": "HEX",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is an IMPOSTOR trying to fool someone?",
+          "word": "IMPOSTOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does losing often make people feel GLUM?",
+          "word": "GLUM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can wolves be FEROCIOUS?",
+          "word": "FEROCIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is the skin on the INTERIOR of the body?",
+          "word": "INTERIOR",
+          "correct": "false"
+        },
+        {
+          "prompt": "If you can get something at no EXPENSE, is it free?",
+          "word": "EXPENSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does the loser of a game generally feel GLEEFUL?",
+          "word": "GLEEFUL",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Beth tried to ESTABLISH a reputation as a hard worker.",
+          "word": "ESTABLISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "The EXPEDITION of jewelry was beautifully arranged in the store window.",
+          "word": "EXPEDITION",
+          "correct": "false"
+        },
+        {
+          "prompt": "We were INSTRUCTED to leave our coats outside the examination room.",
+          "word": "INSTRUCT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The dog GNARLED on the bone for a while before he buried it.",
+          "word": "GNARLED",
+          "correct": "false"
+        },
+        {
+          "prompt": "The painting FLATTERED the lady by making her look twenty years younger.",
+          "word": "FLATTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "We tried to EXTERMINATE all the insects in the house.",
+          "word": "EXTERMINATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He LAGGED at them for not working harder.",
+          "word": "LAG",
+          "correct": "false"
+        },
+        {
+          "prompt": "His one error proved to be FATAL, because his team lost as a result of it.",
+          "word": "FATAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Al believed he was HEXED, because nothing ever seemed to go right for him.",
+          "word": "HEX",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was a true IMPOSTOR, always trying to help people.",
+          "word": "IMPOSTOR",
+          "correct": "false"
+        },
+        {
+          "prompt": "Catherine became GLUM when she heard that she had won the scholarship.",
+          "word": "GLUM",
+          "correct": "false"
+        },
+        {
+          "prompt": "The FEROCIOUS look the teacher gave us made us all quiet down immediately.",
+          "word": "FEROCIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The INTERIOR of Australia is mostly desert.",
+          "word": "INTERIOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "The watch was so EXPENSIVE we couldn't afford to buy it.",
+          "word": "EXPENSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "With GLEEFUL cries, the children opened their presents on Christmas morning.",
+          "word": "GLEEFUL",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ESTABLISH",
+          "answers": [
+            "build",
+            "start",
+            "change"
+          ],
+          "word": "ESTABLISH",
+          "correct": "2"
+        },
+        {
+          "prompt": "EXPEDITION",
+          "answers": [
+            "view",
+            "voyage",
+            "trip"
+          ],
+          "word": "EXPEDITION",
+          "correct": "0"
+        },
+        {
+          "prompt": "INSTRUCT",
+          "answers": [
+            "teach",
+            "compare",
+            "command"
+          ],
+          "word": "INSTRUCT",
+          "correct": "1"
+        },
+        {
+          "prompt": "GNARLED",
+          "answers": [
+            "knotty",
+            "heavy",
+            "twisted"
+          ],
+          "word": "GNARLED",
+          "correct": "1"
+        },
+        {
+          "prompt": "FLATTER",
+          "answers": [
+            "pretend",
+            "lie",
+            "insult"
+          ],
+          "word": "FLATTER",
+          "correct": "2"
+        },
+        {
+          "prompt": "EXTERMINATE",
+          "answers": [
+            "kill",
+            "hurt",
+            "destroy"
+          ],
+          "word": "EXTERMINATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "LAG",
+          "answers": [
+            "follow",
+            "slow",
+            "win"
+          ],
+          "word": "LAG",
+          "correct": "2"
+        },
+        {
+          "prompt": "FATAL",
+          "answers": [
+            "destructive",
+            "illegal",
+            "harmful"
+          ],
+          "word": "FATAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "HEX",
+          "answers": [
+            "spell",
+            "curse",
+            "threat"
+          ],
+          "word": "HEX",
+          "correct": "2"
+        },
+        {
+          "prompt": "IMPOSTOR",
+          "answers": [
+            "robber",
+            "phony",
+            "faker"
+          ],
+          "word": "IMPOSTOR",
+          "correct": "0"
+        },
+        {
+          "prompt": "GLUM",
+          "answers": [
+            "silent",
+            "tired",
+            "sad"
+          ],
+          "word": "GLUM",
+          "correct": "1"
+        },
+        {
+          "prompt": "FEROCIOUS",
+          "answers": [
+            "cruel",
+            "wild",
+            "unhealthy"
+          ],
+          "word": "FEROCIOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "INTERIOR",
+          "answers": [
+            "top",
+            "inside",
+            "center"
+          ],
+          "word": "INTERIOR",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXPENSE",
+          "answers": [
+            "charge",
+            "cost",
+            "quantity"
+          ],
+          "word": "EXPENSE",
+          "correct": "2"
+        },
+        {
+          "prompt": "GLEEFUL",
+          "answers": [
+            "happy",
+            "pleased",
+            "healthy"
+          ],
+          "word": "GLEEFUL",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABBREVIATE",
+      "answer": "abbreviated"
+    },
+    {
+      "word": "DEPART",
+      "answer": "depart"
+    },
+    {
+      "word": "OVERCOME",
+      "answer": "overcome"
+    },
+    {
+      "word": "RESEMBLE",
+      "answer": "resembles"
+    },
+    {
+      "word": "STOOP",
+      "answer": "stoop"
+    },
+    {
+      "word": "ANNUAL",
+      "answer": "annual"
+    },
+    {
+      "word": "DOWNCAST",
+      "answer": "downcast"
+    },
+    {
+      "word": "PARTICIPATE",
+      "answer": "participate"
+    },
+    {
+      "word": "RESPONSE",
+      "answer": "response"
+    },
+    {
+      "word": "TERRIFY",
+      "answer": "territory"
+    },
+    {
+      "word": "APPROACH",
+      "answer": "approach"
+    },
+    {
+      "word": "ELECT",
+      "answer": "elected"
+    },
+    {
+      "word": "QUIVER",
+      "answer": "quivered"
+    },
+    {
+      "word": "SHATTER",
+      "answer": "shatter"
+    },
+    {
+      "word": "TERRITORY",
+      "answer": "territory"
+    },
+    {
+      "word": "CONTRIBUTE",
+      "answer": "contributed"
+    },
+    {
+      "word": "GREET",
+      "answer": "greeted"
+    },
+    {
+      "word": "RAPID",
+      "answer": "rapid"
+    },
+    {
+      "word": "SMUDGE",
+      "answer": "smudges"
+    },
+    {
+      "word": "TROPHY",
+      "answer": "trophies"
+    },
+    {
+      "word": "COURAGEOUS",
+      "answer": "courageous"
+    },
+    {
+      "word": "IMITATE",
+      "answer": "imitate"
+    },
+    {
+      "word": "ACCOMPANY",
+      "answer": "accompany"
+    },
+    {
+      "word": "DISCARD",
+      "answer": "discuss"
+    },
+    {
+      "word": "MISERABLE",
+      "answer": "miserable"
+    },
+    {
+      "word": "SCORCH",
+      "answer": "scorched"
+    },
+    {
+      "word": "SQUIRM",
+      "answer": "squirm"
+    },
+    {
+      "word": "ACHE",
+      "answer": "ache"
+    },
+    {
+      "word": "DISCUSS",
+      "answer": "discuss"
+    },
+    {
+      "word": "NOURISHMENT",
+      "answer": "nourishment"
+    },
+    {
+      "word": "SHELTER",
+      "answer": "shelter"
+    },
+    {
+      "word": "STUMBLE",
+      "answer": "stumbled"
+    },
+    {
+      "word": "ACHIEVE",
+      "answer": "achieve"
+    },
+    {
+      "word": "GRASP",
+      "answer": "grasped"
+    },
+    {
+      "word": "PERMIT",
+      "answer": "permit"
+    },
+    {
+      "word": "SOCIABLE",
+      "answer": "sociable"
+    },
+    {
+      "word": "THAW",
+      "answer": "thawed"
+    },
+    {
+      "word": "COUNTERFEIT",
+      "answer": "counterfeit"
+    },
+    {
+      "word": "HOLLER",
+      "answer": "holler"
+    },
+    {
+      "word": "RECOVER",
+      "answer": "recover"
+    },
+    {
+      "word": "SPROUT",
+      "answer": "sprout"
+    },
+    {
+      "word": "TREMBLE",
+      "answer": "tremble"
+    },
+    {
+      "word": "DECAY",
+      "answer": "decay"
+    },
+    {
+      "word": "LOBBY",
+      "answer": "lobby"
+    },
+    {
+      "word": "REFUND",
+      "answer": "refund"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "His hand",
+      "part2": "with nervousness as he tried to put the key in the lock.",
+      "correct": "quivered",
+      "word": "QUIVER"
+    },
+    {
+      "part1": "The dirty eraser made all kinds of",
+      "part2": "on the clean paper.",
+      "correct": "smudges",
+      "word": "SMUDGE"
+    },
+    {
+      "part1": "When it was time to",
+      "part2": "we got in the car and drove away.",
+      "correct": "depart",
+      "word": "DEPART"
+    },
+    {
+      "part1": "Everyone ran away when they heard the baseball",
+      "part2": "the window.",
+      "correct": "shatter",
+      "word": "SHATTER"
+    },
+    {
+      "part1": "He",
+      "part2": "his father; they both have the same way of talking and laughing.",
+      "correct": "resembles",
+      "word": "RESEMBLE"
+    },
+    {
+      "part1": "She decided to",
+      "part2": "the problem in a different way, and started all over again.",
+      "correct": "approach",
+      "word": "APPROACH"
+    },
+    {
+      "part1": "The voters",
+      "part2": "Franklin D. Roosevelt president four times.",
+      "correct": "elected",
+      "word": "ELECT"
+    },
+    {
+      "part1": "Our",
+      "part2": "picnic is held every June 1st regardless of the weather.",
+      "correct": "annual",
+      "word": "ANNUAL"
+    },
+    {
+      "part1": "The thought of jumping off that bridge",
+      "part2": "me; I don't think I can do it.",
+      "correct": "terrifies",
+      "word": "TERRITORY"
+    },
+    {
+      "part1": "He tried to",
+      "part2": "his habit of biting his nails, but it wasn't easy.",
+      "correct": "overcome",
+      "word": "OVERCOME"
+    },
+    {
+      "part1": "Everyone tries to",
+      "part2": "his style of writing, but no one can do it as well as he can.",
+      "correct": "imitate",
+      "word": "IMITATE"
+    },
+    {
+      "part1": "The rich man",
+      "part2": "a large sum of money to the school for a new gymnasium.",
+      "correct": "contributed",
+      "word": "CONTRIBUTE"
+    },
+    {
+      "part1": "The doctor told Johnny he couldn't",
+      "part2": "in any sport that involved jumping.",
+      "correct": "participate",
+      "word": "PARTICIPATE"
+    },
+    {
+      "part1": "Jim won so many",
+      "part2": "for his running ability that he had to have a special case to hold them all.",
+      "correct": "trophies",
+      "word": "TROPHY"
+    },
+    {
+      "part1": "Jill was,",
+      "part2": "all day until her sister came and cheered her up.",
+      "correct": "downcast",
+      "word": "DOWNCAST"
+    },
+    {
+      "part1": "The basketball player always had to",
+      "part2": "going through a doorway.",
+      "correct": "stoop",
+      "word": "STOOP"
+    },
+    {
+      "part1": "His only",
+      "part2": "to their questions was a silent shake of his head.",
+      "correct": "response",
+      "word": "RESPONSE"
+    },
+    {
+      "part1": "He",
+      "part2": "us at the door with a handshake.",
+      "correct": "greeted",
+      "word": "GREET"
+    },
+    {
+      "part1": "He",
+      "part2": "\"Massachusetts\" to \"MA\" in addressing the letter.",
+      "correct": "abbreviated",
+      "word": "ABBREVIATE"
+    },
+    {
+      "part1": "The general praised the",
+      "part2": "soldier for holding off the enemy by himself while the rest of the troops retreated.",
+      "correct": "courageous",
+      "word": "COURAGEOUS"
+    },
+    {
+      "part1": "That certainly was a(n)",
+      "part2": "time for the race; it was over in less than ten seconds.",
+      "correct": "rapid",
+      "word": "RAPID"
+    },
+    {
+      "part1": "His sales",
+      "part2": "covered four New England states.",
+      "correct": "territory",
+      "word": "TERRITORY"
+    },
+    {
+      "part1": "The doctor said he wasn't getting enough",
+      "part2": "and should eat better food.",
+      "correct": "nourishment",
+      "word": "NOURISHMENT"
+    },
+    {
+      "part1": "The baby",
+      "part2": "the pencil and wouldn't let go.",
+      "correct": "grasped",
+      "word": "GRASP"
+    },
+    {
+      "part1": "She",
+      "part2": "her old dishes when she bought a new set.",
+      "correct": "discarded",
+      "word": "DISCUSS"
+    },
+    {
+      "part1": "The",
+      "part2": "was so crowded it seemed as though everyone was trying to check out of the hotel at the same time.",
+      "correct": "lobby",
+      "word": "LOBBY"
+    },
+    {
+      "part1": "After a few warm days in April our plants began to",
+      "part2": "tiny buds.",
+      "correct": "sprout",
+      "word": "SPROUT"
+    },
+    {
+      "part1": "In late spring the frozen river finally",
+      "part2": "and started to flow again.",
+      "correct": "thawed",
+      "word": "THAW"
+    },
+    {
+      "part1": "It only took Jim a couple of days to",
+      "part2": "from his cold.",
+      "correct": "recover",
+      "word": "RECOVER"
+    },
+    {
+      "part1": "We will",
+      "part2": "you to come with us only if you keep quiet.",
+      "correct": "permit",
+      "word": "PERMIT"
+    },
+    {
+      "part1": "My mother said that I couldn't go to the movie alone, so my sister had to",
+      "part2": "me.",
+      "correct": "accompany",
+      "word": "ACCOMPANY"
+    },
+    {
+      "part1": "When the candle fell over, it",
+      "part2": "a small section of the tablecloth.",
+      "correct": "scorched",
+      "word": "SCORCH"
+    },
+    {
+      "part1": "For years after his injury he felt a(n)",
+      "part2": "in his foot whenever he exercised.",
+      "correct": "ache",
+      "word": "ACHE"
+    },
+    {
+      "part1": "Bill",
+      "part2": "over the pile of bricks and almost fell.",
+      "correct": "stumbled",
+      "word": "STUMBLE"
+    },
+    {
+      "part1": "The over-ripe fruit began to",
+      "part2": "in the hot sun.",
+      "correct": "decay",
+      "word": "DECAY"
+    },
+    {
+      "part1": "The kitten managed to",
+      "part2": "into a small space behind the desk.",
+      "correct": "squirm",
+      "word": "SQUIRM"
+    },
+    {
+      "part1": "Her hands began to",
+      "part2": "with fear as she got ready to sing the song.",
+      "correct": "tremble",
+      "word": "TREMBLE"
+    },
+    {
+      "part1": "The hotel provided",
+      "part2": "for all those left homeless by the flood.",
+      "correct": "shelter",
+      "word": "SHELTER"
+    },
+    {
+      "part1": "The clerk called the police when the man tried to buy food with a(n)",
+      "part2": "twenty-dollar bill.",
+      "correct": "counterfeit",
+      "word": "COUNTERFEIT"
+    },
+    {
+      "part1": "Her grandfather was almost deaf, so Mary had to",
+      "part2": "whenever she had something to say to him.",
+      "correct": "holler",
+      "word": "HOLLER"
+    },
+    {
+      "part1": "The vacuum cleaner stopped working three days after we got it, so we took it back to the store and demanded that they",
+      "part2": "our money.",
+      "correct": "refund",
+      "word": "REFUND"
+    },
+    {
+      "part1": "He practiced hard to",
+      "part2": "his goal of learning how to swim.",
+      "correct": "achieve",
+      "word": "ACHIEVE"
+    },
+    {
+      "part1": "We're very good friends; if she's unhappy then I'm",
+      "part2": "too.",
+      "correct": "miserable",
+      "word": "MISERABLE"
+    },
+    {
+      "part1": "I like to go to parties where people are",
+      "part2": ".",
+      "correct": "sociable",
+      "word": "SOCIABLE"
+    },
+    {
+      "part1": "She refused to",
+      "part2": "her reasons for not coming.",
+      "correct": "discuss",
+      "word": "DISCUSS"
+    }
+  ],
+  "type": "fitb",
+  "id": 1
+}

@@ -1,0 +1,605 @@
+{
+  "title": "1.3",
+  "definitions": {
+    "IMITATE": {
+      "word": "IMITATE",
+      "phonetic": "(im'-ÔøΩtAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to copy, follow the example of, try to be like </p><p>To IMITATE something is to try to be like it, to copy it. You can IMITATE a person or a thing. </p><p>“He tried to IMITATE the sound of a duck.” </p><p>“She wants to IMITATE the figure skaters she sees on television.” </p><p>An IMITATION is something that is a copy of something else. </p><p>“The building is an IMITATION of an ancient Greek temple.” </p><p>“He did a funny IMITATION of a man slipping on a banana peel.” </p><p>Other forms of the word: IMITATION, n.</p>"
+    },
+    "SQUIRM": {
+      "word": "SQUIRM",
+      "phonetic": "(skwerm)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to twist about, wiggle, wriggle </p><p>To SQUIRM means “to twist the body about,” to <i class=“def-ital\">wiggle</i> or <i class=“def-ital\">wriggle</i>. </p><p>“The baby SQUIRMED so much I almost dropped him.” </p><p>“He’s trying to SQUIRM through the cellar window.” </p><p>People often twist about when they feel uncomfortable or embarrassed, and SQUIRM is also used to express this sense. </p><p>“Try not to SQUIRM in your chair while I introduce you to my uncle.”</p>"
+    },
+    "SOCIABLE": {
+      "word": "SOCIABLE",
+      "phonetic": "(s0'-shÔøΩb:)I)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">friendly, liking company, companionable- </p><p>SOCIABLE means “liking the company of other people,” <i class=“def-ital\">friendly</i>. A SOCIABLE person just naturally likes to be with other people, even if they are strangers. </p><p>“They are a SOCIABLE couple, always inviting friends over.” </p><p>“We played a SOCIABLE game of poker.” </p><p>“We always enjoy the company of SOCIABLE people.” </p><p>SOCIABLE is the opposite of hostile or unfriendly. You cannot, for example, have a SOCIABLE fight.</p>"
+    },
+    "ACHIEVE": {
+      "word": "ACHIEVE",
+      "phonetic": "(ÔøΩchEv')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to gain, accomplish, get </p><p>ACHIEVE means to gain or to get, often with some degree of difficulty. </p><p>“He ACHIEVED his goal of learning to walk again after he had been crippled.” </p><p>“She realized that it was necessary to study to ACHIEVE an A in math.” </p><p>“Most of us have to work hard to ACHIEVE any success.” </p><p>The noun from ACHIEVE is ACHIEVEMENT, which means an accomplishment. </p><p>“His greatest ACHIEVEMENT was to score the winning touchdown.” </p><p>“She is not content to get by on her previous ACHIEVEMENTS, but is always looking for new fields to conquer.” </p><p>Other forms of the word: ACHIEVEMENT, n.</p>"
+    },
+    "RESEMBLE": {
+      "word": "RESEMBLE",
+      "phonetic": "(ri-zem'-b:)I)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to be like, look like, act like </p><p>RESEMBLE means “to be like or look like” somebody or something. </p><p>“She RESEMBLES her mother, particularly around the eyes.” </p><p>“The twins don’t RESEMBLE each other at all.” </p><p>“The son RESEMBLES his father in his patience and good humor.” </p><p>The noun from RESEMBLE is RESEMBLANCE. </p><p>“The RESEMBLANCE between distant relatives is often remarkable.” </p><p>Other forms of the word: RESEMBLANCE, n.</p>"
+    },
+    "SHELTER": {
+      "word": "SHELTER",
+      "phonetic": "(shel'-t:)r)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">protection, safety </p><p>SHELTER is used in two senses. First, it is a building or place that gives protection. </p><p>“After half an hour they reached the ski SHELTER.” </p><p>“We stood in the bus SHELTER to keep out of the strong wind.” </p><p>Second, SHELTER means protection itself. </p><p>“We tried to find SHELTER from the heavy rain.” </p><p>“The family sought SHELTER in their basement from the bombs.” </p><p>SHELTER is also used as a verb and means to protect. </p><p>“The doorway of the building SHELTERED us from the storm.” </p><p>“The beach umbrella SHELTERS us from the burning sun.”</p>"
+    },
+    "GRASP": {
+      "word": "GRASP",
+      "phonetic": "(grasp)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to take, take hold of, seize, clutch; to understand, comprehend To GRASP something is to take hold of it. </p><p>“He GRASPED the handlebars of his bicycle.” </p><p>“She GRASPED the cup firmly with both hands so that it wouldn’t fall.” GRASP is also used to mean “to take hold of mentally,” to <i class=“def-ital\">understand</i>. </p><p>“I fail to GRASP how your plan will help us.” </p><p>“It took a lot of explaining, but finally Jim seemed to GRASP the idea.”</p>"
+    },
+    "STUMBLE": {
+      "word": "STUMBLE",
+      "phonetic": "(stuhm'-bÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to trip, walk unsteadily, make a mistake </p><p>To STUMBLE is to trip and almost fall, often as the result of hitting something that is in your way. </p><p>“The hidden wire caused him to STUMBLE, but he managed to stay on his feet.” </p><p>To STUMBLE is also to walk along unsteadily, to stagger, as if you were about to fall at any second. </p><p>“The drunk STUMBLED along, barely able to stand up.” </p><p>In general use the word can also mean “to speak or act clumsily,” to blunder or founder. </p><p>“Johnny STUMBLED over every word as he tried to read the sentence.” </p><p>“We didn’t know anything about it, so we just STUMBLED along, doing the best we could.”</p>"
+    },
+    "SHATTER": {
+      "word": "SHATTER",
+      "phonetic": "(shat'-ÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to break SHATTER means “to break into small pieces.” </p><p>SHATTER is used in connection with glass or anything like glass that breaks easily. </p><p>“The bottle rolled off the table and SHATTERED on the floor.” </p><p>“The windshield SHATTERED when the car hit the tree.” </p><p>SHATTER can be used in a broader sense about health, hopes, dreams, nerves, and the like. </p><p>“His nerves were SHATTERED by the terrible battle.”</p>"
+    },
+    "STOOP": {
+      "word": "STOOP",
+      "phonetic": "(stUp)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to bend down, bow down, lower one- self To STOOP is to bend down from the waist. </p><p>“Jim STOOPED over to pick up a dime on the floor.” </p><p>“He STOOPED so that he wouldn’t hit his head on the pipe.” </p><p>From this physical sense STOOP has come to mean “to do something that is beneath you” in terms of either rank or morals. </p><p>“How could you STOOP to telling such an awful lie?” </p><p>“Why did the famous actor STOOP to doing television commercials?”</p>"
+    },
+    "DOWNCAST": {
+      "word": "DOWNCAST",
+      "phonetic": "(down'-kast)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">depressed, sad, discouraged </p><p>The word cast in DOWNCAST means <i class=“def-ital\">throw</i>, and DOWNCAST was originally a verb which meant to <i class=“def-ital\">throw down</i> or <i class=“def-ital\">overthrow</i>. Now DOWNCAST is only used as an adjective to describe spirits or looks that are “thrown down” because something sad has happened. </p><p>“We tried to cheer him up because he seemed DOWN- CAST.” </p><p>“You look so DOWNCAST. What’s wrong?” </p><p>“Bobby has a right to be DOWNCAST. His fumble cost us the game.” </p><p>“Almost everyone feels DOWNCAST on a gray, gloomy day.”</p>"
+    },
+    "SPROUT": {
+      "word": "SPROUT",
+      "phonetic": "(sprowt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to spring up, begin to grow, send out leaves or buds </p><p>To SPROUT means to <i class=“def-ital\">spring up</i>, to <i class=“def-ital\">begin to grow</i>. SPROUT is most often used about plants or other growing things, but it has also come to be used about anything that grows suddenly or quickly. </p><p>“Because of the sudden increase in population, new towns SPROUTED up almost overnight.” </p><p>“When he was fourteen his beard began to SPROUT.” </p><p>SPROUT can also mean “to cause to grow, to send out new leaves.” </p><p>“The tree SPROUTED new buds in the spring.” </p><p>Usage: SPROUT is often followed by <i class=“def-ital\">up</i>.</p>"
+    },
+    "APPROACH": {
+      "word": "APPROACH",
+      "phonetic": "(ÔøΩprOch')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to near, come near </p><p>APPROACH means to <i class=“def-ital\">come near</i> or <i class=“def-ital\">get near</i>. </p><p>“We all felt relieved as we watched him APPROACH us without tripping.” </p><p>“What is the right way to APPROACH the king’s throne?” </p><p>“She was APPROACHING the age to leave home.” </p><p>APPROACH is also a noun that means a <i class=“def-ital\">road</i> or <i class=“def-ital\">way</i> to something. When APPROACH is used to mean <i class=“def-ital\">way</i>, it can be used in either the sense of a <i class=“def-ital\">path</i> or a <i class=“def-ital\">method</i>. </p><p>“We’ll have to use another APPROACH (method) to get him to agree.” </p><p>“The APPROACH (path) to the highway was blocked by snow.”</p>"
+    },
+    "RECOVER": {
+      "word": "RECOVER",
+      "phonetic": "(ri-kuhv'-ÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to get back; to become well </p><p>To RECOVER something is to get or win it back.  </p><p>“She RECOVERED the ring she had lost.” </p><p>“They RECOVERED his shoe from the bottom of the pond.” </p><p>“You’ll never RECOVER all the money you have wasted.” </p><p>When a person RECOVERS <i class=“def-ital\">from</i> something, he gets better, becomes well. </p><p>“He RECOVERED from the sickness.” </p><p>“She is fully RECOVERED from her accident.” </p><p>RECOVERY (the noun) is the act of getting back or getting better. </p><p>“He was pleased by the quick RECOVERY of his lost wallet.” </p><p>“Her RECOVERY from the illness will take many months.” </p><p>Other forms of the word: RECOVERY, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "ABBREVIATE": {
+      "word": "ABBREVIATE",
+      "phonetic": "(ÔøΩbrE'-vE-At)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shorten </p><p>To ABBREVIATE something is to make it shorter by leaving out parts. The word is used particularly when talking about the shortening of words and phrases. </p><p>“The words ‘United States of America’ are ABBRE- VIATED to “USA\". </p><p>“His name was Albert, but he ABBREVIATED it to Al in order to save space.” </p><p>ABBREVIATE can be used about other things as well. </p><p>“The mayor’s speech had to be ABBREVIATED because we ran out of time.” </p><p>The noun from ABBREVIATE is ABBREVIATION. </p><p>“Mr. is the ABBREVIATION for Mister.” </p><p>Other forms of the word: ABBREVIATION, n. 3. 5.</p>"
+    }
+  },
+  "id": "3",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "He IMITATES my work.",
+          "answers": [
+            "looks at",
+            "destroys",
+            "laughs at",
+            "copies",
+            "uses"
+          ],
+          "word": "IMITATE",
+          "correct": "copies"
+        },
+        {
+          "prompt": "Make them SQUIRM.",
+          "answers": [
+            "cry",
+            "beg",
+            "twist about",
+            "jump",
+            "straighten up"
+          ],
+          "word": "SQUIRM",
+          "correct": "twist about"
+        },
+        {
+          "prompt": "Extremely SOCIABLE.",
+          "answers": [
+            "quiet",
+            "friendly",
+            "funny",
+            "kind",
+            "political"
+          ],
+          "word": "SOCIABLE",
+          "correct": "friendly"
+        },
+        {
+          "prompt": "To ACHIEVE recognition.",
+          "answers": [
+            "gain",
+            "lose",
+            "hate",
+            "hope for",
+            "demand"
+          ],
+          "word": "ACHIEVE",
+          "correct": "gain"
+        },
+        {
+          "prompt": "You RESEMBLE him.",
+          "answers": [
+            "hate",
+            "lie to",
+            "meet",
+            "are like",
+            "live near"
+          ],
+          "word": "RESEMBLE",
+          "correct": "are like"
+        },
+        {
+          "prompt": "Need some SHELTER.",
+          "answers": [
+            "heat",
+            "rest",
+            "protection",
+            "excitement",
+            "advice"
+          ],
+          "word": "SHELTER",
+          "correct": "protection"
+        },
+        {
+          "prompt": "He GRASPED the plate.",
+          "answers": [
+            "dropped",
+            "threw",
+            "stole",
+            "took hold of",
+            "breathed onto"
+          ],
+          "word": "GRASP",
+          "correct": "took hold of"
+        },
+        {
+          "prompt": "We mustn't STUMBLE.",
+          "answers": [
+            "run",
+            "jump",
+            "complain",
+            "trip",
+            "stop"
+          ],
+          "word": "STUMBLE",
+          "correct": "trip"
+        },
+        {
+          "prompt": "SHATTER the window.",
+          "answers": [
+            "break",
+            "darken",
+            "drop",
+            "close",
+            "fix"
+          ],
+          "word": "SHATTER",
+          "correct": "break"
+        },
+        {
+          "prompt": "Why must we STOOP?",
+          "answers": [
+            "stand up",
+            "lose",
+            "change",
+            "dig",
+            "bend down"
+          ],
+          "word": "STOOP",
+          "correct": "bend down"
+        },
+        {
+          "prompt": "Everyone seemed so DOWNCAST.",
+          "answers": [
+            "tired",
+            "depressed",
+            "uncomfortable",
+            "hopeful",
+            "steady"
+          ],
+          "word": "DOWNCAST",
+          "correct": "depressed"
+        },
+        {
+          "prompt": "Began to SPROUT.",
+          "answers": [
+            "spring up",
+            "flow",
+            "ripen",
+            "slide",
+            "fall off"
+          ],
+          "word": "SPROUT",
+          "correct": "spring up"
+        },
+        {
+          "prompt": "They APPROACHED the top.",
+          "answers": [
+            "found",
+            "hit",
+            "neared",
+            "left",
+            "missed"
+          ],
+          "word": "APPROACH",
+          "correct": "neared"
+        },
+        {
+          "prompt": "RECOVER the money.",
+          "answers": [
+            "steal",
+            "keep",
+            "look for",
+            "beg for",
+            "get back"
+          ],
+          "word": "RECOVER",
+          "correct": "get back"
+        },
+        {
+          "prompt": "To ABBREVIATE it.",
+          "answers": [
+            "change",
+            "quicken",
+            "spell",
+            "shorten",
+            "lengthen"
+          ],
+          "word": "ABBREVIATE",
+          "correct": "shorten"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can a parrot IMITATE the sound of human speech?",
+          "word": "IMITATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a baby SQUIRM if he didn't want to be held?",
+          "word": "SQUIRM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a person who is always looking for a fight very SOCIABLE?",
+          "word": "SOCIABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most students ACHIEVE perfect grades on all their exams?",
+          "word": "ACHIEVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is there any RESEMBLANCE between horses and donkeys?",
+          "word": "RESEMBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people need SHELTER during a snowstorm?",
+          "word": "SHELTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you GRASP an idea?",
+          "word": "GRASP",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a good ice skater STUMBLE a lot?",
+          "word": "STUMBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a light bulb SHATTER?",
+          "word": "SHATTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are you standing when you STOOP?",
+          "word": "STOOP",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person be DOWNCAST if his best friend moved away?",
+          "word": "DOWNCAST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most trees SPROUT leaves in the fall?",
+          "word": "SPROUT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you APPROACH something without reaching it?",
+          "word": "APPROACH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most people RECOVER from a cold?",
+          "word": "RECOVER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is Dr. an ABBREVIATION for doctor?",
+          "word": "ABBREVIATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Mary tried to IMITATE her older sister in everything she did.",
+          "word": "IMITATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He SQUIRMED with displeasure whenever someone called him by his real name.",
+          "word": "SQUIRM",
+          "correct": "true"
+        },
+        {
+          "prompt": "We chatted SOCIABLY for a while over a cup of tea.",
+          "word": "SOCIABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He received several awards for his ACHIEVEMENTS in science.",
+          "word": "ACHIEVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The crowd RESEMBLED to welcome the new mayor.",
+          "word": "RESEMBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The tree didn't give us enough SHELTER from the rain, so we ran into the house.",
+          "word": "SHELTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "He GRASPED the end of the rope and pulled it toward him.",
+          "word": "GRASP",
+          "correct": "true"
+        },
+        {
+          "prompt": "The wounded man STUMBLED to the door of the hospital, where he fainted.",
+          "word": "STUMBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He SHATTERED the boards together with nails so that they wouldn't move.",
+          "word": "SHATTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Jane had to really STOOP to jump over the fence.",
+          "word": "STOOP",
+          "correct": "false"
+        },
+        {
+          "prompt": "She looked at them with a DOWNCAST expression and said her parents wouldn't let her go.",
+          "word": "DOWNCAST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Several weeds began to SPROUT up in the new lawn.",
+          "word": "SPROUT",
+          "correct": "true"
+        },
+        {
+          "prompt": "When they saw the big dog APPROACH them, they ran away as fast as they could.",
+          "word": "APPROACH",
+          "correct": "true"
+        },
+        {
+          "prompt": "They were not allowed to keep the treasure they RECOVERED from the sunken ship.",
+          "word": "RECOVER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Paul ABBREVIATED the rope in half with a knife.",
+          "word": "ABBREVIATE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "IMITATE",
+          "answers": [
+            "create",
+            "act like",
+            "copy"
+          ],
+          "word": "IMITATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SQUIRM",
+          "answers": [
+            "jump",
+            "twist",
+            "wriggle"
+          ],
+          "word": "SQUIRM",
+          "correct": "0"
+        },
+        {
+          "prompt": "SOCIABLE",
+          "answers": [
+            "friendly",
+            "unwelcome",
+            "neighborly"
+          ],
+          "word": "SOCIABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ACHIEVE",
+          "answers": [
+            "get",
+            "reach",
+            "give"
+          ],
+          "word": "ACHIEVE",
+          "correct": "2"
+        },
+        {
+          "prompt": "RESEMBLE",
+          "answers": [
+            "match",
+            "compare",
+            "differ"
+          ],
+          "word": "RESEMBLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SHELTER",
+          "answers": [
+            "safety",
+            "beauty",
+            "warmth"
+          ],
+          "word": "SHELTER",
+          "correct": "1"
+        },
+        {
+          "prompt": "GRASP",
+          "answers": [
+            "understand",
+            "take",
+            "hit"
+          ],
+          "word": "GRASP",
+          "correct": "2"
+        },
+        {
+          "prompt": "STUMBLE",
+          "answers": [
+            "trip",
+            "bend",
+            "fall"
+          ],
+          "word": "STUMBLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "SHATTER",
+          "answers": [
+            "explode",
+            "break",
+            "rot"
+          ],
+          "word": "SHATTER",
+          "correct": "2"
+        },
+        {
+          "prompt": "STOOP",
+          "answers": [
+            "bend",
+            "spin",
+            "sink"
+          ],
+          "word": "STOOP",
+          "correct": "1"
+        },
+        {
+          "prompt": "DOWNCAST",
+          "answers": [
+            "unhappy",
+            "miserable",
+            "ill"
+          ],
+          "word": "DOWNCAST",
+          "correct": "2"
+        },
+        {
+          "prompt": "SPROUT",
+          "answers": [
+            "bud",
+            "grow",
+            "decrease"
+          ],
+          "word": "SPROUT",
+          "correct": "2"
+        },
+        {
+          "prompt": "APPROACH",
+          "answers": [
+            "way",
+            "chance",
+            "path"
+          ],
+          "word": "APPROACH",
+          "correct": "1"
+        },
+        {
+          "prompt": "RECOVER",
+          "answers": [
+            "get back",
+            "win back",
+            "look back"
+          ],
+          "word": "RECOVER",
+          "correct": "2"
+        },
+        {
+          "prompt": "ABBREVIATE",
+          "answers": [
+            "age",
+            "cut",
+            "shorten"
+          ],
+          "word": "ABBREVIATE",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

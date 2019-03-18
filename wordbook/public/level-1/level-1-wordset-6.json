@@ -1,0 +1,611 @@
+{
+  "title": "1.6",
+  "definitions": {
+    "EXHALE": {
+      "word": "EXHALE",
+      "phonetic": "(eks-hAI')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to breathe out </p><p> To EXHALE is to breathe out. </p><p>“He took a deep breath, then EXHALED slowly.” </p><p>“He EXHALED the air from his lungs.” </p><p>The opposite of EXHALE is INHALE, to breathe in. Other forms of the word: EXHALATION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ex<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "HURDLE": {
+      "word": "HURDLE",
+      "phonetic": "(herd'-ÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to jump over, overcome, surmount </p><p>A HURDLE is an obstacle that you jump over in certain running races. To HURDLE something is to jump over it the way a runner would jump over a HURDLE. </p><p>“With one tremendous leap, the horse HURDLED the high fence.” </p><p>You can HURDLE any kind of obstacle or barrier. </p><p>“If we can HURDLE this final problem the project will be a success.” </p><p>“Students had to HURDLE a difficult series of tests before they were admitted to the school.” </p><p>HURDLE is sometimes confused with <i class=“def-ital\">hurtle</i>, which means “to move with great speed.” </p><p>“He <i class=“def-ital\">hurtled</i> down the mountainside, HURDLING several fallen trees along the way.”</p>"
+    },
+    "DEFEND": {
+      "word": "DEFEND",
+      "phonetic": "(di-fend')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to protect, guard </p><p>To DEFEND something is to protect it, to keep it from harm. </p><p>“The high wall DEFENDS the city against its enemies.” </p><p>“His friends DEFENDED him when he was being attacked.” </p><p>You can DEFEND someone from other things besides physical harm. </p><p>“The teacher DEFENDED Bill’s right to say what was on his mind.” </p><p>The act of DEFENDING is called DEFENSE. </p><p>“In DEFENSE of their kittens, mother cats will attack much larger animals.” </p><p>“The government spends a great deal of money for the DEFENSE of the country.” </p><p>Other forms of the word: DEFENSE, n.</p>"
+    },
+    "HAZARD": {
+      "word": "HAZARD",
+      "phonetic": "(haz'-ÔøΩrd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">danger, risk, peril </p><p>Originally HAZARD was a game of chance using dice. HAZARD has come to be used about anything that has a chance of being harmful, a possible source of danger or injury. “The ice on the roads is a real HAZARD to drivers.” </p><p>“The building inspector said that the loose electrical wires were a HAZARD.” </p><p>The adjective from HAZARD is HAZARDOUS, meaning <i class=“def-ital\">dangerous</i> or <i class=“def-ital\">risky</i>. </p><p>“Cigarette smoking is HAZARDOUS to your health.” </p><p>“Going over Niagara Falls in a barrel is certainly a HAZARDOUS feat.” </p><p>Other forms of the word: HAZARDOUS, adj.</p>"
+    },
+    "ERUPT": {
+      "word": "ERUPT",
+      "phonetic": "(i-ruhpt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to burst forth, explode, break out </p><p>To ERUPT is to burst forth, suddenly and usually violently.  When a volcano ERUPTS, steam and lava pour out of it. </p><p>“A cheer ERUPTED from the crowd when we scored the winning touchdown.” </p><p>“Her face ERUPTS in a rash whenever she eats strawberries.” </p><p>“Hal kept his anger under control all day, but it finally ERUPTED at something Ann said.” </p><p>An ERUPTION is an outburst or an explosion. </p><p>“The sudden ERUPTION of fighting between the two countries surprised everyone.” </p><p>Other forms of the word: ERUPTION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ex<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "CONCEAL": {
+      "word": "CONCEAL",
+      "phonetic": "(kÔøΩn-sEI')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to hide, keep secret </p><p>To CONCEAL something is to hide it from sight. </p><p>“Ann CONCEALED the letter under her pillow.” </p><p>“He CONCEALED his face with a mask.” </p><p>“Several large trees CONCEALED the house from view.” </p><p>You can also CONCEAL ideas, plans, conditions, facts, and so on. </p><p>“He cleverly CONCEALED his real opinion by agreeing with everything we said.” </p><p>“It was impossible to CONCEAL the truth from her. She guessed it right away.” </p><p>Other forms of the word: CONCEALMENT, n.</p>"
+    },
+    "BLUSH": {
+      "word": "BLUSH",
+      "phonetic": "(bluh",
+      "pos": "sh)",
+      "deftext": "<p class=\"definition\">v.: to redden, become red </p><p>BLUSH means to <i class=“def-ital\">redden</i> or to <i class=“def-ital\">become red</i>. When people BLUSH, their faces become red, usually because they are embarrassed or ashamed. </p><p>“David BLUSHED as he accepted the award for being the top student.” </p><p>“She tries hard to appear calm, but whenever she meets him she BLUSHES.” </p><p>BLUSH is also used as a noun. </p><p>“Andy covered his face with his hands to hide his BLUSHES.” </p><p>“Samantha admitted with a BLUSH that she had lied.”</p>"
+    },
+    "EXAMINE": {
+      "word": "EXAMINE",
+      "phonetic": "(ig-zam'-ÔøΩn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to look at carefully, search, inspect, test, question </p><p>To EXAMINE something is to look at it carefully in order to find out something about it or to learn from it. You can EXAMINE things. </p><p>“He EXAMINED the boat for leaks.” </p><p>“The dentist EXAMINED his teeth.” </p><p>Or you can EXAMINE people, by asking questions instead of just looking. </p><p>“The lawyer EXAMINED the witness.” </p><p>“The teacher EXAMINED the students in algebra.” </p><p>An EXAMINATION is an act of EXAMINING, a test. </p><p>“Did you pass the final EXAMINATION?” </p><p>“The luggage underwent a thorough EXAMINATION.” </p><p>Other forms of the word: EXAMINATION, n.</p>"
+    },
+    "CONSTRUCT": {
+      "word": "CONSTRUCT",
+      "phonetic": "(kÔøΩn-struhkt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to build, put together </p><p>CONSTRUCT means to <i class=“def-ital\">build</i>, especially by putting together parts. </p><p>“We are going to CONSTRUCT a small shed in our backyard for all the gardening equipment.” </p><p>“That big hotel was CONSTRUCTED in less than six months.” </p><p>You can CONSTRUCT other things besides buildings. </p><p>“He can CONSTRUCT a kite out of newspaper and cardboard.” </p><p>“She CONSTRUCTED her argument very carefully by putting all the facts together and in order.” </p><p>Other forms of the word: CONSTRUCTION, n.</p>"
+    },
+    "REGULATION": {
+      "word": "REGULATION",
+      "phonetic": "(re-gyÔøΩIA'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a rule, order </p><p>A REGULATION is a rule, an order which must be followed. </p><p>“It says in the school REGULATIONS that you are to be here by 8:30.” </p><p>“They were careful to follow all the safety REGULATIONS.” </p><p>“None of the REGULATIONS covers this particular problem.” </p><p>“It is against company REGULATIONS for a worker to be absent without good reason.” </p><p>Other forms of the word: REGULATE, v. REGULATORY, adj.</p>"
+    },
+    "GRIME": {
+      "word": "GRIME",
+      "phonetic": "(grim)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">dirt, soot, dust </p><p>GRIME is dirt, especially a coating of dirt on the surface of something. </p><p>“There was a layer of GRIME on the windowsill that no amount of scrubbing could remove.” </p><p>“After working in the mine all day his face was covered with GRIME.” </p><p>GRIMY means “covered with GRIME,” <i class=“def-ital\">dirty</i>. </p><p>“Don’t touch that white tablecloth with your GRIMY hands.” </p><p>Other forms of the word: GRIMY, adj.</p>"
+    },
+    "HANDICAP": {
+      "word": "HANDICAP",
+      "phonetic": "(han'-dE-kap)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a disadvantage, disability </p><p>HANDICAP is a term in horse racing. In some races, in order to make them fairer or more exciting, the faster horses are given more weight to carry than the slower horses. This extra weight is called a HANDICAP. HANDICAP has come into general use, meaning “any kind of burden or disadvantage which lessens your chance of success.” </p><p>“His poor background in mathematics was quite a HANDICAP when he tried to study engineering.” </p><p>“She didn’t think of her blindness as a HANDICAP; she thought of it as a challenge to be overcome.” </p><p>HANDICAP can also be a verb. </p><p>“We were HANDICAPPED by our inability to speak Spanish.”</p>"
+    },
+    "DISGRACE": {
+      "word": "DISGRACE",
+      "phonetic": "(dis-grAs')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">shame, dishonor </p><p> One meaning of <i class=“def-ital\">grace</i> is <i class=“def-ital\">favor</i> or <i class=“def-ital\">goodwill</i>. To be in someone’s “good graces” is to enjoy his honor and approval. DISGRACE is a lack of <i class=“def-ital\">grace</i>; it is shame or dishonor. </p><p>“His crimes brought DISGRACE on his entire family.” </p><p>A DISGRACE is also the thing or person that causes the shame. </p><p>“That worker is a DISGRACE to the company. He should be fired.” </p><p>Something which is DISGRACEFUL causes DISGRACE. </p><p>“Your conduct is DISGRACEFUL. You should be ashamed of yourself.” </p><p>Other forms of the word: DISGRACEFUL, adj.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "BAIT": {
+      "word": "BAIT",
+      "phonetic": "(bAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to lure, entice; to attack, tease, harass <i class=“def-ital\">BAIT is related to the word <i class=“def-ital\">bite</i>. BAIT as a noun is food, or something like food, put on a hook to attract a fish. As a verb, BAIT has developed two different meanings. To BAIT someone can be to lure them the way a fish is lured, by holding out something to tempt them. “The phony message BAITED the enemy into attacking us just where we wanted them to.” </p><p>To BAIT is also to torment, annoy, or harass, usually in speech or writing. </p><p>“An angry woman in the crowd BAITED the speaker until he lost his temper.” </p><p>“The other team BAITED us the whole game about our poor record.”</p>"
+    },
+    "SPLENDID": {
+      "word": "SPLENDID",
+      "phonetic": "(splen'-did)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">magnificent, grand, excellent </p><p>SPLENDID comes from a Latin word meaning to <i class=“def-ital\">shine</i>. Something that is SPLENDID shines out; it is brilliant or magnificent. </p><p>“She looked SPLENDID in her fancy new gown.” </p><p>“This is a SPLENDID book. I recommend it highly.” </p><p>“We had a SPLENDID opportunity to score, but we weren’t able to.” </p><p>The noun from SPLENDID is SPLENDOR. SPLENDOR is <i class=“def-ital\">magnificence</i> or <i class=“def-ital\">excellence</i>. </p><p>“We were amazed by the SPLENDOR of every room in the palace.” </p><p>Other forms of the word: SPLENDOR, n.</p>"
+    }
+  },
+  "id": "6",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "He EXHALED slowly.",
+          "answers": [
+            "died",
+            "coughed",
+            "breathed out",
+            "smoked",
+            "breathed in"
+          ],
+          "word": "EXHALE",
+          "correct": "breathed out"
+        },
+        {
+          "prompt": "HURDLE the wall.",
+          "answers": [
+            "jump over",
+            "surround",
+            "climb",
+            "run into",
+            "knock down"
+          ],
+          "word": "HURDLE",
+          "correct": "jump over"
+        },
+        {
+          "prompt": "We must DEFEND them.",
+          "answers": [
+            "insult",
+            "protect",
+            "admire",
+            "help",
+            "attack"
+          ],
+          "word": "DEFEND",
+          "correct": "protect"
+        },
+        {
+          "prompt": "She saw the HAZARD.",
+          "answers": [
+            "wild bird",
+            "danger",
+            "electrical wire",
+            "signal",
+            "fire"
+          ],
+          "word": "HAZARD",
+          "correct": "danger"
+        },
+        {
+          "prompt": "The boiler ERUPTED.",
+          "answers": [
+            "broke down",
+            "roared",
+            "shut off",
+            "burst forth",
+            "became rusty"
+          ],
+          "word": "ERUPT",
+          "correct": "burst forth"
+        },
+        {
+          "prompt": "CONCEAL it.",
+          "answers": [
+            "look for",
+            "break",
+            "show",
+            "hide",
+            "lose"
+          ],
+          "word": "CONCEAL",
+          "correct": "hide"
+        },
+        {
+          "prompt": "Started to BLUSH.",
+          "answers": [
+            "grin",
+            "redden",
+            "tremble",
+            "sob",
+            "run"
+          ],
+          "word": "BLUSH",
+          "correct": "redden"
+        },
+        {
+          "prompt": "EXAMINE the results.",
+          "answers": [
+            "spoil",
+            "talk about",
+            "remember",
+            "forget",
+            "look into"
+          ],
+          "word": "EXAMINE",
+          "correct": "look into"
+        },
+        {
+          "prompt": "CONSTRUCT the palace.",
+          "answers": [
+            "tear down",
+            "build",
+            "repair",
+            "write about",
+            "visit"
+          ],
+          "word": "CONSTRUCT",
+          "correct": "build"
+        },
+        {
+          "prompt": "Another REGULATION.",
+          "answers": [
+            "announcement",
+            "question",
+            "rule",
+            "decision",
+            "suggestion"
+          ],
+          "word": "REGULATION",
+          "correct": "rule"
+        },
+        {
+          "prompt": "So much GRIME.",
+          "answers": [
+            "frost",
+            "junk",
+            "water",
+            "dirt",
+            "rust"
+          ],
+          "word": "GRIME",
+          "correct": "dirt"
+        },
+        {
+          "prompt": "Quite a HANDICAP.",
+          "answers": [
+            "help",
+            "prize",
+            "disadvantage",
+            "decision",
+            "loss"
+          ],
+          "word": "HANDICAP",
+          "correct": "disadvantage"
+        },
+        {
+          "prompt": "Aware of his DISGRACE.",
+          "answers": [
+            "shame",
+            "crime",
+            "clumsiness",
+            "reward",
+            "sadness"
+          ],
+          "word": "DISGRACE",
+          "correct": "shame"
+        },
+        {
+          "prompt": "To BAIT them.",
+          "answers": [
+            "invite",
+            "expect",
+            "interest",
+            "kill",
+            "annoy"
+          ],
+          "word": "BAIT",
+          "correct": "annoy"
+        },
+        {
+          "prompt": "SPLENDID appearance.",
+          "answers": [
+            "innocent",
+            "magnificent",
+            "dull",
+            "improved",
+            "holy"
+          ],
+          "word": "SPLENDID",
+          "correct": "magnificent"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do rocks EXHALE?",
+          "word": "EXHALE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you HURDLE a building?",
+          "word": "HURDLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you DEFEND a person with words?",
+          "word": "DEFEND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should you avoid a HAZARD?",
+          "word": "HAZARD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a tall tree ERUPT from the ground overnight?",
+          "word": "ERUPT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a thought be CONCEALED?",
+          "word": "CONCEAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people usually BLUSH because they are sleepy?",
+          "word": "BLUSH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do doctors EXAMINE their patients?",
+          "word": "EXAMINE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are houses CONSTRUCTED before people live in them?",
+          "word": "CONSTRUCT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most schools have REGULATIONS?",
+          "word": "REGULATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does taking a shower make you GRIMY?",
+          "word": "GRIME",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a small dog have a HANDICAP in a fight with a large one?",
+          "word": "HANDICAP",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it DISGRACEFUL to help someone in need?",
+          "word": "DISGRACE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is cheese used as BAIT to catch mice?",
+          "word": "BAIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a rubbish dump SPLENDID?",
+          "word": "SPLENDID",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He EXHALED the wonderful smell of bread baking.",
+          "word": "EXHALE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The car went out of control and HURDLED into the wall.",
+          "word": "HURDLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He kept DEFENDING them until finally they called the police, and he was ar rested.",
+          "word": "DEFEND",
+          "correct": "false"
+        },
+        {
+          "prompt": "It was a HAZARDOUS job, so no one wanted to do it.",
+          "word": "HAZARD",
+          "correct": "true"
+        },
+        {
+          "prompt": "An outburst of applause ERUPTED from the audience when the act was over.",
+          "word": "ERUPT",
+          "correct": "true"
+        },
+        {
+          "prompt": "She couldn't CONCEAL how happy she was to see them.",
+          "word": "CONCEAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "She BLUSHED when he told her he loved her.",
+          "word": "BLUSH",
+          "correct": "true"
+        },
+        {
+          "prompt": "We EXAMINED the paper carefully to see if there were any mistakes.",
+          "word": "EXAMINE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She cleaned the room and CONSTRUCTED it every day.",
+          "word": "CONSTRUCT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Your actions were against REGULATIONS, and you must be punished.",
+          "word": "REGULATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "The rain washed away some of the GRIME on his face.",
+          "word": "GRIME",
+          "correct": "true"
+        },
+        {
+          "prompt": "In the race, the faster drivers were given the HANDICAP of a head start.",
+          "word": "HANDICAP",
+          "correct": "false"
+        },
+        {
+          "prompt": "His manners are a DISGRACE. No one should eat with him.",
+          "word": "DISGRACE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The students BAITED the teacher by making fun of everything he said and did.",
+          "word": "BAIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The SPLENDOR of the sight made us gasp.",
+          "word": "SPLENDID",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "EXHALE",
+          "answers": [
+            "feel",
+            "breathe",
+            "sneeze"
+          ],
+          "word": "EXHALE",
+          "correct": "0"
+        },
+        {
+          "prompt": "HURDLE",
+          "answers": [
+            "bump",
+            "leap",
+            "jump"
+          ],
+          "word": "HURDLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DEFEND",
+          "answers": [
+            "guard",
+            "win",
+            "save"
+          ],
+          "word": "DEFEND",
+          "correct": "1"
+        },
+        {
+          "prompt": "HAZARD",
+          "answers": [
+            "danger",
+            "threat",
+            "fog"
+          ],
+          "word": "HAZARD",
+          "correct": "2"
+        },
+        {
+          "prompt": "ERUPT",
+          "answers": [
+            "spurt",
+            "crash",
+            "explode"
+          ],
+          "word": "ERUPT",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONCEAL",
+          "answers": [
+            "bury",
+            "hide",
+            "fake"
+          ],
+          "word": "CONCEAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "BLUSH",
+          "answers": [
+            "fear",
+            "redden",
+            "shame"
+          ],
+          "word": "BLUSH",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXAMINE",
+          "answers": [
+            "know",
+            "study",
+            "search"
+          ],
+          "word": "EXAMINE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONSTRUCT",
+          "answers": [
+            "fix",
+            "make",
+            "build"
+          ],
+          "word": "CONSTRUCT",
+          "correct": "0"
+        },
+        {
+          "prompt": "REGULATION",
+          "answers": [
+            "order",
+            "request",
+            "law"
+          ],
+          "word": "REGULATION",
+          "correct": "1"
+        },
+        {
+          "prompt": "GRIME",
+          "answers": [
+            "sickness",
+            "dirt",
+            "filth"
+          ],
+          "word": "GRIME",
+          "correct": "0"
+        },
+        {
+          "prompt": "HANDICAP",
+          "answers": [
+            "disadvantage",
+            "disability",
+            "condition"
+          ],
+          "word": "HANDICAP",
+          "correct": "2"
+        },
+        {
+          "prompt": "DISGRACE",
+          "answers": [
+            "badness",
+            "bashfulness",
+            "shame"
+          ],
+          "word": "DISGRACE",
+          "correct": "1"
+        },
+        {
+          "prompt": "BAIT",
+          "answers": [
+            "tease",
+            "touch",
+            "attract"
+          ],
+          "word": "BAIT",
+          "correct": "1"
+        },
+        {
+          "prompt": "SPLENDID",
+          "answers": [
+            "grand",
+            "dangerous",
+            "tremendous"
+          ],
+          "word": "SPLENDID",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}
