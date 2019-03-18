@@ -7,6 +7,18 @@ import Breadcrumb from '../Breadcrumb';
 import { urlPrefix } from '../API';
 
 export default class App extends Component {
+  constructor (props) {
+    super(props);
+    this.enableStorage = this.enableStorage.bind(this);
+    this.state = {
+      useStorage: false
+    };
+  }
+
+  enableStorage () {
+    this.setState({ useStorage: true });
+  }
+
   render () {
     return (
       <main className='container bg-secondary min-vh-100'>
@@ -30,7 +42,10 @@ export default class App extends Component {
         <Route path='/:learning?/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?' component={Breadcrumb} />
         <Route exact path='/' component={Home} />
         <Route path='/placement' component={PlacementPage} />
-        <Route path='/learning' component={LearningPage} />
+        <Route path='/learning' render={() => <LearningPage
+          enableStorage={this.enableStorage}
+          useStorage={this.state.useStorage}
+        />} />
       </main>
     );
   }

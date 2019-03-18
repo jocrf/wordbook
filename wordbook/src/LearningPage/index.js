@@ -16,7 +16,9 @@ export default class LearningPage extends Component {
 
   componentDidMount () {
     if (storageAvailable('localStorage')) {
-      // pop up a modal to ask if we can use it
+      // check if they have already agreed to use storage
+      // if so, pop up a continue modal
+      // if not, pop up a modal to ask if they want to use storage
       console.log('we have storage!');
     }
   }
