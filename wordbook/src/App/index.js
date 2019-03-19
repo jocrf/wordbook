@@ -9,13 +9,13 @@ import { urlPrefix } from '../API';
 export default class App extends Component {
   constructor (props) {
     super(props);
-    this.enableStorage = this.enableStorage.bind(this);
+    this.setStorageState = this.setStorageState.bind(this);
     this.state = {
       useStorage: false
     };
   }
 
-  enableStorage () {
+  setStorageState () {
     this.setState({ useStorage: true });
   }
 
@@ -43,7 +43,7 @@ export default class App extends Component {
         <Route exact path='/' component={Home} />
         <Route path='/placement' component={PlacementPage} />
         <Route path='/learning' render={() => <LearningPage
-          enableStorage={this.enableStorage}
+          setStorageState={this.setStorageState}
           useStorage={this.state.useStorage}
         />} />
       </main>
