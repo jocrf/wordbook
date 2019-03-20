@@ -5,6 +5,7 @@ import StorageView from './StorageView';
 export default class StorageModal extends Component {
   constructor (props) {
     super(props);
+    this.checkForProgress = this.checkForProgress.bind(this);
     this.enableStorage = this.enableStorage.bind(this);
     this.saveProgress = this.saveProgress.bind(this);
     this.localStorage = window.localStorage;
@@ -21,9 +22,16 @@ export default class StorageModal extends Component {
         // if not, pop up a modal to ask if they want to use storage
         // but need to make sure it doesn't exist, not that they have chosen to not use it
       }
-      console.log('we have storage!');
     }
   }
+
+  checkForProgress (type) {
+    const current = this.props[type];
+    const stored = this.localStorage.getItem(type);
+    return current === stored;
+  }
+
+  // build URL step - make sure to handle any undefined keys from storage
 
   enableStorage () {
     this.localStorage.setItem('usingStorage', true);
@@ -32,29 +40,35 @@ export default class StorageModal extends Component {
 
   saveProgress () {
     const { exercise, section, wordset, level } = this.props;
-    const savedLevel = this.localStorage.getItem('level');
-    const savedSection = this.localStorage.getItem('section');
-    const savedWordset = this.localStorage.getItem('wordset');
-    const savedExercise = this.localStorage.getItem('exercise');
-    console.log('in storage: ', savedLevel, savedExercise, savedSection, savedWordset);
-    if (exercise !== savedExercise) {
-      this.localStorage.setItem('exercise', exercise);
-    }
-    if (wordset !== savedWordset) {
-      this.localStorage.setItem('wordset', wordset);
-    }
-    if (section !== savedSection) {
-      this.localStorage.setItem('section', section);
-    }
-    if (level !== savedLevel) {
-      this.localStorage.setItem('level', level);
-    }
+    let updateArr = [];
+    ['exercise', 'wordset', 'section', 'level'].forEach(type => {
+      if (!this.checkForProgress(type)) {
+        updateArr.push(type);
+      }
+    });
+    updateArr.forEach(type => {
+      switch (type) {
+        case 'exercise':
+          this.localStorage.setItem('exercise', exercise);
+          break;
+        case 'section':
+          this.localStorage.setItem('section', section);
+          break;
+        case 'wordset':
+          this.localStorage.setItem('wordset', wordset);
+          break;
+        case 'level':
+          this.localStorage.setItem('level', level);
+          break;
+        default:
+          console.log('unexpected type ' + type);
+      }
+    });
   }
 
   // check if wordset === 'review'
 
   render () {
-    console.log(this.props.level, this.props.section, this.props.wordset, this.props.exercise);
     return (
       <React.Fragment>
         {
