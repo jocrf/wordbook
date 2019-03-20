@@ -10,10 +10,22 @@ export default class StorageView extends Component {
       ? prevSessionUrl = `/learning/level/${level}/section/${section}/review/${exercise}`
       : prevSessionUrl = `/learning/level/${level}/section/${section}/wordset/${wordset}/exercise/${exercise}`;
     return (
-      <div>
-        <button onClick={this.props.saveProgress}>Save progress</button>
-        <Link to={prevSessionUrl}>Restore previous session</Link>
-      </div>
+      <React.Fragment>
+        {
+          !this.props.useStorage &&
+            <div>
+              <label htmlFor='enable-storage'>Enable storage?</label>
+              <input type='checkbox' id='enable-storage' onChange={this.props.enableStorage} />
+            </div>
+        }
+        {
+          this.props.useStorage &&
+            <div>
+              <button onClick={this.props.saveProgress}>Save progress</button>
+              <Link to={prevSessionUrl}>Restore previous session</Link>
+            </div>
+        }
+      </React.Fragment>
     );
   }
 }
