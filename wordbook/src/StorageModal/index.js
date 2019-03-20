@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { storageAvailable } from '../API';
 import StorageView from './StorageView';
+import UndefinedMessage from './UndefinedMessage';
 
 export default class StorageModal extends Component {
   constructor (props) {
@@ -8,7 +9,12 @@ export default class StorageModal extends Component {
     this.checkForProgress = this.checkForProgress.bind(this);
     this.enableStorage = this.enableStorage.bind(this);
     this.saveProgress = this.saveProgress.bind(this);
+    this.setMessage = this.setMessage.bind(this);
+    this.unsetMessage = this.unsetMessage.bind(this);
     this.localStorage = window.localStorage;
+    this.state = {
+      undefinedType: false
+    };
   }
 
   componentDidMount () {
@@ -27,6 +33,9 @@ export default class StorageModal extends Component {
 
   checkForProgress (type) {
     const current = this.props[type];
+    if (!current) {
+      return this.setMessage();
+    }
     const stored = this.localStorage.getItem(type);
     return current === stored;
   }
@@ -64,6 +73,16 @@ export default class StorageModal extends Component {
     });
   }
 
+  // below methods to handle an undefined type (i.e. if an exercise hasn't been selected)
+  // using set and unset rather than a toggle method because if an even number of types are undefined, the toggle will cancel out
+  setMessage () {
+    this.setState({ undefinedType: true });
+  }
+
+  unsetMessage () {
+    this.setState({ undefinedType: false });
+  }
+
   render () {
     return (
       <React.Fragment>
@@ -83,6 +102,10 @@ export default class StorageModal extends Component {
             wordset={this.localStorage.getItem('wordset')}
             exercise={this.localStorage.getItem('exercise')}
           />
+        }
+        {
+          this.state.undefinedType &&
+          <UndefinedMessage unsetMessage={this.unsetMessage} />
         }
       </React.Fragment>
     );
