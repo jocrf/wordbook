@@ -31,8 +31,6 @@ export default class StorageModal extends Component {
     return current === stored;
   }
 
-  // build URL step - make sure to handle any undefined keys from storage
-
   enableStorage () {
     this.localStorage.setItem('usingStorage', true);
     this.props.setStorageState();
@@ -66,8 +64,6 @@ export default class StorageModal extends Component {
     });
   }
 
-  // check if wordset === 'review'
-
   render () {
     return (
       <React.Fragment>
@@ -80,7 +76,13 @@ export default class StorageModal extends Component {
         }
         {
           this.props.useStorage &&
-          <StorageView saveProgress={this.saveProgress} />
+          <StorageView
+            saveProgress={this.saveProgress}
+            level={this.localStorage.getItem('level')}
+            section={this.localStorage.getItem('section')}
+            wordset={this.localStorage.getItem('wordset')}
+            exercise={this.localStorage.getItem('exercise')}
+          />
         }
       </React.Fragment>
     );
