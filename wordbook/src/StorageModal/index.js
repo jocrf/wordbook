@@ -14,6 +14,7 @@ export default class StorageModal extends Component {
     this.unsetMessage = this.unsetMessage.bind(this);
     this.localStorage = window.localStorage;
     this.state = {
+      progressSaved: false,
       undefinedType: false
     };
   }
@@ -28,6 +29,19 @@ export default class StorageModal extends Component {
       } else {
         // if not, pop up a modal to ask if they want to use storage
         // but need to make sure it doesn't exist, not that they have chosen to not use it
+      }
+    }
+  }
+
+  componentDidUpdate (prevProps, prevState) {
+    console.log('updating');
+    // if we haven't saved progress
+    console.log(prevState.progressSaved);
+    if (!prevState.progressSaved) {
+      // check if there is data in storage
+      if (this.localStorage.getItem('exercise')) {
+      // if so, set state that we have saved progress
+        this.setState({ progressSaved: true });
       }
     }
   }
@@ -106,6 +120,7 @@ export default class StorageModal extends Component {
                 enableStorage={this.enableStorage}
                 enableChange={this.enableChange}
                 saveProgress={this.saveProgress}
+                progressSaved={this.state.progressSaved}
                 level={this.localStorage.getItem('level')}
                 section={this.localStorage.getItem('section')}
                 wordset={this.localStorage.getItem('wordset')}

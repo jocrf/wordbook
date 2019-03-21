@@ -30,7 +30,10 @@ export default class StorageView extends Component {
             <section className='card d-flex'>
               <div className='card-body p-0'>
                 <button onClick={this.props.saveProgress} className='btn btn-secondary m-2'>Save progress</button>
-                <Link to={prevSessionUrl} className='btn btn-secondary m-2'>Restore saved session</Link>
+                {
+                  this.props.progressSaved &&
+                    <Link to={prevSessionUrl} className='btn btn-secondary m-2'>Restore saved session</Link>
+                }
               </div>
             </section>
         }
