@@ -1,0 +1,611 @@
+{
+  "title": "5.5",
+  "definitions": {
+    "RENDEZVOUS": {
+      "word": "RENDEZVOUS",
+      "phonetic": "(ron'-dA-vU)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a meeting, meeting-place </p><p>Note the pronunciation. RENDEZVOUS comes from a French phrase which means “Present yourselves.” A RENDEZVOUS is a place where people arrange to meet. The word is often used as a military term for the place where ships or troops are to assemble. </p><p>“I’ll meet you at four o’clock at the RENDEZVOUS.” </p><p>A RENDEZVOUS can also be the meeting itself. </p><p>“We arranged a RENDEZVOUS for four o’clock.” </p><p>“I had a RENDEZVOUS with them at the restaurant.” </p><p>RENDEZVOUS is also a verb. </p><p>“We will RENDEZVOUS at the usual place.” </p><p>On the Pretest, many people select <i class=“def-ital\">journey</i> as the synonym for RENDEZVOUS, perhaps because you have to travel to reach a RENDEZVOUS.</p>"
+    },
+    "RESOLUTE": {
+      "word": "RESOLUTE",
+      "phonetic": "(rez'-:;,-IUt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">determined, firm, resolved </p><p>One meaning of the word RESOLVE is to <i class=“def-ital\">decide</i> or <i class=“def-ital\">determine.</i> </p><p>“He RESOLVED that he would be famous by age thirty.” </p><p>RESOLUTE is the adjective from RESOLVE, and is used about people. Someone who is RESOLUTE is firm and determined in a course of action or belief. </p><p>“The senators were RESOLUTE in their opposition to the bill.” </p><p>“The RESOLUTE men said that if it was necessary they would wait all day to see him.” </p><p>“He stood RESOLUTE against all the enemies of the nation.” </p><p>Other forms of the word: RESOLUTION,n. RESOLVE,v.</p>"
+    },
+    "RESTRICT": {
+      "word": "RESTRICT",
+      "phonetic": "(ri-strikt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to limit, restrain </p><p>To RESTRICT means “to put limits on, to keep within bounds.” The word is used about both people and things. </p><p>“Their parents RESTRICT them to one cookie for dessert.” </p><p>“Bicycles are RESTRICTED to certain paths in the park.” </p><p>“His speech was largely RESTRICTED to the topic of international trade.” </p><p><i class=“def-ital\">Stop</i> is often chosen as the meaning of RESTRICT,but you can RESTRICT something without entirely <i class=“def-ital\">stopping</i> it. </p><p>“The sale of alcohol is RESTRICTED to persons over eighteen years of age.” </p><p>Other forms of the word: RESTRICTION,n.</p>"
+    },
+    "ILLICIT": {
+      "word": "ILLICIT",
+      "phonetic": "(i-lis'-it)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unlawful, not allowed, not permitted </p><p><i class=“def-ital\">Licit</i> is a rather rare word which means <i class=“def-ital\">legal, lawful.</i> It comes from a Latin word meaning “It is allowed.” ILLICIT is the opposite of <i class=“def-ital\">licit.</i> It means “not allowed,” <i class=“def-ital\">unlawful, illegal.</i>  </p><p>“The ILLICIT sale of drugs is a major problem.” </p><p>“The company was accused of ILLICIT business practices.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "SARCASTIC": {
+      "word": "SARCASTIC",
+      "phonetic": "(sahr-kas'-tik)",
+      "pos": "adj",
+      "deftext": "<p class=\"definition\">biting, caustic, ironical </p><p>SARCASTIC and its noun SARCASM come from a Greek word meaning “to tear flesh,to bite one’s lips in rage, thus to sneer.” SARCASM is biting language, remarks that hurt by making fun of someone or something. </p><p>“No one liked him because he always treated everyone with SARCASM.” </p><p>SARCASTIC means “full of SARCASM,” and is used about people and the things they say or do. </p><p>“He was a SARCASTIC fellow, always ready to insult people. ” </p><p>“The teacher’s SARCASTIC remarks made the little girl cry.” </p><p>Other forms of the word: SARCASM,n.</p>"
+    },
+    "MINUSCULE": {
+      "word": "MINUSCULE",
+      "phonetic": "(min'-:;,s-kyUI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">tiny, very small, insignificant </p><p>Note the spelling. Many people think the word begins with <i class=“def-ital\">mini-.</i> MINUSCULE comes from the word <i class=“def-ital\">minus,</i> and means <i class=“def-ital\">very small, tiny.</i> </p><p>“The painting is MINUSCULE. You need a magnifying glass just to see it.” </p><p>“He made up for his MINUSCULE size by being extremely quick and clever.” </p><p>MINUSCULE as a noun has a specific meaning, referring to small letters in printing as opposed to capital letters.</p>"
+    },
+    "STUPEFY": {
+      "word": "STUPEFY",
+      "phonetic": "{stU'-pg-fl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to stun, astonish </p><p>When something STUPEFIES you, it is so amazing or frightening or powerful that it takes away your senses and leaves you confused and dazed. </p><p>“We were all STUPEFIED by the news that all along our friend had actually been an enemy spy.” </p><p>“Her announcement STUPEFIED me. I didn’t know what to do or say next.” </p><p>“The movie was STUPEFYINGLY dull\"-that is, it was so dull that it would almost put you to sleep.</p>"
+    },
+    "INVIGORATE": {
+      "word": "INVIGORATE",
+      "phonetic": "(in-vig'-g-rAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to strengthen, refresh, enliven </p><p> <i class=“def-ital\">Vigor</i> is strength, energy, active good health. </p><p>“After a good night’s sleep she awoke refreshed and full of vigor.” </p><p>To INVIGORATE is to fill with <i class=“def-ital\">vigor.</i> </p><p>“Just breathing that nice fresh air is enough to INVIG- ORATE me.” </p><p>“The new members tried to INVIGORATE the club by organizing all sorts of activities.” </p><p>Other forms of the word: INVIGORATING, adj.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-1</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "PERSEVERE": {
+      "word": "PERSEVERE",
+      "phonetic": "(per-sg-vEr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to persist, keep on, continue </p><p>To PERSEVERE in something is to keep at it, especially in the face of difficulty or opposition. The word usually suggests that this is a good quality, that the person who PERSEVERES should be praised for not giving up. </p><p>“I know things are hard for us now, but I’m sure if we PERSEVERE they will improve in the end.” </p><p>“The course was difficult, but he PERSEVERED in his studies, and finally he passed.” </p><p>“Despite her parents’ opposition, she PERSEVERED in trying to become a doctor.” </p><p>PERSEVERANCE is steady persistence. </p><p>“You must have PERSEVERANCE if you want to be- come a top athlete, because it takes years of training and practice.” </p><p>Other forms of the word: PERSEVERANCE, n.</p>"
+    },
+    "WAFT": {
+      "word": "WAFT",
+      "phonetic": "(wahft)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to move lightly and smoothly, float </p><p>To WAFT is to move or carry lightly and smoothly, usually through the air or on water. WAFT can be used about smells and sounds as well as physical objects. </p><p>“The breeze WAFTED the smell of roses into the room.” </p><p>“A leaf WAFTED gently to the ground.” </p><p>“The gentle waves WAFTED her ball slowly out to sea.” </p><p>“The distant shouts of children playing WAFTED in through the open window.”</p>"
+    },
+    "HAGGARD": {
+      "word": "HAGGARD",
+      "phonetic": "(hag'-grd)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">having a worn, tired appearance; gaunt </p><p>Someone who is HAGGARD looks tired and worn out from worry, lack of sleep, lack of food, or the like. His eyes might be bloodshot, his face might be thin and lined, his clothing might be rumpled. </p><p>“After losing his job, he came home looking HAG- GARD and discouraged.” </p><p>“She felt sorry for the beggar when she saw his dirty clothes and HAGGARD face.” </p><p>“He looked HAGGARD after waiting at the hospital all night.”</p>"
+    },
+    "PLIANT": {
+      "word": "PLIANT",
+      "phonetic": "(pll-gnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">easily bent, flexible, yielding, adaptable </p><p>PLIANT comes from a Latin word meaning to bend. Something that is PLIANT can be bent easily without breaking. </p><p>“The wax was very PLIANT and could be easily molded or shaped.” </p><p>When used about people, PLIANT means “easily influenced, open to suggestions.” </p><p>“Our boss proved to be quite PLIANT and agreed to all our requests.” </p><p>“The PLIANT students did whatever the teacher told them to do.” </p><p>“Our father isn’t PLIANT at all. We can never make him change his mind.” </p><p>PLIANT is close in meaning to a very similar word, <i class=“def-ital\">pliable,</i> which also means “easily bent or influenced.”</p>"
+    },
+    "VAGABOND": {
+      "word": "VAGABOND",
+      "phonetic": "(vag'-ÔøΩ-bond)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a wanderer, tramp, hobo </p><p>A VAGABOND is a person with no home, a carefree wanderer who never settles down. The word usually suggests the pleasures of this kind of life rather than the problems. </p><p>“He was a happy VAGABOND, traveling here and there, wherever he pleased.” </p><p>“The life of a VAGABOND seems very appealing to one who is stuck in a dull job.” </p><p>VAGABOND is also used as an adjective, meaning <i class=“def-ital\">wandering.</i> </p><p>“We went on a VAGABOND tour of Europe.”</p>"
+    },
+    "INGRAINED": {
+      "word": "INGRAINED",
+      "phonetic": "(in-grAnd')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">deep-rooted, deeply fixed </p><p> One meaning of <i class=“def-ital\">grain</i> is “the natural appearance and texture of wood.” Something which is INGRAINED is not just on the surface but worked into the <i class=“def-ital\">grain.</i> The word is particularly used about beliefs or characteristics that are deeply rooted in a person or group. </p><p>“Almost always, habits and prejudices are deeply INGRAINED.” </p><p>“His INGRAINED honesty kept him from even con- sidering taking a bribe.” </p><p>Other forms of the word: INGRAIN, v.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-1</i> under Prefixes."
+      ]
+    },
+    "RELENT": {
+      "word": "RELENT",
+      "phonetic": "(ri-lent')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to give in, yield </p><p>To RELENT is to become less harsh, to let up or give in. The word is usually used about people. </p><p>“The teacher finally RELENTED and told Bill he didn’t have to stay after school.” </p><p>“She begged her mother to let her go to the dance, but her mother wouldn’t RELENT.” </p><p>“When he saw her crying, he RELENTED and let her keep the toy.” </p><p>Someone who is RELENTLESS does not or cannot RE- LENT, is harsh and persistent. </p><p>“They begged him to stop teasing the child, but he was RELENTLESS.” </p><p>Other forms of the word: RELENTLESS, adj.</p>"
+    }
+  },
+  "id": "5",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Arranged the RENDEZVOUS.",
+          "answers": [
+            "divorce",
+            "party",
+            "discussion",
+            "meeting",
+            "journey"
+          ],
+          "word": "RENDEZVOUS",
+          "correct": "meeting"
+        },
+        {
+          "prompt": "RESOLUTE men.",
+          "answers": [
+            "uncertain",
+            "dangerous",
+            "hopeful",
+            "determined",
+            "military"
+          ],
+          "word": "RESOLUTE",
+          "correct": "determined"
+        },
+        {
+          "prompt": "To RESTRICT it.",
+          "answers": [
+            "oppose",
+            "stop",
+            "limit",
+            "review",
+            "support"
+          ],
+          "word": "RESTRICT",
+          "correct": "limit"
+        },
+        {
+          "prompt": "ILLICIT practices.",
+          "answers": [
+            "poor",
+            "risky",
+            "unlawful",
+            "unnecessary",
+            "proper"
+          ],
+          "word": "ILLICIT",
+          "correct": "unlawful"
+        },
+        {
+          "prompt": "SARCASTIC remarks.",
+          "answers": [
+            "unbelievable",
+            "silly",
+            "biting",
+            "dangerous",
+            "brilliant"
+          ],
+          "word": "SARCASTIC",
+          "correct": "biting"
+        },
+        {
+          "prompt": "MINUSCULE majority.",
+          "answers": [
+            "temporary",
+            "sufficient",
+            "usual",
+            "great",
+            "tiny"
+          ],
+          "word": "MINUSCULE",
+          "correct": "tiny"
+        },
+        {
+          "prompt": "Their actions STUPEFY me.",
+          "answers": [
+            "please",
+            "stun",
+            "concern",
+            "thrill",
+            "frighten"
+          ],
+          "word": "STUPEFY",
+          "correct": "stun"
+        },
+        {
+          "prompt": "It INVIGORATED him.",
+          "answers": [
+            "cured",
+            "pleased",
+            "weakened",
+            "changed",
+            "strengthened"
+          ],
+          "word": "INVIGORATE",
+          "correct": "strengthened"
+        },
+        {
+          "prompt": "We must PERSEVERE.",
+          "answers": [
+            "persist",
+            "improve",
+            "get angry",
+            "argue",
+            "give up"
+          ],
+          "word": "PERSEVERE",
+          "correct": "persist"
+        },
+        {
+          "prompt": "It WAFTED in.",
+          "answers": [
+            "sneaked",
+            "floated",
+            "hurried",
+            "danced",
+            "dropped"
+          ],
+          "word": "WAFT",
+          "correct": "floated"
+        },
+        {
+          "prompt": "His HAGGARD appearance.",
+          "answers": [
+            "neat",
+            "silly",
+            "ugly",
+            "strange",
+            "worn"
+          ],
+          "word": "HAGGARD",
+          "correct": "worn"
+        },
+        {
+          "prompt": "They were PLIANT.",
+          "answers": [
+            "useful",
+            "very soft",
+            "stiff",
+            "layered",
+            "easily bent"
+          ],
+          "word": "PLIANT",
+          "correct": "easily bent"
+        },
+        {
+          "prompt": "Watched the VAGABOND.",
+          "answers": [
+            "wanderer",
+            "dirty child",
+            "thin man",
+            "clown",
+            "housewife"
+          ],
+          "word": "VAGABOND",
+          "correct": "wanderer"
+        },
+        {
+          "prompt": "INGRAINED beliefs.",
+          "answers": [
+            "past",
+            "deep-rooted",
+            "strange",
+            "annoying",
+            "new"
+          ],
+          "word": "INGRAINED",
+          "correct": "deep-rooted"
+        },
+        {
+          "prompt": "They may RELENT.",
+          "answers": [
+            "attack",
+            "worry",
+            "return",
+            "give in",
+            "show up"
+          ],
+          "word": "RELENT",
+          "correct": "give in"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Could a parking lot be a RENDEZVOUS?",
+          "word": "RENDEZVOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a RESOLUTE person change his mind often?",
+          "word": "RESOLUTE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is everyone allowed to see a movie that is RESTRICTED?",
+          "word": "RESTRICT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is mountain climbing usually an ILLICIT action?",
+          "word": "ILLICIT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a SARCASTIC person usually lovable?",
+          "word": "SARCASTIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are atoms MINUSCULE?",
+          "word": "MINUSCULE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people be STUPEFIED if they were given a check for a million dollars?",
+          "word": "STUPEFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would staying up all night INVIGORATE most people?",
+          "word": "INVIGORATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a man who tries for ten years to get through college show PERSERVERANCE",
+          "word": "PERSEVERE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can an aroma WAFT into a room?",
+          "word": "WAFT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person who hasn't slept for days usually look HAGGARD?",
+          "word": "HAGGARD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a steel bar PLIANT?",
+          "word": "PLIANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a VAGABOND like to hold a steady job?",
+          "word": "VAGABOND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a strong habit be INGRAINED in a person?",
+          "word": "INGRAINED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it likely that a lazy person would be RELENTLESS in pursuing a job?",
+          "word": "RELENT",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "We all arranged to RENDEZVOUS at midnight in the old barn.",
+          "word": "RENDEZVOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was RESOLUTE that they would go to the beach this weekend.",
+          "word": "RESOLUTE",
+          "correct": "false"
+        },
+        {
+          "prompt": "She RESTRICTED them that smoking was not allowed here.",
+          "word": "RESTRICT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The police charged him with the ILLICIT sale of liquor.",
+          "word": "ILLICIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "She was very SARCASTIC to go into the house by herself.",
+          "word": "SARCASTIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "The MINUSCULE church towered above the houses in the area.",
+          "word": "MINUSCULE",
+          "correct": "false"
+        },
+        {
+          "prompt": "I was STUPEFIED to find out that I had actually won first prize in the contest.",
+          "word": "STUPEFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The knowledge that he was almost finished INVIGORATED him and kept him going.",
+          "word": "INVIGORATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Even if you are not successful at first, you must PERSEVERE.",
+          "word": "PERSEVERE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The sound of the beautiful music WAFTED across the lake.",
+          "word": "WAFT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He looked very HAGGARD after running the marathon.",
+          "word": "HAGGARD",
+          "correct": ".true"
+        },
+        {
+          "prompt": "John is very PLIANT. He will go along with whatever the rest of the group wants.",
+          "word": "PLIANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Each summer the students became VAGABONDS, roaming through the countryside and having a good time.",
+          "word": "VAGABOND",
+          "correct": "true"
+        },
+        {
+          "prompt": "She has practiced that piece on the piano for so long that it has become INGRAINED in her mind.",
+          "word": "INGRAINED",
+          "correct": "true"
+        },
+        {
+          "prompt": "She RELENTED him severely for not trying.",
+          "word": "RELENT",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "RENDEZVOUS",
+          "answers": [
+            "appointment",
+            "date",
+            "voyage"
+          ],
+          "word": "RENDEZVOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "RESOLUTE",
+          "answers": [
+            "stubborn",
+            "typical",
+            "persistent"
+          ],
+          "word": "RESOLUTE",
+          "correct": "1"
+        },
+        {
+          "prompt": "RESTRICT",
+          "answers": [
+            "hold back",
+            "give in",
+            "keep out"
+          ],
+          "word": "RESTRICT",
+          "correct": "1"
+        },
+        {
+          "prompt": "ILLICIT",
+          "answers": [
+            "forbidden",
+            "dangerous",
+            "illegal"
+          ],
+          "word": "ILLICIT",
+          "correct": "1"
+        },
+        {
+          "prompt": "SARCASTIC",
+          "answers": [
+            "hurtful",
+            "insulting",
+            "brilliant"
+          ],
+          "word": "SARCASTIC",
+          "correct": "2"
+        },
+        {
+          "prompt": "MINUSCULE",
+          "answers": [
+            "little",
+            "young",
+            "small"
+          ],
+          "word": "MINUSCULE",
+          "correct": "1"
+        },
+        {
+          "prompt": "STUPEFY",
+          "answers": [
+            "delight",
+            "astonish",
+            "daze"
+          ],
+          "word": "STUPEFY",
+          "correct": "0"
+        },
+        {
+          "prompt": "INVIGORATE",
+          "answers": [
+            "refresh",
+            "stimulate",
+            "clean"
+          ],
+          "word": "INVIGORATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PERSEVERE",
+          "answers": [
+            "endure",
+            "continue",
+            "appear"
+          ],
+          "word": "PERSEVERE",
+          "correct": "2"
+        },
+        {
+          "prompt": "WAFT",
+          "answers": [
+            "move",
+            "burn",
+            "float"
+          ],
+          "word": "WAFT",
+          "correct": "1"
+        },
+        {
+          "prompt": "HAGGARD",
+          "answers": [
+            "short",
+            "tired",
+            "weary"
+          ],
+          "word": "HAGGARD",
+          "correct": "0"
+        },
+        {
+          "prompt": "PLIANT",
+          "answers": [
+            "elastic",
+            "agreeable",
+            "various"
+          ],
+          "word": "PLIANT",
+          "correct": "2"
+        },
+        {
+          "prompt": "VAGABOND",
+          "answers": [
+            "traveler",
+            "marcher",
+            "wanderer"
+          ],
+          "word": "VAGABOND",
+          "correct": "1"
+        },
+        {
+          "prompt": "INGRAINED",
+          "answers": [
+            "large",
+            "deep",
+            "firm"
+          ],
+          "word": "INGRAINED",
+          "correct": "0"
+        },
+        {
+          "prompt": "RELENT",
+          "answers": [
+            "yield",
+            "accept",
+            "hope"
+          ],
+          "word": "RELENT",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

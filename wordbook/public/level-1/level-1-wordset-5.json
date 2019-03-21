@@ -1,0 +1,617 @@
+{
+  "title": "1.5",
+  "definitions": {
+    "MISTREAT": {
+      "word": "MISTREAT",
+      "phonetic": "(mis-trEt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to treat badly, abuse </p><p> To MISTREAT someone is to treat him badly, to do wrong to him, either physically or in some other way. </p><p>“Look at all the cuts on that dog. I think his owner MISTREATS him.” </p><p>“Alice complained that she had been MISTREATED by her teachers.” </p><p>“The parents were accused of MISTREATING their children by not giving them enough to eat.” </p><p>Cheat is often chosen as the meaning of MISTREAT on the Pretest. MISTREAT is a much more general word than cheat, however. You can MISTREAT a person by doing wrong to him in any way, not just by cheating him. Other forms of the word: MISTREATMENT, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">mis<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "": {
+      "word": "FURIOUS",
+      "phonetic": "(fyur'-E-gs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">angry, violent, stormy, fierce </p><p>FURY is violent anger. </p><p>“The mother was filled with FURY when she saw them hurting her child.” FURIOUS is the adjective from FURY.  Someone who is FURIOUS is full of wild anger. </p><p>“Her father was FURIOUS when Jill wrecked his car.” </p><p>“She was mildly upset, but everyone else was really FURIOUS.” FURIOUS also means “full of activity,” wild, energetic. </p><p>“He put on a FURIOUS finish to come from behind and win the race.” </p><p>“With one FURIOUS burst of activity, they completely cleaned the house in two hours.” </p><p>Other forms of the word: FURY, n.</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">ous</i> under Suffixes."
+      ]
+    },
+    "CAUTIOUS": {
+      "word": "CAUTIOUS",
+      "phonetic": "(ko'-shgs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">careful, watchful </p><p>To be CAUTIOUS is to be careful, to pay close attention so that you don’t make a mistake or so that you don’t hurt anyone. </p><p>“You must be CAUTIOUS when you cross a busy street.” </p><p>“She patted the kitten CAUTIOUSLY so that it wouldn’t become alarmed and run away.” </p><p>“The burglar made a CAUTIOUS approach to the darkened house.” </p><p>CAUTION is the noun from CAUTIOUS; it means <i class=“def-ital\">care</i>, <i class=“def-ital\">alertness</i>. </p><p>“You must use CAUTION when dealing with poisons.” </p><p>“He answered with a great deal of CAUTION. He was afraid to say something he didn’t mean.” </p><p>Other forms of the word: CAUTION, n., v.</p>"
+    },
+    "QUANTITY": {
+      "word": "QUANTITY",
+      "phonetic": "(kwon'-tg-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an amount, number </p><p>QUANTITY is something that can be measured. When you ask “How much?” or “How many?” you are asking about the QUANTITY of something. </p><p>“There is a large QUANTITY of dog food left over.” </p><p>“We need a small QUANTITY of nails to build this bookcase.” </p><p>Many people pick value as the meaning of QUANTITY. This is probably due to a confusion between QUANTITY and <i class=“def-ital\">quality</i>. <i class=“def-ital\">Quality</i> has to do with how good something is. </p><p>“We’re not interested in <i class=“def-ital\">quality</i> but in QUANTITY. We don’t care how good they are as long as there are a lot of them.”</p>"
+    },
+    "EXPIRE": {
+      "word": "EXPIRE",
+      "phonetic": "(ek-splr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to die, come to an end, cease </p><p> EXPIRE originally meant “to breathe out.” From this it has come to mean “to breathe one’s last,” to <i class=“def-ital\">die</i>. When used about people the word always means to <i class=“def-ital\">die</i>. </p><p>“After a long illness, he EXPIRED early this morning.” When used about things it means to end or cease. </p><p>“The contract will EXPIRE at midnight\"—that is, it will no longer be in effect after that time. </p><p>“The senator’s term of office will EXPIRE next year.” </p><p>With food, the word means to <i class=“def-ital\">go bad</i>. </p><p>“Her roommate threw out the expired milk.” </p><p>Other forms of the word: EXPIRATION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ex<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "ELIMINATE": {
+      "word": "ELIMINATE",
+      "phonetic": "(i-lim'-g--nAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to remove, get rid of, throw out, take away </p><p>ELIMINATE comes from a Latin word which means “to throw out of doors,” and this is the original meaning of the word.  Today the word simply means to throw out or get rid of, and doesn’t necessarily mean to throw something outside. </p><p>“The doctors found a new medicine that completely ELIMINATED the disease.” </p><p>“The judges ELIMINATED him from the contest.” </p><p>The noun form of ELIMINATE is ELIMINATION. An “ELIMINATION tournament” is one in which the loser of a game or match is removed from the competition. </p><p>Other forms of the word: ELIMINATION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ex<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "BANDIT": {
+      "word": "BANDIT",
+      "phonetic": "(ban'-dit)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a robber, outlaw </p><p>A BANDIT was originally a member of a gang of people who banded together in order to rob. Now BANDIT is used about anyone who robs people, alone or as part of a gang. </p><p>“He was held up by a BANDIT in broad daylight.” </p><p>“The BANDITS fled to a cabin in the hills.”</p>"
+    },
+    "TIRESOME": {
+      "word": "TIRESOME",
+      "phonetic": "(tlr'-sÔøΩm)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">boring, tedious, dull, annoying </p><p>Something that is TIRESOME makes you tired. The word is usually used about people or things that are so boring they make you want to fall asleep. The word, however, does not mean <i class=“def-ital\">tired</i>; it means <i class=“def-ital\">causing tiredness</i>. </p><p>“Having to write the same sentence fifty times is an extremely TIRESOME exercise.” </p><p>“Jim can make exciting events seem TIRESOME.” </p><p>Sometimes TIRESOME suggests the meaning <i class=“def-ital\">annoying</i> more than <i class=“def-ital\">boring</i>. </p><p>“She was a very TIRESOME person to deal with, always whining and complaining.”</p>"
+    },
+    "NUMEROUS": {
+      "word": "NUMEROUS",
+      "phonetic": "(nU'-mÔøΩr-ÔøΩs",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">nyU-mÔøΩr-ÔøΩs) adj.: many </p><p>NUMEROUS comes from the Latin word for <i class=“def-ital\">number</i>. The word means “great in number,” <i class=“def-ital\">many</i>.  “There are NUMEROUS reasons why we can’t come. I will only tell you a few.” </p><p>“NUMEROUS people applied for the job, but only one would get it.” </p><p>“The people who helped me are too NUMEROUS to mention.” </p><p>“NUMEROUS colleges want our star quarterback to play for them.”</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">ous</i> under Suffixes."
+      ]
+    },
+    "DISTANT": {
+      "word": "DISTANT",
+      "phonetic": "(dis'-tÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">far off </p><p>DISTANT means <i class=“def-ital\">far off</i>, <i class=“def-ital\">far away</i>. </p><p>“Jim wanted to leave home and travel to DISTANT lands.” </p><p>“The sound of DISTANT church bells came faintly to us.” </p><p>“The sun is 93 million miles DISTANT from the Earth.” </p><p>DISTANT can be used about time as well as space. </p><p>“In the DISTANT past people lived in caves and not in houses.” </p><p>Other forms of the word: DISTANCE, n.</p>"
+    },
+    "ALTITUDE": {
+      "word": "ALTITUDE",
+      "phonetic": "(al'-tÔøΩ-tUd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">height </p><p>ALTITUDE refers to height from earth. It is used about things, not people. </p><p>“The planes rose to an ALTITUDE of 20,000 feet above sea level.” </p><p>“The city is located in the mountains at an ALTITUDE of 5,000 feet.” </p><p>“At this ALTITUDE it becomes very difficult to breathe.” </p><p>The ALTITUDE of something can be described as either high or low. </p><p>“He flew the helicopter at a very low ALTITUDE as he tried to spot where the plane had crashed.”</p>"
+    },
+    "PERMANENT": {
+      "word": "PERMANENT",
+      "phonetic": "(per'm:r-nÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">lasting, unchanging </p><p>PERMANENT means <i class=“def-ital\">lasting</i>, “meant to be the same for a long time.” </p><p>“This is only my summer home; my PERMANENT home is in New York City.” </p><p>“After several temporary jobs, he got a PERMANENT job in the post office.” </p><p>“He received a PERMANENT injury from the accident.” </p><p>“The dentist put a PERMANENT filling in the patient’s tooth.” </p><p>Other forms of the word: PERMANENCE, n.</p>"
+    },
+    "BORDER": {
+      "word": "BORDER",
+      "phonetic": "(bor'-dÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">edge, boundary, frontier </p><p>BORDER has many meanings and uses, but the main one is the <i class=“def-ital\">edge</i> of something. “There was a BORDER of gold around the invitation.” </p><p>A BORDER is a boundary between two countries. “We crossed the BORDER into Canada late in the afternoon.” </p><p>“You have to stop at the BORDER and show your passport.” </p><p>BORDER is also a verb which means “to lie along or be adjacent to the BORDER of.” </p><p>“Our farm BORDERS the state highway.” </p><p>“The city is BORDERED by the ocean to the east.”</p>"
+    },
+    "ASSEMBLE": {
+      "word": "ASSEMBLE",
+      "phonetic": "(a-sem'-bÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to bring together, gather together </p><p>ASSEMBLE means to <i class=“def-ital\">bring together</i> or <i class=“def-ital\">gather together</i>. The word usually suggests an orderly gathering of people with a common purpose. </p><p>“The troops were ASSEMBLED on the parade ground.” </p><p>“The senators will ASSEMBLE tomorrow to vote on the new law.” </p><p>ASSEMBLE can also mean to <i class=“def-ital\">put together</i>. </p><p>“It took us three days to ASSEMBLE the jigsaw puzzle.” </p><p>“He thinks he can ASSEMBLE a new car from the parts of old ones.” </p><p>Other forms of the word: ASSEMBLY, n.</p>"
+    },
+    "PECULIAR": {
+      "word": "PECULIAR",
+      "phonetic": "(pi-kyUl'-yÔøΩ)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">odd, strange, different, unusual; unique, characteristic </p><p>PECULIAR means odd, strange, “different from anyone or anything else.” </p><p>“He had a PECULIAR way of talking that no one else could imitate.” </p><p>“It was very PECULIAR that everyone was absent on the same day.” </p><p>Another meaning of PECULIAR is “belonging only to one person, group, place, or the like.” </p><p>In this sense PECULIAR is usually followed by <i class=“def-ital\">to</i>. </p><p>“This kind of house is PECULIAR to New England. You won’t find it anywhere else.” </p><p>Other forms of the word: PECULIARITY, n.</p>"
+    }
+  },
+  "id": "5",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Were you MISTREATED?",
+          "answers": [
+            "abused",
+            "confused",
+            "cheated",
+            "helped",
+            "frightened"
+          ],
+          "word": "MISTREAT",
+          "correct": "abused"
+        },
+        {
+          "prompt": "FURIOUS loser.",
+          "answers": [
+            "born",
+            "timid",
+            "roaring",
+            "angry",
+            "apparent"
+          ],
+          "word": "FURIOUS",
+          "correct": "angry"
+        },
+        {
+          "prompt": "CAUTIOUS speech.",
+          "answers": [
+            "dull",
+            "careful",
+            "quick",
+            "unplanned",
+            "interesting"
+          ],
+          "word": "CAUTIOUS",
+          "correct": "careful"
+        },
+        {
+          "prompt": "Small QUANTITY.",
+          "answers": [
+            "help",
+            "value",
+            "amount",
+            "understanding",
+            "increase"
+          ],
+          "word": "QUANTITY",
+          "correct": "amount"
+        },
+        {
+          "prompt": "It had EXPIRED.",
+          "answers": [
+            "ended",
+            "continued",
+            "been lost",
+            "changed",
+            "burned up"
+          ],
+          "word": "EXPIRE",
+          "correct": "ended"
+        },
+        {
+          "prompt": "ELIMINATE all the rest.",
+          "answers": [
+            "set fire to",
+            "give away",
+            "cut up",
+            "add",
+            "get rid of"
+          ],
+          "word": "ELIMINATE",
+          "correct": "get rid of"
+        },
+        {
+          "prompt": "Story of the BANDIT.",
+          "answers": [
+            "robber",
+            "cowboy",
+            "deserter",
+            "lawman",
+            "musician"
+          ],
+          "word": "BANDIT",
+          "correct": "robber"
+        },
+        {
+          "prompt": "TIRESOME events.",
+          "answers": [
+            "private",
+            "exciting",
+            "usual",
+            "boring",
+            "harmful"
+          ],
+          "word": "TIRESOME",
+          "correct": "boring"
+        },
+        {
+          "prompt": "There are NUMEROUS objections.",
+          "answers": [
+            "new",
+            "real",
+            "many",
+            "funny",
+            "few"
+          ],
+          "word": "NUMEROUS",
+          "correct": "many"
+        },
+        {
+          "prompt": "DISTANT lights.",
+          "answers": [
+            "clear",
+            "tiny",
+            "different",
+            "nearby",
+            "far-off"
+          ],
+          "word": "DISTANT",
+          "correct": "far off"
+        },
+        {
+          "prompt": "This ALTITUDE.",
+          "answers": [
+            "place",
+            "height",
+            "flight",
+            "depth",
+            "mountain"
+          ],
+          "word": "ALTITUDE",
+          "correct": "height"
+        },
+        {
+          "prompt": "PERMANENT peace.",
+          "answers": [
+            "historic",
+            "present",
+            "lasting",
+            "uneasy",
+            "brief"
+          ],
+          "word": "PERMANENT",
+          "correct": "lasting"
+        },
+        {
+          "prompt": "Near the BORDER.",
+          "answers": [
+            "bottom",
+            "middle",
+            "area",
+            "forest",
+            "edge"
+          ],
+          "word": "BORDER",
+          "correct": "edge"
+        },
+        {
+          "prompt": "They were ASSEMBLED.",
+          "answers": [
+            "brought together",
+            "lied to",
+            "crowded",
+            "turned in",
+            "scattered"
+          ],
+          "word": "ASSEMBLE",
+          "correct": "brought together"
+        },
+        {
+          "prompt": "PECULIAR people.",
+          "answers": [
+            "dishonest",
+            "average",
+            "many",
+            "odd",
+            "lonely"
+          ],
+          "word": "PECULIAR",
+          "correct": "odd"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Should children be MISTREATED?",
+          "word": "MISTREAT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are happy people usually FURIOUS?",
+          "word": "FURIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would you need to use CAUTION if you were walking on a tightrope?",
+          "word": "CAUTIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is 4 a greater QUANTITY than 3?",
+          "word": "QUANTITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Have you EXPIRED?",
+          "word": "EXPIRE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most people favor the ELIMINATION of war?",
+          "word": "ELIMINATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a BANDIT break the law?",
+          "word": "BANDIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are TIRESOME people fun to be with?",
+          "word": "TIRESOME",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are there NUMEROUS stars in the sky?",
+          "word": "NUMEROUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are the stars DISTANT from Earth?",
+          "word": "DISTANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can people live at a low ALTITUDE?",
+          "word": "ALTITUDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a summer job a PERMANENT one?",
+          "word": "PERMANENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is there a BORDER between the United States and Canada?",
+          "word": "BORDER",
+          "correct": "true"
+        },
+        {
+          "prompt": "When you buy a book, does it usually have to be ASSEMBLED?",
+          "word": "ASSEMBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a six-foot-wide potato be PECULIAR?",
+          "word": "PECULIAR",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Her mother MISTREATED her to another piece of cake after supper.",
+          "word": "MISTREAT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Bill gets FURIOUS whenever anyone is late for an appointment with him.",
+          "word": "FURIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "He CAUTIOUSLY avoided going near the large dog.",
+          "word": "CAUTIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "We don't care if we make a smaller QUANTITY of chairs, as long as the quality remains good.",
+          "word": "QUANTITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "His library card EXPIRED six months ago.",
+          "word": "EXPIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They tried to ELIMINATE her from the race because she was too young.",
+          "word": "ELIMINATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "BANDITS of armed men wandered through the streets of the deserted city.",
+          "word": "BANDIT",
+          "correct": "false"
+        },
+        {
+          "prompt": "He was so TIRESOME after the long trip that he fell asleep right away.",
+          "word": "TIRESOME",
+          "correct": "false"
+        },
+        {
+          "prompt": "He was NUMEROUS last night.",
+          "word": "NUMEROUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "We could barely see them on the DISTANT hill.",
+          "word": "DISTANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jim grew to an ALTITUDE of well over six feet.",
+          "word": "ALTITUDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "This was supposed to be our PERMANENT home, but we moved again after a few years.",
+          "word": "PERMANENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Soldiers patrolled the BORDER between the two countries.",
+          "word": "BORDER",
+          "correct": "true"
+        },
+        {
+          "prompt": "They ASSEMBLED each other so much we thought they were twins.",
+          "word": "ASSEMBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "This fish is PECULIAR to the Pacific Ocean.",
+          "word": "PECULIAR",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "MISTREAT",
+          "answers": [
+            "warn",
+            "hurt",
+            "starve"
+          ],
+          "word": "MISTREAT",
+          "correct": "0"
+        },
+        {
+          "prompt": "FURIOUS",
+          "answers": [
+            "angry",
+            "fearful",
+            "mad"
+          ],
+          "word": "FURIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "CAUTIOUS",
+          "answers": [
+            "slow",
+            "sharp",
+            "safe"
+          ],
+          "word": "CAUTIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "QUANTITY",
+          "answers": [
+            "amount",
+            "number",
+            "length"
+          ],
+          "word": "QUANTITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "EXPIRE",
+          "answers": [
+            "stop",
+            "die",
+            "hurt"
+          ],
+          "word": "EXPIRE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ELIMINATE",
+          "answers": [
+            "lose",
+            "worry",
+            "remove"
+          ],
+          "word": "ELIMINATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "BANDIT",
+          "answers": [
+            "thief",
+            "slob",
+            "criminal"
+          ],
+          "word": "BANDIT",
+          "correct": "1"
+        },
+        {
+          "prompt": "TIRESOME",
+          "answers": [
+            "annoying",
+            "cruel",
+            "dull"
+          ],
+          "word": "TIRESOME",
+          "correct": "1"
+        },
+        {
+          "prompt": "NUMEROUS",
+          "answers": [
+            "tall",
+            "many",
+            "often"
+          ],
+          "word": "NUMEROUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISTANT",
+          "answers": [
+            "new",
+            "far",
+            "long"
+          ],
+          "word": "DISTANT",
+          "correct": "0"
+        },
+        {
+          "prompt": "ALTITUDE",
+          "answers": [
+            "height",
+            "width",
+            "tallness"
+          ],
+          "word": "ALTITUDE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PERMANENT",
+          "answers": [
+            "forever",
+            "constant",
+            "usual"
+          ],
+          "word": "PERMANENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "BORDER",
+          "answers": [
+            "side",
+            "edge",
+            "point"
+          ],
+          "word": "BORDER",
+          "correct": "2"
+        },
+        {
+          "prompt": "ASSEMBLE",
+          "answers": [
+            "join",
+            "gather",
+            "attack"
+          ],
+          "word": "ASSEMBLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PECULIAR",
+          "answers": [
+            "happy",
+            "different",
+            "strange"
+          ],
+          "word": "PECULIAR",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

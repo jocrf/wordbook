@@ -1,0 +1,620 @@
+{
+  "title": "6.7",
+  "definitions": {
+    "DESPOT": {
+      "word": "DESPOT",
+      "phonetic": "(des'-pÔøΩt",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a tyrant, absolute ruler </p><p>DESPOT was originally an honorary title applied to the emperor of Byzantium. From this the word came to be used about any ruler with absolute and unlimited powers. Nowadays DESPOT usually suggests a ruler who uses these powers unjustly or cruelly. </p><p>“The DESPOT imprisoned everyone who criticized him.” </p><p>“The owner of the company used to be fairly reasonable, but lately he has become a real DESPOT, demanding complete obedience in everything.” </p><p>The actions or character of a DESPOT are called DESPOTIC. </p><p>“The king’s DESPOTIC treatment of the peasants caused them to revolt.” </p><p>Other forms of the word: DESPOTIC, adj. DESPOTISM, n.</p>"
+    },
+    "GENTEEL": {
+      "word": "GENTEEL",
+      "phonetic": "(jen-tEI')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">polite, well bred, refined </p><p>GENTEEL is related to the word <i class=“def-ital\">gentle</i>, but the words have taken on very different meanings and should not be confused. GENTEEL means “having the style or characteristics of the upper class,” <i class=“def-ital\">refined</i>, <i class=“def-ital\">well bred</i>. </p><p>“The two very GENTEEL ladies were shocked by the filthiness of the house.” </p><p>GENTEEL is usually used with a slightly sarcastic sense, as if the politeness and good breeding were put on or out of place. The word is often found in the phrase “GENTEEL poverty,” which refers to people who try to maintain the style of the upper classes, even though they are too poor to do this very well.</p>"
+    },
+    "INSUBORDINATE": {
+      "word": "INSUBORDINATE",
+      "phonetic": "(in-sÔøΩbor'-dÔøΩnit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">disobedient, rebellious </p><p> A person who is a SUBORDINATE is in a lower position than someone else, and he has to obey the people who are above him. </p><p>“He is a poor boss. He treats his SUBORDINATES as if they didn’t have any feelings.” </p><p>Someone who is INSUBORDINATE is unwilling to be a SUBORDINATE. He is disobedient and rebels against authority. </p><p>“Some of my employees were so INSUBORDINATE that I had to fire them.” </p><p>“The private was accused of being INSUBORDINATE to an officer.” </p><p>Other forms of the word: INSUBORDINATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-2</i> and <i class=“def-ital\">sub-</i> under Prefixes and <i class=“def-ital\">ate2</i> under Suffixes."
+      ]
+    },
+    "GIRTH": {
+      "word": "GIRTH",
+      "phonetic": "(gerth)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">circumference, size </p><p>GIRTH comes from an old word for <i class=“def-ital\">belt</i>. A GIRTH is the belt that goes around a horse to keep the saddle in place. GIRTH has come to mean the measurement around something, especially the measurement around a person’s body. </p><p>“For a short person he has a very large GIRTH; it is difficult to find a pair of pants that fit him.” </p><p>“They tried to estimate the GIRTH of the tree trunk before they actually measured it.” </p><p>“His huge GIRTH made it difficult for him to get in and out of cars.”</p>"
+    },
+    "INTERJECTION": {
+      "word": "INTERJECTION",
+      "phonetic": "(in-tÔøΩr-jek'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an exclamation </p><p> The <i class=“def-ital\">ject</i> part of the word means <i class=“def-ital\">throw</i>. It is also found in words like <i class=“def-ital\">project</i> and <i class=“def-ital\">reject</i>. To INTERJECT means to <i class=“def-ital\">throw</i> in a comment or remark in the middle of what someone else is saying. </p><p>“‘But that’s not true!’ he INTERJECTED in the middle of the professor’s speech.” </p><p>An INTERJECTION is a word or phrase suddenly shouted out in excitement. <i class=“def-ital\">Wow!</i> <i class=“def-ital\">Stop!</i> <i class=“def-ital\">Oh, no!</i> <i class=“def-ital\">Go ahead!</i> are all examples of INTERJECTIONS. </p><p>Other forms of the word: INTERJECT, v.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">inter-</i> under Prefixes."
+      ]
+    },
+    "REBUKE": {
+      "word": "REBUKE",
+      "phonetic": "(ri-byUk')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to scold, criticize, censure </p><p>To REBUKE someone is to criticize him sharply, to speak severely to him. </p><p>“The teacher REBUKED him for speaking out of turn.” </p><p>“She was REBUKED by her parents for staying out late.” </p><p>REBUKE is also a noun, meaning “a strong expression of disapproval,” a <i class=“def-ital\">reproof</i>. </p><p>“She received a strong REBUKE for not making her bed.”</p>"
+    },
+    "LISTLESS": {
+      "word": "LISTLESS",
+      "phonetic": "(list'-lgs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">spiritless, indifferent </p><p> The <i class=“def-ital\">list</i> part of the word comes from an old word meaning <i class=“def-ital\">desire</i>. Someone who is LISTLESS lacks desire; he is too bored or tired to do anything. The word is used about people’s moods, appearance, and actions. </p><p>“The girl has been in a LISTLESS mood all day. She won’t do anything; she just lies on her bed and stares at the ceiling.” </p><p>“He greeted them with a LISTLESS handshake which showed he wasn’t very interested in meeting them.” </p><p>“Pete made a LISTLESS attempt to do his homework, then gave up and went back to watching television.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-less</i> under Suffixes."
+      ]
+    },
+    "PARAPHERNALIA": {
+      "word": "PARAPHERNALIA",
+      "phonetic": "(par-ÔøΩfar-nAl-yg)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">equipment, apparatus, furnishings </p><p>PARAPHERNALIA is the equipment used for a particular kind of job or a particular purpose. </p><p>“A baseball player’s PARAPHERNALIA includes bat, ball, glove, and uniform.” </p><p>“The fishermen stowed all their PARAPHERNALIA under the seats of the boat.” </p><p>“When he first entered the laboratory, he didn’t know what half of the PARAPHERNALIA was.”</p>"
+    },
+    "REPERCUSSION": {
+      "word": "REPERCUSSION",
+      "phonetic": "(rE-pgr-kush'-gn",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an effect, result, consequence </p><p> The <i class=“def-ital\">percuss</i> part of the word comes from a Latin word meaning to <i class=“def-ital\">strike</i>. <i class=“def-ital\">Percussion</i> instruments are musical instruments, like drums and cymbals, which make sounds by being struck. A REPERCUSSION is a striking or beating back, such as when a body hits another body that resists it. The word is usually used in a general sense about the effects, often indirect or widespread, of a particular action. </p><p>“There will certainly be REPERCUSSIONS if we decide to fire him.” </p><p>“No one knew what the REPERCUSSIONS of this decision would be.” </p><p>“The REPERCUSSIONS of his speech were felt far and wide.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "VIABLE": {
+      "word": "VIABLE",
+      "phonetic": "(vl'-ÔøΩ-bgl)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">capable of living; workable </p><p> The <i class=“def-ital\">vi</i> part of VIABLE comes from the French word <i class=“def-ital\">vie</i>, which means <i class=“def-ital\">life</i>. Something which is VIABLE is able to live or exist, is capable of surviving. The word is used about unborn babies who have developed enough to be capable of living outside the womb. In a sense that has developed from this, VIABLE means “capable of being done,” <i class=“def-ital\">workable</i>. </p><p>“His plan was clever but not particularly VIABLE. It would cost a lot and require a great deal of work.” </p><p>“After some initial problems, their agreement proved to be quite VIABLE.” </p><p><i class=“def-ital\"><i class=“def-ital\">Changeable is the most commonly chosen wrong answer in the Pretest, probably because VIABLE is confused with the word <i class=“def-ital\">variable</i>.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "BAUBLE": {
+      "word": "BAUBLE",
+      "phonetic": "(bo'-bgl)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a trinket, plaything, ornament </p><p>A BAUBLE is a bright, pretty object that has little or no usefulness. It may or may not be expensive. </p><p>“He bought some little BAUBLE for the child to keep her occupied during the long trip.” </p><p>“She bought several shiny BAUBLES just because she liked the look of them.” </p><p>“He said the jewel was just a BAUBLE that he hoped she liked.”</p>"
+    },
+    "ATTAIN": {
+      "word": "ATTAIN",
+      "phonetic": "(ÔøΩtAn')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to reach, achieve, gain </p><p>To ATTAIN something is to gain it or reach it. The word generally suggests that some effort was needed, or that what was gained was valuable. </p><p>“You must study if you wish to ATTAIN knowledge.” </p><p>“She ATTAINED her present high position by hard work and talent.” </p><p>“It will be impossible to ATTAIN our goal without more help.” </p><p><i class=“def-ital\">Hold</i> is the most common mistake as the meaning of ATTAIN. This is probably due to confusion between ATTAIN and <i class=“def-ital\">retain</i>. To <i class=“def-ital\">retain</i> something is to hold on to it. </p><p>“Once he had ATTAINED power he did his best to <i class=“def-ital\">retain</i> it.” </p><p>Other forms of the word: ATTAINMENT, n.</p>"
+    },
+    "BERATE": {
+      "word": "BERATE",
+      "phonetic": "(bi-rAt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to scold, rebuke, criticize sharply </p><p>To BERATE someone is to scold him sharply and angrily, often for an extended period of time. </p><p>“The teacher BERATED Tim for constantly being late.” </p><p>“There is no need to BERATE the child. She already said she was sorry for her mistake.” </p><p>“My mother is constantly BERATING me because my room is so messy.”</p>"
+    },
+    "CONSENSUS": {
+      "word": "CONSENSUS",
+      "phonetic": "(k:}n-sen'-s:}s)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a general agreement, collective opinion </p><p> The <i class=“def-ital\">sens</i> part of the word means to <i class=“def-ital\">feel</i> or <i class=“def-ital\">think</i>. It comes from the same Latin word as <i class=“def-ital\">sense</i> and <i class=“def-ital\">sentiment</i>. A CONSENSUS is a <i class=“def-ital\">feeling together</i>, a general opinion shared by a number of people. </p><p>“It was the CONSENSUS of the group that much more work would have to be done.” </p><p>“The class was unable to reach a CONSENSUS about the best place to have the Christmas party.” </p><p>“The CONSENSUS of the coaches was that he was the best player in the league.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">con-</i> under Prefixes."
+      ]
+    },
+    "IMPASSIVE": {
+      "word": "IMPASSIVE",
+      "phonetic": "(im-pas'-:}v)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">emotionless, unmoved, indifferent </p><p>Someone who is IMPASSIVE shows no signs of feeling or interest. He has no emotions, at least none that anyone can see. </p><p>“She remained IMPASSIVE while they told her of her mother’s accident.” </p><p>“He stared IMPASSIVELY at them as they threatened to torture him.” </p><p>“Ken came back to the room with an IMPASSIVE look on his face. No one could tell whether he had passed or failed the test.”</p>"
+    }
+  },
+  "id": "7",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "A real DESPOT.",
+          "answers": [
+            "dungeon",
+            "tyrant",
+            "saint",
+            "fat man",
+            "station"
+          ],
+          "word": "DESPOT",
+          "correct": "tyrant"
+        },
+        {
+          "prompt": "GENTEEL behavior.",
+          "answers": [
+            "strict",
+            "amusing",
+            "calm",
+            "polite",
+            "rude"
+          ],
+          "word": "GENTEEL",
+          "correct": "polite"
+        },
+        {
+          "prompt": "Very INSUBORDINATE.",
+          "answers": [
+            "unfriendly",
+            "stingy",
+            "disobedient",
+            "well behaved",
+            "outstanding"
+          ],
+          "word": "INSUBORDINATE",
+          "correct": "disobedient"
+        },
+        {
+          "prompt": "Impressive GIRTH.",
+          "answers": [
+            "wit",
+            "depth",
+            "speed",
+            "value",
+            "size"
+          ],
+          "word": "GIRTH",
+          "correct": "size"
+        },
+        {
+          "prompt": "Sudden INTERJECTION.",
+          "answers": [
+            "conversation",
+            "excitement",
+            "idea",
+            "exclamation",
+            "removal"
+          ],
+          "word": "INTERJECTION",
+          "correct": "exclamation"
+        },
+        {
+          "prompt": "To REBUKE him.",
+          "answers": [
+            "cheat",
+            "hurt",
+            "praise",
+            "scold",
+            "ignore"
+          ],
+          "word": "REBUKE",
+          "correct": "scold"
+        },
+        {
+          "prompt": "LISTLESS person.",
+          "answers": [
+            "lost",
+            "ignorant",
+            "spiritless",
+            "penniless",
+            "fearless"
+          ],
+          "word": "LISTLESS",
+          "correct": "spiritless"
+        },
+        {
+          "prompt": "Much PARAPHERNALIA.",
+          "answers": [
+            "rejoicing",
+            "equipment",
+            "poverty",
+            "clothing",
+            "confusion"
+          ],
+          "word": "PARAPHERNALIA",
+          "correct": "equipment"
+        },
+        {
+          "prompt": "Certain REPERCUSSIONS.",
+          "answers": [
+            "effects",
+            "noises",
+            "injuries",
+            "differences",
+            "reasons"
+          ],
+          "word": "REPERCUSSION",
+          "correct": "effects"
+        },
+        {
+          "prompt": "VIABLE projects.",
+          "answers": [
+            "impossible",
+            "workable",
+            "wonderful",
+            "unusual",
+            "changeable"
+          ],
+          "word": "VIABLE",
+          "correct": "workable"
+        },
+        {
+          "prompt": "Full of BAUBLES.",
+          "answers": [
+            "beads",
+            "gifts",
+            "diamonds",
+            "rings",
+            "trinkets"
+          ],
+          "word": "BAUBLE",
+          "correct": "trinkets"
+        },
+        {
+          "prompt": "Difficult to ATTAIN.",
+          "answers": [
+            "hold",
+            "stop",
+            "see",
+            "know",
+            "reach"
+          ],
+          "word": "ATTAIN",
+          "correct": "reach"
+        },
+        {
+          "prompt": "He BERATED the employee.",
+          "answers": [
+            "scolded",
+            "discharged",
+            "praised",
+            "evaluated",
+            "struck"
+          ],
+          "word": "BERATE",
+          "correct": "scolded"
+        },
+        {
+          "prompt": "Ignored the CONSENSUS.",
+          "answers": [
+            "idea",
+            "debate",
+            "listing",
+            "agreement",
+            "election"
+          ],
+          "word": "CONSENSUS",
+          "correct": "agreement"
+        },
+        {
+          "prompt": "They remained IMPASSIVE.",
+          "answers": [
+            "uncertain",
+            "excited",
+            "unmoved",
+            "tired",
+            "active"
+          ],
+          "word": "IMPASSIVE",
+          "correct": "unmoved"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Are most DESPOTS kind?",
+          "word": "DESPOT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a savage be GENTEEL?",
+          "word": "GENTEEL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do teachers prefer INSUBORDINATE students?",
+          "word": "INSUBORDINATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a person with a large GIRTH likely to weigh a lot?",
+          "word": "GIRTH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is _Ouch!_ an INTERJECTION?",
+          "word": "INTERJECTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a teacher REBUKE a student for doing well on a test?",
+          "word": "REBUKE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would LISTLESS people be a lot of fun at a party?",
+          "word": "LISTLESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do mechanics have PARAPHERNALIA?",
+          "word": "PARAPHERNALIA",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a law to ban cars have REPERCUSSIONS in this country?",
+          "word": "REPERCUSSION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are VIABLE plans likely to fail?",
+          "word": "VIABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is an automobile a BAUBLE?",
+          "word": "BAUBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people want to ATTAIN their desires?",
+          "word": "ATTAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a student be BERATED for getting an A in English?",
+          "word": "BERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a unanimous vote represent a CONSENSUS?",
+          "word": "CONSENSUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are football fans usually IMPASSIVE?",
+          "word": "IMPASSIVE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The country's DESPOTIC ruler had all his prisoners tortured.",
+          "word": "DESPOT",
+          "correct": "true"
+        },
+        {
+          "prompt": "It's difficult to act in a GENTEEL manner when you are covered with mud.",
+          "word": "GENTEEL",
+          "correct": "true"
+        },
+        {
+          "prompt": "The boss claimed Art was being INSUBORDINATE, but Art said he had a right to express his opinions.",
+          "word": "INSUBORDINATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "By dieting she was able to decrease her GIRTH by six inches.",
+          "word": "GIRTH",
+          "correct": "true"
+        },
+        {
+          "prompt": "She completely INTERJECTED any ideas that didn't agree with her own.",
+          "word": "INTERJECTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "The dog received a strong REBUKE whenever it barked in the house.",
+          "word": "REBUKE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Ed became LISTLESS and eager to get going whenever people were late.",
+          "word": "LISTLESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "He had most of the usual PARAPHERNALIA for cleaning the house, but he couldn't find the vacuum cleaner.",
+          "word": "PARAPHERNALIA",
+          "correct": "true"
+        },
+        {
+          "prompt": "They had a long REPERCUSSION about the best way to raise money.",
+          "word": "REPERCUSSION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Despite predictions of disaster, the new nation proved to be quite VIABLE, and actually flourished.",
+          "word": "VIABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He bought her a ring, bracelet, and some other BAUBLES for her birthday.",
+          "word": "BAUBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He ATTAINED this house for five years before selling it.",
+          "word": "ATTAIN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Frank's mother BERATED him for lying to her.",
+          "word": "BERATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Most people thought it was a great movie, but Jane's CONSENSUS was that it was terrible.",
+          "word": "CONSENSUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "They tried to make him laugh, but he continued to gaze IMPASSIVELY at them.",
+          "word": "IMPASSIVE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "DESPOT",
+          "answers": [
+            "citizen",
+            "tyrant",
+            "ruler"
+          ],
+          "word": "DESPOT",
+          "correct": "0"
+        },
+        {
+          "prompt": "GENTEEL",
+          "answers": [
+            "generous",
+            "noble",
+            "refined"
+          ],
+          "word": "GENTEEL",
+          "correct": "0"
+        },
+        {
+          "prompt": "INSUBORDINATE",
+          "answers": [
+            "rebellious",
+            "stupid",
+            "mutinous"
+          ],
+          "word": "INSUBORDINATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "GIRTH",
+          "answers": [
+            "width",
+            "size",
+            "height"
+          ],
+          "word": "GIRTH",
+          "correct": "2"
+        },
+        {
+          "prompt": "INTERJECTION",
+          "answers": [
+            "exclamation",
+            "guess",
+            "shout"
+          ],
+          "word": "INTERJECTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "REBUKE",
+          "answers": [
+            "punish",
+            "debate",
+            "warn"
+          ],
+          "word": "REBUKE",
+          "correct": "1"
+        },
+        {
+          "prompt": "LISTLESS",
+          "answers": [
+            "dull",
+            "bored",
+            "shy"
+          ],
+          "word": "LISTLESS",
+          "correct": "2"
+        },
+        {
+          "prompt": "PARAPHERNALIA tools",
+          "answers": [
+            "tools",
+            "houses",
+            "instruments"
+          ],
+          "word": "PARAPHERNALIA",
+          "correct": "1"
+        },
+        {
+          "prompt": "REPERCUSSION",
+          "answers": [
+            "result",
+            "importance",
+            "consequence"
+          ],
+          "word": "REPERCUSSION",
+          "correct": "1"
+        },
+        {
+          "prompt": "VIABLE",
+          "answers": [
+            "living",
+            "necessary",
+            "practical"
+          ],
+          "word": "VIABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "BAUBLE",
+          "answers": [
+            "watch",
+            "trinket",
+            "toy"
+          ],
+          "word": "BAUBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ATTAIN",
+          "answers": [
+            "obtain",
+            "win",
+            "keep"
+          ],
+          "word": "ATTAIN",
+          "correct": "2"
+        },
+        {
+          "prompt": "BERATE",
+          "answers": [
+            "denounce",
+            "criticize",
+            "mock"
+          ],
+          "word": "BERATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONSENSUS",
+          "answers": [
+            "smell",
+            "opinion",
+            "agreement"
+          ],
+          "word": "CONSENSUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "IMPASSIVE",
+          "answers": [
+            "indifferent",
+            "emotionless",
+            "doubtful"
+          ],
+          "word": "IMPASSIVE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

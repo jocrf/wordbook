@@ -1,4 +1,4 @@
-export const urlPrefix = 'https://amyfrieson.com/wordbook';
+export const urlPrefix = 'http://localhost:3000';
 
 // type === 'prefixes' or 'suffixes'
 export const getContent = (type) => {
@@ -24,36 +24,36 @@ export const getFile = (name) => {
   const fileNames = {
     'frontBackMatter': `${urlPrefix}/front-back-matter.json`,
     0: `${urlPrefix}/placementdata.json`,
-    1: `${urlPrefix}/new-level-1-trial.json`,
-    2: `${urlPrefix}/new-level-2-trial.json`,
-    3: `${urlPrefix}/new-level-3-trial.json`,
-    4: `${urlPrefix}/new-level-4-trial.json`,
-    5: `${urlPrefix}/new-level-5-trial.json`,
-    6: `${urlPrefix}/new-level-6-trial.json`,
-    7: `${urlPrefix}/new-level-7-trial.json`,
-    8: `${urlPrefix}/new-level-8-trial.json`
+    1: `${urlPrefix}/level-1`,
+    2: `${urlPrefix}/level-2`,
+    3: `${urlPrefix}/level-3`,
+    4: `${urlPrefix}/level-4`,
+    5: `${urlPrefix}/level-5`,
+    6: `${urlPrefix}/level-6`,
+    7: `${urlPrefix}/level-7`,
+    8: `${urlPrefix}/level-8`
   };
   return fileNames[name];
 };
 
 export const getExercise = (level, section, wordset, exercise, review) => {
   // correct for zero-indexing
-  const fileName = getFile(level);
+  const folderName = getFile(level);
   let chapterData = {};
+  let fileName = folderName;
+  if (review) {
+    fileName += `/level-${level}-review-${review}.json`;
+  } else {
+    fileName += `/level-${level}-wordset-${wordset}.json`;
+  }
   return fetch(fileName)
     .then(response => response.json())
     .then(response => {
-      console.log(response);
-      let selectedSection = response.sections[section - 1];
       if (review) {
-        // return review test early
-        chapterData.exercise = selectedSection.reviewTest;
-      }
-      for (let key in selectedSection.wordsets) {
-        if (selectedSection.wordsets[key].id === wordset) {
-          chapterData.exercise = selectedSection.wordsets[key].exercises[exercise];
-          chapterData.definitions = selectedSection.wordsets[key].definitions;
-        }
+        chapterData.exercise = response;
+      } else {
+        chapterData.definitions = response.definitions;
+        chapterData.exercise = response.exercises[exercise];
       }
       return chapterData;
     });
@@ -110,4 +110,30 @@ export const getPhonetic = (word) => {
       });
       return wordPronun;
     });
+};
+
+// check if we can use local storage, function copied from MDN:
+// https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API#Feature-detecting_localStorage
+export const storageAvailable = (type) => {
+  try {
+    var storage = window[type];
+    const x = '__storage_test__';
+    storage.setItem(x, x);
+    storage.removeItem(x);
+    return true;
+  } catch (e) {
+    // eslint-disable-next-line
+    return e instanceof DOMException && (
+      // everything except Firefox
+      e.code === 22 ||
+      // Firefox
+      e.code === 1014 ||
+      // test name field too, because code might not be present
+      // everything except Firefox
+      e.name === 'QuotaExceededError' ||
+      // Firefox
+      e.name === 'NS_ERROR_DOM_QUOTA_REACHED') &&
+      // acknowledge QuotaExceededError only if there's something already stored
+      storage.length !== 0;
+  }
 };

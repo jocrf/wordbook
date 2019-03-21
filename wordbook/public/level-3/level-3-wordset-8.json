@@ -1,0 +1,623 @@
+{
+  "title": "3.8",
+  "definitions": {
+    "ACUTE": {
+      "word": "ACUTE",
+      "phonetic": "(ÔøΩkyUt')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sharp, extreme, severe, keen </p><p>ACUTE can be used in several slightly different ways, all with the basic meaning of <i class=“def-ital\">sharp</i>. When the word is used to describe the senses, feelings, or the mind it means <i class=“def-ital\">sharp</i>, <i class=“def-ital\">keen</i>, <i class=“def-ital\">quick</i>. </p><p>“The doctor advised him that an ACUTE pain in his chest could be due to a heart attack.” </p><p>“Dogs have an ACUTE sense of smell.” </p><p>“We hired the man because of his ACUTE mind.” </p><p>A situation can be ACUTE when it is severe, urgent, and demanding of attention. </p><p>“There was an ACUTE shortage of housing after the war.” </p><p>“This information is of ACUTE importance.” </p><p>An ACUTE triangle in geometry is a sharp angle, one that is less than 90°.</p>"
+    },
+    "TYPHOON": {
+      "word": "TYPHOON",
+      "phonetic": "(tl-fUn')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a hurricane, storm </p><p>A TYPHOON is a violent storm or hurricane that occurs in the Pacific Ocean around Southeast Asia. During a TYPHOON there are usually huge waves and high winds. </p><p>“The ship was caught in the TYPHOON, but managed to survive the storm.” </p><p>“During the TYPHOON many beach houses were swept away by the angry waters.” </p><p>“TYPHOONS usually build up in the late summer.”</p>"
+    },
+    "REVIVE": {
+      "word": "REVIVE",
+      "phonetic": "(ri-vlv')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to bring back to life, renew </p><p>To REVIVE is to come or bring back to life.  REVIVE can be used about actual life or consciousness. </p><p>“The doctors managed to REVIVE the patient after his heart attack.” </p><p>“She fainted when she heard the news, but quickly REVIVED.” </p><p>The word can also be used about things that have become weak, unused, or inactive. </p><p>“Her arrival REVIVED a party that had become dull.” </p><p>“They REVIVED a play that hadn’t been staged in forty years.” </p><p>“My interest in the subject REVIVED when I read this new book.” </p><p>Other forms of the word: REVIVAL, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "MEMENTO": {
+      "word": "MEMENTO",
+      "phonetic": "(mÔøΩmen'-tO)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a reminder, keepsake, souvenir </p><p>MEMENTO comes from the Latin word for <i class=“def-ital\">remember</i>, also the source of the word <i class=“def-ital\">memory</i>. A MEMENTO is an object that is kept in memory of a certain person or event. </p><p>“She kept the ticket stub as a MEMENTO of their evening together.” </p><p>“They presented him with the football as a MEMENTO of the victory.” </p><p>“She liked to keep MEMENTOS of all the happy occasions of her life.”</p>"
+    },
+    "ILLITERATE": {
+      "word": "ILLITERATE",
+      "phonetic": "{i-lit'-ÔøΩrit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">uneducated, unable to read or write </p><p>The word <i class=“def-ital\">literate</i> comes from the Latin word for <i class=“def-ital\">letter</i>. A <i class=“def-ital\">literate</i> person is educated; specifically, he knows the alphabet, he knows how to read and write. </p><p>“He was barely <i class=“def-ital\">literate</i>. It took him a long time to read just one sentence.” </p><p>The opposite of <i class=“def-ital\">literate</i> is ILLITERATE.  ILLITERATE means “unable to read and write.” </p><p>“He was totally ILLITERATE. He had no idea what a book was for.” </p><p>“How many students are ILLITERATE when they graduate from high school?” </p><p>Other forms of the word: ILLITERACY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-ate2</i> under Suffixes."
+      ]
+    },
+    "LOFTY": {
+      "word": "LOFTY",
+      "phonetic": "(lof'-tE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">high, towering; elevated, noble, stately </p><p>An old meaning of the word <i class=“def-ital\">loft</i> was the <i class=“def-ital\">upper regions</i>, the <i class=“def-ital\">sky</i>. This meaning is still found in the word <i class=“def-ital\">aloft</i>, which means <i class=“def-ital\">in the air</i>. LOFTY is also related to <i class=“def-ital\">loft</i> and means <i class=“def-ital\">very high</i>, <i class=“def-ital\">towering</i>.  </p><p>“We were all impressed by the LOFTY mountains.” </p><p>“The eagle was in its LOFTY nest.” </p><p>LOFTY always includes a sense of dignity and impressiveness. The word is often used about ideas, people, speeches, and so on. </p><p>“He expressed his LOFTY thoughts in equally noble language.” </p><p>“She achieved her LOFTY position through hard work and talent.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-y</i> under Suffixes."
+      ]
+    },
+    "INCOMPARABLE": {
+      "word": "INCOMPARABLE",
+      "phonetic": "(in-kom'-pÔøΩr-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">beyond compare, unequaled, matchless </p><p> To <i class=“def-ital\">compare</i> things is to judge how much alike they are. INCOMPARABLE means “not able to be compared with anything else.” INCOMPARABLE is almost always used about good qualities. Something that is INCOMPARABLE is so wonderful or great that nothing else even comes close. </p><p>“Her cookies were good, her pies were delicious, but her cakes were INCOMPARABLE.” </p><p>“His ability to add numbers in his head was INCOMPARABLE.” </p><p>“Her INCOMPARABLE charm made us all like her.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "PHENOMENAL": {
+      "word": "PHENOMENAL",
+      "phonetic": "(fi-nom'-ÔøΩnÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">extraordinary, outstanding, remarkable </p><p>The basic meaning of the noun PHENOMENON is “an observable fact or event,” but in common use, PHENOMENON is generally applied to <i class=“def-ital\">extraordinary</i> facts, events, or people. </p><p>“This young basketball player is a PHENOMENON. He scores forty points every game.” </p><p>PHENOMENAL is the adjective from PHENOMENON.  Something that is PHENOMENAL is very surprising or extraordinary. </p><p>“He had PHENOMENAL success in the stock market.” </p><p>“She made a PHENOMENAL recovery and came home only three days after the operation.” </p><p>“A PHENOMENAL number of people voted in the last election; an all-time record was set.” </p><p>Other forms of the word: PHENOMENON, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "INFALLIBLE": {
+      "word": "INFALLIBLE",
+      "phonetic": "(in-fal'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">not capable of making a mistake, unfailing, unerring </p><p> Someone who is <i class=“def-ital\">fallible</i> is capable of error. </p><p>“You’ll have to excuse his occasional mistakes. He’s only <i class=“def-ital\">fallible</i>, after all.” </p><p>Someone who is INFALLIBLE is never wrong, cannot make a mistake. </p><p>“He has an INFALLIBLE eye for talent.” </p><p>“She is INFALLIBLE at predicting the winners of football games.” </p><p>Something that is INFALLIBLE never fails; it is certain to succeed. </p><p>“He had an INFALLIBLE cure for hiccups.” </p><p>“He claimed he had discovered an INFALLIBLE method for getting rich quick.” </p><p>Other forms of the word: INFALLIBILITY, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "INSTRUMENTAL": {
+      "word": "INSTRUMENTAL",
+      "phonetic": "{in-strÔøΩment-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">useful, helpful </p><p>The basic meaning of the noun INSTRUMENT is “a means by which something is done.” A surgical INSTRUMENT is a tool that is useful in performing surgery. A musical INSTRUMENT is an object with which you make music. </p><p>INSTRUMENTAL means “serving as an INSTRUMENT or means.”  </p><p>“His suggestion was INSTRUMENTAL in solving the problem; without it I don’t know what I would have done.” </p><p>“His spectacular fielding was INSTRUMENTAL to our victory.” </p><p>Other forms of the word: INSTRUMENT, n. </p><p>Usage: INSTRUMENTAL is often followed by <i class=“def-ital\">in</i> or <i class=“def-ital\">to</i>.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "MANEUVER": {
+      "word": "MANEUVER",
+      "phonetic": "(mÔøΩ-nU'-vÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a planned movement of troops; a skillful move </p><p>The basic meaning of MANEUVER is “a military or naval movement,” carried out with regard to the position of the enemy, the condition of the land, and so on. </p><p>“The general carried out a skillful MANEUVER which brought our troops around to the rear of the enemy.” </p><p>From this the word has come to be used about any skillful move or plan designed to win something, do something, or escape from something. </p><p>“He used a clever MANEUVER to get them both in the same room together.” </p><p>“The newspaper criticized the tricky MANEUVERS he had used to win the election.” </p><p>MANEUVER is also a verb. </p><p>“She MANEUVERED her way through the crowd.” </p><p>“He MANEUVERED them into agreeing with his position.”</p>"
+    },
+    "PARCHED": {
+      "word": "PARCHED",
+      "phonetic": "(pahrcht)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dry, dried out, scorched </p><p>To PARCH something is to dry it out, especially through too much heat. </p><p>“Three straight months of sunlight PARCHED the corn.” </p><p>Something that is PARCHED is dried out. </p><p>“Nothing will grow in this PARCHED land. It’s almost a desert.” </p><p>“After running a mile in the heat his throat was PARCHED. He longed for a drink of water.” </p><p>Other forms of the word: PARCH, v.</p>"
+    },
+    "RELUCTANT": {
+      "word": "RELUCTANT",
+      "phonetic": "(ri-luhk'-tÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unwilling, disinclined </p><p>Someone who is RELUCTANT to do something doesn’t want to do it. He may do it, but it would be done against his will. </p><p>“I was RELUCTANT to enter the haunted house.” </p><p>“June was RELUCTANT to go to the party at first, but we talked her into it.” </p><p>“Bill convinced his RELUCTANT father to let him have the car.” </p><p>Many people think RELUCTANT means <i class=“def-ital\">eager</i>, which is an exact opposite. </p><p>Other forms of the word: RELUCTANCE, n.</p>"
+    },
+    "THRUST": {
+      "word": "THRUST",
+      "phonetic": "(thruhst)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to push, shove </p><p>To THRUST something is to push or shove it forward with great force or suddenness. </p><p>“She THRUST the money at the cab driver and didn’t wait for change.” </p><p>“The soldier THRUST his sword into the man’s side.” </p><p>“He THRUST his hands into his pockets to keep them warm.” </p><p>THRUST is also a noun which means a <i class=“def-ital\">push</i> or <i class=“def-ital\">shove</i>. </p><p>“The army’s THRUST into enemy territory was pushed back.” </p><p>On the Pretest, the most common wrong answer for the meaning of THRUST is <i class=“def-ital\">pull</i>, which is an exact opposite. </p><p>Usage: The past tense of THRUST is the same as the present tense: THRUST.</p>"
+    },
+    "TRAITOR": {
+      "word": "TRAITOR",
+      "phonetic": "(trA'-tÔøΩ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a betrayer </p><p>A TRAITOR is a person who is not loyal to his own country or side. A TRAITOR betrays the people who trust him. </p><p>“Benedict Arnold was a TRAITOR to the United States when he gave secrets to the British.” </p><p>“He is the worst kind of TRAITOR, because he betrayed his friends for money.” </p><p>Many people confuse TRAITOR with <i class=“def-ital\">spy</i>. A spy is a person who tries to obtain secret information. He may work for his own country or for someone else’s, so a spy is not necessarily a TRAITOR. </p><p>Other forms of the word: TRAITOROUS, adj.</p>"
+    }
+  },
+  "id": "8",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "ACUTE pain.",
+          "answers": [
+            "dull",
+            "sharp",
+            "constant",
+            "widespread",
+            "increasing"
+          ],
+          "word": "ACUTE",
+          "correct": "sharp"
+        },
+        {
+          "prompt": "Saw the TYPHOON.",
+          "answers": [
+            "hurricane",
+            "snowstorm",
+            "island",
+            "monster",
+            "whirlpool"
+          ],
+          "word": "TYPHOON",
+          "correct": "hurricane"
+        },
+        {
+          "prompt": "Quietly REVIVE.",
+          "answers": [
+            "lower",
+            "murder",
+            "replace",
+            "live",
+            "renew"
+          ],
+          "word": "REVIVE",
+          "correct": "renew"
+        },
+        {
+          "prompt": "The MEMENTO of our trip.",
+          "answers": [
+            "story",
+            "planning",
+            "enjoyment",
+            "reminder",
+            "result"
+          ],
+          "word": "MEMENTO",
+          "correct": "reminder"
+        },
+        {
+          "prompt": "ILLITERATE people.",
+          "answers": [
+            "lazy",
+            "clever",
+            "uneducated",
+            "insane",
+            "working"
+          ],
+          "word": "ILLITERATE",
+          "correct": "uneducated"
+        },
+        {
+          "prompt": "LOFTY places.",
+          "answers": [
+            "windy",
+            "high",
+            "low",
+            "dirty",
+            "wonderful"
+          ],
+          "word": "LOFTY",
+          "correct": "high"
+        },
+        {
+          "prompt": "Her speech was INCOMPARABLE.",
+          "answers": [
+            "stupid",
+            "similar",
+            "unequaled",
+            "very long",
+            "interesting"
+          ],
+          "word": "INCOMPARABLE",
+          "correct": "unequaled"
+        },
+        {
+          "prompt": "PHENOMENAL success.",
+          "answers": [
+            "extraordinary",
+            "usual",
+            "so-called",
+            "dangerous",
+            "immediate"
+          ],
+          "word": "PHENOMENAL",
+          "correct": "extraordinary"
+        },
+        {
+          "prompt": "INFALLIBLE treatments.",
+          "answers": [
+            "important",
+            "doubtful",
+            "helpful",
+            "unbearable",
+            "unfailing"
+          ],
+          "word": "INFALLIBLE",
+          "correct": "unfailing"
+        },
+        {
+          "prompt": "INSTRUMENTAL advice.",
+          "answers": [
+            "welcome",
+            "harmful",
+            "remembered",
+            "useful",
+            "excellent"
+          ],
+          "word": "INSTRUMENTAL",
+          "correct": "useful"
+        },
+        {
+          "prompt": "In charge of the MANEUVER.",
+          "answers": [
+            "skillful move",
+            "escape route",
+            "headquarters",
+            "sneak attack",
+            "takeover"
+          ],
+          "word": "MANEUVER",
+          "correct": "skillful move"
+        },
+        {
+          "prompt": "The land is PARCHED.",
+          "answers": [
+            "sandy",
+            "soaked",
+            "curved",
+            "divided",
+            "dry"
+          ],
+          "word": "PARCHED",
+          "correct": "dry"
+        },
+        {
+          "prompt": "RELUCTANT to leave.",
+          "answers": [
+            "eager",
+            "unwilling",
+            "pleased",
+            "trying",
+            "unable"
+          ],
+          "word": "RELUCTANT",
+          "correct": "unwilling"
+        },
+        {
+          "prompt": "Tried to THRUST it.",
+          "answers": [
+            "crush",
+            "pull",
+            "push",
+            "catch",
+            "kick"
+          ],
+          "word": "THRUST",
+          "correct": "push"
+        },
+        {
+          "prompt": "He was the TRAITOR.",
+          "answers": [
+            "spy",
+            "patriot",
+            "soldier",
+            "robber",
+            "betrayer"
+          ],
+          "word": "TRAITOR",
+          "correct": "betrayer"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a blind person have ACUTE vision?",
+          "word": "ACUTE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do TYPHOONS occur at the North Pole?",
+          "word": "TYPHOON",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can doctors sometimes REVIVE patients whose hearts have stopped beating?",
+          "word": "REVIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a flower be a MEMENTO?",
+          "word": "MEMENTO",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are you ILLITERATE?",
+          "word": "ILLITERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is the presidency a LOFTY position?",
+          "word": "LOFTY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a dull TV show be called INCOMPARABLE?",
+          "word": "INCOMPARABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is getting up in the morning a PHENOMENAL action?",
+          "word": "PHENOMENAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is the president of the United States INFALLIBLE?",
+          "word": "INFALLIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is reading INSTRUMENTAL in increasing your vocabulary?",
+          "word": "INSTRUMENTAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a MANEUVER be graceful?",
+          "word": "MANEUVER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would grass be PARCHED after a blizzard?",
+          "word": "PARCHED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a RELUCTANT reader be likely to go to the library often?",
+          "word": "RELUCTANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you THRUST a mountain?",
+          "word": "THRUST",
+          "correct": "false"
+        },
+        {
+          "prompt": "Was George Washington a TRAITOR to the United States?",
+          "word": "TRAITOR",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Didn't the baby look ACUTE in her pretty pink bonnet!",
+          "word": "ACUTE",
+          "correct": "false"
+        },
+        {
+          "prompt": "A warm TYPHOON blew softly in from the sea.",
+          "word": "TYPHOON",
+          "correct": "false"
+        },
+        {
+          "prompt": "The other team's dirty play REVIVED our determination to win.",
+          "word": "REVIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jim wrote himself a MEMENTO about going to the store after school.",
+          "word": "MEMENTO",
+          "correct": "false"
+        },
+        {
+          "prompt": "He was so ILLITERATE that he wouldn't even lend his own mother a dollar.",
+          "word": "ILLITERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Ed had a LOFTY opinion of himself. He thought he was one of the greatest men in the world.",
+          "word": "LOFTY",
+          "correct": "true"
+        },
+        {
+          "prompt": "He is an INCOMPARABLE painter; no one is quite as great as he is.",
+          "word": "INCOMPARABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was a PHENOMENAL athlete. He starred in every sport he tried.",
+          "word": "PHENOMENAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "No one has yet found an INFALLIBLE way to cure all diseases.",
+          "word": "INFALLIBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I hope I can be INSTRUMENTAL in helping you with this project.",
+          "word": "INSTRUMENTAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "He MANEUVERED his way up close to the famous actor.",
+          "word": "MANEUVER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The huge explosion PARCHED the house.",
+          "word": "PARCHED",
+          "correct": "false"
+        },
+        {
+          "prompt": "He is very RELUCTANT; something always goes wrong with things he tries to do.",
+          "word": "RELUCTANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "She THRUST her hand into the hole and felt around for the lost ring.",
+          "word": "THRUST",
+          "correct": "true"
+        },
+        {
+          "prompt": "She was blackmailed into becoming a TRAITOR to her country.",
+          "word": "TRAITOR",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ACUTE",
+          "answers": [
+            "severe",
+            "average",
+            "keen"
+          ],
+          "word": "ACUTE",
+          "correct": "1"
+        },
+        {
+          "prompt": "TYPHOON",
+          "answers": [
+            "snow",
+            "rain",
+            "storm"
+          ],
+          "word": "TYPHOON",
+          "correct": "0"
+        },
+        {
+          "prompt": "REVIVE",
+          "answers": [
+            "refresh",
+            "release",
+            "renew"
+          ],
+          "word": "REVIVE",
+          "correct": "1"
+        },
+        {
+          "prompt": "MEMENTO",
+          "answers": [
+            "decision",
+            "keepsake",
+            "remembrance"
+          ],
+          "word": "MEMENTO",
+          "correct": "0"
+        },
+        {
+          "prompt": "ILLITERATE",
+          "answers": [
+            "untaught",
+            "ignorant",
+            "unreasonable"
+          ],
+          "word": "ILLITERATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "LOFTY",
+          "answers": [
+            "noble",
+            "pretty",
+            "high"
+          ],
+          "word": "LOFTY",
+          "correct": "1"
+        },
+        {
+          "prompt": "INCOMPARABLE",
+          "answers": [
+            "sad",
+            "matchless",
+            "great"
+          ],
+          "word": "INCOMPARABLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PHENOMENAL",
+          "answers": [
+            "wonderful",
+            "unusual",
+            "new"
+          ],
+          "word": "PHENOMENAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "INFALLIBLE",
+          "answers": [
+            "necessary",
+            "sure",
+            "certain"
+          ],
+          "word": "INFALLIBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INSTRUMENTAL",
+          "answers": [
+            "useful",
+            "helpful",
+            "additional"
+          ],
+          "word": "INSTRUMENTAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "MANEUVER",
+          "answers": [
+            "trick",
+            "movement",
+            "battle"
+          ],
+          "word": "MANEUVER",
+          "correct": "2"
+        },
+        {
+          "prompt": "PARCHED",
+          "answers": [
+            "hot",
+            "dry",
+            "tired"
+          ],
+          "word": "PARCHED",
+          "correct": "2"
+        },
+        {
+          "prompt": "RELUCTANT",
+          "answers": [
+            "hesitant",
+            "cautious",
+            "impatient"
+          ],
+          "word": "RELUCTANT",
+          "correct": "2"
+        },
+        {
+          "prompt": "THRUST",
+          "answers": [
+            "throw",
+            "force",
+            "stop"
+          ],
+          "word": "THRUST",
+          "correct": "2"
+        },
+        {
+          "prompt": "TRAITOR",
+          "answers": [
+            "deserter",
+            "merchant",
+            "betrayer"
+          ],
+          "word": "TRAITOR",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

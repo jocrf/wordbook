@@ -1,0 +1,611 @@
+{
+  "title": "6.10",
+  "definitions": {
+    "EMPHATIC": {
+      "word": "EMPHATIC",
+      "phonetic": "(em-fat'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">forceful, insistent, strongly expressive, striking </p><p>EMPHASIS is the stress or force used to show that something is important. </p><p>“The coach laid great EMPHASIS on speed.” </p><p>EMPHATIC is the adjective from EMPHASIS.  EMPHATIC means <i class=“def-ital\">forceful</i>, <i class=“def-ital\">insistent</i>. </p><p>“The mayor issued an EMPHATIC denial to the rumor that he was seriously ill.” </p><p>“Jim’s tone was EMPHATIC when he said he would never let Bill drive his car again.” </p><p>“The teacher said EMPHATICALLY that there would be absolutely no talking during the test.” </p><p>Other forms of the word: EMPHASIS, n. EMPHASIZE, v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ic</i> under Suffixes."
+      ]
+    },
+    "INCEPTION": {
+      "word": "INCEPTION",
+      "phonetic": "(in-sep'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">beginning, start, commencement </p><p>INCEPTION is a rather formal word for the <i class=“def-ital\">beginning</i> or <i class=“def-ital\">start</i> of something. The word is used especially about projects, organizations, practices, and the like. </p><p>“Since the INCEPTION of the fund-raising drive we have received over ten thousand dollars.” </p><p>“I was present at the club’s INCEPTION two years ago.” </p><p>“The plot of the novel changed greatly between the book’s INCEPTION and its completion.”</p>"
+    },
+    "GINGERLY": {
+      "word": "GINGERLY",
+      "phonetic": "(jin'-jÔøΩr-lE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">careful, cautious, wary </p><p>GINGERLY means <i class=“def-ital\">careful</i> or <i class=“def-ital\">cautious</i>. To do something in a GINGERLY manner is to do it with care, in order to avoid hurting yourself, making a noise, or breaking something. </p><p>“They moved in a GINGERLY way across the beach, looking out for pieces of broken glass.” </p><p>GINGERLY is also an adverb. </p><p>“He GINGERLY picked up the priceless vase and carried it across the room.” </p><p>“We walked GINGERLY through the minefield, afraid that any second we would be blown up.”</p>"
+    },
+    "IMPLEMENT": {
+      "word": "IMPLEMENT",
+      "phonetic": "(im'-plÔøΩmÔøΩnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a tool, instrument </p><p>An IMPLEMENT is a <i class=“def-ital\">tool</i>, an object used in carrying out some kind of work. </p><p>“She had a hoe, a rake, and other gardening IMPLEMENTS.” </p><p>“As part of the peace treaty they agreed to give up all their IMPLEMENTS of war.” </p><p>“Television can be used as an IMPLEMENT of education.” </p><p>IMPLEMENT is also a verb, meaning to <i class=“def-ital\">carry out</i> or <i class=“def-ital\">put into effect</i>. </p><p>“The workers were told to IMPLEMENT the president’s new policy immediately.” </p><p>“It’s easy to make a decision; it’s more difficult to IMPLEMENT it.” </p><p>In the Pretest, the most popular wrong answer is <i class=“def-ital\">decoration</i>. This may be due to a confusion between IMPLEMENT and <i class=“def-ital\">ornament</i>, which is a <i class=“def-ital\">decoration</i>. </p><p>Other forms of the word: IMPLEMENTATION, n.</p>"
+    },
+    "PALPITATE": {
+      "word": "PALPITATE",
+      "phonetic": "(pal'-pÔøΩtAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to throb, beat rapidly, pulsate, quiver </p><p>To PALPITATE is to beat rapidly and strongly, like the heart during exercise or strong emotion. </p><p>“Her heart started to PALPITATE whenever she thought of the man she loved.” </p><p>“Running up the flight of stairs caused the man’s heart to PALPITATE.” </p><p>Other forms of the word: PALPITATION, n.</p>"
+    },
+    "INTREPID": {
+      "word": "INTREPID",
+      "phonetic": "(in-trep'-id)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fearless, daring, brave </p><p> The <i class=“def-ital\">trepid</i> part of the word comes from a Latin word meaning <i class=“def-ital\">fear</i>, also the source of the English word <i class=“def-ital\">trepidation</i>. Someone who is INTREPID is <i class=“def-ital\">fearless</i>; he is daring and resolute when it comes to meeting danger. </p><p>“The INTREPID explorers set off into the jungle, knowing they might never come out alive.” </p><p>Other forms of the word: INTREPIDITY, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "MATRON": {
+      "word": "MATRON",
+      "phonetic": "mA'-tr:>n)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a dignified married woman </p><p>A MATRON is a married woman, especially a mature or dignified one with a high social position. </p><p>“They were dignified old MATRONS who spent most of their time on the committees for various charities.” </p><p>MATRON is also used for the woman who is in charge of the housekeeping at a hospital, prison, or similar institution. </p><p>Other forms of the word: MATRONLY, adj.</p>"
+    },
+    "PALATABLE": {
+      "word": "PALATABLE",
+      "phonetic": "pal'-:>t-:>-b:>I)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">tasty, agreeable to the taste </p><p> The <i class=“def-ital\">palate</i> is the roof of the mouth; it was once popularly thought to be where the sense of taste was located. Thus, something which is PALATABLE is agreeable to the <i class=“def-ital\">palate</i> or the taste. The word is usually used about foods that are little more than acceptable to the palate, and not about foods which taste wonderful. </p><p>“The dinner he cooked was at least PALATABLE, which is more than I expected.” </p><p>“This vegetable can be PALATABLE if it is cooked the right way.” </p><p>Sometimes PALATABLE is used in a general sense to mean <i class=“def-ital\">agreeable</i>, <i class=“def-ital\">acceptable</i>. </p><p>“You may not find my criticisms very PALATABLE, but I’m still going to make them.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "RETICENT": {
+      "word": "RETICENT",
+      "phonetic": "(ret'-:>-sÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">silent, reserved, quiet </p><p>Someone who is RETICENT is not inclined to say much, either out of caution or shyness. A RETICENT person keeps most things to himself, and only gives out information grudgingly. </p><p>“She was RETICENT about what had happened that day. It was obvious she was hiding something.” </p><p>“He is usually RETICENT about all his accomplishments, but this time he told everyone.” </p><p>“Don’t be RETICENT. Let us know how you feel.” </p><p>Other forms of the word: RETICENCE, n.</p>"
+    },
+    "SORDID": {
+      "word": "SORDID",
+      "phonetic": "sor'-did)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">filthy, dirty </p><p>Someone or something that is SORDID is filthy and disgusting. The word’s basic meaning is <i class=“def-ital\">dirty</i>, but it always suggests uncleanness that is caused by evil or corruption. </p><p>“It was difficult for children to grow up in these SORDID surroundings.” </p><p>“He had some SORDID habits which caused all decent people to avoid him.” </p><p>“The evil criminals carried out their SORDID plot to kidnap the child.”</p>"
+    },
+    "DISCREET": {
+      "word": "DISCREET",
+      "phonetic": "(dis-krEt')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">tactful, cautious, careful </p><p>A person who is DISCREET shows good judgment in what he says or does. He is very careful not to do anything which might harm his own interests or those of his friends. A DISCREET person can be trusted with a secret, or with a task that requires tact and diplomacy. </p><p>“The DISCREET diplomat refused to criticize the leaders of the foreign country.” </p><p>“She thought it would be DISCREET to leave before the party got too wild.” </p><p>A “DISCREET silence” occurs when someone has decided that it’s better not to say anything in a particular situation. </p><p>Other forms of the word: DISCRETION, n. DISCRETIONARY, adj.</p>"
+    },
+    "AGGRIEVED": {
+      "word": "AGGRIEVED",
+      "phonetic": "(:>-grEvd')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wronged, offended, troubled </p><p>AGGRIEVED is related to the words <i class=“def-ital\">grief</i> and <i class=“def-ital\">grieve</i>. To be AGGRIEVED is to be wronged or treated unjustly, so that you have cause for complaint. </p><p>“He felt AGGRIEVED when the teacher punished him and not the rest of the students.” </p><p>“Bill had a permanently AGGRIEVED attitude; he thought that people were always treating him badly.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">neglected</i>. Someone who is <i class=“def-ital\">neglected</i> may have a right to feel AGGRIEVED, but the two words do not have the same meaning. </p><p>Other forms of the word: AGGRIEVE, v.</p>"
+    },
+    "EQUITY": {
+      "word": "EQUITY",
+      "phonetic": "(ek'-wÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">fairness, impartiality, justice </p><p>EQUITY is related to the word <i class=“def-ital\">equal</i>. EQUITY is the quality of being fair, just, and impartial. </p><p>“The EQUITY of his solution seemed to please everyone.” </p><p>“He thought that as a matter of EQUITY he should get a share.” </p><p>In English and American law, EQUITY is a particular system of rules and doctrines which is designed to correct or override other laws in cases where they appear to work unfairly. The adjective formed from EQUITY is EQUITABLE, which means <i class=“def-ital\">reasonable</i>, <i class=“def-ital\">just</i>. </p><p>“It was hardly an EQUITABLE arrangement, since she paid for the car and he was the only one who could use it.” </p><p>Other forms of the word: EQUITABLE, adj.</p>"
+    },
+    "LEGACY": {
+      "word": "LEGACY",
+      "phonetic": "(leg'-ÔøΩsE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an inheritance, bequest </p><p>A LEGACY is something, like land or money, left by will as a gift to someone else. </p><p>“Her uncle left her a small LEGACY which helped pay for her college education.” </p><p>In a general sense, a LEGACY is anything received from the past or from our ancestors. </p><p>“Their chief LEGACY to their children was a keen desire to help the unfortunate.” </p><p>“Those beautiful paintings are our LEGACY from the great artists of the past.”</p>"
+    },
+    "PLEBEIAN": {
+      "word": "PLEBEIAN",
+      "phonetic": "(pl::-bE'-:;,n)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">commonplace, undistinguished </p><p>In ancient Rome there were two classes of people, the <i class=“def-ital\">plebs</i>, or common people, and the <i class=“def-ital\">patricians</i>, or nobles. The adjective PLEBEIAN means “of or relating to the plebs or common people.” The word is used about people, things ,or activities that are considered crude or commonplace. </p><p>“The nobleman didn’t want his daughter to marry into such a PLEBEIAN family.” </p><p>“He considered himself too cultured to take part in so PLEBEIAN a sport as bowling.” </p><p>PLEBEIAN is also a noun. </p><p>“I may only be a simple PLEBEIAN, but I have rights too.”</p>"
+    }
+  },
+  "id": "10",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "His EMPHATIC reply.",
+          "answers": [
+            "mild",
+            "forceful",
+            "quick",
+            "insulting",
+            "puzzling"
+          ],
+          "word": "EMPHATIC",
+          "correct": "forceful"
+        },
+        {
+          "prompt": "Its INCEPTION.",
+          "answers": [
+            "improvement",
+            "end",
+            "beginning",
+            "approval",
+            "value"
+          ],
+          "word": "INCEPTION",
+          "correct": "beginning"
+        },
+        {
+          "prompt": "GINGERLY movements.",
+          "answers": [
+            "silent",
+            "clumsy",
+            "careful",
+            "slow",
+            "quick"
+          ],
+          "word": "GINGERLY",
+          "correct": "careful"
+        },
+        {
+          "prompt": "Bronze IMPLEMENT.",
+          "answers": [
+            "cup",
+            "decoration",
+            "weapon",
+            "statue",
+            "tool"
+          ],
+          "word": "IMPLEMENT",
+          "correct": "tool"
+        },
+        {
+          "prompt": "To PALPITATE continuously.",
+          "answers": [
+            "bother",
+            "work",
+            "worry",
+            "throb",
+            "float"
+          ],
+          "word": "PALPITATE",
+          "correct": "throb"
+        },
+        {
+          "prompt": "INTREPID men.",
+          "answers": [
+            "brilliant",
+            "fearless",
+            "cowardly",
+            "cold",
+            "watchful"
+          ],
+          "word": "INTREPID",
+          "correct": "fearless"
+        },
+        {
+          "prompt": "Visited the MATRON.",
+          "answers": [
+            "married woman",
+            "young girl",
+            "bride",
+            "rich man",
+            "teacher"
+          ],
+          "word": "MATRON",
+          "correct": "married woman"
+        },
+        {
+          "prompt": "PALATABLE food.",
+          "answers": [
+            "unsurpassed",
+            "sweet",
+            "tasty",
+            "disagreeable",
+            "colorless"
+          ],
+          "word": "PALATABLE",
+          "correct": "tasty"
+        },
+        {
+          "prompt": "Unusually RETICENT.",
+          "answers": [
+            "frightened",
+            "sad",
+            "quiet",
+            "lonely",
+            "noisy"
+          ],
+          "word": "RETICENT",
+          "correct": "quiet"
+        },
+        {
+          "prompt": "SORDID surroundings.",
+          "answers": [
+            "dangerous",
+            "filthy",
+            "magnificent",
+            "ruined",
+            "various"
+          ],
+          "word": "SORDID",
+          "correct": "filthy"
+        },
+        {
+          "prompt": "DISCREET refusal.",
+          "answers": [
+            "secret",
+            "tactful",
+            "proud",
+            "total",
+            "thoughtless"
+          ],
+          "word": "DISCREET",
+          "correct": "tactful"
+        },
+        {
+          "prompt": "She felt AGGRIEVED.",
+          "answers": [
+            "relaxed",
+            "neglected",
+            "satisfied",
+            "tired",
+            "wronged"
+          ],
+          "word": "AGGRIEVED",
+          "correct": "wronged"
+        },
+        {
+          "prompt": "The EQUITY of the decision.",
+          "answers": [
+            "purpose",
+            "acceptance",
+            "fairness",
+            "importance",
+            "result"
+          ],
+          "word": "EQUITY",
+          "correct": "fairness"
+        },
+        {
+          "prompt": "A small LEGACY.",
+          "answers": [
+            "association",
+            "request",
+            "inheritance",
+            "profit",
+            "mistake"
+          ],
+          "word": "LEGACY",
+          "correct": "inheritance"
+        },
+        {
+          "prompt": "Considered them PLEBEIAN.",
+          "answers": [
+            "clumsy",
+            "majestic",
+            "holy",
+            "commonplace",
+            "foreign"
+          ],
+          "word": "PLEBEIAN",
+          "correct": "commonplace"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "If a teacher puts EMPHASIS on neatness, does she care about it?",
+          "word": "EMPHATIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "Has a project gotten very far at the time of its INCEPTION?",
+          "word": "INCEPTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "If someone had to carry a bomb, would he carry it GINGERLY?",
+          "word": "GINGERLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a pen be considered an IMPLEMENT?",
+          "word": "IMPLEMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a heart always PALPITATING?",
+          "word": "PALPITATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are mountain climbers usually INTREPID?",
+          "word": "INTREPID",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a baby be a MATRON?",
+          "word": "MATRON",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is dirt PALATABLE?",
+          "word": "PALATABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most salesmen be RETICENT?",
+          "word": "RETICENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a person be SORDID?",
+          "word": "SORDID",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should a secret agent be DISCREET?",
+          "word": "DISCREET",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a person who feels AGGRIEVED likely to be angry at someone?",
+          "word": "AGGRIEVED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should people be angry about an EQUITABLE decision?",
+          "word": "EQUITABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a diamond ring be a LEGACY?",
+          "word": "LEGACY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a duchess be a PLEBEIAN?",
+          "word": "PLEBEIAN",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He struck the table EMPHATICALLY to show that he meant what he said.",
+          "word": "EMPHATIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "The school held an INCEPTION so that everyone could meet the new principal.",
+          "word": "INCEPTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "They GINGERLY picked up the child and placed her in the ambulance.",
+          "word": "GINGERLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "They IMPLEMENTED the actor on his fine performance.",
+          "word": "IMPLEMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "He PALPITATED the switch to make sure it worked.",
+          "word": "PALPITATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He was so INTREPID that his hand started to shake as he opened the door.",
+          "word": "INTREPID",
+          "correct": "false"
+        },
+        {
+          "prompt": "His grandmother was a distinguished MATRON.",
+          "word": "MATRON",
+          "correct": "true"
+        },
+        {
+          "prompt": "I expected a wonderful meal; instead I got some stale bread that was barely PALATABLE.",
+          "word": "PALATABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The RETICENT boy wouldn't tell his parents why he was afraid to go to school.",
+          "word": "RETICENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Everyone admired the SORDID way he treated his children.",
+          "word": "SORDID",
+          "correct": "false"
+        },
+        {
+          "prompt": "When asked if she would run for reelection, the senator kept a DISCREET silence.",
+          "word": "DISCREET",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her AGGRIEVED expression showed that she was feeling sorry for herself again.",
+          "word": "AGGRIEVED",
+          "correct": "true"
+        },
+        {
+          "prompt": "We were amazed by the EQUITY of the arrangement, under which she got less pay for the same amount of work.",
+          "word": "EQUITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "A continuing hostility between the two countries was the unfortunate LEGACY of the ancient war.",
+          "word": "LEGACY",
+          "correct": "true"
+        },
+        {
+          "prompt": "She felt that watching television was a PLEBEIAN activity, and refused to do it.",
+          "word": "PLEBEIAN",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "EMPHATIC",
+          "answers": [
+            "cruel",
+            "strong",
+            "insistent"
+          ],
+          "word": "EMPHATIC",
+          "correct": "0"
+        },
+        {
+          "prompt": "INCEPTION",
+          "answers": [
+            "origin",
+            "victory",
+            "start"
+          ],
+          "word": "INCEPTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "GINGERLY",
+          "answers": [
+            "cautiously",
+            "worriedly",
+            "accurately"
+          ],
+          "word": "GINGERLY",
+          "correct": "2"
+        },
+        {
+          "prompt": "IMPLEMENT",
+          "answers": [
+            "road",
+            "device",
+            "machine"
+          ],
+          "word": "IMPLEMENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "PALPITATE",
+          "answers": [
+            "vibrate",
+            "tremble",
+            "ache"
+          ],
+          "word": "PALPITATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "INTREPID",
+          "answers": [
+            "bold",
+            "rude",
+            "daring"
+          ],
+          "word": "INTREPID",
+          "correct": "1"
+        },
+        {
+          "prompt": "MATRON",
+          "answers": [
+            "elderly",
+            "ill",
+            "dignified"
+          ],
+          "word": "MATRON",
+          "correct": "1"
+        },
+        {
+          "prompt": "PALATABLE",
+          "answers": [
+            "possible",
+            "edible",
+            "acceptable"
+          ],
+          "word": "PALATABLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "RETICENT",
+          "answers": [
+            "shy",
+            "secretive",
+            "sad"
+          ],
+          "word": "RETICENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "SORDID",
+          "answers": [
+            "expensive",
+            "mean",
+            "vile"
+          ],
+          "word": "SORDID",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISCREET",
+          "answers": [
+            "happy",
+            "quiet",
+            "careful"
+          ],
+          "word": "DISCREET",
+          "correct": "0"
+        },
+        {
+          "prompt": "AGGRIEVED",
+          "answers": [
+            "upset",
+            "offended",
+            "nervous"
+          ],
+          "word": "AGGRIEVED",
+          "correct": "2"
+        },
+        {
+          "prompt": "EQUITY",
+          "answers": [
+            "justness",
+            "fairness",
+            "brilliance"
+          ],
+          "word": "EQUITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "LEGACY",
+          "answers": [
+            "earnings",
+            "inheritance",
+            "gift"
+          ],
+          "word": "LEGACY",
+          "correct": "0"
+        },
+        {
+          "prompt": "PLEBEIAN",
+          "answers": [
+            "easy",
+            "average",
+            "common"
+          ],
+          "word": "PLEBEIAN",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

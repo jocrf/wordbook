@@ -1,0 +1,611 @@
+{
+  "title": "4.11",
+  "definitions": {
+    "INITIATIVE": {
+      "word": "INITIATIVE",
+      "phonetic": "(i-nish'-ÔøΩtiv)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a first step, introductory action </p><p>To INITIATE something is to begin it, to set it in motion. An INITIATIVE is the first step or move designed to start a series of events. To do something “on your own INITIATIVE” means that you take this first step without being told to. To “have the INITIATIVE” means that you are in a position to take the first step. </p><p>INITIATIVE is also used for the readiness and the ability to INITIATE actions or projects, particularly if they are difficult or dangerous. </p><p>“He was a man of great INITIATIVE. He saw what needed to be done and did it.” </p><p>Other forms of the word: INITIATE, v.</p>"
+    },
+    "LAX": {
+      "word": "LAX",
+      "phonetic": "(laks)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">not strict, loose, careless, negligent </p><p>Someone or something that is LAX is not strict or severe enough, is careless or negligent. </p><p>“He was very LAX about doing his homework on time.” </p><p>“He got away with it because the rules were LAX.” </p><p>Sometimes LAX is used in the sense of <i class=“def-ital\">loose</i>, “not firm or tense.” </p><p>“He had a very LAX handshake.” </p><p>The noun from LAX is LAXITY. </p><p>“She blamed the increase in teenage crime on the LAXITY of modern parents.” </p><p>Other forms of the word: LAXITY, n.</p>"
+    },
+    "RETORT": {
+      "word": "RETORT",
+      "phonetic": "(ri-tort')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a reply, sharp answer </p><p>A RETORT is a sharp or witty answer to something that has just been said. </p><p>“He gave a quick RETORT to the fellow’s insult.” </p><p>“She couldn’t think of a RETORT strong enough to show how angry she was.” </p><p>“His clever RETORTS made people laugh, but also got him into trouble.” </p><p>RETORT is also a verb. </p><p>“‘It’s none of your business,’ Jack RETORTED.” </p><p>“He RETORTED that she had no one to blame but herself.”</p>"
+    },
+    "SHACKLE": {
+      "word": "SHACKLE",
+      "phonetic": "(shak'-ÔøΩI)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a chain, iron ring </p><p>SHACKLES are <i class=“def-ital\">chains</i> or <i class=“def-ital\">iron rings</i> that are put around a person’s arms or legs to keep him from moving. </p><p>“They kept the prisoner in SHACKLES.” </p><p>When SHACKLE is used as a verb, it means “to put SHACKLES on,” to <i class=“def-ital\">chain</i>. </p><p>“The convict was SHACKLED to a large post.” </p><p>SHACKLE is also used in a broader sense for anything that prevents freedom of thought, action, or progress. </p><p>“Unless you can throw off the SHACKLES of your ignorance you will never be successful.” </p><p>Usage: SHACKLE is usually used in the plural.</p>"
+    },
+    "TRANSACT": {
+      "word": "TRANSACT",
+      "phonetic": "(tran-sakt'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to carry out, conduct </p><p>TRANSACT means to <i class=“def-ital\">carry on</i> or <i class=“def-ital\">do</i>. The word is usually used about business. </p><p>“They TRANSACTED all their business in the morning.” </p><p>“It is impossible to TRANSACT business with a fool.” </p><p>TRANSACTION is the noun from TRANSACT. A TRANSACTION is a business deal. </p><p>“Many of the company’s TRANSACTIONS are with foreign firms.” </p><p>In the Pretest, <i class=“def-ital\">change</i> is often chosen as the meaning of TRANSACT, perhaps because TRANSACT looks like <i class=“def-ital\">transform</i>, which means to <i class=“def-ital\">change</i>.</p>"
+    },
+    "ATTIRE": {
+      "word": "ATTIRE",
+      "phonetic": "(ÔøΩtl-ÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">clothing, clothes, dress </p><p>ATTIRE is another word for <i class=“def-ital\">clothing</i>, especially fancy or splendid clothing </p><p>“They were dressed in their best holiday ATTIRE.” </p><p>“His dirty jersey and ragged pants were not proper ATTIRE for the restaurant.” </p><p>ATTIRE is also a verb, meaning to <i class=“def-ital\">clothe</i> or <i class=“def-ital\">dress</i>. </p><p>“For her wedding, she was ATTIRED all in white.” </p><p><i class=“def-ital\">Appearance</i> is often chosen as the meaning of ATTIRE. Your clothing is part of your appearance, but ATTIRE only has to do with your clothing, not your entire appearance. </p><p>Usage: ATTIRE is a literary word, and would be used more often in writing than in speech.</p>"
+    },
+    "COMPEL": {
+      "word": "COMPEL",
+      "phonetic": "(kÔøΩm-pel')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to force </p><p>To COMPEL means to <i class=“def-ital\">force</i>. The word suggests strong pressure or authority being used on a person to do something. </p><p>“The blinding rain COMPELLED us to stop driving and pull over to the side of the road.” </p><p>“His serious illness COMPELLED him to resign from his job.” </p><p>“She felt COMPELLED to warn him of the danger involved in the experiment.” </p><p>“Her brilliant play COMPELLED the crowd’s attention.” </p><p>COMPELLING is the adjective from COMPEL and means “demanding attention, respect, or admiration.” </p><p>“There are COMPELLING reasons why you must agree to the plan immediately.” </p><p>“The novel was so COMPELLING that I was unable to put it down until I finished it.” </p><p>Other forms of the word: COMPELLING, adj.</p>"
+    },
+    "EXCRUCIATING": {
+      "word": "EXCRUCIATING",
+      "phonetic": "{ik-skrU'-shE-At-ing)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">agonizing, extremely painful </p><p>EXCRUCIATING is related to the word <i class=“def-ital\">crucify</i>. EXCRUCIATING means <i class=“def-ital\">almost unbearably painful</i>, as if someone were driving nails through you. </p><p>“The pain from his broken shoulder was EXCRUCIATING for a couple of days until the bones began to heal.” </p><p>“She suffered EXCRUCIATING embarrassment whenever she had to stand up and recite in front of the class.” </p><p>“Sometimes I think nothing is more EXCRUCIATING than a toothache.”</p>"
+    },
+    "FINITE": {
+      "word": "FINITE",
+      "phonetic": "(fl'-nlt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">limited, having boundaries </p><p>FINITE comes from the same Latin word as <i class=“def-ital\">finish</i> and <i class=“def-ital\">final</i>. All have to do with <i class=“def-ital\">ends</i> or <i class=“def-ital\">ending</i>. FINITE means “having an end,” <i class=“def-ital\">limited</i>. </p><p>“We cannot keep paying them forever; we have only a FINITE amount of money.” </p><p>Note that this does not mean we have a small amount of money. It simply means that we don’t have an unlimited amount of money. </p><p>“We should be able to find him; it’s a big city, but the number of people in it is still FINITE.” </p><p>The opposite of FINITE is INFINITE, <i class=“def-ital\">endless</i>, <i class=“def-ital\">unlimited</i>.  </p><p>“We can do anything we want; the possibilities are INFINITE.” </p><p>“Some people believe that the universe is INFINITE; others believe it is FINITE.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "FUTILE": {
+      "word": "FUTILE",
+      "phonetic": "(fyU'-tÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">useless, ineffective, fruitless </p><p>FUTILE means <i class=“def-ital\">of no use</i>, <i class=“def-ital\">in vain</i>. An action or plan that is FUTILE cannot have the result that is hoped for. </p><p>“He made a FUTILE attempt to push the car by himself, then gave up.” </p><p>“Realizing it was FUTILE to fight any longer, the enemy surrendered.” </p><p>“It is FUTILE to argue with him. He never changes his mind.” </p><p>The noun from FUTILE is FUTILITY, which means <i class=“def-ital\">uselessness</i>. </p><p>“Despite the FUTILITY of our actions, we kept trying to unlock the door.” </p><p>“I explained to him the FUTILITY of trying to start a fire with wet matches.” </p><p>Other forms of the word: FUTILITY, n.</p>"
+    },
+    "MUTINOUS": {
+      "word": "MUTINOUS",
+      "phonetic": "(myU'-tÔøΩnÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">rebellious, ready to revolt, difficult to control </p><p>A MUTINY is a rebellion or revolt against people in authority. The word is particularly applied to soldiers or sailors who turn against their officers. MUTINOUS is the adjective from MUTINY.  Someone who is MUTINOUS is rebelling, or is ready to rebel, against the orders of his superiors. </p><p>“The soldiers became MUTINOUS over the rotten food they were forced to eat.” </p><p>MUTINOUS is also used in a broader sense to mean “difficult to control,” <i class=“def-ital\">unruly</i>. </p><p>“The teacher found it impossible to get the MUTINOUS child to sit still and stop pestering everyone.” </p><p>Other forms of the word: MUTINY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "SUPERLATIVE": {
+      "word": "SUPERLATIVE",
+      "phonetic": "(sU-per'-1ÔøΩ-tiv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">supreme, excellent </p><p> Something which is SUPERLATIVE is of the highest quality; it is extremely great or excellent. </p><p>“It was a SUPERLATIVE dinner. It may have been the best I have ever had.” </p><p>“Her SUPERLATIVE paintings have won many prizes.” </p><p>“We thought it had been a SUPERLATIVE achievement to finish the job on time.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">super-</i> under Prefixes."
+      ]
+    },
+    "ATROCIOUS": {
+      "word": "ATROCIOUS",
+      "phonetic": "(ÔøΩtrO'-shÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">terrible, dreadful, wicked, cruel </p><p>ATROCIOUS means <i class=“def-ital\">extremely wicked</i> or <i class=“def-ital\">barbaric</i>. </p><p>“Everyone was shocked by the ATROCIOUS crime.” </p><p>“The company treated its workers ATROCIOUSLY-the conditions in the factory were almost inhuman.” </p><p>In a slightly different sense, ATROCIOUS also means <i class=“def-ital\">extremely bad</i>, <i class=“def-ital\">awful</i>. </p><p>“The movie was simply ATROCIOUS-I left after ten minutes.” </p><p>“He made an ATROCIOUS error that cost the company millions.” </p><p>The most commonly selected incorrect answer is <i class=“def-ital\">remarkable</i>. This may be due to confusion with the word <i class=“def-ital\">precocious</i>. <i class=“def-ital\">Precocious</i> means “having a talent which usually appears in an older person.” A <i class=“def-ital\">precocious</i> child would be remarkable; he wouldn’t usually be ATROCIOUS. </p><p>Other forms of the word: ATROCITY, n.</p>"
+    },
+    "CAMOUFLAGE": {
+      "word": "CAMOUFLAGE",
+      "phonetic": "(kam'-ÔøΩflahzh)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to disguise, mask, conceal </p><p>CAMOUFLAGE is both a verb and a noun. In the military, CAMOUFLAGE is the use of paint, tree branches, netting, or other materials to give a false appearance to something like a tank or a gun position. Thus, to CAMOUFLAGE something is to disguise it in order to hide it or to deceive someone. </p><p>“The color of many animals is a natural CAMOUFLAGE that keeps larger animals from seeing them.” </p><p>“His constant smile CAMOUFLAGED his real feelings.”</p>"
+    },
+    "ENLIGHTEN": {
+      "word": "ENLIGHTEN",
+      "phonetic": "(in-llt'-ÔøΩn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to inform, instruct </p><p>The original meaning of ENLIGHTEN was “to supply with light.” Now the word is only used in the sense “to give knowledge\"-that is, to free someone from the “darkness” of misunderstanding or ignorance. </p><p>“I know nothing about his background. Could you ENLIGHTEN me?” </p><p>“We tried to ENLIGHTEN him as to the nature of the problem, but he wouldn’t listen.” </p><p>Someone who is ENLIGHTENED is free from ignorance and superstition. </p><p>“The boss took a very ENLIGHTENED approach in dealing with his workers. He treated them as equals and never threatened them.” </p><p>The most commonly selected incorrect answer is <i class=“def-ital\">amuse</i>, possibly because the <i class=“def-ital\">light</i> part of ENLIGHTEN is thought to mean <i class=“def-ital\">not serious</i>. </p><p>Other forms of the word: ENLIGHTENED, adj. ENLIGHTENMENT, n.</p>"
+    }
+  },
+  "id": "11",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Take the INITIATIVE.",
+          "answers": [
+            "result",
+            "position",
+            "absolute power",
+            "last move",
+            "first step"
+          ],
+          "word": "INITIATIVE",
+          "correct": "first step"
+        },
+        {
+          "prompt": "The rules were LAX.",
+          "answers": [
+            "written out",
+            "not strict",
+            "forgotten",
+            "severe",
+            "out-of-date"
+          ],
+          "word": "LAX",
+          "correct": "not strict"
+        },
+        {
+          "prompt": "Quick RETORT.",
+          "answers": [
+            "question",
+            "decision",
+            "reply",
+            "temper",
+            "recovery"
+          ],
+          "word": "RETORT",
+          "correct": "reply"
+        },
+        {
+          "prompt": "Found the SHACKLES.",
+          "answers": [
+            "whips",
+            "boards",
+            "blankets",
+            "bandages",
+            "chains"
+          ],
+          "word": "SHACKLE",
+          "correct": "chains"
+        },
+        {
+          "prompt": "TRANSACT their business.",
+          "answers": [
+            "carry out",
+            "change",
+            "lie about",
+            "draw",
+            "forget about"
+          ],
+          "word": "TRANSACT",
+          "correct": "carry out"
+        },
+        {
+          "prompt": "Usual ATTIRE.",
+          "answers": [
+            "relaxation",
+            "clothing",
+            "equipment",
+            "appearance",
+            "habit"
+          ],
+          "word": "ATTIRE",
+          "correct": "clothing"
+        },
+        {
+          "prompt": "To COMPEL them.",
+          "answers": [
+            "need",
+            "stop",
+            "force",
+            "want",
+            "expect"
+          ],
+          "word": "COMPEL",
+          "correct": "force"
+        },
+        {
+          "prompt": "EXCRUCIATING moments.",
+          "answers": [
+            "annoying",
+            "shameful",
+            "boring",
+            "pleasant",
+            "agonizing"
+          ],
+          "word": "EXCRUCIATING",
+          "correct": "agonizing"
+        },
+        {
+          "prompt": "FINITE resources.",
+          "answers": [
+            "small",
+            "limited",
+            "remarkable",
+            "huge",
+            "certain"
+          ],
+          "word": "FINITE",
+          "correct": "limited"
+        },
+        {
+          "prompt": "It was FUTILE.",
+          "answers": [
+            "harsh",
+            "useless",
+            "necessary",
+            "dangerous",
+            "lonely"
+          ],
+          "word": "FUTILE",
+          "correct": "useless"
+        },
+        {
+          "prompt": "MUTINOUS behavior.",
+          "answers": [
+            "unusual",
+            "angry",
+            "obedient",
+            "rebellious",
+            "destructive"
+          ],
+          "word": "MUTINOUS",
+          "correct": "rebellious"
+        },
+        {
+          "prompt": "SUPERLATIVE achievement.",
+          "answers": [
+            "exciting",
+            "doubtful",
+            "supreme",
+            "unexpected",
+            "impossible"
+          ],
+          "word": "SUPERLATIVE",
+          "correct": "supreme"
+        },
+        {
+          "prompt": "ATROCIOUS actors.",
+          "answers": [
+            "terrible",
+            "unhappy",
+            "remarkable",
+            "angry",
+            "young"
+          ],
+          "word": "ATROCIOUS",
+          "correct": "terrible"
+        },
+        {
+          "prompt": "Completely CAMOUFLAGED.",
+          "answers": [
+            "revealed",
+            "protected",
+            "disguised",
+            "changed",
+            "spoiled"
+          ],
+          "word": "CAMOUFLAGE",
+          "correct": "disguised"
+        },
+        {
+          "prompt": "To ENLIGHTEN them.",
+          "answers": [
+            "amuse",
+            "meet",
+            "know",
+            "inform",
+            "change"
+          ],
+          "word": "ENLIGHTEN",
+          "correct": "inform"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a lazy person be full of INITIATIVE?",
+          "word": "INITIATIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a person who is LAX about his appearance probably look sloppy?",
+          "word": "LAX",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are RETORTS usually polite?",
+          "word": "RETORT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a dog be SHACKLED to a tree?",
+          "word": "SHACKLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a TRANSACTION involve money?",
+          "word": "TRANSACT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is your face part of your ATTIRE?",
+          "word": "ATTIRE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a COMPELLING movie be dull?",
+          "word": "COMPEL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is torture meant to cause EXCRUCIATING pain?",
+          "word": "EXCRUCIATING",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a FINITE number of objects be counted?",
+          "word": "FINITE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it FUTILE to try to change the past?",
+          "word": "FUTILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can only one person be MUTINOUS?",
+          "word": "MUTINOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is an A+ a SUPERLATIVE grade?",
+          "word": "SUPERLATIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it easy to get into a good college with ATROCIOUS grades in high school?",
+          "word": "ATROCIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could dirt be used as CAMOUFLAGE?",
+          "word": "CAMOUFLAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an ENLIGHTENED person be superstitious?",
+          "word": "ENLIGHTEN",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "She called the meeting on her own INITIATIVE.",
+          "word": "INITIATIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She accused the babysitter of being LAX about getting the children to bed on time.",
+          "word": "LAX",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bill RETORTED that he could beat Jim at chess any day.",
+          "word": "RETORT",
+          "correct": "true"
+        },
+        {
+          "prompt": "They lived in a small SHACKLE at the edge of town.",
+          "word": "SHACKLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The movie star TRANSACTS in a new film this week.",
+          "word": "TRANSACT",
+          "correct": "false"
+        },
+        {
+          "prompt": "What strange ATTIRE people wore to the costume party!",
+          "word": "ATTIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He COMPELLED us that we stop talking, but we refused.",
+          "word": "COMPEL",
+          "correct": "false"
+        },
+        {
+          "prompt": "A sudden EXCRUCIATING pain in the side was the first sign that his appendix had burst.",
+          "word": "EXCRUCIATING",
+          "correct": "true"
+        },
+        {
+          "prompt": "He has a FINITE amount of money; he could spend it forever and not run out.",
+          "word": "FINITE",
+          "correct": "false"
+        },
+        {
+          "prompt": "This plan is rather FUTILE; I really think we can accomplish something with it.",
+          "word": "FUTILE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The captain led a MUTINY against the brutal general.",
+          "word": "MUTINOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "That was the worst movie I've seen in years; it was almost SUPERLATIVE.",
+          "word": "SUPERLATIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He is an ATROCIOUS mayor; he hasn't done anything to make this a better city.",
+          "word": "ATROCIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her heavy makeup CAMOUFLAGED the scars on her face.",
+          "word": "CAMOUFLAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They wanted to ENLIGHTEN people about the poor conditions in the prison.",
+          "word": "ENLIGHTEN",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "INITIATIVE",
+          "answers": [
+            "beginning",
+            "hope",
+            "readiness"
+          ],
+          "word": "INITIATIVE",
+          "correct": "1"
+        },
+        {
+          "prompt": "LAX",
+          "answers": [
+            "evil",
+            "careless",
+            "loose"
+          ],
+          "word": "LAX",
+          "correct": "0"
+        },
+        {
+          "prompt": "RETORT",
+          "answers": [
+            "reconsider",
+            "respond",
+            "reply"
+          ],
+          "word": "RETORT",
+          "correct": "0"
+        },
+        {
+          "prompt": "SHACKLE",
+          "answers": [
+            "glove",
+            "chain",
+            "handcuff"
+          ],
+          "word": "SHACKLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "TRANSACT",
+          "answers": [
+            "negotiate",
+            "win",
+            "trade"
+          ],
+          "word": "TRANSACT",
+          "correct": "1"
+        },
+        {
+          "prompt": "ATTIRE",
+          "answers": [
+            "dress",
+            "sleep",
+            "clothes"
+          ],
+          "word": "ATTIRE",
+          "correct": "1"
+        },
+        {
+          "prompt": "COMPEL",
+          "answers": [
+            "desire",
+            "command",
+            "push"
+          ],
+          "word": "COMPEL",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXCRUCIATING",
+          "answers": [
+            "painful",
+            "irritating",
+            "torturous"
+          ],
+          "word": "EXCRUCIATING",
+          "correct": "1"
+        },
+        {
+          "prompt": "FINITE",
+          "answers": [
+            "limited",
+            "tiny",
+            "ending"
+          ],
+          "word": "FINITE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FUTILE",
+          "answers": [
+            "pointless",
+            "nameless",
+            "worthless"
+          ],
+          "word": "FUTILE",
+          "correct": "1"
+        },
+        {
+          "prompt": "MUTINOUS",
+          "answers": [
+            "unruly",
+            "rebellious",
+            "miserable"
+          ],
+          "word": "MUTINOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "SUPERLATIVE",
+          "answers": [
+            "great",
+            "best",
+            "impossible"
+          ],
+          "word": "SUPERLATIVE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ATROCIOUS",
+          "answers": [
+            "disgraceful",
+            "unpleasant",
+            "wicked"
+          ],
+          "word": "ATROCIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "CAMOUFLAGE",
+          "answers": [
+            "pretend",
+            "hide",
+            "lose"
+          ],
+          "word": "CAMOUFLAGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ENLIGHTEN",
+          "answers": [
+            "enjoy",
+            "teach",
+            "reveal"
+          ],
+          "word": "ENLIGHTEN",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

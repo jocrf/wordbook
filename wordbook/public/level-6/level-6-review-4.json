@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "AFFABLE",
+      "answer": "affable"
+    },
+    {
+      "word": "BANAL",
+      "answer": "banal"
+    },
+    {
+      "word": "EXODUS",
+      "answer": "exodus"
+    },
+    {
+      "word": "ORDEAL",
+      "answer": "ordeal"
+    },
+    {
+      "word": "RECAPITULATE",
+      "answer": "recapitulate"
+    },
+    {
+      "word": "AFFINITY",
+      "answer": "affinity"
+    },
+    {
+      "word": "BESTIAL",
+      "answer": "bestial"
+    },
+    {
+      "word": "IMBIBE",
+      "answer": "imbibed"
+    },
+    {
+      "word": "PALPITATE",
+      "answer": "palpitate"
+    },
+    {
+      "word": "SORDID",
+      "answer": "sordid"
+    },
+    {
+      "word": "AGGRIEVED",
+      "answer": "aggrieved"
+    },
+    {
+      "word": "CONFOUND",
+      "answer": "confounded"
+    },
+    {
+      "word": "IMPETUS",
+      "answer": "impetus"
+    },
+    {
+      "word": "PICAYUNE",
+      "answer": "picayune"
+    },
+    {
+      "word": "VISTA",
+      "answer": "vista"
+    },
+    {
+      "word": "ARDENT",
+      "answer": "ardent"
+    },
+    {
+      "word": "EMPHATIC",
+      "answer": "emphatic"
+    },
+    {
+      "word": "MATRON",
+      "answer": "matrons"
+    },
+    {
+      "word": "PLEBEIAN",
+      "answer": "plebeian"
+    },
+    {
+      "word": "WILE",
+      "answer": "wiles"
+    },
+    {
+      "word": "ASPIRE",
+      "answer": "aspired"
+    },
+    {
+      "word": "ASSIMILATE",
+      "answer": "assimilate"
+    },
+    {
+      "word": "EQUITY",
+      "answer": "equity"
+    },
+    {
+      "word": "ILLUSTRIOUS",
+      "answer": "illustrious"
+    },
+    {
+      "word": "LAUDABLE",
+      "answer": "laudable"
+    },
+    {
+      "word": "SCATHING",
+      "answer": "scathing"
+    },
+    {
+      "word": "BLASÉ",
+      "answer": "blasé"
+    },
+    {
+      "word": "ESPOUSE",
+      "answer": "espouse"
+    },
+    {
+      "word": "IMPART",
+      "answer": "imparted"
+    },
+    {
+      "word": "LEGACY",
+      "answer": "legacy"
+    },
+    {
+      "word": "SUPERFICIAL",
+      "answer": "superficial"
+    },
+    {
+      "word": "CULPABLE",
+      "answer": "culpable"
+    },
+    {
+      "word": "EXONERATE",
+      "answer": "exonerate"
+    },
+    {
+      "word": "IMPLEMENT",
+      "answer": "implements"
+    },
+    {
+      "word": "PALATABLE",
+      "answer": "palatable"
+    },
+    {
+      "word": "WANTON",
+      "answer": "wanton"
+    },
+    {
+      "word": "DEFILE",
+      "answer": "defiled"
+    },
+    {
+      "word": "GINGERLY",
+      "answer": "gingerly"
+    },
+    {
+      "word": "INCEPTION",
+      "answer": "inception"
+    },
+    {
+      "word": "RETICENT",
+      "answer": "reticent"
+    },
+    {
+      "word": "WROUGHT",
+      "answer": "wrought"
+    },
+    {
+      "word": "DISCREET",
+      "answer": "discreet"
+    },
+    {
+      "word": "HEW",
+      "answer": "hewed"
+    },
+    {
+      "word": "INTREPID",
+      "answer": "intrepid"
+    },
+    {
+      "word": "REVEL",
+      "answer": "revels"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "With a(n)",
+      "part2": "shake of his head he said he would never agree.",
+      "correct": "emphatic",
+      "word": "EMPHATIC"
+    },
+    {
+      "part1": "The three",
+      "part2": "were dignified ladies who ruled high society for many years.",
+      "correct": "matrons",
+      "word": "MATRON"
+    },
+    {
+      "part1": "It was a(n)",
+      "part2": "speech, full of trite phrases and secondhand ideas.",
+      "correct": "banal",
+      "word": "BANAL"
+    },
+    {
+      "part1": "Your",
+      "part2": "behavior will not be tolerated; we don't live in the jungle, you know.",
+      "correct": "bestial",
+      "word": "BESTIAL"
+    },
+    {
+      "part1": "Through the long gallery he saw a pleasant",
+      "part2": "of a garden with a fountain in the middle.",
+      "correct": "vista",
+      "word": "VISTA"
+    },
+    {
+      "part1": "His",
+      "part2": "behavior convinced everyone that he was immoral.",
+      "correct": "sordid",
+      "word": "SORDID"
+    },
+    {
+      "part1": "She had a couple of",
+      "part2": "complaints about the meal. She said the onions were cut the wrong way and the napkin was on the wrong side of the plate.",
+      "correct": "picayune",
+      "word": "PICAYUNE"
+    },
+    {
+      "part1": "He",
+      "part2": "a great deal of liquor at the party.",
+      "correct": "imbibed",
+      "word": "IMBIBE"
+    },
+    {
+      "part1": "Whenever he ran too fast his heart would start to",
+      "part2": ".",
+      "correct": "palpitate",
+      "word": "PALPITATE"
+    },
+    {
+      "part1": "The prisoner used all his",
+      "part2": "in trying to escape.",
+      "correct": "wiles",
+      "word": "WILE"
+    },
+    {
+      "part1": "The nobleman didn't want his son engaging in a(n)",
+      "part2": "activity like going to the circus. He thought such things were just for common people.",
+      "correct": "plebeian",
+      "word": "PLEBEIAN"
+    },
+    {
+      "part1": "His",
+      "part2": "desire for peace made him work night and day to end the war.",
+      "correct": "ardent",
+      "word": "ARDENT"
+    },
+    {
+      "part1": "There was little",
+      "part2": "between the two people; they had almost nothing in common.",
+      "correct": "affinity",
+      "word": "AFFINITY"
+    },
+    {
+      "part1": "I don't have time to repeat the whole thing so I'll just",
+      "part2": "the main points.",
+      "correct": "recapitulate",
+      "word": "RECAPITULATE"
+    },
+    {
+      "part1": "Jim was so shy that it was quite a(n)",
+      "part2": "for him to ask a girl for a date.",
+      "correct": "ordeal",
+      "word": "ORDEAL"
+    },
+    {
+      "part1": "Bob felt",
+      "part2": "when everyone else got to go to the picnic except him.",
+      "correct": "aggrieved",
+      "word": "AGGRIEVED"
+    },
+    {
+      "part1": "Susan",
+      "part2": "to be a reporter, so she majored in journalism in college.",
+      "correct": "aspired",
+      "word": "ASPIRE"
+    },
+    {
+      "part1": "The governor tried to stop the",
+      "part2": "of businesses from his state by lowering taxes.",
+      "correct": "exodus",
+      "word": "EXODUS"
+    },
+    {
+      "part1": "All the teachers thought Hal was stupid, but he",
+      "part2": "everyone by placing first on the exam.",
+      "correct": "confounded",
+      "word": "CONFOUND"
+    },
+    {
+      "part1": "Uncle Bill is very",
+      "part2": ";he always has a kind word for you and will listen to all your problems.",
+      "correct": "affable",
+      "word": "AFFABLE"
+    },
+    {
+      "part1": "Our work was starting to slow down, but then it received a new",
+      "part2": "when several people said they wanted to help.",
+      "correct": "impetus",
+      "word": "IMPETUS"
+    },
+    {
+      "part1": "It is impossible to",
+      "part2": "all the information contained in this book. There's just too much of it.",
+      "correct": "assimilate",
+      "word": "ASSIMILATE"
+    },
+    {
+      "part1": "During the quarrel, she made several",
+      "part2": "remarks about his driving ability.",
+      "correct": "scathing",
+      "word": "SCATHING"
+    },
+    {
+      "part1": "Rising from humble beginnings be became one of our most",
+      "part2": "leaders.",
+      "correct": "illustrious",
+      "word": "ILLUSTRIOUS"
+    },
+    {
+      "part1": "You must be more",
+      "part2": ";you shouldn't tell everyone all our secrets.",
+      "correct": "discreet",
+      "word": "DISCREET"
+    },
+    {
+      "part1": "He bought us a pair of fine hand-",
+      "part2": "bookends for Christmas.",
+      "correct": "wrought",
+      "word": "WROUGHT"
+    },
+    {
+      "part1": "The",
+      "part2": "soldiers fought their way through enemy territory to rescue the town.",
+      "correct": "intrepid",
+      "word": "INTREPID"
+    },
+    {
+      "part1": "Everyone praised the",
+      "part2": "of his decision, in which each person got what he deserved.",
+      "correct": "equity",
+      "word": "EQUITY"
+    },
+    {
+      "part1": "When they hear his brilliant speech, I am sure they will",
+      "part2": "his position on taxes.",
+      "correct": "espouse",
+      "word": "ESPOUSE"
+    },
+    {
+      "part1": "He",
+      "part2": "in being the center of attention. Nothing gives him more enjoyment.",
+      "correct": "revels",
+      "word": "REVEL"
+    },
+    {
+      "part1": "The wise man",
+      "part2": "to them the wisdom of the ages.",
+      "correct": "imparted",
+      "word": "IMPART"
+    },
+    {
+      "part1": "Everyone was shocked by the",
+      "part2": "destruction of school property; the person who did it obviously wanted to do as much damage as possible.",
+      "correct": "wanton",
+      "word": "WANTON"
+    },
+    {
+      "part1": "She walked in a(n)",
+      "part2": "fashion through the room, afraid she would step on one of Billy's toys.",
+      "correct": "gingerly",
+      "word": "GINGERLY"
+    },
+    {
+      "part1": "They found several stone",
+      "part2": "which the ancient tribe must have used in farming.",
+      "correct": "implements",
+      "word": "IMPLEMENT"
+    },
+    {
+      "part1": "He swung his ax and",
+      "part2": "the large post in two.",
+      "correct": "hewed",
+      "word": "HEW"
+    },
+    {
+      "part1": "I am confident this new evidence will completely",
+      "part2": "the defendant.",
+      "correct": "exonerate",
+      "word": "EXONERATE"
+    },
+    {
+      "part1": "Her knowledge of the subject was only",
+      "part2": ". She knew a lot of facts, but her understanding of them wasn't very deep.",
+      "correct": "superficial",
+      "word": "SUPERFICIAL"
+    },
+    {
+      "part1": "The meat wasn't very good, but at least it was",
+      "part2": "; I couldn't even eat the rest of the meal.",
+      "correct": "palatable",
+      "word": "PALATABLE"
+    },
+    {
+      "part1": "His attempts to bring peace to the world are",
+      "part2": ", even if he doesn't succeed.",
+      "correct": "laudable",
+      "word": "LAUDABLE"
+    },
+    {
+      "part1": "Mary was very",
+      "part2": "about getting the scholarship. I guess she knew she deserved it.",
+      "correct": "blasé",
+      "word": "BLASÉ"
+    },
+    {
+      "part1": "His rich grandfather left him a substantial",
+      "part2": ", so he never has to work again.",
+      "correct": "legacy",
+      "word": "LEGACY"
+    },
+    {
+      "part1": "She",
+      "part2": "the beautiful church by scrawling filthy words on its wall.",
+      "correct": "defiled",
+      "word": "DEFILE"
+    },
+    {
+      "part1": "Since the",
+      "part2": "of the new system there have been far fewer problems.",
+      "correct": "inception",
+      "word": "INCEPTION"
+    },
+    {
+      "part1": "The landlord was",
+      "part2": "in this accident, because he hadn't fixed the stairway after he had been ordered to.",
+      "correct": "culpable",
+      "word": "CULPABLE"
+    },
+    {
+      "part1": "The",
+      "part2": "girl couldn't bring herself to tell the boy how much she liked him.",
+      "correct": "reticent",
+      "word": "RETICENT"
+    }
+  ],
+  "type": "fitb",
+  "id": 4
+}

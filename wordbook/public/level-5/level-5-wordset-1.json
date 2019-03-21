@@ -1,0 +1,613 @@
+{
+  "title": "5.1",
+  "definitions": {
+    "ADHERE": {
+      "word": "ADHERE",
+      "phonetic": "(ad-hEr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to stick, hold fast </p><p>To ADHERE to something is to stick to it. Physical objects can ADHERE to other objects, and people can ADHERE to goals, beliefs, causes, and the like. </p><p>“The glue made the paper ADHERE to the table.</p><p>“She ADHERED to her position even after she had been proved wrong.</p><p>“I try to ADHERE to the Golden Rule in my everyday life.” </p><p>The most common mistake on the Pretest is to choose loosen as the meaning of ADHERE. This is a confusion of a word with its opposite. </p><p>Other forms of the word: ADHERENCE, n. ADHERENT, n. </p><p>Usage: ADHERE is usually followed by <i class=“def-ital\">to</i>.</p>"
+    },
+    "CONTEMPTUOUS": {
+      "word": "CONTEMPTUOUS",
+      "phonetic": "(kÔøΩn'-temp-chU-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">showing CONTEMPT, scornful  </p><p>CONTEMPT is an attitude in which you despise or look down on someone or something. </p><p>“He felt nothing but CONTEMPT for students who cheated on tests.</p><p>” CONTEMPTUOUS is an adjective from CONTEMPT; it means “showing or feeling CONTEMPT.”  </p><p>“She was CONTEMPTUOUS of people who used any means to get their own way.” </p><p>“The baseball coach was CONTEMPTUOUS of my attempt to throw a curveball.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">disgusting</i>. This may be due to confusion between CONTEMPTUOUS and CONTEMPTIBLE. CONTEMPTIBLE means “worthy of scorn or CONTEMPT.” </p><p>“Beating the dog severely was a CONTEMPTIBLE action. We are all CONTEMPTUOUS of such disgraceful behavior.” </p><p>Other forms of the word: CONTEMPT, n. CONTEMPTIBLE, adj.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "CORDIAL": {
+      "word": "CORDIAL",
+      "phonetic": "(kor'-jÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">warm, heartfelt, sincere </p><p>CORDIAL comes from the Latin word for <i class=“def-ital\">heart</i>. CORDIAL means “coming from the heart\"; the word is used about warm, sincere people and what they do or say.  </p><p>“Our host gave us a CORDIAL greeting when we arrived for the party.” </p><p>“She was not very CORDIAL to us when we told her we didn’t have enough money to pay the bill.” </p><p>“You are CORDIALLY invited to a fashion show next Saturday evening.” </p><p>CORDIALITY is warm affection or kindness. </p><p>“Her CORDIALITY to the stranger made him feel like one of the family.” </p><p>Other forms of the word: CORDIALITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "DISGRUNTLE": {
+      "word": "DISGRUNTLE",
+      "phonetic": "(dis-gruhn'-tÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to dissatisfy, make discontented  </p><p>DISGRUNTLE is related to the word <i class=“def-ital\">grunt</i>. Someone who is DISGRUNTLED has been put into a bad humor, has been made dissatisfied and discontented. </p><p>“The workers were DISGRUNTLED at having to come in on their day off.” </p><p>“The DISGRUNTLED students complained to the teacher about the unfair test.” </p><p>“Jim was DISGRUNTLED to find out that someone else was going to play instead of him.” </p><p>Other forms of the word: DISGRUNTLEMENT, n. </p><p>Usage: DISGRUNTLE is usually used in the form DISGRUNTLED.</p>"
+    },
+    "EXORBITANT": {
+      "word": "EXORBITANT",
+      "phonetic": "(eg-zor'-bÔøΩ-tÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unreasonable, excessive, extravagant </p><p> An <i class=“def-ital\">orbit</i> is a track or path, especially the path through space taken by an artificial satellite, the moon, or a planet. Something which is EXORBITANT is off the track, outside the usual course things take. The word is used about prices, claims, demands, and similar things to show that they are far beyond their usual limits. </p><p>“I wanted to buy the hat, but I thought the price was EXORBITANT.” </p><p>“Her demands were so EXORBITANT that we wouldn’t even consider them.” </p><p>“His claims for the new drug were EXORBITANT: he said it would cure any disease.” </p><p>Other forms of the word: EXORBITANCE, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">ex-</i> under Prefixes and <i class=“def-ital\">-ant</i> under Suffixes."
+      ]
+    },
+    "HOARD": {
+      "word": "HOARD",
+      "phonetic": "(herd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a hidden supply, secret accumulation </p><p>A HOARD is a hidden supply of something valuable saved up for future use. </p><p>“The squirrel kept a HOARD of nuts in the hollow trunk of the tree.” </p><p>“They found a HOARD of gold coins which someone had hidden away in the cellar.” </p><p>To HOARD something is to save it up, to gather it into a HOARD, sometimes in a greedy way. </p><p>“Expecting a food shortage, people started to HOARD flour and sugar.” </p><p>“The pirates HOARDED their treasure.”</p>"
+    },
+    "JEST": {
+      "word": "JEST",
+      "phonetic": "(jest)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a joke, funny remark </p><p>JEST is a rather formal word for <i class=“def-ital\">joke.</i> </p><p>“Only a few of his JESTS were funny.” </p><p>To say something “in JEST” is to say it in fun, without being serious. </p><p>A JESTER is someone who makes JESTS; it was especially used about a professional fool or clown who worked for a king or nobleman. </p><p>“He was the court JESTER. He had to make everyone laugh even when he was sad.” </p><p>Other forms of the word: JESTER, n.</p>"
+    },
+    "MAUL": {
+      "word": "MAUL",
+      "phonetic": "(mol)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to handle roughly and injuriously, beat, bruise </p><p>A MAUL is a heavy hammer. MAUL also used to be the name of a heavy club used as a weapon. To MAUL someone is to treat or handle him roughly, as if you were hitting him with a heavy club. </p><p>“The vicious mob MAULED the foreigners.” </p><p>“He went too close to the cage and was MAULED by the tiger.”</p>"
+    },
+    "RENOWN": {
+      "word": "RENOWN",
+      "phonetic": "(ri-nown')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">fame, celebrity, distinction, honor </p><p>RENOWN is widespread fame and honor. RENOWN is a very positive word; it suggests that the fame is due to great accomplishments or virtues. </p><p>“She is a writer of great RENOWN. She has won all kinds of awards.” </p><p>“The city enjoys considerable RENOWN for its many fine museums and parks.” </p><p>“Despite the actor’s RENOWN the play was not very popular.” </p><p>RENOWNED means “having RENOWN,” <i class=“def-ital\">famous</i>. </p><p>“The RENOWNED general is paying us a visit.” </p><p>“Her pies are RENOWNED for their great flavor.” </p><p>Other forms of the word: RENOWNED, adj.</p>"
+    },
+    "SLIPSHOD": {
+      "word": "SLIPSHOD",
+      "phonetic": "(slip'-shod)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">careless, sloppy </p><p>SLIPSHOD used to mean “wearing slippers or shoes that are run down at the heels.” From this idea of wearing old slippers SLIPSHOD has come to mean generally <i class=“def-ital\">careless</i> or <i class=“def-ital\">sloppy</i>. </p><p>“I will not pay for such SLIPSHOD work; you’ll have to do it over again.” </p><p>“She is SLIPSHOD in her use of words.” </p><p>“He made a SLIPSHOD attempt to straighten up his room.” </p><p>Many people think SLIPSHOD means <i class=“def-ital\">incomplete</i>. The two words are close, since a SLIPSHOD job might involve leaving the work <i class=“def-ital\">incomplete</i>. The emphasis in SLIPSHOD, however, is on the sloppiness and lack of care.</p>"
+    },
+    "SUFFICE": {
+      "word": "SUFFICE",
+      "phonetic": "(S;;l-fls')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to be enough, be sufficient, be adequate SUFFICE is a verb related to the word SUFFICIENT. To SUFFICE is to be SUFFICIENT, to be enough for a particular need or purpose. </p><p>“A few pages SUFFICED to show us that the book wasn’t very good.” </p><p>“He said that he would like twenty dollars, but that ten would SUFFICE.” </p><p>“Words cannot SUFFICE to make you understand how important this is.” </p><p>Other forms of the word: SUFFICIENT, adj.</p>"
+    },
+    "SURPLUS": {
+      "word": "SURPLUS",
+      "phonetic": "(ser'-pluhs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">excess, extra, left over </p><p>That which is SURPLUS is left over after use or need has been satisfied. It is more than what is necessary. </p><p>“Fewer people came than we expected, so we were left with SURPLUS food.” </p><p>“The farmers were able to sell their SURPLUS wheat.” </p><p>“Manufacturers could not get rid of their SURPLUS stock even at reduced prices.” </p><p>SURPLUS is also a noun; it is the amount that is greater than what is needed. </p><p>“One year there is a shortage of sugar, and the next year there’s a SURPLUS.” </p><p>“If you produce more than is required, you’ll be stuck with the SURPLUS.”</p>"
+    },
+    "UNITY": {
+      "word": "UNITY",
+      "phonetic": "(yU'-n:l-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">oneness; agreement </p><p>UNITY is related to the words <i class=“def-ital\">unify</i> and <i class=“def-ital\">unite.</i> All come from the Latin word meaning one. The basic meaning of UNITY is <i class=“def-ital\">oneness.</i> The word is applied to a whole which is made up of many different parts working together. </p><p>“The removal of any one part would spoil the UNITY of the design.” </p><p>“The various states sought UNITY with one another in their struggle against England.” </p><p>Often UNITY stresses the cooperation and agreement that this oneness brings. </p><p>“Despite their different backgrounds they lived and worked in UNITY.”</p>"
+    },
+    "CONTEMPLATIVE": {
+      "word": "CONTEMPLATIVE",
+      "phonetic": "(kon'-t:lm-plA-tiv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">thoughtful, meditative, reflective </p><p>To CONTEMPLATE something is to think deeply about it or to look at it thoughtfully. </p><p>“She CONTEMPLATED the statue for hours.” </p><p>“He CONTEMPLATED the best way to escape from prison.” </p><p>CONTEMPLATIVE is the adjective from CONTEMPLATE.  A CONTEMPLATIVE person is inclined to think deeply about things. </p><p>“Whenever she was in a CONTEMPLATIVE mood she would sit and gaze out at the ocean for hours at a time.” </p><p>“His brother is energetic and quick to act, but Bill is very CONTEMPLATIVE. He likes to reflect upon things.” </p><p>Other forms of the word: CONTEMPLATE, v. CONTEMPLATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ive</i> under Suffixes."
+      ]
+    },
+    "CONTEMPORARY": {
+      "word": "CONTEMPORARY",
+      "phonetic": "(k:ln-tem'-p:l-rer-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">occurring at the same time, simultaneous; modern, current </p><p>Something which is CONTEMPORARY lives, exists, or occurs at the same time as something else. </p><p>“Shakespeare’s life was CONTEMPORARY with Francis Bacon’s.” </p><p>“The revival of learning in the Renaissance was CONTEMPORARY with the early explorations of America.” </p><p>“CONTEMPORARY authors all described the ancient king as being short and ugly.” </p><p>CONTEMPORARY also means <i class=“def-ital\">modern, up-to-date-</i> that is, existing at the same time we do. </p><p>“Jane decided to sell all her antique furniture and re- decorate her home in a more CONTEMPORARY style.” </p><p>CONTEMPORARY is also a noun which is used about people who live at the same time. </p><p>“Roberta and my sister, Lorraine, were CONTEMPORARIES at Columbia University.”</p>"
+    }
+  },
+  "id": "1",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Began to ADHERE.",
+          "answers": [
+            "loosen",
+            "heat up",
+            "cross",
+            "stick",
+            "melt"
+          ],
+          "word": "ADHERE",
+          "correct": "stick"
+        },
+        {
+          "prompt": "CONTEMPTUOUS remark.",
+          "answers": [
+            "scornful",
+            "disgusting",
+            "complimentary",
+            "clever",
+            "silly"
+          ],
+          "word": "CONTEMPTUOUS",
+          "correct": "scornful"
+        },
+        {
+          "prompt": "CORDIAL remarks.",
+          "answers": [
+            "witty",
+            "warm",
+            "chance",
+            "unfriendly",
+            "silly"
+          ],
+          "word": "CORDIAL",
+          "correct": "warm"
+        },
+        {
+          "prompt": "Everyone was DISGRUNTLED.",
+          "answers": [
+            "confused",
+            "disliked",
+            "dissatisfied",
+            "quiet",
+            "contented"
+          ],
+          "word": "DISGRUNTLE",
+          "correct": "dissatisfied"
+        },
+        {
+          "prompt": "EXORBITANT claims.",
+          "answers": [
+            "loud",
+            "incorrect",
+            "roundabout",
+            "strange",
+            "unreasonable"
+          ],
+          "word": "EXORBITANT",
+          "correct": "unreasonable"
+        },
+        {
+          "prompt": "Discovered the HOARD.",
+          "answers": [
+            "food",
+            "cave",
+            "hidden supply",
+            "old man",
+            "secret passage"
+          ],
+          "word": "HOARD",
+          "correct": "hidden supply"
+        },
+        {
+          "prompt": "Strange JEST.",
+          "answers": [
+            "joke",
+            "show",
+            "song",
+            "warning",
+            "laugh"
+          ],
+          "word": "JEST",
+          "correct": "joke"
+        },
+        {
+          "prompt": "We will MAUL them.",
+          "answers": [
+            "join",
+            "threaten",
+            "laugh at",
+            "beat",
+            "soak"
+          ],
+          "word": "MAUL",
+          "correct": "beat"
+        },
+        {
+          "prompt": "General RENOWN.",
+          "answers": [
+            "neglect",
+            "knowledge",
+            "opinion",
+            "agreement",
+            "fame"
+          ],
+          "word": "RENOWN",
+          "correct": "fame"
+        },
+        {
+          "prompt": "SLIPSHOD work.",
+          "answers": [
+            "incomplete",
+            "efficient",
+            "careless",
+            "unnecessary",
+            "tidy"
+          ],
+          "word": "SLIPSHOD",
+          "correct": "careless"
+        },
+        {
+          "prompt": "Will it SUFFICE?",
+          "answers": [
+            "help",
+            "finish",
+            "feel pain",
+            "need more",
+            "be enough"
+          ],
+          "word": "SUFFICE",
+          "correct": "be enough"
+        },
+        {
+          "prompt": "SURPLUS material.",
+          "answers": [
+            "useless",
+            "excess",
+            "military",
+            "old",
+            "needed"
+          ],
+          "word": "SURPLUS",
+          "correct": "excess"
+        },
+        {
+          "prompt": "A certain UNITY.",
+          "answers": [
+            "oneness",
+            "strength",
+            "belief",
+            "area",
+            "distance"
+          ],
+          "word": "UNITY",
+          "correct": "oneness"
+        },
+        {
+          "prompt": "CONTEMPLATIVE people.",
+          "answers": [
+            "tricky",
+            "nasty",
+            "thoughtful",
+            "careless",
+            "active"
+          ],
+          "word": "CONTEMPLATIVE",
+          "correct": "thoughtful"
+        },
+        {
+          "prompt": "CONTEMPORARY ideas.",
+          "answers": [
+            "old-fashioned changeable",
+            "ancient",
+            "current",
+            "future",
+            null
+          ],
+          "word": "CONTEMPORARY",
+          "correct": "current"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does peanut butter ADHERE to bread?",
+          "word": "ADHERE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would you like a person to show CONTEMPT for you?",
+          "word": "CONTEMPTUOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a CORDIAL person likely to be friendly to you?",
+          "word": "CORDIAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are happy people usually DISGRUNTLED?",
+          "word": "DISGRUNTLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people like to pay EXORBITANT prices for food?",
+          "word": "EXORBITANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it usually easy to find someone else's HOARD?",
+          "word": "HOARD",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a JEST supposed to make people laugh?",
+          "word": "JEST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does MAULING a person cause him injury?",
+          "word": "MAUL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an evil person usually have great RENOWN?",
+          "word": "RENOWN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people like to buy a television that had been built in a SLIPSHOD manner?",
+          "word": "SLIPSHOD",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would fifty dollars SUFFICE to buy a new car?",
+          "word": "SUFFICE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you have a SURPLUS of money when you're broke?",
+          "word": "SURPLUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do arguments increase UNITY?",
+          "word": "UNITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you CONTEMPLATE when you are by yourself?",
+          "word": "CONTEMPLATIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is George Washington CONTEMPORARY with us?",
+          "word": "CONTEMPORARY",
+          "correct": "false"
+        },
+        {}
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He always ADHERED to the principle that honesty is the best policy.",
+          "word": "ADHERE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I'm CONTEMPTUOUS of him because of the terrible things he does.",
+          "word": "CONTEMPTUOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "His CORDIALITY offended all of us; he never spoke to us the entire time we were at his house.",
+          "word": "CORDIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Ann was DISGRUNTLED when she learned that she would not be allowed to enter the contest.",
+          "word": "DISGRUNTLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "No one believed his claims until he showed how EXORBITANT they were.",
+          "word": "EXORBITANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The old man was very generous; he always HOARDED money.",
+          "word": "HOARD",
+          "correct": "false"
+        },
+        {
+          "prompt": "He only made that remark in JEST; please don't be upset by it.",
+          "word": "JEST",
+          "correct": "true"
+        },
+        {
+          "prompt": "The boxer was MAULED by his larger and more experienced opponent.",
+          "word": "MAUL",
+          "correct": "true"
+        },
+        {
+          "prompt": "This artist is RENOWNED for her skillful use of bright colors.",
+          "word": "RENOWN",
+          "correct": "true"
+        },
+        {
+          "prompt": "I have never seen anyone looking so SLIPSHOD; her hair was freshly combed and her clothes were nicely cleaned and pressed.",
+          "word": "SLIPSHOD",
+          "correct": "false"
+        },
+        {
+          "prompt": "He was a light eater. He thought that two carrots SUFFICED for dinner.",
+          "word": "SUFFICE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Last year there was a SURPLUS of gasoline, but thi,!} year there is hardly any.",
+          "word": "SURPLUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "A meter is a UNITY of length.",
+          "word": "UNITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "She is CONTEMPLATIVE of anyone who isn't as pretty as she is.",
+          "word": "CONTEMPLATIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The author was widely admired by his CONTEMPORARIES, but after his death his reputation went down.",
+          "word": "CONTEMPORARY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ADHERE",
+          "answers": [
+            "find",
+            "join",
+            "attach"
+          ],
+          "word": "ADHERE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONTEMPTUOUS",
+          "answers": [
+            "despising",
+            "scornful",
+            "envious"
+          ],
+          "word": "CONTEMPTUOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "CORDIAL",
+          "answers": [
+            "wise",
+            "sociable",
+            "kindly"
+          ],
+          "word": "CORDIAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISGRUNTLE",
+          "answers": [
+            "upset",
+            "displease",
+            "confuse"
+          ],
+          "word": "DISGRUNTLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "EXORBITANT",
+          "answers": [
+            "immediate",
+            "excessive",
+            "extreme"
+          ],
+          "word": "EXORBITANT",
+          "correct": "0"
+        },
+        {
+          "prompt": "HOARD",
+          "answers": [
+            "hide",
+            "seek",
+            "guard"
+          ],
+          "word": "HOARD",
+          "correct": "1"
+        },
+        {
+          "prompt": "JEST",
+          "answers": [
+            "sing",
+            "kid",
+            "joke"
+          ],
+          "word": "JEST",
+          "correct": "0"
+        },
+        {
+          "prompt": "MAUL",
+          "answers": [
+            "bother",
+            "bruise",
+            "beat"
+          ],
+          "word": "MAUL",
+          "correct": "0"
+        },
+        {
+          "prompt": "RENOWN",
+          "answers": [
+            "glory",
+            "pleasure",
+            "honor"
+          ],
+          "word": "RENOWN",
+          "correct": "1"
+        },
+        {
+          "prompt": "SLIPSHOD",
+          "answers": [
+            "untidy",
+            "negligent",
+            "dishonest"
+          ],
+          "word": "SLIPSHOD",
+          "correct": "2"
+        },
+        {
+          "prompt": "SUFFICE",
+          "answers": [
+            "delight",
+            "satisfy",
+            "fulfill"
+          ],
+          "word": "SUFFICE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SURPLUS",
+          "answers": [
+            "left over",
+            "unnecessary",
+            "used up"
+          ],
+          "word": "SURPLUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "UNITY",
+          "answers": [
+            "whole",
+            "harmony",
+            "variety"
+          ],
+          "word": "UNITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONTEMPLATIVE",
+          "answers": [
+            "thoughtful",
+            "decisive",
+            "serious"
+          ],
+          "word": "CONTEMPLATIVE",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONTEMPORARY",
+          "answers": [
+            "simultaneous",
+            "constant",
+            "present day"
+          ]
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "title": "7.7",
+  "definitions": {
+    "FLACCID": {
+      "word": "FLACCID",
+      "phonetic": "(flak'-sÔøΩd",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">flabby, limp </p><p>FLACCID means “soft and limp; not firm.” It is usually used about physical things such as flesh. </p><p>“Bill’s muscles became FLACCID from lack of exercise.” </p><p>FLACCID is also used in an extended sense about anything that lacks firmness or vigor. </p><p>“Under Smith’s FLACCID leadership the company lacked drive and direction.” </p><p>Other forms of the word: FLACCIDITY, n.</p>"
+    },
+    "DAUNT": {
+      "word": "DAUNT",
+      "phonetic": "(dont)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to discourage, dismay, intimidate </p><p>DAUNT is related to the word <i class=“def-ital\">dominate</i>. Both come from a Latin word meaning to <i class=“def-ital\">master</i> or <i class=“def-ital\">tame</i>. To DAUNT is to dishearten or intimidate by removing the courage a person needs to achieve something. </p><p>“He was completely DAUNTED by the years of study it would take to become a doctor.” </p><p>“Nothing DAUNTED the climbers in their attempt to scale Mount Everest.” </p><p>The related words DAUNTLESS and UNDAUNTED are perhaps more common. Both mean “not discouraged,” <i class=“def-ital\">resolute</i>, <i class=“def-ital\">bold</i>. “The DAUNTLESS explorers went where no man had ever been before.” </p><p>The most commonly chosen wrong answer for DAUNT on the Pretest is <i class=“def-ital\">challenge</i>. DAUNTING involves a challenge, but the emphasis is on the discouragement and dismay that the challenge causes. </p><p>Other forms of the word: DAUNTLESS, adj. UNDAUNTED, adj.</p>"
+    },
+    "MESMERIZE": {
+      "word": "MESMERIZE",
+      "phonetic": "(mez'-mÔøΩIz",
+      "pos": " v.",
+      "deftext": "<p class=\"definition\">to hypnotize, spellbind, enthrall </p><p>MESMERIZE comes from the name Franz Anton Mesmer, an eighteenth-century Austrian physician who was one of the early practicers of hypnotism. The first meaning of MESMERIZE is literally to <i class=“def-ital\">hypnotize</i>, but it is more often used in the extended sense of <i class=“def-ital\">fascinate</i>, to “have a hypnotic effect upon.” A person who is MESMERIZED behaves as if hypnotized. </p><p>“When the actors finished the scene, there was a moment of silence; the audience had been so MESMERIZED that it forgot to clap.” </p><p>“When she started to sing, I was MESMERIZED: I couldn’t move or speak.” </p><p>Other forms of the word: MESMERISM, n.</p>"
+    },
+    "PEEVISH": {
+      "word": "PEEVISH",
+      "phonetic": "(pE'-vish)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">irritable, cross, fretful, querulous </p><p>A person who is PEEVISH is irritable in a childish, petty way, and reacts to minor problems like a spoiled child. </p><p>“Joe noticed that his father was becoming more PEEVISH: if his dinner was late, he would call the nurse names.” </p><p>“When her mother asked her to do the dishes, Betty sighed and PEEVISHLY stomped into the kitchen.” </p><p>“The PEEVISH doctor grew angry whenever anything was out of its proper place.” </p><p>Other forms of the word: PEEVE, v., n.</p>"
+    },
+    "PRODIGY": {
+      "word": "PRODIGY",
+      "phonetic": "(prod'-ÔøΩjE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a marvel, wonder; a person with exceptional talent </p><p>PRODIGY comes from a Latin word meaning an <i class=“def-ital\">omen</i> or a <i class=“def-ital\">portent</i>. In English PRODIGY originally had the same meaning and referred to an extraordinary event or occurrence that might be a prophetic sign. It then came to be used about anything that might cause one to marvel or wonder. </p><p>“The lecturer spoke about comets, supernovae, and other astronomical PRODIGIES.” </p><p>The word is most commonly used today about a person, especially a child, who has extraordinary talent or ability. </p><p>“Mozart was a musical PRODIGY. He composed his first pieces when he was only four.” </p><p>“Billy’s parents thought he was a child PRODIGY, but no one else thought he was very talented.”</p>"
+    },
+    "TENET": {
+      "word": "TENET",
+      "phonetic": "(ten'-ÔøΩt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a belief, dogma, doctrine </p><p>TENET comes from a Latin word meaning to <i class=“def-ital\">hold</i>, also the source of the word <i class=“def-ital\">tenacious</i>. A TENET is a firmly held belief. The word is used especially about principles or doctrines believed by a group of people or an organization. </p><p>“One of the religion’s fundamental TENETS is that the world will end in the year 2075.” </p><p>“He approved of the organization’s TENETS but not of its actions.” </p><p>” ‘Equal pay for equal work’ was one of the TENETS of the women’s group.”</p>"
+    },
+    "DOLOROUS": {
+      "word": "DOLOROUS",
+      "phonetic": "(dO'-lÔøΩÔøΩs",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">dol-ÔøΩrÔøΩs) adj.: mournful, sorrowful, melancholy, lugubrious </p><p>DOLOR is a Latin word meaning <i class=“def-ital\">sorrow</i>, <i class=“def-ital\">grief</i>. It is also used in English as a poetic or literary synonym for <i class=“def-ital\">sorrow</i>. The adjective DOLOROUS, meaning <i class=“def-ital\">sorrowful</i>, <i class=“def-ital\">melancholy</i>, is more common.  It too has a somewhat literary flavor, and is occasionally used rather humorously for grief that is exaggerated or excessive. </p><p>“After a few days Hal began to find the DOLOROUS sound of the fog horn to be quite depressing.” </p><p>“Her DOLOROUS sobs put everyone in a sad mood.” </p><p>“I had to interrupt her DOLOROUS tale of woe to tell her I was late for an appointment.” </p><p>Other forms of the word: DOLOR, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "FRETFUL": {
+      "word": "FRETFUL",
+      "phonetic": "(fret'-fÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">irritable, peevish, petulant, querulous </p><p>FRETFUL is difficult apparently because it looks like <i class=“def-ital\">fearful</i>, leading many people to select <i class=“def-ital\">frightened</i> as its synonym. The verb to FRET comes from an Old English word meaning to <i class=“def-ital\">devour</i>. In modern English it can mean to <i class=“def-ital\">eat into</i> or <i class=“def-ital\">corrode</i>, but usually it is used in a figurative sense to mean to <i class=“def-ital\">worry</i>, <i class=“def-ital\">be troubled</i>. The word usually suggests complaining and irritation, rather than serious worry. </p><p>“She FRETTED for days until she heard that the package had arrived.” </p><p>FRETFUL is the adjective from this meaning of FRET.  </p><p>“The FRETFUL children complained constantly during the long bus ride.” </p><p>“Everyone in the office became FRETFUL and short-tempered when the air-conditioning broke down.” </p><p>Other forms of the word: FRET, v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ful</i> under Suffixes."
+      ]
+    },
+    "PROGENY": {
+      "word": "PROGENY",
+      "phonetic": "(proj'-ÔøΩnE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">descendants, offspring </p><p>PROGENY may be either singular or plural, but it is usually used as plural. PROGENY are descendants of a mother or father. They may be either immediate offspring or more remote descendants. The word is usually used about humans, but may be applied to plants or animals as well. </p><p>“Many of Johann Sebastian Bach’s PROGENY also became distinguished musicians.” </p><p>“Only a few of her PROGENY inherited her rare disease.” </p><p>PROGENY can also be used in an extended sense, about people or things that are like descendants. </p><p>“Freud’s intellectual PROGENY have dominated psychiatry.”</p>"
+    },
+    "AMBIENCE": {
+      "word": "AMBIENCE",
+      "phonetic": "(am'-bE-ÔøΩns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">environment, milieu </p><p>AMBIENCE is often spelled AMBIANCE. AMBIENCE comes from the French and occasionally keeps its French pronunciation: om-byons’. </p><p>The latin prefix <i class=“def-ital\">ambi-</i> means <i class=“def-ital\">on both sides</i>, <i class=“def-ital\">around</i>. It is found in the word <i class=“def-ital\">ambidextrous</i>, which means “able to use both hands equally well.” AMBIENCE means “the surrounding atmosphere,” the <i class=“def-ital\">environment</i> or <i class=“def-ital\">milieu</i>. </p><p>“Gerald flourished in the challenging intellectual AMBIENCE of the Ivy League school.” </p><p>“The decor and the soft lighting create a pleasant, intimate AMBIENCE in the restaurant.” </p><p>“The meeting took place in an AMBIENCE of hostility and mutual resentment.”</p>"
+    },
+    "CATACLYSM": {
+      "word": "CATACLYSM",
+      "phonetic": "(kat'-ÔøΩ-kliz-ÔøΩm)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a disaster, catastrophe, violent upheaval </p><p>A CATACLYSM is a sudden, violent upheaval. It can be physical, like an earthquake or a flood. </p><p>“Scientists predicted that a CATACLYSM would devastate the western part of the country.” </p><p>Or it can be a social or political upheaval, like a revolution. </p><p>“The CATACLYSM of the French Revolution brought about a change in the social order.” </p><p>“He argued that gradual change was preferable to a CATACLYSM that might destroy the good things along with the bad.” </p><p>Other forms of the word: CATACLYSMIC, adj.</p>"
+    },
+    "DEMISE": {
+      "word": "DEMISE",
+      "phonetic": "(d;)-mlz')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">death </p><p>DEMISE is a somewhat literary synonym for <i class=“def-ital\">death</i>. </p><p>“We were all shocked by her sudden DEMISE; she had never been sick a day in her life.” </p><p>DEMISE is also used in a figurative sense for the end of anything’s existence. </p><p>“The availability of cheap imports brought about the DEMISE of the shoe industry in New England.” </p><p>“The opposition of several key legislators ensured the bill’s DEMISE in Congress.” </p><p>The most common wrong answer on the Pretest is <i class=“def-ital\">misfortune</i>, which is close in meaning but certainly not synonymous.</p>"
+    },
+    "HINTERLAND": {
+      "word": "HINTERLAND",
+      "phonetic": "(hin'-tÔøΩr-land)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">backcountry, remote area, interior region </p><p>HINTERLAND comes from the word <i class=“def-ital\">land</i> and the German word <i class=“def-ital\">hinter</i>, which means <i class=“def-ital\">behind</i>, <i class=“def-ital\">rear</i>. The HINTERLAND is the land behind a coast that may provide trade goods for a port. In an extended use, HINTERLAND is applied to any sort of remote region, far from a metropolitan area. </p><p>“When Ellen was tired of the crowded city, she loved to be out in the HINTERLANDS where she wouldn’t see a soul for days.” </p><p>“It took several months for news of the war to reach the HINTERLANDS.” </p><p>“Carl’s favorite subject for photography was the lonely, rugged HINTERLAND.”</p>"
+    },
+    "IMBROGLIO": {
+      "word": "IMBROGLIO",
+      "phonetic": "(im-brOl'-yO)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a predicament, confused situation, entanglement </p><p>Note the pronunciation. IMBROGLIO is from the Italian, and keeps its Italian pronunciation. An IMBROGLIO is a confused or perplexing state of affairs, particularly one that results in a misunderstanding or a disagreement. </p><p>“The IMBROGLIO over the diplomat’s arrest almost led to a war between the two countries.” </p><p>“The billionaire’s death caused quite an IMBROGLIO about who would inherit his money.” </p><p>“The dispute over who would pay the caterer caused an IMBROGLIO between the two families at the wedding reception.”</p>"
+    },
+    "MISCREANT": {
+      "word": "MISCREANT",
+      "phonetic": "(mis'-krE-ÔøΩnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a villain, scoundrel, evildoer; an infidel, heretic </p><p>MISCREANT originally comes from Latin words meaning “not believing,” and was originally used about a person whose religious beliefs were thought to be false, a <i class=“def-ital\">nonbeliever</i> or <i class=“def-ital\">heretic</i>. It is still used in this way, but it is used more often with a meaning developed from this original sense: <i class=“def-ital\">villain</i> or <i class=“def-ital\">evildoer</i>. </p><p>“The police chief promised that the MISCREANTS who had vandalized the church would be arrested soon.” </p><p>“The man said that Jimmy was a young MISCREANT who should be punished severely.” </p><p>“The vicious MISCREANTS lurked in the alley waiting for someone to rob.”</p>"
+    }
+  },
+  "id": "7",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "FLACCID",
+          "answers": [
+            "bitter",
+            "peaceful",
+            "flabby",
+            "false",
+            "messy"
+          ],
+          "word": "FLACCID",
+          "correct": "flabby"
+        },
+        {
+          "prompt": "to DAUNT",
+          "answers": [
+            "hearten",
+            "discourage",
+            "challenge",
+            "insult",
+            "trick"
+          ],
+          "word": "DAUNT",
+          "correct": "discourage"
+        },
+        {
+          "prompt": "to MESMERIZE",
+          "answers": [
+            "scandalize",
+            "hypnotize",
+            "bewilder",
+            "enchant",
+            "deceive"
+          ],
+          "word": "MESMERIZE",
+          "correct": "hypnotize"
+        },
+        {
+          "prompt": "PEEVISH",
+          "answers": [
+            "hateful",
+            "fearful",
+            "nearsighted",
+            "stingy",
+            "irritable"
+          ],
+          "word": "PEEVISH",
+          "correct": "irritable"
+        },
+        {
+          "prompt": "PRODIGY",
+          "answers": [
+            "waste",
+            "hope",
+            "knowledge",
+            "marvel",
+            "threat"
+          ],
+          "word": "PRODIGY",
+          "correct": "marvel"
+        },
+        {
+          "prompt": "TENET",
+          "answers": [
+            "example",
+            "feeling",
+            "belief",
+            "conclusion",
+            "rumor"
+          ],
+          "word": "TENET",
+          "correct": "belief"
+        },
+        {
+          "prompt": "DOLOROUS",
+          "answers": [
+            "mournful",
+            "soothing",
+            "dull",
+            "cheerful",
+            "glowing"
+          ],
+          "word": "DOLOROUS",
+          "correct": "mournful"
+        },
+        {
+          "prompt": "FRETFUL",
+          "answers": [
+            "awful",
+            "frightened",
+            "peaceful",
+            "irritable",
+            "proud"
+          ],
+          "word": "FRETFUL",
+          "correct": "irritable"
+        },
+        {
+          "prompt": "PROGENY",
+          "answers": [
+            "relatives",
+            "followers",
+            "talents",
+            "ancestors",
+            "descendants"
+          ],
+          "word": "PROGENY",
+          "correct": "descendants"
+        },
+        {
+          "prompt": "AMBIENCE",
+          "answers": [
+            "perfume",
+            "environment",
+            "weariness",
+            "horizon",
+            "state of mind"
+          ],
+          "word": "AMBIENCE",
+          "correct": "environment"
+        },
+        {
+          "prompt": "CATACLYSM",
+          "answers": [
+            "battle",
+            "jamboree",
+            "cliff",
+            "disaster",
+            "disappointment"
+          ],
+          "word": "CATACLYSM",
+          "correct": "disaster"
+        },
+        {
+          "prompt": "DEMISE",
+          "answers": [
+            "death",
+            "illness",
+            "birth",
+            "misfortune",
+            "departure"
+          ],
+          "word": "DEMISE",
+          "correct": "death"
+        },
+        {
+          "prompt": "HINTERLAND",
+          "answers": [
+            "city",
+            "kingdom",
+            "backcountry",
+            "hilly area",
+            "tropics"
+          ],
+          "word": "HINTERLAND",
+          "correct": "backcountry"
+        },
+        {
+          "prompt": "IMBROGLIO",
+          "answers": [
+            "celebration",
+            "romance",
+            "defeat",
+            "comedy",
+            "predicament"
+          ],
+          "word": "IMBROGLIO",
+          "correct": "predicament"
+        },
+        {
+          "prompt": "MISCREANT",
+          "answers": [
+            "ghost",
+            "beginner",
+            "loser",
+            "evildoer",
+            "moron"
+          ],
+          "word": "MISCREANT",
+          "correct": "evildoer"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a marathon runner have a FLACCID body?",
+          "word": "FLACCID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can the cost of something be DAUNTING?",
+          "word": "DAUNT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a voice MESMERIZE?",
+          "word": "MESMERIZE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would it be difficult to irritate a PEEVISH person?",
+          "word": "PEEVISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a four-hundred-pound pumpkin be called a PRODIGY?",
+          "word": "PRODIGY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a belief in God a TENET of most religions?",
+          "word": "TENET",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can music be DOLOROUS?",
+          "word": "DOLOROUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a nonchalant person usually be FRETFUL?",
+          "word": "FRETFUL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are babies PROGENY?",
+          "word": "PROGENY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can the lighting affect the AMBIENCE in a restaurant?",
+          "word": "AMBIENCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Was the Russian Revolution a CATACLYSM?",
+          "word": "CATACLYSM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people feel sad over the DEMISE of a parent?",
+          "word": "DEMISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are the HINTERLANDS crowded?",
+          "word": "HINTERLAND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is an IMBROGLIO likely to lead to an argument?",
+          "word": "IMBROGLIO",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a criminal a MISCREANT?",
+          "word": "MISCREANT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "They spent a FLACCID day on the beach just swimming and relaxing.",
+          "word": "FLACCID",
+          "correct": "false"
+        },
+        {
+          "prompt": "John was DAUNTED by the prospect of having to look for a new job.",
+          "word": "DAUNT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher MESMERIZED the material so quickly we couldn't understand it.",
+          "word": "MESMERIZE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The boy complained PEEVISHLY that he never got a chance to play quarterback.",
+          "word": "PEEVISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "He lost his PRODIGY when he was quite young, and never entirely regained it.",
+          "word": "PRODIGY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The TENET that all men are created equal is basic in American political thought.",
+          "word": "TENET",
+          "correct": "true"
+        },
+        {
+          "prompt": "In a DOLOROUS tone of voice Kathy told us all about her cat's illness.",
+          "word": "DOLOROUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The children were so FRETFUL of the movie monster that they had nightmares.",
+          "word": "FRETFUL",
+          "correct": "false"
+        },
+        {
+          "prompt": "When the rich man died, his numerous PROGENY all claimed part of his estate.",
+          "word": "PROGENY",
+          "correct": "true"
+        },
+        {
+          "prompt": "John found it impossible to work in the unpleasant AMBIENCE of a noisy and messy office.",
+          "word": "AMBIENCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "These prehistoric CATACLYSMS changed the face of the earth.",
+          "word": "CATACLYSM",
+          "correct": "true"
+        },
+        {
+          "prompt": "The company's DEMISE was attributed to poor planning by management.",
+          "word": "DEMISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "People in the cities love the politician, but in the HINTERLANDS he is regarded with suspicion.",
+          "word": "HINTERLAND",
+          "correct": "true"
+        },
+        {
+          "prompt": "The IMBROGLIO between the governor and the legislature over the budget finally landed in the courts.",
+          "word": "IMBROGLIO",
+          "correct": "true"
+        },
+        {
+          "prompt": "The principal promptly expelled the MISCREANTS who had attacked the teacher.",
+          "word": "MISCREANT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "FLACCID",
+          "answers": [
+            "flimsy",
+            "listless",
+            "hollow"
+          ],
+          "word": "FLACCID",
+          "correct": "2"
+        },
+        {
+          "prompt": "DAUNT",
+          "answers": [
+            "destroy",
+            "vex",
+            "confound"
+          ],
+          "word": "DAUNT",
+          "correct": "0"
+        },
+        {
+          "prompt": "MESMERIZE",
+          "answers": [
+            "enthrall",
+            "tranquilize",
+            "hypnotize"
+          ],
+          "word": "MESMERIZE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PEEVISH",
+          "answers": [
+            "quarrelsome",
+            "fierce",
+            "petty"
+          ],
+          "word": "PEEVISH",
+          "correct": "1"
+        },
+        {
+          "prompt": "PRODIGY",
+          "answers": [
+            "talent",
+            "fighter",
+            "wonder"
+          ],
+          "word": "PRODIGY",
+          "correct": "1"
+        },
+        {
+          "prompt": "TENET",
+          "answers": [
+            "rumor",
+            "opinion",
+            "principle"
+          ],
+          "word": "TENET",
+          "correct": "0"
+        },
+        {
+          "prompt": "DOLOROUS",
+          "answers": [
+            "sorrowful",
+            "stubborn",
+            "doleful"
+          ],
+          "word": "DOLOROUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "FRETFUL",
+          "answers": [
+            "restless",
+            "peevish",
+            "jocose"
+          ],
+          "word": "FRETFUL",
+          "correct": "2"
+        },
+        {
+          "prompt": "PROGENY",
+          "answers": [
+            "sons",
+            "cousins",
+            "grandchildren"
+          ],
+          "word": "PROGENY",
+          "correct": "1"
+        },
+        {
+          "prompt": "AMBIENCE",
+          "answers": [
+            "milieu",
+            "background",
+            "area"
+          ],
+          "word": "AMBIENCE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CATACLYSM",
+          "answers": [
+            "calamity",
+            "upheaval",
+            "controversy"
+          ],
+          "word": "CATACLYSM",
+          "correct": "2"
+        },
+        {
+          "prompt": "DEMISE",
+          "answers": [
+            "suffering",
+            "extinction",
+            "death"
+          ],
+          "word": "DEMISE",
+          "correct": "0"
+        },
+        {
+          "prompt": "HINTERLAND",
+          "answers": [
+            "city",
+            "interior",
+            "backcountry"
+          ],
+          "word": "HINTERLAND",
+          "correct": "0"
+        },
+        {
+          "prompt": "IMBROGLIO",
+          "answers": [
+            "ambush",
+            "fracas",
+            "altercation"
+          ],
+          "word": "IMBROGLIO",
+          "correct": "0"
+        },
+        {
+          "prompt": "MISCREANT",
+          "answers": [
+            "nonbeliever",
+            "villain",
+            "inventor"
+          ],
+          "word": "MISCREANT",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

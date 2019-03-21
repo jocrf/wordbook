@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ADEQUATE",
+      "answer": "adequate"
+    },
+    {
+      "word": "DEPRESS",
+      "answer": "depresses"
+    },
+    {
+      "word": "GORGEOUS",
+      "answer": "gorgeous"
+    },
+    {
+      "word": "LOGICAL",
+      "answer": "logical"
+    },
+    {
+      "word": "PARALLEL",
+      "answer": "parallel"
+    },
+    {
+      "word": "CONSULT",
+      "answer": "consulted"
+    },
+    {
+      "word": "DREAD",
+      "answer": "dreaded"
+    },
+    {
+      "word": "JUSTICE",
+      "answer": "justice"
+    },
+    {
+      "word": "MELODIOUS",
+      "answer": "melodious"
+    },
+    {
+      "word": "PILLAR",
+      "answer": "pillars"
+    },
+    {
+      "word": "CONTRACT",
+      "answer": "contract"
+    },
+    {
+      "word": "EXTERIOR",
+      "answer": "exterior"
+    },
+    {
+      "word": "LEGISLATOR",
+      "answer": "legislators"
+    },
+    {
+      "word": "MONARCH",
+      "answer": "monarch"
+    },
+    {
+      "word": "SUSCEPTIBLE",
+      "answer": "susceptible"
+    },
+    {
+      "word": "DAMAGE",
+      "answer": "damage"
+    },
+    {
+      "word": "FIENDISH",
+      "answer": "fiendish"
+    },
+    {
+      "word": "LEISURE",
+      "answer": "leisure"
+    },
+    {
+      "word": "MORSEL",
+      "answer": "morsel"
+    },
+    {
+      "word": "VERDICT",
+      "answer": "verdict"
+    },
+    {
+      "word": "DEJECTED",
+      "answer": "dejected"
+    },
+    {
+      "word": "FLABBERGAST",
+      "answer": "flabbergasted"
+    },
+    {
+      "word": "ACQUIRE",
+      "answer": "acquire"
+    },
+    {
+      "word": "FEE",
+      "answer": "fee"
+    },
+    {
+      "word": "HURL",
+      "answer": "hurled"
+    },
+    {
+      "word": "INVINCIBLE",
+      "answer": "invincible"
+    },
+    {
+      "word": "SLITHER",
+      "answer": "slithered"
+    },
+    {
+      "word": "BARBARIC",
+      "answer": "barbaric"
+    },
+    {
+      "word": "FESTIVE",
+      "answer": "festive"
+    },
+    {
+      "word": "INFANTILE",
+      "answer": "infantile"
+    },
+    {
+      "word": "PREPOSTEROUS",
+      "answer": "preposterous"
+    },
+    {
+      "word": "SNICKER",
+      "answer": "snickered"
+    },
+    {
+      "word": "DAWDLE",
+      "answer": "dawdles"
+    },
+    {
+      "word": "GENUINE",
+      "answer": "genuine"
+    },
+    {
+      "word": "INHABIT",
+      "answer": "inhabit"
+    },
+    {
+      "word": "PROGRESS",
+      "answer": "progress"
+    },
+    {
+      "word": "SUPERVISE",
+      "answer": "supervised"
+    },
+    {
+      "word": "ETERNAL",
+      "answer": "eternal"
+    },
+    {
+      "word": "GIBBERISH",
+      "answer": "gibberish"
+    },
+    {
+      "word": "INJURIOUS",
+      "answer": "injurious"
+    },
+    {
+      "word": "RECOLLECT",
+      "answer": "recollect"
+    },
+    {
+      "word": "UNDERGO",
+      "answer": "undergo"
+    },
+    {
+      "word": "EXCLAIM",
+      "answer": "exclaimed"
+    },
+    {
+      "word": "HUMANE",
+      "answer": "humane"
+    },
+    {
+      "word": "INSPIRE",
+      "answer": "inspire"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "Betty is",
+      "part2": "to illness, and must be protected from all kinds of germs.",
+      "correct": "susceptible",
+      "word": "SUSCEPTIBLE"
+    },
+    {
+      "part1": "The jury couldn't reach a(n)",
+      "part2": "about whether he was guilty or innocent, so he had to stand trial again.",
+      "correct": "verdict",
+      "word": "VERDICT"
+    },
+    {
+      "part1": "Carl became",
+      "part2": "whenever he thought of all the work he had left to do.",
+      "correct": "dejected",
+      "word": "DEJECTED"
+    },
+    {
+      "part1": "Often developments in one field run",
+      "part2": "with similar developments in other fields.",
+      "correct": "parallel",
+      "word": "PARALLEL"
+    },
+    {
+      "part1": "I signed a(n)",
+      "part2": "so I have to work for him or he will sue me.",
+      "correct": "contract",
+      "word": "CONTRACT"
+    },
+    {
+      "part1": "We managed to put the fire out quickly, but it still caused some",
+      "part2": "to the house.",
+      "correct": "damage",
+      "word": "DAMAGE"
+    },
+    {
+      "part1": "Rainy weather always",
+      "part2": "me.I almost feel like crying all the time.",
+      "correct": "depresses",
+      "word": "DEPRESS"
+    },
+    {
+      "part1": "The paintings were so",
+      "part2": "that we couldn't take our eyes off them.",
+      "correct": "gorgeous",
+      "word": "GORGEOUS"
+    },
+    {
+      "part1": "Several",
+      "part2": "voted against the bill in Congress because it would cost too much money.",
+      "correct": "legislators",
+      "word": "LEGISLATOR"
+    },
+    {
+      "part1": "The secret police have many",
+      "part2": "ways of torturing people to make them confess.",
+      "correct": "fiendish",
+      "word": "FIENDISH"
+    },
+    {
+      "part1": "Several large",
+      "part2": "held up the huge roof of the building.",
+      "correct": "pillars",
+      "word": "PILLAR"
+    },
+    {
+      "part1": "The storm damaged the",
+      "part2": "of the house, but did no harm to the inside.",
+      "correct": "exterior",
+      "word": "EXTERIOR"
+    },
+    {
+      "part1": "We hope that",
+      "part2": "will be done at the trial, and that a fair decision will be reached.",
+      "correct": "justice",
+      "word": "JUSTICE"
+    },
+    {
+      "part1": "A _C-_ average is",
+      "part2": "for promotion, but it certainly isn't outstanding.",
+      "correct": "adequate",
+      "word": "ADEQUATE"
+    },
+    {
+      "part1": "Karen is so busy working she has no time for",
+      "part2": ".",
+      "correct": "leisure",
+      "word": "LEISURE"
+    },
+    {
+      "part1": "When they called on him to give a speech, he was",
+      "part2": "; they had never asked him to speak before.",
+      "correct": "flabbergasted",
+      "word": "FLABBERGAST"
+    },
+    {
+      "part1": "Jim's argument was so",
+      "part2": "that we couldn't disagree with him.",
+      "correct": "logical",
+      "word": "LOGICAL"
+    },
+    {
+      "part1": "They sing together in a very",
+      "part2": "fashion; they're delightful to listen to.",
+      "correct": "melodious",
+      "word": "MELODIOUS"
+    },
+    {
+      "part1": "He needed advice in preparing his income tax report, so he",
+      "part2": "an accountant.",
+      "correct": "consulted",
+      "word": "CONSULT"
+    },
+    {
+      "part1": "When the prince's father died, he became the nation's",
+      "part2": ".",
+      "correct": "monarch",
+      "word": "MONARCH"
+    },
+    {
+      "part1": "All Jim had for supper was a small",
+      "part2": "of fish he found in the bottom of the refrigerator.",
+      "correct": "morsel",
+      "word": "MORSEL"
+    },
+    {
+      "part1": "Paula",
+      "part2": "going to a hospital. She would start to sweat as soon as she walked in.",
+      "correct": "dreaded",
+      "word": "DREAD"
+    },
+    {
+      "part1": "Mr. Smith",
+      "part2": "the workers carefully to make sure they followed his orders.",
+      "correct": "supervised",
+      "word": "SUPERVISE"
+    },
+    {
+      "part1": "The bank has a machine that can tell if a bill is",
+      "part2": "or fake.",
+      "correct": "genuine",
+      "word": "GENUINE"
+    },
+    {
+      "part1": "His speech was complete",
+      "part2": "Nobody knew what he was talking about.",
+      "correct": "gibberish",
+      "word": "GIBBERISH"
+    },
+    {
+      "part1": "Ellen wanted to",
+      "part2": "a complete collection of books by her favorite author.",
+      "correct": "acquire",
+      "word": "ACQUIRE"
+    },
+    {
+      "part1": "Two families",
+      "part2": "that large house on the corner.",
+      "correct": "inhabit",
+      "word": "INHABIT"
+    },
+    {
+      "part1": "Timmy",
+      "part2": "over breakfast on school days, but on Saturdays he gulps it down and rushes out of the house to play.",
+      "correct": "dawdles",
+      "word": "DAWDLE"
+    },
+    {
+      "part1": "Our living conditions were almost",
+      "part2": "; there was no electricity, no heat, no running water. We felt like savages.",
+      "correct": "barbaric",
+      "word": "BARBARIC"
+    },
+    {
+      "part1": "He wanted to be young forever, so he searched for a drug that would give him",
+      "part2": "youth.",
+      "correct": "eternal",
+      "word": "ETERNAL"
+    },
+    {
+      "part1": "Some hospital emergency rooms charge a large",
+      "part2": "for their services to discourage people from coming there.",
+      "correct": "fee",
+      "word": "FEE"
+    },
+    {
+      "part1": "The doctor was",
+      "part2": "; he worked long hours at a small salary to help people.",
+      "correct": "humane",
+      "word": "HUMANE"
+    },
+    {
+      "part1": "Gary pulled the lizard off his arm and",
+      "part2": "it violently away from him.",
+      "correct": "hurled",
+      "word": "HURL"
+    },
+    {
+      "part1": "Dad said our behavior was",
+      "part2": "and asked us if we were ever going to grow up.",
+      "correct": "infantile",
+      "word": "INFANTILE"
+    },
+    {
+      "part1": "The settlers had to",
+      "part2": "years of hardship and work before they could be successful.",
+      "correct": "undergo",
+      "word": "UNDERGO"
+    },
+    {
+      "part1": "The doctor said that eating too much rich food was",
+      "part2": "to your health.",
+      "correct": "injurious",
+      "word": "INJURIOUS"
+    },
+    {
+      "part1": "His writings",
+      "part2": "us all to lead better lives.",
+      "correct": "inspire",
+      "word": "INSPIRE"
+    },
+    {
+      "part1": "Several students in the back of the hall",
+      "part2": "when the principal dropped his glasses.",
+      "correct": "snickered",
+      "word": "SNICKER"
+    },
+    {
+      "part1": "\"Look out!\" Al",
+      "part2": "when he saw Frank stepping into the path of the approaching car.",
+      "correct": "exclaimed",
+      "word": "EXCLAIM"
+    },
+    {
+      "part1": "On this",
+      "part2": "occasion I am sure everyone will have a wonderful time.",
+      "correct": "festive",
+      "word": "FESTIVE"
+    },
+    {
+      "part1": "Some people used to think that humans would never fly; they called the idea completely",
+      "part2": ".",
+      "correct": "preposterous",
+      "word": "PREPOSTEROUS"
+    },
+    {
+      "part1": "Because he is over sixty years old, it is difficult for him to",
+      "part2": "his first-grade classmates.",
+      "correct": "recollect",
+      "word": "RECOLLECT"
+    },
+    {
+      "part1": "The snake",
+      "part2": "along the ground toward the man.",
+      "correct": "slithered",
+      "word": "SLITHER"
+    },
+    {
+      "part1": "They couldn't convince him that his father was a thief. He had a(n)",
+      "part2": "belief in his father's honesty.",
+      "correct": "invincible",
+      "word": "INVINCIBLE"
+    },
+    {
+      "part1": "We were trying very hard, but we couldn't make any",
+      "part2": "toward our goal.",
+      "correct": "progress",
+      "word": "PROGRESS"
+    }
+  ],
+  "type": "fitb",
+  "id": 4
+}

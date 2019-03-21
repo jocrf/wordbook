@@ -1,0 +1,608 @@
+{
+  "title": "1.11",
+  "definitions": {
+    "DEVOTION": {
+      "word": "DEVOTION",
+      "phonetic": "(di-vO'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">faithfulness, dedication, loyalty </p><p>Someone who is DEVOTED is attached or dedicated to a purpose, cause, or person. </p><p>“They are DEVOTED to the idea of world peace.” DEVOTION is the quality of being DEVOTED; it is <i class=“def-ital\">faithfulness</i>, <i class=“def-ital\">dedication</i>, <i class=“def-ital\">loyalty</i>. </p><p>“Everyone admired her DEVOTION to her sick parents.” </p><p>“He was fired because he didn’t show enough DEVOTION to his duties.” </p><p>Other forms of the word: DEVOTE, v. </p><p>DEVOTED, adj.</p>"
+    },
+    "CIRCUMSTANCE": {
+      "word": "CIRCUMSTANCE",
+      "phonetic": "(ser'-kÔøΩm-stans)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a condition, fact </p><p>CIRCUMSTANCES are the conditions or facts surrounding some event or situation. </p><p>“I cannot make a decision about this until I know all the CIRCUMSTANCES.” </p><p>“We were unaware of the terrible CIRCUMSTANCES at his home; both parents were ill and there was no food in the house.” </p><p>“Each CIRCUMSTANCE must be taken into account before we decide what to do.” </p><p>“She died under mysterious CIRCUMSTANCES.” </p><p>Usage: CIRCUMSTANCE is generally used in the plural: CIRCUMSTANCES.</p>"
+    },
+    "ABOLISH": {
+      "word": "ABOLISH",
+      "phonetic": "{ÔøΩ-bol'-ish)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to do away with, end </p><p>To ABOLISH something is to put an end to it or to do away with it. The word is used especially about laws, customs, and practices rather than about physical objects. </p><p>“President Lincoln ABOLISHED slavery in America.” </p><p>“Our family voted to ABOLISH the tradition of giving expensive gifts on birthdays.” </p><p>“Will mankind ever ABOLISH war?” </p><p>The noun from ABOLISH is ABOLITION. </p><p>“The student council voted for the ABOLITION of the dress code. They said students should wear whatever they like.” </p><p>Other forms of the word: ABOLITION, n.</p>"
+    },
+    "DECEASED": {
+      "word": "DECEASED",
+      "phonetic": "(di-sEst')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dead </p><p>DECEASED means <i class=“def-ital\">dead</i>. It is used only about people, and often refers to someone who is recently dead. </p><p>“The DECEASED man’s will was read to his relatives a month after he died.” </p><p>“Al Johnson is now DECEASED, but he was once the richest man in town.” DECEASED is also a noun and means the dead person. </p><p>“The wishes of the DECEASED must be respected in this matter.”</p>"
+    },
+    "DOZE": {
+      "word": "DOZE",
+      "phonetic": "(dOz)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to sleep lightly </p><p>To DOZE is to fall into a light sleep. </p><p>“He DOZED for a while, then awoke with a start and realized he had missed the TV show.” </p><p>“I must have DOZED off while doing my homework.” </p><p>DOZE is also a noun. </p><p>“The speech was so boring Joan fell into a DOZE after the first few minutes.” </p><p>Usage: DOZE is often followed by <i class=“def-ital\">off</i>.</p>"
+    },
+    "BAWL": {
+      "word": "BAWL",
+      "phonetic": "(bol)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cry loudly, shout </p><p>To BAWL means “to cry or shout loudly and continuously.” Babies BAWL; animals BAWL; children who are very unhappy BAWL. </p><p>“We could hear the baby BAWLING in the next room.” </p><p>“The cattle in the stockyard BAWLED in fear and confusion.” </p><p>When you get “BAWLED out” you get a loud scolding; someone shouts at you for doing something wrong. </p><p>“Her mother BAWLED her out for coming home late.”</p>"
+    },
+    "ASSASSIN": {
+      "word": "ASSASSIN",
+      "phonetic": "(ÔøΩsas'-in)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a murderer, killer </p><p>An ASSASSIN is a <i class=“def-ital\">killer</i>, especially one who is paid for killing or who kills a public official. </p><p>“They caught the ASSASSIN of the president.” </p><p>“The ASSASSIN prepared very carefully to murder his victim.” </p><p>The verb from ASSASSIN is ASSASSINATE. </p><p>“Several Roman emperors were ASSASSINATED.” </p><p>“The madman ASSASSINATED the mayor.” </p><p>Other forms of the word: ASSASSINATE, v. </p><p>ASSASSINATION, n.</p>"
+    },
+    "ENCOURAGE": {
+      "word": "ENCOURAGE",
+      "phonetic": "(en-kuhr'-ij)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to put courage into, urge on, stimulate, hearten, foster </p><p> </p><p>ENCOURAGE basically means “to put courage into.” </p><p>“The soldiers needed to be ENCOURAGED before the battle.” </p><p>As the word is used today it means to <i class=“def-ital\">urge</i> or <i class=“def-ital\">help</i> someone to do something, through words or example or in some other way. </p><p>“Her presence ENCOURAGED him to try again.” </p><p>“My parents ENCOURAGED me to be a doctor.” What is ENCOURAGED can be either good or bad. </p><p>“His early success ENCOURAGED him in his life of crime.” </p><p>It doesn’t have to be a person who is ENCOURAGED. </p><p>“The plan was designed to ENCOURAGE small businesses.” </p><p>Other forms of the word: ENCOURAGEMENT, n. </p><p>ENCOURAGING, adj.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in<i class=“def-ital\">-1 under Prefixes."
+      ]
+    },
+    "CONVENIENT": {
+      "word": "CONVENIENT",
+      "phonetic": "(kÔøΩn-vEn'-yÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">handy, useful, suitable </p><p>Something that is CONVENIENT is near at hand or easy to use. It is well suited for your comfort or ease. </p><p>“He found a CONVENIENT spot near the river and pitched his tent there.” </p><p>“I don’t care when you come. Pick the time that is most CONVENIENT for you.” </p><p>“The soap comes in a CONVENIENT new package that we’re sure you’ll like.” </p><p>The noun from CONVENIENT is CONVENIENCE. </p><p>“He arranged the schedule for his own CONVENIENCE. He didn’t care if it caused problems for other people.” </p><p>Other forms of the word: CONVENIENCE, n.</p>"
+    },
+    "DEFECT": {
+      "word": "DEFECT",
+      "phonetic": "(dE'-fekt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a fault, flaw, imperfection </p><p>A DEFECT is something wrong or damaged, a <i class=“def-ital\">fault</i>. </p><p>“The DEFECT in the jacket was hardly noticeable. It was just a tiny hole near the button.” </p><p>“The DEFECT in his plan was that there was no way we could get the money to carry it out.” </p><p>“He admitted that his quick temper was a DEFECT in his character.” </p><p>The adjective from DEFECT is DEFECTIVE. DEFECTIVE means <i class=“def-ital\">damaged</i> or <i class=“def-ital\">not working</i>, “having flaws or faults.” </p><p>“The lamp was DEFECTIVE: sometimes it would light and sometimes it wouldn’t.” </p><p>“We didn’t realize the air conditioner was DEFECTIVE until we tried to use it.” </p><p>Other forms of the word: DEFECTIVE, adj.</p>"
+    },
+    "CIRCULATE": {
+      "word": "CIRCULATE",
+      "phonetic": "(ser'-kyÔøΩIAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to move around, spread, flow freely </p><p>CIRCULATE is related to the word <i class=“def-ital\">circle</i>. It means “to move around and around.” </p><p>“Blood CIRCULATES in our bodies; it takes about ten minutes for a complete cycle.” </p><p>“We could hear the water CIRCULATING in the pipes.” CIRCULATE also means “to go freely from one place to another,” to <i class=“def-ital\">spread around</i>. In this sense the word can be used about ideas, information, and the like. </p><p>“The news of her arrival CIRCULATED through the waiting crowd within a few moments.” </p><p>“They CIRCULATED a petition asking that there be less homework on the weekends.” </p><p>Other forms of the word: CIRCULATION, n.</p>"
+    },
+    "ENCOUNTER": {
+      "word": "ENCOUNTER",
+      "phonetic": "(en-kown'-tÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a chance meeting; a battle, conflict </p><p>An ENCOUNTER is a meeting, especially a face-to-face meeting. There are two different uses of ENCOUNTER. The first is for any casual, unplanned meeting. </p><p>“John had an unexpected ENCOUNTER with his old friend yesterday.” </p><p>The second use is for a sudden and perhaps violent coming together of enemies. </p><p>“The bloody ENCOUNTER left six men injured.” </p><p>ENCOUNTER is also used as a verb, and means to <i class=“def-ital\">come upon</i>, <i class=“def-ital\">meet</i>, <i class=“def-ital\">confront</i>. </p><p>“The two old enemies ENCOUNTERED each other in the middle of the battle.”</p>"
+    },
+    "AUTHORITY": {
+      "word": "AUTHORITY",
+      "phonetic": "(::,-thor'-::,-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">power, right </p><p>AUTHORITY is the power or right to make people do something. </p><p>“He received the AUTHORITY to collect taxes in his district.” </p><p>“The AUTHORITY of the laws was disregarded by the rebels.” </p><p>“As they grew older, Mrs. Smith’s children resisted her AUTHORITY more and more.” </p><p>Another meaning of AUTHORITY is “a person who has expert knowledge of something.” </p><p>“He became the AUTHORITY on the development of young children.” </p><p>“She is an AUTHORITY on Shakespeare.”</p>"
+    },
+    "DEFORMED": {
+      "word": "DEFORMED",
+      "phonetic": "(di-formd')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">disfigured, misshapen </p><p>To DEFORM something is to take it out of its natural form or shape.  When something is DEFORMED, then, it is not shaped properly; it is disfigured. </p><p>“His leg was DEFORMED as a result of the accident.” </p><p>“The baby survived, but it was permanently DEFORMED.” </p><p>DEFORMED usually suggests something that is ugly or offensive. </p><p>“When he was very upset, his face would become DEFORMED with rage.” </p><p>In the Pretest, many people choose <i class=“def-ital\">destroyed</i> as the meaning of DEFORMED. Something that is DEFORMED still exists, it is just misshapen; it has not been <i class=“def-ital\">destroyed</i>. </p><p>Other forms of the word: DEFORM, v. </p><p>DEFORMITY, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">de<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "CONFIDENT": {
+      "word": "CONFIDENT",
+      "phonetic": "(kon'-f::,-dÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sure, assured </p><p>Someone who is CONFIDENT firmly believes that he is right or that he can do something. He doesn’t have any fears or doubts about himself. </p><p>“I am CONFIDENT that I will succeed. No one can stop me now.” </p><p>“She was CONFIDENT she had passed the exam, but she was surprised she earned an A.” </p><p>“The salesman walked CONFIDENTLY up to them and told them why they should buy this car.” </p><p>A person who is CONFIDENT has CONFIDENCE. </p><p>“Every success he had gave him a little more CONFIDENCE that he could do the job.” </p><p>“All Jim lacks is CONFIDENCE. He just doesn’t think he’s good enough.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">mysterious</i>. This may be because CONFIDENT looks like <i class=“def-ital\">confidential</i>, which means <i class=“def-ital\">secret</i>. </p><p>Other forms of the word: CONFIDENCE, n.</p>"
+    }
+  },
+  "id": "11",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Real DEVOTION.",
+          "answers": [
+            "excitement",
+            "trickery",
+            "faithfulness",
+            "dislike",
+            "happiness"
+          ],
+          "word": "DEVOTION",
+          "correct": "faithfulness"
+        },
+        {
+          "prompt": "Similar CIRCUMSTANCES.",
+          "answers": [
+            "conditions",
+            "accidents",
+            "choices",
+            "outlines",
+            "changes"
+          ],
+          "word": "CIRCUMSTANCE",
+          "correct": "conditions"
+        },
+        {
+          "prompt": "To ABOLISH it.",
+          "answers": [
+            "give in to",
+            "be angry at",
+            "make up for",
+            "do away with",
+            "dislike"
+          ],
+          "word": "ABOLISH",
+          "correct": "do away with"
+        },
+        {
+          "prompt": "DECEASED relatives.",
+          "answers": [
+            "new",
+            "additional",
+            "distant",
+            "dead",
+            "aged"
+          ],
+          "word": "DECEASED",
+          "correct": "dead"
+        },
+        {
+          "prompt": "Began to DOZE.",
+          "answers": [
+            "be tired",
+            "dream",
+            "sleep lightly",
+            "go crazy",
+            "wake up"
+          ],
+          "word": "DOZE",
+          "correct": "sleep lightly"
+        },
+        {
+          "prompt": "The child BAWLED.",
+          "answers": [
+            "cried loudly",
+            "coughed",
+            "whispered",
+            "played",
+            "fought wildly"
+          ],
+          "word": "BAWL",
+          "correct": "cried loudly"
+        },
+        {
+          "prompt": "Caught the ASSASSIN.",
+          "answers": [
+            "physician",
+            "disease",
+            "kidnapper",
+            "murderer",
+            "bully"
+          ],
+          "word": "ASSASSIN",
+          "correct": "murderer"
+        },
+        {
+          "prompt": "She ENCOURAGED her students.",
+          "answers": [
+            "urged on",
+            "advised",
+            "asked",
+            "disappointed",
+            "improved"
+          ],
+          "word": "ENCOURAGE",
+          "correct": "urged on"
+        },
+        {
+          "prompt": "CONVENIENT shelf.",
+          "answers": [
+            "new",
+            "high",
+            "handy",
+            "broken",
+            "big"
+          ],
+          "word": "CONVENIENT",
+          "correct": "handy"
+        },
+        {
+          "prompt": "Noticed the DEFECT.",
+          "answers": [
+            "foreigner",
+            "scratch",
+            "favor",
+            "fault",
+            "official"
+          ],
+          "word": "DEFECT",
+          "correct": "fault"
+        },
+        {
+          "prompt": "They CIRCULATED.",
+          "answers": [
+            "grew dark",
+            "became hot",
+            "stopped",
+            "increased",
+            "moved around"
+          ],
+          "word": "CIRCULATE",
+          "correct": "moved around"
+        },
+        {
+          "prompt": "Brief ENCOUNTER.",
+          "answers": [
+            "story",
+            "meeting",
+            "walk",
+            "trip",
+            "stop"
+          ],
+          "word": "ENCOUNTER",
+          "correct": "meeting"
+        },
+        {
+          "prompt": "Recognized their AUTHORITY.",
+          "answers": [
+            "greatness",
+            "weakness",
+            "founder",
+            "power",
+            "service"
+          ],
+          "word": "AUTHORITY",
+          "correct": "power"
+        },
+        {
+          "prompt": "Completely DEFORMED.",
+          "answers": [
+            "understood",
+            "cured",
+            "disfigured",
+            "opposed",
+            "destroyed"
+          ],
+          "word": "DEFORMED",
+          "correct": "disfigured"
+        },
+        {
+          "prompt": "Very CONFIDENT.",
+          "answers": [
+            "mysterious",
+            "worried",
+            "sure",
+            "happy",
+            "clever"
+          ],
+          "word": "CONFIDENT",
+          "correct": "sure"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a DEVOTED musician enjoy playing music?",
+          "word": "DEVOTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are the CIRCUMSTANCES of a decision the results of it?",
+          "word": "CIRCUMSTANCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most students like to have summer vacations ABOLISHED?",
+          "word": "ABOLISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are you DECEASED?",
+          "word": "DECEASED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can cats DOZE?",
+          "word": "DOZE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a baby BAWL if it hadn't been fed for a day?",
+          "word": "BAWL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Was Abraham Lincoln ASSASSINATED?",
+          "word": "ASSASSIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a coach ENCOURAGE his team to win?",
+          "word": "ENCOURAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people find it CONVENIENT to go to school next door to where they live?",
+          "word": "CONVENIENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people want to buy a DEFECTIVE watch?",
+          "word": "DEFECTIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can ideas be CIRCULATED?",
+          "word": "CIRCULATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can an ENCOUNTER be friendly?",
+          "word": " ENCOUNTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do children usually have AUTHORITY over their parents?",
+          "word": "AUTHORITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are cars that have been in accidents DEFORMED?",
+          "word": "DEFORMED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a CONFIDENT person worry that he was going to fail?",
+          "word": "CONFIDENT",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "No one could match the lawyer's DEVOTION to the cause of justice for all.",
+          "word": "DEVOTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "These are not the proper CIRCUMSTANCES in which to discuss your problems.",
+          "word": "CIRCUMSTANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher ABOLISHED them not to talk so loud.",
+          "word": "ABOLISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "The children always became very sad when they spoke about their DECEASED uncle.",
+          "word": "DECEASED",
+          "correct": "true"
+        },
+        {
+          "prompt": "She DOZED the baby by singing softly to it.",
+          "word": "DOZE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Pete lost his balance and BAWLED down the stairs.",
+          "word": "BAWL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The ASSASSIN followed his victim for days before killing him.",
+          "word": "ASSASSIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "We were ENCOURAGED by the favorable response to our request.",
+          "word": "ENCOURAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "It costs more, but Mrs. Jones likes the CONVENIENCE of having her groceries delivered right to her door.",
+          "word": "CONVENIENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "There was only one DEFECT in the engine, but it was enough to keep the car from running.",
+          "word": "DEFECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He CIRCULATED the right answer with his pencil and went on to the next question.",
+          "word": "CIRCULATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "A quick ENCOUNTER showed that we were missing six dollars.",
+          "word": "ENCOUNTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Who gave you the AUTHORITY to close the school?",
+          "word": "AUTHORITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Larry DEFORMED his letters the way the teacher taught him to.",
+          "word": "DEFORMED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Everyone on the team was CONFIDENT that we would win.",
+          "word": "CONFIDENT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "DEVOTION",
+          "answers": [
+            "faithfulness",
+            "truthfulness",
+            "love"
+          ],
+          "word": "DEVOTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "CIRCUMSTANCE",
+          "answers": [
+            "condition",
+            "situation",
+            "difference"
+          ],
+          "word": "CIRCUMSTANCE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ABOLISH",
+          "answers": [
+            "stop",
+            "give in",
+            "end"
+          ],
+          "word": "ABOLISH",
+          "correct": "1"
+        },
+        {
+          "prompt": "DECEASED",
+          "answers": [
+            "dead",
+            "ill",
+            "lifeless"
+          ],
+          "word": "DECEASED",
+          "correct": "1"
+        },
+        {
+          "prompt": "DOZE",
+          "answers": [
+            "nap",
+            "sit",
+            "rest ----"
+          ],
+          "word": "DOZE",
+          "correct": "1"
+        },
+        {
+          "prompt": "BAWL",
+          "answers": [
+            "yell",
+            "argue",
+            "cry"
+          ],
+          "word": "BAWL",
+          "correct": "1"
+        },
+        {
+          "prompt": "ASSASSIN",
+          "answers": [
+            "robber",
+            "murderer",
+            "poisoner"
+          ],
+          "word": "ASSASSIN",
+          "correct": "0"
+        },
+        {
+          "prompt": "ENCOURAGE",
+          "answers": [
+            "urge",
+            "help",
+            "wonder"
+          ],
+          "word": "ENCOURAGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONVENIENT",
+          "answers": [
+            "close",
+            "sudden",
+            "easy"
+          ],
+          "word": "CONVENIENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEFECT",
+          "answers": [
+            "break",
+            "fault",
+            "ache"
+          ],
+          "word": "DEFECT",
+          "correct": "2"
+        },
+        {
+          "prompt": "CIRCULATE",
+          "answers": [
+            "drop",
+            "move",
+            "spread"
+          ],
+          "word": "CIRCULATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ENCOUNTER",
+          "answers": [
+            "battle",
+            "party",
+            "meeting"
+          ],
+          "word": "ENCOUNTER",
+          "correct": "1"
+        },
+        {
+          "prompt": "AUTHORITY",
+          "answers": [
+            "power",
+            "knowledge",
+            "beauty"
+          ],
+          "word": "AUTHORITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "DEFORMED",
+          "answers": [
+            "lost",
+            "twisted",
+            "misshapen"
+          ],
+          "word": "DEFORMED",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONFIDENT",
+          "answers": [
+            "certain",
+            "happy",
+            "assured"
+          ],
+          "word": "CONFIDENT",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

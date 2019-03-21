@@ -1,0 +1,608 @@
+{
+  "title": "7.10",
+  "definitions": {
+    "ANCILLARY": {
+      "word": "ANCILLARY",
+      "phonetic": "(an'-sÔøΩler-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">auxiliary, secondary, subordinate, subsidiary </p><p>ANCILLARY comes from a Latin word meaning <i class=“def-ital\">maidservant</i>, and means “giving help or support from a subordinate position.” </p><p>“The police department, with its ANCILLARY citizen patrols, was able to halt the rise of crime.” </p><p>“A good teacher often has the ANCILLARY attributes of patience and a sense of humor.” </p><p>Sometimes ANCILLARY loses this sense of support or aid, and merely means <i class=“def-ital\">secondary</i> or <i class=“def-ital\">supplementary</i>. </p><p>“Chris majored in Russian literature, but also took ANCILLARY subjects like European history and philosophy.”</p>"
+    },
+    "BELIE": {
+      "word": "BELIE",
+      "phonetic": "(bi-II')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to contradict, prove false </p><p>BELIE, which is related to the word <i class=“def-ital\">lie</i>, means to “give the lie” to something. The word is usually used in situations where one’s words are contradicted by one’s appearance, or where one’s actions contradict one’s words. </p><p>“His confident speech BELIED his apprehension.” </p><p>“His continued association with known criminals BELIED his promises to reform.” </p><p>In a slightly different sense, BELIE can mean to <i class=“def-ital\">disguise</i> or <i class=“def-ital\">misrepresent</i>. </p><p>“His suave behavior BELIED his humble origins.”</p>"
+    },
+    "INIQUITOUS": {
+      "word": "INIQUITOUS",
+      "phonetic": "(i-nik'-wÔøΩtÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wicked, sinful, villainous </p><p>INIQUITOUS comes from a Latin word meaning <i class=“def-ital\">unjust</i>.  In English, INIQUITOUS has a much stronger meaning than simply <i class=“def-ital\">unjust</i>. It suggests a total absence of fairness and principles, an evil disregard of justice. </p><p>“The murderer expressed no repentance for his INIQUITOUS crimes.” </p><p>“The INIQUITOUS king ordered all his opponents beheaded.” </p><p>Other forms of the word: INIQUITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "PROPINQUITY": {
+      "word": "PROPINQUITY",
+      "phonetic": "(prÔøΩping'-kwi-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">nearness, proximity </p><p>PROPINQUITY means <i class=“def-ital\">nearness</i>. Originally PROPINQUITY referred only to nearness of blood or relationship, <i class=“def-ital\">kinship</i>. Now the word is used about any kind of nearness. </p><p>“The inn’s PROPINQUITY to the sea makes it a delightful summer resort.” </p><p>“The PROPINQUITY of the two events made us think that one had caused the other.”</p>"
+    },
+    "TENABLE": {
+      "word": "TENABLE",
+      "phonetic": "(ten'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">defensible, reasonable </p><p>TENABLE comes from a Latin word meaning to <i class=“def-ital\">hold</i>, also the source of TENACIOUS. Something that is TENABLE is able to be held or defended. </p><p>“When their position was no longer TENABLE the troops were forced to retreat.” </p><p>Similarly, the word is used about intellectual positions that can be defended. </p><p>“The astronomer’s theory about the origin of the solar system seemed TENABLE.” </p><p>The opposite of TENABLE, UNTENABLE, is frequently used. </p><p>“Scientists dismissed his arguments as UNTENABLE in the light of new evidence.” </p><p>Other forms of the word: UNTENABLE, adj.</p>"
+    },
+    "ASSIDUOUS": {
+      "word": "ASSIDUOUS",
+      "phonetic": "(ÔøΩsij'-U-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">diligent, devoted, constant, sedulous </p><p>ASSIDUOUS means <i class=“def-ital\">constant</i> or <i class=“def-ital\">diligent</i> in carrying out a task or doing one’s duty. The word is used of people who keep their energy and attention focused on a particular task. </p><p>“The ASSIDUOUS servant made sure everything was in order for his master’s return.” </p><p>“Through ASSIDUOUS studying Amy managed to graduate at the top of her class.” </p><p>“Harold tried ASSIDUOUSLY to learn how to play the piano, practicing four or five hours a day.” </p><p>Other forms of the word: ASSIDUITY, n.</p>"
+    },
+    "ESCHEW": {
+      "word": "ESCHEW",
+      "phonetic": "(is-chU')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shun, abstain from, forgo, avoid </p><p>To ESCHEW something is to avoid or shun it, usually because it would be immoral, unwise, or harmful. </p><p>“The doctor advised him to ESCHEW alcohol and tobacco if he wanted to recover.” </p><p>“Hemingway ESCHEWED the use of overblown figures of speech in his novels.” </p><p>“Vegetarians ESCHEW meat.” </p><p>Other forms of the word: ESCHEWAL, n.</p>"
+    },
+    "PERFIDY": {
+      "word": "PERFIDY",
+      "phonetic": "(per'-fi-dE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">treachery, faithlessness </p><p>PERFIDY is deliberate breach of faith, <i class=“def-ital\">treachery</i>. It is a strong word and implies great contempt. </p><p>“We can never forgive his PERFIDY; we trusted him, and he betrayed us.” </p><p>“Benedict Arnold’s name has become synonymous with PERFIDY.” </p><p>A PERFIDY is also an act of treachery. </p><p>“The traitor’s PERFIDIES are so numerous we can’t list them all.” </p><p>The adjective PERFIDIOUS means <i class=“def-ital\">traitorous</i>, <i class=“def-ital\">faithless</i>. </p><p>“Cressida was a PERFIDIOUS lover; after she promised to be faithful to Troilus, she deserted him for the Greek Diomedes.” </p><p>Other forms of the word: PERFIDIOUS, adj.</p>"
+    },
+    "PRODIGIOUS": {
+      "word": "PRODIGIOUS",
+      "phonetic": "(prÔøΩdij'-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">huge, enormous, tremendous, stupendous </p><p>A PRODIGY is a wonder, a marvel, particularly an exceptionally gifted person.  PRODIGIOUS usually emphasizes something’s amazing size, capacity, or the like. </p><p>“His PRODIGIOUS memory enabled him to recall anything he had ever read.” </p><p>“She had a PRODIGIOUS appetite. She never seemed to have enough to eat.” </p><p>“The PRODIGIOUS size of the federal deficit forced Congress to raise taxes.” </p><p><i class=“def-ital\">Favorable</i> is by far the most common wrong answer on the Pretest. This may be due to a confusion with the word <i class=“def-ital\">auspicious</i>. Or it may have something to do with the original meaning of PRODIGY, a <i class=“def-ital\">sign</i> or <i class=“def-ital\">omen</i>, which might suggest <i class=“def-ital\">favorable</i>. PRODIGIOUS once meant <i class=“def-ital\">portentous</i>, <i class=“def-ital\">ominous</i>, but this meaning is now obsolete. </p><p>Other forms of the word: PRODIGY, n.</p>",
+      "suffix": [
+        "See the discussion of PRODIGY in Chapter 7. PRODIGIOUS is the adjective from PRODIGY. See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "SINUOUS": {
+      "word": "SINUOUS",
+      "phonetic": "(sin'-yU-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">curving, winding </p><p>SINUOUS comes from the Latin word for a curve. The word means “full of curves,” <i class=“def-ital\">winding</i>. </p><p>“The SINUOUS path of the road makes it very treacherous.” </p><p>SINUOUS often suggests suppleness and smoothness of movement. </p><p>“The SINUOUS movements of the dancers entranced the audience.” </p><p>The <i class=“def-ital\">sin</i> part of SINUOUS perhaps leads people to choose <i class=“def-ital\">tempting</i>, which is the most commonly chosen wrong answer in the Pretest item.</p>"
+    },
+    "UBIQUITOUS": {
+      "word": "UBIQUITOUS",
+      "phonetic": "(yU-bik'-wi-tÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">omnipresent, existing everywhere at once </p><p>UBIQUITOUS means “existing, or seeming to exist, everywhere at the same time.” It is usually used in a somewhat exaggerated sense about people or things that one always seems to be encountering. </p><p>“In the hotel we found it impossible to avoid the UBIQUITOUS conventioneers.” </p><p>“The UBIQUITOUS pigeon can be found in every city.” </p><p>“In the early summer dandelions seem to be UBIQUITOUS; every lawn is filled with them.” </p><p>Other forms of the word: UBIQUITY, n.</p>"
+    },
+    "APPRISE": {
+      "word": "APPRISE",
+      "phonetic": "(ÔøΩrlz')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to inform, notify, cause to know </p><p>To APPRISE people of something is to give them notice of it, to cause them to know it. </p><p>“The president APPRISED his advisers of the situation and asked for their opinion.” </p><p>“Rich APPRISED us that he was resigning effective the fifteenth of April.” </p><p>“I wish you would APPRISE me of your intentions. I hate being kept in suspense.”</p>"
+    },
+    "EXPIATION": {
+      "word": "EXPIATION",
+      "phonetic": "(ek-spE-A'-shQn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">atonement, amends, reparation </p><p>To EXPIATE a crime or a sin is to make up for it by doing penance or by making amends. </p><p>“You cannot EXPIATE your offense simply by saying it was all a mistake.” </p><p>EXPIATION is the noun from EXPIATE. It is the act of EXPIATING. </p><p>“His sin was so great that the EXPIATION of it would not be easy.” </p><p>EXPIATION is also the means of making atonement. </p><p>“The gang member offered the victim a large sum of money as partial EXPIATION for his part in the crime.” </p><p>Other forms of the word: EXPIATE, v. EXPIATORY, adj.</p>"
+    },
+    "EXTANT": {
+      "word": "EXTANT",
+      "phonetic": "(ek'-stQnt",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">still existing, not lost or destroyed </p><p>EXTANT means “still in existence; not lost, destroyed, or exterminated.” </p><p>“There are several different species of this fish EXTANT in the Caribbean.” </p><p>The context often suggests that the things which are EXTANT are relatively rare-that most similar things do not still exist. </p><p>“The three EXTANT photographs of the man all show him with red hair.” </p><p>“There is only one copy of the first edition of Shakespeare’s play <i class=“def-ital\">Titus Andronicus</i> EXTANT. It is in the Folger Library in Washington.” The most popular wrong answer is <i class=“def-ital\">obsolete</i>, which is virtually an opposite of EXTANT.</p>"
+    },
+    "FATUOUS": {
+      "word": "FATUOUS",
+      "phonetic": "(fach'-U-Qs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">foolish, inane, silly </p><p>FATUOUS means <i class=“def-ital\">stupid</i>, <i class=“def-ital\">silly</i>. The word usually suggests a complacent, unwitting foolishness, and is used contemptuously. </p><p>“After a while no one at the meeting paid any attention to Gail’s FATUOUS statements.” </p><p>“These FATUOUS situation comedies are an insult to my intelligence.” </p><p>“She is a foolish woman, always making FATUOUS remarks.” </p><p>Other forms of the word: FATUITY, n.</p>"
+    }
+  },
+  "id": "10",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "ANCILLARY",
+          "answers": [
+            "prior",
+            "auxiliary",
+            "official",
+            "unknown",
+            "ineffective"
+          ],
+          "word": "ANCILLARY",
+          "correct": "auxiliary"
+        },
+        {
+          "prompt": "to BELIE",
+          "answers": [
+            "support",
+            "resemble",
+            "delay",
+            "contradict",
+            "lessen"
+          ],
+          "word": "BELIE",
+          "correct": "contradict"
+        },
+        {
+          "prompt": "INIQUITOUS",
+          "answers": [
+            "sinless",
+            "nervous",
+            "wicked",
+            "secret",
+            "incredible"
+          ],
+          "word": "INIQUITOUS",
+          "correct": "wicked"
+        },
+        {
+          "prompt": "PROPINQUITY",
+          "answers": [
+            "support",
+            "evil",
+            "distance",
+            "oddity",
+            "nearness"
+          ],
+          "word": "PROPINQUITY",
+          "correct": "nearness"
+        },
+        {
+          "prompt": "TENABLE",
+          "answers": [
+            "defensible",
+            "hazardous",
+            "valuable",
+            "limited",
+            "noticeable"
+          ],
+          "word": "TENABLE",
+          "correct": "defensible"
+        },
+        {
+          "prompt": "ASSIDUOUS",
+          "answers": [
+            "courteous",
+            "helpful",
+            "treacherous",
+            "lazy",
+            "diligent"
+          ],
+          "word": "ASSIDUOUS",
+          "correct": "diligent"
+        },
+        {
+          "prompt": "to ESCHEW",
+          "answers": [
+            "desire",
+            "shun",
+            "separate",
+            "consider",
+            "dislike"
+          ],
+          "word": "ESCHEW",
+          "correct": "shun"
+        },
+        {
+          "prompt": "PERFIDY",
+          "answers": [
+            "excellence",
+            "similarity",
+            "loyalty",
+            "treachery",
+            "slander"
+          ],
+          "word": "PERFIDY",
+          "correct": "treachery"
+        },
+        {
+          "prompt": "PRODIGIOUS",
+          "answers": [
+            "nasty",
+            "favorable",
+            "huge",
+            "complicated",
+            "disappointing"
+          ],
+          "word": "PRODIGIOUS",
+          "correct": "huge"
+        },
+        {
+          "prompt": "SINUOUS",
+          "answers": [
+            "curving",
+            "knowing",
+            "long",
+            "tempting",
+            "beautiful"
+          ],
+          "word": "SINUOUS",
+          "correct": "curving"
+        },
+        {
+          "prompt": "UBIQUITOUS",
+          "answers": [
+            "invisible",
+            "omnipresent",
+            "evil",
+            "all-knowing",
+            "immense"
+          ],
+          "word": "UBIQUITOUS",
+          "correct": "omnipresent"
+        },
+        {
+          "prompt": "to APPRISE",
+          "answers": [
+            "commend",
+            "improve",
+            "deceive",
+            "notice",
+            "inform"
+          ],
+          "word": "APPRISE",
+          "correct": "inform"
+        },
+        {
+          "prompt": "EXPIATION",
+          "answers": [
+            "atonement",
+            "guilt",
+            "alibi",
+            "discussion",
+            "admission"
+          ],
+          "word": "EXPIATION",
+          "correct": "atonement"
+        },
+        {
+          "prompt": "EXTANT",
+          "answers": [
+            "existing",
+            "obsolete",
+            "eminent",
+            "overjoyed",
+            "uncaptured"
+          ],
+          "word": "EXTANT",
+          "correct": "existing"
+        },
+        {
+          "prompt": "FATUOUS",
+          "answers": [
+            "dangerous",
+            "idealistic",
+            "foolish",
+            "disgusting",
+            "talkative"
+          ],
+          "word": "FATUOUS",
+          "correct": "foolish"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is ANCILLARY equipment crucial to a job?",
+          "word": "ANCILLARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would rude behavior BELIE a dignified manner?",
+          "word": "BELIE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is jaywalking INIQUITOUS?",
+          "word": "INIQUITOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can events occur in close PROPINQUITY to each other?",
+          "word": "PROPINQUITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are TENABLE views always correct?",
+          "word": "TENABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do ASSIDUOUS workers sleep on the job?",
+          "word": "ASSIDUOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a stingy person ESCHEW spending money?",
+          "word": "ESCHEW",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is PERFIDY considered wicked?",
+          "word": "PERFIDY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would running a mile in three minutes be a PRODIGIOUS feat?",
+          "word": "PRODIGIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can the path of a river be SINUOUS?",
+          "word": "SINUOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is ice UBIQUITOUS in Antarctica?",
+          "word": "UBIQUITOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a report card APPRISE parents of how their child is doing in school?",
+          "word": "APPRISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a public apology for a misdeed be considered a form of EXPIATION?",
+          "word": "EXPIATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are dinosaurs EXTANT?",
+          "word": "EXTANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a wise person usually make FATUOUS remarks?",
+          "word": "FATUOUS",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "For this course, there is one required textbook and an ANCILLARY reading list.",
+          "word": "ANCILLARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her warm smile BELIED her usually unpleasant manner.",
+          "word": "BELIE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The prosecutor demanded the death penalty for the INIQUITOUS criminal.",
+          "word": "INIQUITOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The PROPINQUITY of our goal made it all the more frustrating for us when we couldn't reach it.",
+          "word": "PROPINQUITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The current state of the economy makes her position on the tax cut no longer TENABLE.",
+          "word": "TENABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Because of Bill's ASSIDUOUS attention to detail, he uncovered several small mistakes in the report.",
+          "word": "ASSIDUOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The movement ESCHEWED violence as a means of achieving its goals.",
+          "word": "ESCHEW",
+          "correct": "true"
+        },
+        {
+          "prompt": "The Soviet government attacked the PERFIDY of the defector.",
+          "word": "PERFIDY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Finding ten dollars on the sidewalk was certainly a PRODIGIOUS start for the day.",
+          "word": "PRODIGIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "His SINUOUS conduct offended us all.",
+          "word": "SINUOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Henry was so UBIQUITOUS he figured he wouldn't even bother going to school.",
+          "word": "UBIQUITOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The principal APPRISED the students for winning the debating championship.",
+          "word": "APPRISE",
+          "correct": "false"
+        },
+        {
+          "prompt": "An ancient way of EXPIATING one's sins was to wear sackcloth and ashes.",
+          "word": "EXPIATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Copies of Gutenberg's Bible, the first important book printed with movable type, are EXTANT.",
+          "word": "EXTANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Too many rich desserts had made her rather FATUOUS.",
+          "word": "FATUOUS",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ANCILLARY",
+          "answers": [
+            "revised",
+            "supplemented",
+            "assisted"
+          ],
+          "word": "ANCILLARY",
+          "correct": "0"
+        },
+        {
+          "prompt": "BELIE",
+          "answers": [
+            "confuse",
+            "refute",
+            "disprove"
+          ],
+          "word": "BELIE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INIQUITOUS",
+          "answers": [
+            "sinful",
+            "criminal",
+            "mistaken"
+          ],
+          "word": "INIQUITOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "PROPINQUITY",
+          "answers": [
+            "nearness",
+            "relationship",
+            "vagueness"
+          ],
+          "word": "PROPINQUITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "TENABLE",
+          "answers": [
+            "unassailable",
+            "understandable",
+            "reasonable"
+          ],
+          "word": "TENABLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ASSIDUOUS",
+          "answers": [
+            "industrious",
+            "indolent",
+            "untiring"
+          ],
+          "word": "ASSIDUOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "ESCHEW",
+          "answers": [
+            "forgo",
+            "abstain",
+            "anticipate"
+          ],
+          "word": "ESCHEW",
+          "correct": "2"
+        },
+        {
+          "prompt": "PERFIDY",
+          "answers": [
+            "faithlessness",
+            "disorderliness",
+            "treachery"
+          ],
+          "word": "PERFIDY",
+          "correct": "1"
+        },
+        {
+          "prompt": "PRODIGIOUS",
+          "answers": [
+            "mammoth",
+            "marvelous",
+            "minute"
+          ],
+          "word": "PRODIGIOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "SINUOUS",
+          "answers": [
+            "tortuous",
+            "dangerous",
+            "supple"
+          ],
+          "word": "SINUOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "UBIQUITOUS",
+          "answers": [
+            "everywhere",
+            "commonplace",
+            "occasional"
+          ],
+          "word": "UBIQUITOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "APPRISE",
+          "answers": [
+            "tell",
+            "ask",
+            "notify"
+          ],
+          "word": "APPRISE",
+          "correct": "1"
+        },
+        {
+          "prompt": "EXPIATION",
+          "answers": [
+            "reward",
+            "repayment",
+            "rectification"
+          ],
+          "word": "EXPIATION",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXTANT",
+          "answers": [
+            "present",
+            "extinct",
+            "living"
+          ],
+          "word": "EXTANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "FATUOUS",
+          "answers": [
+            "inane",
+            "piercing",
+            "asinine"
+          ],
+          "word": "FATUOUS",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

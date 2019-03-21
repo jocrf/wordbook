@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ACQUIESCE",
+      "answer": "acquiesce"
+    },
+    {
+      "word": "CONDUCIVE",
+      "answer": "conducive"
+    },
+    {
+      "word": "FELICITY",
+      "answer": "felicity"
+    },
+    {
+      "word": "INDOLENT",
+      "answer": "indolent"
+    },
+    {
+      "word": "OVERT",
+      "answer": "overt"
+    },
+    {
+      "word": "ACRIMONIOUS",
+      "answer": "acrimonious"
+    },
+    {
+      "word": "COPIOUS",
+      "answer": "copious or inordinate"
+    },
+    {
+      "word": "FURTIVE",
+      "answer": "furtive"
+    },
+    {
+      "word": "INFUSE",
+      "answer": "infused"
+    },
+    {
+      "word": "REPAST",
+      "answer": "repast"
+    },
+    {
+      "word": "ADVERSITY",
+      "answer": "adversities"
+    },
+    {
+      "word": "DEBONAIR",
+      "answer": "debonair"
+    },
+    {
+      "word": "HARBINGER",
+      "answer": "harbinger"
+    },
+    {
+      "word": "INORDINATE",
+      "answer": "inordinate"
+    },
+    {
+      "word": "ROTUND",
+      "answer": "rotund"
+    },
+    {
+      "word": "AFFRAY",
+      "answer": "affray"
+    },
+    {
+      "word": "EXACERBATE",
+      "answer": "exacerbate"
+    },
+    {
+      "word": "HOVEL",
+      "answer": "hovel"
+    },
+    {
+      "word": "MALIGN",
+      "answer": "maligned"
+    },
+    {
+      "word": "SUBTERFUGE",
+      "answer": "subterfuges"
+    },
+    {
+      "word": "ANTIPATHY",
+      "answer": "antipathy"
+    },
+    {
+      "word": "ABASE",
+      "answer": "abase"
+    },
+    {
+      "word": "DERISIVE",
+      "answer": "derisive"
+    },
+    {
+      "word": "INSOLVENT",
+      "answer": "insolvent"
+    },
+    {
+      "word": "NEBULOUS",
+      "answer": "nebulous"
+    },
+    {
+      "word": "REPROVE",
+      "answer": "reproved"
+    },
+    {
+      "word": "ASPECT",
+      "answer": "aspect"
+    },
+    {
+      "word": "DISCONCERT",
+      "answer": "disconsulate"
+    },
+    {
+      "word": "INTERLOPER",
+      "answer": "interloper"
+    },
+    {
+      "word": "OBLIVIOUS",
+      "answer": "oblivious"
+    },
+    {
+      "word": "RESPITE",
+      "answer": "respite"
+    },
+    {
+      "word": "COGITATE",
+      "answer": "cogitate"
+    },
+    {
+      "word": "DISCONSOLATE",
+      "answer": "disconsulate"
+    },
+    {
+      "word": "INTRACTABLE",
+      "answer": "intractable"
+    },
+    {
+      "word": "ODIOUS",
+      "answer": "odious"
+    },
+    {
+      "word": "SQUALOR",
+      "answer": "squalor"
+    },
+    {
+      "word": "CONTRITION",
+      "answer": "contrition"
+    },
+    {
+      "word": "IMPUDENT",
+      "answer": "impudent"
+    },
+    {
+      "word": "MANIFEST",
+      "answer": "manifest"
+    },
+    {
+      "word": "PORTENT",
+      "answer": "portent"
+    },
+    {
+      "word": "VERTIGO",
+      "answer": "vertigo"
+    },
+    {
+      "word": "CORPULENT",
+      "answer": "corpulent"
+    },
+    {
+      "word": "INCLEMENT",
+      "answer": "inclement"
+    },
+    {
+      "word": "MILIEU",
+      "answer": "milieu"
+    },
+    {
+      "word": "PREDISPOSED",
+      "answer": "predisposed"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The noisy",
+      "part2": "between the two gangs awoke everyone in the neighborhood.",
+      "correct": "affray",
+      "word": "AFFRAY"
+    },
+    {
+      "part1": "To avoid publicity, the movie star adopted such",
+      "part2": "as registering in hotels under an assumed name.",
+      "correct": "subterfuges",
+      "word": "SUBTERFUGE"
+    },
+    {
+      "part1": "The arrival of flocks of birds from the south was a(n)",
+      "part2": "of spring.",
+      "correct": "harbinger",
+      "word": "HARBINGER"
+    },
+    {
+      "part1": "He was a totally honest man, and felt a strong",
+      "part2": "toward those who didn't tell the truth.",
+      "correct": "antipathy",
+      "word": "ANTIPATHY"
+    },
+    {
+      "part1": "The",
+      "part2": "thief moved stealthily through the darkened warehouse.",
+      "correct": "furtive",
+      "word": "FURTIVE"
+    },
+    {
+      "part1": "Many studies have shown that physical exercise is",
+      "part2": "to good health.",
+      "correct": "conducive",
+      "word": "CONDUCIVE"
+    },
+    {
+      "part1": "We had a delightful",
+      "part2": "at the fine French restaurant.",
+      "correct": "repast",
+      "word": "REPAST"
+    },
+    {
+      "part1": "Despite these temporary",
+      "part2": ", he was ultimately able to triumph.",
+      "correct": "adversities",
+      "word": "ADVERSITY"
+    },
+    {
+      "part1": "The",
+      "part2": "dispute over who would pay the bill threatened to turn into a full-scale fight.",
+      "correct": "acrimonious",
+      "word": "ACRIMONIOUS"
+    },
+    {
+      "part1": "Everyone admired the",
+      "part2": "youth's lighthearted ways.",
+      "correct": "debonair",
+      "word": "DEBONAIR"
+    },
+    {
+      "part1": "The children grew up in a wretched",
+      "part2": "without running water or electricity.",
+      "correct": "hovel",
+      "word": "HOVEL"
+    },
+    {
+      "part1": "The",
+      "part2": "woman spent all her time watching television instead of working.",
+      "correct": "indolent",
+      "word": "INDOLENT"
+    },
+    {
+      "part1": "Far from easing the pain, this new drug seems to",
+      "part2": "it.",
+      "correct": "exacerbate",
+      "word": "EXACERBATE"
+    },
+    {
+      "part1": "The teacher frowned and shook her head and made other",
+      "part2": "signs of her displeasure.",
+      "correct": "overt",
+      "word": "OVERT"
+    },
+    {
+      "part1": "We felt that a week was a(n)",
+      "part2": "amount of time to wait for our telephone to be fixed.",
+      "correct": "inordinate",
+      "word": "INORDINATE"
+    },
+    {
+      "part1": "Harry could always get a job playing Santa Claus because of his",
+      "part2": "shape.",
+      "correct": "rotund",
+      "word": "ROTUND"
+    },
+    {
+      "part1": "Mary puts",
+      "part2": "amounts of catsup on everything she eats.",
+      "correct": "copious or inordinate",
+      "word": "COPIOUS"
+    },
+    {
+      "part1": "The mayor's enemies",
+      "part2": "him by spreading the false rumor that he had taken a bribe.",
+      "correct": "maligned",
+      "word": "MALIGN"
+    },
+    {
+      "part1": "The sight of our old home",
+      "part2": "us with a profound sense of nostalgia.",
+      "correct": "infused",
+      "word": "INFUSE"
+    },
+    {
+      "part1": "With a loving husband and an exciting job she thought nothing could disturb her",
+      "part2": ", then tragedy struck.",
+      "correct": "felicity",
+      "word": "FELICITY"
+    },
+    {
+      "part1": "We insisted that he go along with us on this, but he refused to",
+      "part2": "to our demand.",
+      "correct": "acquiesce",
+      "word": "ACQUIESCE"
+    },
+    {
+      "part1": "The writer lived in the exotic",
+      "part2": "of the jungles of Sri Lanka.",
+      "correct": "milieu",
+      "word": "MILIEU"
+    },
+    {
+      "part1": "I'm afraid the weather is going to be",
+      "part2": "; a severe storm is headed our way.",
+      "correct": "inclement",
+      "word": "INCLEMENT"
+    },
+    {
+      "part1": "The high priest said the appearance of the comet was a(n)",
+      "part2": "of some great calamity.",
+      "correct": "portent",
+      "word": "PORTENT"
+    },
+    {
+      "part1": "Al was momentarily",
+      "part2": "by the unexpected sound of laughter, but then he realized it was only the television.",
+      "correct": "disconcerted",
+      "word": "DISCONSOLATE"
+    },
+    {
+      "part1": "The business recession caused many companies to become",
+      "part2": ".",
+      "correct": "insolvent",
+      "word": "INSOLVENT"
+    },
+    {
+      "part1": "The audience's displeasure with the performance was so",
+      "part2": "that even the stagehands noticed it.",
+      "correct": "manifest",
+      "word": "MANIFEST"
+    },
+    {
+      "part1": "The",
+      "part2": "child told the teacher she was stupid.",
+      "correct": "impudent",
+      "word": "IMPUDENT"
+    },
+    {
+      "part1": "The",
+      "part2": "owners refused to meet any of the players' demands.",
+      "correct": "intractable",
+      "word": "INTRACTABLE"
+    },
+    {
+      "part1": "If you continue to gain weight, you won't be just heavy, you'll be",
+      "part2": ".",
+      "correct": "corpulent",
+      "word": "CORPULENT"
+    },
+    {
+      "part1": "Andrea was absolutely",
+      "part2": "when she lost the competition; nothing we said could cheer her up.",
+      "correct": "disconsulate",
+      "word": "DISCONSOLATE"
+    },
+    {
+      "part1": "Their plans were rather",
+      "part2": "at first, but they became clearer as time went by.",
+      "correct": "nebulous",
+      "word": "NEBULOUS"
+    },
+    {
+      "part1": "When he was angry, his expression took on a fierce",
+      "part2": ".",
+      "correct": "aspect",
+      "word": "ASPECT"
+    },
+    {
+      "part1": "The criminal expressed no",
+      "part2": "for his evil deed; in fact, he said he'd do it again.",
+      "correct": "contrition",
+      "word": "CONTRITION"
+    },
+    {
+      "part1": "Since Alan's brothers had been smart, the teacher was",
+      "part2": "to believe that he was smart too.",
+      "correct": "predisposed",
+      "word": "PREDISPOSED"
+    },
+    {
+      "part1": "The incredible",
+      "part2": "of the abandoned house defeated our efforts to clean it up.",
+      "correct": "squalor",
+      "word": "SQUALOR"
+    },
+    {
+      "part1": "Sarah was completely",
+      "part2": "to all of the petty little problems of everyday life.",
+      "correct": "oblivious",
+      "word": "OBLIVIOUS"
+    },
+    {
+      "part1": "Being alone in an open space gave her a feeling of",
+      "part2": "; the world would seem to spin around her, and she'd almost lose her balance.",
+      "correct": "vertigo",
+      "word": "VERTIGO"
+    },
+    {
+      "part1": "Simpson had to",
+      "part2": "a long time about the difficult problem he needed to solve.",
+      "correct": "cogitate",
+      "word": "COGITATE"
+    },
+    {
+      "part1": "I'm no",
+      "part2": ",I have as much right to be here as you do.",
+      "correct": "interloper",
+      "word": "INTERLOPER"
+    },
+    {
+      "part1": "The",
+      "part2": "girls laughed scornfully at his feeble attempt to jump rope.",
+      "correct": "derisive",
+      "word": "DERISIVE"
+    },
+    {
+      "part1": "The judge gave the man the maximum sentence, calling his crime",
+      "part2": "and an offense to all decent citizens.",
+      "correct": "odious",
+      "word": "ODIOUS"
+    },
+    {
+      "part1": "After two hours of earsplitting noise we received a welcome",
+      "part2": "when the man operating the jackhammer went to lunch.",
+      "correct": "respite",
+      "word": "RESPITE"
+    },
+    {
+      "part1": "The professor",
+      "part2": "Tom for not getting his paper in on time, but said it wouldn't affect his grade.",
+      "correct": "reproved",
+      "word": "REPROVE"
+    },
+    {
+      "part1": "Jim was willing to",
+      "part2": "himself by begging for money from his relatives.",
+      "correct": "abase",
+      "word": "ABASE"
+    }
+  ],
+  "type": "fitb",
+  "id": 1
+}

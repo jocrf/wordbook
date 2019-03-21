@@ -1,0 +1,611 @@
+{
+  "title": "3.4",
+  "definitions": {
+    "HEADWAY": {
+      "word": "HEADWAY",
+      "phonetic": "(hed'-wA)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">progress, advance, movement forward </p><p>HEADWAY is usually used in the phrase “to make HEADWAY,” which means “to make progress, to move forward,” like a ship making its way through the water. </p><p>“We couldn’t make any HEADWAY with the strong wind blowing against us.” </p><p>“They reported making some HEADWAY in convincing both sides to agree to stop fighting.” </p><p>“I hope to make some HEADWAY in my math project this afternoon.”</p>"
+    },
+    "ACCUMULATE": {
+      "word": "ACCUMULATE",
+      "phonetic": "(:>-kyUm'-y:>-IAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to gather, amass, pile up </p><p>To ACCUMULATE is to <i class=“def-ital\">heap up</i>, to increase gradually into a larger quantity. People can ACCUMULATE things, and things can ACCUMULATE. </p><p>“He has ACCUMULATED a large collection of early American paintings.” </p><p>“Water ACCUMULATED in the cellar when the drain became blocked.” </p><p>ACCUMULATED is frequently used about money. </p><p>“She ACCUMULATED a fortune in the stock market.” </p><p>The noun form is ACCUMULATION, which means “things that are piled up,” or “the act of piling up.” </p><p>“The ACCUMULATION of knowledge is a worthwhile goal.” </p><p>“What an ACCUMULATION of junk!” </p><p>Other forms of the word: ACCUMULATION, n.</p>"
+    },
+    "GOUGE": {
+      "word": "GOUGE",
+      "phonetic": "(gowj)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to dig out, force out </p><p>A GOUGE is a tool for digging out grooves or channels in wood. To GOUGE something is to cut it with, or as if with, a GOUGE. The word suggests something done roughly or crudely. </p><p>“The boy GOUGED a hole in the table with his knife.” </p><p>“He GOUGED his initials in the tree trunk.” </p><p>To GOUGE someone’s eye is to poke a thumb or finger into it. In a special sense, GOUGE can mean to <i class=“def-ital\">over-charge</i> or <i class=“def-ital\">swindle<i class=“def-ital\">--that is, to force money from a person. </p><p>“He GOUGED an extra twenty dollars from them because he knew they couldn’t get anyone else to do the job.”</p>"
+    },
+    "ANTICIPATE": {
+      "word": "ANTICIPATE",
+      "phonetic": "(an-tis'-:>-pAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to expect, foresee </p><p>To ANTICIPATE something is to expect or foresee that it will happen, or to deal with it in advance. </p><p>“She ANTICIPATED our arrival and fixed up the guest room for us.” </p><p>“He ANTICIPATED that we would refuse at first, so he prepared still more arguments to persuade us.” </p><p>“He is very unpredictable; you can never ANTICIPATE what he’s going to do next.” </p><p>Other forms of the word: ANTICIPATION, n.</p>"
+    },
+    "COMPREHEND": {
+      "word": "COMPREHEND",
+      "phonetic": "(kom-pri-hend')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to understand, perceive </p><p>To COMPREHEND something is to grasp it mentally, to understand it. The word often suggests a thorough understanding, a complete grasp of an idea or a subject. </p><p>“No one can really COMPREHEND what it means to live forever.” </p><p>“We cannot COMPREHEND his refusal to take such a good job.” </p><p>“She was able to COMPREHEND written French, but she could never speak it very well.” </p><p>The noun form of COMPREHEND is COMPREHENSION, <i class=“def-ital\">understanding</i>. </p><p>“The intricate workings of an automobile are beyond his COMPREHENSION.” </p><p>Other forms of the word: COMPREHENSION, n. COMPREHENSIBLE, adj.</p>"
+    },
+    "APPAREL": {
+      "word": "APPAREL",
+      "phonetic": "(:>-par'-ÔøΩI)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">clothing, dress, attire </p><p>APPAREL is a rather fancy word for a person’s clothing. </p><p>“She put on her finest APPAREL for the dance that evening.” </p><p>“Everyone laughed at the strange APPAREL he wore to school that day.” </p><p>APPAREL is also a verb, meaning to <i class=“def-ital\">clothe</i> or <i class=“def-ital\">dress</i>. </p><p>“The king was APPARELED in his costliest robes for the ceremony.”</p>"
+    },
+    "CONFRONT": {
+      "word": "CONFRONT",
+      "phonetic": "(kÔøΩn-fruhnt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to face, encounter </p><p>To CONFRONT something is to have it in <i class=“def-ital\">front</i> of you, to be or come face to face with it. </p><p>“When we turned the corner a huge wall suddenly CONFRONTED us.” </p><p>“They were CONFRONTED with several difficult problems at once.” </p><p>Often CONFRONT has the sense of a person facing something defiantly or without flinching. </p><p>“The enemies CONFRONTED each other in the doorway, and neither one would step aside.” </p><p>To CONFRONT someone <i class=“def-ital\">with</i> something is to bring him face to face with it. In this sense CONFRONT often suggests forcing the person to face something he doesn’t want to face. </p><p>“They CONFRONTED the prisoner with so much evidence that he was forced to confess.” </p><p>Other forms of the word: CONFRONTATION, n.</p>"
+    },
+    "CONGREGATE": {
+      "word": "CONGREGATE",
+      "phonetic": "(kong'-grQ-gAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to come together, assemble, gather </p><p> The <i class=“def-ital\">greg</i> part of the word comes from the Latin word for a <i class=“def-ital\">flock</i>. To CONGREGATE is to come or bring together in a particular place, to flock together like birds or sheep. </p><p>“The teacher CONGREGATED her students in one corner of the schoolyard.” </p><p>“People began to CONGREGATE around the musicians playing on the street corner.” </p><p>A CONGREGATION is a gathering or assembly of people, especially people gathering in church to worship together. </p><p>“Everyone in the CONGREGATION rose to sing the hymn.” </p><p>Other forms of the word: CONGREGATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">con-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "INSTANCE": {
+      "word": "INSTANCE",
+      "phonetic": "(ins'-tÔøΩns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an example, case, illustration </p><p>An INSTANCE is an example or case, especially one given in support of some general statement or truth. </p><p>“She couldn’t forgive this latest INSTANCE of disobedience.” </p><p>“He brought up many INSTANCES of our being late for school.” </p><p>“This is only one INSTANCE of many that I could have mentioned.” </p><p>The common phrase “for INSTANCE” means “as an example.” </p><p>“He has trouble with math. For INSTANCE, he didn’t get any problems right on this test.”</p>"
+    },
+    "FELINE": {
+      "word": "FELINE",
+      "phonetic": "(fE'-lln)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">like a cat, pertaining to cats </p><p>FELINE comes from the Latin word for <i class=“def-ital\">cat</i>. The word can mean “of or pertaining to the cat family.” Or it can mean “like a cat,” having the qualities usually associated with cats, such as gracefulness and quickness. </p><p>“He moved with FELINE grace along the dance floor.” </p><p>“She dropped from the ledge with FELINE quickness.” </p><p>FELINE can also be used as a noun to mean <i class=“def-ital\">cat</i> or “a member of the cat family.” </p><p>“FELINES are noted for their swiftness.”</p>"
+    },
+    "CONTROVERSY": {
+      "word": "CONTROVERSY",
+      "phonetic": "(kon'-trQ-ver-sE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a dispute, argument, debate </p><p>A CONTROVERSY is a disagreement or dispute that can last for a long time and involve many people. The word usually suggests that a more important issue is being discussed than in an argument. </p><p>“The plan to raise taxes created a CONTROVERSY.” </p><p>“Great CONTROVERSY surrounded the decision to build a new high school.” </p><p>“The two doctors engaged in a long CONTROVERSY over the value of the medicine.” </p><p>Something that is CONTROVERSIAL causes CONTROVERSY or debate. </p><p>“The CONTROVERSIAL book suggests that no one should have to go to school.” </p><p>Other forms of the word: CONTROVERSIAL, adj.</p>"
+    },
+    "FOREMOST": {
+      "word": "FOREMOST",
+      "phonetic": "(for'-mOst)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">chief, best, first </p><p><i class=“def-ital\">Fore-</i> at the beginning of a word usually means <i class=“def-ital\">at the front</i>, <i class=“def-ital\">before</i>. Something that is FOREMOST is in front of everything else; it is the first in order, importance, value, etc. </p><p>“He is one of the league’s FOREMOST pitchers.” </p><p>“She is the nation’s FOREMOST expert on health care.” </p><p>The phrase “first and FOREMOST” means <i class=“def-ital\">most important</i>, “before anything else.” </p><p>“First and FOREMOST, let me explain why I have brought you here tonight.”</p>"
+    },
+    "HABITABLE": {
+      "word": "HABITABLE",
+      "phonetic": "(hab'-ÔøΩtÔøΩbQI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">livable, fit to be inhabited </p><p>To <i class=“def-ital\">inhabit</i> a place is to live in it. A place that is HABITABLE is able to be lived in.  HABITABLE does not suggest that a place is very beautiful or comfortable, only that people can live in it. </p><p>“The house has no plumbing, heat, or electricity; it just isn’t HABITABLE.” </p><p>“The room isn’t fancy, but it is HABITABLE.” </p><p>“Tests showed that the planet had an atmosphere like the Earth’s; it was probably HABITABLE.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "FREAKISH": {
+      "word": "FREAKISH",
+      "phonetic": "(frE'-kish)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">odd, abnormal </p><p>The basic meaning of FREAK is “a sudden change or turn of the mind.” From this it has come to be used about a thing or person who is extremely strange or abnormal. </p><p>“The snowstorm in July was really a FREAK. We’ll never see another one like it.” </p><p>FREAKISH is the adjective from FREAK.  It means <i class=“def-ital\">unusual</i>, <i class=“def-ital\">bizarre</i>, <i class=“def-ital\">extremely strange</i>. </p><p>“No one could understand his FREAKISH behavior lately.” </p><p>“He had a FREAKISH talent for remembering every phone number he ever heard.” </p><p>“It was a FREAKISH potato: it was almost the size of a basketball.” </p><p>Many people think FREAKISH means <i class=“def-ital\">stupid</i>. Someone who is or appears to be out of the ordinary is not necessarily <i class=“def-ital\">stupid</i>, however. </p><p>Other forms of the word: FREAK, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ish</i> under Suffixes."
+      ]
+    },
+    "IMMENSE": {
+      "word": "IMMENSE",
+      "phonetic": "(i-mens')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">huge, vast, extremely large </p><p>IMMENSE means “so big or great that you can hardly measure it.” The word is used about size, numbers, amounts, and so on. </p><p>“The museum was IMMENSE. It would take you weeks to see everything that’s in it.” </p><p>“There was an IMMENSE crowd on the beach that day.” </p><p>“There is an IMMENSE amount of work to be done before we will be finished.” </p><p>Other forms of the word: IMMENSITY, n.</p>"
+    }
+  },
+  "id": "4",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "To make HEADWAY.",
+          "answers": [
+            "sense",
+            "progress",
+            "time",
+            "excuses",
+            "trouble"
+          ],
+          "word": "HEADWAY",
+          "correct": "progress"
+        },
+        {
+          "prompt": "ACCUMULATE the books.",
+          "answers": [
+            "buy",
+            "give away",
+            "count",
+            "receive",
+            "gather"
+          ],
+          "word": "ACCUMULATE",
+          "correct": "gather"
+        },
+        {
+          "prompt": "To GOUGE holes.",
+          "answers": [
+            "dig out",
+            "cover over",
+            "fill",
+            "find",
+            "count"
+          ],
+          "word": "GOUGE",
+          "correct": "dig out"
+        },
+        {
+          "prompt": "She ANTICIPATED the problem.",
+          "answers": [
+            "created",
+            "ignored",
+            "started",
+            "expected",
+            "solved"
+          ],
+          "word": "ANTICIPATE",
+          "correct": "expected"
+        },
+        {
+          "prompt": "COMPREHEND easily.",
+          "answers": [
+            "read",
+            "understand",
+            "avoid",
+            "write",
+            "hold back"
+          ],
+          "word": "COMPREHEND",
+          "correct": "understand"
+        },
+        {
+          "prompt": "Different APPAREL.",
+          "answers": [
+            "clothing",
+            "behavior",
+            "decorations",
+            "gifts",
+            "furniture"
+          ],
+          "word": "APPAREL",
+          "correct": "clothing"
+        },
+        {
+          "prompt": "Always CONFRONTS him.",
+          "answers": [
+            "helps",
+            "escapes",
+            "faces",
+            "disturbs",
+            "reads"
+          ],
+          "word": "CONFRONT",
+          "correct": "faces"
+        },
+        {
+          "prompt": "Wanted to CONGREGATE.",
+          "answers": [
+            "remain",
+            "depart",
+            "worship",
+            "proceed",
+            "assemble"
+          ],
+          "word": "CONGREGATE",
+          "correct": "assemble"
+        },
+        {
+          "prompt": "Mentioned many INSTANCES.",
+          "answers": [
+            "needs",
+            "examples",
+            "demands",
+            "journeys",
+            "ideas"
+          ],
+          "word": "INSTANCE",
+          "correct": "examples"
+        },
+        {
+          "prompt": "FELINE movements.",
+          "answers": [
+            "cat-like",
+            "clumsy",
+            "bird-like",
+            "secret",
+            "clever"
+          ],
+          "word": "FELINE",
+          "correct": "cat-like"
+        },
+        {
+          "prompt": "Ignored the CONTROVERSY.",
+          "answers": [
+            "charge",
+            "agreement",
+            "letter",
+            "dispute",
+            "punishment"
+          ],
+          "word": "CONTROVERSY",
+          "correct": "dispute"
+        },
+        {
+          "prompt": "The FOREMOST authority.",
+          "answers": [
+            "new",
+            "worst",
+            "chief",
+            "past",
+            "usual"
+          ],
+          "word": "FOREMOST",
+          "correct": "chief"
+        },
+        {
+          "prompt": "The place was HABITABLE.",
+          "answers": [
+            "typical",
+            "filthy",
+            "comfortable",
+            "livable",
+            "inexpensive"
+          ],
+          "word": "HABITABLE",
+          "correct": "livable"
+        },
+        {
+          "prompt": "FREAKISH appearance.",
+          "answers": [
+            "shy",
+            "common",
+            "stupid",
+            "odd",
+            "excited"
+          ],
+          "word": "FREAKISH",
+          "correct": "odd"
+        },
+        {
+          "prompt": "The IMMENSE building.",
+          "answers": [
+            "huge",
+            "narrow",
+            "dirty",
+            "noisy",
+            "crowded"
+          ],
+          "word": "IMMENSE",
+          "correct": "huge"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can a rowboat make a lot of HEADWAY during a storm?",
+          "word": "HEADWAY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a stamp collector ACCUMULATE stamps?",
+          "word": "ACCUMULATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people like to be GOUGED?",
+          "word": "GOUGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would it be helpful if you could ANTICIPATE what a teacher was going to ask on a test?",
+          "word": "ANTICIPATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does skipping pages increase a person's COMPREHENSION of a book?",
+          "word": "COMPREHEND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a shirt a piece of APPAREL?",
+          "word": "APPAREL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you always avoid a problem by CONFRONTING it?",
+          "word": "CONFRONT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a person CONGREGATE by himself?",
+          "word": "CONGREGATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would fifteen people in a phone booth be an INSTANCE of overcrowding?",
+          "word": "INSTANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a wild dog a FELINE?",
+          "word": "FELINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a person get angry during a CONTROVERSY?",
+          "word": "CONTROVERSY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would the FOREMOST students usually get poor grades?",
+          "word": "FOREMOST",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is Hawaii HABITABLE?",
+          "word": "HABITABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a two-legged person a FREAK?",
+          "word": "FREAKISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is an ant IMMENSE?",
+          "word": "IMMENSE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Although they have made some HEADWAY, scientists still have a long way to go in finding a cure for the disease.",
+          "word": "HEADWAY",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was ACCUMULATED by the police as a suspect in the robbery.",
+          "word": "ACCUMULATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "We GOUGED ourselves on donuts.",
+          "word": "GOUGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "I ANTICIPATE that there will be no problem in getting him to agree.",
+          "word": "ANTICIPATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She found it difficult to COMPREHEND the meaning of the poem.",
+          "word": "COMPREHEND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Among the APPAREL in the laboratory were test tubes and microscopes.",
+          "word": "APPAREL",
+          "correct": "false"
+        },
+        {
+          "prompt": "She CONFRONTED for him so that no one knew he had missed work.",
+          "word": "CONFRONT",
+          "correct": "false"
+        },
+        {
+          "prompt": "A flock of pigeons started to CONGREGATE around the bread crumbs.",
+          "word": "CONGREGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We saw many INSTANCES of poverty in the slums.",
+          "word": "INSTANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "With FELINE grace she jumped from rock to rock along the shore.",
+          "word": "FELINE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The whole town liked the CONTROVERSIAL plan to build a new police station.",
+          "word": "CONTROVERSY",
+          "correct": "false"
+        },
+        {
+          "prompt": "First and FOREMOST we must remember that other people are depending on us.",
+          "word": "FOREMOST",
+          "correct": "true"
+        },
+        {
+          "prompt": "A coat of paint helped to make the place a little more HABITABLE.",
+          "word": "HABITABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was a FREAKISH dream: I was sitting in an igloo playing the piano.",
+          "word": "FREAKISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "The diamond was IMMENSE; it was almost the size of a golf ball.",
+          "word": "IMMENSE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "HEADWAY",
+          "answers": [
+            "proof",
+            "continuation",
+            "advancement"
+          ],
+          "word": "HEADWAY",
+          "correct": "0"
+        },
+        {
+          "prompt": "ACCUMULATE",
+          "answers": [
+            "save",
+            "collect",
+            "need"
+          ],
+          "word": "ACCUMULATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "GOUGE",
+          "answers": [
+            "drop",
+            "cheat",
+            "cut"
+          ],
+          "word": "GOUGE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ANTICIPATE",
+          "answers": [
+            "recall",
+            "plan",
+            "foresee"
+          ],
+          "word": "ANTICIPATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "COMPREHEND",
+          "answers": [
+            "perceive",
+            "refuse",
+            "grasp"
+          ],
+          "word": "COMPREHEND",
+          "correct": "1"
+        },
+        {
+          "prompt": "APPAREL",
+          "answers": [
+            "umbrella",
+            "raincoat",
+            "boots"
+          ],
+          "word": "APPAREL",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONFRONT",
+          "answers": [
+            "challenge",
+            "follow",
+            "meet"
+          ],
+          "word": "CONFRONT",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONGREGATE",
+          "answers": [
+            "see",
+            "meet",
+            "gather"
+          ],
+          "word": "CONGREGATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INSTANCE",
+          "answers": [
+            "result",
+            "example",
+            "case"
+          ],
+          "word": "INSTANCE",
+          "correct": "0"
+        },
+        {
+          "prompt": "FELINE",
+          "answers": [
+            "polite",
+            "graceful",
+            "swift"
+          ],
+          "word": "FELINE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONTROVERSY",
+          "answers": [
+            "consideration",
+            "dispute",
+            "disagreement"
+          ],
+          "word": "CONTROVERSY",
+          "correct": "0"
+        },
+        {
+          "prompt": "FOREMOST",
+          "answers": [
+            "former",
+            "leading",
+            "front"
+          ],
+          "word": "FOREMOST",
+          "correct": "0"
+        },
+        {
+          "prompt": "HABITABLE",
+          "answers": [
+            "livable",
+            "inhabitable",
+            "usable"
+          ],
+          "word": "HABITABLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "FREAKISH",
+          "answers": [
+            "strange",
+            "abnormal",
+            "unhealthy"
+          ],
+          "word": "FREAKISH",
+          "correct": "2"
+        },
+        {
+          "prompt": "IMMENSE",
+          "answers": [
+            "large",
+            "wonderful",
+            "huge"
+          ],
+          "word": "IMMENSE",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

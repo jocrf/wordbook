@@ -1,0 +1,614 @@
+{
+  "title": "3.11",
+  "definitions": {
+    "TYRANT": {
+      "word": "TYRANT",
+      "phonetic": "(tl-rÔøΩnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a dictator, cruel ruler </p><p>A TYRANT is a person who seizes power in a country and then proceeds to rule in a very cruel and unfair way. A TYRANT is a <i class=“def-ital\">dictator</i>, a person whose word is law. </p><p>“The TYRANT grew wealthy by placing taxes on just about everything.” </p><p>“The people hated the TYRANT who ruled over them in such a cruel fashion.” </p><p>The word TYRANT is also used about any person who rules others unfairly. </p><p>“He thinks his mother is a TYRANT just because she won’t let him drive at night.” </p><p>Other forms of the word: TYRANNICAL, adj. TYRANNIZE, v. TYRANNY, n.</p>"
+    },
+    "RESIDE": {
+      "word": "RESIDE",
+      "phonetic": "(ri-zld')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to live, dwell </p><p>To RESIDE in a place is to live there, to have your home there. </p><p>“He RESIDES in Florida now.” </p><p>“She RESIDES in one state, but works in another.” </p><p>A RESIDENCE is a place where someone lives, a <i class=“def-ital\">home</i>, especially a large or dignified one. </p><p>“Their RESIDENCE is the brick house at the end of the street.” </p><p>It is also the act of RESIDING. </p><p>“After years of living in a house we took up RESIDENCE in an apartment.” </p><p>Other forms of the word: RESIDENCE, n. RESIDENTIAL, adj.</p>"
+    },
+    "IMMORTAL": {
+      "word": "IMMORTAL",
+      "phonetic": "(i-mort'-1)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">undying, deathless, lasting forever </p><p> The Latin word <i class=“def-ital\"><i class=“def-ital\">mors means death. It is the source of the words <i class=“def-ital\">mortal</i> and <i class=“def-ital\">mortality</i>. Someone or something that is IMMORTAL will not die, will last forever. The word is usually applied to people’s souls or to their actions and achievements. </p><p>“Patrick Henry said those IMMORTAL words, ‘Give me liberty or give me death!’” </p><p>“Everyone should read Shakespeare’s IMMORTAL plays.” </p><p>To IMMORTALIZE something is to make it last or be remembered forever. </p><p>“Longfellow’s poem IMMORTALIZED Paul Revere’s ride.” </p><p>Other forms of the word: IMMORTALITY, n. IMMORTALIZE, v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes and <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "PACT": {
+      "word": "PACT",
+      "phonetic": "(pakt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an agreement, compact </p><p>A PACT is an agreement between persons or groups. </p><p>“We made a PACT that neither of us would tell the secret.” </p><p>PACT is often used when referring to agreements or treaties between countries. </p><p>“The two nations signed a PACT that each would help the other in time of war.” </p><p>“The PACT limited the size of each nation’s army.”</p>"
+    },
+    "RECOIL": {
+      "word": "RECOIL",
+      "phonetic": "(ri-koyl')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to draw back, move backward, shrink </p><p> To RECOIL is to draw back or jump back, especially because of fear, horror, or disgust. </p><p>“I RECOILED when he offered to let me hold the spider.” </p><p>RECOIL does not always suggest an actual physical movement. You can RECOIL inwardly from something as well. </p><p>“They RECOILED in horror from the idea of visiting the haunted house.” </p><p>RECOIL is also used with regard to a gun kicking back when it is fired. </p><p>“He steadied himself so that he wouldn’t be knocked over when the rifle RECOILED.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "INFLICT": {
+      "word": "INFLICT",
+      "phonetic": "(in-flikt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to lay on, impose </p><p>To INFLICT something is to cause it to be suffered. You always INFLICT something unpleasant or painful, like damage or physical punishment. </p><p>“The bomb INFLICTED serious damage on the city.” </p><p>“The bully INFLICTED a terrible beating on him.” </p><p>Other forms of the word: INFLICTION, n. </p><p>Usage: INFLICT is usually used with <i class=“def-ital\">on</i>: to INFLICT something on someone.</p>"
+    },
+    "INTENTION": {
+      "word": "INTENTION",
+      "phonetic": "(in-ten'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">purpose, aim </p><p>INTEND means “to have in mind as something to be done.” </p><p>“I INTEND to go to the beach this summer.” </p><p>An INTENTION is something that you have in mind that you want to do, a <i class=“def-ital\">purpose</i> or <i class=“def-ital\">goal</i>. </p><p>“I have no INTENTION of watching television tonight.” </p><p>“His INTENTIONS were good, but he didn’t carry them out.” </p><p>“She announced her INTENTION to run for mayor in the next election.” </p><p>Many people think an INTENTION is a <i class=“def-ital\">wish</i>. The words are close in meaning, but INTENTION suggests a much stronger determination to do something. Anyone can wish to be famous, for example; but if it is your INTENTION, you are going to work hard to see that it happens. </p><p>Other forms of the word: INTEND, v. INTENTIONAL, adj.</p>"
+    },
+    "OBLIGATION": {
+      "word": "OBLIGATION",
+      "phonetic": "(ob-lÔøΩgA'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a duty, responsibility </p><p>An OBLIGATION is something that you must do (or not do). It is a duty that results from a law, a custom, a promise, or the like. </p><p>“He felt he had an OBLIGATION to help those less fortunate than he was.” </p><p>“You have an OBLIGATION to pay back the money I lent you.” </p><p>“He carried out his OBLIGATION to the company, and then felt he didn’t have to do anything more.” </p><p>“There is no OBLIGATION to buy anything. We just want you to try our product for ten days.” </p><p>Other forms of the word: OBLIGE, v.</p>"
+    },
+    "PORTRAY": {
+      "word": "PORTRAY",
+      "phonetic": "(por-trA')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to picture, describe, represent </p><p>To PORTRAY means “to make a picture of” someone or something. You can PORTRAY by painting. </p><p>“He PORTRAYED the queen as a beautiful young woman in the painting.” </p><p>Or you can PORTRAY in words. </p><p>“The king is PORTRAYED as a villain in this novel.” </p><p>Actors PORTRAY characters on stage; that is, they present a picture of the characters. </p><p>“She PORTRAYED Hamlet’s mother in the play.” </p><p>A PORTRAIT is a picture, particularly a painting of a person. </p><p>“Whistler painted a famous PORTRAIT of his mother.” </p><p>The most commonly chosen wrong answer in the Pretest item is <i class=“def-ital\">deceive</i>, probably because of confusion with <i class=“def-ital\">betray</i>. </p><p>Other forms of the word: PORTRAIT, n.</p>"
+    },
+    "STATIONARY": {
+      "word": "STATIONARY",
+      "phonetic": "(stA'-shÔøΩner-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unmoving, fixed in position </p><p>STATIONARY is related to the word STATION. Both come from a Latin word meaning to <i class=“def-ital\">stand</i>. One meaning of STATION is “a place where something or someone stands.” </p><p>“A guard should never leave his STATION.” </p><p>Something that is STATIONARY stands in one place; it cannot or does not move. </p><p>“Nothing was moving on the whole street. All the cars were STATIONARY.” </p><p>“These heavy machines are STATIONARY; once they are set in place they can’t be moved.”</p>"
+    },
+    "RENOVATE": {
+      "word": "RENOVATE",
+      "phonetic": "(ren'-ÔøΩvAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to restore, renew, revive </p><p> The <i class=“def-ital\">nov</i> part of the word comes from the Latin word for <i class=“def-ital\">new</i>, also the source of the words <i class=“def-ital\">novel</i> and <i class=“def-ital\">novelty</i>. To RENOVATE something is to make it new again. The word is usually applied to the restoring and repairing of old buildings so that they are like new again. </p><p>“We would like to RENOVATE our apartment. We want to fix it up completely.” </p><p>“The kitchen was old-fashioned and had to be RENOVATED before they could sell the house.” </p><p>Many people think RENOVATE means <i class=“def-ital\">tear down</i>, which means just about the opposite. </p><p>Other forms of the word: RENOVATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "SKETCHY": {
+      "word": "SKETCHY",
+      "phonetic": "(skech'-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">incomplete, like a SKETCH, without details </p><p>A SKETCH is an outline of something, a quick drawing, not the complete picture. Anything that is SKETCHY is like a SKETCH. It is incomplete, lacking in detail.  The word is used especially about understanding or information that is only vague and incomplete. </p><p>“Her understanding of algebra is somewhat SKETCHY.” </p><p>“He could only give us SKETCHY directions on how to get there.” </p><p>“We had only a SKETCHY idea of what the movie was supposed to be about.” </p><p>Other forms of the word: SKETCH, n., v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-y</i> under Suffixes."
+      ]
+    },
+    "TOPPLE": {
+      "word": "TOPPLE",
+      "phonetic": "(top'-ÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to fall, fall over; to push over, overturn </p><p>To TOPPLE is to <i class=“def-ital\">fall over</i>, especially from being too heavy on top. </p><p>“He piled the bricks so high that the stack TOPPLED.” </p><p>“The strong winds finally caused the tree to TOPPLE with a crash.” </p><p>To TOPPLE something is to push it over or overturn it. </p><p>“The mean boys TOPPLED the snowman we had just finished.” </p><p>The word is often used about the overthrowing of someone in a position of authority. </p><p>“The rebels TOPPLED the dictator’s government.”</p>"
+    },
+    "YEARN": {
+      "word": "YEARN",
+      "phonetic": "(yern)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to long, pine </p><p>To YEARN for something is to desire it strongly, usually with an eager or tender kind of feeling. </p><p>“He YEARNED for one last chance to see his native land.” </p><p>“Billy YEARNED to be a famous baseball player.” </p><p>“The prisoner YEARNED to be free.” </p><p>YEARNING is the noun from YEARN. A YEARNING is a longing or a strong desire. </p><p>“She felt a deep YEARNING to help humanity.” </p><p>“He never satisfied his YEARNING for more money.” </p><p>Other forms of the word: YEARNING, n.</p>"
+    },
+    "DRAB": {
+      "word": "DRAB",
+      "phonetic": "(drab)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dull, monotonous, uninteresting, colorless </p><p>Something that is DRAB is uninteresting, colorless, lifeless. </p><p>“His wife’s lovely personality lent color to his otherwise DRAB existence.” </p><p>The word DRAB is also used in a more specific sense to describe a dull, muddy brown or gray color. </p><p>“The DRAB color scheme of the room made it lifeless and uninviting.” </p><p>Many people think DRAB means <i class=“def-ital\">filthy</i>. Something may be colorless and dull, however, and still be perfectly clean.</p>"
+    }
+  },
+  "id": "11",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "He is the TYRANT.",
+          "answers": [
+            "dictator",
+            "priest",
+            "newcomer",
+            "president",
+            "teacher"
+          ],
+          "word": "TYRANT",
+          "correct": "dictator"
+        },
+        {
+          "prompt": "Where do they RESIDE?",
+          "answers": [
+            "meet",
+            "work",
+            "perform",
+            "live",
+            "travel"
+          ],
+          "word": "RESIDE",
+          "correct": "live"
+        },
+        {
+          "prompt": "IMMORTAL fame.",
+          "answers": [
+            "brief",
+            "undying",
+            "human",
+            "general",
+            "great"
+          ],
+          "word": "IMMORTAL",
+          "correct": "undying"
+        },
+        {
+          "prompt": "Understood the PACT.",
+          "answers": [
+            "crowd",
+            "argument",
+            "result",
+            "agreement",
+            "article"
+          ],
+          "word": "PACT",
+          "correct": "agreement"
+        },
+        {
+          "prompt": "To RECOIL suddenly.",
+          "answers": [
+            "draw back",
+            "give up",
+            "attack",
+            "fall down",
+            "turn"
+          ],
+          "word": "RECOIL",
+          "correct": "draw back"
+        },
+        {
+          "prompt": "INFLICT the punishment.",
+          "answers": [
+            "stop",
+            "lay on",
+            "escape",
+            "accept",
+            "ask for"
+          ],
+          "word": "INFLICT",
+          "correct": "lay on"
+        },
+        {
+          "prompt": "Understood his INTENTION.",
+          "answers": [
+            "wish",
+            "opposition",
+            "nervousness",
+            "demand",
+            "purpose"
+          ],
+          "word": "INTENTION",
+          "correct": "purpose"
+        },
+        {
+          "prompt": "Clear OBLIGATION.",
+          "answers": [
+            "right",
+            "duty",
+            "statement",
+            "opportunity",
+            "command"
+          ],
+          "word": "OBLIGATION",
+          "correct": "duty"
+        },
+        {
+          "prompt": "To PORTRAY him.",
+          "answers": [
+            "deceive",
+            "forget",
+            "picture",
+            "meet",
+            "talk to"
+          ],
+          "word": "PORTRAY",
+          "correct": "picture"
+        },
+        {
+          "prompt": "STATIONARY vehicles.",
+          "answers": [
+            "official",
+            "speedy",
+            "unmoving",
+            "temporary",
+            "broken"
+          ],
+          "word": "STATIONARY",
+          "correct": "unmoving"
+        },
+        {
+          "prompt": "RENOVATE the building.",
+          "answers": [
+            "clean",
+            "tear down",
+            "sell",
+            "leave",
+            "restore"
+          ],
+          "word": "RENOVATE",
+          "correct": "restore"
+        },
+        {
+          "prompt": "SKETCHY knowledge.",
+          "answers": [
+            "new",
+            "growing",
+            "incomplete",
+            "forgotten",
+            "misleading"
+          ],
+          "word": "SKETCHY",
+          "correct": "incomplete"
+        },
+        {
+          "prompt": "They TOPPLED the statue.",
+          "answers": [
+            "pushed over",
+            "set up",
+            "finished",
+            "marked",
+            "destroyed"
+          ],
+          "word": "TOPPLE",
+          "correct": "pushed over"
+        },
+        {
+          "prompt": "To YEARN for it.",
+          "answers": [
+            "work",
+            "wait",
+            "plan",
+            "long",
+            "come"
+          ],
+          "word": "YEARN",
+          "correct": "long"
+        },
+        {
+          "prompt": "DRAB rugs.",
+          "answers": [
+            "colorless",
+            "tom",
+            "striped",
+            "bright",
+            "filthy"
+          ],
+          "word": "DRAB",
+          "correct": "colorless"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is a TYRANT cruel?",
+          "word": "TYRANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people often RESIDE in factories?",
+          "word": "RESIDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are you IMMORTAL?",
+          "word": "IMMORTAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can countries make PACTS with one another?",
+          "word": "PACT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do you like something that makes you RECOIL?",
+          "word": "RECOIL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it possible to INFLICT damage on a car if you hit it with a hammer?",
+          "word": "INFLICT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does an INTENTION have to do with the future?",
+          "word": "INTENTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do parents have an OBLIGATION to care for their children?",
+          "word": "OBLIGATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you PORTRAY a person in a story?",
+          "word": "PORTRAY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a jet STATIONARY when it is in the air?",
+          "word": "STATIONARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a brand new building have been RENOVATED?",
+          "word": "RENOVATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people want to go to a doctor who has a SKETCHY knowledge of medicine?",
+          "word": "SKETCHY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would it be difficult to TOPPLE a mountain?",
+          "word": "TOPPLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most people YEARN for happiness?",
+          "word": "YEARN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are rainbows DRAB?",
+          "word": "DRAB",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "At work he was mild and kind, but at home he was an unjust TYRANT to his children.",
+          "word": "TYRANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "After living in a cottage all summer, he returned to his permanent RESIDENCE.",
+          "word": "RESIDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Mona Lisa was IMMORTALIZED in Leonardo Da Vinci's painting.",
+          "word": "IMMORTAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "The heavy PACT was almost impossible to carry.",
+          "word": "PACT",
+          "correct": "false"
+        },
+        {
+          "prompt": "He RECOILED at the thought of eating raw oysters.",
+          "word": "RECOIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "I have never been so INFLICTED in my life as when I heard that we had won the lottery.",
+          "word": "INFLICT",
+          "correct": "false"
+        },
+        {
+          "prompt": "I INTEND to go to Europe some day, no matter how much it costs.",
+          "word": "INTENTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "I have no OBLIGATION to help you do your homework.",
+          "word": "OBLIGATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "The actor PORTRAYED a character who loved money more than anything else.",
+          "word": "PORTRAY",
+          "correct": "true"
+        },
+        {
+          "prompt": "We bolted the wobbly table to the wall so that it would remain STATIONARY.",
+          "word": "STATIONARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The landlord called in a wrecking crew to RENOVATE the building.",
+          "word": "RENOVATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Her SKETCHY voice was very unpleasant to listen to.",
+          "word": "SKETCHY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The ice cream was TOPPLED with a chocolate sauce.",
+          "word": "TOPPLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Mrs. Jones YEARNED to see her children.",
+          "word": "YEARN",
+          "correct": "true"
+        },
+        {
+          "prompt": "She bought new curtains to brighten up the DRAB room.",
+          "word": "DRAB",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "TYRANT",
+          "answers": [
+            "dictator",
+            "soldier",
+            "oppressor"
+          ],
+          "word": "TYRANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "RESIDE",
+          "answers": [
+            "sleep",
+            "live",
+            "dwell"
+          ],
+          "word": "RESIDE",
+          "correct": "0"
+        },
+        {
+          "prompt": "IMMORTAL",
+          "answers": [
+            "endless",
+            "deathless",
+            "useless"
+          ],
+          "word": "IMMORTAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "PACT",
+          "answers": [
+            "agreement",
+            "refusal",
+            "treaty"
+          ],
+          "word": "PACT",
+          "correct": "1"
+        },
+        {
+          "prompt": "RECOIL",
+          "answers": [
+            "shove",
+            "shrink",
+            "flinch"
+          ],
+          "word": "RECOIL",
+          "correct": "0"
+        },
+        {
+          "prompt": "INFLICT",
+          "answers": [
+            "harm",
+            "tighten",
+            "destroy"
+          ],
+          "word": "INFLICT",
+          "correct": "1"
+        },
+        {
+          "prompt": "INTENTION",
+          "answers": [
+            "goal",
+            "aim",
+            "need"
+          ],
+          "word": "INTENTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "OBLIGATION",
+          "answers": [
+            "must",
+            "duty",
+            "choice"
+          ],
+          "word": "OBLIGATION",
+          "correct": "2"
+        },
+        {
+          "prompt": "PORTRAY",
+          "answers": [
+            "paint",
+            "describe",
+            "hear"
+          ],
+          "word": "PORTRAY",
+          "correct": "2"
+        },
+        {
+          "prompt": "STATIONARY",
+          "answers": [
+            "standing",
+            "unattached",
+            "motionless"
+          ],
+          "word": "STATIONARY",
+          "correct": "1"
+        },
+        {
+          "prompt": "RENOVATE",
+          "answers": [
+            "relieve",
+            "repair",
+            "rebuild"
+          ],
+          "word": "RENOVATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SKETCHY",
+          "answers": [
+            "vague",
+            "imperfect",
+            "ancient"
+          ],
+          "word": "SKETCHY",
+          "correct": "2"
+        },
+        {
+          "prompt": "TOPPLE",
+          "answers": [
+            "push",
+            "climb",
+            "fall"
+          ],
+          "word": "TOPPLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "YEARN",
+          "answers": [
+            "hope",
+            "expect",
+            "desire"
+          ],
+          "word": "YEARN",
+          "correct": "1"
+        },
+        {
+          "prompt": "DRAB",
+          "answers": [
+            "old",
+            "gray",
+            "dull"
+          ],
+          "word": "DRAB",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -7,6 +7,23 @@ import Breadcrumb from '../Breadcrumb';
 import { urlPrefix } from '../API';
 
 export default class App extends Component {
+  constructor (props) {
+    super(props);
+    this.setStorageState = this.setStorageState.bind(this);
+    this.state = {
+      declinedStorage: false,
+      useStorage: false
+    };
+  }
+
+  setStorageState (bool) {
+    if (bool) {
+      this.setState({ useStorage: true });
+    } else {
+      this.setState({ declinedStorage: true });
+    }
+  }
+
   render () {
     return (
       <main className='container bg-secondary min-vh-100'>
@@ -30,7 +47,11 @@ export default class App extends Component {
         <Route path='/:learning?/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?' component={Breadcrumb} />
         <Route exact path='/' component={Home} />
         <Route path='/placement' component={PlacementPage} />
-        <Route path='/learning' component={LearningPage} />
+        <Route path='/learning' render={() => <LearningPage
+          declinedStorage={this.state.declinedStorage}
+          setStorageState={this.setStorageState}
+          useStorage={this.state.useStorage}
+        />} />
       </main>
     );
   }

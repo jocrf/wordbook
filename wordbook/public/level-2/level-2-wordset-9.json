@@ -1,0 +1,611 @@
+{
+  "title": "2.9",
+  "definitions": {
+    "STRIVE": {
+      "word": "STRIVE",
+      "phonetic": "(strlv)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to attempt, contend, struggle </p><p>To STRIVE is to put out great effort or energy in working or competing. The word suggests that what you are trying to do is difficult and that there are obstacles in the way of success. </p><p>“We must all STRIVE to do the best job we can.” </p><p>“They STROVE against impossible odds to reach the trapped miners.” </p><p>“The two of them STROVE to see who would win the prize.” </p><p>“You should STRIVE to understand the other person’s point of view.” </p><p>Usage: The past tense of STRIVE is STROVE.</p>"
+    },
+    "IMPULSE": {
+      "word": "IMPULSE",
+      "phonetic": "(im'-puhls)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an urge, sudden desire </p><p>The basic meaning of IMPULSE is a <i class=“def-ital\">push</i> or <i class=“def-ital\">thrust</i>. When used about people, it refers to an urge or feeling which pushes someone to act in a certain way. </p><p>“He is always helping people. He has an IMPULSE to do good.” </p><p>The word usually suggests that this urge or feeling is sudden and not thought out. </p><p>“He decided on an IMPULSE to take a trip to Hawaii.” </p><p>“He acts on IMPULSE and regrets it later.” </p><p>Someone who is always acting on IMPULSE is IMPULSIVE. </p><p>“She is an IMPULSIVE shopper. If something looks good to her, she buys it right away.” </p><p>ssOther forms of the word: IMPULSIVE, adj.</p>"
+    },
+    "DETECT": {
+      "word": "DETECT",
+      "phonetic": "(di-tekt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to discover, find, find out </p><p>To DETECT something is to discover it, to find out that it exists or is present. </p><p>“You can’t DETECT these germs unless you look through a microscope.\"</p><p>“She DETECTED the odor of leaking gas in the basement.” </p><p>“Didn’t you DETECT something wrong in the way he was walking?” </p><p>A DETECTIVE is someone whose job is to uncover facts about a person or an event. DETECTION is the act of DETECTING. </p><p>“Early DETECTION of the disease enables doctors to cure it completely.” </p><p>Other forms of the word: DETECTION, n. DETECTIVE, n.</p>"
+    },
+    "DISREGARD": {
+      "word": "DISREGARD",
+      "phonetic": "(dis-ri-gahrd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to ignore, neglect </p><p>To regard something is to notice it, to pay attention to it. To DISREGARD something is to pay no attention or give no thought to it.  </p><p>“He DISREGARDED his own safety in order to save the others.” </p><p>“She DISREGARDED the ‘No Trespassing’ sign and went into the building anyway.” </p><p>“We DISREGARDED the other team’s insults.” </p><p>DISREGARD is also a noun, meaning “lack of attention,” neglect. </p><p>“The rude stranger showed a complete DISREGARD for the rights of others.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    },
+    "HARNESS": {
+      "word": "HARNESS",
+      "phonetic": "(hahr'-nÔøΩs",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">hahr’-nis) v.: to put to work, use, control </p><p>A HARNESS is the equipment which is put on a horse to attach him to a wagon or plow so that he can pull it. Thus, to HARNESS something is to get control of it so that you can put it to work for you. “Will we be able to HARNESS the energy of the sun?” </p><p>“He was a good writer, but he could never quite HARNESS his wild imagination.” </p><p>“They HARNESSED the power of the waterfall to produce cheap electricity.”</p>"
+    },
+    "DISSECT": {
+      "word": "DISSECT",
+      "phonetic": "(di-sekt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cut apart, examine, analyze </p><p> The <i class=“def-ital\">sec</i> part of DISSECT comes from a Latin word meaning to<i class=“def-ital\">cut</i>. It is also found in words like intersect and section. DISSECT means to cut apart, especially the parts of an animal or plant in order to study them. </p><p>“In biology class we had to DISSECT a frog in order to learn about the workings of the body.” </p><p>In a broader sense, DISSECT can mean “to examine and analyze in detail,” the way a scientist would in DISSECTING an animal. </p><p>“The critic DISSECTED the author’s theory and showed just how silly it was.” </p><p>Other forms of the word: DISSECTION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    },
+    "INFURIATE": {
+      "word": "INFURIATE",
+      "phonetic": "(in-fyUr'-E-At)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to anger, enrage, madden </p><p> FURY is violent anger, rage. To INFURIATE someone is to fill him with FURY. </p><p>“The coach’s decision to cut Bill from the team INFU- RIATED him.” </p><p>“I am INFURIATED by people who don’t know what they are doing.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-</i> under Prefixes, and <i class=“def-ital\">-ate</i> under Suffixes."
+      ]
+    },
+    "MOBILE": {
+      "word": "MOBILE",
+      "phonetic": "(mO'-bÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">able to move or change easily </p><p>MOBILE means “able to move quickly or easily.” </p><p>A MOBILE home is a house which can be moved from place to place. </p><p>“They put wheels on the table so that it would be more MOBILE.” </p><p>“Their repair crews were very MOBILE. They could go to any part of the country on a moment’s notice.” </p><p>The noun from MOBILE is MOBILITY. </p><p>“She has lost all her MOBILITY since she broke her ankle.” </p><p>Other forms of the word: MOBILITY, n.</p>"
+    },
+    "SOOTHE": {
+      "word": "SOOTHE",
+      "phonetic": "(sUTH)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to calm, quiet, comfort, relieve </p><p>SOOTHE means “to give relief or comfort to,” to calm or quiet. You can SOOTHE a sorrow or a physical pain. </p><p>“She SOOTHED the sick child with a lullaby.” </p><p>“Cough drops help to SOOTHE a sore throat.” </p><p>“He found that listening to music helped to SOOTHE his mind.” </p><p>“He SOOTHED the nervous horse by speaking quietly and calmly.” </p><p>Other forms of the word: SOOTHING, adj.</p>"
+    },
+    "MOURN": {
+      "word": "MOURN",
+      "phonetic": "(morn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to feel sorrow, grieve </p><p>To MOURN is to feel a deep sorrow, often over a person’s death. </p><p>“Everyone MOURNED when they heard he had died.” </p><p>“The team MOURNED the loss of its captain.” </p><p>You can MOURN other things besides death. </p><p>“He MOURNED the passing of so many nice old customs.” </p><p>MOURNING is the act of someone who MOURNS. To be in MOURNING is to feel deep sorrow and to express it by wearing black clothing, for example, or by flying flags at half mast. </p><p>“The whole nation was in MOURNING when the President died.\"</p><p> The most commonly chosen wrong answer in the Pretest is <i class=“def-ital\">complain</i>. <i class=“def-ital\">Complain</i> is used about things that annoy you; MOURN would only be used about events that cause you great unhappiness. </p><p>Other forms of the word: MOURNING, n.</p>"
+    },
+    "STABLE": {
+      "word": "STABLE",
+      "phonetic": "(stA'-bÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">solid, firm, steady Something that is </p><p>STABLE is unlikely to move; it is so firmly fixed in place that it is hard to change. STABLE is used about things and qualities. </p><p>“His house was so STABLE and well built that it survived the earthquake.” </p><p>“The price of meat remained STABLE for some time.” </p><p>“She was a very STABLE person. You could count on her never to do anything foolish or unexpected.” </p><p>The verb form of STABLE is STABILIZE. To STABILIZE means to make or become steady. </p><p>“The government tried to STABILIZE prices.” </p><p>“They developed a new way of STABILIZING small boats.” </p><p>Other forms of the word: STABILIZE, v. </p><p>STABILITY, n.</p>"
+    },
+    "SWINDLE": {
+      "word": "SWINDLE",
+      "phonetic": "(swin'-dÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cheat, trick </p><p>To SWINDLE someone is to <i class=“def-ital\">cheat <i class=“def-ital\">or <i class=“def-ital\">trick</i> him in order to get money. </p><p>“The investors were SWINDLED out of thousands of dollars by the scheme.” </p><p>“Confidence men make their living by SWINDLING unsuspecting people.” </p><p>SWINDLE is also a noun which means “an act of cheating, trickery, or fraud.” </p><p>“He was involved in a SWINDLE which cheated many people out of their hard-earned money.”</p>"
+    },
+    "ABUNDANT": {
+      "word": "ABUNDANT",
+      "phonetic": "(ÔøΩbuhn'-dÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">plentiful </p><p>ABUNDANT means “more than enough,” <i class=“def-ital\">plentiful</i>. </p><p>“We have an ABUNDANT supply of food in the cabin for the winter.” </p><p>“There is ABUNDANT rain in this area; it’s good farmland.” </p><p>The noun form, ABUNDANCE, means a <i class=“def-ital\">great supply, plenty</i>. </p><p>“The library has an ABUNDANCE of books.” </p><p>“There used to be an ABUNDANCE offish in this river; now there are none.” </p><p>Other forms of the word: ABUNDANCE, n.</p>"
+    },
+    "STRIDE": {
+      "word": "STRIDE",
+      "phonetic": "(strld)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a long step </p><p>A STRIDE is a single long step. A STRIDE is also the distance covered in a long step. </p><p>“He crossed the room in several STRIDES.” </p><p>“They were only a few STRIDES away from the finish line.” </p><p>STRIDE is also a verb. To STRIDE is to take long steps, especially in an energetic manner. </p><p>“They STRIDE quickly through the dark streets.” </p><p>“Yesterday he STRODE up to the teacher and asked to speak with her.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">leap</i>, which is close to the meaning of STRIDE, but not the same. </p><p>Usage: The past tense of STRIDE is STRODE.</p>"
+    },
+    "TRIBUTE": {
+      "word": "TRIBUTE",
+      "phonetic": "(trib'-yUt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an honor, gift; payment, taxation </p><p>A TRIBUTE is an honor or gift given to somebody to show respect or give thanks. </p><p>“With a charming speech, she accepted the TRIBUTE to her skill.” </p><p>“This statue is a TRIBUTE to the memory of soldiers who have fallen in war.” </p><p>TRIBUTE is often used in the phrase “to pay TRIBUTE,” which means to <i class=“def-ital\">give honor</i>. </p><p>“We gathered to pay TRIBUTE to the man who founded our company fifty years ago.” </p><p>TRIBUTE also means a kind of payment or taxation a conqueror gets from those he has conquered. “The king set the yearly TRIBUTE from the town at a hundred gold pieces.” </p><p>Usage: TRIBUTE, when it means honor or gift, is usually followed by to.</p>"
+    }
+  },
+  "id": "9",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "STRIVE to improve.",
+          "answers": [
+            "arrange",
+            "prepare",
+            "fail",
+            "manage",
+            "attempt"
+          ],
+          "word": "STRIVE",
+          "correct": "attempt"
+        },
+        {
+          "prompt": "Another IMPULSE.",
+          "answers": [
+            "decision",
+            "sacrifice",
+            "urge",
+            "move",
+            "order"
+          ],
+          "word": "IMPULSE",
+          "correct": "urge"
+        },
+        {
+          "prompt": "To DETECT the problem.",
+          "answers": [
+            "cause",
+            "solve",
+            "hide",
+            "discover",
+            "avoid"
+          ],
+          "word": "DETECT",
+          "correct": "discover"
+        },
+        {
+          "prompt": "DISREGARD them.",
+          "answers": [
+            "protect",
+            "oppose",
+            "notice",
+            "ignore",
+            "insult"
+          ],
+          "word": "DISREGARD",
+          "correct": "ignore"
+        },
+        {
+          "prompt": "Tried to HARNESS it.",
+          "answers": [
+            "control",
+            "buy",
+            "destroy",
+            "increase",
+            "loosen"
+          ],
+          "word": "HARNESS",
+          "correct": "control"
+        },
+        {
+          "prompt": "DISSECT the animal.",
+          "answers": [
+            "cure",
+            "look over",
+            "cut apart",
+            "wash",
+            "kill"
+          ],
+          "word": "DISSECT",
+          "correct": "cut apart"
+        },
+        {
+          "prompt": "He INFURIATES me.",
+          "answers": [
+            "injures",
+            "angers",
+            "tolerates",
+            "comforts",
+            "hates"
+          ],
+          "word": "INFURIATE",
+          "correct": "angers"
+        },
+        {
+          "prompt": "They are MOBILE.",
+          "answers": [
+            "stuck fast",
+            "angry",
+            "coming soon",
+            "grand",
+            "easily moved"
+          ],
+          "word": "MOBILE",
+          "correct": "easily moved"
+        },
+        {
+          "prompt": "Her reply SOOTHED him.",
+          "answers": [
+            "touched",
+            "pleased",
+            "angered",
+            "calmed",
+            "impressed"
+          ],
+          "word": "SOOTHE",
+          "correct": "calmed"
+        },
+        {
+          "prompt": "Why do they MOURN?",
+          "answers": [
+            "feel sorrow",
+            "dance",
+            "suffer",
+            "fall asleep",
+            "complain"
+          ],
+          "word": "MOURN",
+          "correct": "feel sorrow"
+        },
+        {
+          "prompt": "STABLE structures.",
+          "answers": [
+            "chief",
+            "solid",
+            "thick",
+            "unsteady",
+            "large"
+          ],
+          "word": "STABLE",
+          "correct": "solid"
+        },
+        {
+          "prompt": "They SWINDLED me.",
+          "answers": [
+            "tickled",
+            "attacked",
+            "assisted",
+            "cheated",
+            "covered"
+          ],
+          "word": "SWINOLE",
+          "correct": "cheated"
+        },
+        {
+          "prompt": "ABUNDANT ideas.",
+          "answers": [
+            "difficult",
+            "several",
+            "plentiful",
+            "rare",
+            "repeated"
+          ],
+          "word": "ABUNDANT",
+          "correct": "plentiful"
+        },
+        {
+          "prompt": "Quick STRIDES.",
+          "answers": [
+            "steps",
+            "cuts",
+            "signals",
+            "leaps",
+            "turns"
+          ],
+          "word": "STRIDE",
+          "correct": "steps"
+        },
+        {
+          "prompt": "Unusual TRIBUTE.",
+          "answers": [
+            "honor",
+            "help",
+            "shame",
+            "bravery",
+            "friendship"
+          ],
+          "word": "TRIBUTE",
+          "correct": "honor"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a baseball team STRIVE to win a game?",
+          "word": "STRIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does an IMPULSIVE person give careful thought to something before doing it?",
+          "word": "IMPULSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would it be hard to DETECT an elephant if it were in the same room with you?",
+          "word": "DETECT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a police officer give someone a ticket for DISREGARDING a stop sign?",
+          "word": "DISREGARD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it possible to HARNESS the power of electricity?",
+          "word": "HARNESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can only animals be DISSECTED?",
+          "word": "DISSECT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does getting a present INFURIATE most people?",
+          "word": "INFURIATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a MOBILE person faster than a person who isn't MOBILE?",
+          "word": "MOBILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an explosion SOOTHE a nervous person?",
+          "word": "SOOTHE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a person MOURN the death of a pet?",
+          "word": "MOURN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is the ground STABLE during an earthquake?",
+          "word": "STABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it fun to be SWINDLED?",
+          "word": "SWINOLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is water found in ABUNDANCE in a desert?",
+          "word": "ABUNDANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do newborn babies know how to STRIDE?",
+          "word": "STRIDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you pay TRIBUTE to a person by insulting him?",
+          "word": "TRIBUTE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Ann STROVE to get there on time, but couldn't quite make it.",
+          "word": "STRIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He gave in to the IMPULSE to skip class and go to the ball game.",
+          "word": "IMPULSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They wanted to DETECT him, but he wouldn't let them inside.",
+          "word": "DETECT",
+          "correct": "false"
+        },
+        {
+          "prompt": "She is honored by all for her devoted DISREGARD for her parents.",
+          "word": "DISREGARD",
+          "correct": "false"
+        },
+        {
+          "prompt": "The hoodlums HARNESSED us so much that we had to call the police.",
+          "word": "HARNESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "She used soap and water to DISSECT the walls.",
+          "word": "DISSECT",
+          "correct": "false"
+        },
+        {
+          "prompt": "She was INFURIATED at having to miss the circus in order to mind her baby brother.",
+          "word": "INFURIATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Giving all you own to the poor was the most MOBILE thing you could have done.",
+          "word": "MOBILE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He SOOTHED the child's scraped knee with a cold compress.",
+          "word": "SOOTHE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He MOURNED them that no good would come of it.",
+          "word": "MOURN",
+          "correct": "false"
+        },
+        {
+          "prompt": "They tried to STABILIZE the table by cutting an inch off one of the legs.",
+          "word": "STABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "At the break of dawn the enemy SWINDLED us, leaving four men injured.",
+          "word": "SWINDLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Because of the heavy rains there was an ABUNDANT supply of water.",
+          "word": "ABUNDANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Each child took a short STRIDE around the block on the pony.",
+          "word": "STRIDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "There was a moment of silence before the game as a TRIBUTE to the player who had just died.",
+          "word": "TRIBUTE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "STRIVE",
+          "answers": [
+            "try",
+            "work",
+            "wonder"
+          ],
+          "word": "STRIVE",
+          "correct": "2"
+        },
+        {
+          "prompt": "IMPULSE",
+          "answers": [
+            "urge",
+            "memory",
+            "desire"
+          ],
+          "word": "IMPULSE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DETECT",
+          "answers": [
+            "spot",
+            "notice",
+            "remember"
+          ],
+          "word": "DETECT",
+          "correct": "2"
+        },
+        {
+          "prompt": "DISREGARD",
+          "answers": [
+            "neglect",
+            "dislike",
+            "disobey"
+          ],
+          "word": "DISREGARD",
+          "correct": "1"
+        },
+        {
+          "prompt": "HARNESS",
+          "answers": [
+            "control",
+            "support",
+            "use"
+          ],
+          "word": "HARNESS",
+          "correct": "1"
+        },
+        {
+          "prompt": "DISSECT",
+          "answers": [
+            "examine",
+            "cut",
+            "display"
+          ],
+          "word": "DISSECT",
+          "correct": "2"
+        },
+        {
+          "prompt": "INFURIATE",
+          "answers": [
+            "enrage",
+            "upset",
+            "disobey"
+          ],
+          "word": "INFURIATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "MOBILE",
+          "answers": [
+            "active",
+            "athletic",
+            "excited"
+          ],
+          "word": "MOBILE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SOOTHE",
+          "answers": [
+            "comfort",
+            "soften",
+            "thrill"
+          ],
+          "word": "SOOTHE",
+          "correct": "2"
+        },
+        {
+          "prompt": "MOURN",
+          "answers": [
+            "pain",
+            "sorrow",
+            "grieve"
+          ],
+          "word": "MOURN",
+          "correct": "0"
+        },
+        {
+          "prompt": "STABLE",
+          "answers": [
+            "firm",
+            "unchanging",
+            "large"
+          ],
+          "word": "STABLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SWINDLE",
+          "answers": [
+            "cheat",
+            "steal",
+            "murder"
+          ],
+          "word": "SWINDLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ABUNDANT",
+          "answers": [
+            "many",
+            "scarce",
+            "enough"
+          ],
+          "word": "ABUNDANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "STRIDE",
+          "answers": [
+            "step",
+            "pace",
+            "kick"
+          ],
+          "word": "STRIDE",
+          "correct": "2"
+        },
+        {
+          "prompt": "TRIBUTE",
+          "answers": [
+            "praise",
+            "enjoyment",
+            "tax"
+          ],
+          "word": "TRIBUTE",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

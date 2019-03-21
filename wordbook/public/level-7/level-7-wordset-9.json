@@ -1,0 +1,605 @@
+{
+  "title": "7.9",
+  "definitions": {
+    "HAPLESS": {
+      "word": "HAPLESS",
+      "phonetic": "(hap'-lÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unlucky, unfortunate </p><p>The <i class=“def-ital\">hap</i> part of HAPLESS comes from an archaic word related to the word <i class=“def-ital\">happen</i>. <i class=“def-ital\">Hap</i> once meant <i class=“def-ital\">chance</i> or <i class=“def-ital\">fortune</i>. Someone who is HAPLESS does not have good fortune; he is completely unlucky. </p><p>“The HAPLESS woman broke her leg on the way home from the hospital.” </p><p>“The HAPLESS basketball team never seemed to get a break from the referees during its losing streak.” </p><p><i class=“def-ital\">Useless</i> is the most common wrong answer on the Pretest, perhaps because HAPLESS looks like <i class=“def-ital\">helpless</i> or <i class=“def-ital\">hopeless</i>.</p>"
+    },
+    "INCULCATE": {
+      "word": "INCULCATE",
+      "phonetic": "(in-kÔøΩl'-kAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to instill, implant, teach earnestly </p><p>INCULCATE comes from a Latin word meaning to <i class=“def-ital\">trample in</i>. To INCULCATE something is to teach it or impress it upon someone by persistent repetitions, so that it becomes deeply implanted in his mind. The word is usually used with <i class=“def-ital\">in</i> or <i class=“def-ital\">into</i>. </p><p>“It proved to be impossible to INCULCATE any sense of discipline into those boys.” </p><p>“The teacher tried to INCULCATE a love of language in her students.” </p><p>“From her earliest years, Deborah had been INCULCATED with a stern code of ethics.”</p>"
+    },
+    "INFINITESIMAL": {
+      "word": "INFINITESIMAL",
+      "phonetic": "(in-fin-ÔøΩtes'-ÔøΩmÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">tiny, minute, immeasurably small </p><p>INFINITESIMAL is related to the word <i class=“def-ital\">infinite</i>. The words, however, are almost completely opposite in meaning. <i class=“def-ital\">Infinite</i> means <i class=“def-ital\">endless</i>, “having no limits.” INFINITESIMAL means “extremely minute, immeasurably small.” </p><p>“These INFINITESIMAL subatomic particles can be detected only by the most powerful electron microscopes.” </p><p>The confusion between <i class=“def-ital\">infinite</i> and INFINITESIMAL illustrates the difficulty of figuring out a word’s meaning by breaking it down into its parts, without seeing it in context. The person who is familiar with the contexts in which INFINITESIMAL is used would not be likely to think it means <i class=“def-ital\">endless</i>.</p>"
+    },
+    "NOXIOUS": {
+      "word": "NOXIOUS",
+      "phonetic": "(nok'-shÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">harmful,injurious, destructive, deleterious, detrimental </p><p>NOXIOUS and <i class=“def-ital\">obnoxious</i> both come from a Latin word meaning <i class=“def-ital\">harm</i> or <i class=“def-ital\">damage</i>. <i class=“def-ital\">Obnoxious</i> now simply means <i class=“def-ital\">offensive</i>, <i class=“def-ital\">disagreeable</i>. NOXIOUS is a stronger word, and keeps the original sense of actual harm. Something that is NOXIOUS is harmful to the body or the mind, to health or morals. </p><p>“The NOXIOUS fumes of the chemical plant sent twenty people to the hospital.” </p><p>“Several studies have documented the NOXIOUS effects on children of watching too much television.” </p><p>“These NOXIOUS ideas have no place in our educational system.”</p>"
+    },
+    "PARSIMONIOUS": {
+      "word": "PARSIMONIOUS",
+      "phonetic": "(pahr-sÔøΩmO'-nE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">stingy, niggardly </p><p>PARSIMONY is excessive thrift, extreme frugality. PARSIMONIOUS is the adjective from PARSIMONY; see <i class=“def-ital\">-ous</i> under Suffixes. PARSIMONIOUS and <i class=“def-ital\">stingy</i> are quite close in meaning, but there is a slight difference. <i class=“def-ital\">Stingy</i> suggests a mean-spirited unwillingness to share what one has. PARSIMONIOUS is not usually quite so negative; it would be used more of a person who carries the virtue of thrift or economy to extremes. </p><p>“The rich man was so PARSIMONIOUS that he picked through other people’s trash looking for clothing he might wear.” </p><p>“They accused Jill of being PARSIMONIOUS when she wouldn’t buy a ticket to the concert, but she said thirty dollars was far too much to spend.” </p><p><i class=“def-ital\">Generous</i>, an opposite of PARSIMONIOUS, is the most common wrong answer on the Pretest item. </p><p>Other forms of the word: PARSIMONY, n.</p>"
+    },
+    "POTABLE": {
+      "word": "POTABLE",
+      "phonetic": "(pOt'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">drinkable, fit to drink </p><p>POTABLE means “fit to drink,” <i class=“def-ital\">drinkable</i>. It is sometimes used as a noun and applied to beverages; they are referred to as POTABLES. </p><p>“The army scout knew that the water in the algae-covered pond was not POTABLE.” </p><p>“My mother makes coffee so thick and bitter it is hardly POTABLE.”</p>"
+    },
+    "VOCIFEROUS": {
+      "word": "VOCIFEROUS",
+      "phonetic": "(vO-sif'-ÔøΩr-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">clamorous, boisterous, strident </p><p>The <i class=“def-ital\">voe</i> part of VOCIFEROUS comes from the Latin word for <i class=“def-ital\">voice</i>, also the source of <i class=“def-ital\">vocal</i> and <i class=“def-ital\">advocate</i>. VOCIFEROUS people are always ready to use their voices, particularly to demand or object. </p><p>“The VOCIFEROUS fans at the boxing match let the fighters know they were displeased with the action.” </p><p>“One VOCIFEROUS parent objected strongly to everything the principal said.” </p><p>“Bowing to the children’s VOCIFEROUS entreaties, their parents let them stay up to watch the special TV program.”</p>"
+    },
+    "ABJECT": {
+      "word": "ABJECT",
+      "phonetic": "(ab'-jekt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wretched, humiliating; contemptible, despicable </p><p>ABJECT means “extremely low in position, degree, or worth.” Sometimes it has the sense of <i class=“def-ital\">wretched</i>, <i class=“def-ital\">hopeless</i>. </p><p>“They lived in ABJECT poverty, without a cent to their name.” </p><p>“The ABJECT squalor of the apartment sickened us.” </p><p>The word often has a negative or disparaging sense and means <i class=“def-ital\">contemptible</i>. </p><p>“The general’s ABJECT cowardice was disgraceful.”</p>"
+    },
+    "BLITHE": {
+      "word": "BLITHE",
+      "phonetic": "(bllth)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">joyful, glad, cheerful; carefree, casual, heedless </p><p>BLITHE means <i class=“def-ital\">joyful</i>, <i class=“def-ital\">merry</i>, <i class=“def-ital\">gay</i>. It suggests a lighthearted, carefree kind of joy, like that of a child. </p><p>“Nothing could upset the BLITHE young couple during the first months of their marriage.” </p><p>“The BLITHE days of summer vacation were over, and now they had to face school once again.” </p><p>BLITHE often puts the strongest emphasis on the carefree, heedless quality of this happiness, with the suggestion that this casualness may have bad consequences. </p><p>“The driver BLITHELY ignored their warning about the slippery roads.” </p><p>“Her BLITHE refusal to worry about grades finally caused her to fail three courses.”</p>"
+    },
+    "CATARACT": {
+      "word": "CATARACT",
+      "phonetic": "(kat'-ÔøΩakt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a large waterfall, downpour, deluge </p><p>A CATARACT is a large waterfall or steep rapids. </p><p>“The canoeists came dangerously close to the CATARACT before they managed to reach shore.” </p><p>CATARACT can also be used in an extended sense about any large downpour. </p><p>“CATARACTS of rain poured off the roof of our house during the storm.”</p>"
+    },
+    "OBFUSCATE": {
+      "word": "OBFUSCATE",
+      "phonetic": "(ob'-fuhs-kAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to darken, make indistinct; to confuse, bewilder, make obscure </p><p>OBFUSCATE comes from a Latin word meaning to <i class=“def-ital\">darken</i>. The word can be used about actual physical darkness. </p><p>“The fog OBFUSCATED the land.” </p><p>But it is generally used in a figurative sense, about intellectual darkness. </p><p>“If that journalist would write more clearly he would not OBFUSCATE his readers.’’ </p><p>To OBFUSCATE something is to make it obscure, muddled, hard to understand. </p><p>“The court’s contradictory rulings have served only to OBFUSCATE the new law.” </p><p>“The inept writer managed to further OBFUSCATE an already unclear subject.” </p><p>Other forms of the word: OBFUSCATION, n. OBFUSCATORY, adj.</p>"
+    },
+    "OBSTREPEROUS": {
+      "word": "OBSTREPEROUS",
+      "phonetic": "(ob-strep'-ÔøΩ-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">noisy, tumultuous, unruly, boisterous </p><p>OBSTREPEROUS is used about people who are noisily unruly, who are loud, aggressive, and difficult to control. </p><p>“The OBSTREPEROUS students were always causing a commotion in the classroom.” </p><p>“Whenever people disagree with Bill he becomes OBSTREPEROUS.’’ </p><p>“The judge ordered the OBSTREPEROUS spectators removed from the courtroom.”</p>"
+    },
+    "OSSIFY": {
+      "word": "OSSIFY",
+      "phonetic": "(os'-a-fl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to change into bone, harden </p><p>OSSIFY comes from the Latin word for <i class=“def-ital\">bone</i>.  OSSIFY means “to change or form into bone.” In an extended sense, the word means “to mold or become set in a conventional pattern,” to <i class=“def-ital\">harden</i> or <i class=“def-ital\">become rigid</i>. </p><p>“The elderly man rejected the notion that people’s minds tend to OSSIFY as they get older.” </p><p>“The passage of time had OSSIFIED both parties in their positions, so that compromise seemed unlikely.” </p><p>“The organization’s practices were so OSSIFIED that it was unable to adapt to change.” </p><p>Other forms of the word: OSSIFICATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-fy</i> under Suffixes."
+      ]
+    },
+    "PORTEND": {
+      "word": "PORTEND",
+      "phonetic": "(por-tend')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to forebode, foreshadow </p><p>To PORTEND is to forbode or presage. PORTEND is usually applied to a coming evil or disaster. See PORTENT in Chapter 2. </p><p>“Geese flying south in October PORTEND an early and hard winter.” </p><p>“Madame Zelda said the signs in the tea leaves PORTENDED misfortunes for the lady.” </p><p>“The critic’s bored sighs PORTEND a bad review.” </p><p>Other forms of the word: PORTENT, n. PORTENTOUS, adj.</p>"
+    },
+    "PROTRACT": {
+      "word": "PROTRACT",
+      "phonetic": "(prO-trakt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to prolong, drag out </p><p>To PROTRACT means “to lengthen in duration,” <i class=“def-ital\">prolong</i>. The word often implies that the prolonging is unnecessary or boring. </p><p>“They PROTRACTED the conference with an endless series of unnecessary speeches.” </p><p>“The discussion between the two businessmen became so PROTRACTED that the other people at the meeting started to fall asleep.” </p><p>“Stevens was so bored at work that he wrote a PROTRACTED memo on the virtues of unlined paper: it came to fifteen pages.”</p>"
+    }
+  },
+  "id": "9",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "HAPLESS",
+          "answers": [
+            "unhappy",
+            "useless",
+            "unlucky",
+            "vicious",
+            "stupid"
+          ],
+          "word": "HAPLESS",
+          "correct": "unlucky"
+        },
+        {
+          "prompt": "to INCULCATE",
+          "answers": [
+            "learn",
+            "demand",
+            "suggest",
+            "instill",
+            "lead to"
+          ],
+          "word": "INCULCATE",
+          "correct": "instill"
+        },
+        {
+          "prompt": "INFINITESIMAL",
+          "answers": [
+            "endless",
+            "tiny",
+            "essential",
+            "incredible",
+            "light"
+          ],
+          "word": "INFINITESIMAL",
+          "correct": "tiny"
+        },
+        {
+          "prompt": "NOXIOUS",
+          "answers": [
+            "explosive",
+            "dirty",
+            "powerful",
+            "sharp",
+            "harmful"
+          ],
+          "word": "NOXIOUS",
+          "correct": "harmful"
+        },
+        {
+          "prompt": "PARSIMONIOUS",
+          "answers": [
+            "formal",
+            "generous",
+            "stingy",
+            "sickly",
+            "tricky"
+          ],
+          "word": "PARSIMONIOUS",
+          "correct": "stingy"
+        },
+        {
+          "prompt": "POTABLE",
+          "answers": [
+            "drinkable",
+            "edible",
+            "poisonous",
+            "valuable",
+            "powerful"
+          ],
+          "word": "POTABLE",
+          "correct": "drinkable"
+        },
+        {
+          "prompt": "VOCIFEROUS",
+          "answers": [
+            "clamorous",
+            "impolite",
+            "vain",
+            "humorous",
+            "threatening"
+          ],
+          "word": "VOCIFEROUS",
+          "correct": "clamorous"
+        },
+        {
+          "prompt": "ABJECT",
+          "answers": [
+            "real",
+            "impossible",
+            "frightened",
+            "wretched",
+            "drunken"
+          ],
+          "word": "ABJECT",
+          "correct": "wretched"
+        },
+        {
+          "prompt": "BLITHE",
+          "answers": [
+            "serious",
+            "weak",
+            "joyful",
+            "silly",
+            "lovely"
+          ],
+          "word": "BLITHE",
+          "correct": "joyful"
+        },
+        {
+          "prompt": "CATARACT",
+          "answers": [
+            "explosion",
+            "cliff",
+            "canyon",
+            "river",
+            "waterfall"
+          ],
+          "word": "CATARACT",
+          "correct": "waterfall"
+        },
+        {
+          "prompt": "to OBFUSCATE",
+          "answers": [
+            "obscure",
+            "clarify",
+            "annoy",
+            "defeat",
+            "defile"
+          ],
+          "word": "OBFUSCATE",
+          "correct": "obscure"
+        },
+        {
+          "prompt": "OBSTREPEROUS",
+          "answers": [
+            "obedient",
+            "precocious",
+            "determined",
+            "unruly",
+            "mean"
+          ],
+          "word": "OBSTREPEROUS",
+          "correct": "unruly"
+        },
+        {
+          "prompt": "to OSSIFY",
+          "answers": [
+            "darken",
+            "rot",
+            "harden",
+            "soften",
+            "waver"
+          ],
+          "word": "OSSIFY",
+          "correct": "harden"
+        },
+        {
+          "prompt": "to PORTEND",
+          "answers": [
+            "resemble",
+            "forebode",
+            "cause",
+            "expect",
+            "recall"
+          ],
+          "word": "PORTEND",
+          "correct": "forebode"
+        },
+        {
+          "prompt": "to PROTRACT",
+          "answers": [
+            "prolong",
+            "produce",
+            "propose",
+            "plan",
+            "cancel"
+          ],
+          "word": "PROTRACT",
+          "correct": "prolong"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does a HAPLESS person have bad luck?",
+          "word": "HAPLESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you INCULCATE something by repetition?",
+          "word": "INCULCATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are galaxies INFINITESIMAL?",
+          "word": "INFINITESIMAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can chemical fumes be NOXIOUS?",
+          "word": "NOXIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do PARSIMONIOUS people usually give expensive presents?",
+          "word": "PARSIMONIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is sulfuric acid POTABLE?",
+          "word": "POTABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are shy people usually VOCIFEROUS?",
+          "word": "VOCIFEROUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Might a very poor person live in ABJECT poverty?",
+          "word": "ABJECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a BLITHE person tend to worry a lot?",
+          "word": "BLITHE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could Niagara Falls be called a CATARACT?",
+          "word": "CATARACT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should politicians OBFUSCATE issues?",
+          "word": "OBFUSCATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are OBSTREPEROUS people easily controlled?",
+          "word": "OBSTREPEROUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it easy to change something that has OSSIFIED?",
+          "word": "OSSIFY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do black clouds PORTEND a storm?",
+          "word": "PORTEND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would people want to cut short a PROTRACTED discussion?",
+          "word": "PROTRACT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Nothing went right for the HAPLESS settlers that first year.",
+          "word": "HAPLESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The stranger INCULCATED us the way to the fairgrounds.",
+          "word": "INCULCATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The human body needs only INFINITESIMAL amounts of some minerals.",
+          "word": "INFINITESIMAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "The government determined that the food additive was NOXIOUS.",
+          "word": "NOXIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Fred PARSIMONIOUSLY agreed to help us on our research project.",
+          "word": "PARSIMONIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The Smiths were in charge of the food, and we were supposed to provide the POTABLES for the picnic.",
+          "word": "POTABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The players VOCIFEROUSLY protested the referee's call.",
+          "word": "VOCIFEROUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Nancy's ABJECT unhappiness made us all feel sorry for her.",
+          "word": "ABJECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "His BLITHE disregard for the rules may force us to disqualify him.",
+          "word": "BLITHE",
+          "correct": "true"
+        },
+        {
+          "prompt": "During the parade the crowd showered CATARACTS of confetti on the returning heroes.",
+          "word": "CATARACT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The police OBFUSCATED us to leave the area immediately.",
+          "word": "OBFUSCATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The OBSTREPEROUS drunk offered to fight anyone in the bar.",
+          "word": "OBSTREPEROUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Angela OSSIFIED her ideas into something new and exciting.",
+          "word": "OSSIFY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The students PORTENDED that nothing bad would happen.",
+          "word": "PORTEND",
+          "correct": "false"
+        },
+        {
+          "prompt": "The company PROTRACTED with us to use our product.",
+          "word": "PROTRACT",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "HAPLESS",
+          "answers": [
+            "harmless",
+            "luckless",
+            "disastrous"
+          ],
+          "word": "HAPLESS",
+          "correct": "0"
+        },
+        {
+          "prompt": "INCULCATE",
+          "answers": [
+            "tell",
+            "implant",
+            "instruct"
+          ],
+          "word": "INCULCATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INFINITESIMAL",
+          "answers": [
+            "microscopic",
+            "minute",
+            "telescopic"
+          ],
+          "word": "INFINITESIMAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "NOXIOUS",
+          "answers": [
+            "vapid",
+            "harmful",
+            "detrimental"
+          ],
+          "word": "NOXIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "PARSIMONIOUS",
+          "answers": [
+            "nasty",
+            "miserly",
+            "greedy"
+          ],
+          "word": "PARSIMONIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "POTABLE",
+          "answers": [
+            "wine",
+            "water",
+            "mud"
+          ],
+          "word": "POTABLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "VOCIFEROUS",
+          "answers": [
+            "docile",
+            "noisy",
+            "strident"
+          ],
+          "word": "VOCIFEROUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "ABJECT",
+          "answers": [
+            "fierce",
+            "sordid",
+            "pitiful"
+          ],
+          "word": "ABJECT",
+          "correct": "0"
+        },
+        {
+          "prompt": "BLITHE",
+          "answers": [
+            "sagacious",
+            "ebullient",
+            "heedless"
+          ],
+          "word": "BLITHE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CATARACT",
+          "answers": [
+            "cascade",
+            "ocean",
+            "torrent"
+          ],
+          "word": "CATARACT",
+          "correct": "1"
+        },
+        {
+          "prompt": "OBFUSCATE",
+          "answers": [
+            "perplex",
+            "daunt",
+            "befog"
+          ],
+          "word": "OBFUSCATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "OBSTREPEROUS",
+          "answers": [
+            "fretful",
+            "intractable",
+            "disorderly"
+          ],
+          "word": "OBSTREPEROUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "OSSIFY",
+          "answers": [
+            "harden",
+            "fossilize",
+            "grow"
+          ],
+          "word": "OSSIFY",
+          "correct": "2"
+        },
+        {
+          "prompt": "PORTEND",
+          "answers": [
+            "forebode",
+            "prophesy",
+            "think"
+          ],
+          "word": "PORTEND",
+          "correct": "2"
+        },
+        {
+          "prompt": "PROTRACT",
+          "answers": [
+            "refine",
+            "amplify",
+            "extend"
+          ],
+          "word": "PROTRACT",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

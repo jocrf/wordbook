@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ALLURE",
+      "answer": "allured"
+    },
+    {
+      "word": "CRESTFALLEN",
+      "answer": "crestfallen"
+    },
+    {
+      "word": "INGENUITY",
+      "answer": "ingenuity"
+    },
+    {
+      "word": "MEEK",
+      "answer": "meek"
+    },
+    {
+      "word": "SIMULATE",
+      "answer": "simulated"
+    },
+    {
+      "word": "AMICABLE",
+      "answer": "amicable"
+    },
+    {
+      "word": "FLAUNT",
+      "answer": "flaunt"
+    },
+    {
+      "word": "INSOLENT",
+      "answer": "insolent"
+    },
+    {
+      "word": "NEGATE",
+      "answer": "negated"
+    },
+    {
+      "word": "STIFLE",
+      "answer": "stifle"
+    },
+    {
+      "word": "ARMAMENT",
+      "answer": "armaments"
+    },
+    {
+      "word": "FLOUNDER",
+      "answer": "floundered"
+    },
+    {
+      "word": "LABYRINTH",
+      "answer": "labyrinth"
+    },
+    {
+      "word": "PLUMAGE",
+      "answer": "plumage"
+    },
+    {
+      "word": "TARRY",
+      "answer": "tarry"
+    },
+    {
+      "word": "BELLOW",
+      "answer": "bellowed"
+    },
+    {
+      "word": "GUTTURAL",
+      "answer": "guttural"
+    },
+    {
+      "word": "LITERAL",
+      "answer": "literally"
+    },
+    {
+      "word": "REVERT",
+      "answer": "reverted"
+    },
+    {
+      "word": "TOIL",
+      "answer": "toil"
+    },
+    {
+      "word": "CONVEY",
+      "answer": "convey"
+    },
+    {
+      "word": "ACCLAIM",
+      "answer": "acclaimed"
+    },
+    {
+      "word": "EXALT",
+      "answer": "exalted"
+    },
+    {
+      "word": "INCOHERENT",
+      "answer": "incoherent"
+    },
+    {
+      "word": "PREMONITION",
+      "answer": "premonition"
+    },
+    {
+      "word": "SIMPLETON",
+      "answer": "simpleton"
+    },
+    {
+      "word": "ANNUL",
+      "answer": "annul"
+    },
+    {
+      "word": "FOLLY",
+      "answer": "folly"
+    },
+    {
+      "word": "OBLITERATE",
+      "answer": "obliterated"
+    },
+    {
+      "word": "PROFOUND",
+      "answer": "profound"
+    },
+    {
+      "word": "TAUT",
+      "answer": "taut"
+    },
+    {
+      "word": "DEROGATORY",
+      "answer": "derogatory"
+    },
+    {
+      "word": "HEARTEN",
+      "answer": "heartened"
+    },
+    {
+      "word": "PALTRY",
+      "answer": "paltry"
+    },
+    {
+      "word": "RECOUP",
+      "answer": "recoup"
+    },
+    {
+      "word": "TREAD",
+      "answer": "tread"
+    },
+    {
+      "word": "ENCROACH",
+      "answer": "encroached"
+    },
+    {
+      "word": "HUBBUB",
+      "answer": "hubbub"
+    },
+    {
+      "word": "PANORAMA",
+      "answer": "panorama"
+    },
+    {
+      "word": "REGAL",
+      "answer": "regal"
+    },
+    {
+      "word": "VERBATIM",
+      "answer": "verbatim"
+    },
+    {
+      "word": "ENFEEBLE",
+      "answer": "enfeebled"
+    },
+    {
+      "word": "INCOGNITO",
+      "answer": "incoherent"
+    },
+    {
+      "word": "PITEOUS",
+      "answer": "piteous"
+    },
+    {
+      "word": "SHEEN",
+      "answer": "sheen"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "We got completely lost in the",
+      "part2": "of trails and paths in the park.",
+      "correct": "labyrinth",
+      "word": "LABYRINTH"
+    },
+    {
+      "part1": "The bird's",
+      "part2": "was so beautiful that we wished we had a feather or two.",
+      "correct": "plumage",
+      "word": "PLUMAGE"
+    },
+    {
+      "part1": "We all know you're smart; there's no need to",
+      "part2": "it.",
+      "correct": "flaunt",
+      "word": "FLAUNT"
+    },
+    {
+      "part1": "After a life of nothing but",
+      "part2": "he enjoyed the chance to relax and take things easy.",
+      "correct": "toil",
+      "word": "TOIL"
+    },
+    {
+      "part1": "Ann was so excited she",
+      "part2": "jumped for joy.",
+      "correct": "literally",
+      "word": "LITERAL"
+    },
+    {
+      "part1": "Joe had a(n)",
+      "part2": "relationship with his classmates; they all liked and respected each other.",
+      "correct": "amicable",
+      "word": "AMICABLE"
+    },
+    {
+      "part1": "The injury to their star player",
+      "part2": "any possibility that they could win the game Saturday.",
+      "correct": "negated",
+      "word": "NEGATE"
+    },
+    {
+      "part1": "Due to his",
+      "part2": "the criminal was able to avoid being caught for many years.",
+      "correct": "ingenuity",
+      "word": "INGENUITY"
+    },
+    {
+      "part1": "We used trucks to",
+      "part2": "the equipment from the old building to the new one.",
+      "correct": "convey",
+      "word": "CONVEY"
+    },
+    {
+      "part1": "As the boring lecture dragged on and on, it became more difficult for the students to",
+      "part2": "their yawns.",
+      "correct": "stifle",
+      "word": "STIFLE"
+    },
+    {
+      "part1": "We cannot",
+      "part2": "for lengthy goodbyes; our plane is leaving in ten minutes.",
+      "correct": "tarry",
+      "word": "TARRY"
+    },
+    {
+      "part1": "The cattle",
+      "part2": "with fear during the thunderstorm.",
+      "correct": "bellowed",
+      "word": "BELLOW"
+    },
+    {
+      "part1": "He",
+      "part2": "great admiration for the child's painting, although he really thought it was very poor.",
+      "correct": "simulated",
+      "word": "SIMULATE"
+    },
+    {
+      "part1": "Linda is so",
+      "part2": "she apologizes for everything she does.",
+      "correct": "meek",
+      "word": "MEEK"
+    },
+    {
+      "part1": "The explorer",
+      "part2": "in the quicksand as he struggled to avoid drowning in it.",
+      "correct": "floundered",
+      "word": "FLOUNDER"
+    },
+    {
+      "part1": "Janet was polite for several weeks, but then she",
+      "part2": "to her usual rude manner.",
+      "correct": "reverted",
+      "word": "REVERT"
+    },
+    {
+      "part1": "The beauty of the tropic islands",
+      "part2": "many people.",
+      "correct": "allured",
+      "word": "ALLURE"
+    },
+    {
+      "part1": "He made a low,",
+      "part2": "sound deep in his throat when he was in pain.",
+      "correct": "guttural",
+      "word": "GUTTURAL"
+    },
+    {
+      "part1": "Pat was so excited when she heard she could come with us; she will be",
+      "part2": "when we tell her there isn't enough room.",
+      "correct": "crestfallen",
+      "word": "CRESTFALLEN"
+    },
+    {
+      "part1": "If we are to win this war, we must destroy the enemy's weapon factories and the other sources of its",
+      "part2": ".",
+      "correct": "armaments",
+      "word": "ARMAMENT"
+    },
+    {
+      "part1": "The worker made some",
+      "part2": "remarks to his boss and was fired on the spot.",
+      "correct": "insolent",
+      "word": "INSOLENT"
+    },
+    {
+      "part1": "The actress didn't want anyone to know she was on the plane, so she used a false name and traveled",
+      "part2": ".",
+      "correct": "incognito",
+      "word": "INCOGNITO"
+    },
+    {
+      "part1": "The rope snapped and broke because it was stretched so",
+      "part2": ".",
+      "correct": "taut",
+      "word": "TAUT"
+    },
+    {
+      "part1": "The disease so",
+      "part2": "him that for months he didn't have the strength to sit up.",
+      "correct": "enfeebled",
+      "word": "ENFEEBLE"
+    },
+    {
+      "part1": "We were discouraged at first, but then we were",
+      "part2": "by the progress we started to make.",
+      "correct": "heartened",
+      "word": "HEARTEN"
+    },
+    {
+      "part1": "What a(n)",
+      "part2": "crowd! There's only a few hundred people in the entire stadium.",
+      "correct": "paltry",
+      "word": "PALTRY"
+    },
+    {
+      "part1": "The king",
+      "part2": "the poor farmer by making him a duke.",
+      "correct": "exalted",
+      "word": "EXALT"
+    },
+    {
+      "part1": "The crowds created such a(n)",
+      "part2": "that we had to shout to hear each other.",
+      "correct": "hubbub",
+      "word": "HUBBUB"
+    },
+    {
+      "part1": "We had to",
+      "part2": "carefully past our parents' room to keep from waking them up.",
+      "correct": "tread",
+      "word": "TREAD"
+    },
+    {
+      "part1": "The huge explosion completely",
+      "part2": "all traces of human activity. Nothing remained but ashes.",
+      "correct": "obliterated",
+      "word": "OBLITERATE"
+    },
+    {
+      "part1": "The learned professor had many",
+      "part2": "things to say about the nature of man.",
+      "correct": "profound",
+      "word": "PROFOUND"
+    },
+    {
+      "part1": "She polished the table every day to bring out its beautiful",
+      "part2": ".",
+      "correct": "sheen",
+      "word": "SHEEN"
+    },
+    {
+      "part1": "They climbed the mountain to see the",
+      "part2": "of the farms and plains below.",
+      "correct": "panorama",
+      "word": "PANORAMA"
+    },
+    {
+      "part1": "He will never be able to",
+      "part2": "all the money he has lost by gambling.",
+      "correct": "recoup",
+      "word": "RECOUP"
+    },
+    {
+      "part1": "She's such a(n)",
+      "part2": "; she believes anything you tell her.",
+      "correct": "simpleton",
+      "word": "SIMPLETON"
+    },
+    {
+      "part1": "The teacher made some",
+      "part2": "comments about the students who had been misbehaving.",
+      "correct": "derogatory",
+      "word": "DEROGATORY"
+    },
+    {
+      "part1": "Vicky had a(n)",
+      "part2": "that the house would burn down, but she didn't pay any attention to it.",
+      "correct": "premonition",
+      "word": "PREMONITION"
+    },
+    {
+      "part1": "We let him build the fence even though it",
+      "part2": "on our land.",
+      "correct": "encroached",
+      "word": "ENCROACH"
+    },
+    {
+      "part1": "The king was moved by her",
+      "part2": "tale of all the troubles her family had suffered.",
+      "correct": "piteous",
+      "word": "PITEOUS"
+    },
+    {
+      "part1": "Bill repeated the conversation",
+      "part2": "to make sure we understood exactly what had been said.",
+      "correct": "verbatim",
+      "word": "VERBATIM"
+    },
+    {
+      "part1": "That ceremony was",
+      "part2": "; it was fit for a king.",
+      "correct": "regal",
+      "word": "REGAL"
+    },
+    {
+      "part1": "It was an act of",
+      "part2": "to go out into the snowstorm without a coat.",
+      "correct": "folly",
+      "word": "FOLLY"
+    },
+    {
+      "part1": "After a few drinks he became",
+      "part2": "and just started babbling nonsense.",
+      "correct": "incoherent",
+      "word": "INCOGNITO"
+    },
+    {
+      "part1": "It is impossible to",
+      "part2": "the contract unless both parties agree that it should end.",
+      "correct": "annul",
+      "word": "ANNUL"
+    },
+    {
+      "part1": "All our friends",
+      "part2": "the show. They said that everything about it was wonderful.",
+      "correct": "acclaimed",
+      "word": "ACCLAIM"
+    }
+  ],
+  "type": "fitb",
+  "id": 3
+}

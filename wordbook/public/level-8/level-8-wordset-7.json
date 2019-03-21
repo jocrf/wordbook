@@ -1,0 +1,605 @@
+{
+  "title": "8.7",
+  "definitions": {
+    "RATIOCINATION": {
+      "word": "RATIOCINATION",
+      "phonetic": "(rash-E-os-g-nA'-shgn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">reasoning </p><p>RATIOCINATION is the process of logical thinking. The word comes from the same Latin root as <i class=“def-ital\">rational</i>. It usually suggests an extended process, not simply a deduction reached from a set of facts. </p><p>“Carla didn’t reach the correct solution by guesswork, but by pure RATIOCINATION.” </p><p>“The philosopher’s RATIOCINATIONS were interrupted by the arrival of a visitor.” </p><p>“Sidney was not capable of prolonged RATIOCINATION. He said hard thinking gave him a headache.” </p><p><i class=“def-ital\">Dividing</i> is the most commonly chosen wrong answer, probably because people are attracted to the <i class=“def-ital\">ratio</i> part of the word. </p><p>Other forms of the word: RATIOCINATE, v. RATIOCINATIVE, adj.</p>"
+    },
+    "TRUCULENT": {
+      "word": "TRUCULENT",
+      "phonetic": "(truhk'-yg-lgnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fierce, belligerent, pugnacious </p><p>TRUCULENT means “having a fierce appearance or dis- position.” It is used about people who are always ready to fight or bully others. </p><p>“The TRUCULENT drunk bellowed that he could beat up anybody in the bar.” </p><p>“The TRUCULENT hockey team likes nothing more than to get in a brawl with its opponent.” </p><p>“Despite its small size, the country is quite TRUCULENT, and is always threatening to invade its neighbors.” </p><p>Other forms of the word: TRUCULENCE, n.</p>"
+    },
+    "NACREOUS": {
+      "word": "NACREOUS",
+      "phonetic": "(nA'-krE-gs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">pearly, lustrous </p><p>NACRE is mother-of-pearl, the hard, luminous, colorful substance that forms the inside layer of the pearl oyster shell and other sea-animal shells. Something that is NACREOUS is pearl-like, lustrous. </p><p>“The shell that he found on the beach was rough and encrusted on the outside, but smooth and NACREOUS within.” </p><p>“The blue veins just visible under the skin of her white throat lent it a beautiful NACREOUS quality.”</p>"
+    },
+    "TEMERITY": {
+      "word": "TEMERITY",
+      "phonetic": "(t;-mer'-;-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">rashness, effrontery, audacity </p><p>TEMERITY is rash boldness, a reckless disregard of danger or opposition. The word often suggests presumptuousness. </p><p>“The student had the TEMERITY to suggest that the professor didn’t know what she was talking about.” </p><p>“It took a certain amount of TEMERITY for Bill to ignore his doctor’s advice and run in the marathon.” </p><p>“Janet’s TEMERITY in arguing with the president about company policy cost her her job.” </p><p>A related adjective is TEMERARIOUS, which means “presumptuously rash.” </p><p>TEMERITY appears to be difficult mostly because of confusion with <i class=“def-ital\">timidity</i>. <i class=“def-ital\">Cowardice</i>, an opposite, is a more popular choice on the Pretest than the correct answer, <i class=“def-ital\">rashness</i>. </p><p>Other forms of the word: TEMERARIOUS, adj.</p>"
+    },
+    "ADJURE": {
+      "word": "ADJURE",
+      "phonetic": "(ad-jUr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">command, enjoin, entreat </p><p>To ADJURE is to command solemnly or earnestly. When the emphasis is placed on the earnestness of the com-mand, ADJURE comes close to meaning <i class=“def-ital\">entreat</i> or <i class=“def-ital\">beg</i>. </p><p>“The missionary ADJURED his disciples to think less about the world and more about their work.” </p><p>“All of the new altarboys were ADJURED to pay strict attention during the service.” </p><p>“The guard ADJURED us not to touch the sculptures.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">criticize</i>, due perhaps to a confusion of ADJURE with <i class=“def-ital\">admonish</i>. </p><p>Other forms of the word: ADJURATION, n.</p>"
+    },
+    "ASPERITY": {
+      "word": "ASPERITY",
+      "phonetic": "(as-per'-ÔøΩ-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">harshness, acerbity, severity, irritability </p><p>ASPERITY comes from a Latin word meaning <i class=“def-ital\">rough</i>. This root is also found in the word <i class=“def-ital\">exasperate</i>, which literally means to <i class=“def-ital\">make rough</i>, but is usually used about people’s states of mind and means to <i class=“def-ital\">make irritable</i>, to <i class=“def-ital\">provoke</i>. ASPERITY can be used about the literal roughness of a surface, or of harsh sounds, but like <i class=“def-ital\">exasperate</i> it is usually applied to people, and refers to harshness of temper or manner. </p><p>“The company’s spokesman said with some ASPERITY that it had never done anything illegal.” </p><p>“He regretted now the ASPERITY with which he had rejected their advice.” </p><p>“The ASPERITY of his manner made people nervous and a little frightened.”</p>"
+    },
+    "GAINSAY": {
+      "word": "GAINSAY",
+      "phonetic": "(gAn'-sA)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to deny, contradict </p><p>To GAINSAY something is to dispute its truth, to deny it. It is a rather literary term, and is generally used in a negative construction. The past tense is GAINSAID. </p><p>“Much as we dislike her, we cannot GAINSAY her right to inherit the house.” </p><p>“No one is attempting to GAINSAY the accuracy of your data; we merely question your interpretation of it.” </p><p>“Despite his shortcomings, he is a great man; that cannot be GAINSAID.” </p><p><i class=“def-ital\">Suggest</i> is the most commonly chosen wrong answer, probably influenced by the <i class=“def-ital\">say</i> part of GAINSAY.</p>"
+    },
+    "EXTIRPATE": {
+      "word": "EXTIRPATE",
+      "phonetic": "(ek'-stÔøΩr-pAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to annihilate, exterminate, root out </p><p>The <i class=“def-ital\">tirp</i> part of EXTIRPATE comes from a Latin word meaning <i class=“def-ital\">root</i>. The literal meaning of EXTIRPATE is to <i class=“def-ital\">root out</i>.  The word usually suggests total destruction. </p><p>“We must not only defeat the enemy, we must EXTIRPATE them.” </p><p>“Sharon was determined to EXTIRPATE the weeds from her garden, once and for all.” </p><p>“The missionaries were not successful in EXTIRPATING the devil worship among the natives.” </p><p>Other forms of the word: EXTIRPATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">ex-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "INGENUOUS": {
+      "word": "INGENUOUS",
+      "phonetic": "(in-jen'-yU-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">naive, natural, artless </p><p>INGENUOUS means <i class=“def-ital\">candid</i>, <i class=“def-ital\">open</i>, <i class=“def-ital\">simple</i>, <i class=“def-ital\">without pretense</i>. It implies a childlike inability to deceive, rather than a conscious choice not to deceive. It is applied both to people and their actions. </p><p>“Even when he misbehaved, Billy’s voluntary, INGENUOUS confession would endear him to his parents.” </p><p>“Diane is so INGENUOUS that it seems cruel to trick her like this.” </p><p>“When questioned about her whereabouts on the night of the murder, her INGENUOUS answer convinced the detectives of her innocence.” </p><p>More people choose <i class=“def-ital\">cunning</i>, a wrong answer, than <i class=“def-ital\">naive</i>, the right one, due no doubt to a confusion with the easier word <i class=“def-ital\">ingenious</i>.</p>"
+    },
+    "INSOUCIANT": {
+      "word": "INSOUCIANT",
+      "phonetic": "(in-sU'-sE-ÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">carefree, unconcerned </p><p>INSOUCIANT means “free from care or anxiety.” The word is used with regard to people who don’t care what kind of impression they make or how others respond to them. </p><p>“Debbie’s INSOUCIANT behavior at the party showed that she didn’t mind shocking her hosts.” </p><p>“Jim INSOUCIANTLY asked the principal to hold his books for him while he tied his shoelace.” </p><p>“The INSOUCIANT young fellow wore whatever he liked and said whatever popped into his mind.” </p><p><i class=“def-ital\">Disrespectful</i> is the most commonly chosen wrong answer. Often INSOUCIANT people may appear disrespectful, since they don’t care what other people think of them, but the emphasis in the word is on this lack of concern, not the lack of respect. </p><p>Other forms of the word: INSOUCIANCE, n.</p>"
+    },
+    "SANGUINE": {
+      "word": "SANGUINE",
+      "phonetic": "(sang'-gwin)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hopeful, optimistic, confident </p><p>SANGUINE comes from the Latin word for <i class=“def-ital\">blood</i>, and is still used in English to mean <i class=“def-ital\">bloody</i> or <i class=“def-ital\">blood-covered</i>. Its most common use, however, derives from the medieval theory that a person’s general disposition was determined by the quantities of four fluids in his or her body. If blood predominated, the person was supposed to be spirited and passionate. From this has come SANGUINE’s current meaning of “cheerfully optimistic,” <i class=“def-ital\">hopeful</i>. Sometimes the word suggests over-optimism or confidence that is misplaced. </p><p>“Despite all his misfortunes, Mr. Micawber remained SANGUINE about his prospects for the future.” </p><p>“I am not SANGUINE about my chances of getting into a good college.” </p><p>“Gail’s SANGUINE disposition led her to think that losing her job was just a temporary setback.” </p><p><i class=“def-ital\">Cruel</i> is the most commonly chosen wrong answer, probably due to the connection of SANGUINE with blood.</p>"
+    },
+    "SEDULOUS": {
+      "word": "SEDULOUS",
+      "phonetic": "(sej'-u-lÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">diligent, industrious </p><p>SEDULOUS means <i class=“def-ital\">industrious</i>, and implies that a person is working hard and persistently at accomplishing something. </p><p>“He is not a genius, but his SEDULOUS efforts earn him very good grades.” </p><p>“SEDULOUS attention to detail marks Joe as a clerk who takes his job seriously.” </p><p>“The nurse is SEDULOUS in carrying out her duties; nothing remains undone at the end of her shift.”</p>"
+    },
+    "SENTIENT": {
+      "word": "SENTIENT",
+      "phonetic": "(sen'-chÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">conscious, aware, capable of feeling </p><p>SENTIENT is from a Latin word meaning to <i class=“def-ital\">feel</i>; it is related to words like <i class=“def-ital\">sensitive</i> and <i class=“def-ital\">sensuous</i> that also have to do with feeling and the senses. SENTIENT means “capable of perceiving through the senses.” It is applied to living beings, like animals or humans, who have some form of consciousness. </p><p>“He could not believe there was a SENTIENT creature that didn’t know who had won the World Series.” </p><p>“She thought rocks were SENTIENT and wouldn’t kick any for fear of hurting them.” </p><p><i class=“def-ital\">Wise</i> is a commonly chosen wrong answer, perhaps due to confusion with <i class=“def-ital\">sententious</i>, which means <i class=“def-ital\">pithy</i>, “full of aphorisms.” </p><p>Other forms of the word: SENTIENCE, n.</p>"
+    },
+    "SOBRIQUET": {
+      "word": "SOBRIQUET",
+      "phonetic": "(sO-bri-kA'",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a nickname </p><p>SOBRIQUET is sometimes spelled SOUBRIQUET. </p><p>A SOBRIQUET is a nickname, especially one that is humorous, affectionate, or picturesque. </p><p>“Babe Ruth’s tremendous batting prowess earned him the SOBRIQUET ‘The Sultan of Swat.’” </p><p>“Lincoln’s SOBRIQUET ‘Honest Abe’ is known by every American schoolchild.” </p><p>“After losing his hat in a gust of wind, Bill decided that ‘The Windy City’ was an appropriate SOBRIQUET for Chicago.”</p>"
+    },
+    "SPATE": {
+      "word": "SPATE",
+      "phonetic": "(spAt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a flood, outpouring, deluge </p><p>A SPATE is literally a stream or river that has become full and turbulent due to melting snow or heavy rains. In this sense, the word is often used in the phrase “in SPATE” or “in full SPATE.” Usually the word is used in a figurative sense about any kind of sudden rush or outpouring. </p><p>“The news that the prince was to be married produced a SPATE of books and articles on the royal family.” </p><p>“There was a SPATE of phone calls at the TV station protesting the decision not to televise the basketball game.” </p><p>This word is difficult because many people think a SPATE is a lot slower than it really is. <i class=“def-ital\">Trickle</i> is almost as common an answer on the Pretest as the correct answer, <i class=“def-ital\">flood</i>.</p>"
+    }
+  },
+  "id": "7",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "RATIOCINATION",
+          "answers": [
+            "remembering",
+            "dividing",
+            "reasoning",
+            "persuading",
+            "deciding"
+          ],
+          "word": "RATIOCINATION",
+          "correct": "reasoning"
+        },
+        {
+          "prompt": "TRUCULENT",
+          "answers": [
+            "gentle",
+            "fierce",
+            "heavy",
+            "cunning",
+            "excited"
+          ],
+          "word": "TRUCULENT",
+          "correct": "fierce"
+        },
+        {
+          "prompt": "NACREOUS",
+          "answers": [
+            "ebony",
+            "shining",
+            "smooth",
+            "pearly",
+            "turquoise"
+          ],
+          "word": "NACREOUS",
+          "correct": "pearly"
+        },
+        {
+          "prompt": "TEMERITY",
+          "answers": [
+            "rashness",
+            "cowardice",
+            "impatience",
+            "pride",
+            "strength"
+          ],
+          "word": "TEMERITY",
+          "correct": "rashness"
+        },
+        {
+          "prompt": "to ADJURE",
+          "answers": [
+            "admire",
+            "command",
+            "fear",
+            "join",
+            "criticize"
+          ],
+          "word": "ADJURE",
+          "correct": "command"
+        },
+        {
+          "prompt": "ASPERITY",
+          "answers": [
+            "harshness",
+            "poverty",
+            "cheerfulness",
+            "pride",
+            "dissatisfaction"
+          ],
+          "word": "ASPERITY",
+          "correct": "harshness"
+        },
+        {
+          "prompt": "to GAINSAY",
+          "answers": [
+            "approve",
+            "repeat",
+            "suggest",
+            "recall",
+            "deny"
+          ],
+          "word": "GAINSAY",
+          "correct": "deny"
+        },
+        {
+          "prompt": "to EXTIRPATE",
+          "answers": [
+            "establish",
+            "insert",
+            "annihilate",
+            "disfigure",
+            "transform"
+          ],
+          "word": "EXTIRPATE",
+          "correct": "annihilate"
+        },
+        {
+          "prompt": "INGENUOUS",
+          "answers": [
+            "stupid",
+            "naive",
+            "cunning",
+            "phony",
+            "sophisticated"
+          ],
+          "word": "INGENUOUS",
+          "correct": "naive"
+        },
+        {
+          "prompt": "INSOUCIANT",
+          "answers": [
+            "carefree",
+            "earnest",
+            "disrespectful",
+            "warm-hearted",
+            "naive"
+          ],
+          "word": "INSOUCIANT",
+          "correct": "carefree"
+        },
+        {
+          "prompt": "SANGUINE",
+          "answers": [
+            "discouraged",
+            "cruel",
+            "sluggish",
+            "hopeful",
+            "loving"
+          ],
+          "word": "SANGUINE",
+          "correct": "hopeful"
+        },
+        {
+          "prompt": "SEDULOUS",
+          "answers": [
+            "naive",
+            "talkative",
+            "lazy",
+            "cunning",
+            "diligent"
+          ],
+          "word": "SEDULOUS",
+          "correct": "diligent"
+        },
+        {
+          "prompt": "SENTIENT",
+          "answers": [
+            "unthinking",
+            "motionless",
+            "active",
+            "wise",
+            "conscious"
+          ],
+          "word": "SENTIENT",
+          "correct": "conscious"
+        },
+        {
+          "prompt": "SOBRIQUET",
+          "answers": [
+            "insult",
+            "eulogy",
+            "nickname",
+            "salutation",
+            "title"
+          ],
+          "word": "SOBRIQUET",
+          "correct": "nickname"
+        },
+        {
+          "prompt": "SPATE",
+          "answers": [
+            "flood",
+            "trickle",
+            "noise",
+            "rain",
+            "battle"
+          ],
+          "word": "SPATE",
+          "correct": "flood"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can infants perform RATIOCINATION?",
+          "word": "RATIOCINATION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do timid people tend to be TRUCULENT?",
+          "word": "TRUCULENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are ashes NACREOUS?",
+          "word": "NACREOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a bold person likely to possess TEMERITY?",
+          "word": "TEMERITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a minister ADJURE people not to lie?",
+          "word": "ADJURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most people find ASPERITY pleasant?",
+          "word": "ASPERITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person who lies GAINSAY something that is true?",
+          "word": "GAINSAY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an implacable foe want to EXTIRPATE his enemy?",
+          "word": "EXTIRPATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an INGENUOUS person try to deceive people?",
+          "word": "INGENUOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would INSOUCIANT people usually possess self-confidence?",
+          "word": "INSOUCIANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a SANGUINE person likely to be anguished?",
+          "word": "SANGUINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is laziness a characteristic of a SEDULOUS person?",
+          "word": "SEDULOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would someone who is capable of deep thought be SENTIENT?",
+          "word": "SENTIENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is \"Reginald\" a SOBRIQUET?",
+          "word": "SOBRIQUET",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a river in SPATE likely to be dangerous?",
+          "word": "SPATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "These plans are the result of deep RATIOCINATION by some of our finest minds.",
+          "word": "RATIOCINATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "The student's TRUCULENT behavior quickly exasperated the teacher.",
+          "word": "TRUCULENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The NACREOUS wolves advanced across the clearing toward him.",
+          "word": "NACREOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Phil lacked the TEMERITY to object to his boss's outrageous demands.",
+          "word": "TEMERITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Sal ADJURED her for putting catsup on her fried egg.",
+          "word": "ADJURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The ASPERITY with which she gazed at our work suggested that we were in for a tongue-lashing.",
+          "word": "ASPERITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The professor GAINSAID to us that we would have to try harder on the final.",
+          "word": "GAINSAY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The military government vowed to EXTIRPATE all of its opponents.",
+          "word": "EXTIRPATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "This INGENUOUS new invention will revolutionize photography.",
+          "word": "INGENUOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The INSOUCIANT secretary didn't seem to care what her boss thought of her.",
+          "word": "INSOUCIANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The judge sent the mother to jail for her SANGUINE abuse of her children.",
+          "word": "SANGUINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "It was SEDULOUS of her to refuse to see us.",
+          "word": "SEDULOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Benjamin Franklin's SENTIENT maxims are still widely quoted.",
+          "word": "SENTIENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The baseball player received the SOBRIQUET \"Stick\" because he was so thin.",
+          "word": "SOBRIQUET",
+          "correct": "true"
+        },
+        {
+          "prompt": "The movie was really popular at first, but attendance declined to a SPATE after a few weeks.",
+          "word": "SPATE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "RATIOCINATION",
+          "answers": [
+            "deduction",
+            "intuition",
+            "inference"
+          ],
+          "word": "RATIOCINATION",
+          "correct": "1"
+        },
+        {
+          "prompt": "TRUCULENT",
+          "answers": [
+            "malevolent",
+            "bellicose",
+            "pugnacious"
+          ],
+          "word": "TRUCULENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "NACREOUS",
+          "answers": [
+            "lustrous",
+            "glittering",
+            "pearly"
+          ],
+          "word": "NACREOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "TEMERITY",
+          "answers": [
+            "wariness",
+            "brashness",
+            "audacity"
+          ],
+          "word": "TEMERITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "ADJURE",
+          "answers": [
+            "beg",
+            "forbid",
+            "enjoin"
+          ],
+          "word": "ADJURE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ASPERITY",
+          "answers": [
+            "rancor",
+            "hope",
+            "acrimony"
+          ],
+          "word": "ASPERITY",
+          "correct": "1"
+        },
+        {
+          "prompt": "GAINSAY",
+          "answers": [
+            "dispute",
+            "reduce",
+            "refute"
+          ],
+          "word": "GAINSAY",
+          "correct": "1"
+        },
+        {
+          "prompt": "EXTIRPATE",
+          "answers": [
+            "eradicate",
+            "mitigate",
+            "obliterate"
+          ],
+          "word": "EXTIRPATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "INGENUOUS",
+          "answers": [
+            "candid",
+            "artless",
+            "wise"
+          ],
+          "word": "INGENUOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "INSOUCIANT",
+          "answers": [
+            "disobedient",
+            "unconcerned",
+            "happy-go-lucky"
+          ],
+          "word": "INSOUCIANT",
+          "correct": "0"
+        },
+        {
+          "prompt": "SANGUINE",
+          "answers": [
+            "tasteful",
+            "hopeful",
+            "optimistic"
+          ],
+          "word": "SANGUINE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SEDULOUS",
+          "answers": [
+            "hasty",
+            "persevering",
+            "energetic"
+          ],
+          "word": "SEDULOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "SENTIENT",
+          "answers": [
+            "conscious",
+            "aware",
+            "viable"
+          ],
+          "word": "SENTIENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "SOBRIQUET",
+          "answers": [
+            "appellation",
+            "nickname",
+            "insult"
+          ],
+          "word": "SOBRIQUET",
+          "correct": "2"
+        },
+        {
+          "prompt": "SPATE",
+          "answers": [
+            "cataract",
+            "inundation",
+            "drizzle"
+          ],
+          "word": "SPATE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "title": "1.9",
+  "definitions": {
+    "WILT": {
+      "word": "WILT",
+      "phonetic": "(wilt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to droop, sag </p><p>To WILT is to <i class=“def-ital\">droop</i>, to lose freshness or spirit. The word is often used about plants or flowers. </p><p>“The lack of water caused many plants to WILT.” </p><p>The word can also be used in a more general sense. </p><p>“Our enthusiasm for the trip started to WILT when we found out how much it was going to cost.” </p><p>“The witness’s confidence WILTED under the harsh questioning of the lawyer.” </p><p>“Our team started well, but WILTED late in the game.”</p>"
+    },
+    "SPECTATOR": {
+      "word": "SPECTATOR",
+      "phonetic": "(spek'-tA-tÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an onlooker, viewer, watcher </p><p>The form <i class=“def-ital\">spect</i> is seen in many words and always means to <i class=“def-ital\">see</i> or to <i class=“def-ital\">look at</i>. Some examples are: <i class=“def-ital\">spectacles</i> (eye-glasses); <i class=“def-ital\">inspect</i> (to examine carefully); and <i class=“def-ital\">spectacular</i> (wonderful to look at). A SPECTATOR is someone who is looking on at what is happening; he does not take part in the event, but simply watches it. </p><p>“The SPECTATORS were amused by the clown.” </p><p>“We were unwilling SPECTATORS of the robbery.” </p><p>“The SPECTATORS at the tennis match cheered the winner.”</p>"
+    },
+    "DURABLE": {
+      "word": "DURABLE",
+      "phonetic": "(dur'-ÔøΩ-bÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">lasting, enduring, permanent, strong  The <i class=“def-ital\">dur</i> part of the word comes from a Latin word meaning to <i class=“def-ital\">last</i>. It is also found in the English word <i class=“def-ital\">endure</i>. Something that is DURABLE is able to last. It won’t break or fall apart easily. </p><p>“These toys are DURABLE. Your child will use them for years.” </p><p>“He was a DURABLE athlete. He never missed a game because of injury.” </p><p>“The can opener wasn’t very DURABLE. If you dropped it on the floor it would need to be repaired.” </p><p>Other forms of the word: DURABILITY, n.</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">able</i> under Suffixes."
+      ]
+    },
+    "DIRECT": {
+      "word": "DIRECT",
+      "phonetic": "(di-rekt')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">straight, straightforward </p><p>DIRECT means <i class=“def-ital\">straight</i>, “going from one point to another by the shortest path.” </p><p>“We wanted to take the DIRECT route to the beach, but he wanted to drive all over the place and see the sights.” </p><p>“Go DIRECTLY home. Don’t stop anywhere.” </p><p>DIRECT is also used about other things besides routes and distances, but it has the same general meaning. </p><p>“The accident was a DIRECT result of your careless- ness.” </p><p>“Don’t beat around the bush. I want a DIRECT an- swer.” </p><p>Other forms of the word: DIRECTION, n.</p>"
+    },
+    "TRICKLE": {
+      "word": "TRICKLE",
+      "phonetic": "(trik'-ÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to drip, flow slowly </p><p>TRICKLE means to <i class=“def-ital\">drip</i> or <i class=“def-ital\">flow slowly</i>. It is used about water, blood, oil, or other liquids. “Blood was TRICKLING out of his mouth.” </p><p>“The water TRICKLED out of the faucet.” </p><p>TRICKLE can also be used about other things that can be said to flow. </p><p>“The sugar TRICKLED through her fingers.” </p><p>“The students TRICKLED out of the classroom.” </p><p>TRICKLE is also a noun. </p><p>“She wiped the TRICKLE of blood from his lips.” </p><p><i class=“def-ital\">Melt</i> is often chosen as the meaning of TRICKLE on the Pretest. Something like an ice cube may TRICKLE as it melts, but things that are not melting may TRICKLE as well.</p>"
+    },
+    "CONSIDER": {
+      "word": "CONSIDER",
+      "phonetic": "(kÔøΩn-sid'-ÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to think about </p><p>To CONSIDER means to <i class=“def-ital\">think about</i> in some way. </p><p>“You must CONSIDER how your father will feel if you do that.” </p><p>“I’ve never CONSIDERED him stupid, just a little slow-moving.” </p><p>CONSIDERATION is the act of CONSIDERING. </p><p>“You should take into CONSIDERATION the fact that she’s only two years old.” </p><p>In a different sense, CONSIDERATION means <i class=“def-ital\">thoughtfulness</i>. </p><p>“He showed great CONSIDERATION for his parents by always letting them know when he expected to be back.” </p><p>Other forms of the word: CONSIDERATION, n. CONSIDERATE, adj.</p>"
+    },
+    "PLUNGE": {
+      "word": "PLUNGE",
+      "phonetic": "(pluhnj)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to dive, submerge, dip </p><p>To PLUNGE is to dive down into something such as water or a hole. </p><p>“The kite PLUNGED into the lake.” </p><p>“Alice lost her balance and PLUNGED into the well.” </p><p>To PLUNGE something is to thrust it, throw it, or cause it to fall into something. </p><p>“He PLUNGED the shovel into the ground.” </p><p>“She turned out the lights and PLUNGED the room into darkness.” </p><p>“The stock market crash PLUNGED the nation into a depression.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">step</i>. To <i class=“def-ital\">step</i> into something is also to go into it, but PLUNGE suggests a much more complete and sudden movement.</p>"
+    },
+    "DELEGATE": {
+      "word": "DELEGATE",
+      "phonetic": "(del'-ÔøΩgAt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a representative, deputy </p><p>A DELEGATE is a person who has the power to act for someone else. The word is often used about people elected to represent a group at a convention or conference. </p><p>“The DELEGATES met to vote on the party’s position on these matters.” </p><p>“Each class in the school elected a DELEGATE to represent it in the student government.” </p><p>DELEGATE is also a verb meaning “to appoint as a representative.” </p><p>“We DELEGATED Jim to be the spokesperson for the club.” </p><p>DELEGATE can also mean to <i class=“def-ital\">entrust</i> or <i class=“def-ital\">assign</i>. </p><p>“He DELEGATED complete authority to us to act as we saw fit in this matter.” </p><p>Other forms of the word: DELEGATION, n.</p>"
+    },
+    "CERTAIN": {
+      "word": "CERTAIN",
+      "phonetic": "(sert'-ÔøΩn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sure </p><p>If something is CERTAIN, it is sure; there is no doubt about it. Both people and things can be CERTAIN. </p><p>“Gloria is CERTAIN that it will be sunny on the day of the picnic.” </p><p>“A CERTAIN cure for hiccups is to hold your breath.” </p><p>“There is no CERTAIN way to prevent war from breaking out.” </p><p>The noun form of CERTAIN is CERTAINTY. A CERTAINTY is an outcome or result that is sure; there is no doubt about it. </p><p>“He was assured of winning; it was a CERTAINTY that he would come in first.” </p><p>Many people confuse CERTAIN with <i class=“def-ital\">right</i>. You can be CERTAIN of something, though, and be wrong. Other forms of the word: CERTAINTY, n.</p>"
+    },
+    "AGONY": {
+      "word": "AGONY",
+      "phonetic": "(ag'-ÔøΩnE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">great pain, torment </p><p>AGONY is great pain or suffering, either of the mind or of the body. </p><p>“Her headaches caused her constant AGONY.” </p><p>“He felt extreme AGONY when he saw the results of his careless driving.” </p><p>“She looked on in AGONY as the soldiers took away all her possessions.” </p><p>To AGONIZE is to suffer AGONY. </p><p>“Susan AGONIZED over her hopeless situation, but couldn’t do anything about it.” </p><p>Other forms of the word: AGONIZE, v. </p><p>AGONIZED, adj. </p><p>AGONIZING, adj.</p>"
+    },
+    "SLUMP": {
+      "word": "SLUMP",
+      "phonetic": "(sluhmp)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to sag, droop, slouch </p><p>SLUMP means “to drop down heavily,” to <i class=“def-ital\">sag</i> or <i class=“def-ital\">slouch</i>. </p><p>“His shoulders SLUMPED under the weight of the pack he carried.” </p><p>Someone who SLUMPS is often tired. </p><p>“He staggered into the room and SLUMPED down into a chair.” </p><p>SLUMP is sometimes used of other things besides people. </p><p>“The ice cream business always SLUMPS during the cold weather.” </p><p>SLUMP is also a noun. </p><p>“There has been a SLUMP in the price of corn.”</p>"
+    },
+    "COURTEOUS": {
+      "word": "COURTEOUS",
+      "phonetic": "(ker'-tE-:;is)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">polite, well-mannered </p><p>To be COURTEOUS is to be polite, to have good manners. </p><p>“The COURTEOUS boy held the door open for his mother.” </p><p>“Even though he was very angry at the rude question, he managed to give a COURTEOUS answer.” </p><p>“With a COURTEOUS smile, she stepped aside to let the woman with all the packages get on the bus first.” </p><p>The noun form of COURTEOUS is COURTESY, which means <i class=“def-ital\">politeness</i> or <i class=“def-ital\">polite behavior</i>. </p><p>“She showed great COURTESY to the unexpected visitor, although she was tired and wanted to go to bed.” </p><p>Other forms of the word: COURTESY, n.</p>"
+    },
+    "VARY": {
+      "word": "VARY",
+      "phonetic": "(vair'-E)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to change, become different </p><p>When something VARIES it becomes different. </p><p>“The colors of the sky at sunset VARY from minute to minute.” </p><p>To VARY something is to make it different, to change it. </p><p>“She never VARIES her hairstyle; she has always worn it short and curly.” </p><p>“He tried to VARY the way he taught the class so that his students wouldn’t get bored.” </p><p>An adjective form of VARY is VARIABLE, which means <i class=“def-ital\">changeable</i>. </p><p>“The forecast for today says that there will be VARIABLE winds and sunny skies.” </p><p>Other forms of the word: VARIABLE, adj. VARIOUS, adj.</p>"
+    },
+    "DEFINITE": {
+      "word": "DEFINITE",
+      "phonetic": "(def'-ÔøΩnit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">exact, clear, precise </p><p>Whatever is clear, exact, and leaves no room for doubt is DEFINITE. </p><p>“We have made DEFINITE plans to leave on Saturday morning.” </p><p>“Can you be more DEFINITE about the place where I’m supposed to meet you? So far you’ve been rather vague.” </p><p>“He made a DEFINITE promise to help us.” The adverb form, DEFINITELY, is often used to mean <i class=“def-ital\">surely</i>, <i class=“def-ital\">positively</i>, <i class=“def-ital\">precisely</i>. </p><p>“He DEFINITELY has a hearing problem. Three separate ear examinations have confirmed it.” </p><p>“I will DEFINITELY be there by ten o’clock.”</p>"
+    },
+    "SCARCE": {
+      "word": "SCARCE",
+      "phonetic": "(skÔøΩrs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">rare, not enough, uncommon </p><p>When something is SCARCE, it is rare or in very short supply. There is hardly any of it. </p><p>“Before these animals were protected by law, they were becoming very SCARCE.” </p><p>“When food gets SCARCE, the price goes up.” </p><p>“During the strike, steel became very SCARCE in some parts of the country.” </p><p>The noun from SCARCE is SCARCITY, which means a <i class=“def-ital\">short supply</i> of something. </p><p>“There were long lines at gasoline stations because of the SCARCITY of fuel.” </p><p>Other forms of the word: SCARCITY, n.</p>"
+    }
+  },
+  "id": "9",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Started to WILT.",
+          "answers": [
+            "fall",
+            "droop",
+            "stink",
+            "grow",
+            "lean"
+          ],
+          "word": "WILT",
+          "correct": "droop"
+        },
+        {
+          "prompt": "Too many SPECTATORS.",
+          "answers": [
+            "athletes",
+            "generals",
+            "onlookers",
+            "businessmen",
+            "visitors"
+          ],
+          "word": "SPECTATOR",
+          "correct": "onlookers"
+        },
+        {
+          "prompt": "They were DURABLE.",
+          "answers": [
+            "distant",
+            "lasting",
+            "wonderful",
+            "brief",
+            "average"
+          ],
+          "word": "DURABLE",
+          "correct": "lasting"
+        },
+        {
+          "prompt": "DIRECT path.",
+          "answers": [
+            "straight",
+            "short",
+            "first",
+            "winding",
+            "only"
+          ],
+          "word": "DIRECT",
+          "correct": "straight"
+        },
+        {
+          "prompt": "Started to TRICKLE.",
+          "answers": [
+            "boil",
+            "shine",
+            "drip",
+            "melt",
+            "stick"
+          ],
+          "word": "TRICKLE",
+          "correct": "drip"
+        },
+        {
+          "prompt": "CONSIDER the results.",
+          "answers": [
+            "hear of",
+            "throw away",
+            "question",
+            "believe",
+            "think about"
+          ],
+          "word": "CONSIDER",
+          "correct": "think about"
+        },
+        {
+          "prompt": "He PLUNGED in.",
+          "answers": [
+            "rowed",
+            "stepped",
+            "dived",
+            "floated",
+            "rolled"
+          ],
+          "word": "PLUNGE",
+          "correct": "dived"
+        },
+        {
+          "prompt": "Another DELEGATE.",
+          "answers": [
+            "representative",
+            "lawyer",
+            "citizen",
+            "spy",
+            "gentleman"
+          ],
+          "word": "DELEGATE",
+          "correct": "representative"
+        },
+        {
+          "prompt": "Were you CERTAIN?",
+          "answers": [
+            "sure",
+            "right",
+            "nearby",
+            "worried",
+            "present"
+          ],
+          "word": "CERTAIN",
+          "correct": "sure"
+        },
+        {
+          "prompt": "Their AGONY.",
+          "answers": [
+            "delight",
+            "heaviness",
+            "hard decision",
+            "great pain",
+            "great danger"
+          ],
+          "word": "AGONY",
+          "correct": "great pain"
+        },
+        {
+          "prompt": "Watched them SLUMP.",
+          "answers": [
+            "leap",
+            "dance",
+            "walk",
+            "sag",
+            "fall"
+          ],
+          "word": "SLUMP",
+          "correct": "sag"
+        },
+        {
+          "prompt": "COURTEOUS act.",
+          "answers": [
+            "polite",
+            "elegant",
+            "royal",
+            "rude",
+            "planned"
+          ],
+          "word": "COURTEOUS",
+          "correct": "polite"
+        },
+        {
+          "prompt": "Their prices may VARY.",
+          "answers": [
+            "go up",
+            "be high",
+            "come down",
+            "be shocking",
+            "change"
+          ],
+          "word": "VARY",
+          "correct": "change"
+        },
+        {
+          "prompt": "DEFINITE information.",
+          "answers": [
+            "never-ending",
+            "exact",
+            "important",
+            "unclear",
+            "useful"
+          ],
+          "word": "DEFINITE",
+          "correct": "exact"
+        },
+        {
+          "prompt": "SCARCE animals.",
+          "answers": [
+            "common",
+            "injured",
+            "tiny",
+            "rare",
+            "frightening"
+          ],
+          "word": "SCARCE",
+          "correct": "rare"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do flowers WILT if it doesn't rain for a long time?",
+          "word": "WILT",
+          "correct": "true"
+        },
+        {
+          "prompt": "If you go to watch a football game, are you a SPECTATOR?",
+          "word": "SPECTATOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are rocks DURABLE?",
+          "word": "DURABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a curving road be a DIRECT route between two places?",
+          "word": "DIRECT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can catsup TRICKLE?",
+          "word": "TRICKLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would Los Angeles be CONSIDERED a large city?",
+          "word": "CONSIDER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a diver PLUNGE into the water?",
+          "word": "PLUNGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are DELEGATES sometimes elected?",
+          "word": "DELEGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do you have to be CERTAIN of the answer before you ask a question?",
+          "word": "CERTAIN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a severe burn cause AGONY?",
+          "word": "AGONY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a soldier standing at attention SLUMP?",
+          "word": "SLUMP",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it COURTEOUS to slam a door in someone's face?",
+          "word": "COURTEOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you VARY the clothes you wear?",
+          "word": "VARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is \"No, you absolutely can't go\" a DEFINITE answer?",
+          "word": "DEFINITE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is ice SCARCE at the South Pole?",
+          "word": "SCARCE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Our excitement began to WILT when it began to appear that we really could win the championship.",
+          "word": "WILT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The SPECTATOR ruled the country cruelly and unjustly.",
+          "word": "SPECTATOR",
+          "correct": "false"
+        },
+        {
+          "prompt": "What they did to him was DURABLE. They should be arrested.",
+          "word": "DURABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He went DIRECTLY to the school after leaving his home.",
+          "word": "DIRECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "We couldn't understand how the magician was able to TRICKLE us so easily.",
+          "word": "TRICKLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He slowed down out of CONSIDERATION for the other people who couldn't walk that fast.",
+          "word": "CONSIDER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The plane PLUNGED up into the air.",
+          "word": "PLUNGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The DELEGATES to the United Nations come from all over the world.",
+          "word": "DELEGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He thought it was a CERTAINTY that he would win the match, but he lost instead.",
+          "word": "CERTAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Nothing could relieve his AGONY when his wife was killed.",
+          "word": "AGONY",
+          "correct": "true"
+        },
+        {
+          "prompt": "He SLUMPED to the ground after being hit by the ball.",
+          "word": "SLUMP",
+          "correct": "true"
+        },
+        {
+          "prompt": "The woman complained about the children's lack of COURTESY. None of them would even speak to her.",
+          "word": "COURTEOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her feelings about school VARY; sometimes she likes it, and sometimes she doesn't.",
+          "word": "VARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "He wanted some DEFINITE news, not just hints and rumors.",
+          "word": "DEFINITE",
+          "correct": "true"
+        },
+        {
+          "prompt": "That summer there was such a SCARCITY of water that no one was allowed to take a bath.",
+          "word": "SCARCE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "WILT",
+          "answers": [
+            "sink",
+            "soften",
+            "slump"
+          ],
+          "word": "WILT",
+          "correct": "1"
+        },
+        {
+          "prompt": "SPECTATOR",
+          "answers": [
+            "watcher",
+            "attendant",
+            "player"
+          ],
+          "word": "SPECTATOR",
+          "correct": "2"
+        },
+        {
+          "prompt": "DURABLE",
+          "answers": [
+            "big",
+            "strong",
+            "tough"
+          ],
+          "word": "DURABLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DIRECT",
+          "answers": [
+            "straight",
+            "unusual",
+            "short"
+          ],
+          "word": "DIRECT",
+          "correct": "1"
+        },
+        {
+          "prompt": "TRICKLE",
+          "answers": [
+            "gush",
+            "flow",
+            "drip"
+          ],
+          "word": "TRICKLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONSIDER",
+          "answers": [
+            "regard",
+            "hope",
+            "think"
+          ],
+          "word": "CONSIDER",
+          "correct": "1"
+        },
+        {
+          "prompt": "PLUNGE",
+          "answers": [
+            "sink",
+            "lose",
+            "fall"
+          ],
+          "word": "PLUNGE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DELEGATE",
+          "answers": [
+            "represent",
+            "chase",
+            "entrust"
+          ],
+          "word": "DELEGATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "CERTAIN",
+          "answers": [
+            "excellent",
+            "sure",
+            "confident"
+          ],
+          "word": "CERTAIN",
+          "correct": "0"
+        },
+        {
+          "prompt": "AGONY",
+          "answers": [
+            "danger",
+            "suffering",
+            "sorrow"
+          ],
+          "word": "AGONY",
+          "correct": "0"
+        },
+        {
+          "prompt": "SLUMP",
+          "answers": [
+            "tire",
+            "droop",
+            "widen"
+          ],
+          "word": "SLUMP",
+          "correct": "2"
+        },
+        {
+          "prompt": "COURTEOUS",
+          "answers": [
+            "friendly",
+            "smart",
+            "helpful"
+          ],
+          "word": "COURTEOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "VARY",
+          "answers": [
+            "change",
+            "wonder",
+            "differ"
+          ],
+          "word": "VARY",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEFINITE",
+          "answers": [
+            "possible",
+            "sure",
+            "clear"
+          ],
+          "word": "DEFINITE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SCARCE",
+          "answers": [
+            "little",
+            "few",
+            "none"
+          ],
+          "word": "SCARCE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

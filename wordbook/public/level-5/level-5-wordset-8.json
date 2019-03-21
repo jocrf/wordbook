@@ -1,0 +1,608 @@
+{
+  "title": "5.8",
+  "definitions": {
+    "BELLOW": {
+      "word": "BELLOW",
+      "phonetic": "(bel'-0)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to roar </p><p>To BELLOW is to make a loud, deep sound like a bull. </p><p>“The cattle BELLOWED with fear.” </p><p>“The sergeant BELLOWED out some orders to the men.” </p><p>“The drunken man BELLOWED with laughter at any- thing that happened.” </p><p>BELLOW is also a noun. </p><p>“We heard the BELLOW of the angry bull.” </p><p>Many people select <i class=“def-ital\">groan</i> as the meaning of BELLOW. To <i class=“def-ital\">groan</i> is to make a deep sound which indicates pain or sorrow. A BELLOW is also deep, but it is much louder and is done in other situations besides pain and sorrow.</p>"
+    },
+    "TAUT": {
+      "word": "TAUT",
+      "phonetic": "(tot)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">tense, tight, stretched tightly </p><p>TAUT means <i class=“def-ital\">tense</i> or <i class=“def-ital\">tightly stretched.</i> Anything like wire, rope, or chains can be pulled TAUT. </p><p>“Keep that cable TAUT; if the tension falls off, we’ll have an accident.” </p><p>“If the wire is too TAUT it will snap under the strain.” </p><p>TAUT is also used about mental tension. </p><p>“Her nerves were TAUT and strained after the hours of waiting.”</p>"
+    },
+    "HUBBUB": {
+      "word": "HUBBUB",
+      "phonetic": "{huhb'-uhb)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">confused noise, uproar, din; turmoil, confusion </p><p>A HUBBUB is a mixture of loud sounds and voices, an <i class=“def-ital\">uproar</i> </p><p>“She couldn’t hear a thing above the HUBBUB of children shouting to one another.” </p><p>“This HUBBUB gives me a headache.” </p><p>Sometimes HUBBUB is used about any kind of confused situation. </p><p>“We lost sight of each other in the HUBBUB of the marketplace.”</p>"
+    },
+    "PITEOUS": {
+      "word": "PITEOUS",
+      "phonetic": "(pit'-E-:)s)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">deserving pity, sorrowful, distressing, pathetic </p><p>PITEOUS is an adjective from PITY. It means “deserving or arousing PITY.”  Something is PITEOUS if it is so sad and distressing that it almost breaks your heart. </p><p>“He could not ignore their PITEOUS cries for help.” </p><p>“With a last PITEOUS glance behind him he left his home forever.” </p><p>“The ruins of the once-great mansion were truly a PITEOUS sight.” </p><p>Other forms of the word: PITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "MEEK": {
+      "word": "MEEK",
+      "phonetic": "(mEk)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">mild, modest, humble, tame </p><p>A MEEK person is mild and uncomplaining. He is not likely to stand up for his rights or get angry at anyone. Usually the word suggests that this mildness is bad, and that the MEEK person lacks spirit or confidence. </p><p>“He was a MEEK little man who jumped whenever anyone called his name.” </p><p>“She MEEKLY begged our pardon for having interrupted us.” </p><p>“A salesman should not be MEEK when talking to customers.” </p><p><i class=“def-ital\">Small</i> is the most common incorrect choice on the Pre- test, probably because MEEK people are often pictured as being <i class=“def-ital\">small</i> and weak.</p>"
+    },
+    "LABYRINTH": {
+      "word": "LABYRINTH",
+      "phonetic": "(lab'-:)-rinth)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a maze </p><p>In Greek mythology, the LABYRINTH was a bewilderingly complicated network of passages in which a dreaded beast, the Minotaur, was kept. LABYRINTH has come to be used about any similarly complicated structure through which it is difficult to find your way without help, a <i class=“def-ital\">maze.</i> The word is also used about a situation or a state of affairs which is entangled or hard to get through. </p><p>“It was impossible to make your way through the LABYRINTH of plots and subplots in the novel.” </p><p>Other forms of the word: LABYRINTHINE, adj.</p>"
+    },
+    "HEARTEN": {
+      "word": "HEARTEN",
+      "phonetic": "(hahr'-tÔøΩn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to give heart to, encourage, cheer </p><p>HEARTEN comes from the word <i class=“def-ital\">heart.</i> To HEARTEN is to put <i class=“def-ital\">heart</i> into, to give courage, hope, or enthusiasm to. </p><p>“The soldiers were very depressed, but the general’s speech HEARTENED them considerably.” </p><p>“The teacher was HEARTENED by her students’ love for learning.” </p><p>“They were three runs behind, but they were HEARTENED by the thought that their best hitters were coming up.” </p><p>Many people think HEARTEN means <i class=“def-ital\">sadden,</i> which is an opposite. These people may confuse HEARTEN with DISHEARTEN, which means to <i class=“def-ital\">discourage.</i></p>"
+    },
+    "ACCLAIM": {
+      "word": "ACCLAIM",
+      "phonetic": "(ÔøΩklAm')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to praise, applaud; to announce, proclaim </p><p>ACCLAIM comes from a Latin word meaning to <i class=“def-ital\">shout</i>, also the source of the word <i class=“def-ital\">clamor.</i> To ACCLAIM some- thing is to praise it, especially publicly and enthusiastically. </p><p>“The crowd ACCLAIMED the heroes returning from the war.” </p><p>“The critics ACCLAIMED the new movie as one of the greatest ever made.” </p><p>In a different sense, ACCLAIM can mean “to declare publicly and approvingly.” </p><p>“The noblemen ACCLAIMED him their new king.” </p><p>ACCLAIM is also a noun, meaning <i class=“def-ital\">great praise.</i> </p><p>“The play received great ACCLAIM at its first perfor- mance.” </p><p>Other forms of the word: ACCLAMATION, n.</p>"
+    },
+    "TOIL": {
+      "word": "TOIL",
+      "phonetic": "(toyl)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">labor, hard work </p><p>TOIL is hard work, labor which wearies or exhausts a person. </p><p>“It took years of TOIL to produce his masterpiece.” </p><p>“She always said that TOIL and trouble build one’s character.” </p><p>TOIL is also used as a verb meaning to <i class=“def-ital\">work hard.</i> </p><p>“The farmer was TOILING in the field under the hot sun.” </p><p>“He TOILED at rebuilding the house.” </p><p>Many people choose <i class=“def-ital\">confusion</i> as the meaning of TOIL, perhaps because TOIL looks like <i class=“def-ital\">turmoil,</i> which means <i class=“def-ital\">disorder, confusion.</i></p>"
+    },
+    "REVERT": {
+      "word": "REVERT",
+      "phonetic": "(ri-vert')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to return, turn back </p><p> The <i class=“def-ital\">vert</i> part of the word means <i class=“def-ital\">turn</i> and is found in other words like <i class=“def-ital\">convert</i> and <i class=“def-ital\">avert.</i> To REVERT is to turn back or return to an original con- dition, topic, idea, or the like. </p><p>“After four years of being good he REVERTED to his former evil ways.” </p><p>“I hate to keep REVERTING to my original question, but no one has given me a satisfactory answer yet.” </p><p>In law, REVERT is used about property or rights which return to someone under certain conditions. </p><p>“Upon his death, all his property will REVERT to the state.” </p><p>Other forms of the word: REVERSION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "OBLITERATE": {
+      "word": "OBLITERATE",
+      "phonetic": "(ÔøΩ-blit'-ÔøΩ-rAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to erase, wipe out, destroy </p><p>To OBLITERATE something is to cover it up or wipe it out completely, so that nothing remains or can be seen. </p><p>“The dark clouds completely OBLITERATED the sun.” </p><p>“The incoming waves OBLITERATED all traces of the drawing he had made in the sand.” </p><p>OBLITERATE is a very strong word. It can mean to <i class=“def-ital\">destroy utterly.</i> </p><p>“The enemy’s bombs OBLITERATED the town.” </p><p><i class=“def-ital\">Break</i> is the most common mistake as the meaning of OBLITERATE. <i class=“def-ital\">Break</i> is a much weaker word than OBLITERATE, though. You can <i class=“def-ital\">break</i> something without OBLITERATING it. </p><p>Other forms of the word: OBLITERATION, n.</p>"
+    },
+    "ARMAMENT": {
+      "word": "ARMAMENT",
+      "phonetic": "(ahr'-mÔøΩmgnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">weapons, military equipment </p><p>ARMAMENT means <i class=“def-ital\">weapons,</i> especially those used in warfare. It is related to the word <i class=“def-ital\">arms,</i> which can also mean weapons. </p><p>“The warships were provided with all the latest AR- MAMENT.” </p><p>It is often used in the plural for the total military strength of a country. </p><p>“We must have better ARMAMENTS if this nation is to be strong.”</p>"
+    },
+    "LITERAL": {
+      "word": "LITERAL",
+      "phonetic": "(lit'-gr-gl)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">exact, true to fact </p><p>LITERAL comes from the Latin word for <i class=“def-ital\">letter,</i> also the source of the word <i class=“def-ital\">literature.</i> LITERAL means “following the words or the meaning of the original exactly.” A LITERAL translation is an exact translation, one which says precisely what the original writer said in another language. The “LITERAL sense of a word” is its exact original meaning. </p><p>“He was thrown out of the game in the LITERAL sense of the words; two players picked him up and tossed him off the field.” </p><p>The adverb LITERALLY is often used to mean <i class=“def-ital\">actually, truly, without exaggeration.</i> </p><p>“He LITERALLY fell flat on his face the first time he tried to rollerskate.”</p>"
+    },
+    "SIMPLETON": {
+      "word": "SIMPLETON",
+      "phonetic": "(sim'-pgl-tgn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a fool, idiot </p><p>A SIMPLETON is a person who is or acts simple-minded. He is silly and easily fooled and sometimes lacks the ability to get along in the world. </p><p>“He was such a SIMPLETON that we didn’t want to take advantage of him.” </p><p>“We felt like SIMPLETONS after he showed how he had fooled us.”</p>"
+    },
+    "TARRY": {
+      "word": "TARRY",
+      "phonetic": "(ta'-rE)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to delay, lag, be slow; to remain, stay </p><p>TARRY has two meanings. The first meaning of TARRY is to <i class=“def-ital\">delay</i> or <i class=“def-ital\">hang back,</i> to <i class=“def-ital\">be slow</i> in coming or going, to <i class=“def-ital\">dawdle.</i> </p><p>“He TARRIES so long getting dressed that he’s always late for school.” </p><p>“Her mother called up to her, ‘Don’t TARRY any longer; we’re leaving immediately.’ </p><p>” The other meaning of TARRY is to <i class=“def-ital\">stay</i> or <i class=“def-ital\">remain.</i> </p><p>“We TARRIED at the seashore for a few more days.” </p><p>“Please TARRY awhile; we enjoy hearing about your travels.” </p><p><i class=“def-ital\">Rush</i> is the most commonly chosen wrong answer on the Pretest, perhaps because TARRY sounds like <i class=“def-ital\">hurry.</i></p>"
+    }
+  },
+  "id": "8",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Heard them BELLOW.",
+          "answers": [
+            "groan",
+            "squeal",
+            "roar",
+            "growl",
+            "whisper"
+          ],
+          "word": "BELLOW",
+          "correct": "roar"
+        },
+        {
+          "prompt": "Kept it TAUT.",
+          "answers": [
+            "small",
+            "narrow",
+            "loose",
+            "light",
+            "tense"
+          ],
+          "word": "TAUT",
+          "correct": "tense"
+        },
+        {
+          "prompt": "Started the HUBBUB.",
+          "answers": [
+            "explosion",
+            "awful book",
+            "confused noise",
+            "music",
+            "headache"
+          ],
+          "word": "HUBBUB",
+          "correct": "confused noise"
+        },
+        {
+          "prompt": "PITEOUS sounds.",
+          "answers": [
+            "sorrowful",
+            "lonely",
+            "harsh",
+            "bothersome",
+            "awful"
+          ],
+          "word": "PITEOUS",
+          "correct": "sorrowful"
+        },
+        {
+          "prompt": "A MEEK person.",
+          "answers": [
+            "happy",
+            "mild",
+            "small",
+            "tired",
+            "proud"
+          ],
+          "word": "MEEK",
+          "correct": "mild"
+        },
+        {
+          "prompt": "She entered the LABYRINTH.",
+          "answers": [
+            "castle",
+            "pit",
+            "Greek city",
+            "maze",
+            "lane"
+          ],
+          "word": "LABYRINTH",
+          "correct": "maze"
+        },
+        {
+          "prompt": "HEARTENED by the news.",
+          "answers": [
+            "bored",
+            "improved",
+            "encouraged",
+            "saddened",
+            "upset"
+          ],
+          "word": "HEARTEN",
+          "correct": "encouraged"
+        },
+        {
+          "prompt": "They ACCLAIMED it.",
+          "answers": [
+            "praised",
+            "needed",
+            "hated",
+            "accepted",
+            "desired"
+          ],
+          "word": "ACCLAIM",
+          "correct": "praised"
+        },
+        {
+          "prompt": "Constant TOIL.",
+          "answers": [
+            "pleasure",
+            "sorrow",
+            "heat",
+            "confusion",
+            "labor"
+          ],
+          "word": "TOIL",
+          "correct": "labor"
+        },
+        {
+          "prompt": "REVERT to savagery.",
+          "answers": [
+            "refer",
+            "lean",
+            "return",
+            "admit",
+            "change"
+          ],
+          "word": "REVERT",
+          "correct": "return"
+        },
+        {
+          "prompt": "Wanted to OBLITERATE it.",
+          "answers": [
+            "shorten",
+            "polish",
+            "write",
+            "erase",
+            "break"
+          ],
+          "word": "OBLITERATE",
+          "correct": "erase"
+        },
+        {
+          "prompt": "Effective ARMAMENT.",
+          "answers": [
+            "charms",
+            "laws",
+            "methods",
+            "threats",
+            "weapons"
+          ],
+          "word": "ARMAMENT",
+          "correct": "weapons"
+        },
+        {
+          "prompt": "LITERAL translations.",
+          "answers": [
+            "exact",
+            "excellent",
+            "learned",
+            "difficult",
+            "loose"
+          ],
+          "word": "LITERAL",
+          "correct": "exact"
+        },
+        {
+          "prompt": "They were SIMPLETONS.",
+          "answers": [
+            "farmers",
+            "comedians",
+            "fools",
+            "saints",
+            "bachelors"
+          ],
+          "word": "SIMPLETON",
+          "correct": "fools"
+        },
+        {
+          "prompt": "They always TARRY.",
+          "answers": [
+            "forget",
+            "delay",
+            "wonder",
+            "rush",
+            "limp"
+          ],
+          "word": "TARRY",
+          "correct": "delay"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do mice BELLOW?",
+          "word": "BELLOW",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person whose nerves are TAUT be calm?",
+          "word": "TAUT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it difficult to hear someone in a HUBBUB?",
+          "word": "HUBBUB",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can PITEOUS sights make a person cry?",
+          "word": "PITEOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should a boxer be MEEK when he's fighting?",
+          "word": "MEEK",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it easy to go through a LABYRINTH?",
+          "word": "LABYRINTH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would discouraging news HEARTEN you?",
+          "word": "HEARTEN",
+          "correct": "false"
+        },
+        {
+          "prompt": "If people ACCLAIM something do they like it?",
+          "word": "ACCLAIM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does TOIL often tire people out?",
+          "word": "TOIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do butterflies REVERT to being caterpillars?",
+          "word": "REVERT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could an earthquake OBLITERATE a city?",
+          "word": "OBLITERATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are a soldier's medals a part of his ARMAMENT?",
+          "word": "ARMAMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "If a woman is very beautiful, is she LITERALLY a goddess?",
+          "word": "LITERAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are SIMPLETONS bright?",
+          "word": "SIMPLETON",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people TARRY when they have to get somewhere quickly?",
+          "word": "TARRY",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "They could hear animals BELLOWING in the jungle.",
+          "word": "BELLOW",
+          "correct": "true"
+        },
+        {
+          "prompt": "The dog pulled his chain so TAUT that he started to choke.",
+          "word": "TAUT",
+          "correct": "true"
+        },
+        {
+          "prompt": "She went on her vacation to a quiet HUBBUB in the woods.",
+          "word": "HUBBUB",
+          "correct": "false"
+        },
+        {
+          "prompt": "The children cried PITEOUSLY as the soldiers took their father away.",
+          "word": "PITEOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Don't be so MEEK. If you think you're right, say so.",
+          "word": "MEEK",
+          "correct": "true"
+        },
+        {
+          "prompt": "The palace was a LABYRINTH of secret passages and hidden staircases.",
+          "word": "LABYRINTH",
+          "correct": "true"
+        },
+        {
+          "prompt": "I was HEARTENED by your kind words.",
+          "word": "HEARTEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "The man ACCLAIMED the money was his because he had found it.",
+          "word": "ACCLAIM",
+          "correct": "false"
+        },
+        {
+          "prompt": "They TOILED for many years to build the church.",
+          "word": "TOIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bob narrowly REVERTED being injured when the stairs collapsed.",
+          "word": "REVERT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The falling snow quickly OBLITERATED all traces of the horse's tracks.",
+          "word": "OBLITERATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The government spends a great deal of the tax money it collects for ARMAMENTS.",
+          "word": "ARMAMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He prepared a LITERAL translation of the play, so that people would know exactly how it went in the original Spanish.",
+          "word": "LITERAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "He stood there like a SIMPLETON, with a stupid grin on his face.",
+          "word": "SIMPLETON",
+          "correct": "true"
+        },
+        {
+          "prompt": "Joan TARRIED to the store to get there before it closed.",
+          "word": "TARRY",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "BELLOW",
+          "answers": [
+            "shout",
+            "sigh",
+            "howl"
+          ],
+          "word": "BELLOW",
+          "correct": "1"
+        },
+        {
+          "prompt": "TAUT",
+          "answers": [
+            "pulling",
+            "stretching",
+            "struggling"
+          ],
+          "word": "TAUT",
+          "correct": "2"
+        },
+        {
+          "prompt": "HUBBUB",
+          "answers": [
+            "size",
+            "confusion",
+            "uproar"
+          ],
+          "word": "HUBBUB",
+          "correct": "0"
+        },
+        {
+          "prompt": "PITEOUS",
+          "answers": [
+            "sad",
+            "pathetic",
+            "weird"
+          ],
+          "word": "PITEOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "MEEK",
+          "answers": [
+            "humble",
+            "sad",
+            "shy"
+          ],
+          "word": "MEEK",
+          "correct": "1"
+        },
+        {
+          "prompt": "LABYRINTH",
+          "answers": [
+            "monster",
+            "maze",
+            "tangle"
+          ],
+          "word": "LABYRINTH",
+          "correct": "0"
+        },
+        {
+          "prompt": "HEARTEN",
+          "answers": [
+            "frighten",
+            "encourage",
+            "comfort"
+          ],
+          "word": "HEARTEN",
+          "correct": "0"
+        },
+        {
+          "prompt": "ACCLAIM",
+          "answers": [
+            "shout",
+            "expect",
+            "applaud"
+          ],
+          "word": "ACCLAIM",
+          "correct": "1"
+        },
+        {
+          "prompt": "TOIL",
+          "answers": [
+            "cheapen",
+            "slave",
+            "labor"
+          ],
+          "word": "TOIL",
+          "correct": "0"
+        },
+        {
+          "prompt": "REVERT",
+          "answers": [
+            "stay",
+            "relapse",
+            "go back"
+          ],
+          "word": "REVERT",
+          "correct": "0"
+        },
+        {
+          "prompt": "OBLITERATE",
+          "answers": [
+            "cover",
+            "destroy",
+            "change"
+          ],
+          "word": "OBLITERATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ARMAMENT",
+          "answers": [
+            "supplies",
+            "threats",
+            "weapons"
+          ],
+          "word": "ARMAMENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "LITERAL",
+          "answers": [
+            "true",
+            "precise",
+            "general"
+          ],
+          "word": "LITERAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "SIMPLETON",
+          "answers": [
+            "moron",
+            "bully",
+            "idiot"
+          ],
+          "word": "SIMPLETON",
+          "correct": "1"
+        },
+        {
+          "prompt": "TARRY",
+          "answers": [
+            "wait",
+            "drive",
+            "stay"
+          ],
+          "word": "TARRY",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

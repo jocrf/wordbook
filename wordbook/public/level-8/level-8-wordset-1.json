@@ -1,0 +1,608 @@
+{
+  "title": "8.1",
+  "definitions": {
+    "EVINCE": {
+      "word": "EVINCE",
+      "phonetic": "(i-vins')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to exhibit, manifest, reveal </p><p>To EVINCE is to show or demonstrate clearly by some outward sign. The word is applied to emotions, interests, and the like, not to physical characteristics. </p><p>“He EVINCED no desire to go with us.” </p><p>“EVINCING his displeasure with a frown, the manager told Bill to come to his office.” </p><p>“The judge said he would have been more lenient if the criminals had EVINCED any regret.”</p>"
+    },
+    "LUGUBRIOUS": {
+      "word": "LUGUBRIOUS",
+      "phonetic": "(lu-gU'-brE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">mournful, dismal, melancholy, doleful </p><p>LUGUBRIOUS means “expressing, or giving rise to, great sorrow.” Usually the word is used in a half-humorous sense, about a person or thing that is gloomy in an excessive or exaggerated way. </p><p>“The LUGUBRIOUS organ music seemed out of place in the modern office building.” </p><p>“The LUGUBRIOUS man could talk of nothing but funerals and graveyards.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">merry</i>, which is opposite in meaning to LUGUBRIOUS. Perhaps people are misled by the humorous way.in which LUGUBRIOUS is often used.</p>"
+    },
+    "MITIGATE": {
+      "word": "MITIGATE",
+      "phonetic": "(mit'-ÔøΩ-gAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to soften, moderate, alleviate, relieve </p><p>To MITIGATE something is to make it less severe or painful, to moderate its force or intensity. </p><p>“The judge refused to MITIGATE Stanley’s punishment, even though he promised never to steal again.” </p><p>“The warm fire and pleasant conversation somewhat MITIGATED the inconvenience of being snowbound.” </p><p>“MITIGATING circumstances” are those that might tend to lessen the severity of an offense. </p><p>“The man admitted he had stolen the car, but argued that there were MITIGATING circumstances: his wife was about to have a baby, and they had no other way of getting to the hospital.” </p><p>The most commonly chosen wrong answer is “argue over,” possibly due to confusion with <i class=“def-ital\">litigate</i>, which means “to engage in legal proceedings.” </p><p>Other forms of the word: MITIGATION, n. MITIGATIVE, adj.</p>"
+    },
+    "PATENTLY": {
+      "word": "PATENTLY",
+      "phonetic": "(pat'-ÔøΩnt-lE",
+      "pos": "adv.",
+      "deftext": "<p class=\"definition\">obviously, clearly, plainly </p><p>The adjective PATENT means “open to view,” <i class=“def-ital\">obvious</i>, <i class=“def-ital\">evident</i>. </p><p>“Her displeasure with the worker was PATENT: she stormed back and forth, shaking her head and muttering threats.” </p><p>The adverbial form of the word, PATENTLY, is perhaps seen more frequently. It means <i class=“def-ital\">obviously</i>, <i class=“def-ital\">clearly</i>. </p><p>“The expert said the painting was PATENTLY a fake, done by a crude amateur.” </p><p>“His claim to be the world’s greatest writer was PATENTLY ridiculous.” </p><p>Other forms of the word: PATENT, adj.</p>"
+    },
+    "PERPETRATE": {
+      "word": "PERPETRATE",
+      "phonetic": "(per'-pÔøΩ-trAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to commit, perform, carry out </p><p>To PERPETRATE means to <i class=“def-ital\">commit</i>. The word is usually applied to crimes, but may also refer to actions which, though not criminal, are offensive or deplorable. </p><p>“The butler was accused of PERPETRATING the murder.” </p><p>“The bank robberies were PERPETRATED by a gang of master criminals.” </p><p>“The angry teacher said that whoever had PERPETRATED the practical joke would be punished.” </p><p>Other forms of the word: PERPETRATION, n. PERPETRATOR, n.</p>"
+    },
+    "PLAINTIVE": {
+      "word": "PLAINTIVE",
+      "phonetic": "(plAn'-tiv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">mournful, melancholy, sorrowful, doleful </p><p>PLAINTIVE is related to the word <i class=“def-ital\">complaint</i>. Both come originally from a Latin word meaning “to beat one’s breast,” to <i class=“def-ital\">lament</i>. PLAINTIVE means <i class=“def-ital\">sorrowful</i>, <i class=“def-ital\">melancholy</i>. It is usually used about sounds that are mournful or pitiful. </p><p>“In a PLAINTIVE voice the child said he couldn’t find his mother.” </p><p>“The PLAINTIVE melody of the Chopin nocturne made me feel sad and reflective.” </p><p>“The hungry man PLAINTIVELY begged for food.” </p><p><i class=“def-ital\">Questioning</i> is the most commonly chosen wrong answer, possibly because to <i class=“def-ital\">complain</i> about something is in a sense to <i class=“def-ital\">question</i> it.</p>"
+    },
+    "TRACTABLE": {
+      "word": "TRACTABLE",
+      "phonetic": "(trak'-tJ-bJI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">obedient, governable, docile </p><p>TRACTABLE means “able to be easily controlled or handled.” It is used about persons and animals. </p><p>“The child became quite TRACTABLE when we told her she couldn’t watch TV if she didn’t obey us.” </p><p>“Beth was afraid of horses, so we let her ride the TRACTABLE old mare before trying any of the more spirited horses.” </p><p>When used about things, TRACTABLE can mean “easy to work with,” <i class=“def-ital\">malleable</i>. </p><p>“The sculptor found this type of clay to be quite TRACTABLE and used it in many of his works.” </p><p>The opposite of TRACTABLE, INTRACTABLE, is frequently used. </p><p>“The INTRACTABLE child simply refused to eat his spinach.” </p><p>Other forms of the word: INTRACTABLE, adj. TRACTABILITY, n.</p>"
+    },
+    "ACCEDE": {
+      "word": "ACCEDE",
+      "phonetic": "(ak-sEd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to agree, assent, consent </p><p>The <i class=“def-ital\">cede</i> part of ACCEDE comes from a Latin word meaning to <i class=“def-ital\">yield</i>, also found in <i class=“def-ital\">concede</i> and <i class=“def-ital\">cede</i>.  To ACCEDE to something is to yield to it, to give one’s assent to it, often after persuasion. It is followed by <i class=“def-ital\">to</i>. </p><p>“If you do not ACCEDE to our demands we will go on strike.” </p><p>“The professor ACCEDED to Jim’s request for an extra day to complete his paper.” </p><p>“The treasurer was not prepared to ACCEDE to any changes in the budget.” </p><p><i class=“def-ital\">Give</i> is the most commonly chosen wrong answer, perhaps because of the word <i class=“def-ital\">cede</i>.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ad-</i> under Prefixes."
+      ]
+    },
+    "DIADEM": {
+      "word": "DIADEM",
+      "phonetic": "(dl1",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a crown, ornamental headband </p><p>A DIADEM was originally a cloth headband worn by Eastern monarchs as a sign of their royal power and dignity. This custom was taken over by Alexander the Great when he conquered their countries. DIADEM then came to be used for any kind of crown used as an emblem of royalty. In an extended sense, DIADEM can be used to refer to the royalty itself. </p><p>“The emperor wore his DIADEM only on ceremonial occasions.” </p><p>“Upon the death of the king, several powerful dukes contended for the DIADEM and scepter of royal power.”</p>"
+    },
+    "DROLL": {
+      "word": "DROLL",
+      "phonetic": "(drOI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">comical, laughable, amusing </p><p>DROLL comes from a French noun meaning “jolly little fellow,” <i class=“def-ital\">buffoon</i>, and the word is still used in this way. But it is most frequently used as an adjective and means “amusing in a sly, odd, or whimsical way.” The word suggests the soft-spoken humor of a Yankee storyteller rather than the broad slapstick of a clown. </p><p>“Mr. Peters told us a DROLL story about being mistaken for a famous movie star.” </p><p>“The DROLL bartender had a funny story on every subject.” </p><p>“We were all amused by the chimpanzee’s DROLL actions.” </p><p>Many people think DROLL means <i class=“def-ital\">serious</i>, which has virtually the opposite meaning. A DROLL person may have a serious expression while telling a funny story, and this may be a cause of the confusion. </p><p>Other forms of the word: DROLLERY, n.</p>"
+    },
+    "ENNUI": {
+      "word": "ENNUI",
+      "phonetic": "(ahn-wE')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">boredom, tedium </p><p>Note the pronunciation. ENNUI is from the French, and keeps its French pronunciation. ENNUI is a feeling of dissatisfaction and weariness that stems from a lack of interest in one’s surroundings and activities. People who feel ENNUI lack the energy or the desire to do the kinds of things they might previously have enjoyed. </p><p>“Susan tried to relieve her ENNUI by going skiing in the Rockies, but when she came back she was just as bored as ever.” </p><p>“The sameness of his life provoked a strong sense of ENNUI in Mr. Simpson. He just didn’t feel like doing the same old job, day in and day out.” </p><p>“John had such a strong feeling of ENNUI that all he did was lie around the house all day.”</p>"
+    },
+    "INDISPOSED": {
+      "word": "INDISPOSED",
+      "phonetic": "{in-dis-pOzd')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">mildly ill; unwilling </p><p>One meaning of the verb <i class=“def-ital\">dispose</i> is “to be willing or receptive.” </p><p>“I am DISPOSED to believe you.” </p><p>To be INDISPOSED is to be unwilling or disinclined.  </p><p>“Bill was tired and grumpy and generally INDISPOSED to listen to Ralph’s excuses.” </p><p>INDISPOSED is usually seen with a very different meaning: <i class=“def-ital\">mildly ill</i>. The image is of a person who is not feeling well and is therefore not disposed to do something. </p><p>“When Ted called, Marge’s roommate said she was INDISPOSED and couldn’t come to the phone.” </p><p>“The performance had to be canceled because the star was INDISPOSED.” </p><p>Other forms of the word: INDISPOSITION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "INJUNCTION": {
+      "word": "INJUNCTION",
+      "phonetic": "(in-juh",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an order, command, directive </p><p>An INJUNCTION is a command to do or not do something. </p><p>“With a last INJUNCTION to eat well and wear clean socks, the anxious mother sent her son off to summer camp.” </p><p>“He conscientiously obeyed his doctor’s INJUNCTION not to eat tomatoes.” </p><p>INJUNCTION is a frequently used term in law, where it refers to a court order that must be obeyed on penalty of being held in contempt of court. </p><p>“The court issued an INJUNCTION against the illegal strike.” </p><p>“The reporter disobeyed the court’s INJUNCTION to hand over his notes.”</p>"
+    },
+    "REGALE": {
+      "word": "REGALE",
+      "phonetic": "(ri-gAI')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to delight, entertain, gratify </p><p>REGALE is related to the word <i class=“def-ital\">regal</i>. It means “to entertain or give pleasure to.” The word suggests the kind of lavish or sumptuous entertainment a king would provide. </p><p>“Mary REGALED her guests with fine wines and delicious cheeses.” </p><p>“The speaker REGALED the audience with his tales of life on the high seas.” </p><p>“Jim liked to REGALE himself with memories of the athletic triumphs of his college days.”</p>"
+    },
+    "VAGARY": {
+      "word": "VAGARY",
+      "phonetic": "(vA'-g:-rE",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a whim, caprice, flight of fancy </p><p>A VAGARY is a fanciful, extravagant idea or notion. </p><p>“No one was quite sure if the learned man’s occasional strange ideas were harmless VAGARIES or brilliant insights.” </p><p>In a slightly different sense, a VAGARY is an unpredictable or erratic action. </p><p>“The VAGARIES of New England weather make it a chancy thing to plan outdoor activities.” </p><p>“Experts tried in vain to explain the VAGARIES of the stock market.”</p>"
+    }
+  },
+  "id": "1",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "to EVINCE",
+          "answers": [
+            "exhibit",
+            "arouse",
+            "overcome",
+            "need",
+            "eject"
+          ],
+          "word": "EVINCE",
+          "correct": "exhibit"
+        },
+        {
+          "prompt": "LUGUBRIOUS",
+          "answers": [
+            "merry",
+            "angry",
+            "mournful",
+            "proud",
+            "dangerous"
+          ],
+          "word": "LUGUBRIOUS",
+          "correct": "mournful"
+        },
+        {
+          "prompt": "to MITIGATE",
+          "answers": [
+            "worsen",
+            "soften",
+            "prevent",
+            "argue over",
+            "perfect"
+          ],
+          "word": "MITIGATE",
+          "correct": "soften"
+        },
+        {
+          "prompt": "PATENTLY",
+          "answers": [
+            "rarely",
+            "usually",
+            "continually",
+            "cleverly",
+            "obviously"
+          ],
+          "word": "PATENTLY",
+          "correct": "obviously"
+        },
+        {
+          "prompt": "to PERPETRATE",
+          "answers": [
+            "solve",
+            "plan",
+            "commit",
+            "recall",
+            "explore"
+          ],
+          "word": "PERPETRATE",
+          "correct": "commit"
+        },
+        {
+          "prompt": "PLAINTIVE",
+          "answers": [
+            "soothing",
+            "questioning",
+            "common",
+            "mournful",
+            "unfortunate"
+          ],
+          "word": "PLAINTIVE",
+          "correct": "mournful"
+        },
+        {
+          "prompt": "TRACTABLE",
+          "answers": [
+            "obedient",
+            "stubborn",
+            "noticeable",
+            "lovely",
+            "friendly"
+          ],
+          "word": "TRACTABLE",
+          "correct": "obedient"
+        },
+        {
+          "prompt": "to ACCEDE",
+          "answers": [
+            "refuse",
+            "confess",
+            "interrupt",
+            "give",
+            "agree"
+          ],
+          "word": "ACCEDE",
+          "correct": "agree"
+        },
+        {
+          "prompt": "DIADEM",
+          "answers": [
+            "ring",
+            "star",
+            "crown",
+            "robe",
+            "necklace"
+          ],
+          "word": "DIADEM",
+          "correct": "crown"
+        },
+        {
+          "prompt": "DROLL",
+          "answers": [
+            "comical",
+            "serious",
+            "cruel",
+            "uneducated",
+            "tuneful"
+          ],
+          "word": "DROLL",
+          "correct": "comical"
+        },
+        {
+          "prompt": "ENNUI",
+          "answers": [
+            "boredom",
+            "envy",
+            "weakness",
+            "calmness",
+            "courtesy"
+          ],
+          "word": "ENNUI",
+          "correct": "boredom"
+        },
+        {
+          "prompt": "INDISPOSED",
+          "answers": [
+            "too busy",
+            "dying",
+            "ignorant",
+            "mildly ill",
+            "unhelpful"
+          ],
+          "word": "INDISPOSED",
+          "correct": "mildly ill"
+        },
+        {
+          "prompt": "INJUNCTION",
+          "answers": [
+            "plea",
+            "arrest",
+            "command",
+            "connection",
+            "penalty"
+          ],
+          "word": "INJUNCTION",
+          "correct": "command"
+        },
+        {
+          "prompt": "to REGALE",
+          "answers": [
+            "offend",
+            "delight",
+            "rejoin",
+            "ridicule",
+            "admire"
+          ],
+          "word": "REGALE",
+          "correct": "delight"
+        },
+        {
+          "prompt": "VAGARY",
+          "answers": [
+            "lie",
+            "whim",
+            "trick",
+            "symptom",
+            "hope"
+          ],
+          "word": "VAGARY",
+          "correct": "whim"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a sneer EVINCE scorn?",
+          "word": "EVINCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are LUGUBRIOUS people fun to have around?",
+          "word": "LUGUBRIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would winning a million dollars MITIGATE one's financial problems?",
+          "word": "MITIGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a PATENT mistake easy to spot?",
+          "word": "PATENTLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you PERPETRATE a masterpiece?",
+          "word": "PERPETRATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a mother enjoy hearing her child make PLAINTIVE sounds?",
+          "word": "PLAINTIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do teachers prefer TRACTABLE students?",
+          "word": "TRACTABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a generous person readily ACCEDE to a request?",
+          "word": "ACCEDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a DIADEM valuable?",
+          "word": "DIADEM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a stodgy person be DROLL?",
+          "word": "DROLL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a yawn be evidence of ENNUI?",
+          "word": "ENNUI",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a headache make one INDISPOSED?",
+          "word": "INDISPOSED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a conviction the same as an INJUNCTION?",
+          "word": "INJUNCTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could amusing stories REGALE a person?",
+          "word": "REGALE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a letter contain VAGARIES?",
+          "word": "VAGARY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Sally EVINCED her anger by slamming the door behind her.",
+          "word": "EVINCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The LUGUBRIOUS man laughed heartily at the story of our adventures.",
+          "word": "LUGUBRIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The judge said that, since there were no MITIGATING circumstances, he would have to impose the full penalty prescribed by law.",
+          "word": "MITIGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The track coach said it was PATENTLY impossible for anyone to run so fast.",
+          "word": "PATENTLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The critic said that the actors who had PERPETRATED these dismal performances should be banned from the theater.",
+          "word": "PERPETRATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The student PLAINTIVELY requested just one more day in which to finish the report.",
+          "word": "PLAINTIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The unruly prisoners became TRACTABLE when they were threatened with further punishment.",
+          "word": "TRACTABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He ACCEDED to us all we could ask for.",
+          "word": "ACCEDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The king placed the DIADEM on the young prince's head as a symbol of the transfer of power",
+          "word": "DIADEM",
+          "correct": "true"
+        },
+        {
+          "prompt": "The DROLL tolling of the bell told us the funeral was over.",
+          "word": "DROLL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Jack's ENNUI deepened as they continued to talk about things he wasn't interested in.",
+          "word": "ENNUI",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jane was INDISPOSED to help someone who had been rude to her.",
+          "word": "INDISPOSED",
+          "correct": "true"
+        },
+        {
+          "prompt": "She ignored the dentist's INJUNCTION to brush her teeth after every meal.",
+          "word": "INJUNCTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Their mother REGALED them to clean up their rooms fast.",
+          "word": "REGALE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Students enjoyed the professor's occasional VAGARIES more than his formal presentation of the material.",
+          "word": "VAGARY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "EVINCE",
+          "answers": [
+            "manifest",
+            "display",
+            "create"
+          ],
+          "word": "EVINCE",
+          "correct": "2"
+        },
+        {
+          "prompt": "LUGUBRIOUS",
+          "answers": [
+            "sullen",
+            "diseased",
+            "gloomy"
+          ],
+          "word": "LUGUBRIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "MITIGATE",
+          "answers": [
+            "augment",
+            "assuage",
+            "extenuate"
+          ],
+          "word": "MITIGATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PATENTLY",
+          "answers": [
+            "evidently",
+            "typically",
+            "plainly"
+          ],
+          "word": "PATENTLY",
+          "correct": "1"
+        },
+        {
+          "prompt": "PERPETRATE",
+          "answers": [
+            "commit",
+            "perform",
+            "argue"
+          ],
+          "word": "PERPETRATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PLAINTIVE",
+          "answers": [
+            "pitiful",
+            "sinful",
+            "melancholy"
+          ],
+          "word": "PLAINTIVE",
+          "correct": "1"
+        },
+        {
+          "prompt": "TRACTABLE",
+          "answers": [
+            "submissive",
+            "amenable",
+            "friendly"
+          ],
+          "word": "TRACTABLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ACCEDE",
+          "answers": [
+            "incline",
+            "assent",
+            "acquiesce"
+          ],
+          "word": "ACCEDE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DIADEM",
+          "answers": [
+            "crown",
+            "headband",
+            "sword"
+          ],
+          "word": "DIADEM",
+          "correct": "2"
+        },
+        {
+          "prompt": "DROLL",
+          "answers": [
+            "dull",
+            "whimsical",
+            "witty"
+          ],
+          "word": "DROLL",
+          "correct": "0"
+        },
+        {
+          "prompt": "ENNUI",
+          "answers": [
+            "listlessness",
+            "depression",
+            "fright"
+          ],
+          "word": "ENNUI",
+          "correct": "2"
+        },
+        {
+          "prompt": "INDISPOSED",
+          "answers": [
+            "averse",
+            "unwell",
+            "unhappy"
+          ],
+          "word": "INDISPOSED",
+          "correct": "2"
+        },
+        {
+          "prompt": "INJUNCTION",
+          "answers": [
+            "directive",
+            "appraisal",
+            "admonishment"
+          ],
+          "word": "INJUNCTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "REGALE",
+          "answers": [
+            "instruct",
+            "entertain",
+            "please"
+          ],
+          "word": "REGALE",
+          "correct": "0"
+        },
+        {
+          "prompt": "VAGARY",
+          "answers": [
+            "whim",
+            "fracas",
+            "fancy"
+          ],
+          "word": "VAGARY",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

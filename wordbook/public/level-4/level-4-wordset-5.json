@@ -1,0 +1,610 @@
+{
+  "title": "4.5",
+  "definitions": {
+    "PRIMARILY": {
+      "word": "PRIMARILY",
+      "phonetic": "(prl-mer'-ÔøΩIE)",
+      "pos": "adv.",
+      "deftext": "<p class=\"definition\">chiefly, mainly, first of all </p><p>PRIMARILY comes from the Latin word for <i class=“def-ital\">first</i>. It is related to words like <i class=“def-ital\">prime</i> and <i class=“def-ital\">primary</i>. PRIMARILY means “in the first place,” <i class=“def-ital\">mainly</i>. </p><p>“He is PRIMARILY interested in making money.” </p><p>“We are here PRIMARILY to visit friends, but we will also see the sights if we have time.” </p><p>The most commonly marked incorrect answer on the Pretest is <i class=“def-ital\">somewhat</i>, which is not at all close in meaning to PRIMARILY. </p><p>Other forms of the word: PRIMARY, adj.</p>"
+    },
+    "TESTY": {
+      "word": "TESTY",
+      "phonetic": "(tes'-tE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">irritable, easily annoyed, cross, touchy </p><p>Someone who is TESTY gets easily annoyed when even small things go wrong. </p><p>“Jim gets very TESTY when things start to go wrong.” </p><p>“The teacher was quite TESTY this morning. She got angry at us no matter what we did.” </p><p>“He is usually very patient, but when people are late he starts to get TESTY.” </p><p>Many people think TESTY means <i class=“def-ital\">curious</i>, perhaps because one meaning of the verb TEST is to <i class=“def-ital\">try out</i>. A <i class=“def-ital\">curious</i> person would be willing to try out many different things. TESTY, however, is not related to this meaning of the word TEST. </p><p>Other forms of the word: TESTINESS,n.</p>"
+    },
+    "CALAMITY": {
+      "word": "CALAMITY",
+      "phonetic": "(kÔøΩ-lam'-ÔøΩ-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a disaster, great misfortune, catastrophe </p><p>A CALAMITY is a major misfortune, like a plane crash or a crippling injury. </p><p>“The closing of the plant was a CALAMITY for the town, since suddenly no one had a job.” </p><p>“We were robbed, but it was no great CALAMITY. We just lost a few things.” </p><p>“The sudden death of Mr. Jones was quite a CALAMITY for the family.” </p><p>A common mistake is to choose <i class=“def-ital\">problem</i> as the meaning of CALAMITY. CALAMITY is much stronger than <i class=“def-ital\">problem</i>, however. The word should only be used about great disasters or misfortunes. </p><p>Other forms of the word: CALAMITOUS, adj.</p>"
+    },
+    "STUPENDOUS": {
+      "word": "STUPENDOUS",
+      "phonetic": "(stU-pen'-dÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">amazing, awesome, astonishing </p><p>STUPENDOUS comes from a Latin word that means “to be astonished.” Something that is STUPENDOUS is so large or great that it leaves you speechless with amazement. </p><p>“The STUPENDOUS size of the Himalaya mountains is hard to believe.” </p><p>“He called the first trip to the moon one of man’s most STUPENDOUS accomplishments.” </p><p>“That earthquake was a STUPENDOUS disaster. Thousands of people died in it.” </p><p>The most popular wrong answer is <i class=“def-ital\">interesting</i>. STUPENDOUS is a much stronger word than <i class=“def-ital\">interesting</i>, though. </p><p>“Some movies are merely <i class=“def-ital\">interesting</i>. This movie was STUPENDOUS.”</p>"
+    },
+    "VULNERABLE": {
+      "word": "VULNERABLE",
+      "phonetic": "(vul'-nÔøΩr-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unprotected, exposed, open to attack </p><p>VULNERABLE comes from the Latin word for <i class=“def-ital\">wound</i>. Something that is VULNERABLE is able to be wounded; it is unprotected against damage or attack.  </p><p>“Our army is VULNERABLE to an attack from the rear.” </p><p>“In this new armor only his eyes and hands are VULNERABLE.” </p><p>VULNERABLE can be used about more than just physical attack. </p><p>“Several people ran against our governor this year because they thought he was VULNERABLE and could be defeated.” </p><p>The most common mistake is to choose <i class=“def-ital\">unbeatable</i> as the meaning of VULNERABLE. This is confusing a word with its opposite. INVULNERABLE means “not able to be wounded.”  <i class=“def-ital\">Unbeatable</i> would be synonymous with INVULNERABLE, but it is the opposite of VULNERABLE. </p><p>Other forms of the word: VULNERABILITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ],
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "STRENUOUS": {
+      "word": "STRENUOUS",
+      "phonetic": "(stren'-yU-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">energetic, active, vigorous </p><p>STRENUOUS means “using or requiring great effort,” <i class=“def-ital\">vigorous</i>. The word can be used about people or their activities. </p><p>“He was a STRENUOUS opponent of higher taxes.” </p><p>“The doctor advised him to avoid STRENUOUS exercise and to eat sensibly.” </p><p>“The students objected STRENUOUSLY to the plan to lengthen the school day.” </p><p>Many people confuse STRENUOUS with <i class=“def-ital\">dangerous</i>. STRENUOUS activities may sometimes be <i class=“def-ital\">dangerous</i>, but they do not have to be.</p>"
+    },
+    "ENTAIL": {
+      "word": "ENTAIL",
+      "phonetic": "(en-tAI')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to involve, necessitate, impose, require </p><p>The original use of ENTAIL was in law. To ENTAIL property is to leave it in a will to particular people who cannot sell it or give it away. For example, a man might leave his house to his oldest child, who could only leave it to <i class=“def-ital\">his</i> oldest child, and so on. This was a way of ensuring that the property remained in the family. </p><p>If land is ENTAILED, this means that only certain things can be done with it, and certain people will automatically come into possession of it. From this, ENTAIL came generally to mean “to involve as a necessary result,” to <i class=“def-ital\">require</i>. </p><p>“This project will ENTAIL an enormous amount of work\"-that is, a great deal of work will be necessary during the project. </p><p>“Freedom ENTAILS sacrifice\"-that is, you cannot have one without the other.</p>"
+    },
+    "VENGEANCE": {
+      "word": "VENGEANCE",
+      "phonetic": "(ven'-jÔøΩns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">revenge </p><p>VENGEANCE is <i class=“def-ital\">revenge</i>, getting even for some insult or harm that has been done to you or your loved ones. </p><p>“He sought VENGEANCE against the person who had run over his dog.” </p><p>“He is so determined to get VENGEANCE for that insult that it’s impossible to reason with him.” </p><p>The person who is seeking VENGEANCE is VENGEFUL. </p><p>“The VENGEFUL man swore he wouldn’t rest until he’d found the person who had killed his wife.” </p><p>Other forms of the word: VENGEFUL, adj.</p>"
+    },
+    "INTERVENE": {
+      "word": "INTERVENE",
+      "phonetic": "(in-tÔøΩr-vEn')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to come between, be between </p><p> INTERVENE is used in several different senses, each of which basically means to <i class=“def-ital\">come between</i>. The word is used about events or actions which might occur in the course of something. </p><p>“We will go on as usual unless some problem INTERVENES.” </p><p>A person INTERVENES when he comes between other people in a quarrel or fight. </p><p>“It looked like the two of them were going to fight until the teacher INTERVENED.” </p><p>The word is used about time that passes between two events. </p><p>“Nothing much happened during the years that INTERVENED between his graduation and his marriage.” </p><p>Other forms of the word: INTERVENTION,n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">inter-</i> under Prefixes."
+      ]
+    },
+    "ELABORATE": {
+      "word": "ELABORATE",
+      "phonetic": "{i-lab'-ÔøΩrÔøΩt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">complicated, intricate, complex </p><p>ELABORATE is related to the word <i class=“def-ital\">labor</i>. Something which is ELABORATE has been worked out with great care and in great detail. </p><p>“She made ELABORATE plans for her wedding.” </p><p>“There were ELABORATE decorations on the cake.” </p><p>“He gave an ELABORATE explanation of why he was so late.” </p><p>ELABORATE is also a verb, pronounced i-lab’-:KAt. To ELABORATE or ELABORATE <i class=“def-ital\">on</i> something is to work it out or describe it in detail. </p><p>“We asked him to ELABORATE on his ideas about student government.” </p><p>Other forms of the word: ELABORATION,n.</p>"
+    },
+    "DISTINCT": {
+      "word": "DISTINCT",
+      "phonetic": "(dis-tingkt')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">separate; clear, plain </p><p>DISTINCT is related to the word distinguish. Something that is DISTINCT can clearly be seen as different from something else. </p><p>“His contribution to the project is quite DISTINCT from everyone else’s.” </p><p>“The two issues are DISTINCT: one is what we <i class=“def-ital\">want</i> to do, the other is what we <i class=“def-ital\">can</i> do.” </p><p>In a similar sense DISTINCT can be used about anything that is clear and unmistakable to the mind or senses. </p><p>“Although the background of the picture is blurred, his face is quite DISTINCT.” </p><p>“There is a DISTINCT difference between the Northern and Southern pronunciation of many words.” </p><p>“There is a DISTINCT smell of gas in the cellar. It isn’t a bad smell, but it’s very strong.”</p>"
+    },
+    "REMOTE": {
+      "word": "REMOTE",
+      "phonetic": "(ri-mOt'",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">far away, far off, distant; slight </p><p>Something that is REMOTE is far away, either in space or time. </p><p>“He sailed to a REMOTE island in the middle of the ocean.” </p><p>“In the REMOTE past this area was all under water.” </p><p>“Their farm is REMOTE from any city or town.” </p><p>REMOTE can also mean <i class=“def-ital\">small</i> or <i class=“def-ital\">slight</i>. </p><p>“There is only a REMOTE possibility we will be there\"-that is, there is a chance, but not a very good one. </p><p>“I haven’t the REMOTEST idea what you are talking about.” </p><p>Many people think REMOTE means <i class=“def-ital\">unknown</i>. Something that is far away, however, does not have to be unknown.</p>"
+    },
+    "DINGY": {
+      "word": "DINGY",
+      "phonetic": "(din'-jE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">soiled, dirty, drab, shabby </p><p>DINGY means “having a dark, dirty appearance.” The word is used about things that have become soiled or faded through use or the passing of time. </p><p>“The sheets that were once so white are now gray and DINGY.” </p><p>“It was a dark, DINGY little room. Everything had a layer of dust on it.” </p><p>Old is often picked as meaning the same as DINGY. Something that is old, though, does not have to be DINGY.</p>"
+    },
+    "OBSCURE": {
+      "word": "OBSCURE",
+      "phonetic": "(ob-skyUr'",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unclear, hidden, vague </p><p>The basic meaning of OBSCURE is <i class=“def-ital\">dark</i> or <i class=“def-ital\">hard to see</i>. </p><p>“Their faces were OBSCURE in the dark room.” </p><p>OBSCURE has developed several slightly different uses from this basic meaning. The word can mean <i class=“def-ital\">unclear</i>, <i class=“def-ital\">hard to understand</i>. </p><p>“This poem is OBSCURE. I have no idea what the poet is trying to say.” </p><p>It can also mean <i class=“def-ital\">little known</i>. </p><p>“He was an OBSCURE artist who never achieved any success.” </p><p>“From OBSCURE beginnings he rose to become world famous.” </p><p>Or it can mean <i class=“def-ital\">faint</i> or <i class=“def-ital\">indistinct</i>. </p><p>“They heard OBSCURE sounds far in the distance.” </p><p>To OBSCURE something is to make it hard to see or understand. </p><p>“All the difficult words OBSCURED the meaning of the poem.” </p><p>Other forms of the word: OBSCURITY,n.</p>"
+    },
+    "RIVALRY": {
+      "word": "RIVALRY",
+      "phonetic": "(rI'-vÔøΩl-rE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">competition </p><p>RIVAL comes originally from a Latin word meaning <i class=“def-ital\">stream</i>. In Latin, a RIVAL was someone who lived on the opposite side of a stream and who had the right to use it along with you. Thus RIVALS are people who compete against each other because they want the same thing. RIVALRY is the state of being RIVALS. </p><p>“There was quite a RIVALRY between the two schools to see which would win the title.” </p><p>“Although their RIVALRY was intense, they still respected each other.” </p><p>“There was always RIVALRY among the brothers. Each one wanted to be the best in everything.” </p><p>Other forms of the word: RIVAL,n.,v.</p>"
+    }
+  },
+  "id": "5",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "PRIMARILY interested in trade.",
+          "answers": [
+            "suddenly",
+            "actively",
+            "somewhat",
+            "chiefly",
+            "usually"
+          ],
+          "word": "PRIMARILY",
+          "correct": "chiefly"
+        },
+        {
+          "prompt": "TESTY people.",
+          "answers": [
+            "irritable",
+            "curious",
+            "mean",
+            "quiet",
+            "pleasant"
+          ],
+          "word": "TESTY",
+          "correct": "irritable"
+        },
+        {
+          "prompt": "Expected the CALAMITY.",
+          "answers": [
+            "hatred",
+            "disaster",
+            "problem",
+            "good luck",
+            "laughter"
+          ],
+          "word": "CALAMITY",
+          "correct": "disaster"
+        },
+        {
+          "prompt": "STUPENDOUS performances.",
+          "answers": [
+            "interesting",
+            "slow",
+            "amazing",
+            "ordinary",
+            "boring"
+          ],
+          "word": "STUPENDOUS",
+          "correct": "amazing"
+        },
+        {
+          "prompt": "They were VULNERABLE",
+          "answers": [
+            "unbeatable",
+            "ancient",
+            "wounded",
+            "unhappy",
+            "unprotected"
+          ],
+          "word": "VULNERABLE",
+          "correct": "unprotected"
+        },
+        {
+          "prompt": "Very STRENUOUS.",
+          "answers": [
+            "expensive",
+            "dangerous",
+            "boring",
+            "energetic",
+            "easy"
+          ],
+          "word": "STRENUOUS",
+          "correct": "energetic"
+        },
+        {
+          "prompt": "What does it ENTAIL?",
+          "answers": [
+            "involve",
+            "need",
+            "show",
+            "forbid",
+            "mean"
+          ],
+          "word": "ENTAIL",
+          "correct": "involve"
+        },
+        {
+          "prompt": "Takes VENGEANCE.",
+          "answers": [
+            "offense",
+            "firmness",
+            "revenge",
+            "courage",
+            "pity"
+          ],
+          "word": "VENGEANCE",
+          "correct": "revenge"
+        },
+        {
+          "prompt": "Let no one INTERVENE.",
+          "answers": [
+            "come between",
+            "join",
+            "take sides",
+            "come in",
+            "decide"
+          ],
+          "word": "INTERVENE",
+          "correct": "come between"
+        },
+        {
+          "prompt": "Very ELABORATE.",
+          "answers": [
+            "painful",
+            "complicated",
+            "bright",
+            "huge",
+            "simple"
+          ],
+          "word": "ELABORATE",
+          "correct": "complicated"
+        },
+        {
+          "prompt": "Her face was DISTINCT.",
+          "answers": [
+            "clear",
+            "beautiful",
+            "famous",
+            "strange",
+            "hidden"
+          ],
+          "word": "DISTINCT",
+          "correct": "clear"
+        },
+        {
+          "prompt": "REMOTE lands.",
+          "answers": [
+            "unknown",
+            "wet",
+            "nearby",
+            "dangerous",
+            "far-away"
+          ],
+          "word": "REMOTE",
+          "correct": "far-away"
+        },
+        {
+          "prompt": "DINGY curtains.",
+          "answers": [
+            "tiny",
+            "soiled",
+            "white",
+            "old",
+            "soaked"
+          ],
+          "word": "DINGY",
+          "correct": "soiled"
+        },
+        {
+          "prompt": "It is OBSCURE.",
+          "answers": [
+            "stupid",
+            "bright",
+            "familiar",
+            "unclear",
+            "lost"
+          ],
+          "word": "OBSCURE",
+          "correct": "unclear"
+        },
+        {
+          "prompt": "Good-natured RIVALRY.",
+          "answers": [
+            "disagreement",
+            "enjoyment",
+            "drinking",
+            "teamwork",
+            "competition"
+          ],
+          "word": "RIVALRY",
+          "correct": "competition"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "If someone is PRIMARILY interested in math, is that his favorite subject?",
+          "word": "PRIMARILY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do little children often get TESTY when they're overtired?",
+          "word": "TESTY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a plane crash be a CALAMITY?",
+          "word": "CALAMITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are all television shows STUPENDOUS?",
+          "word": "STUPENDOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "If a person is VULNERABLE to attack, is he in danger?",
+          "word": "VULNERABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is climbing a mountain STRENUOUS exercise?",
+          "word": "STRENUOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does being a salesman ENTAIL meeting many people?",
+          "word": "ENTAIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people take VENGEANCE for a favor?",
+          "word": "VENGEANCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it possible to INTERVENE in an argument?",
+          "word": "INTERVENE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a meal of bread and water ELABORATE?",
+          "word": "ELABORATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does mud make things DISTINCT?",
+          "word": "DISTINCT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is Canada REMOTE from the United States?",
+          "word": "REMOTE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a freshly washed shirt usually be DINGY?",
+          "word": "DINGY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is George Washington OBSCURE?",
+          "word": "OBSCURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is there usually a RIVALRY among the people who want to be president?",
+          "word": "RIVALRY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He was PRIMARILY an actor, but he could also sing and dance quite well.",
+          "word": "PRIMARILY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Al was TESTY about how long the corridor was, so he measured it himself.",
+          "word": "TESTY",
+          "correct": "false"
+        },
+        {
+          "prompt": "No one else minded much, but Bob thought it was a CALAMITY when lunch was a few minutes late.",
+          "word": "CALAMITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Hal thought the book was good, but not really STUPENDOUS.",
+          "word": "STUPENDOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The city was so VULNERABLE that no one could ever conquer it.",
+          "word": "VULNERABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "These wires are quite STRENUOUS. Touch one and you will die instantly.",
+          "word": "STRENUOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Getting high marks in school usually ENTAILS a great deal of studying.",
+          "word": "ENTAIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her VENGEANCE for the murder of her child was both swift and terrifying.",
+          "word": "VENGEANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He INTERVENED her to come with him to the party.",
+          "word": "INTERVENE",
+          "correct": "false"
+        },
+        {
+          "prompt": "In her speech she ELABORATED on some of the points I had made in mine.",
+          "word": "ELABORATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bill had the DISTINCT feeling that he was being followed.",
+          "word": "DISTINCT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The doctor was only REMOTELY concerned about the danger of getting any diseases from his patients.",
+          "word": "REMOTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was such a DINGY amount of money that we didn't care about it.",
+          "word": "DINGY",
+          "correct": "false"
+        },
+        {
+          "prompt": "I felt OBSCURE about it until someone showed me what to do.",
+          "word": "OBSCURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He had several RIVALS in the swimming competition, but he was able to beat them all.",
+          "word": "RIVALRY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "PRIMARILY",
+          "answers": [
+            "mainly",
+            "gladly",
+            "chiefly"
+          ],
+          "word": "PRIMARILY",
+          "correct": "1"
+        },
+        {
+          "prompt": "TESTY",
+          "answers": [
+            "cross",
+            "evil",
+            "annoyed"
+          ],
+          "word": "TESTY",
+          "correct": "1"
+        },
+        {
+          "prompt": "CALAMITY",
+          "answers": [
+            "danger",
+            "misfortune",
+            "accident"
+          ],
+          "word": "CALAMITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "STUPENDOUS",
+          "answers": [
+            "fine",
+            "magnificent",
+            "unbelievable"
+          ],
+          "word": "STUPENDOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "VULNERABLE",
+          "answers": [
+            "weak",
+            "helpless",
+            "unhappy"
+          ],
+          "word": "VULNERABLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "STRENUOUS",
+          "answers": [
+            "dynamic",
+            "heavy",
+            "active"
+          ],
+          "word": "STRENUOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "ENTAIL",
+          "answers": [
+            "involve",
+            "require",
+            "decide"
+          ],
+          "word": "ENTAIL",
+          "correct": "2"
+        },
+        {
+          "prompt": "VENGEANCE",
+          "answers": [
+            "defense",
+            "punishment",
+            "retaliation"
+          ],
+          "word": "VENGEANCE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INTERVENE",
+          "answers": [
+            "disappear",
+            "intrude",
+            "interfere"
+          ],
+          "word": "INTERVENE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ELABORATE",
+          "answers": [
+            "difficult",
+            "detailed",
+            "complex"
+          ],
+          "word": "ELABORATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISTINCT",
+          "answers": [
+            "obvious",
+            "plain",
+            "neat"
+          ],
+          "word": "DISTINCT",
+          "correct": "2"
+        },
+        {
+          "prompt": "REMOTE",
+          "answers": [
+            "distant",
+            "slight",
+            "future"
+          ],
+          "word": "REMOTE",
+          "correct": "2"
+        },
+        {
+          "prompt": "DINGY",
+          "answers": [
+            "shabby",
+            "dirty",
+            "small"
+          ],
+          "word": "DINGY",
+          "correct": "2"
+        },
+        {
+          "prompt": "OBSCURE",
+          "answers": [
+            "wrong",
+            "vague",
+            "faint"
+          ],
+          "word": "OBSCURE",
+          "correct": "0"
+        },
+        {
+          "prompt": "RIVALRY",
+          "answers": [
+            "disliking",
+            "struggle",
+            "competition"
+          ],
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "title": "1.8",
+  "definitions": {
+    "AFFECTION": {
+      "word": "AFFECTION",
+      "phonetic": "(ÔøΩfek'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">love, fondness </p><p>AFFECTION is a warm feeling of fondness and tenderness. It is almost the same as love, although usually not quite as strong. </p><p>“He has a very real AFFECTION for his father.” </p><p>“He felt little AFFECTION toward the town where he had grown up.” </p><p>The adjective form of AFFECTION is AFFECTIONATE, which means <i class=“def-ital\">loving</i> or <i class=“def-ital\">fond</i>. </p><p>“The teacher’s AFFECTIONATE attitude toward the young children makes them like her in return.” </p><p>“He gave the dog an AFFECTIONATE pat.” </p><p>Other forms of the word: AFFECTIONATE, adj.</p>"
+    },
+    "MODERN": {
+      "word": "MODERN",
+      "phonetic": "(mod'-ÔøΩrn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">present-day, up-to-date </p><p>MODERN means </p><p>“having to do with present or recent times.” </p><p>“It is a MODERN building, built just a few years ago.” </p><p>“Are people happier in MODERN times than they were in the past?” </p><p>“She believes that anything that is MODERN is better than something that is old.”</p>"
+    },
+    "DUPLICATE": {
+      "word": "DUPLICATE",
+      "phonetic": "(dU'-pli-kit)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a copy, double </p><p>DUPLICATE is related to the word <i class=“def-ital\">double</i>. </p><p>Both come from a Latin word meaning <i class=“def-ital\">two</i>. A DUPLICATE is an exact copy of something. </p><p>“This machine can make several DUPLICATES of that letter in just a few seconds.” </p><p>“The twins are exact DUPLICATES of each other; even their voices sound the same.” </p><p>DUPLICATE may also be used as an adjective. </p><p>“We have DUPLICATE keys to the car. We keep one set in the desk.” </p><p>As a verb, the word is pronounced dU’-pli-kAt, and means “to make a copy of.” </p><p>“She tried to DUPLICATE the teacher’s movements.” </p><p>“He DUPLICATED the directions for getting to his house and sent everyone a copy.” </p><p>Other forms of the word: DUPLICATION, n.</p>"
+    },
+    "HESITATE": {
+      "word": "HESITATE",
+      "phonetic": "(hez'-ÔøΩtAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to pause, delay for a moment </p><p>To HESITATE is to show signs of uncertainty by pausing or delaying for a short time. </p><p>“We could tell he had not studied enough from the way he HESITATED before he spelled each word.” </p><p>“The cat HESITATED before stepping on the new- fallen snow.” </p><p>“If you need anything, do not HESITATE to ask for it.” </p><p>HESITATION is the noun from HESITATE. It is the act of pausing or holding back. </p><p>“Midway through the actor’s speech there were several long HESITATIONS, and it became obvious that he had forgotten his lines.” </p><p>Other forms of the word: HESITANT, adj. HESITATION, n.</p>"
+    },
+    "FLING": {
+      "word": "FLING",
+      "phonetic": "(fling)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to throw, hurl, cast </p><p>FLING means just about the same as <i class=“def-ital\">throw</i>, but often adds a sense of force or violence to <i class=“def-ital\">throw</i>. </p><p>“Angrily he FLUNG the books across the room.” </p><p>“Tom FLUNG the stone with all his might.” </p><p>“The wrestler FLINGS his opponent to the ground.” </p><p>To “FLING your arms up in the air” is to raise them suddenly and unexpectedly. Usage: The past tense of FLING is FLUNG.</p>"
+    },
+    "COMICAL": {
+      "word": "COMICAL",
+      "phonetic": "(kom'-i-kÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">funny, humorous, amusing </p><p>COMICAL means <i class=“def-ital\">funny</i> or <i class=“def-ital\">amusing</i>. </p><p>“The puppy’s actions were so COMICAL that we burst out laughing.” </p><p>“She entered the room with a COMICAL expression on her face, and we knew that something funny had happened.” </p><p>“He tries to amuse us with COMICAL stories, but we don’t think they’re funny at all.” </p><p>The noun form of COMICAL is COMIC. A COMIC is a person who amuses others by telling funny stories and jokes. Other forms of the word: COMIC, n.</p>"
+    },
+    "OVERCAST": {
+      "word": "OVERCAST",
+      "phonetic": "(O'-vÔøΩr-kast)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">cloudy, gloomy </p><p>OVERCAST is used about clouds and the weather and means <i class=“def-ital\">clouded over</i>, <i class=“def-ital\">cloudy</i>. </p><p>“The sky was OVERCAST, and it looked as if it were going to rain.” </p><p>“November was filled with cold, OVERCAST days.” </p><p>OVERCAST is also a noun. </p><p>“The few breaks in the OVERCAST convinced us that the weather was going to clear up.” </p><p>The most popular incorrect answer on the Pretest is <i class=“def-ital\">rainy</i>. OVERCAST just means <i class=“def-ital\">cloudy</i>, however; when the sky is OVERCAST it might or might not rain.</p>"
+    },
+    "PERSPIRATION": {
+      "word": "PERSPIRATION",
+      "phonetic": "(per-spÔøΩ-rA'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">sweat </p><p>PERSPIRATION is a polite word for <i class=“def-ital\">sweat</i>. “He was covered with PERSPIRATION after the 100-yard dash.” “The horse’s PERSPIRATION looks like white foam.” “The room was so warm that everyone’s face was shining with PERSPIRATION.” The verb form is PERSPIRE. “We PERSPIRED in the hot sunlight.” </p><p><i class=“def-ital\">Effort</i> is often chosen as the meaning of PERSPIRATION. <i class=“def-ital\">Effort</i> might cause to sweat, but <i class=“def-ital\">effort</i> and PERSPIRATION are not the same thing. Other forms of the word: PERSPIRE, v.</p>"
+    },
+    "CHUCKLE": {
+      "word": "CHUCKLE",
+      "phonetic": "(chuh'-kÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to laugh quietly </p><p>To CHUCKLE is to laugh, usually quietly or to yourself. </p><p>“He CHUCKLED while he read the funny story, and sometimes he laughed out loud.” </p><p>“You’re not supposed to CHUCKLE when Ken is talking to you even if you think he’s funny.” </p><p>CHUCKLE is also used as a noun and means a laugh. </p><p>“We got a few CHUCKLES out of the show, but in general it wasn’t very funny.”</p>"
+    },
+    "NUDGE": {
+      "word": "NUDGE",
+      "phonetic": "(nuhj)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to touch or push gently </p><p>To NUDGE someone is to touch or push him slightly, in order to call attention to something or to get him to do something. </p><p>“She NUDGED him and pointed to her watch, letting him know it was time to go.” </p><p>“We NUDGED Henry forward until he was at the front of the stage.” </p><p>NUDGE is also a noun. </p><p>“I gave him a NUDGE and told him to come with me.”</p>"
+    },
+    "GLOSSY": {
+      "word": "GLOSSY",
+      "phonetic": "(glos'-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">smooth and shiny, highly polished </p><p>The GLOSS of something is its smooth, shining surface. </p><p>“Feel the GLOSS of this silk shirt.” </p><p>Something which is GLOSSY has a smooth, shining surface.  </p><p>“He polished his car until the entire surface was GLOSSY.” </p><p>“You could see your face reflected in his GLOSSY leather shoes.” </p><p>Other forms of the word: GLOSS, n.</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">y</i> under Suffixes."
+      ]
+    },
+    "DISTRICT": {
+      "word": "DISTRICT",
+      "phonetic": "(dis'-trikt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an area, region </p><p>A DISTRICT is an area that has a special purpose or a special character that makes it different from other areas. It can be either large or small. </p><p>“In New York, the financial DISTRICT is centered around Wall Street.” </p><p>“The DISTRICT where we live is marked off by rivers at either end.” </p><p>“There isn’t any high school in our DISTRICT, so we have to go into the city.” </p><p>“Several DISTRICTS of the town were without electricity because of the storm last night.” </p><p>The DISTRICT of Columbia is a special area that contains the capital of the United States.</p>"
+    },
+    "IDENTICAL": {
+      "word": "IDENTICAL",
+      "phonetic": "(1-den'-ti-kÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">same Two things that are IDENTICAL are the same; they are exactly alike and agree in every detail. IDENTICAL twins are twins who look exactly alike. </p><p>“This print is IDENTICAL to the one we saw in the art gallery two weeks ago.” </p><p>“No two people have IDENTICAL fingerprints. Everyone’s fingerprints are different.”</p>"
+    },
+    "CALCULATE": {
+      "word": "CALCULATE",
+      "phonetic": "(kal'-kyÔøΩ-IAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to compute, count, figure </p><p>Calculus was a Latin word for <i class=“def-ital\">pebble</i>. People used to use pebbles to help in adding or subtracting numbers. So to CALCULATE is to work with numbers, to <i class=“def-ital\">compute</i>. “If we know how many miles we have to go, we can CALCULATE how long it will take.” </p><p>“Jim’s father CALCULATED the cost of sending him to college.” </p><p>People now often have CALCULATORS to do their CALCULATING for them. </p><p>“We are allowed to use our pocket CALCULATORS during the math test.” </p><p>CALCULATING is an adjective meaning <i class=“def-ital\">scheming</i> or <i class=“def-ital\">acting ruthlessly</i>. </p><p>“We acquired the business thanks to her calculating efforts.” </p><p>Another meaning of CALCULATE is to think or suppose from reasoning. </p><p>“I CALCULATED that Smith will win the election.” </p><p>Other forms of the word: CALCULATION, n. CALCULATING, adj. CALCULATOR, n.</p>"
+    },
+    "ATTENDANCE": {
+      "word": "ATTENDANCE",
+      "phonetic": "(ÔøΩ-ten'-dÔøΩns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">presence </p><p>To ATTEND something is to be present at it. </p><p>“They ATTENDED church every Sunday.” </p><p>ATTENDANCE is the noun from ATTEND. ATTENDANCE means the presence of one or more people at some place. </p><p>“We were surprised by the ATTENDANCE of Bill Johnson at Sam’s funeral. They had been enemies for years.” </p><p>“Seven pupils got certificates for perfect ATTENDANCE this year.” </p><p>ATTENDANCE also means “the number of persons who are present at something.” </p><p>“School ATTENDANCE has gone down because fewer children are being born.” </p><p>“There was a large ATTENDANCE at the concert.” </p><p>Other forms of the word: ATTEND, v.</p>"
+    }
+  },
+  "id": "8",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Her real AFFECTION.",
+          "answers": [
+            "reason",
+            "goal",
+            "hatred",
+            "love",
+            "opinion"
+          ],
+          "word": "AFFECTION",
+          "correct": "love"
+        },
+        {
+          "prompt": "MODERN drama.",
+          "answers": [
+            "nearby",
+            "present-day",
+            "first-class",
+            "difficult",
+            "old"
+          ],
+          "word": "MODERN",
+          "correct": "present-day"
+        },
+        {
+          "prompt": "He took the DUPLICATE.",
+          "answers": [
+            "document",
+            "picture",
+            "copy",
+            "next one",
+            "original"
+          ],
+          "word": "DUPLICATE",
+          "correct": "copy"
+        },
+        {
+          "prompt": "Never HESITATED.",
+          "answers": [
+            "began",
+            "hurried",
+            "paused",
+            "worried",
+            "changed"
+          ],
+          "word": "HESITATE",
+          "correct": "paused"
+        },
+        {
+          "prompt": "FLING the ball.",
+          "answers": [
+            "drop",
+            "hit",
+            "hold on to",
+            "throw",
+            "run with"
+          ],
+          "word": "FLING",
+          "correct": "throw"
+        },
+        {
+          "prompt": "A COMICAL story.",
+          "answers": [
+            "sad",
+            "new",
+            "true",
+            "stupid",
+            "funny"
+          ],
+          "word": "COMICAL",
+          "correct": "funny"
+        },
+        {
+          "prompt": "OVERCAST days.",
+          "answers": [
+            "cold",
+            "cloudy",
+            "windy",
+            "sunny",
+            "rainy"
+          ],
+          "word": "OVERCAST",
+          "correct": "cloudy"
+        },
+        {
+          "prompt": "Little PERSPIRATION.",
+          "answers": [
+            "smell",
+            "dryness",
+            "effort",
+            "warmth",
+            "sweat"
+          ],
+          "word": "PERSPIRATION",
+          "correct": "sweat"
+        },
+        {
+          "prompt": "He often CHUCKLES.",
+          "answers": [
+            "gives up",
+            "dresses up",
+            "tells jokes",
+            "laughs quietly",
+            "frowns"
+          ],
+          "word": "CHUCKLE",
+          "correct": "laughs quietly"
+        },
+        {
+          "prompt": "He NUDGED his brother.",
+          "answers": [
+            "attacked",
+            "hated",
+            "tripped",
+            "touched",
+            "defeated"
+          ],
+          "word": "NUDGE",
+          "correct": "touched"
+        },
+        {
+          "prompt": "GLOSSY appearance.",
+          "answers": [
+            "dull",
+            "hard",
+            "valuable",
+            "shiny",
+            "dark"
+          ],
+          "word": "GLOSSY",
+          "correct": "shiny"
+        },
+        {
+          "prompt": "Remembered the DISTRICT.",
+          "answers": [
+            "area",
+            "house",
+            "decision",
+            "street",
+            "government"
+          ],
+          "word": "DISTRICT",
+          "correct": "area"
+        },
+        {
+          "prompt": "The IDENTICAL marks.",
+          "answers": [
+            "close",
+            "same",
+            "slanted",
+            "different",
+            "clear"
+          ],
+          "word": "IDENTICAL",
+          "correct": "same"
+        },
+        {
+          "prompt": "To CALCULATE the bill.",
+          "answers": [
+            "ignore",
+            "pass around",
+            "compute",
+            "notice",
+            "pay"
+          ],
+          "word": "CALCULATE",
+          "correct": "compute"
+        },
+        {
+          "prompt": "Upset by their ATTENDANCE.",
+          "answers": [
+            "absence",
+            "treatment",
+            "position",
+            "opinion",
+            "presence"
+          ],
+          "word": "ATTENDANCE",
+          "correct": "presence"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do people ordinarily show their AFFECTION by kicking each other?",
+          "word": "AFFECTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is the wheel a MODERN invention?",
+          "word": "MODERN",
+          "correct": "false"
+        },
+        {
+          "prompt": "If something is unique, does it have any DUPLICATES?",
+          "word": "DUPLICATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a person HESITATE while he is writing?",
+          "word": "HESITATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you FLING a refrigerator very far?",
+          "word": "FLING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a clown COMICAL?",
+          "word": "COMICAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "If the sky is OVERCAST, is it sunny?",
+          "word": "OVERCAST",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people PERSPIRE more when it's cold than when it is hot?",
+          "word": "PERSPIRATION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a sad story cause people to CHUCKLE?",
+          "word": "CHUCKLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a NUDGE softer than a punch?",
+          "word": "NUDGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a concrete sidewalk GLOSSY?",
+          "word": "GLOSSY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a DISTRICT be very large?",
+          "word": "DISTRICT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a five dollar bill IDENTICAL to a ten dollar bill?",
+          "word": "IDENTICAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a tree CALCULATE?",
+          "word": "CALCULATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you ATTEND a play that you've never seen before?",
+          "word": "ATTENDANCE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "She comes from a very AFFECTIONATE family; the children never leave the house without first kissing their mother.",
+          "word": "AFFECTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was a very MODERN idea; no one would have thought such a thing a few years ago.",
+          "word": "MODERN",
+          "correct": "true"
+        },
+        {
+          "prompt": "She DUPLICATED to us about her report card; she had really failed two courses.",
+          "word": "DUPLICATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Sally HESITATED for several minutes before she agreed.",
+          "word": "HESITATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "How far can you FLING that stone?",
+          "word": "FLING",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher became very COMICAL and yelled at us for being late.",
+          "word": "COMICAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "I feel as gloomy as the weather when the sky is OVERCAST.",
+          "word": "OVERCAST",
+          "correct": "true"
+        },
+        {
+          "prompt": "The PERSPIRATION soaked through his shirt as he struggled to lift the boxes.",
+          "word": "PERSPIRATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "He CHUCKLED as he remembered the jokes the comedian had told.",
+          "word": "CHUCKLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He pushed it with all his might but it didn't NUDGE.",
+          "word": "NUDGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "This new shampoo is supposed to make your hair GLOSSY.",
+          "word": "GLOSSY",
+          "correct": "true"
+        },
+        {
+          "prompt": "She lived in a rundown shack in the poor DISTRICT of town.",
+          "word": "DISTRICT",
+          "correct": "true"
+        },
+        {
+          "prompt": "She wore the IDENTICAL wedding gown that her mother had worn thirty years ago.",
+          "word": "IDENTICAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jim CALCULATED the distance from the Earth to the moon.",
+          "word": "CALCULATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Because of the rain, the ATTENDANCE at the game was poor.",
+          "word": "ATTENDANCE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "AFFECTION",
+          "answers": [
+            "love",
+            "admiration",
+            "obedience"
+          ],
+          "word": "AFFECTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "MODERN",
+          "answers": [
+            "young",
+            "silly",
+            "new"
+          ],
+          "word": "MODERN",
+          "correct": "1"
+        },
+        {
+          "prompt": "DUPLICATE",
+          "answers": [
+            "similar",
+            "future",
+            "twin"
+          ],
+          "word": "DUPLICATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "HESITATE",
+          "answers": [
+            "pause",
+            "decide",
+            "wait"
+          ],
+          "word": "HESITATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FLING",
+          "answers": [
+            "toss",
+            "hurl",
+            "catch"
+          ],
+          "word": "FLING",
+          "correct": "2"
+        },
+        {
+          "prompt": "COMICAL",
+          "answers": [
+            "breezy",
+            "laughable",
+            "joking"
+          ],
+          "word": "COMICAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "OVERCAST",
+          "answers": [
+            "cloudy",
+            "windy",
+            "foggy"
+          ],
+          "word": "OVERCAST",
+          "correct": "1"
+        },
+        {
+          "prompt": "PERSPIRATION",
+          "answers": [
+            "sweat",
+            "rest",
+            "work"
+          ],
+          "word": "PERSPIRATION",
+          "correct": "1"
+        },
+        {
+          "prompt": "CHUCKLE",
+          "answers": [
+            "grin",
+            "shout",
+            "laugh"
+          ],
+          "word": "CHUCKLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "NUDGE",
+          "answers": [
+            "push",
+            "touch",
+            "run"
+          ],
+          "word": "NUDGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "GLOSSY",
+          "answers": [
+            "soft",
+            "smooth",
+            "shiny"
+          ],
+          "word": "GLOSSY",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISTRICT",
+          "answers": [
+            "section",
+            "house",
+            "region"
+          ],
+          "word": "DISTRICT",
+          "correct": "1"
+        },
+        {
+          "prompt": "IDENTICAL",
+          "answers": [
+            "new",
+            "exact",
+            "similar"
+          ],
+          "word": "IDENTICAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "CALCULATE",
+          "answers": [
+            "think",
+            "laugh",
+            "count"
+          ],
+          "word": "CALCULATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ATTENDANCE",
+          "answers": [
+            "miss",
+            "presence",
+            "meeting"
+          ],
+          "word": "ATTENDANCE",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

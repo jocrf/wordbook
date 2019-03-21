@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABJURE",
+      "answer": "abjure"
+    },
+    {
+      "word": "EFFACE",
+      "answer": "effaced"
+    },
+    {
+      "word": "PRECIPITOUS",
+      "answer": "precipitous"
+    },
+    {
+      "word": "PUTATIVE",
+      "answer": "putative"
+    },
+    {
+      "word": "SUPERCILIOUS",
+      "answer": "supercilious"
+    },
+    {
+      "word": "CAVIL",
+      "answer": "caviled"
+    },
+    {
+      "word": "EQUANIMITY",
+      "answer": "equanimity"
+    },
+    {
+      "word": "PREPOSSESSING",
+      "answer": "prepossessing"
+    },
+    {
+      "word": "RAILLERY",
+      "answer": "raillery"
+    },
+    {
+      "word": "TORPOR",
+      "answer": "torpor"
+    },
+    {
+      "word": "COGENT",
+      "answer": "cogent"
+    },
+    {
+      "word": "NASCENT",
+      "answer": "nascent"
+    },
+    {
+      "word": "PROFLIGATE",
+      "answer": "profligate"
+    },
+    {
+      "word": "RAPACIOUS",
+      "answer": "rapacious"
+    },
+    {
+      "word": "TUMID",
+      "answer": "tumid"
+    },
+    {
+      "word": "CONFITURE",
+      "answer": "confiture"
+    },
+    {
+      "word": "NONPLUSSED",
+      "answer": "nonplussed"
+    },
+    {
+      "word": "PROSAIC",
+      "answer": "prosaic"
+    },
+    {
+      "word": "REVILE",
+      "answer": "reviled"
+    },
+    {
+      "word": "UNCTUOUS",
+      "answer": "unctuous"
+    },
+    {
+      "word": "DEMUR",
+      "answer": "demurred"
+    },
+    {
+      "word": "PERIPATETIC",
+      "answer": "peripatetic"
+    },
+    {
+      "word": "BADINAGE",
+      "answer": "badinage"
+    },
+    {
+      "word": "DISSEMBLE",
+      "answer": "dissembled"
+    },
+    {
+      "word": "INIMICAL",
+      "answer": "inimical"
+    },
+    {
+      "word": "PENURIOUS",
+      "answer": "penurious"
+    },
+    {
+      "word": "RISIBLE",
+      "answer": "risible"
+    },
+    {
+      "word": "CANARD",
+      "answer": "canard"
+    },
+    {
+      "word": "EXPATIATE",
+      "answer": "expatiated"
+    },
+    {
+      "word": "MACERATE",
+      "answer": "macerated"
+    },
+    {
+      "word": "PHLEGMATIC",
+      "answer": "phlegmatic"
+    },
+    {
+      "word": "SEDITIOUS",
+      "answer": "seditious"
+    },
+    {
+      "word": "CAPACIOUS",
+      "answer": "capacious"
+    },
+    {
+      "word": "FIRMAMENT",
+      "answer": "firmament"
+    },
+    {
+      "word": "MAELSTROM",
+      "answer": "maelstrom"
+    },
+    {
+      "word": "QUERULOUS",
+      "answer": "querulous"
+    },
+    {
+      "word": "SYCOPHANCY",
+      "answer": "sycophancy"
+    },
+    {
+      "word": "COLLOQUY",
+      "answer": "colloquy"
+    },
+    {
+      "word": "HALCYON",
+      "answer": "halcyon"
+    },
+    {
+      "word": "MENDACIOUS",
+      "answer": "mendacious"
+    },
+    {
+      "word": "RESTIVE",
+      "answer": "restive"
+    },
+    {
+      "word": "VIRULENT",
+      "answer": "virulent"
+    },
+    {
+      "word": "DIAPHANOUS",
+      "answer": "diaphanous"
+    },
+    {
+      "word": "HEGEMONY",
+      "answer": "hegemony"
+    },
+    {
+      "word": "OSTENSIBLE",
+      "answer": "ostensible"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The good-natured",
+      "part2": "between the two friends was witty but affectionate.",
+      "correct": "raillery",
+      "word": "RAILLERY"
+    },
+    {
+      "part1": "The cook prepared a delightful cherry",
+      "part2": ".",
+      "correct": "confiture",
+      "word": "CONFITURE"
+    },
+    {
+      "part1": "His",
+      "part2": "attitude showed everyone he thought he was too important to be working with the likes of them.",
+      "correct": "supercilious",
+      "word": "SUPERCILIOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "lecturer was always on the road, traveling here and there to give his talks.",
+      "correct": "peripatetic",
+      "word": "PERIPATETIC"
+    },
+    {
+      "part1": "Everything seemed to move more slowly in the",
+      "part2": "of the long hot summer days.",
+      "correct": "torpor",
+      "word": "TORPOR"
+    },
+    {
+      "part1": "The president's",
+      "part2": "spending soon caused the company to go bankrupt.",
+      "correct": "profligate",
+      "word": "PROFLIGATE"
+    },
+    {
+      "part1": "The author of the pamphlet",
+      "part2": "the dictator and urged the people to rise up in revolt.",
+      "correct": "reviled",
+      "word": "REVILE"
+    },
+    {
+      "part1": "Their",
+      "part2": "arguments finally convinced us they were right.",
+      "correct": "cogent",
+      "word": "COGENT"
+    },
+    {
+      "part1": "This article is too",
+      "part2": "; it presents all the facts, but in a very dull, ordinary way.",
+      "correct": "prosaic",
+      "word": "PROSAIC"
+    },
+    {
+      "part1": "It takes considerable",
+      "part2": "to remain unruffled when everyone is insulting you.",
+      "correct": "equanimity",
+      "word": "EQUANIMITY"
+    },
+    {
+      "part1": "The disease caused his flesh to swell and become",
+      "part2": ".",
+      "correct": "tumid",
+      "word": "TUMID"
+    },
+    {
+      "part1": "In a solemn oath Harris agreed to",
+      "part2": "drinking and never touch alcohol again.",
+      "correct": "abjure",
+      "word": "ABJURE"
+    },
+    {
+      "part1": "We would like to study this",
+      "part2": "masterpiece, to see if it is as good as people claim.",
+      "correct": "putative",
+      "word": "PUTATIVE"
+    },
+    {
+      "part1": "After descending gradually for a while the road has a sudden",
+      "part2": "drop.",
+      "correct": "precipitous",
+      "word": "PRECIPITOUS"
+    },
+    {
+      "part1": "Mrs. Benson",
+      "part2": "constantly about the hotel. She had a trivial criticism to make about everything from the sheets to the elevators.",
+      "correct": "caviled",
+      "word": "CAVIL"
+    },
+    {
+      "part1": "Peter's parents are",
+      "part2": "by his behavior; they just can't understand why he is acting so strangely.",
+      "correct": "nonplussed",
+      "word": "NONPLUSSED"
+    },
+    {
+      "part1": "Constant handling over many years had completely",
+      "part2": "the date on the coin.",
+      "correct": "effaced",
+      "word": "EFFACE"
+    },
+    {
+      "part1": "The",
+      "part2": "young man vowed to stop at nothing until he was rich.",
+      "correct": "rapacious",
+      "word": "RAPACIOUS"
+    },
+    {
+      "part1": "The slick salesman gave us a(n)",
+      "part2": "smile and smoothly began to talk about the virtues of his product.",
+      "correct": "unctuous",
+      "word": "UNCTUOUS"
+    },
+    {
+      "part1": "Sharon has such a(n)",
+      "part2": "manner that people just naturally like her.",
+      "correct": "prepossessing",
+      "word": "PREPOSSESSING"
+    },
+    {
+      "part1": "The college’s",
+      "part2": "psychology department is only a couple of years old, but it is fast becoming one of the best in the country.",
+      "correct": "nascent",
+      "word": "NASCENT"
+    },
+    {
+      "part1": "When asked if he wanted to play football, Joe",
+      "part2": ", saying it was a game for younger men.",
+      "correct": "demurred",
+      "word": "DEMUR"
+    },
+    {
+      "part1": "Light shone through the",
+      "part2": "curtains into the room.",
+      "correct": "diaphanous",
+      "word": "DIAPHANOUS"
+    },
+    {
+      "part1": "To raise prices would be helpful now, but it would be",
+      "part2": "to the company's long-term growth.",
+      "correct": "inimical",
+      "word": "INIMICAL"
+    },
+    {
+      "part1": "The",
+      "part2": "disease wiped out entire cities before a cure was found.",
+      "correct": "virulent",
+      "word": "VIRULENT"
+    },
+    {
+      "part1": "She wished she could return to the",
+      "part2": "days of her youth, when she was happy and without a care.",
+      "correct": "halcyon",
+      "word": "HALCYON"
+    },
+    {
+      "part1": "The government said that the radical's speech was",
+      "part2": "and would give aid and comfort to the enemy.",
+      "correct": "seditious",
+      "word": "SEDITIOUS"
+    },
+    {
+      "part1": "The ship was sucked into the",
+      "part2": "and quickly disappeared from sight.",
+      "correct": "maelstrom",
+      "word": "MAELSTROM"
+    },
+    {
+      "part1": "The playful",
+      "part2": "between the good friends couldn't disguise their true liking for each other.",
+      "correct": "badinage",
+      "word": "BADINAGE"
+    },
+    {
+      "part1": "There is no truth to that story about the rock singer losing his voice; it is simply a(n)",
+      "part2": ".",
+      "correct": "canard",
+      "word": "CANARD"
+    },
+    {
+      "part1": "While his",
+      "part2": "reason for being here was to help us, we knew he really wanted just to see what we were up to.",
+      "correct": "ostensible",
+      "word": "OSTENSIBLE"
+    },
+    {
+      "part1": "John became quite",
+      "part2": "as the meeting went on with no agreement in sight.",
+      "correct": "restive",
+      "word": "RESTIVE"
+    },
+    {
+      "part1": "The man habitually",
+      "part2": "about his age, saying that he was five years younger than he really was.",
+      "correct": "dissembled",
+      "word": "DISSEMBLE"
+    },
+    {
+      "part1": "The coach",
+      "part2": "at considerable length about what makes a good football player.",
+      "correct": "expatiated",
+      "word": "EXPATIATE"
+    },
+    {
+      "part1": "He is so",
+      "part2": "that a herd of charging elephants would only stir his interest slightly.",
+      "correct": "phlegmatic",
+      "word": "PHLEGMATIC"
+    },
+    {
+      "part1": "The report called the manufacturer's claims",
+      "part2": ", stating that the product would never do all the things it was supposed to do.",
+      "correct": "mendacious",
+      "word": "MENDACIOUS"
+    },
+    {
+      "part1": "Julie picked out the brightest star in the",
+      "part2": "and made a wish on it.",
+      "correct": "firmament",
+      "word": "FIRMAMENT"
+    },
+    {
+      "part1": "I thought his jokes were faintly",
+      "part2": ", but not real sidesplitters.",
+      "correct": "risible",
+      "word": "RISIBLE"
+    },
+    {
+      "part1": "The star's",
+      "part2": "dressing room is large enough to fit a house in it.",
+      "correct": "capacious",
+      "word": "CAPACIOUS"
+    },
+    {
+      "part1": "We",
+      "part2": "the fibers by soaking them in water for several days.",
+      "correct": "macerated",
+      "word": "MACERATE"
+    },
+    {
+      "part1": "The Soviet Union established its",
+      "part2": "in Eastern Europe after World War II.",
+      "correct": "hegemony",
+      "word": "HEGEMONY"
+    },
+    {
+      "part1": "The two senators had a stimulating",
+      "part2": "in which both points of view were well represented.",
+      "correct": "colloquy",
+      "word": "COLLOQUY"
+    },
+    {
+      "part1": "The president quickly tired of the",
+      "part2": "of his advisers and demanded they give their real opinions instead of just flattering him.",
+      "correct": "sycophancy",
+      "word": "SYCOPHANCY"
+    },
+    {
+      "part1": "The",
+      "part2": "family lives without heat, electricity, or running water.",
+      "correct": "penurious",
+      "word": "PENURIOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "patient complained about everything from the nurses to the food.",
+      "correct": "querulous",
+      "word": "QUERULOUS"
+    }
+  ],
+  "type": "fitb",
+  "id": 2
+}

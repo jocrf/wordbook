@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "BAUBLE",
+      "answer": "bauble"
+    },
+    {
+      "word": "DELUGE",
+      "answer": "deluge"
+    },
+    {
+      "word": "INSURRECTION",
+      "answer": "insurrections"
+    },
+    {
+      "word": "MUSE",
+      "answer": "muse"
+    },
+    {
+      "word": "SAGE",
+      "answer": "sage"
+    },
+    {
+      "word": "BERATE",
+      "answer": "berated"
+    },
+    {
+      "word": "GIRTH",
+      "answer": "girth"
+    },
+    {
+      "word": "MALEFACTOR",
+      "answer": "malefactor"
+    },
+    {
+      "word": "PARAPHERNALIA",
+      "answer": "paraphernalia"
+    },
+    {
+      "word": "VANQUISH",
+      "answer": "vanquish"
+    },
+    {
+      "word": "BREVITY",
+      "answer": "brevity"
+    },
+    {
+      "word": "IMPASSIVE",
+      "answer": "impassive"
+    },
+    {
+      "word": "MEMOIRS",
+      "answer": "memoirs"
+    },
+    {
+      "word": "RECTIFY",
+      "answer": "rectify"
+    },
+    {
+      "word": "VENDETTA",
+      "answer": "vendetta"
+    },
+    {
+      "word": "DELETE",
+      "answer": "deleted"
+    },
+    {
+      "word": "INSUBORDINATE",
+      "answer": "insurrections"
+    },
+    {
+      "word": "MIRTH",
+      "answer": "mirth"
+    },
+    {
+      "word": "REPROACH",
+      "answer": "reprehensible"
+    },
+    {
+      "word": "VIABLE",
+      "answer": "viable"
+    },
+    {
+      "word": "ASSENT",
+      "answer": "assented"
+    },
+    {
+      "word": "DESPOT",
+      "answer": "despot"
+    },
+    {
+      "word": "GENTEEL",
+      "answer": "genteel"
+    },
+    {
+      "word": "RABBLE",
+      "answer": "rabble"
+    },
+    {
+      "word": "SOLACE",
+      "answer": "solace"
+    },
+    {
+      "word": "ATTAIN",
+      "answer": "attain"
+    },
+    {
+      "word": "EDIFYING",
+      "answer": "edifying"
+    },
+    {
+      "word": "INDULGE",
+      "answer": "indulged"
+    },
+    {
+      "word": "REBUKE",
+      "answer": "rebuked"
+    },
+    {
+      "word": "SMUG",
+      "answer": "smug"
+    },
+    {
+      "word": "BEDEVIL",
+      "answer": "bedeviled"
+    },
+    {
+      "word": "ENVOY",
+      "answer": "envoy"
+    },
+    {
+      "word": "INTERJECTION",
+      "answer": "interjections"
+    },
+    {
+      "word": "RECOMPENSE",
+      "answer": "recompense"
+    },
+    {
+      "word": "SURMISE",
+      "answer": "surmise"
+    },
+    {
+      "word": "COALESCE",
+      "answer": "coalesced"
+    },
+    {
+      "word": "FARCICAL",
+      "answer": "farcical"
+    },
+    {
+      "word": "LISTLESS",
+      "answer": "listless"
+    },
+    {
+      "word": "REPERCUSSION",
+      "answer": "repercussions"
+    },
+    {
+      "word": "TINGE",
+      "answer": "tinge"
+    },
+    {
+      "word": "CONSENSUS",
+      "answer": "consensus"
+    },
+    {
+      "word": "FISSURE",
+      "answer": "fissure"
+    },
+    {
+      "word": "NEGLIGIBLE",
+      "answer": "negligible"
+    },
+    {
+      "word": "REPREHENSIBLE",
+      "answer": "reprehensible"
+    },
+    {
+      "word": "VINDICTIVE",
+      "answer": "vindictive"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "He always had a(n)",
+      "part2": "expression on his face. You could never tell what he was thinking.",
+      "correct": "impassive",
+      "word": "IMPASSIVE"
+    },
+    {
+      "part1": "The clerk looked very sad and",
+      "part2": "the little boy for trying to steal the candy.",
+      "correct": "reproached",
+      "word": "REPREHENSIBLE"
+    },
+    {
+      "part1": "Because of the huge size of our army we were able to",
+      "part2": "the enemy in the battle.",
+      "correct": "vanquish",
+      "word": "VANQUISH"
+    },
+    {
+      "part1": "The police claimed that he was the",
+      "part2": "responsible for burning down the building.",
+      "correct": "malefactor",
+      "word": "MALEFACTOR"
+    },
+    {
+      "part1": "She liked to take a few moments at night, sit by herself, and",
+      "part2": "over the events of the day.",
+      "correct": "muse",
+      "word": "MUSE"
+    },
+    {
+      "part1": "The child was very",
+      "part2": "; she absolutely refused to do what she was told.",
+      "correct": "insubordinate",
+      "word": "INSUBORDINATE"
+    },
+    {
+      "part1": "The company admitted its mistake and promised to",
+      "part2": "it immediately.",
+      "correct": "rectify",
+      "word": "RECTIFY"
+    },
+    {
+      "part1": "His",
+      "part2": "are full of humorous stories about the events of his life.",
+      "correct": "memoirs",
+      "word": "MEMOIRS"
+    },
+    {
+      "part1": "They were always laughing and joking and full of",
+      "part2": ". It seemed that nothing could make them unhappy.",
+      "correct": "mirth",
+      "word": "MIRTH"
+    },
+    {
+      "part1": "His constant eating increased his",
+      "part2": "until he couldn't fit into any of his suits.",
+      "correct": "girth",
+      "word": "GIRTH"
+    },
+    {
+      "part1": "We were amazed by the",
+      "part2": "of his speech; it only lasted thirty seconds.",
+      "correct": "brevity",
+      "word": "BREVITY"
+    },
+    {
+      "part1": "It is an exciting idea, but it's just not",
+      "part2": "; we would never have enough time to put it into effect.",
+      "correct": "viable",
+      "word": "VIABLE"
+    },
+    {
+      "part1": "The two families have had a(n)",
+      "part2": "with each other for generations. By now everyone has forgotten how it started.",
+      "correct": "vendetta",
+      "word": "VENDETTA"
+    },
+    {
+      "part1": "The policeman angrily",
+      "part2": "the child for running out into the traffic.",
+      "correct": "berated",
+      "word": "BERATE"
+    },
+    {
+      "part1": "The king had to put down several minor",
+      "part2": "by groups who opposed him.",
+      "correct": "insurrections",
+      "word": "INSUBORDINATE"
+    },
+    {
+      "part1": "The editor said the book was too long, so he shortened some chapters and",
+      "part2": "others.",
+      "correct": "deleted",
+      "word": "DELETE"
+    },
+    {
+      "part1": "They carefully cleaned all the",
+      "part2": "that would be needed for the job.",
+      "correct": "paraphernalia",
+      "word": "PARAPHERNALIA"
+    },
+    {
+      "part1": "The tremendous rainstorms caused a(n)",
+      "part2": "which destroyed many houses.",
+      "correct": "deluge",
+      "word": "DELUGE"
+    },
+    {
+      "part1": "The child quickly grew tired of the bright, pretty",
+      "part2": "and wanted something more interesting to play with.",
+      "correct": "bauble",
+      "word": "BAUBLE"
+    },
+    {
+      "part1": "He is a(n)",
+      "part2": "and sensible man who is known for his wise handling of difficult problems.",
+      "correct": "sage",
+      "word": "SAGE"
+    },
+    {
+      "part1": "There was a slight reddish",
+      "part2": "to her dress.",
+      "correct": "tinge",
+      "word": "TINGE"
+    },
+    {
+      "part1": "A series of injuries",
+      "part2": "the athlete during his playing career.",
+      "correct": "bedeviled",
+      "word": "BEDEVIL"
+    },
+    {
+      "part1": "No amount of money could be adequate",
+      "part2": "for the harm they had done him.",
+      "correct": "recompense",
+      "word": "RECOMPENSE"
+    },
+    {
+      "part1": "It is impossible to",
+      "part2": "perfection in our work, but we should come as close as we can.",
+      "correct": "attain",
+      "word": "ATTAIN"
+    },
+    {
+      "part1": "I don't think what she did was so",
+      "part2": "; I wouldn't criticize anyone for just trying to tell the truth.",
+      "correct": "reprehensible",
+      "word": "REPREHENSIBLE"
+    },
+    {
+      "part1": "The principal gave a very",
+      "part2": "speech on the importance of studying. We all learned a lot.",
+      "correct": "edifying",
+      "word": "EDIFYING"
+    },
+    {
+      "part1": "The police were instructed to keep the",
+      "part2": "off the streets so that the visiting king would see only clean, respectful tradespeople.",
+      "correct": "rabble",
+      "word": "RABBLE"
+    },
+    {
+      "part1": "Jim's mother",
+      "part2": "him strongly for not obeying her.",
+      "correct": "rebuked",
+      "word": "REBUKE"
+    },
+    {
+      "part1": "Al feels very",
+      "part2": "sometimes. He just wants to sleep and eat and watch television.",
+      "correct": "listless",
+      "word": "LISTLESS"
+    },
+    {
+      "part1": "I'm not sure exactly when he'll be back, but I",
+      "part2": "that he'll be here in time for supper.",
+      "correct": "surmise",
+      "word": "SURMISE"
+    },
+    {
+      "part1": "The",
+      "part2": "of the committee was that it needed more time before it could reach a final decision.",
+      "correct": "consensus",
+      "word": "CONSENSUS"
+    },
+    {
+      "part1": "Some of the poison leaked out, but the amount was",
+      "part2": "; it wasn't enough to harm anyone.",
+      "correct": "negligible",
+      "word": "NEGLIGIBLE"
+    },
+    {
+      "part1": "We sent our",
+      "part2": "to the new country to tell them of our peaceful intentions.",
+      "correct": "envoy",
+      "word": "ENVOY"
+    },
+    {
+      "part1": "The clown's",
+      "part2": "attempt to ride a bicycle backward had everyone laughing.",
+      "correct": "farcical",
+      "word": "FARCICAL"
+    },
+    {
+      "part1": "Both of us",
+      "part2": "to the arrangement by which we split the reward equally.",
+      "correct": "assented",
+      "word": "ASSENT"
+    },
+    {
+      "part1": "The war between the two little countries had serious",
+      "part2": "throughout the world.",
+      "correct": "repercussions",
+      "word": "REPERCUSSION"
+    },
+    {
+      "part1": "The climber fell into the deep",
+      "part2": "in the side of the mountain.",
+      "correct": "fissure",
+      "word": "FISSURE"
+    },
+    {
+      "part1": "Art wasn't",
+      "part2": "when people wronged him; he didn't believe in seeking revenge.",
+      "correct": "vindictive",
+      "word": "VINDICTIVE"
+    },
+    {
+      "part1": "The parents",
+      "part2": "their children by letting them stay up an extra hour.",
+      "correct": "indulged",
+      "word": "INDULGE"
+    },
+    {
+      "part1": "He lived in",
+      "part2": "poverty. He wore the most expensive suits, but they were threadbare and ragged.",
+      "correct": "genteel",
+      "word": "GENTEEL"
+    },
+    {
+      "part1": "He was quite",
+      "part2": "about his victory, and said the losers would never be as good as he was.",
+      "correct": "smug",
+      "word": "SMUG"
+    },
+    {
+      "part1": "Several small groups of people",
+      "part2": "into one large crowd.",
+      "correct": "coalesced",
+      "word": "COALESCE"
+    },
+    {
+      "part1": "As he grew older the king became more and more of a(n)",
+      "part2": ", making all laws by himself and jailing anyone who opposed him.",
+      "correct": "despot",
+      "word": "DESPOT"
+    },
+    {
+      "part1": "Many kind friends came to offer",
+      "part2": "to her in her time of trouble.",
+      "correct": "solace",
+      "word": "SOLACE"
+    },
+    {
+      "part1": "She shouted out \"Wonderful!\", \"Marvelous!\", and other",
+      "part2": "during the exciting concert.",
+      "correct": "interjections",
+      "word": "INTERJECTION"
+    }
+  ],
+  "type": "fitb",
+  "id": 3
+}

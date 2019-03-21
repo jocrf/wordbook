@@ -1,0 +1,608 @@
+{
+  "title": "2.8",
+  "definitions": {
+    "TORMENT": {
+      "word": "TORMENT",
+      "phonetic": "(tor'-ment)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">great pain, agony, suffering </p><p>TORMENT is great pain and suffering.</p><p>“We could tell that our cat was in TORMENT because every few minutes he would give a great cry of pain.\"</p><p> Mental suffering can also be TORMENT. </p><p>“The missing boy’s parents were in TORMENT.” </p><p>TORMENT is also a verb which means “to cause great pain to,” to torture. As a verb the word is pronounced torment’ or torment. </p><p>“He was TORMENTED by a severe headache.” </p><p>Sometimes it simply means to annoy. </p><p>“He constantly teases and TORMENTS his sister.”</p>"
+    },
+    "SLACKEN": {
+      "word": "SLACKEN",
+      "phonetic": "(slak'-ÔøΩn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to slow down; to make looser </p><p>SLACKEN means to <i class=“def-ital\">slow down</i>. </p><p>“The runner SLACKENED his pace when his leg began to hurt.” </p><p>“We enjoyed being on the beach once the wind SLACKENED.” SLACKEN is also used to mean “to make looser.” </p><p>“The horse was easier to control after Bill learned to SLACKEN the reins.\"</p><p> The adjective form of SLACKEN is SLACK, which means “not busy, or not tense or taut.” </p><p>“It was a SLACK season for his business; few customers came to his shop.” </p><p>“The rope was SLACK; it hung loosely from the sail.” </p><p>SLACK is also a noun. </p><p>“There was some SLACK in the rope.” </p><p>Other forms of the word: SLACK, adj., n.</p>"
+    },
+    "QUALIFIED": {
+      "word": "QUALIFIED",
+      "phonetic": "(kwo'-lÔøΩfld)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">suited, fit, competent; limited, restricted </p><p>To QUALIFY a person is to make him fit for something like a job or an award. </p><p>“Your score on the test QUALIFIES you for a prize.” </p><p>Someone who is QUALIFIED, therefore, is fit or competent for something. </p><p>“Both of them were well QUALIFIED for the job.” </p><p>“Only QUALIFIED experts should work with bombs.” </p><p>“He wasn’t QUALIFIED to run in the race because he didn’t enter on time.” </p><p>Another meaning of QUALIFIED is <i class=“def-ital\">limited, restricted</i>. To give your “QUALIFIED approval” to something is to approve it with some limitations, not wholeheartedly. </p><p>Other forms of the word: QUALIFICATION, n. </p><p>QUALIFY, v.</p>"
+    },
+    "RESTRAIN": {
+      "word": "RESTRAIN",
+      "phonetic": "(ri-strAn')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to hold back, curb, limit, restrict </p><p>To RESTRAIN someone is to hold him back from doing something.  </p><p>“We held on to Bill to RESTRAIN him from hitting the other boy.” </p><p>“It was difficult for him to RESTRAIN his temper. He got angry very easily.” </p><p>“She could not RESTRAIN a smile at the child’s question.” </p><p>RESTRAINT is the noun from RESTRAIN. A RESTRAINT is something that holds you back. </p><p>“The prisoner hated the RESTRAINTS that had been placed on his freedom.” </p><p>RESTRAINT is also the act of holding back. </p><p>“We must exercise RESTRAINT in eating the cookies” -that is, we must hold back our desire to eat too many of them. </p><p>Other forms of the word: RESTRAINT, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "SLUMBER": {
+      "word": "SLUMBER",
+      "phonetic": "(sluhm'-bÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">sleep SLUMBER means sleep, usually peaceful sleep. </p><p>SLUMBER can be used as either a noun or a verb. </p><p>“The baby is quietly SLUMBERING in his crib.” </p><p>“As soon as the medicine took effect, he fell into a deep SLUMBER.” </p><p>“He lay in peaceful SLUMBER, unaware of the noise.”</p>"
+    },
+    "CONSUME": {
+      "word": "CONSUME",
+      "phonetic": "(kan-sUm')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to use up; to eat; to destroy</p><p>CONSUME means to <i class=“def-ital\">use up</i>, so that there is nothing left. </p><p>“By the end of the winter all the firewood we had cut was CONSUMED.” </p><p>“Her pay is CONSUMED by the necessary things like food and rent, so there’s nothing left over for fun.” </p><p>CONSUME also means to <i class=“def-ital\">eat</i> or <i class=“def-ital\">drink</i>; in other words, to <i class=“def-ital\">use up</i> food. </p><p>“We CONSUMED the meal in complete silence.” </p><p>“The guests at the party CONSUMED two cases of soft drinks.” </p><p>In a slightly different sense, CONSUME can mean to <i class=“def-ital\">destroy</i>. “Our house and all our belongings were CONSUMED in the fire.” </p><p>Other forms of the word: CONSUMER, n.</p>"
+    },
+    "SUMMON": {
+      "word": "SUMMON",
+      "phonetic": "(suhm'-an)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to send for, call together, call forth </p><p>To SUMMON someone is to send for him, to ask or require him to come. The word usually suggests that the re- quest is urgent, or that the person doing the SUMMONING is powerful and not to be disobeyed. </p><p>“The king SUMMONED all the noblemen to his castle.” </p><p>“The ringing of the bell SUMMONED them to their next class.” </p><p>To SUMMON <i class=“def-ital\">up</i> something is to call it forth. </p><p>“She tried to SUMMON up a smile, but she was just too unhappy.” </p><p>In law, a SUMMONS is a notice ordering a person to appear in court. </p><p>“When the witness didn’t appear in court, the judge is- sued a SUMMONS requiring him to come.” </p><p>Other forms of the word: SUMMONS, n.</p>"
+    },
+    "TOLERATE": {
+      "word": "TOLERATE",
+      "phonetic": "(tol-'a-rAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to bear, stand, put up with, endure </p><p>TOLERATE means to <i class=“def-ital\">bea</i> or <i class=“def-ital\">put up with</i>. The word suggests that you don’t like something, but you endure it because you have to, or because it’s not bad enough to make you resist it. </p><p>“Harry doesn’t like children, but he TOLERATES them when he’s visiting friends who have children.” </p><p>“She couldn’t TOLERATE having the puppy jump up on her.” </p><p>People who TOLERATE things are called TOLERANT. </p><p>“He’s very TOLERANT of little mistakes, but she yells about everything.” </p><p>Other forms of the word: TOLERANCE, n. </p><p>TOLERANT, adj.</p>"
+    },
+    "UNSETTLE": {
+      "word": "UNSETTLE",
+      "phonetic": "(uhn-set'-al)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to disturb, make troubled, make uncertain </p><p>One meaning of the verb SETTLE is to <i class=“def-ital\">calm</i>. </p><p>“This medicine will SETTLE your stomach if you are not feeling well.” </p><p>UNSETTLE is the opposite of SETTLE used in this sense.  To UNSETTLE is to make someone or something disturbed or disordered. </p><p>“Monica’s attitude of superiority UNSETTLED Julia.” </p><p>“The UNSETTLED conditions at the end of the war eventually calmed down during the years of peace that followed.” </p><p>“Her final remark was very UNSETTLING. He worried about it all the way home.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">un-</i> under Prefixes."
+      ]
+    },
+    "VOW": {
+      "word": "VOW",
+      "phonetic": "(vow)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a promise, oath </p><p>A VOW is a solemn promise or oath, often taken in some kind of ceremony. </p><p>“He made a solemn VOW to find the person who had killed her.” </p><p>“She took a VOW of secrecy when she joined the club.” VOW is also a verb meaning to <i class=“def-ital\">promise</i> or <i class=“def-ital\">swear</i>. “We VOW to be true to one another forever.” </p><p>“Scarlett VOWED that she would never go hungry again.”</p>"
+    },
+    "CRISIS": {
+      "word": "CRISIS",
+      "phonetic": "(krl'-sis)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an emergency, climax, turning point</p><p> CRISIS comes from a Greek word meaning <i class=“def-ital\">decision</i>. A CRISIS is a point at which what happens in the future, good or bad, is decided. In medicine, for example, a CRI- SIS is the turning point in a serious disease, when the patient either starts to get better or dies. </p><p>“There was a political CRISIS in that country. No one knew who the next ruler would be.\"</p><p>“She was in the middle of a personal CRISIS then. Her husband was deciding whether he wanted a divorce.” </p><p>“That was quite a CRISIS. I’m glad things worked out all right.”</p>"
+    },
+    "EPISODE": {
+      "word": "EPISODE",
+      "phonetic": "(ep'-ÔøΩsOd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an incident, scene, occurrence, one of a series of events </p><p>An EPISODE is a scene, incident, or story which is com- plete and interesting in itself, but which is also part of a larger story or series of events. </p><p>“The play had some exciting EPISODES, but in general was not very good.” </p><p>“It was not a very pleasant EPISODE in his career.” </p><p>Single programs in a television series are called EPISODES because they are complete by themselves, but are also part of the entire series. </p><p>Other forms of the word: EPISODIC, adj.</p>"
+    },
+    "WEARY": {
+      "word": "WEARY",
+      "phonetic": "(wEr'-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">tired, worn out </p><p>WEARY means just about the same as <i class=“def-ital\">tired</i>, although it is a little stronger and suggests someone who has lost most of his energy or his interest. </p><p>“After the fifty mile march the soldiers were WEARY and ready for bed.” </p><p>“We were all WEARY by the time we had finished cleaning the house.” </p><p>WEARY is often followed by of. </p><p>“I am getting very WEARY of people always yelling at me.” </p><p>WEARY is also a verb, meaning to tire or become tired. </p><p>“They began to WEARY of the noise and confusion of city life.” </p><p>Unhappy</i> is often chosen as the meaning of WEARY in the Pretest. Someone can be both physically WEARY and happy, though. </p><p>“The team was WEARY after the long game, but happy because they had won.” </p><p>Other forms of the word: WEARINESS, n.</p>"
+    },
+    "WOE": {
+      "word": "WOE",
+      "phonetic": "(wO)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">sorrow, trouble, grief </p><p>WOE is deep sorrow or misery. </p><p>“The field was a scene of WOE after the battle.” </p><p>In a related sense, a WOE is also a cause of sorrow or suffering, a <i class=“def-ital\">trouble</i> or <i class=“def-ital\">misfortune</i>. </p><p>“His WOES began when he fell and broke his leg.” </p><p>“She complained for hours about all the WOES of her life.” </p><p>The adjective form of WOE is WOEFUL. WOEFUL can mean unhappy. </p><p>“Jane had a WOEFUL look on her face when she heard the bad news.” </p><p>WOEFUL can also mean “of very poor quality,” <i class=“def-ital\">wretched</i>. </p><p>“This house is in WOEFUL condition. It needs a lot of work.” </p><p>Other forms of the word: WOEFUL, adj.</p>"
+    },
+    "COMPLIMENT": {
+      "word": "COMPLIMENT",
+      "phonetic": "(kom'-plÔøΩmÔøΩnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">praise </p><p>A COMPLIMENT is a polite expression of praise or approval. When you tell people that you admire them or ap- prove of what they’re doing, you are giving them a COMPLIMENT. </p><p>“She received several COMPLIMENTS from her friends about her new dress.” </p><p>COMPLIMENT is also a verb and means “to express approval of or to give praise to.” As a verb the word is pronounced kom’-pl;)-ment. </p><p>“The teacher COMPLIMENTED him for raising his grade in French.” </p><p>“She COMPLIMENTED the way we cleaned the house. </p><p>Other forms of the word COMPLIMENTARY, adj.</p>"
+    }
+  },
+  "id": "8",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Stopped the TORMENT.",
+          "answers": [
+            "singing",
+            "good times",
+            "flood",
+            "bleeding",
+            "great pain"
+          ],
+          "word": "TORMENT",
+          "correct": "great pain"
+        },
+        {
+          "prompt": "Production will SLACKEN.",
+          "answers": [
+            "slow down",
+            "start",
+            "stop",
+            "go on",
+            "speed up"
+          ],
+          "word": "SLACKEN",
+          "correct": "slow down"
+        },
+        {
+          "prompt": "They are both QUALIFIED.",
+          "answers": [
+            "expected",
+            "undesirable",
+            "educated",
+            "suited",
+            "satisfied"
+          ],
+          "word": "QUALIFIED",
+          "correct": "suited"
+        },
+        {
+          "prompt": "RESTRAINED the dog.",
+          "answers": [
+            "led in",
+            "taught",
+            "held back",
+            "found",
+            "pulled out"
+          ],
+          "word": "RESTRAIN",
+          "correct": "held back"
+        },
+        {
+          "prompt": "Peaceful SLUMBER.",
+          "answers": [
+            "dream",
+            "sleep",
+            "morning",
+            "forest",
+            "walk"
+          ],
+          "word": "SLUMBER",
+          "correct": "sleep"
+        },
+        {
+          "prompt": "CONSUMED some of it.",
+          "answers": [
+            "increased",
+            "lost",
+            "reduced",
+            "used up",
+            "lied about"
+          ],
+          "word": "CONSUME",
+          "correct": "used up"
+        },
+        {
+          "prompt": "They will SUMMON him.",
+          "answers": [
+            "remember",
+            "talk about",
+            "visit",
+            "send for",
+            "need"
+          ],
+          "word": "SUMMON",
+          "correct": "send for"
+        },
+        {
+          "prompt": "Can anyone TOLERATE him?",
+          "answers": [
+            "hate",
+            "calm",
+            "persuade",
+            "like",
+            "bear"
+          ],
+          "word": "TOLERATE",
+          "correct": "bear"
+        },
+        {
+          "prompt": "UNSETTLED conditions.",
+          "answers": [
+            "unusual",
+            "disturbed",
+            "evil",
+            "quiet",
+            "crowded"
+          ],
+          "word": "UNSETTLE",
+          "correct": "disturbed"
+        },
+        {
+          "prompt": "Reminded him of his VOW.",
+          "answers": [
+            "religion",
+            "decision",
+            "past",
+            "promise",
+            "quarrel"
+          ],
+          "word": "VOW",
+          "correct": "promise"
+        },
+        {
+          "prompt": "During the CRISIS.",
+          "answers": [
+            "battle",
+            "emergency",
+            "vacation",
+            "illness",
+            "argument"
+          ],
+          "word": "CRISIS",
+          "correct": "emergency"
+        },
+        {
+          "prompt": "Another EPISODE.",
+          "answers": [
+            "attempt",
+            "comedy",
+            "decision",
+            "moment",
+            "incident"
+          ],
+          "word": "EPISODE",
+          "correct": "incident"
+        },
+        {
+          "prompt": "So WEARY.",
+          "answers": [
+            "old",
+            "unhappy",
+            "tired",
+            "uncertain",
+            "fresh"
+          ],
+          "word": "WEARY",
+          "correct": "tired"
+        },
+        {
+          "prompt": "Her tale of WOE.",
+          "answers": [
+            "sorrow",
+            "war",
+            "happiness",
+            "danger",
+            "death"
+          ],
+          "word": "WOE",
+          "correct": "sorrow"
+        },
+        {
+          "prompt": "Unexpected COMPLIMENT.",
+          "answers": [
+            "failure",
+            "result",
+            "blame",
+            "praise",
+            "friendship"
+          ],
+          "word": "COMPLIMENT",
+          "correct": "praise"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Are people happy to be in TORMENT?",
+          "word": "TORMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a runner's speed SLACKEN as he tried to win a race?",
+          "word": "SLACKEN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a high school student QUALIFIED to be president of the United States?",
+          "word": "QUALIFIED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Should someone who wants to commit murder be RESTRAINED?",
+          "word": "RESTRAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people usually SLUMBER at night?",
+          "word": "SLUMBER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a fat person usually CONSUME a lot of food?",
+          "word": "CONSUME",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a principal SUMMON a student to his office?",
+          "word": "SUMMON",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do TOLERANT people get angry easily?",
+          "word": "TOLERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would seeing a ghost UNSETTLE a person?",
+          "word": "UNSETTLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it possible to break a VOW?",
+          "word": "VOW",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would people be worried during a CRISIS?",
+          "word": "CRISIS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could there be several EPISODES in a novel?",
+          "word": "EPISODE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people be WEARY after running ten miles?",
+          "word": "WEARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a playful kitten full of WOE?",
+          "word": "WOE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most people like to receive a COMPLIMENT?",
+          "word": "COMPLIMENT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Pat was TORMENTED by the thought that he would soon have to take the test.",
+          "word": "TORMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "She SLACKENED them for not trying hard enough.",
+          "word": "SLACKEN",
+          "correct": "false"
+        },
+        {
+          "prompt": "We felt that she was QUALIFIED for the job as an interpreter because she spoke French perfectly.",
+          "word": "QUALIFIED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Gail disliked any RESTRAINTS on her activity. She wanted to do as she pleased.",
+          "word": "RESTRAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "The car SLUMBERED to a stop by the side of the road.",
+          "word": "SLUMBER",
+          "correct": "false"
+        },
+        {
+          "prompt": "The climb up the mountain CONSUMED all our energy.",
+          "word": "CONSUME",
+          "correct": "true"
+        },
+        {
+          "prompt": "Cindy SUMMONED up all her remaining strength for the last mile of the race.",
+          "word": "SUMMON",
+          "correct": "true"
+        },
+        {
+          "prompt": "I simply cannot TOLERATE cigarette smoke.",
+          "word": "TOLERATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She was UNSETTLED by the news that she might lose her job.",
+          "word": "UNSETTLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They received a beautiful blue VOW for a wedding present.",
+          "word": "VOW",
+          "correct": "false"
+        },
+        {
+          "prompt": "He survived one CRISIS after another during his career.",
+          "word": "CRISIS",
+          "correct": "true"
+        },
+        {
+          "prompt": "He called the Civil War one of the saddest EPISODES in American history.",
+          "word": "EPISODE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Carla quickly began to WEARY of her dull job at the factory.",
+          "word": "WEARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her WOEFUL look told us that she was deeply unhappy.",
+          "word": "WOE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Dick didn't think she meant it when she COMPLIMENTED him. He felt she was just praising him to make him feel better.",
+          "word": "COMPLIMENT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "TORMENT",
+          "answers": [
+            "delay",
+            "pain",
+            "worry"
+          ],
+          "word": "TORMENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "SLACKEN",
+          "answers": [
+            "loosen",
+            "slow",
+            "fasten"
+          ],
+          "word": "SLACKEN",
+          "correct": "2"
+        },
+        {
+          "prompt": "QUALIFIED",
+          "answers": [
+            "competent",
+            "unusual",
+            "limited"
+          ],
+          "word": "QUALIFIED",
+          "correct": "1"
+        },
+        {
+          "prompt": "RESTRAIN",
+          "answers": [
+            "stop",
+            "limit",
+            "try"
+          ],
+          "word": "RESTRAIN",
+          "correct": "2"
+        },
+        {
+          "prompt": "SLUMBER",
+          "answers": [
+            "sleep",
+            "nightmare",
+            "rest"
+          ],
+          "word": "SLUMBER",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONSUME",
+          "answers": [
+            "eat",
+            "use up",
+            "throw away"
+          ],
+          "word": "CONSUME",
+          "correct": "2"
+        },
+        {
+          "prompt": "SUMMON",
+          "answers": [
+            "leave",
+            "call for",
+            "bring"
+          ],
+          "word": "SUMMON",
+          "correct": "0"
+        },
+        {
+          "prompt": "TOLERATE",
+          "answers": [
+            "suffer",
+            "endure",
+            "reject"
+          ],
+          "word": "TOLERATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "UNSETTLE",
+          "answers": [
+            "bother",
+            "confuse",
+            "enjoy"
+          ],
+          "word": "UNSETTLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "VOW",
+          "answers": [
+            "promise",
+            "guarantee",
+            "reminder"
+          ],
+          "word": "VOW",
+          "correct": "2"
+        },
+        {
+          "prompt": "CRISIS",
+          "answers": [
+            "pain",
+            "climax",
+            "decision"
+          ],
+          "word": "CRISIS",
+          "correct": "0"
+        },
+        {
+          "prompt": "EPISODE",
+          "answers": [
+            "event",
+            "problem",
+            "scene"
+          ],
+          "word": "EPISODE",
+          "correct": "1"
+        },
+        {
+          "prompt": "WEARY",
+          "answers": [
+            "sleepy",
+            "weak",
+            "tiny"
+          ],
+          "word": "WEARY",
+          "correct": "2"
+        },
+        {
+          "prompt": "WOE",
+          "answers": [
+            "sadness",
+            "trouble",
+            "danger"
+          ],
+          "word": "WOE",
+          "correct": "2"
+        },
+        {
+          "prompt": "COMPLIMENT",
+          "answers": [
+            "approve",
+            "admire",
+            "expect"
+          ],
+          "word": "COMPLIMENT",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

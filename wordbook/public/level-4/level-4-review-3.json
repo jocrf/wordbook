@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ACCESSIBLE",
+      "answer": "accessible"
+    },
+    {
+      "word": "COMPOUND",
+      "answer": "compensate"
+    },
+    {
+      "word": "OBSTINATE",
+      "answer": "obstinate"
+    },
+    {
+      "word": "PONDER",
+      "answer": "pondered"
+    },
+    {
+      "word": "TIMID",
+      "answer": "timid"
+    },
+    {
+      "word": "ACKNOWLEDGE",
+      "answer": "acknowledged"
+    },
+    {
+      "word": "COURIER",
+      "answer": "courier"
+    },
+    {
+      "word": "PAGEANTRY",
+      "answer": "pageantry"
+    },
+    {
+      "word": "POPULACE",
+      "answer": "populace"
+    },
+    {
+      "word": "UNEARTH",
+      "answer": "unearth"
+    },
+    {
+      "word": "BARREN",
+      "answer": "barren"
+    },
+    {
+      "word": "INFECTIOUS",
+      "answer": "infectious"
+    },
+    {
+      "word": "PEDIGREE",
+      "answer": "pedigree"
+    },
+    {
+      "word": "PROMINENT",
+      "answer": "prominent"
+    },
+    {
+      "word": "UNFURL",
+      "answer": "unfurled"
+    },
+    {
+      "word": "BARTER",
+      "answer": "barter"
+    },
+    {
+      "word": "LUNACY",
+      "answer": "lunacy"
+    },
+    {
+      "word": "PERPLEX",
+      "answer": "perplexed"
+    },
+    {
+      "word": "SCORN",
+      "answer": "scorns"
+    },
+    {
+      "word": "VELOCITY",
+      "answer": "velocity"
+    },
+    {
+      "word": "CLARITY",
+      "answer": "clarity"
+    },
+    {
+      "word": "APPOINT",
+      "answer": "appointed"
+    },
+    {
+      "word": "CONTRARY",
+      "answer": "contrary"
+    },
+    {
+      "word": "HABITUAL",
+      "answer": "habitual"
+    },
+    {
+      "word": "MIMIC",
+      "answer": "mimic"
+    },
+    {
+      "word": "REIMBURSE",
+      "answer": "reimburse"
+    },
+    {
+      "word": "COINCIDE",
+      "answer": "coincided"
+    },
+    {
+      "word": "CREDIBLE",
+      "answer": "credible"
+    },
+    {
+      "word": "HERALD",
+      "answer": "heralded"
+    },
+    {
+      "word": "MONUMENTAL",
+      "answer": "monumental"
+    },
+    {
+      "word": "REVISE",
+      "answer": "revise"
+    },
+    {
+      "word": "COMPENSATE",
+      "answer": "compensate"
+    },
+    {
+      "word": "DUMBFOUNDED",
+      "answer": "dumbfounded"
+    },
+    {
+      "word": "IMPARTIAL",
+      "answer": "impartial"
+    },
+    {
+      "word": "PRIM",
+      "answer": "prim"
+    },
+    {
+      "word": "SPLINTER",
+      "answer": "splintered"
+    },
+    {
+      "word": "COMRADE",
+      "answer": "comrades"
+    },
+    {
+      "word": "ELEVATING",
+      "answer": "elevating"
+    },
+    {
+      "word": "INFORMAL",
+      "answer": "informal"
+    },
+    {
+      "word": "PROVERB",
+      "answer": "proverb"
+    },
+    {
+      "word": "UPRISING",
+      "answer": "uprising"
+    },
+    {
+      "word": "CONDENSE",
+      "answer": "condense"
+    },
+    {
+      "word": "ENDORSE",
+      "answer": "endorse"
+    },
+    {
+      "word": "LEGITIMATE",
+      "answer": "legitimate"
+    },
+    {
+      "word": "PUTRID",
+      "answer": "putrid"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The land was totally",
+      "part2": "; farmers could not grow any crops there.",
+      "correct": "barren",
+      "word": "BARREN"
+    },
+    {
+      "part1": "He was rather",
+      "part2": "about patting the huge dog, but finally he got up the courage to touch it.",
+      "correct": "timid",
+      "word": "TIMID"
+    },
+    {
+      "part1": "His",
+      "part2": "increased as he went downhill until finally he was traveling at sixty miles an hour.",
+      "correct": "velocity",
+      "word": "VELOCITY"
+    },
+    {
+      "part1": "Ken",
+      "part2": "the problem for an hour before he came up with a solution.",
+      "correct": "pondered",
+      "word": "PONDER"
+    },
+    {
+      "part1": "On Memorial Day he",
+      "part2": "the flag and hung it in front of the house.",
+      "correct": "unfurled",
+      "word": "UNFURL"
+    },
+    {
+      "part1": "It is the most",
+      "part2": "building in the city, rising twenty stories above the rest.",
+      "correct": "prominent",
+      "word": "PROMINENT"
+    },
+    {
+      "part1": "It was an act of",
+      "part2": "for him to try to swim across the Pacific Ocean.",
+      "correct": "lunacy",
+      "word": "LUNACY"
+    },
+    {
+      "part1": "Jim doesn't shop around for clothes; he goes to whatever store is most",
+      "part2": "to him.",
+      "correct": "accessible",
+      "word": "ACCESSIBLE"
+    },
+    {
+      "part1": "Her happiness was",
+      "part2": "; anyone who was with her just naturally started feeling happy, too.",
+      "correct": "infectious",
+      "word": "INFECTIOUS"
+    },
+    {
+      "part1": "Sheila",
+      "part2": "people who go through life just trying to make money and never enjoying art or music.",
+      "correct": "scorns",
+      "word": "SCORN"
+    },
+    {
+      "part1": "He tried to",
+      "part2": "some used clothing for a new TV, but the other fellow wouldn't agree.",
+      "correct": "barter",
+      "word": "BARTER"
+    },
+    {
+      "part1": "We were",
+      "part2": "by the strange orders he gave us.",
+      "correct": "perplexed",
+      "word": "PERPLEX"
+    },
+    {
+      "part1": "Looking through the microscope, we could see the tiny creatures with great",
+      "part2": "",
+      "correct": "clarity",
+      "word": "CLARITY"
+    },
+    {
+      "part1": "The entire",
+      "part2": "gathered in the town square to hear the mayor's speech.",
+      "correct": "populace",
+      "word": "POPULACE"
+    },
+    {
+      "part1": "What she felt was a(n)",
+      "part2": "of fear, excitement, and fascination.",
+      "correct": "compound",
+      "word": "COMPENSATE"
+    },
+    {
+      "part1": "Everyone was awed by the splendid",
+      "part2": "of the princess's wedding.",
+      "correct": "pageantry",
+      "word": "PAGEANTRY"
+    },
+    {
+      "part1": "Susan is quite a(n)",
+      "part2": "child; once she has made up her mind that she doesn't want to do something, no one can make her do it.",
+      "correct": "obstinate",
+      "word": "OBSTINATE"
+    },
+    {
+      "part1": "They sent a(n)",
+      "part2": "to take the important documents to the ambassador.",
+      "correct": "courier",
+      "word": "COURIER"
+    },
+    {
+      "part1": "The coach",
+      "part2": "that they had lost to the better team.",
+      "correct": "acknowledged",
+      "word": "ACKNOWLEDGE"
+    },
+    {
+      "part1": "The dog's",
+      "part2": "was exceptional; she came from a long line of champions.",
+      "correct": "pedigree",
+      "word": "PEDIGREE"
+    },
+    {
+      "part1": "Scientists work hard and long seeking to",
+      "part2": "the secrets of the universe.",
+      "correct": "unearth",
+      "word": "UNEARTH"
+    },
+    {
+      "part1": "Her explanation was",
+      "part2": ", so we believed her; it turned out, though, that she had lied.",
+      "correct": "credible",
+      "word": "CREDIBLE"
+    },
+    {
+      "part1": "He has a high, squeaky laugh that is easy to",
+      "part2": ".",
+      "correct": "mimic",
+      "word": "MIMIC"
+    },
+    {
+      "part1": "We were",
+      "part2": "when we discovered that the small painting was worth many thousands of dollars.",
+      "correct": "dumbfounded",
+      "word": "DUMBFOUNDED"
+    },
+    {
+      "part1": "It will just be a(n)",
+      "part2": "get-together. You don't have to dress up or bring a present.",
+      "correct": "informal",
+      "word": "INFORMAL"
+    },
+    {
+      "part1": "",
+      "part2": "to previous reports, no one died in the plane crash.",
+      "correct": "contrary",
+      "word": "CONTRARY"
+    },
+    {
+      "part1": "The",
+      "part2": "lady always kept her house perfectly neat, and would never allow anyone to swear in her presence.",
+      "correct": "prim",
+      "word": "PRIM"
+    },
+    {
+      "part1": "The company refused to",
+      "part2": "him for the trip because they said he took it for personal pleasure and not for business reasons.",
+      "correct": "reimburse",
+      "word": "REIMBURSE"
+    },
+    {
+      "part1": "Bill tried to",
+      "part2": "for his lack of experience by working harder.",
+      "correct": "compensate",
+      "word": "COMPENSATE"
+    },
+    {
+      "part1": "Not only did the doctors agree on the cause of the disease, but their ideas on how to treat it also",
+      "part2": ".",
+      "correct": "coincided",
+      "word": "COINCIDE"
+    },
+    {
+      "part1": "Al tried to be",
+      "part2": "but he found it difficult not to favor one side.",
+      "correct": "impartial",
+      "word": "IMPARTIAL"
+    },
+    {
+      "part1": "He felt that reaching the moon was a(n)",
+      "part2": "achievement in human history.",
+      "correct": "monumental",
+      "word": "MONUMENTAL"
+    },
+    {
+      "part1": "We were so used to his",
+      "part2": "lateness that we were surprised when he came early.",
+      "correct": "habitual",
+      "word": "HABITUAL"
+    },
+    {
+      "part1": "The food looked all right, but when he smelled it, it was completely",
+      "part2": ".",
+      "correct": "putrid",
+      "word": "PUTRID"
+    },
+    {
+      "part1": "I had to",
+      "part2": "the report several times before it satisfied the teacher.",
+      "correct": "revise",
+      "word": "REVISE"
+    },
+    {
+      "part1": "The mayor",
+      "part2": "him the new police commissioner.",
+      "correct": "appointed",
+      "word": "APPOINT"
+    },
+    {
+      "part1": "The board",
+      "part2": "when he hit it with the ax.",
+      "correct": "splintered",
+      "word": "SPLINTER"
+    },
+    {
+      "part1": "The farmers started a(n)",
+      "part2": "because they were dissatisfied with their government.",
+      "correct": "uprising",
+      "word": "UPRISING"
+    },
+    {
+      "part1": "The pastor's sermons were",
+      "part2": "; they were designed to uplift both our minds and our morals.",
+      "correct": "elevating",
+      "word": "ELEVATING"
+    },
+    {
+      "part1": "They were running out of time, so he had to",
+      "part2": "his speech into a few brief remarks.",
+      "correct": "condense",
+      "word": "CONDENSE"
+    },
+    {
+      "part1": "The three of them have been close",
+      "part2": "ever since they sat together in first grade.",
+      "correct": "comrades",
+      "word": "COMRADE"
+    },
+    {
+      "part1": "Haven't you ever heard the",
+      "part2": "\"The early bird catches the worm.\"?",
+      "correct": "proverb",
+      "word": "PROVERB"
+    },
+    {
+      "part1": "The first flight of the Wright brothers",
+      "part2": "the start of the air age.",
+      "correct": "heralded",
+      "word": "HERALD"
+    },
+    {
+      "part1": "What he did with the money was perfectly",
+      "part2": ". After all, it's his money and he can do what he wants with it.",
+      "correct": "legitimate",
+      "word": "LEGITIMATE"
+    },
+    {
+      "part1": "I'm sure everyone will wholeheartedly",
+      "part2": "our idea of going to the beach.",
+      "correct": "endorse",
+      "word": "ENDORSE"
+    }
+  ],
+  "type": "fitb",
+  "id": 3
+}

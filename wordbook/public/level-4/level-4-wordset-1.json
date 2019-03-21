@@ -1,0 +1,617 @@
+{
+  "title": "4.1",
+  "definitions": {
+    "HASTEN": {
+      "word": "HASTEN",
+      "phonetic": "(hAs'-:m)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go quickly, speed, hurry; speed up </p><p>Note the pronunciation. The <i class=“def-ital\">t</i> is silent. </p><p>To HASTEN is to move or act quickly. </p><p>“The policeman HASTENED to the scene of the crime.” </p><p>“He HASTENED to add that the price did not include the tax.” </p><p>To HASTEN something is to speed it up, to make it go faster. </p><p>“The general tried to HASTEN the enemy’s defeat by sending more soldiers into the battle.” </p><p>HASTE is quickness or speed, especially careless speed. </p><p>“In his HASTE to leave he forgot to take his jacket.” </p><p>Something which is HASTY is done quickly, often too quickly. </p><p>“They decided to have a party at the last minute, and then made some HASTY preparations for it.” </p><p>Other forms of the word: HASTE, n. HASTY, adj.</p>"
+    },
+    "FAMINE": {
+      "word": "FAMINE",
+      "phonetic": "(fam'-:m)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an extreme shortage of food </p><p>A FAMINE is a severe lack of food in an area. </p><p>“When it didn’t rain for months, the crops all died, and FAMINE resulted.” </p><p>FAMINE is also occasionally used about severe shortages of other kinds of things. </p><p>“The charity was suffering from a FAMINE of contributions; no one was giving it any money.” </p><p>A related adjective is FAMISHED, which means <i class=“def-ital\">extremely hungry</i>, <i class=“def-ital\">starving</i>. </p><p>“After six days without food we were FAMISHED.” </p><p>Other forms of the word: FAMISHED,adj.</p>"
+    },
+    "EXCURSION": {
+      "word": "EXCURSION",
+      "phonetic": "(ek-sker'-zh:;in)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a short journey, pleasure trip; a digression </p><p> An EXCURSION is a short trip, usually made for pleasure as part of a group, with the intention of returning to the starting point. </p><p>“We had a pleasant EXCURSION to the country last weekend.” </p><p>“They made their annual EXCURSION to the seashore.” </p><p>EXCURSION is also occasionally used to mean digression, a brief departure from the main idea or the main goal. </p><p>“We could never follow him when he went off on one of his EXCURSIONS into higher mathematics.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ex-</i> under Prefixes."
+      ]
+    },
+    "DERANGED": {
+      "word": "DERANGED",
+      "phonetic": "(d:;i-rAnjd')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">crazy, insane </p><p>To DERANGE something is to put it out of proper order, to <i class=“def-ital\">disarrange</i> it. As an adjective, DERANGED is used about people whose minds are not working properly, and means <i class=“def-ital\">insane</i>. </p><p>“The DERANGED man wandered across the highway in the middle of rush hour.” </p><p>“The DERANGED killer said that he heard voices telling him whom to murder.” </p><p>The most common wrong answer on the Pretest is <i class=“def-ital\">unhappy</i>. Great sorrow can sometimes cause a person to become DERANGED, but someone who is <i class=“def-ital\">unhappy</i> is not necessarily insane. </p><p>Other forms of the word: DERANGE,v.</p>"
+    },
+    "DECREE": {
+      "word": "DECREE",
+      "phonetic": "(d:;i-krE')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an order, edict </p><p>A DECREE is an order, given by a ruler, judge, or anyone in power, which is to be obeyed just like a law. </p><p>“The king’s DECREE that property taxes were to be raised did not increase his popularity.” </p><p>“We tried every way we could think of to get around Dad’s DECREE that we were to be in bed by nine o’clock.” </p><p>DECREE is also a verb which means “to give an order.” </p><p>“The judge DECREED that the company had to rehire the two employees.”</p>"
+    },
+    "LEGIBLE": {
+      "word": "LEGIBLE",
+      "phonetic": "(lej'-:;i-b:;il)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">readable </p><p> The <i class=“def-ital\">leg</i> part of the word is from a Latin word meaning to <i class=“def-ital\">read</i>. Something which is LEGIBLE is able to be read easily, is clear and plain. </p><p>“Her handwriting was small but LEGIBLE.” </p><p>“The sign was so covered over with dirt that it was barely LEGIBLE.” </p><p>The opposite of LEGIBLE is ILLEGIBLE, <i class=“def-ital\">not readable</i>. </p><p>“He signed his name so quickly that it was completely ILLEGIBLE.” </p><p><i class=“def-ital\">Sensible</i> is often chosen as the meaning of LEGIBLE. Something can be LEGIBLE, however, and not make any sense. </p><p>Other forms of the word: LEGIBILITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "GRANDEUR": {
+      "word": "GRANDEUR",
+      "phonetic": "(gran'-j:)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">greatness, majesty, magnificence, splendor </p><p>GRANDEUR comes from the word <i class=“def-ital\">grand</i>. GRANDEUR is greatness, impressiveness. The word is used about people and things. </p><p>“He admired the GRANDEUR of those ancient kings.” </p><p>“The GRANDEUR of the magnificent scenery left us all in awe.” </p><p>“His ideas had a certain GRANDEUR, but he never had enough money to carry them out.”</p>"
+    },
+    "ENUNCIATE": {
+      "word": "ENUNCIATE",
+      "phonetic": "(i-nuhn'-sE-At)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to declare, proclaim, state definitely; pronounce, utter </p><p>ENUNCIATE is from the same Latin word as <i class=“def-ital\">pronunciation</i> and <i class=“def-ital\">renunciation</i>. All have to do with speaking out or declaring something. ENUNCIATE has two somewhat different uses. One meaning is “to state or declare in a formal way.” </p><p>“Jefferson was among the first to ENUNCIATE the principles of representative government.” </p><p>“He ENUNCIATED his grand theory of the universe.” </p><p>The second use is simply to <i class=“def-ital\">pronounce</i>, to <i class=“def-ital\">utter</i>. </p><p>“He ENUNCIATED his words carefully.” </p><p>“You must learn to ENUNCIATE clearly.” </p><p>In both senses the basic idea is <i class=“def-ital\">speaking out</i>. </p><p>Other forms of the word: ENUNCIATION, n.</p>"
+    },
+    "DECIPHER": {
+      "word": "DECIPHER",
+      "phonetic": "(di-sl'-far)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make out the meaning of, decode </p><p>One meaning of the word CIPHER is a <i class=“def-ital\">code</i>. To DECIPHER something is to take it out of its code and make it understandable.  </p><p>“The army DECIPHERED the enemy’s top-secret messages.” </p><p>DECIPHER also means “to make out the meaning of” something difficult to understand or read. </p><p>“He managed to DECIPHER the hastily written note.” </p><p>“They DECIPHERED the faint writing on the cave walls.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">de-</i> under Prefixes."
+      ]
+    },
+    "MERCILESS": {
+      "word": "MERCILESS",
+      "phonetic": "(mer'-S:)-lgs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">without mercy, showing no pity, cruel </p><p> A MERCILESS person lacks MERCY or pity. </p><p>“The judge was MERCILESS in punishing criminals.” </p><p>“The other boys laughed MERCILESSLY at John’s attempt to sing.” </p><p>“The boxer kept up his MERCILESS attack until his opponent was knocked out.” </p><p>The opposite of MERCILESS is MERCIFUL, <i class=“def-ital\">full of</i> MERCY. </p><p>“The father decided to be MERCIFUL and not punish his son.” </p><p>Other forms of the word: MERCY, n. MERCIFUL, adj.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-less</i> under Suffixes."
+      ]
+    },
+    "GLUTTON": {
+      "word": "GLUTTON",
+      "phonetic": "(gluht'-gn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a person who eats too much </p><p>To GLUT something is to overfill it, to supply it with more than it needs. </p><p>“There are too many television sets for sale; the market is GLUTTED with them.” </p><p>A GLUTTON eats too much; he stuffs or gorges himself at every meal and always wants more food than is good for him. </p><p>“He was a real GLUTTON; he always had six hamburgers for lunch.” </p><p>GLUTTON can also be used about a person who never seems to have enough of something besides food. A “GLUTTON for punishment” is someone who can take a lot of punishment without giving in. </p><p>Other forms of the word: GLUT, v. GLUTTONY, n. GLUTTONOUS, adj.</p>"
+    },
+    "ESCAPADE": {
+      "word": "ESCAPADE",
+      "phonetic": "(es'-kÔøΩpAd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an adventure, prank, wild experience </p><p>ESCAPADE is from the same root as <i class=“def-ital\">escape</i>, and an old meaning of ESCAPADE was “an act of escaping.” Today the word has come to mean “an exciting adventure or action which goes against normal behavior.” </p><p>“His trip to Tahiti was a surprising ESCAPADE for such an old man.” </p><p>An ESCAPADE isn’t usually evil, but it can cause trouble. </p><p>“His childish ESCAPADES usually cost us a lot of money.” </p><p>“The foolish ESCAPADE on the boat almost caused them to drown.” </p><p>The most common mistake for the meaning of ESCAPADE is <i class=“def-ital\">crime</i>. An ESCAPADE could be a <i class=“def-ital\">crime</i>, but it generally suggests something less serious.</p>"
+    },
+    "RANSACK": {
+      "word": "RANSACK",
+      "phonetic": "(ran'-sak)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to search thoroughly, rifle </p><p>To RANSACK something is to search through it thoroughly. RANSACK usually suggests that the searching is violent or disorderly, or for the purpose of robbery. </p><p>“He RANSACKED the house looking for his mittens.” </p><p>“The jewel thief RANSACKED the vault.” </p><p>“The invaders RANSACKED the city and took everything of value they could find.” </p><p>Many people think RANSACK means <i class=“def-ital\">destroy</i>, probably because of the violence often associated with RANSACKING.</p>"
+    },
+    "FALTER": {
+      "word": "FALTER",
+      "phonetic": "(fol'-t:)r)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to hesitate, waver, stumble, stagger </p><p>To FALTER is to waver or hesitate, to act uncertainly out of fear, weakness, or nervousness. </p><p>“He started the speech well, but FALTERED halfway through.” </p><p>“She never FALTERED in her drive to become a successful doctor.” </p><p>“The football team began to FALTER in the second quarter, and by the end of the game couldn’t do anything right.” </p><p>“His legs began to FALTER, and he knew he would never make it to the top of the mountain.” </p><p>The most frequently chosen wrong answer on the Pretest is <i class=“def-ital\">change</i>, probably because FALTER looks like <i class=“def-ital\">alter</i>, which means to <i class=“def-ital\">change</i>.</p>"
+    },
+    "DISPEL": {
+      "word": "DISPEL",
+      "phonetic": "(di-spel'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to drive away, scatter, clear away </p><p> The <i class=“def-ital\">pel</i> part of DISPEL means to <i class=“def-ital\">drive</i> or <i class=“def-ital\">push</i>. To <i class=“def-ital\">impel</i> is to drive <i class=“def-ital\">forward</i>; to <i class=“def-ital\">repel</i> is to drive <i class=“def-ital\">back</i>. To DISPEL is to drive <i class=“def-ital\">away</i>. DISPEL is used more about emotions and states of mind than about actual physical objects. </p><p>“His arguments DISPELLED any remaining doubts they had about the plan.” </p><p>“The teacher DISPELLED any illusions he might have had about passing the course.” </p><p>“Bill’s reassurances couldn’t DISPEL her feeling that someone was following them.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    }
+  },
+  "id": "1",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "HASTEN to the store.",
+          "answers": [
+            "walk",
+            "return",
+            "wander",
+            "drive slowly",
+            "go quickly"
+          ],
+          "word": "HASTEN",
+          "correct": "go quickly"
+        },
+        {
+          "prompt": "The FAMINE began.",
+          "answers": [
+            "problem",
+            "disease",
+            "food shortage",
+            "feast",
+            "dust storm"
+          ],
+          "word": "FAMINE",
+          "correct": "food shortage"
+        },
+        {
+          "prompt": "Fine EXCURSION.",
+          "answers": [
+            "visit",
+            "holiday",
+            "car",
+            "journey",
+            "recreation"
+          ],
+          "word": "EXCURSION",
+          "correct": "journey"
+        },
+        {
+          "prompt": "He was DERANGED.",
+          "answers": [
+            "crazy",
+            "dirty",
+            "clever",
+            "unhappy",
+            "late"
+          ],
+          "word": "DERANGED",
+          "correct": "crazy"
+        },
+        {
+          "prompt": "The expected DECREE.",
+          "answers": [
+            "understanding",
+            "diploma",
+            "shout",
+            "order",
+            "weather"
+          ],
+          "word": "DECREE",
+          "correct": "order"
+        },
+        {
+          "prompt": "It was LEGIBLE.",
+          "answers": [
+            "readable",
+            "unclear",
+            "clean",
+            "sensible",
+            "well-written"
+          ],
+          "word": "LEGIBLE",
+          "correct": "readable"
+        },
+        {
+          "prompt": "The GRANDEUR of ancient Rome.",
+          "answers": [
+            "buildings",
+            "heroes",
+            "greatness",
+            "legal system",
+            "evil"
+          ],
+          "word": "GRANDEUR",
+          "correct": "greatness"
+        },
+        {
+          "prompt": "She ENUNCIATES well.",
+          "answers": [
+            "dresses",
+            "speaks",
+            "hears",
+            "draws",
+            "writes"
+          ],
+          "word": "ENUNCIATE",
+          "correct": "speaks"
+        },
+        {
+          "prompt": "They DECIPHERED the message.",
+          "answers": [
+            "decoded",
+            "removed",
+            "demanded",
+            "discovered",
+            "sent off"
+          ],
+          "word": "DECIPHER",
+          "correct": "decoded"
+        },
+        {
+          "prompt": "MERCILESS men.",
+          "answers": [
+            "greedy",
+            "brave",
+            "powerful",
+            "cruel",
+            "kind"
+          ],
+          "word": "MERCILESS",
+          "correct": "cruel"
+        },
+        {
+          "prompt": "They were GLUTTONS.",
+          "answers": [
+            "dieters",
+            "comics",
+            "cowards",
+            "overeaters",
+            "drunks"
+          ],
+          "word": "GLUTTON",
+          "correct": "overeaters"
+        },
+        {
+          "prompt": "Strange ESCAPADE.",
+          "answers": [
+            "crime",
+            "adventure",
+            "silence",
+            "comedy",
+            "trip"
+          ],
+          "word": "ESCAPADE",
+          "correct": "adventure"
+        },
+        {
+          "prompt": "RANSACK the desk.",
+          "answers": [
+            "destroy",
+            "replace",
+            "thoroughly search",
+            "clean",
+            "throw away"
+          ],
+          "word": "RANSACK",
+          "correct": "thoroughly search"
+        },
+        {
+          "prompt": "Made him FALTER.",
+          "answers": [
+            "jump",
+            "wonder",
+            "change",
+            "hesitate",
+            "retreat"
+          ],
+          "word": "FALTER",
+          "correct": "hesitate"
+        },
+        {
+          "prompt": "DISPEL their fears.",
+          "answers": [
+            "list",
+            "cause",
+            "disagree with",
+            "fight",
+            "drive away"
+          ],
+          "word": "DISPEL",
+          "correct": "drive away"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do HASTY decisions take a lot of thought?",
+          "word": "HASTEN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would people die during a FAMINE?",
+          "word": "FAMINE",
+          "correct": "true"
+        },
+        {
+          "prompt": "If you moved to Japan, would that be an EXCURSION?",
+          "word": "EXCURSION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are DERANGED people sometimes dangerous?",
+          "word": "DERANGED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are DECREES usually funny?",
+          "word": "DECREE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is this sentence LEGIBLE?",
+          "word": "LEGIBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would GRANDEUR usually be a quality of a king's palace?",
+          "word": "GRANDEUR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should an actor be able to ENUNCIATE clearly?",
+          "word": "ENUNCIATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it possible to DECIPHER a message sent in a simple code?",
+          "word": "DECIPHER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a MERCILESS person take pity on others?",
+          "word": "MERCILESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are GLUTTONS usually overweight?",
+          "word": "GLUTTON",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is an ESCAPADE usually boring?",
+          "word": "ESCAPADE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you fix a wobbly chair by RANSACKING it?",
+          "word": "RANSACK",
+          "correct": "false"
+        },
+        {
+          "prompt": "If something FALTERS, does it go straight to the end without stopping?",
+          "word": "FALTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can doubts be DISPELLED?",
+          "word": "DISPEL",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "George HASTENED to his mother's bedside when he heard that she was dying.",
+          "word": "HASTEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was such a pleasant FAMINE that they decided to do it every week.",
+          "word": "FAMINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "They went on a brief EXCURSION into the city one morning.",
+          "word": "EXCURSION",
+          "correct": "true"
+        },
+        {
+          "prompt": "He claimed he was DERANGED when he committed the crime and therefore wasn't responsible for his actions.",
+          "word": "DERANGED",
+          "correct": "true"
+        },
+        {
+          "prompt": "The principal DECREED that there would be no running in the school corridors.",
+          "word": "DECREE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher refused to accept homework which was not LEGIBLE.",
+          "word": "LEGIBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He felt that nothing could compare with the GRANDEUR of the Rocky Mountains.",
+          "word": "GRANDEUR",
+          "correct": "true"
+        },
+        {
+          "prompt": "The founder ENUNCIATED the rules by which the organization would be governed.",
+          "word": "ENUNCIATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He had such poor handwriting that it was impossible to DECIPHER his letters.",
+          "word": "DECIPHER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The author was upset by the MERCILESS criticism of his new book.",
+          "word": "MERCILESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was such a GLUTTON that he couldn't go two steps without tripping.",
+          "word": "GLUTTON",
+          "correct": "false"
+        },
+        {
+          "prompt": "On Halloween all the children joined in various harmless ESCAPADES.",
+          "word": "ESCAPADE",
+          "correct": "true"
+        },
+        {
+          "prompt": "During the battle we RANSACKED the enemy with our bombers.",
+          "word": "RANSACK",
+          "correct": "false"
+        },
+        {
+          "prompt": "I couldn't FALTER him for the way he acted; I would have done the same thing myself.",
+          "word": "FALTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "The senator tried to DISPEL the rumors that he was running for president.",
+          "word": "DISPEL",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "HASTEN",
+          "answers": [
+            "rush",
+            "hurry",
+            "escape"
+          ],
+          "word": "HASTEN",
+          "correct": "2"
+        },
+        {
+          "prompt": "FAMINE",
+          "answers": [
+            "illness",
+            "hunger",
+            "starvation"
+          ],
+          "word": "FAMINE",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXCURSION",
+          "answers": [
+            "journey",
+            "digression",
+            "surprise"
+          ],
+          "word": "EXCURSION",
+          "correct": "2"
+        },
+        {
+          "prompt": "DERANGED",
+          "answers": [
+            "crazy",
+            "mad",
+            "bitter"
+          ],
+          "word": "DERANGED",
+          "correct": "2"
+        },
+        {
+          "prompt": "DECREE",
+          "answers": [
+            "law",
+            "suggestion",
+            "regulation"
+          ],
+          "word": "DECREE",
+          "correct": "1"
+        },
+        {
+          "prompt": "LEGIBLE",
+          "answers": [
+            "real",
+            "plain",
+            "clear"
+          ],
+          "word": "LEGIBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "GRANDEUR",
+          "answers": [
+            "sweetness",
+            "riches",
+            "brilliance"
+          ],
+          "word": "GRANDEUR",
+          "correct": "0"
+        },
+        {
+          "prompt": "ENUNCIATE",
+          "answers": [
+            "declare",
+            "laugh",
+            "speak"
+          ],
+          "word": "ENUNCIATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DECIPHER",
+          "answers": [
+            "decode",
+            "repeat",
+            "understand"
+          ],
+          "word": "DECIPHER",
+          "correct": "1"
+        },
+        {
+          "prompt": "MERCILESS",
+          "answers": [
+            "tremendous",
+            "pitiless",
+            "ferocious"
+          ],
+          "word": "MERCILESS",
+          "correct": "0"
+        },
+        {
+          "prompt": "GLUTTON",
+          "answers": [
+            "fugitive",
+            "gorger",
+            "hog"
+          ],
+          "word": "GLUTTON",
+          "correct": "0"
+        },
+        {
+          "prompt": "ESCAPADE",
+          "answers": [
+            "fun",
+            "excitement",
+            "terror"
+          ],
+          "word": "ESCAPADE",
+          "correct": "2"
+        },
+        {
+          "prompt": "RANSACK",
+          "answers": [
+            "pack",
+            "hunt",
+            "look for"
+          ],
+          "word": "RANSACK",
+          "correct": "0"
+        },
+        {
+          "prompt": "FALTER",
+          "answers": [
+            "stumble",
+            "question",
+            "hesitate"
+          ],
+          "word": "FALTER",
+          "correct": "1"
+        },
+        {
+          "prompt": "DISPEL",
+          "answers": [
+            "clear",
+            "scatter",
+            "hurt"
+          ],
+          "word": "DISPEL",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

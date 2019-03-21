@@ -1,0 +1,605 @@
+{
+  "title": "6.5",
+  "definitions": {
+    "BENEVOLENT": {
+      "word": "BENEVOLENT",
+      "phonetic": "(bÔøΩ-nev'-ÔøΩlÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">kindly, good, humane </p><p>The <i class=“def-ital\">bene</i> part of BENEVOLENT means <i class=“def-ital\">good</i> or <i class=“def-ital\">well</i>; it is also used in words like <i class=“def-ital\">benefit</i> and <i class=“def-ital\">benefactor</i>. The <i class=“def-ital\">vol</i> part of the word means <i class=“def-ital\">wish</i>. A BENEVOLENT person wishes other people well; he wants to make other people happy, and therefore is generous and kindly.  </p><p>“The BENEVOLENT woman worked as a volunteer in a hospital and gave thousands of dollars to charity.” </p><p>BENEVOLENT is also used about people’s actions and attitudes, and about places that exist to do good works. </p><p>“The teacher took a BENEVOLENT attitude toward her students, and tried to help them in every way she could.” </p><p>“The BENEVOLENT institution provides toys for poor children at Christmastime.” </p><p>Other forms of the word: BENEVOLENCE, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ant</i> under Suffixes."
+      ]
+    },
+    "GUISE": {
+      "word": "GUISE",
+      "phonetic": "(glz)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">outward appearance, aspect, semblance </p><p>The GUISE of something is its outward appearance, the way it looks. The word may often suggest that this appearance is false or misleading. </p><p>“The prince walked through the city streets in the GUISE of a poor beggar.” </p><p>“Under the GUISE of friendship he offered to help them find the money; he really wanted to keep it all for himself.” </p><p>To DISGUISE something is to change its appearance or GUISE. </p><p>“The thief got into the house by DISGUISING himself as a mailman.” </p><p>Other forms of the word: DISGUISE, n., v.</p>"
+    },
+    "CONTRIVE": {
+      "word": "CONTRIVE",
+      "phonetic": "(kÔøΩn-trlv')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to invent, design, concoct; to manage or devise a way To CONTRIVE something or to CONTRIVE to do it is to find a way of doing it. </p><p>The word suggests the use of cleverness in achieving something that may be rather difficult. </p><p>“She CONTRIVED a device that would open locked doors without a key.” </p><p>“He CONTRIVED to get both the enemies into one room together to discuss their differences.” </p><p>“The author CONTRIVED a happy ending for his novel.” </p><p>The adjective CONTRIVED is used about things that show too clearly that they are planned and artificial. </p><p>“His remarks were clever but rather CONTRIVED, as if he had rehearsed them all beforehand.” </p><p>Other forms of the word: CONTRIVANCE, n. CONTRIVED, adj.</p>"
+    },
+    "DEPICT": {
+      "word": "DEPICT",
+      "phonetic": "(di-pikt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to describe, represent </p><p>DEPICT is related to the word <i class=“def-ital\">picture</i>. To DEPICT something is to draw it or describe it, to make a picture of it. Something can be DEPICTED in a real picture, in words, on stage, etc. </p><p>“The painting DEPICTS the king as a young man.” </p><p>“He is DEPICTED in the novel as a mean, vicious scoundrel.” </p><p>“The actress tried to DEPICT the emotions of the character she was playing.” </p><p>“The writer DEPICTED the horrors of war.” </p><p>Other forms of the word: DEPICTION, n.</p>"
+    },
+    "JAUNDICED": {
+      "word": "JAUNDICED",
+      "phonetic": "(jon'-dist)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">yellowish; hostile, prejudiced, jealous </p><p>JAUNDICE is a disease which turns the skin yellow. JAUNDICED skin or a JAUNDICED appearance, therefore, looks as if it has been affected by JAUNDICE: it is yellow or yellowish. </p><p>JAUNDICE can affect the vision, and people with JAUNDICE sometimes see things as being yellow. JAUNDICED has therefore come to be used about people who see things as being worse than they are, because of envy, suspicion, prejudice, and so on. </p><p>“He looked with a somewhat JAUNDICED eye on their plan to hitchhike across the country\"--that is, he wasn’t very much in favor of it, and thought it would turn out badly. </p><p>Other forms of the word: JAUNDICE, n.</p>"
+    },
+    "PENSIVE": {
+      "word": "PENSIVE",
+      "phonetic": "(pen'-siv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">thoughtful, deep in thought </p><p>Someone who is PENSIVE is deep in thought. Often PENSIVE suggests a dreamy kind of thoughtfulness, where a person isn’t reasoning a problem through but is simply in a reflective, almost sad mood. </p><p>“She sat there for a long time with a PENSIVE, far-away look on her face.” </p><p>“Jim became rather PENSIVE whenever he remembered those sad incidents in his life.”</p>"
+    },
+    "SQUANDER": {
+      "word": "SQUANDER",
+      "phonetic": "(skwon'-dÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to waste, spend carelessly, throw away foolishly </p><p>To SQUANDER something is to waste it, to use it up extravagantly and carelessly. The word is used especially about time and money. People who are careful about saving money do not SQUANDER it. </p><p>“He SQUANDERED his pay on gambling.” </p><p>“When the day of the test came, she was sorry that she had SQUANDERED all of her time watching television.” </p><p>“She SQUANDERED her life on foolish pleasures.”</p>"
+    },
+    "ULTERIOR": {
+      "word": "ULTERIOR",
+      "phonetic": "(uhl-tEr'-E-ÔøΩr)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hidden, not obvious, unseen </p><p>ULTERIOR comes from a Latin word that means <i class=“def-ital\">lying beyond</i>, <i class=“def-ital\">lying further off</i>. In English the word usually has the sense “being beyond what is seen or admitted” and suggests that something is purposely being kept concealed. The word is generally used about purposes, motives, and the like. </p><p>“Not a shadow of his ULTERIOR purpose was visible in his actions.” </p><p>“He pretended to be friendly toward the others, but I knew that he had an ULTERIOR motive for it.” </p><p>“The child was so open and innocent that one could not suspect him of having ULTERIOR thoughts.”</p>"
+    },
+    "AMASS": {
+      "word": "AMASS",
+      "phonetic": "(Q-mas')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to gather, accumulate, pile up </p><p>To AMASS is to pile up into a mass, to heap up or accumulate. The word is usually, although not always, used about something that is valuable. </p><p>“He AMASSED huge amounts of gold.” </p><p>“I AMASSED a great deal of knowledge during high school.” </p><p>“Jim AMASSED thousands of bottle caps over the years.” </p><p>“Jane AMASSED a fortune by buying and selling stocks.”</p>"
+    },
+    "KINDRED": {
+      "word": "KINDRED",
+      "phonetic": "(kin'-drid)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">related, similar </p><p>Your KIN are your family, your relatives. </p><p>“Her KIN stood by her when everyone else had deserted her.” </p><p>KINDRED, as a noun, is another word for KIN. </p><p>“All his KINDRED came to visit him when he was ill.” </p><p>As an adjective, KINDRED means “having a common source,” <i class=“def-ital\">related</i>. </p><p>“English and German are KINDRED languages.” </p><p>KINDRED also means “having much in common,” <i class=“def-ital\">similar</i>. </p><p>“They were KINDRED spirits; they had the same opinions about almost everything.”</p>"
+    },
+    "ORDINANCE": {
+      "word": "ORDINANCE",
+      "phonetic": "(or'-dQ-nÔøΩns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an order, law, rule </p><p>ORDINANCE is related to the word order. An ORDINANCE is a law or rule, usually one issued by a city or town. </p><p>“The city council passed an ORDINANCE forbidding smoking in public places.” </p><p>“There is a local ORDINANCE that makes littering punishable by a fifty dollar fine.”</p>"
+    },
+    "KNOLL": {
+      "word": "KNOLL",
+      "phonetic": "(nOI)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a small hill, mound </p><p>A KNOLL is a small hill, usually with a rounded shape. </p><p>“The land was flat except for a few gentle KNOLLS in the distance.” </p><p>“It took us only a minute or two to climb to the top of the KNOLL.”</p>"
+    },
+    "ORIFICE": {
+      "word": "ORIFICE",
+      "phonetic": "(or'-ÔøΩfis)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an opening, mouth, aperture </p><p>ORIFICE comes from the Latin word for <i class=“def-ital\">mouth</i>, also the source of the word <i class=“def-ital\">oral</i>. ORIFICE is used for any outer opening or mouth of something. </p><p>“The ORIFICE of the tube had become blocked up with dirt.” </p><p>“The creature had a small ORIFICE through which it took in food and air.”</p>"
+    },
+    "QUASH": {
+      "word": "QUASH",
+      "phonetic": "(kwosh)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to put an end to, beat down, crush </p><p>QUASH is related to the word <i class=“def-ital\">squash</i>, and both have about the same meaning: to <i class=“def-ital\">beat down</i>, <i class=“def-ital\">crush</i>. QUASH, however, is used more about rebellions, chances, hopes, rumors, and the like, than about physical objects. </p><p>“The army QUASHED the rebellion easily.” </p><p>“The airplane strike QUASHED our hopes of getting home for Christmas.”</p>"
+    },
+    "SLOVENLY": {
+      "word": "SLOVENLY",
+      "phonetic": "(sluhv'-ÔøΩn-lE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">untidy, sloppy, careless </p><p>A SLOVEN is a person who always dresses, acts, or works in a messy, slipshod manner. SLOVENLY is the adjective from SLOVEN. (It is an adjective even though it ends in <i class=“def-ital\">-ly</i>.) A person is SLOVENLY if he is sloppy or careless about his appearance or work. </p><p>“She is so SLOVENLY. She looks as though she sleeps in her clothes.” </p><p>“Jim’s SLOVENLY appearance makes a very bad impression on people.” </p><p>SLOVENLY is also used about people’s activities and products. </p><p>“It was a SLOVENLY report, full of mistakes and erasures.” </p><p>“The supervisor criticized the mechanic’s SLOVENLY workmanship.” </p><p>Other forms of the word: SLOVEN, n.</p>"
+    }
+  },
+  "id": "5",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "The BENEVOLENT woman.",
+          "answers": [
+            "lucky",
+            "wealthy",
+            "kindly",
+            "holy",
+            "cruel"
+          ],
+          "word": "BENEVOLENT",
+          "correct": "kindly"
+        },
+        {
+          "prompt": "The GUISE of friendship.",
+          "answers": [
+            "promise",
+            "appearance",
+            "reality",
+            "beauty",
+            "hope"
+          ],
+          "word": "GUISE",
+          "correct": "appearance"
+        },
+        {
+          "prompt": "To CONTRIVE a system.",
+          "answers": [
+            "learn",
+            "consider",
+            "improve",
+            "invent",
+            "oppose"
+          ],
+          "word": "CONTRIVE",
+          "correct": "invent"
+        },
+        {
+          "prompt": "How did they DEPICT him?",
+          "answers": [
+            "like",
+            "see",
+            "lose",
+            "choose",
+            "describe"
+          ],
+          "word": "DEPICT",
+          "correct": "describe"
+        },
+        {
+          "prompt": "JAUNDICED appearance.",
+          "answers": [
+            "healthy",
+            "saddened",
+            "yellowish",
+            "grayish",
+            "frightened"
+          ],
+          "word": "JAUNDICED",
+          "correct": "yellowish"
+        },
+        {
+          "prompt": "She looks PENSIVE.",
+          "answers": [
+            "nervous",
+            "thoughtful",
+            "happy",
+            "angry",
+            "wealthy"
+          ],
+          "word": "PENSIVE",
+          "correct": "thoughtful"
+        },
+        {
+          "prompt": "He SQUANDERS his money.",
+          "answers": [
+            "misplaces",
+            "saves",
+            "wastes",
+            "worries about",
+            "hides"
+          ],
+          "word": " SQUANDER",
+          "correct": "wastes"
+        },
+        {
+          "prompt": "ULTERIOR motives.",
+          "answers": [
+            "pressing",
+            "worse",
+            "obvious",
+            "hidden",
+            "dishonest"
+          ],
+          "word": "ULTERIOR",
+          "correct": "hidden"
+        },
+        {
+          "prompt": "AMASS a treasure.",
+          "answers": [
+            "give away",
+            "find",
+            "lose",
+            "gather",
+            "pray for"
+          ],
+          "word": "AMASS",
+          "correct": "gather"
+        },
+        {
+          "prompt": "KINDRED tribes.",
+          "answers": [
+            "related",
+            "happy",
+            "friendly",
+            "far-off",
+            "local"
+          ],
+          "word": "KINDRED",
+          "correct": "related"
+        },
+        {
+          "prompt": "New ORDINANCES.",
+          "answers": [
+            "customs",
+            "morals",
+            "orders",
+            "sheriffs",
+            "privileges"
+          ],
+          "word": "ORDINANCE",
+          "correct": "orders"
+        },
+        {
+          "prompt": "Reached the KNOLL.",
+          "answers": [
+            "rock",
+            "small hill",
+            "cave",
+            "top",
+            "valley"
+          ],
+          "word": "KNOLL",
+          "correct": "small hill"
+        },
+        {
+          "prompt": "Examined the ORIFICE.",
+          "answers": [
+            "cave",
+            "tunnel",
+            "wall",
+            "tooth",
+            "opening"
+          ],
+          "word": "ORIFICE",
+          "correct": "opening"
+        },
+        {
+          "prompt": "QUASH the rebellion.",
+          "answers": [
+            "fear",
+            "stir up",
+            "laugh at",
+            "oppose",
+            "crush"
+          ],
+          "word": "QUASH",
+          "correct": "crush"
+        },
+        {
+          "prompt": "SLOVENLY people.",
+          "answers": [
+            "hateful",
+            "poor",
+            "careful",
+            "untidy",
+            "wonderful"
+          ],
+          "word": "SLOVENLY",
+          "correct": "untidy"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would a BENEVOLENT person be stingy?",
+          "word": "BENEVOLENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would an actor appear in different GUISES on stage?",
+          "word": "GUISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Did Thomas Edison CONTRIVE things?",
+          "word": "CONTRIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a person be DEPICTED in a short story?",
+          "word": "DEPICT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are cheerful people usually JAUNDICED?",
+          "word": "JAUNDICED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would someone who is in a PENSIVE mood be very talkative?",
+          "word": "PENSIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people become rich by SQUANDERING their money?",
+          "word": "SQUANDER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could people with ULTERIOR motives be called sneaky?",
+          "word": "ULTERIOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you AMASS facts?",
+          "word": "AMASS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are apes and gorillas KINDRED animals?",
+          "word": "KINDRED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are you supposed to obey an ORDINANCE?",
+          "word": "ORDINANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it difficult to reach the top of a KNOLL?",
+          "word": "KNOLL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can an ORIFICE be very small?",
+          "word": "ORIFICE",
+          "correct": "true"
+        },
+        {
+          "prompt": "If you QUASH a rumor, would you confirm that it is true?",
+          "word": "QUASH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a SLOVENLY person make a good waiter?",
+          "word": "SLOVENLY",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "With a BENEVOLENT sneer he laughed at her misfortune.",
+          "word": "BENEVOLENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "In the GUISE of a policeman the spy could go anywhere he wanted in the building.",
+          "word": "GUISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She CONTRIVED to get her husband home in time for the surprise party.",
+          "word": "CONTRIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She tried to DEPICT everyday life in ancient Russia for them.",
+          "word": "DEPICT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He had a JAUNDICED view of government; he thought every politician was a crook.",
+          "word": "JAUNDICED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Whenever she was in a PENSIVE mood she would think of all the exciting things she was missing in life.",
+          "word": "PENSIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bill SQUANDERED his artistic talent on drawing cartoons for advertisements.",
+          "word": "SQUANDERED",
+          "correct": "true"
+        },
+        {
+          "prompt": "They examined the ULTERIOR of the house for any signs of water damage.",
+          "word": "ULTERIOR",
+          "correct": "false"
+        },
+        {
+          "prompt": "She AMASSED a large collection of fine paintings.",
+          "word": "AMASSED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Everyone was so KINDRED to me that I forgot all about my problems.",
+          "word": "KINDRED",
+          "correct": "false"
+        },
+        {
+          "prompt": "The ORDINANCE in Bill's family was to have Thanksgiving dinner early in the afternoon.",
+          "word": "ORDINANCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "We picnicked at the foot of a small KNOLL.",
+          "word": "KNOLL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Mrs. Smith went to work at the ORIFICE every day.",
+          "word": "ORIFICE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The disabled airplane fell down and QUASHED the water.",
+          "word": "QUASHED",
+          "correct": "false"
+        },
+        {
+          "prompt": "We were shocked by his SLOVENLY appearance; he just didn't seem to care how he looked.",
+          "word": "SLOVENLY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "BENEVOLENT",
+          "answers": [
+            "beautiful",
+            "charitable",
+            "generous"
+          ],
+          "word": "BENEVOLENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "GUISE",
+          "answers": [
+            "resemblance",
+            "interference",
+            "appearance"
+          ],
+          "word": "GUISE",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONTRIVE",
+          "answers": [
+            "devise",
+            "defeat",
+            "design"
+          ],
+          "word": "CONTRIVE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEPICT",
+          "answers": [
+            "represent",
+            "improve",
+            "paint"
+          ],
+          "word": "DEPICT",
+          "correct": "1"
+        },
+        {
+          "prompt": "JAUNDICED",
+          "answers": [
+            "suspicious",
+            "yellow",
+            "uncertain"
+          ],
+          "word": "JAUNDICED",
+          "correct": "2"
+        },
+        {
+          "prompt": "PENSIVE",
+          "answers": [
+            "active",
+            "reflective",
+            "meditative"
+          ],
+          "word": "PENSIVE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SQUANDER",
+          "answers": [
+            "spend",
+            "forget",
+            "waste"
+          ],
+          "word": "SQUANDER",
+          "correct": "1"
+        },
+        {
+          "prompt": "ULTERIOR",
+          "answers": [
+            "secret",
+            "unknown",
+            "dangerous"
+          ],
+          "word": "ULTERIOR",
+          "correct": "2"
+        },
+        {
+          "prompt": "AMASS",
+          "answers": [
+            "choose",
+            "accumulate",
+            "collect"
+          ],
+          "word": "AMASS",
+          "correct": "0"
+        },
+        {
+          "prompt": "KINDRED",
+          "answers": [
+            "similar",
+            "related",
+            "identical"
+          ],
+          "word": "KINDRED",
+          "correct": "2"
+        },
+        {
+          "prompt": "ORDINANCE",
+          "answers": [
+            "law",
+            "suggestion",
+            "regulation"
+          ],
+          "word": "ORDINANCE",
+          "correct": "1"
+        },
+        {
+          "prompt": "KNOLL",
+          "answers": [
+            "mound",
+            "plain",
+            "hill"
+          ],
+          "word": "KNOLL",
+          "correct": "1"
+        },
+        {
+          "prompt": "ORIFICE",
+          "answers": [
+            "hole",
+            "corridor",
+            "mouth"
+          ],
+          "word": "ORIFICE",
+          "correct": "1"
+        },
+        {
+          "prompt": "QUASH",
+          "answers": [
+            "put down",
+            "wear out",
+            "destroy"
+          ],
+          "word": "QUASH",
+          "correct": "1"
+        },
+        {
+          "prompt": "SLOVENLY",
+          "answers": [
+            "dangerous",
+            "messy",
+            "slipshod"
+          ],
+          "word": "SLOVENLY",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -4,6 +4,7 @@ import ExercisePage from '../ExercisePage';
 import TableOfContents from '../TableOfContents';
 import FixList from '../FixList';
 import { urlPrefix } from '../API';
+import StorageModal from '../StorageModal';
 
 export default class LearningPage extends Component {
   constructor (props) {
@@ -21,6 +22,16 @@ export default class LearningPage extends Component {
   render () {
     return (
       <React.Fragment>
+        <Route path='/learning/:l(level)?/:level?/:s(section)?/:section?/:w(wordset)?/:wordset?/:e(exercise)?/:exercise?' render={({ match }) => <StorageModal
+          level={match.params.level}
+          section={match.params.section}
+          wordset={match.params.wordset}
+          exercise={match.params.exercise}
+          setStorageState={this.props.setStorageState}
+          useStorage={this.props.useStorage}
+          declinedStorage={this.props.declinedStorage}
+        />}
+        />
         <Route exact path='/learning/:fixType' render={({ match }) => <FixList
           {...match}
           fixType={match.params.fixType}

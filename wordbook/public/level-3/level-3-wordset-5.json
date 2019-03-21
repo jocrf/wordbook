@@ -1,0 +1,620 @@
+{
+  "title": "3.5",
+  "definitions": {
+    "INTERCEPT": {
+      "word": "INTERCEPT",
+      "phonetic": "(in-tÔøΩr-sept')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cut off, interrupt the course of  To INTERCEPT something is to stop or catch it on its way from one place to another. In football, when someone INTERCEPTS a pass, he catches it before it reaches the person for whom it was intended. To INTERCEPT a message is to overhear or see it while it is going from the sender to the receiver. “We tried to INTERCEPT the enemy’s planes before they reached their targets.” Other forms of the word: INTERCEPTION, n.</p>",
+      "prefix": [
+        "See inter- under Prefixes."
+      ]
+    },
+    "MEDDLE": {
+      "word": "MEDDLE",
+      "phonetic": "(med'-1)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to interfere, butt in To MEDDLE is to involve yourself in something without being asked or without having the right. “People would get angry with him because he liked to MEDDLE in their private business.” “Please don’t MEDDLE with these papers. They’re too important.” “They accused him of MEDDLING, but he said he had every right to know what was going on.” Usage: MEDDLE is usually followed by with or in.</p>"
+    },
+    "MISGIVING": {
+      "word": "MISGIVING",
+      "phonetic": "(mis-giv'-ing)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a doubt, suspicion To have MISGIVINGS about something is to feel doubt or suspicion about it, to be unsure that it is right or that it will work. “I had MISGIVINGS about this project from the start. I’m not surprised that it has failed completely.” “My mind was full of MISGIVINGS. I wasn’t sure I wanted to do this at all.” “She had MISGIVINGS about hiring Bob. He didn’t look honest to her.” Usage: MISGIVING is usually used in the plural, MIS- GIVINGS.</p>"
+    },
+    "MUTE": {
+      "word": "MUTE",
+      "phonetic": "(myUt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">silent, speechless, unable to speak A MUTE is someone who is unable to speak, usually be- cause he was born deaf and has never heard spoken sounds. As an adjective, MUTE means silent, not talking. A person can be MUTE not only because he can’t speak, but because he doesn’t choose to speak. “He remained MUTE while his mother scolded him.” “She took the food with MUTE thanks.” MUTE is also a verb which means “to muffle or soften the sound of.” “He MUTED the trumpet.”</p>"
+    },
+    "NEGOTIATE": {
+      "word": "NEGOTIATE",
+      "phonetic": "(ni-gO'-shE-At)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to bargain, try to come to an agreement NEGOTIATE is especially used in business, law, and di- plomacy. It can mean to carry out or conduct. “She NEGOTIATED an important business deal.” Usually, though, its meaning is “to arrange for or settle by bargaining or discussion.” “The union NEGOTIATED a new contract.” “He NEGOTIATED a peace treaty between the ene- mies.” Other forms of the word: NEGOTIATION, n.</p>"
+    },
+    "PRECAUTION": {
+      "word": "PRECAUTION",
+      "phonetic": "(pri-ko'-sh:;,,n)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a safeguard; fore- sight -  Caution is care, carefulness. PRECAUTION is care taken ahead of time in order to avoid something bad happening. “He told them to use PRECAUTION when they were sailing in rough seas.” A PRECAUTION is an act of caution done ahead of time. “She took an umbrella as a PRECAUTION in case it rained later.” “You must take every PRECAUTION before clearing the mine field.” Other forms of the word: PRECAUTIONARY, adj.</p>",
+      "prefix": [
+        "See pre- under Prefixes."
+      ]
+    },
+    "REFORM": {
+      "word": "REFORM",
+      "phonetic": "(ri-form')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to correct, improve, change for the better REFORM basically means “to form something over again.”  Usually REFORM has the sense of changing something for the better by removing faults or evil ways. “The business promised to REFORM its sales prac- tices so that it wouldn’t mislead people.” “The kindly teacher managed to REFORM the rough boys by his good example.” When someone REFORMS,he corrects bad habits and improves his character. “I used to be an alcoholic,but I’ve REFORMED and now I never take a drink.” A REFORM school or REFORMATORY is a place which tries to REFORM boys or girls who have broken the law. Other forms of the word: REFORMATION, n. REFORMATORY,n.</p>",
+      "prefix": [
+        "See re- under Prefixes."
+      ]
+    },
+    "RESUME": {
+      "word": "RESUME",
+      "phonetic": "(ri-zUm')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to begin again,start anew To RESUME something is to take it up again after having stopped for a time. “After a year of rest she RESUMED working.” “He came back twenty minutes later and RESUMED the story exactly where he had left off.” “I RESUMED playing tennis when the doctor said I should get more exercise.” When something RESUMES it starts over again. “The show RESUMED after the commercial.” Other forms of the word: RESUMPTION,n.</p>",
+      "prefix": [
+        "See re- under Prefixes."
+      ]
+    },
+    "SERVICEABLE": {
+      "word": "SERVICEABLE",
+      "phonetic": "(ser'-vis-ÔøΩb:;,I)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">useful,helpful, able to be used,fit for use SERVICEABLE means “able to be of SERVICE,” useful. If you make something SER- VICEABLE, you fix it so that it can be used. “His shoes were repaired so that they were SERVICE- ABLE for everyday use.” SERVICEABLE often suggests that something is good enough for use without being outstanding.A SERVICEA- BLE object may not be the best or newest,but it will do the job. “The pot was dented,but it was SERVICEABLE.” Other forms of the word: SERVE,v. SERVICE,n.</p>",
+      "suffix": [
+        "See -able under Suffixes."
+      ]
+    },
+    "TRANQUIL": {
+      "word": "TRANQUIL",
+      "phonetic": "(trang'-kwÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">peaceful,calm,serene, unruffled - TRANQUIL means “free from anything that bothers or excites,” peaceful. “They live in a TRANQUIL little village,far from the noise and rush of the city.” “He remained TRANQUIL while everyone else ran about in confusion.” “The TRANQUIL stream became a noisy waterfall when it dropped off the cliff.” The noun from TRANQUIL is TRANQUILITY,which means peacefulness or calmness. “The nation’s TRANQUILITY was disturbed by ru- mors of war.” “The TRANQUILITY of the afternoon was suddenly shattered by peals of thunder.” Other forms of the word: TRANQUILITY,n. TRANQUILIZER, n.</p>"
+    },
+    "ANONYMOUS": {
+      "word": "ANONYMOUS",
+      "phonetic": "(ÔøΩnon'-ÔøΩm:;,s)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">nameless,of un- knownname ANONYMOUS means “without a name.” The word is used about a person whose name is not known or has not been revealed. “The person who sent the gift wishes to remain ANONYMOUS.” “The composer of this ancient song is ANONY- MOUS.” It is also usedto mean “of unknown source or origin.” “He received an ANONYMOUS phone call telling him where the bomb was located.” ANONYMITY is the state of being ANONYMOUS. “The author tried to preserve his ANONYMITY by signing a false name to the article.” Many people think ANONYMOUS means mysterious. An ANONYMOUS person might be mysterious, but for a specific reason: because his name is unknown. Other forms ofthe word: ANONYMITY,n.</p>"
+    },
+    "APPARATUS": {
+      "word": "APPARATUS",
+      "phonetic": "(ap-ÔøΩra'-tÔøΩs",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">ap-ÔøΩrA’-tÔøΩs) n.: equipment, mechanism An APPARATUS is a set of instruments, materials, ap- pliances, or machinery designed to work together for a specific purpose. In the human body it is a group of or- gans that work together toward one end. “The skindiver’s breathing APPARATUS was faulty. The oxygen tank did not connect properly with the nose mask.” “A fire truck is commonly called a fire APPARATUS because of all the various instruments it has that serve in fighting a fire. “The building’s powerful heating APPARATUS con- sists of a huge furnace and dozens of ducts that carry hot air circulated by fans.”</p>"
+    },
+    "CAPSIZE": {
+      "word": "CAPSIZE",
+      "phonetic": "(kap'-slz)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to overturn, upset CAPSIZE is used especially about boats. The word means “to turn upside down from a safe to a dangerous posi- tion.” A boat can CAPSIZE, or something can CAPSIZE a boat. “The little rowboat CAPSIZED in the rough waters of the bay.” “A huge wave CAPSIZED the canoe.” On the Pretest, sink is a common choice as the meaning of CAPSIZE. When a boat CAPSIZES, however, it just turns over in the water. It is in danger of sinking, but it will not necessarily sink.</p>"
+    },
+    "COLLABORATE": {
+      "word": "COLLABORATE",
+      "phonetic": "(kÔøΩlab'-ÔøΩrAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to work together, cooperate  Notice the word labor in the middle of COLLABORATE. To COLLABORATE is to labor or work together. “Other scientists COLLABORATED with him in car- rying out the research.” The word is often used about works of literature. “The two authors COLLABORATED on a novel.” In a special sense, COLLABORATE often is used to mean “to work with an enemy of one’s country.” “After the war he was accused of COLLABORATING with the enemy forces.” Other forms of the word: COLLABORATION, n. COLLABORATOR, n.</p>",
+      "suffix": [
+        "See con- under Prefixes and -ate1 under Suffixes."
+      ]
+    },
+    "COMMEND": {
+      "word": "COMMEND",
+      "phonetic": "(kÔøΩmend')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to praise, recommend; to entrust To COMMEND someone is to speak favorably of him, to praise him. “I COMMEND you for your honesty.” “Bill’s mother COMMENDED his handling of the emergency.” Often the word suggests praising someone or something to someone else. In this sense COMMEND is close in mean- ing to recommend. “The critic COMMENDED the book to anyone inter- ested in fine writing. In another sense, COMMEND means to entrust or com- mit. “The dying man COMMENDED his soul to God.” The most commonly chosen wrong answer is scold, which is just about the opposite of COMMEND. Other forms of the word: COMMENDABLE, adj. COMMENDATION, n.</p>"
+    }
+  },
+  "id": "5",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "INTERCEPT the messenger.",
+          "answers": [
+            "hide",
+            "help",
+            "replace",
+            "tie up",
+            "cut off"
+          ],
+          "word": "INTERCEPT",
+          "correct": "cut off"
+        },
+        {
+          "prompt": "Used to MEDDLE.",
+          "answers": [
+            "butt in",
+            "drop in",
+            "weave",
+            "let alone",
+            "show off"
+          ],
+          "word": "MEDDLE",
+          "correct": "butt in"
+        },
+        {
+          "prompt": "I have MISGIVINGS.",
+          "answers": [
+            "hopes",
+            "doubts",
+            "pains",
+            "thoughts",
+            "needs"
+          ],
+          "word": "MISGIVING",
+          "correct": "doubts"
+        },
+        {
+          "prompt": "They were MUTE.",
+          "answers": [
+            "small",
+            "loud",
+            "silent",
+            "useless",
+            "empty"
+          ],
+          "word": "MUTE",
+          "correct": "silent"
+        },
+        {
+          "prompt": "They will NEGOTIATE with us.",
+          "answers": [
+            "meet",
+            "never speak",
+            "become friends",
+            "travel",
+            "bargain"
+          ],
+          "word": "NEGOTIATE",
+          "correct": "bargain"
+        },
+        {
+          "prompt": "Necessary PRECAUTION.",
+          "answers": [
+            "sign",
+            "risk",
+            "decision",
+            "safeguard",
+            "inspection"
+          ],
+          "word": "PRECAUTION",
+          "correct": "safeguard"
+        },
+        {
+          "prompt": "Wanted to REFORM them.",
+          "answers": [
+            "destroy",
+            "correct",
+            "twist",
+            "pray for",
+            "protect"
+          ],
+          "word": "REFORM",
+          "correct": "correct"
+        },
+        {
+          "prompt": "They will finally RESUME.",
+          "answers": [
+            "begin again",
+            "finish",
+            "decide",
+            "show up",
+            "try"
+          ],
+          "word": "RESUME",
+          "correct": "begin again"
+        },
+        {
+          "prompt": "It was SERVICEABLE.",
+          "answers": [
+            "ordinary",
+            "impossible",
+            "useful",
+            "understandable",
+            "wonderful"
+          ],
+          "word": "SERVICEABLE",
+          "correct": "useful"
+        },
+        {
+          "prompt": "Quite TRANQUIL.",
+          "answers": [
+            "easy",
+            "excited",
+            "peaceful",
+            "secret",
+            "grateful"
+          ],
+          "word": "TRANQUIL",
+          "correct": "peaceful"
+        },
+        {
+          "prompt": "Remained ANONYMOUS.",
+          "answers": [
+            "dangerous",
+            "well known",
+            "mysterious",
+            "nameless",
+            "far away"
+          ],
+          "word": "ANONYMOUS",
+          "correct": "nameless"
+        },
+        {
+          "prompt": "Asked for the APPARATUS.",
+          "answers": [
+            "plan",
+            "equipment",
+            "container",
+            "clothing",
+            "assistant"
+          ],
+          "word": "APPARATUS",
+          "correct": "equipment"
+        },
+        {
+          "prompt": "To CAPSIZE the boat.",
+          "answers": [
+            "save",
+            "overturn",
+            "enlarge",
+            "build",
+            "sink"
+          ],
+          "word": "CAPSIZE",
+          "correct": "overturn"
+        },
+        {
+          "prompt": "We must COLLABORATE.",
+          "answers": [
+            "work together give up",
+            "fight",
+            "meet",
+            "become better",
+            null
+          ],
+          "word": "COLLABORATE",
+          "correct": "work together"
+        },
+        {
+          "prompt": "COMMEND them.",
+          "answers": [
+            "love",
+            "scold",
+            "protect",
+            "select",
+            "praise"
+          ],
+          "word": "COMMEND",
+          "correct": "praise"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can a train be INTERCEPTED?",
+          "word": "INTERCEPT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people usually like someone who MEDDLES in their affairs?",
+          "word": "MEDDLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would people enjoy having MISGIVINGS?",
+          "word": "MISGIVING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are some deaf people also MUTE?",
+          "word": "MUTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you NEGOTIATE with someone you don't like?",
+          "word": "NEGOTIATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is wearing a seatbelt in a car a PRECAUTION?",
+          "word": "PRECAUTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do all criminals REFORM?",
+          "word": "REFORM",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you RESUME an activity that you haven't done for a long time?",
+          "word": "RESUME",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a burnt-out light bulb SERVICEABLE?",
+          "word": "SERVICEABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a hurricane TRANQUIL?",
+          "word": "TRANQUIL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is William Shakespeare ANONYMOUS?",
+          "word": "ANONYMOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is water an APPARATUS?",
+          "word": "APPARATUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a boat CAPSIZE with people in it?",
+          "word": "CAPSIZE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a person COLLABORATE by himself?",
+          "word": "COLLABORATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person usually be COMMENDED for stealing money?",
+          "word": "COMMEND",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The river INTERCEPTED the city right down the middle.",
+          "word": "INTERCEPT",
+          "correct": "false"
+        },
+        {
+          "prompt": "I don't like to MEDDLE, but I think you should listen to my advice.",
+          "word": "MEDDLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She always has MISGIVINGS after she agrees to do something difficult.",
+          "word": "MISGIVING",
+          "correct": "true"
+        },
+        {
+          "prompt": "He stood MUTE with wonder before the brilliant painting.",
+          "word": "MUTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The two lawyers NEGOTIATED a settlement in the case, so it never came to trial.",
+          "word": "NEGOTIATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He received a PRECAUTION from the teacher about his poor behavior.",
+          "word": "PRECAUTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "She was in the habit of telling lies, but she REFORMED when she realized the trouble she caused.",
+          "word": "REFORM",
+          "correct": "true"
+        },
+        {
+          "prompt": "I RESUME that everyone will want to come to the beach with us.",
+          "word": "RESUME",
+          "correct": "false"
+        },
+        {
+          "prompt": "The mechanic didn't make the car as good as new, but at least it was SERVICEABLE.",
+          "word": "SERVICEABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "After several years of living in the busy city, she longed for the TRANQUILITY of life in the country.",
+          "word": "TRANQUIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "He got several ANONYMOUS messages saying he would be killed if he talked to the police.",
+          "word": "ANONYMOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "They used a complicated APPARATUS to help him breathe after the operation.",
+          "word": "APPARATUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "They managed to hold onto the boat that had CAPSIZED until they were saved.",
+          "word": "CAPSIZE",
+          "correct": "true"
+        },
+        {
+          "prompt": "No one wanted to COLLABORATE with the enemy soldiers when they conquered the city.",
+          "word": "COLLABORATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The principal COMMENDED them for their fine record in school.",
+          "word": "COMMEND",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "INTERCEPT",
+          "answers": [
+            "stop",
+            "interrupt",
+            "destroy"
+          ],
+          "word": "INTERCEPT",
+          "correct": "2"
+        },
+        {
+          "prompt": "MEDDLE",
+          "answers": [
+            "bother",
+            "interfere",
+            "threaten"
+          ],
+          "word": "MEDDLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "MISGIVING",
+          "answers": [
+            "hatred",
+            "worry",
+            "suspicion"
+          ],
+          "word": "MISGIVING",
+          "correct": "0"
+        },
+        {
+          "prompt": "MUTE",
+          "answers": [
+            "open",
+            "silent",
+            "wordless"
+          ],
+          "word": "MUTE",
+          "correct": "0"
+        },
+        {
+          "prompt": "NEGOTIATE",
+          "answers": [
+            "expect",
+            "discuss",
+            "confer"
+          ],
+          "word": "NEGOTIATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PRECAUTION",
+          "answers": [
+            "preparation",
+            "rejection",
+            "care"
+          ],
+          "word": "PRECAUTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "REFORM",
+          "answers": [
+            "improve",
+            "repair",
+            "approve"
+          ],
+          "word": "REFORM",
+          "correct": "2"
+        },
+        {
+          "prompt": "RESUME",
+          "answers": [
+            "consider",
+            "restart",
+            "continue"
+          ],
+          "word": "RESUME",
+          "correct": "0"
+        },
+        {
+          "prompt": "SERVICEABLE",
+          "answers": [
+            "satisfactory",
+            "wonderful",
+            "helpful"
+          ],
+          "word": "SERVICEABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "TRANQUIL",
+          "answers": [
+            "quiet",
+            "pretty",
+            "gentle"
+          ],
+          "word": "TRANQUIL",
+          "correct": "1"
+        },
+        {
+          "prompt": "ANONYMOUS",
+          "answers": [
+            "unknown",
+            "unusual",
+            "secret"
+          ],
+          "word": "ANONYMOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "APPARATUS",
+          "answers": [
+            "tool",
+            "motor",
+            "rock"
+          ],
+          "word": "APPARATUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "CAPSIZE",
+          "answers": [
+            "upset",
+            "leak",
+            "overturn"
+          ],
+          "word": "CAPSIZE",
+          "correct": "1"
+        },
+        {
+          "prompt": "COLLABORATE",
+          "answers": [
+            "laugh",
+            "work",
+            "join"
+          ],
+          "word": "COLLABORATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "COMMEND",
+          "answers": [
+            "approve",
+            "applaud",
+            "improve"
+          ],
+          "word": "COMMEND",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "title": "2.10",
+  "definitions": {
+    "INFANTILE": {
+      "word": "INFANTILE",
+      "phonetic": "(in'-fan-tll)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">childish, babyish </p><p>An INFANT is a baby, a child in the first year or so of life, before it begins to walk or talk. INFANTILE means “of or relating to INFANTS.” INFANTILE diseases are sicknesses common to INFANTS. When used about adults, INFANTILE usually has a bad sense, “lacking the maturity or reasoning power of an adult.” </p><p>“His INFANTILE behavior during the speech shocked everyone.” </p><p>“Her INFANTILE attitude about doing household chores was most unpleasant.” </p><p>Other forms of the word: INFANT, n.</p>"
+    },
+    "FLABBERGAST": {
+      "word": "FLABBERGAST",
+      "phonetic": "(flab'-ÔøΩr-gast)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to surprise, astonish, amaze, astound </p><p>To FLABBERGAST someone is to fill him with surprise and astonishment, to make him so surprised that he can barely speak. </p><p>“His odd behavior FLABBERGASTED us.” </p><p>Someone who is FLABBERGASTED is amazed, aston- ished. </p><p>“I was FLABBERGASTED to discover that I had won first prize.” </p><p>In the Pretest, many people choose <i class=“def-ital\">delighted</i> as the word closest in meaning to FLABBERGASTED. But you can be FLABBERGASTED and not be <i class=“def-ital\">delighted</i> at all. </p><p>“Sue was FLABBERGASTED when she learned that she had failed the exam. She thought she had done quite well.”</p>"
+    },
+    "ACQUIRE": {
+      "word": "ACQUIRE",
+      "phonetic": "(ÔøΩkwlr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to get, obtain </p><p>ACQUIRE means to <i class=“def-ital\">get</i> or <i class=“def-ital\">obtain</i>. You can ACQUIRE objects, or nonphysical things like knowledge or skill. </p><p>“After some hard bargaining, we ACQUIRED the house at a very low price.” </p><p>“She eventually ACQUIRED some skill in ice skating, but she was never really very good at it.” </p><p>“I’ve tried olives many times, but I haven’t been able to ACQUIRE a taste for them.”</p>"
+    },
+    "LEISURE": {
+      "word": "LEISURE",
+      "phonetic": "(IE'-zhÔøΩ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">free time, spare time, ease </p><p>LEISURE is time which is free from work, spare time. </p><p>“The first settlers in this country had little LEISURE. Almost all their time was spent trying to survive in the wilderness.” </p><p>“In this country sports are a popular LEISURE activity.” </p><p>The phrase “at LEISURE” means “when one has free time” or “at one’s convenience.” </p><p>“Would you do me a favor and read through my report at your LEISURE?” </p><p>“While she was unemployed she was able to paint her entire house at LEISURE.” </p><p>Other forms of the word: LEISURELY, adj.</p>"
+    },
+    "ETERNAL": {
+      "word": "ETERNAL",
+      "phonetic": "(i-tern'-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">endless, lasting forever, timeless </p><p>Something is ETERNAL which lasts forever, which will never end. </p><p>“They promised ETERNAL love to one another.” </p><p>“Death finally brought him ETERNAL rest.” </p><p>ETERNAL is often used, in a joking way, to describe things that <i class=“def-ital\">seem</i> endless. </p><p>“This ETERNAL arguing has to stop!” The noun form of ETERNAL is ETERNITY, which means <i class=“def-ital\">endless time</i>. </p><p>“We hope it will never change for all ETERNITY.” </p><p>ETERNITY is also used for time that seems ETERNAL. </p><p>“We had to wait an ETERNITY for the bus to come.” </p><p>Other forms of the word: ETERNITY, n.</p>"
+    },
+    "ADEOUATE": {
+      "word": "ADEOUATE",
+      "phonetic": "(ad'-ÔøΩkwit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sufficient, enough </p><p>ADEQUATE means “equal to what is needed,” <i class=“def-ital\">sufficient</i>. “She does not get ADEQUATE pay for the amount of work she does.” </p><p>“I think you will find that there is an ADEQUATE supply of food in the freezer.” </p><p>Often ADEQUATE has the sense of <i class=“def-ital\">just barely enough</i>. </p><p>“The supply of food is ADEQUATE for us, I suppose, but I wish we had more in case guests arrive.” </p><p>“He did an ADEQUATE job, although not an outstanding one.” </p><p>Other forms of the word: ADEQUACY, n.</p>"
+    },
+    "DEJECTED": {
+      "word": "DEJECTED",
+      "phonetic": "(di-jek'-tid)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">downcast, unhappy </p><p>DEJECTED means <i class=“def-ital\">unhappy</i> or <i class=“def-ital\">downcast</i>. The word usually suggests being in low spirits for a short time because of some disappointment or sad event. </p><p>“You seem DEJECTED today. I haven’t seen you smile once.” </p><p>“She was DEJECTED because the picnic had been called off.” </p><p>“We’ve tried to cheer him up, but he’s still DEJECTED.” </p><p>“Getting a D on a test would make anyone feel DEJECTED.”</p>"
+    },
+    "EXCLAIM": {
+      "word": "EXCLAIM",
+      "phonetic": "(eks-klAm')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cry out suddenly and loudly </p><p>To EXCLAIM is to cry out or speak loudly because you are surprised, angry, hurt, happy, or feel some other strong emotion. </p><p>“He EXCLAIMED angrily at the amount of time it was taking.” </p><p>“They EXCLAIMED in delight over the idea of going to the beach.” </p><p>“We EXCLAIMED with wonder at the size of the elephant.“nAn EXCLAMATION is the act of EXCLAIMING, or something that has been EXCLAIMED. </p><p>“He stopped suddenly with an EXCLAMATION of surprise.</p><p> An EXCLAMATION <i class=“def-ital\">point</i>(!) is a sign that a sentence is very forceful and, if spoken, would be EXCLAIMED. </p><p>“‘We will never give in!’ they EXCLAIMED.” </p><p>Other forms of the word: EXCLAMATION, n.</p>"
+    },
+    "GENUINE": {
+      "word": "GENUINE",
+      "phonetic": "(jen'-yU-:;m)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">real, true, authentic, not faked </p><p>Something which is GENUINE is really what it is sup- posed to be. It isn’t fake or counterfeit. </p><p>“The man at the jewelry store said they were GENU- INE pearls.” </p><p>“I don’t think his sorrow is GENUINE. He just wants us to think he’s unhappy.” </p><p>“No one could be holier than she was. She was a GEN- UINE saint.”</p>"
+    },
+    "GIBBERISH": {
+      "word": "GIBBERISH",
+      "phonetic": "(jib'-ÔøΩrish",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">gib’-ÔøΩrish) n.: nonsense; confused, meaningless speech </p><p>GIBBERISH is confused speech or writing that is impossible to understand or make sense of. </p><p>“The child spoke nothing but GIBBERISH until she was seven years old.” </p><p>“He was trying to speak Chinese, but it sounded like GIBBERISH to me.” </p><p>GIBBERISH is often used about writing which is very technical or needlessly difficult to understand. </p><p>“His explanation of how the machine worked was so complicated that it seemed like GIBBERISH to us.”</p>"
+    },
+    "HURL": {
+      "word": "HURL",
+      "phonetic": "(her()",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to throw forcefully, cast, fling </p><p>To HURL something is to throw it, especially with force or violence. </p><p>“They HURLED rocks down at us from the top of the castle.” </p><p>“The force of the explosion HURLED him to the ground.” </p><p>“At the sound of the trumpet they HURLED themselves at the enemy.” </p><p>In the Pretest, <i class=“def-ital\">spin</i> is often chosen as the meaning of HURL, perhaps because HURL sounds like <i class=“def-ital\">twirl</i>, and to <i class=“def-ital\">spin</i> something is to <i class=“def-ital\">twirl</i> it.</p>"
+    },
+    "INVINCIBLE": {
+      "word": "INVINCIBLE",
+      "phonetic": "(in-vin'-sÔøΩb:)I)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unconquerable, unbeatable  The vine part of the word comes from a Latin word meaning to conquer. Someone or something that is INVINCIBLE is not able to be beaten or conquered. </p><p>“We thought our team was INVINCIBLE until it finally lost a game.” </p><p>“His INVINCIBLE spirit overcame all obstacles.” </p><p>“The fort was INVINCIBLE: it withstood dozens of attacks.” </p><p>Other forms of the word: INVINCIBILITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">in-</i> under Prefixes and <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "JUSTICE": {
+      "word": "JUSTICE",
+      "phonetic": "(juhs'-tis)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">fairness </p><p>JUSTICE is fairness, the quality of being fair or just, of giving to someone what he deserves. </p><p>“His sense of JUSTICE kept him from taking advantage of their problems.” </p><p>“We don’t want any favors, we only want JUSTICE.” </p><p>“He went into the courtroom expecting JUSTICE to be done, but the judge’s decision seemed quite unfair to him.” </p><p><i class=“def-ital\">Punishment</i> and <i class=“def-ital\">mercy</i> are often chosen as synonyms for JUSTICE. Both have to do with JUSTICE, but they aren’t the same thing. JUSTICE often involves <i class=“def-ital\">punishing</i> someone, but not always. And a person who has too much <i class=“def-ital\">mercy</i> or kindness will not provide JUSTICE. </p><p>Other forms of the word: JUST, adj.</p>"
+    },
+    "MELODIOUS": {
+      "word": "MELODIOUS",
+      "phonetic": "(mÔøΩIO'-dE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">full of melody, sweet sounding, tuneful </p><p>A MELODY is a tune, a pleasing succession of musical sounds. Something which is MELODIOUS has MELODY, sounds sweet and tuneful.  </p><p>“These songs are not very MELODIOUS. They are very unpleasant to hear.” </p><p>“She had a MELODIOUS voice. When she spoke, it sounded as if she were singing.” </p><p>Other forms of the word: MELODY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "GORGEOUS": {
+      "word": "GORGEOUS",
+      "phonetic": "(gor'-jÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">magnificent, colorful, superb, dazzling </p><p>Someone or something that is GORGEOUS looks wonderful, usually because it is so spectacular or colorful. </p><p>“We could see mile after mile of beautiful lakes and forests; the view was simply GORGEOUS.” </p><p>“She looked really GORGEOUS in her expensive new gown.” </p><p>Many people think GORGEOUS means <i class=“def-ital\">pleasant</i>, but GORGEOUS is much stronger than that. Something that is GORGEOUS is quite beautiful.</p>"
+    }
+  },
+  "id": "10",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "INFANTILE behavior.",
+          "answers": [
+            "odd",
+            "childish",
+            "poor",
+            "perfect",
+            "grown-up"
+          ],
+          "word": "INFANTILE",
+          "correct": "childish"
+        },
+        {
+          "prompt": "I was FLABBERGASTED.",
+          "answers": [
+            "hurt",
+            "delighted",
+            "surprised",
+            "interested",
+            "bored"
+          ],
+          "word": "FLABBERGAST",
+          "correct": "surprised"
+        },
+        {
+          "prompt": "Who will ACQUIRE it?",
+          "answers": [
+            "like",
+            "steal",
+            "wreck",
+            "sing",
+            "get"
+          ],
+          "word": "ACQUIRE",
+          "correct": "get"
+        },
+        {
+          "prompt": "More LEISURE.",
+          "answers": [
+            "pain",
+            "hope",
+            "ease",
+            "happiness",
+            "work"
+          ],
+          "word": "LEISURE",
+          "correct": "ease"
+        },
+        {
+          "prompt": "ETERNAL sleep.",
+          "answers": [
+            "endless",
+            "restless",
+            "deep",
+            "short",
+            "long"
+          ],
+          "word": "ETERNAL",
+          "correct": "endless"
+        },
+        {
+          "prompt": "The supply was ADEQUATE.",
+          "answers": [
+            "similar",
+            "growing",
+            "sufficient",
+            "excellent",
+            "small"
+          ],
+          "word": "ADEOUATE",
+          "correct": "sufficient"
+        },
+        {
+          "prompt": "Somewhat DEJECTED.",
+          "answers": [
+            "angry",
+            "downcast",
+            "cheerful",
+            "surprised",
+            "vain"
+          ],
+          "word": "DEJECTED",
+          "correct": "downcast"
+        },
+        {
+          "prompt": "They EXCLAIMED.",
+          "answers": [
+            "laughed",
+            "jumped up",
+            "refused",
+            "cried out",
+            "swore"
+          ],
+          "word": "EXCLAIM",
+          "correct": "cried out"
+        },
+        {
+          "prompt": "GENUINE things.",
+          "answers": [
+            "real",
+            "new",
+            "beautiful",
+            "old",
+            "fake"
+          ],
+          "word": "GENUINE",
+          "correct": "real"
+        },
+        {
+          "prompt": "All the GIBBERISH.",
+          "answers": [
+            "destruction",
+            "noise",
+            "excitement",
+            "nonsense",
+            "truth"
+          ],
+          "word": "GIBBERISH",
+          "correct": "nonsense"
+        },
+        {
+          "prompt": "To HURL it.",
+          "answers": [
+            "catch",
+            "drop",
+            "break",
+            "spin",
+            "throw"
+          ],
+          "word": "HURL",
+          "correct": "throw"
+        },
+        {
+          "prompt": "We were INVINCIBLE.",
+          "answers": [
+            "respectable",
+            "unconquerable",
+            "weak",
+            "unknown",
+            "huge"
+          ],
+          "word": "INVINCIBLE",
+          "correct": "unconquerable"
+        },
+        {
+          "prompt": "Expecting JUSTICE.",
+          "answers": [
+            "fairness",
+            "gifts",
+            "punishment",
+            "rewards",
+            "mercy"
+          ],
+          "word": "JUSTICE",
+          "correct": "fairness"
+        },
+        {
+          "prompt": "Several MELODIOUS songs.",
+          "answers": [
+            "easy",
+            "memorable",
+            "harsh-sounding",
+            "tuneful",
+            "hateful"
+          ],
+          "word": "MELODIOUS",
+          "correct": "tuneful"
+        },
+        {
+          "prompt": "GORGEOUS scenery.",
+          "answers": [
+            "hilly",
+            "magnificent",
+            "huge",
+            "pleasant",
+            "ordinary"
+          ],
+          "word": "GORGEOUS",
+          "correct": "magnificent"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can adults be INFANTILE?",
+          "word": "INFANTILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people be FLABBERGASTED by a talking dog?",
+          "word": "FLABBERGAST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do you ACQUIRE knowledge by reading?",
+          "word": "ACQUIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are the hours you spend in school your LEISURE time?",
+          "word": "LEISURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are television programs ETERNAL?",
+          "word": "ETERNAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is five dollars usually ADEQUATE money to buy a ten dollar book?",
+          "word": "ADEOUATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a baseball player usually DEJECTED when he hits a homerun?",
+          "word": "DEJECTED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you use your voice to EXCLAIM?",
+          "word": "EXCLAIM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a GENUINE diamond be worthless?",
+          "word": "GENUINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it easy to understand someone who speaks GIBBERISH?",
+          "word": "GIBBERISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a baseball pitcher HURL the ball to the catcher?",
+          "word": "HURL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a defeated army INVINCIBLE?",
+          "word": "INVINCIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most people want to be treated with JUSTICE?",
+          "word": "JUSTICE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are the MELODY and the words of a song the same thing?",
+          "word": "MELODIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are spiders usually considered GORGEOUS?",
+          "word": "GORGEOUS",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The teacher said she wouldn't put up with any more INFANTILE behavior in her class.",
+          "word": "INFANTILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher FLABBERGASTED them for talking in class.",
+          "word": "FLABBERGAST",
+          "correct": "false"
+        },
+        {
+          "prompt": "She is going to get a new car, because she ACQUIRES it for her work as a traveling salesperson.",
+          "word": "ACQUIRE",
+          "correct": "false"
+        },
+        {
+          "prompt": "We sat on the porch drinking lemonade and enjoying our LEISURE.",
+          "word": "LEISURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "It seemed an ETERNITY before we could see the doctor.",
+          "word": "ETERNAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "We had to get ADEQUATE food for the twenty people who were coming to the party.",
+          "word": "ADEOUATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jim was DEJECTED when he heard that he couldn't go to the dance.",
+          "word": "DEJECTED",
+          "correct": "true"
+        },
+        {
+          "prompt": "\"Look! An island!\" the shipwrecked sailor EXCLAIMED with relief.",
+          "word": "EXCLAIM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bob wasn't upset at all. His anger was completely GENUINE.",
+          "word": "GENUINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Pete sometimes sounds intelligent, but usually he speaks nothing but GIBBERISH.",
+          "word": "GIBBERISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "The rocket HURLED up into the sky.",
+          "word": "HURL",
+          "correct": "false"
+        },
+        {
+          "prompt": "In his daydreams he became an INVINCIBLE crime fighter.",
+          "word": "INVINCIBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He said there's no JUSTICE in this world. The most evil people always seem to be the most successful.",
+          "word": "JUSTICE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She was very frightened and let out several MELODIOUS screams.",
+          "word": "MELODIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "It was a GORGEOUS garden, full of very beautiful flowers.",
+          "word": "GORGEOUS",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "INFANTILE",
+          "answers": [
+            "happy",
+            "silly",
+            "babyish"
+          ],
+          "word": "INFANTILE",
+          "correct": "0"
+        },
+        {
+          "prompt": "FLABBERGAST",
+          "answers": [
+            "interest",
+            "surprise",
+            "astound"
+          ],
+          "word": "FLABBERGAST",
+          "correct": "0"
+        },
+        {
+          "prompt": "ACQUIRE",
+          "answers": [
+            "need",
+            "get",
+            "obtain"
+          ],
+          "word": "ACQUIRE",
+          "correct": "0"
+        },
+        {
+          "prompt": "LEISURE",
+          "answers": [
+            "ease",
+            "freedom",
+            "silence"
+          ],
+          "word": "LEISURE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ETERNAL",
+          "answers": [
+            "forever",
+            "usual",
+            "always"
+          ],
+          "word": "ETERNAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "ADEQUATE",
+          "answers": [
+            "plenty",
+            "little",
+            "enough"
+          ],
+          "word": "ADEOUATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEJECTED",
+          "answers": [
+            "unhappy",
+            "worried",
+            "cruel"
+          ],
+          "word": "DEJECTED",
+          "correct": "2"
+        },
+        {
+          "prompt": "EXCLAIM",
+          "answers": [
+            "shout",
+            "sing",
+            "yell"
+          ],
+          "word": "EXCLAIM",
+          "correct": "1"
+        },
+        {
+          "prompt": "GENUINE",
+          "answers": [
+            "true",
+            "clear",
+            "real"
+          ],
+          "word": "GENUINE",
+          "correct": "1"
+        },
+        {
+          "prompt": "GIBBERISH",
+          "answers": [
+            "strange",
+            "dangerous",
+            "silly"
+          ],
+          "word": "GIBBERISH",
+          "correct": "1"
+        },
+        {
+          "prompt": "HURL",
+          "answers": [
+            "toss",
+            "fling",
+            "wet"
+          ],
+          "word": "HURL",
+          "correct": "2"
+        },
+        {
+          "prompt": "INVINCIBLE",
+          "answers": [
+            "powerful",
+            "warlike",
+            "unbeatable"
+          ],
+          "word": "INVINCIBLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "JUSTICE",
+          "answers": [
+            "right",
+            "fairness",
+            "kindness"
+          ],
+          "word": "JUSTICE",
+          "correct": "2"
+        },
+        {
+          "prompt": "MELODIOUS",
+          "answers": [
+            "sweet",
+            "new",
+            "musical"
+          ],
+          "word": "MELODIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "GORGEOUS",
+          "answers": [
+            "magnificent",
+            "lovely",
+            "huge"
+          ],
+          "word": "GORGEOUS",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

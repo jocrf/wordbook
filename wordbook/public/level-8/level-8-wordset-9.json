@@ -1,0 +1,602 @@
+{
+  "title": "8.9",
+  "definitions": {
+    "TURPITUDE": {
+      "word": "TURPITUDE",
+      "phonetic": "(ter'-p;-tUd",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">depravity, baseness </p><p>TURPITUDE is baseness or vileness. It is often used in the phrase “moral TURPITUDE.” </p><p>“Hester Prynne was accused of moral TURPITUDE when the town discovered she was pregnant without being married.” </p><p>“The governor said his opponent’s TURPITUDE made him unfit to serve in office.” </p><p>TURPITUDE is also occasionally used about a base or vile act. </p><p>“The preacher said that such TURPITUDES would not go unpunished in the hereafter.” </p><p>TURPITUDE is thought to mean <i class=“def-ital\">righteousness</i> by a large proportion of the people taking the Pretest, due to confusion of TURPITUDE with <i class=“def-ital\">rectitude</i>.</p>"
+    },
+    "CAPTIOUS": {
+      "word": "CAPTIOUS",
+      "phonetic": "(kap'-sh;s)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">faultfinding, carping </p><p>CAPTIOUS means <i class=“def-ital\">faultfinding</i>; someone who is CAPTIOUS is hard to please, likes to make petty criticisms. </p><p>“Pamela was annoyed by John’s CAPTIOUS criticism of her every utterance.” </p><p>“The man is so CAPTIOUS that his valets leave one after another, fed up with his constant nitpicking.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">entrancing</i>, probably due to a confusion of CAPTIOUS with <i class=“def-ital\">captivating</i>.</p>"
+    },
+    "DILATORY": {
+      "word": "DILATORY",
+      "phonetic": "(dil'-ÔøΩtor-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">slow, tardy, causing delay </p><p>DILATORY is applied to people and their actions. A DILATORY person delays, out of laziness, indifference, or simply out of a desire to delay. </p><p>“Alan was so DILATORY in returning books that the library took away his card.” </p><p>“Realizing his company was short of cash, the accountant was DILATORY about paying bills.” </p><p>DILATORY actions are characterized by delay or are intended to delay. </p><p>“The senator’s DILATORY tactics prevented the bill from being considered before Congress adjourned.”</p>"
+    },
+    "EPIGONE": {
+      "word": "EPIGONE",
+      "phonetic": "(ep'-ÔøΩgOn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an imitator, follower </p><p>EPIGONE comes from the Greek <i class=“def-ital\">epigonoi</i>, which literally means “born after.” In Greek legend, the Epigonoi were the sons of the seven leaders who had been defeated at Thebes; they, like their fathers, attacked that city. An EPIGONE is an imitator, usually a second-rate one. </p><p>“The miserable EPIGONE spent his days copying Caravaggio’s great works and dreaming of the day that he’d be famous.” </p><p>“The professor considers himself a follower of Plato’s, but he is merely an EPIGONE: where Plato was profound the professor is merely pompous.”</p>"
+    },
+    "FEBRILE": {
+      "word": "FEBRILE",
+      "phonetic": "(feb'-rJI",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">feverish </p><p>FEBRILE is a close synonym of <i class=“def-ital\">feverish</i>. Both come from the Latin word for <i class=“def-ital\">fever</i>. FEBRILE comes to us through the French, <i class=“def-ital\">feverish</i> through Old English. As is usually the case, the word that has been in the language longer is more commonly used and understood. </p><p>“The child was hot and FEBRILE after the long, exhausting day.” </p><p>“The candidate’s last FEBRILE burst of activity was not enough to stave off defeat.” </p><p><i class=“def-ital\">Delicate</i> is a common choice on the Pretest, perhaps due to a vague similarity of FEBRILE to <i class=“def-ital\">fragile</i>. <i class=“def-ital\">Diseased</i> is also a common choice; it is probably chosen by people who have a vague idea of FEBRILE’s meaning.</p>"
+    },
+    "FRIABLE": {
+      "word": "FRIABLE",
+      "phonetic": "(frl'-g-b;}I)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">crumbly, brittle </p><p>FRIABLE means “easily reduced to powder.” The word is usually used about certain rocks or other materials that are brittle and crumble readily. </p><p>“The FRIABLE piece of sandstone crumbled into a thousand pieces when I dropped it on the sidewalk.” </p><p>“The spade cut easily through the FRIABLE soil.” </p><p>“The FRIABLE chalk disintegrated as soon as the teacher tried to write with it.”</p>"
+    },
+    "LACUNA": {
+      "word": "LACUNA",
+      "phonetic": "(1ÔøΩ-kyU'-nÔøΩ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a gap, hole, empty space </p><p>A LACUNA is a missing part, a gap. The word is often used about gaps of knowledge or gaps in a manuscript or inscription. The plural of LACUNA is LACUNAE or LACUNAS. </p><p>“The professor is widely read, but she obviously has a LACUNA in the area of the physical sciences.” </p><p>“Several LACUNAE in the tattered old letter made its subject difficult to decipher.” </p><p>“There are many LACUNAS in our knowledge of how and when Shakespeare wrote his plays.”</p>"
+    },
+    "BENIGHTED": {
+      "word": "BENIGHTED",
+      "phonetic": "(bi-nI'-tid)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">ignorant, unenlightened </p><p>The literal meaning of BENIGHTED is “covered over by night.” In this sense the word might be used about travelers caught by darkness. Usually, however, the word is used figuratively, about people enveloped by the darkness of intellectual or moral ignorance. </p><p>“The poor BENIGHTED peasants had never heard of these wonderful modern inventions.” </p><p>“The missionary wished to proclaim his beliefs to the BENIGHTED savages.” </p><p>“In those BENIGHTED times any woman who didn’t marry was suspected of being a witch.”</p>"
+    },
+    "MORIBUND": {
+      "word": "MORIBUND",
+      "phonetic": "lks",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dormant, dying, obsolescent </p><p>The Latin root <i class=“def-ital\">mor</i> or <i class=“def-ital\">mort</i> means <i class=“def-ital\">death</i>, and is found in such words as <i class=“def-ital\">mortal</i>, <i class=“def-ital\">mortuary</i>, and MORIBUND. The basic meaning of MORIBUND is “about to die.” The word is more often used in a figurative sense about anything that is approaching an end. It is also used about things that are now lying dormant, but could come back to life in the future. </p><p>“When funds ran out, the project became MORIBUND.” </p><p>“The oil shortage put new life into the MORIBUND coal industry, as people searched for alternative forms of energy.” </p><p><i class=“def-ital\">Grotesque</i> is the most commonly chosen wrong answer, possibly because MORIBUND is confused with <i class=“def-ital\">morbid</i>.</p>"
+    },
+    "GELID": {
+      "word": "GELID",
+      "phonetic": "(jel'-id)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">icy, very cold </p><p>GELID comes from the Latin word for <i class=“def-ital\">cold</i>, and is a synonym for <i class=“def-ital\">freezing</i>, <i class=“def-ital\">icy</i>. It tends to emphasize the discomfort of such cold. </p><p>“The snowstorm brought such GELID weather that frostbite was epidemic.” </p><p>“Bob knew that he couldn’t survive long in the GELID water: already his feet and hands were numb.” </p><p>The word is also used in a figurative sense. </p><p>“The teacher’s GELID stare indicated he had not found the student’s remark amusing.” </p><p><i class=“def-ital\">Weak</i> is a common answer on the Pretest, perhaps be- cause GELID looks and sounds like <i class=“def-ital\">jellied</i>.</p>"
+    },
+    "DOYEN": {
+      "word": "DOYEN",
+      "phonetic": "(doy-en'",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the senior member </p><p>DOYEN is from the French and means “the senior member of a group.” The word generally suggests experience and wisdom as a result of this position. The feminine of DOYEN is DOYENNE. </p><p>“Because of his age and experience, the other members of the team regarded the designated hitter as the DOYEN of the team.” </p><p>“The 98-year-old man was unquestionably the DOYEN of the senior citizens’ club; no one else was over 80.”</p>"
+    },
+    "NUGATORY": {
+      "word": "NUGATORY",
+      "phonetic": "(nU'-gÔøΩ-tor-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">worthless, trifling, futile, ineffectual </p><p>Something that is NUGATORY is without value or significance. </p><p>“Endless and mindless repetition of endearments can make them NUGATORY after a while.” </p><p>In a slightly different sense, NUGATORY can also describe something that has no effect, that doesn’t work. In this sense NUGATORY is often applied to laws. </p><p>“He had a deluded sense of self-importance, but his actual influence in politics was quite NUGATORY. After he left office few people remembered him.” </p><p>“All too often the laws that ban littering are NUGATORY in practice because they aren’t enforced.”</p>"
+    },
+    "RECALCITRANT": {
+      "word": "RECALCITRANT",
+      "phonetic": "(ri-kal'-sg-trÔøΩmt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">rebellious, refractory, defiant </p><p>A RECALCITRANT person is actively defiant of another’s authority. The word is stronger than <i class=“def-ital\">intractable</i> or <i class=“def-ital\">refractory</i>, and suggests that it will be almost impossible to get the person to obey. </p><p>“The RECALCITRANT sailor refused to obey the captain, and incited the rest of the crew to defy him as well.” </p><p>“In a dictatorship, even a small group of RECALCITRANT subjects is a threat.” </p><p>RECALCITRANT is occasionally used about things that are very difficult to control or treat. </p><p>“He simply could not get the RECALCITRANT stereo system to work properly.” “The doctor told us that the patients in the ward had a RECALCITRANT form of the disease.” </p><p><i class=“def-ital\">Repentant</i> and <i class=“def-ital\">reluctant</i> are both commonly chosen wrong answers, perhaps because they look like RECALCITRANT. </p><p>Other forms of the word: RECALCITRANCE, n. RECALCITRANCY, n.</p>"
+    },
+    "SACERDOTAL": {
+      "word": "SACERDOTAL",
+      "phonetic": "(sas-gr-dO'-tgl)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">priestly </p><p>SACERDOTAL comes from the Latin word for <i class=“def-ital\">priest</i>; it is related to such English words as <i class=“def-ital\">sacred</i> and <i class=“def-ital\">sacrament</i>. SACERDOTAL means “having to do with priests or the priesthood,” <i class=“def-ital\">priestly</i>. </p><p>“After every religious service, the SACERDOTAL garments were hung in a special closet.” </p><p>“The priest regretted that business matters intruded on his SACERDOTAL duties.”</p>"
+    },
+    "SATURNINE": {
+      "word": "SATURNINE",
+      "phonetic": "(sat'-gr-nln)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">gloomy, dour, morose </p><p>SATURNINE was originally a term in astrology, meaning “born under, or affected by the influence of, the planet Saturn.” Such a person is supposed to have a gloomy, cold, sluggish temperament. The word has come into general use to describe any person with these characteristics. </p><p>“Emily’s SATURNINE disposition makes it difficult for anyone to know or like her.” </p><p>“One look at his SATURNINE countenance told us he was in no mood for joking.” </p><p>“The SATURNINE man sat silently in his room and brooded about the unhappiness of his life.”</p>"
+    }
+  },
+  "id": "9",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "TURPITUDE",
+          "answers": [
+            "depravity",
+            "righteousness",
+            "ambiguity",
+            "necessity",
+            "strangeness"
+          ],
+          "word": "TURPITUDE",
+          "correct": "depravity"
+        },
+        {
+          "prompt": "CAPTIOUS",
+          "answers": [
+            "entrancing",
+            "faultfinding",
+            "constructive",
+            "crowning",
+            "incorrect"
+          ],
+          "word": "CAPTIOUS",
+          "correct": "faultfinding"
+        },
+        {
+          "prompt": "DILATORY",
+          "answers": [
+            "prompt",
+            "industrious",
+            "slow",
+            "uncertain",
+            "expansive"
+          ],
+          "word": "DILATORY",
+          "correct": "slow"
+        },
+        {
+          "prompt": "EPIGONE",
+          "answers": [
+            "writer",
+            "youth",
+            "gourmet",
+            "imitator",
+            "teacher"
+          ],
+          "word": "EPIGONE",
+          "correct": "imitator"
+        },
+        {
+          "prompt": "FEBRILE",
+          "answers": [
+            "soothing",
+            "delicate",
+            "enthusiastic",
+            "diseased",
+            "feverish"
+          ],
+          "word": "FEBRILE",
+          "correct": "feverish"
+        },
+        {
+          "prompt": "FRIABLE",
+          "answers": [
+            "inflexible",
+            "edible",
+            "crumbly",
+            "soft",
+            "washable"
+          ],
+          "word": "FRIABLE",
+          "correct": "crumbly"
+        },
+        {
+          "prompt": "LACUNA",
+          "answers": [
+            "addition",
+            "poison",
+            "gap",
+            "paradox",
+            "error"
+          ],
+          "word": "LACUNA",
+          "correct": "gap"
+        },
+        {
+          "prompt": "BENIGHTED",
+          "answers": [
+            "ignorant",
+            "blessed",
+            "stranded",
+            "inspired",
+            "impossible"
+          ],
+          "word": "BENIGHTED",
+          "correct": "ignorant"
+        },
+        {
+          "prompt": "MORIBUND",
+          "answers": [
+            "dormant",
+            "grotesque",
+            "paralyzed",
+            "conquered",
+            "desperate"
+          ],
+          "word": "MORIBUND",
+          "correct": "dormant"
+        },
+        {
+          "prompt": "GELID",
+          "answers": [
+            "firm",
+            "weak",
+            "nervous",
+            "icy",
+            "brittle"
+          ],
+          "word": "GELID",
+          "correct": "icy"
+        },
+        {
+          "prompt": "DOYEN",
+          "answers": [
+            "angry woman",
+            "senior member",
+            "favorite child",
+            "noisy girl",
+            "young actress"
+          ],
+          "word": "DOYEN",
+          "correct": "senior member"
+        },
+        {
+          "prompt": "NUGATORY",
+          "answers": [
+            "effective",
+            "obligatory",
+            "threatening",
+            "illegal",
+            "worthless"
+          ],
+          "word": "NUGATORY",
+          "correct": "worthless"
+        },
+        {
+          "prompt": "RECALCITRANT",
+          "answers": [
+            "repentant",
+            "rebellious",
+            "awkward",
+            "offensive",
+            "reluctant"
+          ],
+          "word": "RECALCITRANT",
+          "correct": "rebellious"
+        },
+        {
+          "prompt": "SACERDOTAL",
+          "answers": [
+            "blessed",
+            "ancient",
+            "pagan",
+            "official",
+            "priestly"
+          ],
+          "word": "SACERDOTAL",
+          "correct": "priestly"
+        },
+        {
+          "prompt": "SATURNINE",
+          "answers": [
+            "cheerful",
+            "gloomy",
+            "kindly",
+            "wise",
+            "evil"
+          ],
+          "word": "SATURNINE",
+          "correct": "gloomy"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is self-denial an example of TURPITUDE?",
+          "word": "TURPITUDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would CAPTIOUS criticisms be helpful?",
+          "word": "CAPTIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a diligent person be DILATORY?",
+          "word": "DILATORY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Was Michelangelo an EPIGONE?",
+          "word": "EPIGONE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can the flu cause a person to feel FEBRILE?",
+          "word": "FEBRILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is granite FRIABLE?",
+          "word": "FRIABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do authors like to have their books contain LACUNAE?",
+          "word": "LACUNA",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a BENIGHTED person ignorant?",
+          "word": "BENIGHTED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a person be MORIBUND?",
+          "word": "MORIBUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can the weather be GELID?",
+          "word": "GELID",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are DOYENS usually inexperienced?",
+          "word": "DOYEN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is the Bill of Rights NUGATORY?",
+          "word": "NUGATORY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a horse be RECALCITRANT?",
+          "word": "RECALCITRANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would giving a sermon be a SACERDOTAL duty?",
+          "word": "SACERDOTAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a SATURNINE person enjoy a comedy show?",
+          "word": "SATURNINE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Everyone admires the absolute TURPITUDE of the fine young man.",
+          "word": "TURPITUDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "After Rich's parents gave him a Cadillac for his birthday, it was CAPTIOUS of him to complain about the color.",
+          "word": "CAPTIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "It is DILATORY that we avoid being caught tonight.",
+          "word": "DILATORY",
+          "correct": "false"
+        },
+        {
+          "prompt": "He is just an EPIGONE, with no distinctive voice or ideas of his own.",
+          "word": "EPIGONE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The FEBRILE pace of Mary's life often makes her tired and irritable.",
+          "word": "FEBRILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "This piece of steak has gone bad; it is no longer FRIABLE.",
+          "word": "FRIABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Erosion has caused several LACUNAS to appear in the ancient tomb inscription.",
+          "word": "LACUNA",
+          "correct": "true"
+        },
+        {
+          "prompt": "We are BENIGHTED that you could be with us today.",
+          "word": "BENIGHTED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Several MORIBUND bills were given a new life when Congress returned from its recess.",
+          "word": "MORIBUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "The committee's GELID response to our proposal convinced us it would never be accepted.",
+          "word": "GELID",
+          "correct": "true"
+        },
+        {
+          "prompt": "The DOYEN of American chefs sums up his knowledge of cuisine in this new book.",
+          "word": "DOYEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "The effect of the lawyer's closing argument was NUGATORY; the jury had already made up its mind.",
+          "word": "NUGATORY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The RECALCITRANT students absolutely refused to take the test.",
+          "word": "RECALCITRANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Once he was admitted to the priesthood he learned the secret SACERDOTAL language.",
+          "word": "SACERDOTAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "The SATURNINE man cheerfully gave his help to anyone who asked for it.",
+          "word": "SATURNINE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "TURPITUDE",
+          "answers": [
+            "vileness",
+            "destitution",
+            "corruption"
+          ],
+          "word": "TURPITUDE",
+          "correct": "1"
+        },
+        {
+          "prompt": "CAPTIOUS",
+          "answers": [
+            "insubordinate",
+            "faultfinding",
+            "complaining"
+          ],
+          "word": "CAPTIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "DILATORY",
+          "answers": [
+            "thwarting",
+            "delaying",
+            "lagging"
+          ],
+          "word": "DILATORY",
+          "correct": "0"
+        },
+        {
+          "prompt": "EPIGONE",
+          "answers": [
+            "follower",
+            "successor",
+            "imitator"
+          ],
+          "word": "EPIGONE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FEBRILE",
+          "answers": [
+            "weak",
+            "hot",
+            "hectic"
+          ],
+          "word": "FEBRILE",
+          "correct": "0"
+        },
+        {
+          "prompt": "FRIABLE",
+          "answers": [
+            "fragile",
+            "smooth",
+            "crisp"
+          ],
+          "word": "FRIABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "LACUNA",
+          "answers": [
+            "interval",
+            "hiatus",
+            "torrent"
+          ],
+          "word": "LACUNA",
+          "correct": "2"
+        },
+        {
+          "prompt": "BENIGHTED",
+          "answers": [
+            "illicit",
+            "uninformed",
+            "illiterate"
+          ],
+          "word": "BENIGHTED",
+          "correct": "0"
+        },
+        {
+          "prompt": "MORIBUND",
+          "answers": [
+            "quiescent",
+            "dormant",
+            "restless"
+          ],
+          "word": "MORIBUND",
+          "correct": "2"
+        },
+        {
+          "prompt": "GELID",
+          "answers": [
+            "cool",
+            "frigid",
+            "frosty"
+          ],
+          "word": "GELID",
+          "correct": "0"
+        },
+        {
+          "prompt": "DOYEN",
+          "answers": [
+            "elder",
+            "dictator",
+            "leader"
+          ],
+          "word": "DOYEN",
+          "correct": "1"
+        },
+        {
+          "prompt": "NUGATORY",
+          "answers": [
+            "exceptional",
+            "ineffectual",
+            "invalid"
+          ],
+          "word": "NUGATORY",
+          "correct": "0"
+        },
+        {
+          "prompt": "RECALCITRANT",
+          "answers": [
+            "refractory",
+            "vindictive",
+            "resistant"
+          ],
+          "word": "RECALCITRANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "SACERDOTAL",
+          "answers": [
+            "priestly",
+            "secular",
+            "clerical"
+          ],
+          "word": "SACERDOTAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "SATURNINE",
+          "answers": [
+            "morose",
+            "devilish",
+            "grim"
+          ],
+          "word": "SATURNINE",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

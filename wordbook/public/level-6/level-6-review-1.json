@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABORIGINE",
+      "answer": "aborigines"
+    },
+    {
+      "word": "CONVULSION",
+      "answer": "convulsions"
+    },
+    {
+      "word": "ELITE",
+      "answer": "elite"
+    },
+    {
+      "word": "INDIFFERENT",
+      "answer": "indifferent"
+    },
+    {
+      "word": "NONENTITY",
+      "answer": "nonentity"
+    },
+    {
+      "word": "ASSAIL",
+      "answer": "assailed"
+    },
+    {
+      "word": "DEGENERATE",
+      "answer": "degenerated"
+    },
+    {
+      "word": "FRACAS",
+      "answer": "fracas"
+    },
+    {
+      "word": "INFRINGE",
+      "answer": "infringes"
+    },
+    {
+      "word": "PLAUSIBLE",
+      "answer": "plausible"
+    },
+    {
+      "word": "BIGOT",
+      "answer": "bigoted"
+    },
+    {
+      "word": "DESTITUTE",
+      "answer": "destitute"
+    },
+    {
+      "word": "HYPOCRISY",
+      "answer": "hypocrisy"
+    },
+    {
+      "word": "INTEGRAL",
+      "answer": "interim"
+    },
+    {
+      "word": "THRONG",
+      "answer": "throng"
+    },
+    {
+      "word": "CEREBRAL",
+      "answer": "cerebral"
+    },
+    {
+      "word": "DOTING",
+      "answer": "doting"
+    },
+    {
+      "word": "IMBECILIC",
+      "answer": "imbecilic"
+    },
+    {
+      "word": "LOATH",
+      "answer": "loath"
+    },
+    {
+      "word": "TORRENT",
+      "answer": "torrent"
+    },
+    {
+      "word": "CONCEDE",
+      "answer": "conceded"
+    },
+    {
+      "word": "BLISS",
+      "answer": "bliss"
+    },
+    {
+      "word": "EXCEPTIONAL",
+      "answer": "exceptional"
+    },
+    {
+      "word": "KALEIDOSCOPIC",
+      "answer": "kaleidoscopic"
+    },
+    {
+      "word": "PATERNAL",
+      "answer": "paternal"
+    },
+    {
+      "word": "TREMULOUS",
+      "answer": "tremulous"
+    },
+    {
+      "word": "CAVORT",
+      "answer": "cavorted"
+    },
+    {
+      "word": "IMPAIR",
+      "answer": "impaired"
+    },
+    {
+      "word": "LACKLUSTER",
+      "answer": "lackluster"
+    },
+    {
+      "word": "PERCEIVE",
+      "answer": "perceive"
+    },
+    {
+      "word": "VOID",
+      "answer": "void"
+    },
+    {
+      "word": "COSMOPOLITAN",
+      "answer": "cosmopolitan"
+    },
+    {
+      "word": "IMPERATIVE",
+      "answer": "imperative"
+    },
+    {
+      "word": "LEVY",
+      "answer": "levied"
+    },
+    {
+      "word": "RETROSPECT",
+      "answer": "retrospect"
+    },
+    {
+      "word": "WHIMSICAL",
+      "answer": "whimsical"
+    },
+    {
+      "word": "DERIVATION",
+      "answer": "derivation"
+    },
+    {
+      "word": "INCITE",
+      "answer": "incited"
+    },
+    {
+      "word": "MICROBE",
+      "answer": "microbe"
+    },
+    {
+      "word": "SYNOPSIS",
+      "answer": "synopsis"
+    },
+    {
+      "word": "ZENITH",
+      "answer": "zenith"
+    },
+    {
+      "word": "ENDOW",
+      "answer": "endow"
+    },
+    {
+      "word": "INTERIM",
+      "answer": "interim"
+    },
+    {
+      "word": "ONSLAUGHT",
+      "answer": "onslaught"
+    },
+    {
+      "word": "THWART",
+      "answer": "thwart"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "We found out about his",
+      "part2": "when he told us how important it was not to lose your temper. He has the worst temper I've ever seen.",
+      "correct": "hypocrisy",
+      "word": "HYPOCRISY"
+    },
+    {
+      "part1": "He was a member of the educational",
+      "part2": "--one of the greatest professors in the country.",
+      "correct": "elite",
+      "word": "ELITE"
+    },
+    {
+      "part1": "The party began very pleasantly, but by midnight it had",
+      "part2": "into a drunken brawl.",
+      "correct": "degenerated",
+      "word": "DEGENERATE"
+    },
+    {
+      "part1": "He had the",
+      "part2": "notion that if he flapped his arms fast enough he would be able to fly.",
+      "correct": "imbecilic",
+      "word": "IMBECILIC"
+    },
+    {
+      "part1": "Since she was taught from childhood to hate and fear those who were of a different race, it was only natural for her to be",
+      "part2": ".",
+      "correct": "bigoted",
+      "word": "BIGOT"
+    },
+    {
+      "part1": "The illness caused him to go into sudden",
+      "part2": "during which he lost control of his muscles.",
+      "correct": "convulsions",
+      "word": "CONVULSION"
+    },
+    {
+      "part1": "The dog gets very upset if another animal",
+      "part2": "on her territory.",
+      "correct": "infringes",
+      "word": "INFRINGE"
+    },
+    {
+      "part1": "The",
+      "part2": "grandparents showed pictures of the new baby to all their friends.",
+      "correct": "doting",
+      "word": "DOTING"
+    },
+    {
+      "part1": "Jack was",
+      "part2": "to go to college if it meant leaving behind all his friends.",
+      "correct": "loath",
+      "word": "LOATH"
+    },
+    {
+      "part1": "When the dam burst, a(n)",
+      "part2": "of water gushed out and flooded the valley.",
+      "correct": "torrent",
+      "word": "TORRENT"
+    },
+    {
+      "part1": "The enemy",
+      "part2": "our position with a hail of gunfire and bombs.",
+      "correct": "assailed",
+      "word": "ASSAIL"
+    },
+    {
+      "part1": "Linda was",
+      "part2": "to John's difficulties; she didn't care if he solved his problems.",
+      "correct": "indifferent",
+      "word": "INDIFFERENT"
+    },
+    {
+      "part1": "When we pressed him about it, he",
+      "part2": "that he did sometimes lose his temper.",
+      "correct": "conceded",
+      "word": "CONCEDE"
+    },
+    {
+      "part1": "While he was alive, people thought that he was a complete",
+      "part2": ", but after he died they realized what a great artist he had been.",
+      "correct": "nonentity",
+      "word": "NONENTITY"
+    },
+    {
+      "part1": "There was a(n)",
+      "part2": "outside the theater as people started pushing and shoving to get in.",
+      "correct": "fracas",
+      "word": "FRACAS"
+    },
+    {
+      "part1": "Playing chess is a(n)",
+      "part2": "activity; you really have to use your mind to do it well.",
+      "correct": "cerebral",
+      "word": "CEREBRAL"
+    },
+    {
+      "part1": "A(n)",
+      "part2": "of eager fans jammed into the airport to see the movie star.",
+      "correct": "throng",
+      "word": "THRONG"
+    },
+    {
+      "part1": "When the explorers reached the valley, they found a tribe of",
+      "part2": "who must have lived there for thousands of years.",
+      "correct": "aborigines",
+      "word": "ABORIGINE"
+    },
+    {
+      "part1": "When our father lost his job we were",
+      "part2": "; we didn't even have enough money to buy food.",
+      "correct": "destitute",
+      "word": "DESTITUTE"
+    },
+    {
+      "part1": "The coach told Ed he was a(n)",
+      "part2": "part of the team. He said they couldn't get along without him.",
+      "correct": "integral",
+      "word": "INTERIM"
+    },
+    {
+      "part1": "Jim’s explanation sounded",
+      "part2": ", but I still didn’t believe him.",
+      "correct": "plausible",
+      "word": "PLAUSIBLE"
+    },
+    {
+      "part1": "He was unable to",
+      "part2": "the difference between the two colors.",
+      "correct": "perceive",
+      "word": "PERCEIVE"
+    },
+    {
+      "part1": "The millionaire promised to",
+      "part2": "a stadium for the school if they would name it after him.",
+      "correct": "endow",
+      "word": "ENDOW"
+    },
+    {
+      "part1": "They reached a(n)",
+      "part2": "agreement that would last until they could settle the dispute once and for all.",
+      "correct": "interim",
+      "word": "INTERIM"
+    },
+    {
+      "part1": "His fiery words so",
+      "part2": "the crowd that they attacked the police station.",
+      "correct": "incited",
+      "word": "INCITE"
+    },
+    {
+      "part1": "When the nation was at the",
+      "part2": "of its power it ruled over half the world.",
+      "correct": "zenith",
+      "word": "ZENITH"
+    },
+    {
+      "part1": "The",
+      "part2": "contained a brief summary of the plot and mentioned the main characters.",
+      "correct": "synopsis",
+      "word": "SYNOPSIS"
+    },
+    {
+      "part1": "A good dictionary will give both the meaning of a word and its",
+      "part2": "so that you can see how the word came to us from other languages.",
+      "correct": "derivation",
+      "word": "DERIVATION"
+    },
+    {
+      "part1": "The foot injury",
+      "part2": "his ability to run quickly.",
+      "correct": "impaired",
+      "word": "IMPAIR"
+    },
+    {
+      "part1": "He had",
+      "part2": "skill in playing the piano. Only a few were as good as he was.",
+      "correct": "exceptional",
+      "word": "EXCEPTIONAL"
+    },
+    {
+      "part1": "We knew the enemy was coming, but we were still unable to resist their",
+      "part2": ".",
+      "correct": "onslaught",
+      "word": "ONSLAUGHT"
+    },
+    {
+      "part1": "The happy children laughed and",
+      "part2": "in the yard.",
+      "correct": "cavorted",
+      "word": "CAVORT"
+    },
+    {
+      "part1": "Nothing could spoil the perfect",
+      "part2": "of their happy family life.",
+      "correct": "bliss",
+      "word": "BLISS"
+    },
+    {
+      "part1": "In",
+      "part2": "it is easy to see how foolish we must have looked to other people.",
+      "correct": "retrospect",
+      "word": "RETROSPECT"
+    },
+    {
+      "part1": "The teacher had a(n)",
+      "part2": "feeling toward his students. He liked to think of them as his own children.",
+      "correct": "paternal",
+      "word": "PATERNAL"
+    },
+    {
+      "part1": "The state",
+      "part2": "a tax on cigarettes and other tobacco products.",
+      "correct": "levied",
+      "word": "LEVY"
+    },
+    {
+      "part1": "She told the children a(n)",
+      "part2": "story about the adventures of a family of rabbits.",
+      "correct": "whimsical",
+      "word": "WHIMSICAL"
+    },
+    {
+      "part1": "It was a(n)",
+      "part2": "party; nothing very interesting or exciting happened the whole evening.",
+      "correct": "lackluster",
+      "word": "LACKLUSTER"
+    },
+    {
+      "part1": "With his",
+      "part2": "hands he was unable to get the key into the lock.",
+      "correct": "tremulous",
+      "word": "TREMULOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "changes of this decade make it difficult for a historian to discuss it briefly.",
+      "correct": "kaleidoscopic",
+      "word": "KALEIDOSCOPIC"
+    },
+    {
+      "part1": "The disappearance of her favorite cat left an aching",
+      "part2": "in her heart.",
+      "correct": "void",
+      "word": "VOID"
+    },
+    {
+      "part1": "We're looking for someone with a(n)",
+      "part2": "background: someone who has traveled widely and seen the world.",
+      "correct": "cosmopolitan",
+      "word": "COSMOPOLITAN"
+    },
+    {
+      "part1": "Nothing they could do could",
+      "part2": "the evil scientist's plan to take over the world.",
+      "correct": "thwart",
+      "word": "THWART"
+    },
+    {
+      "part1": "The scientists discovered that a tiny",
+      "part2": "was causing the terrible disease.",
+      "correct": "microbe",
+      "word": "MICROBE"
+    },
+    {
+      "part1": "The hurricane will hit us any minute; it is",
+      "part2": "that we seek shelter immediately.",
+      "correct": "imperative",
+      "word": "IMPERATIVE"
+    }
+  ],
+  "type": "fitb",
+  "id": 1
+}

@@ -1,0 +1,605 @@
+{
+  "title": "3.9",
+  "definitions": {
+    "FOOLHARDY": {
+      "word": "FOOLHARDY",
+      "phonetic": "(fUI'-hahr-dE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">reckless, foolishly brave </p><p>One meaning of the word <i class=“def-ital\">hardy</i> is <i class=“def-ital\">brave</i>, <i class=“def-ital\">daring</i>. </p><p>“The <i class=“def-ital\">hardy</i> adventurers set off to explore the jungle.” </p><p>FOOLHARDY means <i class=“def-ital\">foolishly hardy</i>. Someone who is FOOLHARDY takes unnecessary risks and lacks judgment in facing danger. </p><p>“They were FOOLHARDY to try to swim across the flooding river.” </p><p>“The FOOLHARDY boy tried to walk a tightrope between the two buildings.” </p><p>Many people think FOOLHARDY means <i class=“def-ital\">brave</i>. But in FOOLHARDY the emphasis is on being <i class=“def-ital\">foolishly</i> brave. </p><p>“He thought he was brave to attack the enemy headquarters singlehandedly, but everyone else thought he was FOOLHARDY.”</p>"
+    },
+    "ALTER": {
+      "word": "ALTER",
+      "phonetic": "(al'-tÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to change </p><p>To ALTER something is to make it different without changing it completely. </p><p>“We ALTERED the schedule to allow the principal to speak first.” </p><p>“The book made him ALTER his ideas on many subjects.” </p><p>“The house looked greatly ALTERED as a result of the redecorating.” </p><p>Other forms of the word: ALTERATION, n.</p>"
+    },
+    "CONCEPT": {
+      "word": "CONCEPT",
+      "phonetic": "(kon'-sept)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an idea, thought, notion </p><p>CONCEPT is related to the word CONCEIVE, which means to <i class=“def-ital\">think</i> or <i class=“def-ital\">imagine</i>. </p><p>“I cannot CONCEIVE of a better way to spend the day.” </p><p>A CONCEPT is an <i class=“def-ital\">idea</i>, especially a general idea. </p><p>“The CONCEPT of gravity is not an easy one to understand.” </p><p>“He agreed with the CONCEPT that all men are created equal.” </p><p>“The teacher tried to teach him the CONCEPT of fractions.” </p><p>Other forms of the word: CONCEPTION, n. CONCEPTUAL, adj.</p>"
+    },
+    "PERSISTENT": {
+      "word": "PERSISTENT",
+      "phonetic": "(pÔøΩ-sis'-tÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">continuing, lasting, enduring </p><p>PERSIST means to <i class=“def-ital\">keep on</i> or <i class=“def-ital\">continue</i>. </p><p>“The rain will PERSIST through the weekend.” </p><p>When someone PERSISTS in doing something, he keeps on doing it despite opposition. </p><p>“He PERSISTED in trying to open the door even after we told him it was nailed shut.” </p><p>Someone or something that is PERSISTENT is inclined to PERSIST.  </p><p>“He is a very PERSISTENT salesman. He just won’t take no for an answer.” </p><p>“She’s had that PERSISTENT cough for over a week now. I think she should see a doctor.” </p><p>“The reporter’s PERSISTENT questions finally uncovered the truth.” </p><p>“The PERSISTENT increase in prices has everyone worried.” </p><p>Other forms of the word: PERSIST, v. PERSISTENCE, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ant</i> under Suffixes."
+      ]
+    },
+    "DOMESTIC": {
+      "word": "DOMESTIC",
+      "phonetic": "(dÔøΩmes'-tik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">of the home or family; native </p><p>DOMESTIC comes from the Latin word for <i class=“def-ital\">house</i>. DOMESTIC means “of the home, family, or house.” </p><p>“The man’s DOMESTIC problems interfered with his work.” </p><p>“When he became rich he hired a butler, a maid, and other DOMESTIC help.” </p><p>“He never achieved DOMESTIC happiness; he was divorced three times.” </p><p>In a broader sense, DOMESTIC can mean “of one’s own country” and is the opposite of <i class=“def-ital\">foreign</i> or <i class=“def-ital\">imported</i>. </p><p>“He said that some DOMESTIC wines are as good as the best imported French wines.” </p><p>“The president’s DOMESTIC policy stressed lower taxes and less crime.” </p><p>Other forms of the word: DOMESTICATE, v. DOMESTICITY, n.</p>"
+    },
+    "PATHETIC": {
+      "word": "PATHETIC",
+      "phonetic": "(po-thet'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">pitiful, pitiable, sad, sorrowful </p><p>Something that is PATHETIC stirs up the emotions of pity and sympathy in people. </p><p>“The housing inspector told the reporter that the living conditions in the slum were PATHETIC.” </p><p>“A PATHETIC little dog was roaming around our neighborhood last night, crying for its owner.” </p><p>“The actress who had been so proud and beautiful in her youth was now old and PATHETIC.” </p><p>Sometimes PATHETIC stresses how bad or inadequate something is. In this sense, something that is PATHETIC stirs up contempt more than pity. </p><p>“Our basketball team’s performance was just PATHETIC last night. We lost by fifty points.” </p><p>Other forms of the word: PATHOS, n.</p>"
+    },
+    "AJAR": {
+      "word": "AJAR",
+      "phonetic": "(ÔøΩjahr')",
+      "pos": "adj., adv.",
+      "deftext": "<p class=\"definition\">partially open </p><p>AJAR means <i class=“def-ital\">slightly open</i>. AJAR is used about anything that can be opened and closed, but it is used mainly about doors. </p><p>“She left the door AJAR so that a little light came in.” </p><p>“The burglar found a window that was AJAR, so he climbed in through it.”</p>"
+    },
+    "PIGMENT": {
+      "word": "PIGMENT",
+      "phonetic": "(pig'-mÔøΩnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">coloring, coloring matter </p><p>PIGMENT is the part of paint or other material that gives it its color. </p><p>“The artist mixed several PIGMENTS together to get the color he wanted.” </p><p>“Many PIGMENTS are made of natural materials.” </p><p>Other forms of the word: PIGMENTATION, n.</p>"
+    },
+    "RIGID": {
+      "word": "RIGID",
+      "phonetic": "(rij'-id)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">stiff, unbending; strict, inflexible </p><p>Something that is RIGID is hard to bend; it is stiff and unyielding. </p><p>“These poles must be RIGID or the tent will collapse.” </p><p>“His back had to be kept RIGID after the operation.” </p><p>This meaning is extended to apply to anyone or anything that is strict, firm, or hard to change. </p><p>“They had a RIGID system for teaching arithmetic in that school. Teachers had to follow it exactly.” </p><p>“All the rules are RIGIDLY enforced, so you had better not break any.” </p><p>“Why do you have to be so RIGID about this? Couldn’t you give in just a little?” </p><p>Other forms of the word: RIGIDITY, n.</p>"
+    },
+    "AUTHENTIC": {
+      "word": "AUTHENTIC",
+      "phonetic": "(o-then'-tik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">real, genuine, true </p><p>Something that is AUTHENTIC is what it is said to be; it is not faked. </p><p>“If that painting is AUTHENTIC, then it’s worth many times what you paid for it.” </p><p>“The difference between an AUTHENTIC diamond and a fake one isn’t always easy to see.” </p><p>“This dog is an AUTHENTIC champion; he has won many awards.” </p><p>The noun form of AUTHENTIC is AUTHENTICITY, which means <i class=“def-ital\">genuineness</i>. </p><p>“I cannot accept the AUTHENTICITY of this coin until I have it examined by an expert.” </p><p>AUTHENTIC is often confused with <i class=“def-ital\">old</i>. Something that is brand new can be AUTHENTIC, however, if it is genuine or true. </p><p>Other forms of the word: AUTHENTICITY, n.</p>"
+    },
+    "FRANK": {
+      "word": "FRANK",
+      "phonetic": "(frangk)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">open, sincere, outspoken, candid, undisguised </p><p>Someone who is FRANK speaks openly about what is on his mind; he doesn’t hide or disguise his opinions or feelings out of shyness or politeness. </p><p>“He was very FRANK in his opinion of my intelligence: he told me I was a total moron.” </p><p>FRANK can also be used about the opinions or statements of someone who is FRANK. </p><p>“He made a FRANK confession about why he had really come.” </p><p>“Her FRANK criticism was exactly what I needed.” </p><p>The most commonly chosen incorrect answer on the Pretest is <i class=“def-ital\">good</i>, probably because FRANKNESS is usually thought to be a good quality.</p>"
+    },
+    "CHAMBER": {
+      "word": "CHAMBER",
+      "phonetic": "(chAm'-bÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a room; an enclosed space </p><p>A CHAMBER is a <i class=“def-ital\">room</i>, particularly a private room or a bedroom in a house. </p><p>“The judge has a special CHAMBER next to the courtroom where he can have private discussions with people.” </p><p>“The queen went to her private CHAMBER up near the top of the castle.” </p><p>CHAMBER is also used about any kind of small enclosed space. A part of a gun is a small CHAMBER that holds the bullet to be fired. </p><p>Usage: CHAMBER is a rather formal word, and would not often be used in everyday speech.</p>"
+    },
+    "EMBRACE": {
+      "word": "EMBRACE",
+      "phonetic": "(em-brAs'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to hug, to make use of, come to believe in </p><p>To EMBRACE a person is to take him or her into your arms, usually to show your friendship or love. EMBRACE can be either a verb or a noun. </p><p>“We EMBRACED eagerly.” </p><p>“They held each other in a long EMBRACE.” </p><p>EMBRACE is also used in a wider sense, meaning “to take or accept eagerly,” as if it were a loved one you were EMBRACING. To EMBRACE an opportunity is to welcome it and make use of it immediately. To EMBRACE a cause is to believe wholeheartedly in it. </p><p>“Many scientists immediately EMBRACED the new theory.”</p>"
+    },
+    "JUVENILE": {
+      "word": "JUVENILE",
+      "phonetic": "(jU'-vÔøΩnll",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a young person, a youth </p><p>A JUVENILE is a young person. </p><p>“As a JUVENILE, he had to work every bit as hard as he did when he grew up.” </p><p>“The three JUVENILES were sent home and told to obey their parents.” </p><p>As an adjective, JUVENILE is often used in a bad sense to mean <i class=“def-ital\">immature</i>, <i class=“def-ital\">childish</i>. </p><p>“We thought his silly practical jokes were rather JUVENILE.” </p><p>Many people pick <i class=“def-ital\">criminal</i> as the meaning of JUVENILE. This is probably because JUVENILE is often used in the phrase “JUVENILE delinquent.” A “JUVENILE delinquent” is a young person who breaks the law and cannot be controlled by his or her parents. Only a few JUVENILES are “JUVENILE delinquents,” however.</p>"
+    },
+    "HANDILY": {
+      "word": "HANDILY",
+      "phonetic": "(han'-dÔøΩIE)",
+      "pos": "adv.",
+      "deftext": "<p class=\"definition\">easily, expertly </p><p>HANDILY comes from the word HANDY. Someone who is HANDY is clever in using his hands. </p><p>“He is very HANDY at fixing things around the house.” </p><p>HANDILY means “with little trouble,” <i class=“def-ital\">easily</i>. It is used about anything that happens or is done with no difficulty, not just things that require using your hands. </p><p>“In spite of falling down at the beginning of the race, he came back to win HANDILY.” </p><p>“She passed her final exams HANDILY.” </p><p>Other forms of the word: HANDY, adj.</p>"
+    }
+  },
+  "id": "9",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "FOOLHARDY youths.",
+          "answers": [
+            "careful",
+            "reckless",
+            "strong",
+            "tricky",
+            "brave"
+          ],
+          "word": "FOOLHARDY",
+          "correct": "reckless"
+        },
+        {
+          "prompt": "We shall ALTER it.",
+          "answers": [
+            "stop",
+            "keep",
+            "change",
+            "start",
+            "increase"
+          ],
+          "word": "ALTER",
+          "correct": "change"
+        },
+        {
+          "prompt": "Another CONCEPT.",
+          "answers": [
+            "feeling",
+            "decision",
+            "mistake",
+            "choice",
+            "idea"
+          ],
+          "word": "CONCEPT",
+          "correct": "idea"
+        },
+        {
+          "prompt": "PERSISTENT efforts.",
+          "answers": [
+            "lasting",
+            "occasional",
+            "successful",
+            "useless",
+            "necessary"
+          ],
+          "word": "PERSISTENT",
+          "correct": "lasting"
+        },
+        {
+          "prompt": "DOMESTIC life.",
+          "answers": [
+            "real",
+            "foreign",
+            "exciting",
+            "animal",
+            "home"
+          ],
+          "word": "DOMESTIC",
+          "correct": "home"
+        },
+        {
+          "prompt": "PATHETIC children.",
+          "answers": [
+            "tiny",
+            "admirable",
+            "friendly",
+            "pitiful",
+            "lonely"
+          ],
+          "word": "PATHETIC",
+          "correct": "pitiful"
+        },
+        {
+          "prompt": "The door was AJAR.",
+          "answers": [
+            "partly open",
+            "locked",
+            "boarded up",
+            "huge",
+            "swinging"
+          ],
+          "word": "AJAR",
+          "correct": "partly open"
+        },
+        {
+          "prompt": "A different PIGMENT.",
+          "answers": [
+            "soap",
+            "design",
+            "fairytale",
+            "layer",
+            "coloring"
+          ],
+          "word": "PIGMENT",
+          "correct": "coloring"
+        },
+        {
+          "prompt": "Too RIGID.",
+          "answers": [
+            "soft",
+            "heavy",
+            "cold",
+            "stiff",
+            "quick"
+          ],
+          "word": "RIGID",
+          "correct": "stiff"
+        },
+        {
+          "prompt": "They were AUTHENTIC.",
+          "answers": [
+            "old",
+            "real",
+            "huge",
+            "fake",
+            "excellent"
+          ],
+          "word": "AUTHENTIC",
+          "correct": "real"
+        },
+        {
+          "prompt": "FRANK statements.",
+          "answers": [
+            "loud",
+            "secret",
+            "awful",
+            "open",
+            "good"
+          ],
+          "word": "FRANK",
+          "correct": "open"
+        },
+        {
+          "prompt": "The empty CHAMBER.",
+          "answers": [
+            "prison",
+            "garden",
+            "room",
+            "barrel",
+            "hallway"
+          ],
+          "word": "CHAMBER",
+          "correct": "room"
+        },
+        {
+          "prompt": "We EMBRACED.",
+          "answers": [
+            "hugged",
+            "wept",
+            "stood still",
+            "kissed",
+            "held hands"
+          ],
+          "word": "EMBRACE",
+          "correct": "hugged"
+        },
+        {
+          "prompt": "Another JUVENILE.",
+          "answers": [
+            "student",
+            "criminal",
+            "youth",
+            "assistant",
+            "actor"
+          ],
+          "word": "JUVENILE",
+          "correct": "youth"
+        },
+        {
+          "prompt": "They beat us HANDILY.",
+          "answers": [
+            "easily",
+            "with difficulty",
+            "with help",
+            "by luck",
+            "fairly"
+          ],
+          "word": "HANDILY",
+          "correct": "easily"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is it usually FOOLHARDY to attack someone who is pointing a gun at you?",
+          "word": "FOOLHARDY",
+          "correct": "true"
+        },
+        {
+          "prompt": "When something is ALTERED, it is always better?",
+          "word": "ALTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are CONCEPTS always true?",
+          "word": "CONCEPT",
+          "correct": "false"
+        },
+        {
+          "prompt": "If a person spends two hours trying to open a stuck window, is he being PERSISTENT?",
+          "word": "PERSISTENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would DOMESTIC cigars have to be brought into the country?",
+          "word": "DOMESTIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a PATHETIC sight make a person cry?",
+          "word": "PATHETIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can something get in through a door that is AJAR?",
+          "word": "AJAR",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do artists use PIGMENTS?",
+          "word": "PIGMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is wool RIGID?",
+          "word": "RIGID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can something new have any AUTHENTICITY?",
+          "word": "AUTHENTIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a liar FRANK?",
+          "word": "FRANK",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a CHAMBERMAID be a maid who cleans bedrooms?",
+          "word": "CHAMBER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people who are in love like to EMBRACE?",
+          "word": "EMBRACE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most JUVENILES go to school?",
+          "word": "JUVENILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "If a football team won by sixty points, did it win HANDILY?",
+          "word": "HANDILY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "This new lock is FOOLHARDY; I guarantee it will never fail.",
+          "word": "FOOLHARDY",
+          "correct": "false"
+        },
+        {
+          "prompt": "We shouldn't ALTER the arrangement of furniture in the room.",
+          "word": "ALTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Long ago scientists disproved the popular CONCEPT that Earth was the center of the universe.",
+          "word": "CONCEPT",
+          "correct": "true"
+        },
+        {
+          "prompt": "If you PERSIST in making noise you won't get any dessert tonight.",
+          "word": "PERSISTENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Although he was always getting into trouble at work, his DOMESTIC life was calm and peaceful.",
+          "word": "DOMESTIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "The boy started crying PATHETICALLY when he realized he was lost.",
+          "word": "PATHETIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "We locked the doors and made sure they were completely AJAR.",
+          "word": "AJAR",
+          "correct": "false"
+        },
+        {
+          "prompt": "He wanted to get a darker blue, so he used a different PIGMENT.",
+          "word": "PIGMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "They put steel rods into the pole to keep it RIGID.",
+          "word": "RIGID",
+          "correct": "true"
+        },
+        {
+          "prompt": "We tried to be AUTHENTIC about his mistake, but we were just too upset by it.",
+          "word": "AUTHENTIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Their FRANK admiration of his work made him feel good.",
+          "word": "FRANK",
+          "correct": "true"
+        },
+        {
+          "prompt": "They held their meetings in a large CHAMBER on the second floor.",
+          "word": "CHAMBER",
+          "correct": "true"
+        },
+        {
+          "prompt": "They EMBRACED her by telling her everything was going to be all right.",
+          "word": "EMBRACE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Although my father is almost fifty, he's still pretty JUVENILE in some ways.",
+          "word": "JUVENILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The lamp fell off the shelf and broke HANDILY on the floor.",
+          "word": "HANDILY",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "FOOLHARDY",
+          "answers": [
+            "daring",
+            "intelligent",
+            "foolish"
+          ],
+          "word": "FOOLHARDY",
+          "correct": "1"
+        },
+        {
+          "prompt": "ALTER",
+          "answers": [
+            "adjust",
+            "change",
+            "oppose"
+          ],
+          "word": "ALTER",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONCEPT",
+          "answers": [
+            "belief",
+            "memory",
+            "theory"
+          ],
+          "word": "CONCEPT",
+          "correct": "1"
+        },
+        {
+          "prompt": "PERSISTENT",
+          "answers": [
+            "stubborn",
+            "eager",
+            "constant"
+          ],
+          "word": "PERSISTENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "DOMESTIC",
+          "answers": [
+            "common",
+            "native",
+            "family"
+          ],
+          "word": "DOMESTIC",
+          "correct": "0"
+        },
+        {
+          "prompt": "PATHETIC",
+          "answers": [
+            "awful",
+            "weird",
+            "sad"
+          ],
+          "word": "PATHETIC",
+          "correct": "1"
+        },
+        {
+          "prompt": "AJAR",
+          "answers": [
+            "open",
+            "unclosed",
+            "shut"
+          ],
+          "word": "AJAR",
+          "correct": "2"
+        },
+        {
+          "prompt": "PIGMENT",
+          "answers": [
+            "brush",
+            "color",
+            "paint"
+          ],
+          "word": "PIGMENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "RIGID",
+          "answers": [
+            "unpleasant",
+            "firm",
+            "strict"
+          ],
+          "word": "RIGID",
+          "correct": "0"
+        },
+        {
+          "prompt": "AUTHENTIC",
+          "answers": [
+            "true",
+            "original",
+            "huge"
+          ],
+          "word": "AUTHENTIC",
+          "correct": "2"
+        },
+        {
+          "prompt": "FRANK",
+          "answers": [
+            "direct",
+            "faithful",
+            "sincere"
+          ],
+          "word": "FRANK",
+          "correct": "1"
+        },
+        {
+          "prompt": "CHAMBER",
+          "answers": [
+            "bedroom",
+            "study",
+            "yard"
+          ],
+          "word": "CHAMBER",
+          "correct": "2"
+        },
+        {
+          "prompt": "EMBRACE",
+          "answers": [
+            "destroy",
+            "hug",
+            "accept"
+          ],
+          "word": "EMBRACE",
+          "correct": "0"
+        },
+        {
+          "prompt": "JUVENILE",
+          "answers": [
+            "young",
+            "stupid",
+            "childish"
+          ],
+          "word": "JUVENILE",
+          "correct": "1"
+        },
+        {
+          "prompt": "HANDILY",
+          "answers": [
+            "expertly",
+            "nearly",
+            "easily"
+          ],
+          "word": "HANDILY",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}
