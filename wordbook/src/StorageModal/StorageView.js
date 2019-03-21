@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
+// TODO: design storage view
+
 export default class StorageView extends Component {
   render () {
     const { level, section, wordset, exercise } = this.props;
@@ -13,17 +15,21 @@ export default class StorageView extends Component {
       <React.Fragment>
         {
           !this.props.useStorage &&
-            <div>
-              <label htmlFor='enable-storage'>Enable storage?</label>
-              <input type='checkbox' id='enable-storage' onChange={this.props.enableStorage} />
-            </div>
+            <section className='card'>
+              <div className='card-body p-2'>
+                <label htmlFor='enable-storage'>Would you like the option to save your progress?</label>
+                <input type='checkbox' id='enable-storage' onChange={this.props.enableStorage} />
+              </div>
+            </section>
         }
         {
           this.props.useStorage &&
-            <div>
-              <button onClick={this.props.saveProgress}>Save progress</button>
-              <Link to={prevSessionUrl}>Restore previous session</Link>
-            </div>
+            <section className='card d-flex'>
+              <div className='card-body p-0'>
+                <button onClick={this.props.saveProgress} class='btn btn-secondary m-2'>Save progress</button>
+                <Link to={prevSessionUrl} class='btn btn-secondary m-2'>Restore saved session</Link>
+              </div>
+            </section>
         }
       </React.Fragment>
     );
