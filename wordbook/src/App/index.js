@@ -11,12 +11,17 @@ export default class App extends Component {
     super(props);
     this.setStorageState = this.setStorageState.bind(this);
     this.state = {
+      declinedStorage: false,
       useStorage: false
     };
   }
 
-  setStorageState () {
-    this.setState({ useStorage: true });
+  setStorageState (bool) {
+    if (bool) {
+      this.setState({ useStorage: true });
+    } else {
+      this.setState({ declinedStorage: true });
+    }
   }
 
   render () {
@@ -43,6 +48,7 @@ export default class App extends Component {
         <Route exact path='/' component={Home} />
         <Route path='/placement' component={PlacementPage} />
         <Route path='/learning' render={() => <LearningPage
+          declinedStorage={this.state.declinedStorage}
           setStorageState={this.setStorageState}
           useStorage={this.state.useStorage}
         />} />

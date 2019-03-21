@@ -18,7 +18,10 @@ export default class StorageView extends Component {
             <section className='card'>
               <div className='card-body p-2'>
                 <label htmlFor='enable-storage'>Would you like the option to save your progress?</label>
-                <input type='checkbox' id='enable-storage' onChange={this.props.enableStorage} />
+                <div className='btn-group' role='group' aria-label='Save progress'>
+                  <button type='button' className='btn btn-orange' onClick={this.props.enableStorage}>Yes</button>
+                  <button type='button' className='btn btn-orange' onClick={this.props.declineStorage}>No</button>
+                </div>
               </div>
             </section>
         }
@@ -26,8 +29,8 @@ export default class StorageView extends Component {
           this.props.useStorage &&
             <section className='card d-flex'>
               <div className='card-body p-0'>
-                <button onClick={this.props.saveProgress} class='btn btn-secondary m-2'>Save progress</button>
-                <Link to={prevSessionUrl} class='btn btn-secondary m-2'>Restore saved session</Link>
+                <button onClick={this.props.saveProgress} className='btn btn-secondary m-2'>Save progress</button>
+                <Link to={prevSessionUrl} className='btn btn-secondary m-2'>Restore saved session</Link>
               </div>
             </section>
         }

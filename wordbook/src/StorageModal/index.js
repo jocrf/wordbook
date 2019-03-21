@@ -7,6 +7,7 @@ export default class StorageModal extends Component {
   constructor (props) {
     super(props);
     this.checkForProgress = this.checkForProgress.bind(this);
+    this.declineStorage = this.declineStorage.bind(this);
     this.enableStorage = this.enableStorage.bind(this);
     this.saveProgress = this.saveProgress.bind(this);
     this.setMessage = this.setMessage.bind(this);
@@ -22,7 +23,7 @@ export default class StorageModal extends Component {
       // have they have already agreed to use storage?
       if (this.localStorage.getItem('usingStorage')) {
         // if so, let the App know we are using storage
-        this.props.setStorageState();
+        this.props.setStorageState(true);
         // and pop up a continue modal with last level
       } else {
         // if not, pop up a modal to ask if they want to use storage
@@ -41,9 +42,15 @@ export default class StorageModal extends Component {
     return current === stored;
   }
 
+  declineStorage () {
+    console.log('declined');
+    this.localStorage.setItem('storageDeclined', true);
+    this.props.setStorageState(false);
+  }
+
   enableStorage () {
     this.localStorage.setItem('usingStorage', true);
-    this.props.setStorageState();
+    this.props.setStorageState(true);
   }
 
   saveProgress () {
@@ -90,19 +97,25 @@ export default class StorageModal extends Component {
   render () {
     return (
       <React.Fragment>
-        <StorageView
-          useStorage={this.props.useStorage}
-          enableStorage={this.enableStorage}
-          enableChange={this.enableChange}
-          saveProgress={this.saveProgress}
-          level={this.localStorage.getItem('level')}
-          section={this.localStorage.getItem('section')}
-          wordset={this.localStorage.getItem('wordset')}
-          exercise={this.localStorage.getItem('exercise')}
-        />
         {
-          this.state.undefinedType &&
-          <UndefinedMessage unsetMessage={this.unsetMessage} />
+          !this.props.declinedStorage &&
+            <React.Fragment>
+              <StorageView
+                declineStorage={this.declineStorage}
+                useStorage={this.props.useStorage}
+                enableStorage={this.enableStorage}
+                enableChange={this.enableChange}
+                saveProgress={this.saveProgress}
+                level={this.localStorage.getItem('level')}
+                section={this.localStorage.getItem('section')}
+                wordset={this.localStorage.getItem('wordset')}
+                exercise={this.localStorage.getItem('exercise')}
+              />
+              {
+                this.state.undefinedType &&
+                <UndefinedMessage unsetMessage={this.unsetMessage} />
+              }
+            </React.Fragment>
         }
       </React.Fragment>
     );

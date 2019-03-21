@@ -29,6 +29,7 @@ export default class LearningPage extends Component {
           exercise={match.params.exercise}
           setStorageState={this.props.setStorageState}
           useStorage={this.props.useStorage}
+          declinedStorage={this.props.declinedStorage}
         />}
         />
         <Route exact path='/learning/:fixType' render={({ match }) => <FixList
