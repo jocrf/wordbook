@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { storageAvailable } from '../API';
 import StorageView from './StorageView';
-import UndefinedMessage from './UndefinedMessage';
+import Message from './Message';
 
 export default class StorageModal extends Component {
   constructor (props) {
@@ -12,9 +12,12 @@ export default class StorageModal extends Component {
     this.saveProgress = this.saveProgress.bind(this);
     this.setMessage = this.setMessage.bind(this);
     this.unsetMessage = this.unsetMessage.bind(this);
+    this.displayUpdate = this.displayUpdate.bind(this);
+    this.closeUpdate = this.closeUpdate.bind(this);
     this.localStorage = window.localStorage;
     this.state = {
       progressSaved: false,
+      progressUpdated: false,
       undefinedType: false
     };
   }
@@ -34,9 +37,7 @@ export default class StorageModal extends Component {
   }
 
   componentDidUpdate (prevProps, prevState) {
-    console.log('updating');
     // if we haven't saved progress
-    console.log(prevState.progressSaved);
     if (!prevState.progressSaved) {
       // check if there is data in storage
       if (this.localStorage.getItem('exercise')) {
@@ -57,7 +58,6 @@ export default class StorageModal extends Component {
   }
 
   declineStorage () {
-    console.log('declined');
     this.localStorage.setItem('storageDeclined', true);
     this.props.setStorageState(false);
   }
@@ -95,6 +95,7 @@ export default class StorageModal extends Component {
             console.log('unexpected type ' + type);
         }
       });
+      this.displayUpdate();
     }
   }
 
@@ -106,6 +107,14 @@ export default class StorageModal extends Component {
 
   unsetMessage () {
     this.setState({ undefinedType: false });
+  }
+
+  displayUpdate () {
+    this.setState({ progressUpdated: true });
+  }
+
+  closeUpdate () {
+    this.setState({ progressUpdated: false });
   }
 
   render () {
@@ -128,7 +137,17 @@ export default class StorageModal extends Component {
               />
               {
                 this.state.undefinedType &&
-                <UndefinedMessage unsetMessage={this.unsetMessage} />
+                <Message
+                  buttonMethod={this.unsetMessage}
+                  messageText='Progress cannot be saved unless you are currently in an exercise.'
+                />
+              }
+              {
+                this.state.progressUpdated &&
+                <Message
+                  buttonMethod={this.closeUpdate}
+                  messageText='Progress saved.'
+                />
               }
             </React.Fragment>
         }
