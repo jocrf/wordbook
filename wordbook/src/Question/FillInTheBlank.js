@@ -12,7 +12,7 @@ export default class FillInTheBlank extends Component {
           wordlist={wordlist}
           isCorrect={isCorrect}
           onChange={onChange}
-          prompt={part1}
+          prompt={this.props.reviewPrompt}
           correctAnswer={correctAnswer}
           value={this.props.value}
           showAnswers={this.props.showAnswers}

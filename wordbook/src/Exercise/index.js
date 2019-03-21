@@ -91,6 +91,7 @@ export default class Exercise extends Component {
   }
   renderQuestion (question, type) {
     let showWord = this.state.showAnswers && !this.props.placement && type === 'mc-one';
+    let reviewPrompt = question.part1 + ' ' + question.part2;
     return (
       <React.Fragment key={question.prompt + question.answer}>
         <Question
@@ -99,12 +100,13 @@ export default class Exercise extends Component {
           part2={question.part2}
           wordlist={this.props.wordlist}
           prompt={question.prompt}
+          reviewPrompt={reviewPrompt}
           options={question.answers}
           correctAnswer={type === 'mc-all' ? question.answers[question.correct] : question.correct}
           onChange={this.changeHandler}
           placement={this.props.placement}
           markWrongAnswers={this.props.markWrongAnswers} // for placement
-          value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[question.part1]}
+          value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[reviewPrompt]}
           showAnswers={this.state.showAnswers}
           word={question.word}
           definition={this.props.definitions ? this.props.definitions[question.word] : null}
