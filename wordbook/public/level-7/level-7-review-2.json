@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
-      "word": "AMITY",
-      "answer": "amity"
-    },
-    {
-      "word": "INIMITABLE",
-      "answer": "inimitable"
-    },
-    {
-      "word": "OBDURATE",
-      "answer": "obdurate"
-    },
-    {
-      "word": "PROVISO",
-      "answer": "proviso"
-    },
-    {
-      "word": "TRAVAIL",
-      "answer": "travail"
-    },
-    {
-      "word": "AUSPICIOUS",
-      "answer": "auspicious"
-    },
-    {
-      "word": "INVIOLATE",
-      "answer": "inviolate"
-    },
-    {
-      "word": "PARITY",
-      "answer": "parity"
-    },
-    {
-      "word": "SHIFTLESS",
-      "answer": "shiftless"
-    },
-    {
-      "word": "TRUNCATE",
-      "answer": "truncate"
-    },
-    {
-      "word": "DISCERN",
-      "answer": "discern"
-    },
-    {
-      "word": "JOCOSE",
-      "answer": "jocose"
-    },
-    {
-      "word": "PARRY",
-      "answer": "parry"
-    },
-    {
-      "word": "SURREPTITIOUS",
-      "answer": "surreptitious"
-    },
-    {
-      "word": "UPBRAID",
-      "answer": "upbraided"
-    },
-    {
-      "word": "GIBE",
-      "answer": "gibed"
-    },
-    {
-      "word": "MELLIFLUOUS",
-      "answer": "mellifluous"
-    },
-    {
-      "word": "PAUCITY",
-      "answer": "paucity"
-    },
-    {
-      "word": "TRANSGRESS",
-      "answer": "transgressed"
-    },
-    {
-      "word": "VEX",
-      "answer": "vexed"
-    },
-    {
-      "word": "GUILE",
-      "answer": "guile"
-    },
-    {
       "word": "ABSTEMIOUS",
       "answer": "abstemious"
-    },
-    {
-      "word": "COMMISERATE",
-      "answer": "commiserated"
-    },
-    {
-      "word": "FORBEARANCE",
-      "answer": "forbearance"
-    },
-    {
-      "word": "LUMINARY",
-      "answer": "luminaries"
-    },
-    {
-      "word": "REMISS",
-      "answer": "remiss"
     },
     {
       "word": "AFICIONADO",
       "answer": "aficianado"
     },
     {
-      "word": "DEBASE",
-      "answer": "debase"
-    },
-    {
-      "word": "GERMANE",
-      "answer": "germane"
-    },
-    {
-      "word": "PANACHE",
-      "answer": "panache"
-    },
-    {
-      "word": "STIGMA",
-      "answer": "stigma"
+      "word": "AMITY",
+      "answer": "amity"
     },
     {
       "word": "ASCRIBE",
       "answer": "ascribe"
     },
     {
-      "word": "DISPARATE",
-      "answer": "disparate"
-    },
-    {
-      "word": "GLOWER",
-      "answer": "glowered"
-    },
-    {
-      "word": "PECUNIARY",
-      "answer": "pecuniary"
-    },
-    {
-      "word": "VAPID",
-      "answer": "vapid"
+      "word": "AUSPICIOUS",
+      "answer": "auspicious"
     },
     {
       "word": "BURGEON",
       "answer": "burgeon"
     },
     {
-      "word": "DISTEND",
-      "answer": "distended"
-    },
-    {
-      "word": "INTIMATION",
-      "answer": "intimation"
-    },
-    {
-      "word": "PONDEROUS",
-      "answer": "ponderous"
-    },
-    {
-      "word": "WAN",
-      "answer": "wan"
-    },
-    {
       "word": "CEDE",
       "answer": "cede"
+    },
+    {
+      "word": "COMMISERATE",
+      "answer": "commiserated"
+    },
+    {
+      "word": "DEBASE",
+      "answer": "debase"
+    },
+    {
+      "word": "DISCERN",
+      "answer": "discern"
+    },
+    {
+      "word": "DISPARATE",
+      "answer": "disparate"
+    },
+    {
+      "word": "DISTEND",
+      "answer": "distended"
     },
     {
       "word": "FOMENT",
       "answer": "foment"
     },
     {
+      "word": "FORBEARANCE",
+      "answer": "forbearance"
+    },
+    {
+      "word": "GERMANE",
+      "answer": "germane"
+    },
+    {
+      "word": "GIBE",
+      "answer": "gibed"
+    },
+    {
+      "word": "GLOWER",
+      "answer": "glowered"
+    },
+    {
+      "word": "GUILE",
+      "answer": "guile"
+    },
+    {
+      "word": "INIMITABLE",
+      "answer": "inimitable"
+    },
+    {
+      "word": "INTIMATION",
+      "answer": "intimation"
+    },
+    {
+      "word": "INVIOLATE",
+      "answer": "inviolate"
+    },
+    {
       "word": "ITINERANT",
       "answer": "itinerant"
     },
     {
+      "word": "JOCOSE",
+      "answer": "jocose"
+    },
+    {
+      "word": "LUMINARY",
+      "answer": "luminaries"
+    },
+    {
+      "word": "MELLIFLUOUS",
+      "answer": "mellifluous"
+    },
+    {
+      "word": "OBDURATE",
+      "answer": "obdurate"
+    },
+    {
+      "word": "PANACHE",
+      "answer": "panache"
+    },
+    {
+      "word": "PARITY",
+      "answer": "parity"
+    },
+    {
+      "word": "PARRY",
+      "answer": "parry"
+    },
+    {
+      "word": "PAUCITY",
+      "answer": "paucity"
+    },
+    {
+      "word": "PECUNIARY",
+      "answer": "pecuniary"
+    },
+    {
+      "word": "PONDEROUS",
+      "answer": "ponderous"
+    },
+    {
+      "word": "PROVISO",
+      "answer": "proviso"
+    },
+    {
       "word": "PUGNACIOUS",
       "answer": "pugnacious"
+    },
+    {
+      "word": "REMISS",
+      "answer": "remiss"
+    },
+    {
+      "word": "SHIFTLESS",
+      "answer": "shiftless"
+    },
+    {
+      "word": "STIGMA",
+      "answer": "stigma"
+    },
+    {
+      "word": "SURREPTITIOUS",
+      "answer": "surreptitious"
+    },
+    {
+      "word": "TRANSGRESS",
+      "answer": "transgressed"
+    },
+    {
+      "word": "TRAVAIL",
+      "answer": "travail"
+    },
+    {
+      "word": "TRUNCATE",
+      "answer": "truncate"
+    },
+    {
+      "word": "UPBRAID",
+      "answer": "upbraided"
+    },
+    {
+      "word": "VAPID",
+      "answer": "vapid"
+    },
+    {
+      "word": "VEX",
+      "answer": "vexed"
+    },
+    {
+      "word": "WAN",
+      "answer": "wan"
     }
   ],
   "questions": [

@@ -1,180 +1,180 @@
 {
   "wordList": [
     {
-      "word": "BAUBLE",
-      "answer": "bauble"
-    },
-    {
-      "word": "DELUGE",
-      "answer": "deluge"
-    },
-    {
-      "word": "INSURRECTION",
-      "answer": "insurrections"
-    },
-    {
-      "word": "MUSE",
-      "answer": "muse"
-    },
-    {
-      "word": "SAGE",
-      "answer": "sage"
-    },
-    {
-      "word": "BERATE",
-      "answer": "berated"
-    },
-    {
-      "word": "GIRTH",
-      "answer": "girth"
-    },
-    {
-      "word": "MALEFACTOR",
-      "answer": "malefactor"
-    },
-    {
-      "word": "PARAPHERNALIA",
-      "answer": "paraphernalia"
-    },
-    {
-      "word": "VANQUISH",
-      "answer": "vanquish"
-    },
-    {
-      "word": "BREVITY",
-      "answer": "brevity"
-    },
-    {
-      "word": "IMPASSIVE",
-      "answer": "impassive"
-    },
-    {
-      "word": "MEMOIRS",
-      "answer": "memoirs"
-    },
-    {
-      "word": "RECTIFY",
-      "answer": "rectify"
-    },
-    {
-      "word": "VENDETTA",
-      "answer": "vendetta"
-    },
-    {
-      "word": "DELETE",
-      "answer": "deleted"
-    },
-    {
-      "word": "INSUBORDINATE",
-      "answer": "insurrections"
-    },
-    {
-      "word": "MIRTH",
-      "answer": "mirth"
-    },
-    {
-      "word": "REPROACH",
-      "answer": "reprehensible"
-    },
-    {
-      "word": "VIABLE",
-      "answer": "viable"
-    },
-    {
       "word": "ASSENT",
       "answer": "assented"
-    },
-    {
-      "word": "DESPOT",
-      "answer": "despot"
-    },
-    {
-      "word": "GENTEEL",
-      "answer": "genteel"
-    },
-    {
-      "word": "RABBLE",
-      "answer": "rabble"
-    },
-    {
-      "word": "SOLACE",
-      "answer": "solace"
     },
     {
       "word": "ATTAIN",
       "answer": "attain"
     },
     {
-      "word": "EDIFYING",
-      "answer": "edifying"
-    },
-    {
-      "word": "INDULGE",
-      "answer": "indulged"
-    },
-    {
-      "word": "REBUKE",
-      "answer": "rebuked"
-    },
-    {
-      "word": "SMUG",
-      "answer": "smug"
+      "word": "BAUBLE",
+      "answer": "bauble"
     },
     {
       "word": "BEDEVIL",
       "answer": "bedeviled"
     },
     {
-      "word": "ENVOY",
-      "answer": "envoy"
+      "word": "BERATE",
+      "answer": "berated"
     },
     {
-      "word": "INTERJECTION",
-      "answer": "interjections"
-    },
-    {
-      "word": "RECOMPENSE",
-      "answer": "recompense"
-    },
-    {
-      "word": "SURMISE",
-      "answer": "surmise"
+      "word": "BREVITY",
+      "answer": "brevity"
     },
     {
       "word": "COALESCE",
       "answer": "coalesced"
     },
     {
-      "word": "FARCICAL",
-      "answer": "farcical"
-    },
-    {
-      "word": "LISTLESS",
-      "answer": "listless"
-    },
-    {
-      "word": "REPERCUSSION",
-      "answer": "repercussions"
-    },
-    {
-      "word": "TINGE",
-      "answer": "tinge"
-    },
-    {
       "word": "CONSENSUS",
       "answer": "consensus"
+    },
+    {
+      "word": "DELETE",
+      "answer": "deleted"
+    },
+    {
+      "word": "DELUGE",
+      "answer": "deluge"
+    },
+    {
+      "word": "DESPOT",
+      "answer": "despot"
+    },
+    {
+      "word": "EDIFYING",
+      "answer": "edifying"
+    },
+    {
+      "word": "ENVOY",
+      "answer": "envoy"
+    },
+    {
+      "word": "FARCICAL",
+      "answer": "farcical"
     },
     {
       "word": "FISSURE",
       "answer": "fissure"
     },
     {
+      "word": "GENTEEL",
+      "answer": "genteel"
+    },
+    {
+      "word": "GIRTH",
+      "answer": "girth"
+    },
+    {
+      "word": "IMPASSIVE",
+      "answer": "impassive"
+    },
+    {
+      "word": "INDULGE",
+      "answer": "indulged"
+    },
+    {
+      "word": "INSUBORDINATE",
+      "answer": "insubordinate"
+    },
+    {
+      "word": "INSURRECTION",
+      "answer": "insurrections"
+    },
+    {
+      "word": "INTERJECTION",
+      "answer": "interjections"
+    },
+    {
+      "word": "LISTLESS",
+      "answer": "listless"
+    },
+    {
+      "word": "MALEFACTOR",
+      "answer": "malefactor"
+    },
+    {
+      "word": "MEMOIRS",
+      "answer": "memoirs"
+    },
+    {
+      "word": "MIRTH",
+      "answer": "mirth"
+    },
+    {
+      "word": "MUSE",
+      "answer": "muse"
+    },
+    {
       "word": "NEGLIGIBLE",
       "answer": "negligible"
     },
     {
+      "word": "PARAPHERNALIA",
+      "answer": "paraphernalia"
+    },
+    {
+      "word": "RABBLE",
+      "answer": "rabble"
+    },
+    {
+      "word": "REBUKE",
+      "answer": "rebuked"
+    },
+    {
+      "word": "RECOMPENSE",
+      "answer": "recompense"
+    },
+    {
+      "word": "RECTIFY",
+      "answer": "rectify"
+    },
+    {
+      "word": "REPERCUSSION",
+      "answer": "repercussions"
+    },
+    {
       "word": "REPREHENSIBLE",
       "answer": "reprehensible"
+    },
+    {
+      "word": "REPROACH",
+      "answer": "reproached"
+    },
+    {
+      "word": "SAGE",
+      "answer": "sage"
+    },
+    {
+      "word": "SMUG",
+      "answer": "smug"
+    },
+    {
+      "word": "SOLACE",
+      "answer": "solace"
+    },
+    {
+      "word": "SURMISE",
+      "answer": "surmise"
+    },
+    {
+      "word": "TINGE",
+      "answer": "tinge"
+    },
+    {
+      "word": "VANQUISH",
+      "answer": "vanquish"
+    },
+    {
+      "word": "VENDETTA",
+      "answer": "vendetta"
+    },
+    {
+      "word": "VIABLE",
+      "answer": "viable"
     },
     {
       "word": "VINDICTIVE",
@@ -192,7 +192,7 @@
       "part1": "The clerk looked very sad and",
       "part2": "the little boy for trying to steal the candy.",
       "correct": "reproached",
-      "word": "REPREHENSIBLE"
+      "word": "REPROACH"
     },
     {
       "part1": "Because of the huge size of our army we were able to",
@@ -270,7 +270,7 @@
       "part1": "The king had to put down several minor",
       "part2": "by groups who opposed him.",
       "correct": "insurrections",
-      "word": "INSUBORDINATE"
+      "word": "INSURRECTION"
     },
     {
       "part1": "The editor said the book was too long, so he shortened some chapters and",

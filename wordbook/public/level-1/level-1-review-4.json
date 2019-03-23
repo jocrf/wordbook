@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
+      "word": "ABOLISH",
+      "answer": "abolished"
+    },
+    {
       "word": "ASSASSIN",
-      "answer": "assault"
-    },
-    {
-      "word": "CONFIDENT",
-      "answer": "confident"
-    },
-    {
-      "word": "ENCOURAGE",
-      "answer": "encounter"
-    },
-    {
-      "word": "GRIEF",
-      "answer": "grief"
-    },
-    {
-      "word": "LAG",
-      "answer": "lag"
+      "answer": "assassin"
     },
     {
       "word": "ASSAULT",
       "answer": "assault"
     },
     {
-      "word": "DECEASED",
-      "answer": "deceased"
-    },
-    {
-      "word": "EXPENSE",
-      "answer": "expedition"
-    },
-    {
-      "word": "HEX",
-      "answer": "hex"
-    },
-    {
-      "word": "NAVIGATE",
-      "answer": "navigate"
-    },
-    {
       "word": "AUTHORITY",
       "answer": "authority"
-    },
-    {
-      "word": "DEVOTION",
-      "answer": "devotion"
-    },
-    {
-      "word": "FATAL",
-      "answer": "fatal"
-    },
-    {
-      "word": "HOBBLE",
-      "answer": "hobble"
-    },
-    {
-      "word": "RESIST",
-      "answer": "resisted"
     },
     {
       "word": "BAWL",
       "answer": "bawl"
     },
     {
-      "word": "DOZE",
-      "answer": "dozed"
-    },
-    {
-      "word": "GNARLED",
-      "answer": "gnarled"
-    },
-    {
-      "word": "IMPOSTOR",
-      "answer": "impostors"
-    },
-    {
-      "word": "SHRIEK",
-      "answer": "shrieked"
-    },
-    {
-      "word": "CIRCUMSTANCE",
-      "answer": "circulated"
-    },
-    {
-      "word": "ABOLISH",
-      "answer": "abolished"
-    },
-    {
-      "word": "ELEMENTARY",
-      "answer": "elementary"
-    },
-    {
-      "word": "FAINT",
-      "answer": "faint"
-    },
-    {
-      "word": "HOMICIDE",
-      "answer": "homicide"
-    },
-    {
-      "word": "MOOD",
-      "answer": "mood"
-    },
-    {
       "word": "CIRCULATE",
       "answer": "circulated"
     },
     {
-      "word": "ENCOUNTER",
-      "answer": "encounter"
+      "word": "CIRCUMSTANCE",
+      "answer": "circumstances"
     },
     {
-      "word": "FEROCIOUS",
-      "answer": "ferocious"
-    },
-    {
-      "word": "INCINERATE",
-      "answer": "incinerated"
-    },
-    {
-      "word": "MUFFLE",
-      "answer": "muffle"
+      "word": "CONFIDENT",
+      "answer": "confident"
     },
     {
       "word": "CONVENIENT",
       "answer": "convenient"
     },
     {
-      "word": "ESTABLISH",
-      "answer": "established"
-    },
-    {
-      "word": "FLATTER",
-      "answer": "flatter"
-    },
-    {
-      "word": "INSTRUCT",
-      "answer": "instructed"
-    },
-    {
-      "word": "OCCASIONALLY",
-      "answer": "occasionally"
+      "word": "DECEASED",
+      "answer": "deceased"
     },
     {
       "word": "DEFECT",
       "answer": "defects"
     },
     {
+      "word": "DEFORMED",
+      "answer": "deformed"
+    },
+    {
+      "word": "DEVOTION",
+      "answer": "devotion"
+    },
+    {
+      "word": "DOZE",
+      "answer": "dozed"
+    },
+    {
+      "word": "ELEMENTARY",
+      "answer": "elementary"
+    },
+    {
+      "word": "ENCOUNTER",
+      "answer": "encounter"
+    },
+    {
+      "word": "ENCOURAGE",
+      "answer": "encourage"
+    },
+    {
+      "word": "ESTABLISH",
+      "answer": "established"
+    },
+    {
       "word": "EXPEDITION",
       "answer": "expedition"
     },
     {
-      "word": "GLEEFUL",
-      "answer": "gleeful"
-    },
-    {
-      "word": "INTERIOR",
-      "answer": "interior"
-    },
-    {
-      "word": "QUAKE",
-      "answer": "quake"
-    },
-    {
-      "word": "DEFORMED",
-      "answer": "deformed"
+      "word": "EXPENSE",
+      "answer": "expense"
     },
     {
       "word": "EXTERMINATE",
       "answer": "exterminated"
     },
     {
+      "word": "FAINT",
+      "answer": "faint"
+    },
+    {
+      "word": "FATAL",
+      "answer": "fatal"
+    },
+    {
+      "word": "FEROCIOUS",
+      "answer": "ferocious"
+    },
+    {
+      "word": "FLATTER",
+      "answer": "flatter"
+    },
+    {
+      "word": "GLEEFUL",
+      "answer": "gleeful"
+    },
+    {
       "word": "GLUM",
       "answer": "glum"
     },
     {
+      "word": "GNARLED",
+      "answer": "gnarled"
+    },
+    {
+      "word": "GRIEF",
+      "answer": "grief"
+    },
+    {
+      "word": "HEX",
+      "answer": "hex"
+    },
+    {
+      "word": "HOBBLE",
+      "answer": "hobble"
+    },
+    {
+      "word": "HOMICIDE",
+      "answer": "homicide"
+    },
+    {
+      "word": "IMPOSTOR",
+      "answer": "impostors"
+    },
+    {
+      "word": "INCINERATE",
+      "answer": "incinerated"
+    },
+    {
+      "word": "INSTRUCT",
+      "answer": "instructed"
+    },
+    {
+      "word": "INTERIOR",
+      "answer": "interior"
+    },
+    {
+      "word": "LAG",
+      "answer": "lag"
+    },
+    {
       "word": "LINK",
       "answer": "linked"
+    },
+    {
+      "word": "MOOD",
+      "answer": "mood"
+    },
+    {
+      "word": "MUFFLE",
+      "answer": "muffle"
+    },
+    {
+      "word": "NAVIGATE",
+      "answer": "navigate"
+    },
+    {
+      "word": "OCCASIONALLY",
+      "answer": "occasionally"
+    },
+    {
+      "word": "QUAKE",
+      "answer": "quake"
+    },
+    {
+      "word": "RESIST",
+      "answer": "resisted"
+    },
+    {
+      "word": "SHRIEK",
+      "answer": "shrieked"
     }
   ],
   "questions": [
@@ -186,7 +186,7 @@
       "part1": "The company paid for the entire",
       "part2": "of his trip to New York.",
       "correct": "expense",
-      "word": "EXPEDITION"
+      "word": "EXPENSE"
     },
     {
       "part1": "Fred",
@@ -228,7 +228,7 @@
       "part1": "The police claimed that Jones was the",
       "part2": "who shot the politician.",
       "correct": "assassin",
-      "word": "ASSAULT"
+      "word": "ASSASSIN"
     },
     {
       "part1": "I've never seen such",
@@ -276,7 +276,7 @@
       "part1": "Her praise will",
       "part2": "me to try even harder next time.",
       "correct": "encourage",
-      "word": "ENCOUNTER"
+      "word": "ENCOURAGE"
     },
     {
       "part1": "They had to",
@@ -288,7 +288,7 @@
       "part1": "Under no",
       "part2": "will you be allowed to go outside by yourself.",
       "correct": "circumstances",
-      "word": "CIRCULATE"
+      "word": "CIRCUMSTANCE"
     },
     {
       "part1": "Some people like the",

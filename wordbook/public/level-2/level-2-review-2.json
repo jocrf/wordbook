@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
+      "word": "ABSURD",
+      "answer": "absurd"
+    },
+    {
       "word": "ACCELERATE",
       "answer": "accelerate"
-    },
-    {
-      "word": "ELIGIBLE",
-      "answer": "eligible"
-    },
-    {
-      "word": "KERNEL",
-      "answer": "kernels"
-    },
-    {
-      "word": "REDUCE",
-      "answer": "reduced"
-    },
-    {
-      "word": "SUBMERGE",
-      "answer": "submerged"
     },
     {
       "word": "ACQUAINTANCE",
       "answer": "acquaintance."
     },
     {
-      "word": "EXCLUDE",
-      "answer": "exclude"
-    },
-    {
-      "word": "MINDFUL",
-      "answer": "mindful"
-    },
-    {
-      "word": "SEGMENT",
-      "answer": "segment"
-    },
-    {
-      "word": "THRASH",
-      "answer": "thrashed"
-    },
-    {
-      "word": "CLUTCH",
-      "answer": "clutched"
-    },
-    {
-      "word": "EXPOSE",
-      "answer": "exposed"
-    },
-    {
-      "word": "PENITENTIARY",
-      "answer": "penitentiary"
-    },
-    {
-      "word": "SHRIVEL",
-      "answer": "shrivel"
-    },
-    {
-      "word": "VICTOR",
-      "answer": "victor"
-    },
-    {
-      "word": "COMMITMENT",
-      "answer": "commitment"
-    },
-    {
-      "word": "IMPERSONATE",
-      "answer": "impersonated"
-    },
-    {
-      "word": "QUESTIONABLE",
-      "answer": "questionable"
-    },
-    {
-      "word": "SLAY",
-      "answer": "slay"
-    },
-    {
-      "word": "WAIL",
-      "answer": "wail"
-    },
-    {
-      "word": "CONFLICT",
-      "answer": "conflict"
-    },
-    {
-      "word": "INCIDENT",
-      "answer": "incident"
-    },
-    {
-      "word": "RECREATION",
-      "answer": "recreation"
-    },
-    {
-      "word": "ABSURD",
-      "answer": "absurd"
-    },
-    {
-      "word": "CEASE",
-      "answer": "ceased"
-    },
-    {
-      "word": "LEASE",
-      "answer": "lease"
-    },
-    {
-      "word": "PROSPER",
-      "answer": "prosper"
-    },
-    {
-      "word": "STAGGER",
-      "answer": "staggered"
-    },
-    {
       "word": "AMATEUR",
       "answer": "amateur"
-    },
-    {
-      "word": "DEBRIS",
-      "answer": "debris"
-    },
-    {
-      "word": "PRECISE",
-      "answer": "precise"
-    },
-    {
-      "word": "QUARANTINE",
-      "answer": "quarantine"
-    },
-    {
-      "word": "STAMPEDE",
-      "answer": "stampede"
     },
     {
       "word": "BANQUET",
       "answer": "banquet"
     },
     {
-      "word": "DEVOUR",
-      "answer": "devour"
-    },
-    {
-      "word": "PREVIOUS",
-      "answer": "previous"
-    },
-    {
-      "word": "REAP",
-      "answer": "reap"
-    },
-    {
-      "word": "TURQUOISE",
-      "answer": "turquoise"
-    },
-    {
       "word": "BLOATED",
       "answer": "bloated"
-    },
-    {
-      "word": "DWELL",
-      "answer": "dwelt"
-    },
-    {
-      "word": "PROCLAIM",
-      "answer": "proclaimed"
-    },
-    {
-      "word": "ROUSE",
-      "answer": "roused"
-    },
-    {
-      "word": "UTMOST",
-      "answer": "utmost"
     },
     {
       "word": "CAVITY",
       "answer": "cavities"
     },
     {
+      "word": "CEASE",
+      "answer": "ceased"
+    },
+    {
+      "word": "CLUTCH",
+      "answer": "clutched"
+    },
+    {
+      "word": "COMMITMENT",
+      "answer": "commitment"
+    },
+    {
+      "word": "CONFLICT",
+      "answer": "conflict"
+    },
+    {
+      "word": "DEBRIS",
+      "answer": "debris"
+    },
+    {
+      "word": "DEVOUR",
+      "answer": "devour"
+    },
+    {
+      "word": "DWELL",
+      "answer": "dwelt"
+    },
+    {
+      "word": "ELIGIBLE",
+      "answer": "eligible"
+    },
+    {
+      "word": "EXCLUDE",
+      "answer": "exclude"
+    },
+    {
+      "word": "EXPOSE",
+      "answer": "exposed"
+    },
+    {
       "word": "HOIST",
       "answer": "hoist"
+    },
+    {
+      "word": "IMPERSONATE",
+      "answer": "impersonated"
+    },
+    {
+      "word": "INCIDENT",
+      "answer": "incident"
+    },
+    {
+      "word": "KERNEL",
+      "answer": "kernels"
+    },
+    {
+      "word": "LEASE",
+      "answer": "lease"
+    },
+    {
+      "word": "MINDFUL",
+      "answer": "mindful"
+    },
+    {
+      "word": "PENITENTIARY",
+      "answer": "penitentiary"
+    },
+    {
+      "word": "PRECISE",
+      "answer": "precise"
+    },
+    {
+      "word": "PREVIOUS",
+      "answer": "previous"
+    },
+    {
+      "word": "PROCLAIM",
+      "answer": "proclaimed"
+    },
+    {
+      "word": "PROSPER",
+      "answer": "prosper"
+    },
+    {
+      "word": "QUARANTINE",
+      "answer": "quarantine"
+    },
+    {
+      "word": "QUESTIONABLE",
+      "answer": "questionable"
+    },
+    {
+      "word": "REAP",
+      "answer": "reap"
+    },
+    {
+      "word": "RECREATION",
+      "answer": "recreation"
+    },
+    {
+      "word": "REDUCE",
+      "answer": "reduced"
+    },
+    {
+      "word": "ROUSE",
+      "answer": "roused"
+    },
+    {
+      "word": "SEGMENT",
+      "answer": "segment"
+    },
+    {
+      "word": "SHRIVEL",
+      "answer": "shrivel"
+    },
+    {
+      "word": "SLAY",
+      "answer": "slay"
+    },
+    {
+      "word": "STAGGER",
+      "answer": "staggered"
+    },
+    {
+      "word": "STAMPEDE",
+      "answer": "stampede"
+    },
+    {
+      "word": "SUBMERGE",
+      "answer": "submerged"
+    },
+    {
+      "word": "THRASH",
+      "answer": "thrashed"
+    },
+    {
+      "word": "TURQUOISE",
+      "answer": "turquoise"
+    },
+    {
+      "word": "UTMOST",
+      "answer": "utmost"
+    },
+    {
+      "word": "VICTOR",
+      "answer": "victor"
+    },
+    {
+      "word": "WAIL",
+      "answer": "wail"
     }
   ],
   "questions": [

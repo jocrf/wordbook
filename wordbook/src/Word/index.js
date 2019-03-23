@@ -33,10 +33,6 @@ export default class Word extends Component {
       .then(phoneticData => this.createUrl(phoneticData));
   }
 
-  // componentWillUnmount () {
-  //   this.setState({ phonetics: [] });
-  // }
-
   createMarkup (text) {
     return { __html: text };
   }
@@ -56,7 +52,6 @@ export default class Word extends Component {
 
   render () {
     const { definition } = this.props;
-    console.log(definition);
     return (
       <div className='card col-lg mt-3 mt-lg-0 bg-primary text-light wordCard'>
         <div className='card-body'>

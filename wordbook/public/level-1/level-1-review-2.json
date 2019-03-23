@@ -5,180 +5,180 @@
       "answer": "altitude"
     },
     {
-      "word": "CONSTRUCT",
-      "answer": "construct"
-    },
-    {
-      "word": "HANDICAP",
-      "answer": "handicap"
-    },
-    {
-      "word": "OPPORTUNITY",
-      "answer": "opportunity"
-    },
-    {
-      "word": "REGULATION",
-      "answer": "regulations"
+      "word": "ASSEMBLE",
+      "answer": "assemble"
     },
     {
       "word": "BAIT",
       "answer": "baited"
     },
     {
-      "word": "ELIMINATE",
-      "answer": "eliminate"
-    },
-    {
-      "word": "HAZARD",
-      "answer": "hazard"
-    },
-    {
-      "word": "PERMANENT",
-      "answer": "permanent"
-    },
-    {
-      "word": "REPRESENT",
-      "answer": "represent"
-    },
-    {
-      "word": "BORDER",
-      "answer": "border"
-    },
-    {
-      "word": "EXHALE",
-      "answer": "exhaled"
-    },
-    {
-      "word": "INVESTIGATE",
-      "answer": "investigated"
-    },
-    {
-      "word": "RECKLESS",
-      "answer": "reckless"
-    },
-    {
-      "word": "RETREAT",
-      "answer": "retreat"
-    },
-    {
-      "word": "CAUTIOUS",
-      "answer": "cautious"
-    },
-    {
-      "word": "FURIOUS",
-      "answer": "furious"
-    },
-    {
-      "word": "IRRITATE",
-      "answer": "irritated"
-    },
-    {
-      "word": "REGAIN",
-      "answer": "regained"
-    },
-    {
-      "word": "TIRESOME",
-      "answer": "tiresome"
-    },
-    {
-      "word": "CONCEAL",
-      "answer": "concealed"
-    },
-    {
-      "word": "ASSEMBLE",
-      "answer": "assemble"
-    },
-    {
-      "word": "DISTANT",
-      "answer": "distant"
-    },
-    {
-      "word": "HURDLE",
-      "answer": "hurdled"
-    },
-    {
-      "word": "PACE",
-      "answer": "paces"
-    },
-    {
-      "word": "REQUEST",
-      "answer": "request"
-    },
-    {
       "word": "BANDIT",
       "answer": "bandits"
-    },
-    {
-      "word": "ERUPT",
-      "answer": "erupted"
-    },
-    {
-      "word": "LASH",
-      "answer": "lashed"
-    },
-    {
-      "word": "PECULIAR",
-      "answer": "peculiar"
-    },
-    {
-      "word": "SOB",
-      "answer": "sob"
     },
     {
       "word": "BLUSH",
       "answer": "blushes"
     },
     {
-      "word": "EXAMINE",
-      "answer": "examined"
+      "word": "BORDER",
+      "answer": "border"
     },
     {
-      "word": "METHOD",
-      "answer": "method"
+      "word": "CAUTIOUS",
+      "answer": "cautious"
     },
     {
-      "word": "POSE",
-      "answer": "pose"
+      "word": "CONCEAL",
+      "answer": "concealed"
     },
     {
-      "word": "SPLENDID",
-      "answer": "splendid"
+      "word": "CONSTRUCT",
+      "answer": "construct"
     },
     {
       "word": "DEFEND",
       "answer": "defend"
     },
     {
+      "word": "DISGRACE",
+      "answer": "disgrace"
+    },
+    {
+      "word": "DISTANT",
+      "answer": "distant"
+    },
+    {
+      "word": "ELIMINATE",
+      "answer": "eliminate"
+    },
+    {
+      "word": "ERUPT",
+      "answer": "erupted"
+    },
+    {
+      "word": "EXAMINE",
+      "answer": "examined"
+    },
+    {
+      "word": "EXHALE",
+      "answer": "exhaled"
+    },
+    {
       "word": "EXPIRE",
       "answer": "expire"
     },
     {
-      "word": "MISTREAT",
-      "answer": "mistreated"
-    },
-    {
-      "word": "QUANTITY",
-      "answer": "quantity"
-    },
-    {
-      "word": "SWIFT",
-      "answer": "swift"
-    },
-    {
-      "word": "DISGRACE",
-      "answer": "disgrace"
+      "word": "FURIOUS",
+      "answer": "furious"
     },
     {
       "word": "GRIME",
       "answer": "grime"
     },
     {
+      "word": "HANDICAP",
+      "answer": "handicap"
+    },
+    {
+      "word": "HAZARD",
+      "answer": "hazard"
+    },
+    {
+      "word": "HURDLE",
+      "answer": "hurdled"
+    },
+    {
+      "word": "INVESTIGATE",
+      "answer": "investigated"
+    },
+    {
+      "word": "IRRITATE",
+      "answer": "irritated"
+    },
+    {
+      "word": "LASH",
+      "answer": "lashed"
+    },
+    {
+      "word": "METHOD",
+      "answer": "method"
+    },
+    {
+      "word": "MISTREAT",
+      "answer": "mistreated"
+    },
+    {
       "word": "NUMEROUS",
       "answer": "numerous"
     },
     {
+      "word": "OPPORTUNITY",
+      "answer": "opportunity"
+    },
+    {
+      "word": "PACE",
+      "answer": "paces"
+    },
+    {
+      "word": "PECULIAR",
+      "answer": "peculiar"
+    },
+    {
+      "word": "PERMANENT",
+      "answer": "permanent"
+    },
+    {
+      "word": "POSE",
+      "answer": "pose"
+    },
+    {
+      "word": "QUANTITY",
+      "answer": "quantity"
+    },
+    {
+      "word": "RECKLESS",
+      "answer": "reckless"
+    },
+    {
+      "word": "REGAIN",
+      "answer": "regained"
+    },
+    {
+      "word": "REGULATION",
+      "answer": "regulations"
+    },
+    {
       "word": "RELY",
       "answer": "rely"
+    },
+    {
+      "word": "REPRESENT",
+      "answer": "represent"
+    },
+    {
+      "word": "REQUEST",
+      "answer": "request"
+    },
+    {
+      "word": "RETREAT",
+      "answer": "retreat"
+    },
+    {
+      "word": "SOB",
+      "answer": "sob"
+    },
+    {
+      "word": "SPLENDID",
+      "answer": "splendid"
+    },
+    {
+      "word": "SWIFT",
+      "answer": "swift"
+    },
+    {
+      "word": "TIRESOME",
+      "answer": "tiresome"
     }
   ],
   "questions": [

@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
-      "word": "ABRADE",
-      "answer": "abraded"
-    },
-    {
-      "word": "ASSIDUOUS",
-      "answer": "assiduous"
-    },
-    {
-      "word": "IGNOMINIOUS",
-      "answer": "ignominious"
-    },
-    {
-      "word": "PARADIGM",
-      "answer": "paradigm"
-    },
-    {
-      "word": "STODGY",
-      "answer": "stodgy"
-    },
-    {
-      "word": "ABSTRUSE",
-      "answer": "abstruse"
-    },
-    {
-      "word": "CREDULOUS",
-      "answer": "credulous"
-    },
-    {
-      "word": "IMPLACABLE",
-      "answer": "implacable"
-    },
-    {
-      "word": "PRODIGIOUS",
-      "answer": "prodigious"
-    },
-    {
-      "word": "SUFFUSE",
-      "answer": "suffused"
-    },
-    {
-      "word": "AMENABLE",
-      "answer": "amenable"
-    },
-    {
-      "word": "ESCHEW",
-      "answer": "eschew"
-    },
-    {
-      "word": "INCOMMODE",
-      "answer": "incommode"
-    },
-    {
-      "word": "PROPINQUITY",
-      "answer": "propinquity"
-    },
-    {
-      "word": "TRIBULATION",
-      "answer": "tribulations"
-    },
-    {
-      "word": "APPRISE",
-      "answer": "apprise"
-    },
-    {
-      "word": "EXPIATION",
-      "answer": "expiation"
-    },
-    {
-      "word": "INCREDULOUS",
-      "answer": "incredulous"
-    },
-    {
-      "word": "PROPITIOUS",
-      "answer": "propinquity"
-    },
-    {
-      "word": "UBIQUITOUS",
-      "answer": "ubiquitous"
-    },
-    {
-      "word": "ASCETIC",
-      "answer": "ascetic"
-    },
-    {
-      "word": "EXTANT",
-      "answer": "extant"
-    },
-    {
       "word": "ABLUTION",
       "answer": "ablution"
-    },
-    {
-      "word": "BELIE",
-      "answer": "belie"
-    },
-    {
-      "word": "FERAL",
-      "answer": "feral"
-    },
-    {
-      "word": "PAROXYSM",
-      "answer": "paroxysm"
-    },
-    {
-      "word": "SINUOUS",
-      "answer": "sinuous"
     },
     {
       "word": "ABNEGATION",
       "answer": "abnegation"
     },
     {
-      "word": "BELLICOSE",
-      "answer": "bellicose"
+      "word": "ABRADE",
+      "answer": "abraded"
     },
     {
-      "word": "HIRSUTE",
-      "answer": "hirsute"
-    },
-    {
-      "word": "PERFIDY",
-      "answer": "perfidy"
-    },
-    {
-      "word": "TENABLE",
-      "answer": "tenable"
+      "word": "ABSTRUSE",
+      "answer": "abstruse"
     },
     {
       "word": "ADMONISH",
       "answer": "admonished"
     },
     {
-      "word": "BENIGN",
-      "answer": "benign"
-    },
-    {
-      "word": "INIQUITOUS",
-      "answer": "iniquitous"
-    },
-    {
-      "word": "RUMINATE",
-      "answer": "ruminate"
-    },
-    {
-      "word": "VILIFY",
-      "answer": "vilified"
+      "word": "AMENABLE",
+      "answer": "amenable"
     },
     {
       "word": "ANCILLARY",
       "answer": "ancillary"
     },
     {
+      "word": "ANOMALY",
+      "answer": "anomaly"
+    },
+    {
+      "word": "APPRISE",
+      "answer": "apprise"
+    },
+    {
+      "word": "ASCETIC",
+      "answer": "ascetic"
+    },
+    {
+      "word": "ASSIDUOUS",
+      "answer": "assiduous"
+    },
+    {
+      "word": "BELIE",
+      "answer": "belie"
+    },
+    {
+      "word": "BELLICOSE",
+      "answer": "bellicose"
+    },
+    {
+      "word": "BENIGN",
+      "answer": "benign"
+    },
+    {
       "word": "CELERITY",
       "answer": "celerity"
     },
     {
-      "word": "INVECTIVE",
-      "answer": "invective"
+      "word": "CREDULOUS",
+      "answer": "credulous"
     },
     {
-      "word": "SEQUESTER",
-      "answer": "sequestered"
+      "word": "ESCHEW",
+      "answer": "eschew"
     },
     {
-      "word": "VOLUBLE",
-      "answer": "voluble"
+      "word": "EXPIATION",
+      "answer": "expiation"
     },
     {
-      "word": "ANOMALY",
-      "answer": "anomaly"
+      "word": "EXTANT",
+      "answer": "extant"
     },
     {
       "word": "FATUOUS",
       "answer": "fatuous"
     },
     {
+      "word": "FERAL",
+      "answer": "feral"
+    },
+    {
+      "word": "HIRSUTE",
+      "answer": "hirsute"
+    },
+    {
+      "word": "IGNOMINIOUS",
+      "answer": "ignominious"
+    },
+    {
+      "word": "IMPLACABLE",
+      "answer": "implacable"
+    },
+    {
+      "word": "INCOMMODE",
+      "answer": "incommode"
+    },
+    {
+      "word": "INCREDULOUS",
+      "answer": "incredulous"
+    },
+    {
+      "word": "INIQUITOUS",
+      "answer": "iniquitous"
+    },
+    {
+      "word": "INVECTIVE",
+      "answer": "invective"
+    },
+    {
       "word": "ONEROUS",
       "answer": "onerous"
+    },
+    {
+      "word": "PARADIGM",
+      "answer": "paradigm"
+    },
+    {
+      "word": "PAROXYSM",
+      "answer": "paroxysm"
+    },
+    {
+      "word": "PERFIDY",
+      "answer": "perfidy"
+    },
+    {
+      "word": "PRODIGIOUS",
+      "answer": "prodigious"
+    },
+    {
+      "word": "PROPINQUITY",
+      "answer": "propinquity"
+    },
+    {
+      "word": "PROPITIOUS",
+      "answer": "propitious"
+    },
+    {
+      "word": "RUMINATE",
+      "answer": "ruminate"
+    },
+    {
+      "word": "SEQUESTER",
+      "answer": "sequestered"
+    },
+    {
+      "word": "SINUOUS",
+      "answer": "sinuous"
+    },
+    {
+      "word": "STODGY",
+      "answer": "stodgy"
+    },
+    {
+      "word": "SUFFUSE",
+      "answer": "suffused"
+    },
+    {
+      "word": "TENABLE",
+      "answer": "tenable"
+    },
+    {
+      "word": "TRIBULATION",
+      "answer": "tribulations"
+    },
+    {
+      "word": "UBIQUITOUS",
+      "answer": "ubiquitous"
+    },
+    {
+      "word": "VILIFY",
+      "answer": "vilified"
+    },
+    {
+      "word": "VOLUBLE",
+      "answer": "voluble"
     }
   ],
   "questions": [
@@ -306,7 +306,7 @@
       "part1": "The",
       "part2": "of his apartment to where he worked meant that he could be on the job in less than five minutes.",
       "correct": "propinquity",
-      "word": "PROPITIOUS"
+      "word": "PROPINQUITY"
     },
     {
       "part1": "There is only one copy of the book",

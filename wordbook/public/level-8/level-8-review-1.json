@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
-      "word": "ACCEDE",
-      "answer": "accede"
-    },
-    {
-      "word": "DIDACTIC",
-      "answer": "didactic"
-    },
-    {
-      "word": "INJUNCTION",
-      "answer": "injunction"
-    },
-    {
-      "word": "PATENTLY",
-      "answer": "patently"
-    },
-    {
-      "word": "SALUTARY",
-      "answer": "salutary"
-    },
-    {
-      "word": "ALACRITY",
-      "answer": "alacrity"
-    },
-    {
-      "word": "EGRESS",
-      "answer": "egress"
-    },
-    {
-      "word": "LACHRYMOSE",
-      "answer": "lachrymose or lugubrious"
-    },
-    {
-      "word": "PLAINTIVE",
-      "answer": "plaintive or lugubrious"
-    },
-    {
-      "word": "SANGFROID",
-      "answer": "sangfroid"
-    },
-    {
-      "word": "CRAVEN",
-      "answer": "craven"
-    },
-    {
-      "word": "ENNUI",
-      "answer": "ennui"
-    },
-    {
-      "word": "LUGUBRIOUS",
-      "answer": "lugubrious"
-    },
-    {
-      "word": "PUERILE",
-      "answer": "puerile"
-    },
-    {
-      "word": "SUCCOR",
-      "answer": "succor"
-    },
-    {
-      "word": "CURSORY",
-      "answer": "cursory"
-    },
-    {
-      "word": "IMPECUNIOUS",
-      "answer": "impecunious"
-    },
-    {
-      "word": "MENDICANT",
-      "answer": "mendicant"
-    },
-    {
-      "word": "REGALE",
-      "answer": "regaled"
-    },
-    {
-      "word": "UMBRAGE",
-      "answer": "umbrage"
-    },
-    {
-      "word": "DENIZEN",
-      "answer": "denizen"
-    },
-    {
-      "word": "INDISPOSED",
-      "answer": "indisposed"
-    },
-    {
       "word": "ABSCOND",
       "answer": "absconded"
     },
     {
-      "word": "CALUMNY",
-      "answer": "calumny"
-    },
-    {
-      "word": "DROLL",
-      "answer": "droll"
-    },
-    {
-      "word": "MITIGATE",
-      "answer": "mitigate"
-    },
-    {
-      "word": "RAREFIED",
-      "answer": "rarefied"
+      "word": "ACCEDE",
+      "answer": "accede"
     },
     {
       "word": "ACERBITY",
       "answer": "acerbity"
     },
     {
-      "word": "COMPORT",
-      "answer": "comported"
-    },
-    {
-      "word": "EVINCE",
-      "answer": "evinced"
-    },
-    {
-      "word": "PERPETRATE",
-      "answer": "perpetrated"
-    },
-    {
-      "word": "TRACTABLE",
-      "answer": "tractable"
-    },
-    {
       "word": "ACETOUS",
       "answer": "acetous"
     },
     {
-      "word": "DESICCATE",
-      "answer": "desiccated"
-    },
-    {
-      "word": "INCIPIENT",
-      "answer": "incipient"
-    },
-    {
-      "word": "PITHY",
-      "answer": "pithy"
-    },
-    {
-      "word": "TRENCHANT",
-      "answer": "trenchant"
+      "word": "ALACRITY",
+      "answer": "alacrity"
     },
     {
       "word": "BUCOLIC",
       "answer": "bucolic"
     },
     {
-      "word": "DETRITUS",
-      "answer": "detritus"
-    },
-    {
-      "word": "MALADROIT",
-      "answer": "maladroit"
-    },
-    {
-      "word": "PREVARICATE",
-      "answer": "prevaricate"
-    },
-    {
-      "word": "VAGARY",
-      "answer": "vagaries"
-    },
-    {
       "word": "BUFFET",
       "answer": "buffet"
+    },
+    {
+      "word": "CALUMNY",
+      "answer": "calumny"
+    },
+    {
+      "word": "COMPORT",
+      "answer": "comported"
+    },
+    {
+      "word": "CRAVEN",
+      "answer": "craven"
+    },
+    {
+      "word": "CURSORY",
+      "answer": "cursory"
+    },
+    {
+      "word": "DENIZEN",
+      "answer": "denizen"
+    },
+    {
+      "word": "DESICCATE",
+      "answer": "desiccated"
+    },
+    {
+      "word": "DETRITUS",
+      "answer": "detritus"
     },
     {
       "word": "DIADEM",
       "answer": "diadem"
     },
     {
+      "word": "DIDACTIC",
+      "answer": "didactic"
+    },
+    {
+      "word": "DROLL",
+      "answer": "droll"
+    },
+    {
+      "word": "EGRESS",
+      "answer": "egress"
+    },
+    {
+      "word": "ENNUI",
+      "answer": "ennui"
+    },
+    {
+      "word": "EVINCE",
+      "answer": "evinced"
+    },
+    {
+      "word": "IMPECUNIOUS",
+      "answer": "impecunious"
+    },
+    {
+      "word": "INCIPIENT",
+      "answer": "incipient"
+    },
+    {
+      "word": "INDISPOSED",
+      "answer": "indisposed"
+    },
+    {
+      "word": "INJUNCTION",
+      "answer": "injunction"
+    },
+    {
+      "word": "LACHRYMOSE",
+      "answer": "lachrymose or lugubrious"
+    },
+    {
+      "word": "LUGUBRIOUS",
+      "answer": "lugubrious"
+    },
+    {
+      "word": "MALADROIT",
+      "answer": "maladroit"
+    },
+    {
       "word": "MALEDICTION",
       "answer": "malediction"
+    },
+    {
+      "word": "MENDICANT",
+      "answer": "mendicant"
+    },
+    {
+      "word": "MITIGATE",
+      "answer": "mitigate"
+    },
+    {
+      "word": "PATENTLY",
+      "answer": "patently"
+    },
+    {
+      "word": "PERPETRATE",
+      "answer": "perpetrated"
+    },
+    {
+      "word": "PITHY",
+      "answer": "pithy"
+    },
+    {
+      "word": "PLAINTIVE",
+      "answer": "plaintive or lugubrious"
+    },
+    {
+      "word": "PREVARICATE",
+      "answer": "prevaricate"
+    },
+    {
+      "word": "PUERILE",
+      "answer": "puerile"
+    },
+    {
+      "word": "RAREFIED",
+      "answer": "rarefied"
+    },
+    {
+      "word": "REGALE",
+      "answer": "regaled"
+    },
+    {
+      "word": "SALUTARY",
+      "answer": "salutary"
+    },
+    {
+      "word": "SANGFROID",
+      "answer": "sangfroid"
+    },
+    {
+      "word": "SUCCOR",
+      "answer": "succor"
+    },
+    {
+      "word": "TRACTABLE",
+      "answer": "tractable"
+    },
+    {
+      "word": "TRENCHANT",
+      "answer": "trenchant"
+    },
+    {
+      "word": "UMBRAGE",
+      "answer": "umbrage"
+    },
+    {
+      "word": "VAGARY",
+      "answer": "vagaries"
     }
   ],
   "questions": [

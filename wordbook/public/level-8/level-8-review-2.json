@@ -5,180 +5,180 @@
       "answer": "abjure"
     },
     {
-      "word": "EFFACE",
-      "answer": "effaced"
-    },
-    {
-      "word": "PRECIPITOUS",
-      "answer": "precipitous"
-    },
-    {
-      "word": "PUTATIVE",
-      "answer": "putative"
-    },
-    {
-      "word": "SUPERCILIOUS",
-      "answer": "supercilious"
-    },
-    {
-      "word": "CAVIL",
-      "answer": "caviled"
-    },
-    {
-      "word": "EQUANIMITY",
-      "answer": "equanimity"
-    },
-    {
-      "word": "PREPOSSESSING",
-      "answer": "prepossessing"
-    },
-    {
-      "word": "RAILLERY",
-      "answer": "raillery"
-    },
-    {
-      "word": "TORPOR",
-      "answer": "torpor"
-    },
-    {
-      "word": "COGENT",
-      "answer": "cogent"
-    },
-    {
-      "word": "NASCENT",
-      "answer": "nascent"
-    },
-    {
-      "word": "PROFLIGATE",
-      "answer": "profligate"
-    },
-    {
-      "word": "RAPACIOUS",
-      "answer": "rapacious"
-    },
-    {
-      "word": "TUMID",
-      "answer": "tumid"
-    },
-    {
-      "word": "CONFITURE",
-      "answer": "confiture"
-    },
-    {
-      "word": "NONPLUSSED",
-      "answer": "nonplussed"
-    },
-    {
-      "word": "PROSAIC",
-      "answer": "prosaic"
-    },
-    {
-      "word": "REVILE",
-      "answer": "reviled"
-    },
-    {
-      "word": "UNCTUOUS",
-      "answer": "unctuous"
-    },
-    {
-      "word": "DEMUR",
-      "answer": "demurred"
-    },
-    {
-      "word": "PERIPATETIC",
-      "answer": "peripatetic"
-    },
-    {
       "word": "BADINAGE",
       "answer": "badinage"
-    },
-    {
-      "word": "DISSEMBLE",
-      "answer": "dissembled"
-    },
-    {
-      "word": "INIMICAL",
-      "answer": "inimical"
-    },
-    {
-      "word": "PENURIOUS",
-      "answer": "penurious"
-    },
-    {
-      "word": "RISIBLE",
-      "answer": "risible"
     },
     {
       "word": "CANARD",
       "answer": "canard"
     },
     {
-      "word": "EXPATIATE",
-      "answer": "expatiated"
-    },
-    {
-      "word": "MACERATE",
-      "answer": "macerated"
-    },
-    {
-      "word": "PHLEGMATIC",
-      "answer": "phlegmatic"
-    },
-    {
-      "word": "SEDITIOUS",
-      "answer": "seditious"
-    },
-    {
       "word": "CAPACIOUS",
       "answer": "capacious"
     },
     {
-      "word": "FIRMAMENT",
-      "answer": "firmament"
+      "word": "CAVIL",
+      "answer": "caviled"
     },
     {
-      "word": "MAELSTROM",
-      "answer": "maelstrom"
-    },
-    {
-      "word": "QUERULOUS",
-      "answer": "querulous"
-    },
-    {
-      "word": "SYCOPHANCY",
-      "answer": "sycophancy"
+      "word": "COGENT",
+      "answer": "cogent"
     },
     {
       "word": "COLLOQUY",
       "answer": "colloquy"
     },
     {
-      "word": "HALCYON",
-      "answer": "halcyon"
+      "word": "CONFITURE",
+      "answer": "confiture"
     },
     {
-      "word": "MENDACIOUS",
-      "answer": "mendacious"
-    },
-    {
-      "word": "RESTIVE",
-      "answer": "restive"
-    },
-    {
-      "word": "VIRULENT",
-      "answer": "virulent"
+      "word": "DEMUR",
+      "answer": "demurred"
     },
     {
       "word": "DIAPHANOUS",
       "answer": "diaphanous"
     },
     {
+      "word": "DISSEMBLE",
+      "answer": "dissembled"
+    },
+    {
+      "word": "EFFACE",
+      "answer": "effaced"
+    },
+    {
+      "word": "EQUANIMITY",
+      "answer": "equanimity"
+    },
+    {
+      "word": "EXPATIATE",
+      "answer": "expatiated"
+    },
+    {
+      "word": "FIRMAMENT",
+      "answer": "firmament"
+    },
+    {
+      "word": "HALCYON",
+      "answer": "halcyon"
+    },
+    {
       "word": "HEGEMONY",
       "answer": "hegemony"
     },
     {
+      "word": "INIMICAL",
+      "answer": "inimical"
+    },
+    {
+      "word": "MACERATE",
+      "answer": "macerated"
+    },
+    {
+      "word": "MAELSTROM",
+      "answer": "maelstrom"
+    },
+    {
+      "word": "MENDACIOUS",
+      "answer": "mendacious"
+    },
+    {
+      "word": "NASCENT",
+      "answer": "nascent"
+    },
+    {
+      "word": "NONPLUSSED",
+      "answer": "nonplussed"
+    },
+    {
       "word": "OSTENSIBLE",
       "answer": "ostensible"
+    },
+    {
+      "word": "PENURIOUS",
+      "answer": "penurious"
+    },
+    {
+      "word": "PERIPATETIC",
+      "answer": "peripatetic"
+    },
+    {
+      "word": "PHLEGMATIC",
+      "answer": "phlegmatic"
+    },
+    {
+      "word": "PRECIPITOUS",
+      "answer": "precipitous"
+    },
+    {
+      "word": "PREPOSSESSING",
+      "answer": "prepossessing"
+    },
+    {
+      "word": "PROFLIGATE",
+      "answer": "profligate"
+    },
+    {
+      "word": "PROSAIC",
+      "answer": "prosaic"
+    },
+    {
+      "word": "PUTATIVE",
+      "answer": "putative"
+    },
+    {
+      "word": "QUERULOUS",
+      "answer": "querulous"
+    },
+    {
+      "word": "RAILLERY",
+      "answer": "raillery"
+    },
+    {
+      "word": "RAPACIOUS",
+      "answer": "rapacious"
+    },
+    {
+      "word": "RESTIVE",
+      "answer": "restive"
+    },
+    {
+      "word": "REVILE",
+      "answer": "reviled"
+    },
+    {
+      "word": "RISIBLE",
+      "answer": "risible"
+    },
+    {
+      "word": "SEDITIOUS",
+      "answer": "seditious"
+    },
+    {
+      "word": "SUPERCILIOUS",
+      "answer": "supercilious"
+    },
+    {
+      "word": "SYCOPHANCY",
+      "answer": "sycophancy"
+    },
+    {
+      "word": "TORPOR",
+      "answer": "torpor"
+    },
+    {
+      "word": "TUMID",
+      "answer": "tumid"
+    },
+    {
+      "word": "UNCTUOUS",
+      "answer": "unctuous"
+    },
+    {
+      "word": "VIRULENT",
+      "answer": "virulent"
     }
   ],
   "questions": [

@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
-      "word": "AGAPE",
-      "answer": "agape"
-    },
-    {
-      "word": "DOMICILE",
-      "answer": "domicile"
-    },
-    {
-      "word": "MELEE",
-      "answer": "melee"
-    },
-    {
-      "word": "PLACATE",
-      "answer": "placate"
-    },
-    {
-      "word": "STRATA",
-      "answer": "strata"
-    },
-    {
-      "word": "ALOOF",
-      "answer": "aloof"
-    },
-    {
-      "word": "GUFFAW",
-      "answer": "guffaws"
-    },
-    {
-      "word": "ORIFICE",
-      "answer": "orifice"
-    },
-    {
-      "word": "QUIRK",
-      "answer": "quirk"
-    },
-    {
-      "word": "SUBMISSIVE",
-      "answer": "submissive"
-    },
-    {
-      "word": "BENEVOLENT",
-      "answer": "benevolent"
-    },
-    {
-      "word": "KINDRED",
-      "answer": "kindred"
-    },
-    {
-      "word": "PANG",
-      "answer": "pang"
-    },
-    {
-      "word": "SQUANDER",
-      "answer": "squandered"
-    },
-    {
-      "word": "SWOON",
-      "answer": "swooned"
-    },
-    {
-      "word": "BLASPHEME",
-      "answer": "blasphemed"
-    },
-    {
-      "word": "MANIFOLD",
-      "answer": "manifold"
-    },
-    {
-      "word": "PENSIVE",
-      "answer": "pensive"
-    },
-    {
-      "word": "STEADFAST",
-      "answer": "steadfast"
-    },
-    {
-      "word": "VEHEMENT",
-      "answer": "vehement"
-    },
-    {
-      "word": "CONTRIVE",
-      "answer": "contrived"
-    },
-    {
       "word": "ADULTERATE",
       "answer": "adulterated"
-    },
-    {
-      "word": "ANTAGONISM",
-      "answer": "antagonism"
-    },
-    {
-      "word": "ENUMERATE",
-      "answer": "enumerate"
-    },
-    {
-      "word": "JAUNDICED",
-      "answer": "jaundiced"
-    },
-    {
-      "word": "PROCURE",
-      "answer": "procure"
     },
     {
       "word": "ADVOCATE",
       "answer": "advocated"
     },
     {
-      "word": "APPENDAGE",
-      "answer": "appendage"
-    },
-    {
-      "word": "FACADE",
-      "answer": "facade"
-    },
-    {
-      "word": "KNOLL",
-      "answer": "knoll"
-    },
-    {
-      "word": "QUASH",
-      "answer": "quash"
-    },
-    {
       "word": "AFFIX",
       "answer": "affixed"
     },
     {
-      "word": "BUFFOON",
-      "answer": "buffoons"
-    },
-    {
-      "word": "GUISE",
-      "answer": "guise"
-    },
-    {
-      "word": "NONPAREIL",
-      "answer": "nonpareil"
-    },
-    {
-      "word": "SLOVENLY",
-      "answer": "slovenly"
+      "word": "AGAPE",
+      "answer": "agape"
     },
     {
       "word": "ALLOT",
       "answer": "allotted"
     },
     {
-      "word": "CLEAVE",
-      "answer": "cleave"
-    },
-    {
-      "word": "HALLOWED",
-      "answer": "hallowed"
-    },
-    {
-      "word": "ORDINANCE",
-      "answer": "ordinance"
-    },
-    {
-      "word": "ULTERIOR",
-      "answer": "ulterior"
+      "word": "ALOOF",
+      "answer": "aloof"
     },
     {
       "word": "AMASS",
       "answer": "amassed"
     },
     {
+      "word": "ANTAGONISM",
+      "answer": "antagonism"
+    },
+    {
+      "word": "APPENDAGE",
+      "answer": "appendage"
+    },
+    {
+      "word": "BENEVOLENT",
+      "answer": "benevolent"
+    },
+    {
+      "word": "BLASPHEME",
+      "answer": "blasphemed"
+    },
+    {
+      "word": "BUFFOON",
+      "answer": "buffoons"
+    },
+    {
+      "word": "CLEAVE",
+      "answer": "cleave"
+    },
+    {
+      "word": "CONTRIVE",
+      "answer": "contrived"
+    },
+    {
       "word": "DEPICT",
       "answer": "depicted"
+    },
+    {
+      "word": "DOMICILE",
+      "answer": "domicile"
+    },
+    {
+      "word": "ENUMERATE",
+      "answer": "enumerate"
+    },
+    {
+      "word": "FACADE",
+      "answer": "facade"
+    },
+    {
+      "word": "GUFFAW",
+      "answer": "guffaws"
+    },
+    {
+      "word": "GUISE",
+      "answer": "guise"
+    },
+    {
+      "word": "HALLOWED",
+      "answer": "hallowed"
     },
     {
       "word": "IMPLORE",
       "answer": "implored"
     },
     {
+      "word": "JAUNDICED",
+      "answer": "jaundiced"
+    },
+    {
+      "word": "KINDRED",
+      "answer": "kindred"
+    },
+    {
+      "word": "KNOLL",
+      "answer": "knoll"
+    },
+    {
+      "word": "MANIFOLD",
+      "answer": "manifold"
+    },
+    {
+      "word": "MELEE",
+      "answer": "melee"
+    },
+    {
+      "word": "NONPAREIL",
+      "answer": "nonpareil"
+    },
+    {
+      "word": "ORDINANCE",
+      "answer": "ordinance"
+    },
+    {
+      "word": "ORIFICE",
+      "answer": "orifice"
+    },
+    {
+      "word": "PANG",
+      "answer": "pang"
+    },
+    {
+      "word": "PENSIVE",
+      "answer": "pensive"
+    },
+    {
+      "word": "PLACATE",
+      "answer": "placate"
+    },
+    {
       "word": "PRECIPICE",
       "answer": "precipice"
+    },
+    {
+      "word": "PROCURE",
+      "answer": "procure"
+    },
+    {
+      "word": "QUASH",
+      "answer": "quash"
+    },
+    {
+      "word": "QUIRK",
+      "answer": "quirk"
+    },
+    {
+      "word": "SLOVENLY",
+      "answer": "slovenly"
+    },
+    {
+      "word": "SQUANDER",
+      "answer": "squandered"
+    },
+    {
+      "word": "STEADFAST",
+      "answer": "steadfast"
+    },
+    {
+      "word": "STRATA",
+      "answer": "strata"
+    },
+    {
+      "word": "SUBMISSIVE",
+      "answer": "submissive"
+    },
+    {
+      "word": "SWOON",
+      "answer": "swooned"
+    },
+    {
+      "word": "ULTERIOR",
+      "answer": "ulterior"
+    },
+    {
+      "word": "VEHEMENT",
+      "answer": "vehement"
     }
   ],
   "questions": [

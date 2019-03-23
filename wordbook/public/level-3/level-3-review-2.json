@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
-      "word": "ANTICIPATE",
-      "answer": "anticipate"
-    },
-    {
-      "word": "CONGREGATE",
-      "answer": "congregated"
-    },
-    {
-      "word": "GOUGE",
-      "answer": "gouged"
-    },
-    {
-      "word": "INTRICATE",
-      "answer": "intricate"
-    },
-    {
-      "word": "PRECAUTION",
-      "answer": "precaution"
-    },
-    {
-      "word": "APPARATUS",
-      "answer": "apparel"
-    },
-    {
-      "word": "CONTROVERSY",
-      "answer": "controversy"
-    },
-    {
-      "word": "HEADWAY",
-      "answer": "headway"
-    },
-    {
-      "word": "MISGIVING",
-      "answer": "misgivings"
-    },
-    {
-      "word": "REFINE",
-      "answer": "refine"
-    },
-    {
-      "word": "COLLABORATE",
-      "answer": "collaborate"
-    },
-    {
-      "word": "DENSE",
-      "answer": "dense"
-    },
-    {
-      "word": "INSTANTANEOUS",
-      "answer": "instance"
-    },
-    {
-      "word": "PENETRATE",
-      "answer": "penetrate"
-    },
-    {
-      "word": "RESUME",
-      "answer": "resume"
-    },
-    {
-      "word": "COMMEND",
-      "answer": "commended"
-    },
-    {
-      "word": "FOREMOST",
-      "answer": "foremost"
-    },
-    {
-      "word": "INTERCEPT",
-      "answer": "intercepted"
-    },
-    {
-      "word": "PERTAIN",
-      "answer": "pertained"
-    },
-    {
-      "word": "RETAIN",
-      "answer": "retain"
-    },
-    {
-      "word": "CONFRONT",
-      "answer": "confronted"
-    },
-    {
       "word": "ACCUMULATE",
       "answer": "accumulate"
-    },
-    {
-      "word": "CORRUPT",
-      "answer": "corrupt"
-    },
-    {
-      "word": "FRAIL",
-      "answer": "frail"
-    },
-    {
-      "word": "INSTANCE",
-      "answer": "instance"
-    },
-    {
-      "word": "REEK",
-      "answer": "reek"
     },
     {
       "word": "ANONYMOUS",
       "answer": "anonymous"
     },
     {
-      "word": "DELINQUENCY",
-      "answer": "delinquency"
+      "word": "ANTICIPATE",
+      "answer": "anticipate"
     },
     {
-      "word": "FREAKISH",
-      "answer": "freakish"
-    },
-    {
-      "word": "MEDDLE",
-      "answer": "meddles"
-    },
-    {
-      "word": "REFORM",
-      "answer": "reform"
+      "word": "APPARATUS",
+      "answer": "apparatus"
     },
     {
       "word": "APPAREL",
       "answer": "apparel"
     },
     {
-      "word": "ENSEMBLE",
-      "answer": "ensemble"
-    },
-    {
-      "word": "GLIMMER",
-      "answer": "glimmer"
-    },
-    {
-      "word": "MUTE",
-      "answer": "mute"
-    },
-    {
-      "word": "SERVICEABLE",
-      "answer": "serviceable"
-    },
-    {
       "word": "CAPSIZE",
       "answer": "capsize"
     },
     {
-      "word": "EXTENSIVE",
-      "answer": "extensive"
+      "word": "COLLABORATE",
+      "answer": "collaborate"
     },
     {
-      "word": "HABITABLE",
-      "answer": "habitable"
-    },
-    {
-      "word": "NEGOTIATE",
-      "answer": "negotiated"
-    },
-    {
-      "word": "TRANQUIL",
-      "answer": "tranquil"
+      "word": "COMMEND",
+      "answer": "commended"
     },
     {
       "word": "COMPREHEND",
       "answer": "comprehend"
     },
     {
+      "word": "CONFRONT",
+      "answer": "confronted"
+    },
+    {
+      "word": "CONGREGATE",
+      "answer": "congregated"
+    },
+    {
+      "word": "CONTROVERSY",
+      "answer": "controversy"
+    },
+    {
+      "word": "CORRUPT",
+      "answer": "corrupt"
+    },
+    {
+      "word": "DELINQUENCY",
+      "answer": "delinquency"
+    },
+    {
+      "word": "DENSE",
+      "answer": "dense"
+    },
+    {
+      "word": "ENSEMBLE",
+      "answer": "ensemble"
+    },
+    {
+      "word": "EXTENSIVE",
+      "answer": "extensive"
+    },
+    {
       "word": "FELINE",
       "answer": "feline"
+    },
+    {
+      "word": "FOREMOST",
+      "answer": "foremost"
+    },
+    {
+      "word": "FRAIL",
+      "answer": "frail"
+    },
+    {
+      "word": "FREAKISH",
+      "answer": "freakish"
+    },
+    {
+      "word": "GLIMMER",
+      "answer": "glimmer"
+    },
+    {
+      "word": "GOUGE",
+      "answer": "gouged"
+    },
+    {
+      "word": "HABITABLE",
+      "answer": "habitable"
+    },
+    {
+      "word": "HEADWAY",
+      "answer": "headway"
     },
     {
       "word": "IMMENSE",
       "answer": "immense"
     },
     {
+      "word": "INSTANCE",
+      "answer": "instance"
+    },
+    {
+      "word": "INSTANTANEOUS",
+      "answer": "instantaneous"
+    },
+    {
+      "word": "INTERCEPT",
+      "answer": "intercepted"
+    },
+    {
+      "word": "INTRICATE",
+      "answer": "intricate"
+    },
+    {
+      "word": "MEDDLE",
+      "answer": "meddles"
+    },
+    {
+      "word": "MISGIVING",
+      "answer": "misgivings"
+    },
+    {
+      "word": "MUTE",
+      "answer": "mute"
+    },
+    {
+      "word": "NEGOTIATE",
+      "answer": "negotiated"
+    },
+    {
       "word": "NOTABLE",
       "answer": "notable"
+    },
+    {
+      "word": "PENETRATE",
+      "answer": "penetrate"
+    },
+    {
+      "word": "PERTAIN",
+      "answer": "pertained"
+    },
+    {
+      "word": "PRECAUTION",
+      "answer": "precaution"
+    },
+    {
+      "word": "REEK",
+      "answer": "reek"
+    },
+    {
+      "word": "REFINE",
+      "answer": "refine"
+    },
+    {
+      "word": "REFORM",
+      "answer": "reform"
+    },
+    {
+      "word": "RESUME",
+      "answer": "resume"
+    },
+    {
+      "word": "RETAIN",
+      "answer": "retain"
+    },
+    {
+      "word": "SERVICEABLE",
+      "answer": "serviceable"
+    },
+    {
+      "word": "TRANQUIL",
+      "answer": "tranquil"
     }
   ],
   "questions": [
@@ -270,7 +270,7 @@
       "part1": "Computers are designed to give nearly",
       "part2": "replies to requests for information.",
       "correct": "instantaneous",
-      "word": "INSTANCE"
+      "word": "INSTANTANEOUS"
     },
     {
       "part1": "I",
@@ -288,7 +288,7 @@
       "part1": "The dentist's",
       "part2": "consists of drills, probes, mirrors, and other instruments.",
       "correct": "apparatus",
-      "word": "APPAREL"
+      "word": "APPARATUS"
     },
     {
       "part1": "The professor is the world's",

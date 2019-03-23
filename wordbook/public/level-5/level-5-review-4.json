@@ -1,180 +1,180 @@
 {
   "wordList": [
     {
-      "word": "ANGUISH",
-      "answer": "anguish"
-    },
-    {
-      "word": "CLAD",
-      "answer": "clad"
-    },
-    {
-      "word": "ENDEAVOR",
-      "answer": "endeavor"
-    },
-    {
-      "word": "LIVELIHOOD",
-      "answer": "livelihood"
-    },
-    {
-      "word": "PARTITION",
-      "answer": "partitioned"
-    },
-    {
-      "word": "ASSERT",
-      "answer": "asserted"
-    },
-    {
-      "word": "CONSPICUOUS",
-      "answer": "conspicuous"
-    },
-    {
-      "word": "GIST",
-      "answer": "gist"
-    },
-    {
-      "word": "NARRATIVE",
-      "answer": "narrative"
-    },
-    {
-      "word": "PRESUMPTUOUS",
-      "answer": "presumptuous"
-    },
-    {
-      "word": "CASTE",
-      "answer": "castes"
-    },
-    {
-      "word": "DICTATORIAL",
-      "answer": "dictatorial"
-    },
-    {
-      "word": "INVOKE",
-      "answer": "invoked"
-    },
-    {
-      "word": "ORNATE",
-      "answer": "ornate"
-    },
-    {
-      "word": "REPRIMAND",
-      "answer": "reprimanded"
-    },
-    {
-      "word": "CIRCUITOUS",
-      "answer": "circuitous"
-    },
-    {
-      "word": "DON",
-      "answer": "donned"
-    },
-    {
-      "word": "JURISDICTION",
-      "answer": "jurisdiction"
-    },
-    {
-      "word": "PANDEMONIUM",
-      "answer": "pandemonium"
-    },
-    {
-      "word": "SOMBER",
-      "answer": "somber"
-    },
-    {
       "word": "ANECDOTE",
       "answer": "anecdotes"
     },
     {
-      "word": "DEVISE",
-      "answer": "devise"
-    },
-    {
-      "word": "DWINDLE",
-      "answer": "dwindle"
-    },
-    {
-      "word": "HURTLE",
-      "answer": "hurtle"
-    },
-    {
-      "word": "REALM",
-      "answer": "realm"
+      "word": "ANGUISH",
+      "answer": "anguish"
     },
     {
       "word": "ANNIHILATE",
       "answer": "annihilated"
     },
     {
-      "word": "DIMINISH",
-      "answer": "diminished"
-    },
-    {
-      "word": "EFFERVESCENT",
-      "answer": "effervescent"
-    },
-    {
-      "word": "IMPEDIMENT",
-      "answer": "impediment"
-    },
-    {
-      "word": "RELISH",
-      "answer": "relish"
+      "word": "ASSERT",
+      "answer": "asserted"
     },
     {
       "word": "BEDLAM",
       "answer": "bedlam"
     },
     {
-      "word": "DISCORD",
-      "answer": "discord"
+      "word": "CASTE",
+      "answer": "castes"
     },
     {
-      "word": "FALLACY",
-      "answer": "fallacy"
+      "word": "CIRCUITOUS",
+      "answer": "circuitous"
     },
     {
-      "word": "JAUNT",
-      "answer": "jaunt"
+      "word": "CLAD",
+      "answer": "clad"
     },
     {
-      "word": "TALON",
-      "answer": "talons"
+      "word": "CONSPICUOUS",
+      "answer": "conspicuous"
     },
     {
       "word": "DEFRAUD",
       "answer": "defraud"
     },
     {
+      "word": "DEPLORABLE",
+      "answer": "deplorable"
+    },
+    {
+      "word": "DEVISE",
+      "answer": "devise"
+    },
+    {
+      "word": "DICTATORIAL",
+      "answer": "dictatorial"
+    },
+    {
+      "word": "DIMINISH",
+      "answer": "diminished"
+    },
+    {
+      "word": "DISCORD",
+      "answer": "discord"
+    },
+    {
       "word": "DISSIPATE",
       "answer": "dissipated"
     },
     {
-      "word": "GROPE",
-      "answer": "groped"
-    },
-    {
-      "word": "JOVIAL",
-      "answer": "jovial"
-    },
-    {
-      "word": "TUMULT",
-      "answer": "tumult"
-    },
-    {
-      "word": "DEPLORABLE",
-      "answer": "deplorable"
+      "word": "DON",
+      "answer": "donned"
     },
     {
       "word": "DORMANT",
       "answer": "dormant"
     },
     {
+      "word": "DWINDLE",
+      "answer": "dwindle"
+    },
+    {
+      "word": "EFFERVESCENT",
+      "answer": "effervescent"
+    },
+    {
+      "word": "ENDEAVOR",
+      "answer": "endeavor"
+    },
+    {
+      "word": "FALLACY",
+      "answer": "fallacy"
+    },
+    {
+      "word": "GIST",
+      "answer": "gist"
+    },
+    {
+      "word": "GROPE",
+      "answer": "groped"
+    },
+    {
       "word": "HUE",
       "answer": "hue"
     },
     {
+      "word": "HURTLE",
+      "answer": "hurtle"
+    },
+    {
+      "word": "IMPEDIMENT",
+      "answer": "impediment"
+    },
+    {
+      "word": "INVOKE",
+      "answer": "invoked"
+    },
+    {
+      "word": "JAUNT",
+      "answer": "jaunt"
+    },
+    {
+      "word": "JOVIAL",
+      "answer": "jovial"
+    },
+    {
+      "word": "JURISDICTION",
+      "answer": "jurisdiction"
+    },
+    {
+      "word": "LIVELIHOOD",
+      "answer": "livelihood"
+    },
+    {
       "word": "MERCANTILE",
       "answer": "mercantile"
+    },
+    {
+      "word": "NARRATIVE",
+      "answer": "narrative"
+    },
+    {
+      "word": "ORNATE",
+      "answer": "ornate"
+    },
+    {
+      "word": "PANDEMONIUM",
+      "answer": "pandemonium"
+    },
+    {
+      "word": "PARTITION",
+      "answer": "partitioned"
+    },
+    {
+      "word": "PRESUMPTUOUS",
+      "answer": "presumptuous"
+    },
+    {
+      "word": "REALM",
+      "answer": "realm"
+    },
+    {
+      "word": "RELISH",
+      "answer": "relish"
+    },
+    {
+      "word": "REPRIMAND",
+      "answer": "reprimanded"
+    },
+    {
+      "word": "SOMBER",
+      "answer": "somber"
+    },
+    {
+      "word": "TALON",
+      "answer": "talons"
+    },
+    {
+      "word": "TUMULT",
+      "answer": "tumult"
     },
     {
       "word": "UTILITY",
