@@ -1,0 +1,611 @@
+{
+  "title": "1.4",
+  "definitions": {
+    "REPRESENT": {
+      "word": "REPRESENT",
+      "phonetic": "(rep-ri-zent')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to stand for, act for, portray </p><p>To REPRESENT something is to stand for it, to be a picture or sign of it. </p><p>“The flag is a symbol that REPRESENTS our country.” </p><p>“These written notes REPRESENT musical sounds.” </p><p>“The scenery in the play is supposed to REPRESENT an African jungle.” </p><p>To REPRESENT also means to <i class=“def-ital\">speak</i> or <i class=“def-ital\">act for</i> someone or something. </p><p>“Bill will REPRESENT our school at the track meet.” </p><p>“Senator Jones REPRESENTS our state in Congress.” </p><p>Other forms of the word: REPRESENTATION, n. REPRESENTATIVE, adj.</p>"
+    },
+    "LASH": {
+      "word": "LASH",
+      "phonetic": "(lash)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to strike, whip, beat </p><p>To LASH someone is to hit him with a whip, or as if with a whip. </p><p>“He LASHED the thief twenty times for punishment.” </p><p>“He LASHED the horse with his whip.” </p><p>“The rain LASHED against the windows.” </p><p>To give someone a “tongue-LASHING” is to speak to him very angrily, to make him feel as if you were LASHING him with a whip. To LASH <i class=“def-ital\">out</i> at someone is to attack him violently, with words or blows. </p><p>“In his talk the coach LASHED out at the players who didn’t try.”</p>"
+    },
+    "RELY": {
+      "word": "RELY",
+      "phonetic": "(ri-11)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to depend, trust, have faith </p><p>To RELY <i class=“def-ital\">on</i> or <i class=“def-ital\">upon</i> someone is to depend on them, to put your trust in them. </p><p>“I RELIED on him to help me out.” </p><p>“We’re RELYING on you to keep our secret.” </p><p>“He can be RELIED on to get us to the airport on time.” </p><p>The noun form of RELY is RELIANCE, which means trust, confidence. </p><p>“We place our RELIANCE on you to get us out of trouble.” </p><p>The adjective is RELIABLE. Someone who is RELI- ABLE can be RELIED upon. </p><p>“He is a RELIABLE worker. You can count on him to do the job right.” </p><p>Other forms of the word: RELIABLE, adj. RELIANCE, n. Usage: RELY is usually followed by on or upon.</p>"
+    },
+    "SOB": {
+      "word": "SOB",
+      "phonetic": "(sob)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cry, weep </p><p>To SOB is to cry in gasping bursts, while taking sharp breaths. </p><p>“She SOBBED in relief that the child was not injured.” </p><p>“We heard him SOBBING quietly in his room.” </p><p>SOB is also a noun. </p><p>“We couldn’t understand what the unhappy child was saying as she tried to talk between SOBS.” </p><p>“The first angry crying gave way to long SOBS.” </p><p>“His chest heaved with SOBS.”</p>"
+    },
+    "PACE": {
+      "word": "PACE",
+      "phonetic": "(pAs)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a step; rate of moving </p><p>A PACE is a step in walking or running. </p><p>“He took a PACE or two and then stopped.” It is also the distance of a step. </p><p>“She measured off six PACES from the tree.” </p><p>The word is also used to indicate the rate of walking or moving. </p><p>“He worked at a steady PACE all day long.” </p><p>“He changed his PACE and started to run instead of walk.” </p><p>PACE is also a verb meaning to step or walk. </p><p>“He PACED back and forth across the room.”</p>"
+    },
+    "METHOD": {
+      "word": "METHOD",
+      "phonetic": "(meth'-ÔøΩd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a way, manner, system </p><p>A METHOD is an orderly, logical way of doing something. </p><p>“There are several METHODS for teaching words.” </p><p>“His METHOD for doing jigsaw puzzles is quite different from my system.” </p><p>“It takes days to learn the right METHOD for operating this machine.” </p><p>A METHODICAL person does everything in an orderly way, according to a METHOD. He always thinks things through before acting. </p><p>“He was very METHODICAL about dressing. He put everything on in a certain order and in a certain way.” </p><p>Other forms of the word: METHODICAL, adj.</p>"
+    },
+    "RETREAT": {
+      "word": "RETREAT",
+      "phonetic": "(ri-trEt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go back, draw back, withdraw </p><p>To RETREAT is to go back, especially from a dangerous or difficult situation. </p><p>“When the enemy attacked, the army was forced to RETREAT.” </p><p>“If we RETREAT, will people think we are cowards?” </p><p>RETREAT is also a noun. </p><p>“The general said that a RETREAT was the only way to save the army.”</p>"
+    },
+    "RECKLESS": {
+      "word": "RECKLESS",
+      "phonetic": "(rek'-lÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">careless, heedless, rash, fool- hardy, wild </p><p> RECK is an old word which means to <i class=“def-ital\">take care</i>, <i class=“def-ital\">be concerned</i>. Someone who is RECKLESS does not take enough care, is thoughtless or wild. </p><p>“The RECKLESS driver went down the narrow street at a hundred miles per hour.” “He raced after the criminal, completely RECKLESS of the danger.” “She lost everything she owned through her RECK- LESS gambling.”</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">less</i> under Suffixes."
+      ]
+    },
+    "SWIFT": {
+      "word": "SWIFT",
+      "phonetic": "(swift)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fast, quick, prompt </p><p>SWIFT means <i class=“def-ital\">fast</i> or <i class=“def-ital\">quick</i>; the word usually suggests smoothness of movement. </p><p>“We had all we could do to keep from overturning in the SWIFT waters of the river.” </p><p>“He ran so SWIFTLY that the others never caught up with him.” </p><p>“The days of summer pass SWIFTLY and the vacation is over before you know it.” </p><p>“There was a SWIFT change in the weather from blue skies to heavy rain.”</p>"
+    },
+    "REGAIN": {
+      "word": "REGAIN",
+      "phonetic": "(rE-gAn')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to get back, recover </p><p> To REGAIN something is to gain it or get it back after you have lost it. The word is usually used about qualities or states rather than physical objects. </p><p>“After being in prison for ten years, he finally REGAINED his freedom.” </p><p>“It took Jane a while to REGAIN her health after her operation.” </p><p>“They lost the lead, then REGAINED it.” </p><p>“He REGAINED his balance after nearly slipping on the ice.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "OPPORTUNITY": {
+      "word": "OPPORTUNITY",
+      "phonetic": "(op-ÔøΩr-tU'-ni-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a chance </p><p>An OPPORTUNITY is a favorable time or chance for doing something. </p><p>“This is a golden OPPORTUNITY for making all kinds of money.” </p><p>“If I only had the OPPORTUNITY I’d show them what a good player I am.” </p><p>“We had plenty of OPPORTUNITIES to win. We just couldn’t seem to take advantage of them.” </p><p>“Jane had no OPPORTUNITY to speak to the teacher after school.” </p><p>Usage: OPPORTUNITY is often followed by <i class=“def-ital\">to</i> or <i class=“def-ital\">for</i>.</p>"
+    },
+    "IRRITATE": {
+      "word": "IRRITATE",
+      "phonetic": "(Er'-ÔøΩtAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to annoy, cause anger; to make sore, inflame </p><p> IRRITATE has two different meanings. To IRRITATE someone is to cause him to become angry, to annoy him. </p><p>“The student’s endless questions quickly IRRITATED the impatient teacher.” </p><p>“After several weeks, Jane found her roommate’s sloppy habits to be extremely IRRITATING.” </p><p>“The mother was very IRRITATED by her children’s constant whining.” </p><p>In another sense, to IRRITATE something is to cause it to become sore or inflamed. </p><p>“The woman’s eyes were IRRITATED by the smoke-filled air.” </p><p>IRRITABLE is the adjective from IRRITATE and means <i class=“def-ital\">bad-tempered</i>. </p><p>“Hot weather always made him very IRRITABLE, and on those days we tried our best to avoid him.” </p><p>Other forms of the word: IRRITABLE, adj. IRRITATION, n.</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">ate2</i> under Suffixes."
+      ]
+    },
+    "REQUEST": {
+      "word": "REQUEST",
+      "phonetic": "(ri-kwest)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to ask, ask for </p><p>To REQUEST something is to ask for it, usually very politely. </p><p>“He REQUESTED a new pair of shoes from his parents.” </p><p>“I REQUESTED him to come early.” </p><p>“All I REQUEST of you is that you be on time.” </p><p>“They REQUEST that we be silent until they are finished.” </p><p>REQUEST is also a noun. </p><p>“At their REQUEST we shall come to the party.” </p><p>“They turned down his REQUEST for a raise.”</p>"
+    },
+    "POSE": {
+      "word": "POSE",
+      "phonetic": "(pOz)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a position of the body, attitude </p><p>A POSE is a fixed position of the body, especially one that is taken up while your picture is being taken or painted. </p><p>“He had an odd POSE in the painting, leaning to the side with one foot in the air.” </p><p>POSE has also come to mean any way of behaving which may seem unnatural or put on just to impress people. </p><p>“She acted very friendly towards us, but it was all just a POSE. Really she disliked us intensely.” </p><p>As a verb, POSE means “to hold a physical position.” </p><p>“His wife used to POSE for his paintings.” </p><p>It can also mean “to take on a false character, to claim to be.” </p><p>“The robber POSED as a janitor in order to get into the apartment.”</p>"
+    },
+    "INVESTIGATE": {
+      "word": "INVESTIGATE",
+      "phonetic": "(in-ves'-ti-gAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to look into, examine in detail, study </p><p>INVESTIGATE comes from the Latin word for <i class=“def-ital\">footprint</i>. The word was used in Latin when talking about tracking down animals by following their footprints. In English, to INVESTIGATE something is to make careful study of it, to look into it closely. </p><p>“The policeman INVESTIGATED the crime.” </p><p>“We will have to INVESTIGATE how much a new ra- dio costs.” </p><p>“He INVESTIGATED the area for clues.” </p><p>Many people confuse the meaning of INVESTIGATE with the word prove. You might INVESTIGATE a crime, for example, to prove who did it, but INVESTIGATE only means to look into or study. Other forms of the word: INVESTIGATION, n.</p>"
+    }
+  },
+  "id": "4",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "What does she REPRESENT?",
+          "answers": [
+            "leave out",
+            "dislike",
+            "expect",
+            "stand for",
+            "mean"
+          ],
+          "word": "REPRESENT",
+          "correct": "stand for"
+        },
+        {
+          "prompt": "LASHED the prisoner.",
+          "answers": [
+            "lost",
+            "killed",
+            "helped",
+            "cut",
+            "whipped"
+          ],
+          "word": "LASH",
+          "correct": "whipped"
+        },
+        {
+          "prompt": "To RELY on it.",
+          "answers": [
+            "work",
+            "agree",
+            "improve",
+            "depend",
+            "give up"
+          ],
+          "word": "RELY",
+          "correct": "depend"
+        },
+        {
+          "prompt": "To SOB constantly.",
+          "answers": [
+            "shake",
+            "cry",
+            "cough",
+            "shout",
+            "laugh"
+          ],
+          "word": "SOB",
+          "correct": "cry"
+        },
+        {
+          "prompt": "Seven PACES.",
+          "answers": [
+            "feet",
+            "flights",
+            "steps",
+            "horses",
+            "jumps"
+          ],
+          "word": "PACE",
+          "correct": "steps"
+        },
+        {
+          "prompt": "Different METHOD.",
+          "answers": [
+            "look",
+            "idea",
+            "ending",
+            "way",
+            "church"
+          ],
+          "word": "METHOD",
+          "correct": "way"
+        },
+        {
+          "prompt": "Told to RETREAT.",
+          "answers": [
+            "enjoy",
+            "push forward",
+            "go back",
+            "forget",
+            "fall down"
+          ],
+          "word": "RETREAT",
+          "correct": "go back"
+        },
+        {
+          "prompt": "Several RECKLESS men.",
+          "answers": [
+            "angry",
+            "slow",
+            "lazy",
+            "careless",
+            "penniless"
+          ],
+          "word": "RECKLESS",
+          "correct": "careless"
+        },
+        {
+          "prompt": "SWIFT animals.",
+          "answers": [
+            "fast",
+            "small",
+            "happy",
+            "wild",
+            "tired"
+          ],
+          "word": "SWIFT",
+          "correct": "fast"
+        },
+        {
+          "prompt": "REGAIN the land.",
+          "answers": [
+            "lose",
+            "aim for",
+            "get back",
+            "keep",
+            "enjoy"
+          ],
+          "word": "REGAIN",
+          "correct": "get back"
+        },
+        {
+          "prompt": "A rare OPPORTUNITY.",
+          "answers": [
+            "offer",
+            "chance",
+            "problem",
+            "disagreement",
+            "sale"
+          ],
+          "word": "OPPORTUNITY",
+          "correct": "chance"
+        },
+        {
+          "prompt": "Easy to IRRITATE.",
+          "answers": [
+            "annoy",
+            "hate",
+            "harm",
+            "refuse",
+            "calm"
+          ],
+          "word": "IRRITATE",
+          "correct": "annoy"
+        },
+        {
+          "prompt": "Who REQUESTED it?",
+          "answers": [
+            "searched for",
+            "returned",
+            "asked for",
+            "needed",
+            "disapproved of"
+          ],
+          "word": "REQUEST",
+          "correct": "asked for"
+        },
+        {
+          "prompt": "A beautiful POSE.",
+          "answers": [
+            "race",
+            "body",
+            "picture",
+            "flower",
+            "position"
+          ],
+          "word": "POSE",
+          "correct": "position"
+        },
+        {
+          "prompt": "INVESTIGATE the charges.",
+          "answers": [
+            "forget",
+            "agree with",
+            "prove",
+            "look into",
+            "pay for"
+          ],
+          "word": "INVESTIGATE",
+          "correct": "look into"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does a penny REPRESENT a lot of money?",
+          "word": "REPRESENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a horse usually run faster when the rider LASHES it?",
+          "word": "LASH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you RELY on a liar to tell the truth?",
+          "word": "RELY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you SOB while holding your breath?",
+          "word": "SOB",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do nervous people sometimes PACE back and forth?",
+          "word": "PACE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is there more than one METHOD for learning how to swim?",
+          "word": "METHOD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do soldiers ever RETREAT?",
+          "word": "RETREAT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should people drive cars RECKLESSLY?",
+          "word": "RECKLESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are turtles SWIFT?",
+          "word": "SWIFT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it possible to REGAIN something you never had?",
+          "word": "REGAIN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most people have an OPPORTUNITY to go to the moon?",
+          "word": "OPPORTUNITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a fly buzzing around a person's head be IRRITATING?",
+          "word": "IRRITATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it more polite to REQUEST something than to demand it?",
+          "word": "REQUEST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do models POSE for pictures?",
+          "word": "POSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do astronomers INVESTIGATE the stars?",
+          "word": "INVESTIGATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "That ambassador REPRESENTS Canada.",
+          "word": "REPRESENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The angry man LASHED out at everyone who criticized him.",
+          "word": "LASH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Blanche said that she had always RELIED on the kindness of strangers.",
+          "word": "RELY",
+          "correct": "true"
+        },
+        {
+          "prompt": "She SOBBED with laughter at the funny jokes.",
+          "word": "SOB",
+          "correct": "false"
+        },
+        {
+          "prompt": "He was going at such a fast PACE that no one could keep up with him.",
+          "word": "PACE",
+          "correct": "true"
+        },
+        {
+          "prompt": "It seems that every week someone comes up with a new METHOD for teaching arithmetic.",
+          "word": "METHOD",
+          "correct": "true"
+        },
+        {
+          "prompt": "The soldiers RETREATED to attack the enemy.",
+          "word": "RETREAT",
+          "correct": "false"
+        },
+        {
+          "prompt": "He is very RECKLESS about his health; he eats too much, smokes too much, and drinks too much.",
+          "word": "RECKLESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bob SWIFTLY recovered the fumble and raced for a touchdown.",
+          "word": "SWIFT",
+          "correct": "true"
+        },
+        {
+          "prompt": "It took several weeks for him to REGAIN confidence in his driving ability after the terrible accident.",
+          "word": "REGAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "He just never had the OPPORTUNITIES to succeed that we have had.",
+          "word": "OPPORTUNITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The rash on her arm was further IRRITATED by her constant scratching.",
+          "word": "IRRITATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He REQUESTED that we stop talking.",
+          "word": "REQUEST",
+          "correct": "true"
+        },
+        {
+          "prompt": "She wore beautiful POSES around her neck.",
+          "word": "POSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He INVESTIGATED the possibility of buying a new car.",
+          "word": "INVESTIGATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "REPRESENT",
+          "answers": [
+            "stand for",
+            "act for",
+            "hope for"
+          ],
+          "word": "REPRESENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "LASH",
+          "answers": [
+            "stop",
+            "wound",
+            "hit"
+          ],
+          "word": "LASH",
+          "correct": "0"
+        },
+        {
+          "prompt": "RELY",
+          "answers": [
+            "enjoy",
+            "count on",
+            "expect"
+          ],
+          "word": "RELY",
+          "correct": "0"
+        },
+        {
+          "prompt": "SOB",
+          "answers": [
+            "weep",
+            "cry",
+            "chuckle"
+          ],
+          "word": "SOB",
+          "correct": "2"
+        },
+        {
+          "prompt": "PACE",
+          "answers": [
+            "walk",
+            "run",
+            "jump"
+          ],
+          "word": "PACE",
+          "correct": "2"
+        },
+        {
+          "prompt": "METHOD",
+          "answers": [
+            "plan",
+            "stop",
+            "system"
+          ],
+          "word": "METHOD",
+          "correct": "1"
+        },
+        {
+          "prompt": "RETREAT",
+          "answers": [
+            "go back",
+            "escape",
+            "decide"
+          ],
+          "word": "RETREAT",
+          "correct": "2"
+        },
+        {
+          "prompt": "RECKLESS",
+          "answers": [
+            "careless",
+            "useless",
+            "thoughtless"
+          ],
+          "word": "RECKLESS",
+          "correct": "1"
+        },
+        {
+          "prompt": "SWIFT",
+          "answers": [
+            "large",
+            "speedy",
+            "quick"
+          ],
+          "word": "SWIFT",
+          "correct": "0"
+        },
+        {
+          "prompt": "REGAIN",
+          "answers": [
+            "get",
+            "want",
+            "recover"
+          ],
+          "word": "REGAIN",
+          "correct": "1"
+        },
+        {
+          "prompt": "OPPORTUNITY",
+          "answers": [
+            "event",
+            "opening",
+            "chance"
+          ],
+          "word": "OPPORTUNITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "IRRITATE",
+          "answers": [
+            "inflame",
+            "bother",
+            "refuse"
+          ],
+          "word": "IRRITATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "REQUEST",
+          "answers": [
+            "want",
+            "show",
+            "ask"
+          ],
+          "word": "REQUEST",
+          "correct": "1"
+        },
+        {
+          "prompt": "POSE",
+          "answers": [
+            "stand",
+            "sleep",
+            "sit"
+          ],
+          "word": "POSE",
+          "correct": "1"
+        },
+        {
+          "prompt": "INVESTIGATE",
+          "answers": [
+            "remember",
+            "search",
+            "study"
+          ],
+          "word": "INVESTIGATE",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ARISTOCRACY",
+      "answer": "aristocracy"
+    },
+    {
+      "word": "ASCEND",
+      "answer": "ascend"
+    },
+    {
+      "word": "ATROCIOUS",
+      "answer": "atrocious"
+    },
+    {
+      "word": "ATTIRE",
+      "answer": "attire"
+    },
+    {
+      "word": "CAMOUFLAGE",
+      "answer": "camouflage"
+    },
+    {
+      "word": "CANINE",
+      "answer": "canine"
+    },
+    {
+      "word": "CHRONOLOGY",
+      "answer": "chronology"
+    },
+    {
+      "word": "COMPASSION",
+      "answer": "compassion"
+    },
+    {
+      "word": "COMPEL",
+      "answer": "compelled"
+    },
+    {
+      "word": "CONSEQUENCE",
+      "answer": "consequence"
+    },
+    {
+      "word": "ELAPSE",
+      "answer": "elapsed"
+    },
+    {
+      "word": "ELUDE",
+      "answer": "elude"
+    },
+    {
+      "word": "ENLIGHTEN",
+      "answer": "enlighten"
+    },
+    {
+      "word": "EXCRUCIATING",
+      "answer": "excruciating"
+    },
+    {
+      "word": "FACSIMILE",
+      "answer": "facsimile"
+    },
+    {
+      "word": "FEASIBLE",
+      "answer": "feasible"
+    },
+    {
+      "word": "FINITE",
+      "answer": "finite"
+    },
+    {
+      "word": "FORMAT",
+      "answer": "format"
+    },
+    {
+      "word": "FUTILE",
+      "answer": "futile"
+    },
+    {
+      "word": "INITIATIVE",
+      "answer": "initiative"
+    },
+    {
+      "word": "INTELLECT",
+      "answer": "intellect"
+    },
+    {
+      "word": "INTERSPERSE",
+      "answer": "interspersed"
+    },
+    {
+      "word": "LAX",
+      "answer": "lax"
+    },
+    {
+      "word": "LUSTER",
+      "answer": "luster"
+    },
+    {
+      "word": "MONOTONOUS",
+      "answer": "monotonous"
+    },
+    {
+      "word": "MUTINOUS",
+      "answer": "mutinous"
+    },
+    {
+      "word": "NULLIFY",
+      "answer": "nullified"
+    },
+    {
+      "word": "OUTLANDISH",
+      "answer": "outlandish"
+    },
+    {
+      "word": "PLACID",
+      "answer": "placid"
+    },
+    {
+      "word": "PREVAIL",
+      "answer": "prevailed"
+    },
+    {
+      "word": "RAMBLE",
+      "answer": "rambling"
+    },
+    {
+      "word": "REMORSE",
+      "answer": "remorse"
+    },
+    {
+      "word": "RETORT",
+      "answer": "retort"
+    },
+    {
+      "word": "SHACKLE",
+      "answer": "shackles"
+    },
+    {
+      "word": "SHIRK",
+      "answer": "shirk"
+    },
+    {
+      "word": "SHREWD",
+      "answer": "shrewd"
+    },
+    {
+      "word": "STENCH",
+      "answer": "stench"
+    },
+    {
+      "word": "STRICKEN",
+      "answer": "stricken"
+    },
+    {
+      "word": "SUPERINTEND",
+      "answer": "superintended"
+    },
+    {
+      "word": "SUPERLATIVE",
+      "answer": "superlative"
+    },
+    {
+      "word": "TRANSACT",
+      "answer": "transact"
+    },
+    {
+      "word": "UNCANNY",
+      "answer": "uncanny"
+    },
+    {
+      "word": "UPHOLD",
+      "answer": "upheld"
+    },
+    {
+      "word": "VIVID",
+      "answer": "vivid"
+    },
+    {
+      "word": "ZEAL",
+      "answer": "zeal"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The number of problems is large but",
+      "part2": "; I'm sure we can solve them all.",
+      "correct": "finite",
+      "word": "FINITE"
+    },
+    {
+      "part1": "They covered the guns with tree branches in order to",
+      "part2": "them from the enemy.",
+      "correct": "camouflage",
+      "word": "CAMOUFLAGE"
+    },
+    {
+      "part1": "The sailors were angry about the conditions, but they weren't",
+      "part2": "; they still obeyed their captain.",
+      "correct": "mutinous",
+      "word": "MUTINOUS"
+    },
+    {
+      "part1": "It's",
+      "part2": "how he can do such a good imitation of his father's voice on the phone.",
+      "correct": "uncanny",
+      "word": "UNCANNY"
+    },
+    {
+      "part1": "To show off his knowledge, he took down the sign which said \"Beware of the dog\" and replaced it with one which said \"Beware of the",
+      "part2": ".\"",
+      "correct": "canine",
+      "word": "CANINE"
+    },
+    {
+      "part1": "He was usually quite",
+      "part2": ", except when someone insulted his school. Then he would get so angry people had to restrain him.",
+      "correct": "placid",
+      "word": "PLACID"
+    },
+    {
+      "part1": "The",
+      "part2": "of the show was simple: the host sat and talked with his guests.",
+      "correct": "format",
+      "word": "FORMAT"
+    },
+    {
+      "part1": "After a long match, Smith finally",
+      "part2": "over Jones.",
+      "correct": "prevailed",
+      "word": "PREVAIL"
+    },
+    {
+      "part1": "Susan felt a great deal of",
+      "part2": "for her sister, because she had once had the same problems.",
+      "correct": "compassion",
+      "word": "COMPASSION"
+    },
+    {
+      "part1": "The most",
+      "part2": "solution to the problem will be the one that costs least.",
+      "correct": "feasible",
+      "word": "FEASIBLE"
+    },
+    {
+      "part1": "You didn't have to be rich to be a member of the",
+      "part2": "; you just had to be born of noble parents.",
+      "correct": "aristocracy",
+      "word": "ARISTOCRACY"
+    },
+    {
+      "part1": "The prisoner broke his",
+      "part2": "with a rock and tried to escape.",
+      "correct": "shackles",
+      "word": "SHACKLE"
+    },
+    {
+      "part1": "The students asked the teacher to",
+      "part2": "them as to the meaning of that word.",
+      "correct": "enlighten",
+      "word": "ENLIGHTEN"
+    },
+    {
+      "part1": "She turned and twisted trying to find some position which would ease the",
+      "part2": "pain in her back.",
+      "correct": "excruciating",
+      "word": "EXCRUCIATING"
+    },
+    {
+      "part1": "The decision to award Jim the prize was",
+      "part2": "when they found out that he hadn't obeyed the rules.",
+      "correct": "nullified",
+      "word": "NULLIFY"
+    },
+    {
+      "part1": "Several years",
+      "part2": "before I saw my friend again.",
+      "correct": "elapsed",
+      "word": "ELAPSE"
+    },
+    {
+      "part1": "The characters in the novel were so",
+      "part2": "that we thought of them as real people.",
+      "correct": "vivid",
+      "word": "VIVID"
+    },
+    {
+      "part1": "Because the man was known to be cruel and vicious, it was easy to believe that he was guilty of the",
+      "part2": "crime.",
+      "correct": "atrocious",
+      "word": "ATROCIOUS"
+    },
+    {
+      "part1": "To make sure that nothing went wrong he",
+      "part2": "every phase of the project himself.",
+      "correct": "superintended",
+      "word": "SUPERINTEND"
+    },
+    {
+      "part1": "The dog was trained to keep the sheep from",
+      "part2": "too far away.",
+      "correct": "rambling",
+      "word": "RAMBLE"
+    },
+    {
+      "part1": "It was a very",
+      "part2": "speech. He just said the same thing over and over again in slightly different ways.",
+      "correct": "monotonous",
+      "word": "MONOTONOUS"
+    },
+    {
+      "part1": "The thieves were able to",
+      "part2": "the police by using clever disguises.",
+      "correct": "elude",
+      "word": "ELUDE"
+    },
+    {
+      "part1": "The coach was impressed by the",
+      "part2": "Tim showed in practice; he was certainly the most enthusiastic player on the field.",
+      "correct": "zeal",
+      "word": "ZEAL"
+    },
+    {
+      "part1": "We cleaned the freezer after it broke down, but we couldn't get rid of the",
+      "part2": "left by food that had rotted.",
+      "correct": "stench",
+      "word": "STENCH"
+    },
+    {
+      "part1": "The difficult problem presented quite a challenge to his",
+      "part2": ", but he was finally able to solve it.",
+      "correct": "intellect",
+      "word": "INTELLECT"
+    },
+    {
+      "part1": "We have to",
+      "part2": "some business at the bank; then we'll be free for the rest of the day.",
+      "correct": "transact",
+      "word": "TRANSACT"
+    },
+    {
+      "part1": "He wore his usual",
+      "part2": "-a brown suit with a white shirt and a plaid tie.",
+      "correct": "attire",
+      "word": "ATTIRE"
+    },
+    {
+      "part1": "His attempt to stop them from arguing was",
+      "part2": "; he might just as well have tried to keep the sun from coming up in the morning.",
+      "correct": "futile",
+      "word": "FUTILE"
+    },
+    {
+      "part1": "The submarine began to",
+      "part2": "from the ocean floor.",
+      "correct": "ascend",
+      "word": "ASCEND"
+    },
+    {
+      "part1": "She",
+      "part2": "several tiny angels among the decorations already on the Christmas tree.",
+      "correct": "interspersed",
+      "word": "INTERSPERSE"
+    },
+    {
+      "part1": "Her improved grades were the",
+      "part2": "of better study habits.",
+      "correct": "consequence",
+      "word": "CONSEQUENCE"
+    },
+    {
+      "part1": "The principal",
+      "part2": "the teacher's right to keep a student after school, saying it was necessary for good discipline.",
+      "correct": "upheld",
+      "word": "UPHOLD"
+    },
+    {
+      "part1": "Although she was",
+      "part2": "with terror, she managed to call for help.",
+      "correct": "stricken",
+      "word": "STRICKEN"
+    },
+    {
+      "part1": "Some people are not content with the way things are, but they lack the",
+      "part2": "to try to change them.",
+      "correct": "initiative",
+      "word": "INITIATIVE"
+    },
+    {
+      "part1": "Dave couldn't think of any clever",
+      "part2": "to the man's remark.",
+      "correct": "retort",
+      "word": "RETORT"
+    },
+    {
+      "part1": "This is a very dangerous experiment; we cannot afford to be",
+      "part2": "about following the rules for safety.",
+      "correct": "lax",
+      "word": "LAX"
+    },
+    {
+      "part1": "The",
+      "part2": "of his reputation was dimmed somewhat by the evidence that he had lied.",
+      "correct": "luster",
+      "word": "LUSTER"
+    },
+    {
+      "part1": "He felt no",
+      "part2": "for having committed the crime. He was only sorry that he got caught.",
+      "correct": "remorse",
+      "word": "REMORSE"
+    },
+    {
+      "part1": "So much has happened that it is difficult to remember the exact",
+      "part2": "of events.",
+      "correct": "chronology",
+      "word": "CHRONOLOGY"
+    },
+    {
+      "part1": "The",
+      "part2": "investor knew just when to buy stock and just when to sell it.",
+      "correct": "shrewd",
+      "word": "SHREWD"
+    },
+    {
+      "part1": "Hunger",
+      "part2": "us to stop and look for a place to buy some food.",
+      "correct": "compelled",
+      "word": "COMPEL"
+    },
+    {
+      "part1": "The actor won the Academy Award for his",
+      "part2": "performance.",
+      "correct": "superlative",
+      "word": "SUPERLATIVE"
+    },
+    {
+      "part1": "He said the most",
+      "part2": "things just so people would notice him.",
+      "correct": "outlandish",
+      "word": "OUTLANDISH"
+    },
+    {
+      "part1": "The talented student produced a very good",
+      "part2": "of the Rembrandt painting.",
+      "correct": "facsimile",
+      "word": "FACSIMILE"
+    },
+    {
+      "part1": "He didn't want to",
+      "part2": "his duty, but he was just too busy to do it.",
+      "correct": "shirk",
+      "word": "SHIRK"
+    }
+  ],
+  "type": "fitb",
+  "id": 4
+}

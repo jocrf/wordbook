@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABLUTION",
+      "answer": "ablution"
+    },
+    {
+      "word": "ABNEGATION",
+      "answer": "abnegation"
+    },
+    {
+      "word": "ABRADE",
+      "answer": "abraded"
+    },
+    {
+      "word": "ABSTRUSE",
+      "answer": "abstruse"
+    },
+    {
+      "word": "ADMONISH",
+      "answer": "admonished"
+    },
+    {
+      "word": "AMENABLE",
+      "answer": "amenable"
+    },
+    {
+      "word": "ANCILLARY",
+      "answer": "ancillary"
+    },
+    {
+      "word": "ANOMALY",
+      "answer": "anomaly"
+    },
+    {
+      "word": "APPRISE",
+      "answer": "apprise"
+    },
+    {
+      "word": "ASCETIC",
+      "answer": "ascetic"
+    },
+    {
+      "word": "ASSIDUOUS",
+      "answer": "assiduous"
+    },
+    {
+      "word": "BELIE",
+      "answer": "belie"
+    },
+    {
+      "word": "BELLICOSE",
+      "answer": "bellicose"
+    },
+    {
+      "word": "BENIGN",
+      "answer": "benign"
+    },
+    {
+      "word": "CELERITY",
+      "answer": "celerity"
+    },
+    {
+      "word": "CREDULOUS",
+      "answer": "credulous"
+    },
+    {
+      "word": "ESCHEW",
+      "answer": "eschew"
+    },
+    {
+      "word": "EXPIATION",
+      "answer": "expiation"
+    },
+    {
+      "word": "EXTANT",
+      "answer": "extant"
+    },
+    {
+      "word": "FATUOUS",
+      "answer": "fatuous"
+    },
+    {
+      "word": "FERAL",
+      "answer": "feral"
+    },
+    {
+      "word": "HIRSUTE",
+      "answer": "hirsute"
+    },
+    {
+      "word": "IGNOMINIOUS",
+      "answer": "ignominious"
+    },
+    {
+      "word": "IMPLACABLE",
+      "answer": "implacable"
+    },
+    {
+      "word": "INCOMMODE",
+      "answer": "incommode"
+    },
+    {
+      "word": "INCREDULOUS",
+      "answer": "incredulous"
+    },
+    {
+      "word": "INIQUITOUS",
+      "answer": "iniquitous"
+    },
+    {
+      "word": "INVECTIVE",
+      "answer": "invective"
+    },
+    {
+      "word": "ONEROUS",
+      "answer": "onerous"
+    },
+    {
+      "word": "PARADIGM",
+      "answer": "paradigm"
+    },
+    {
+      "word": "PAROXYSM",
+      "answer": "paroxysm"
+    },
+    {
+      "word": "PERFIDY",
+      "answer": "perfidy"
+    },
+    {
+      "word": "PRODIGIOUS",
+      "answer": "prodigious"
+    },
+    {
+      "word": "PROPINQUITY",
+      "answer": "propinquity"
+    },
+    {
+      "word": "PROPITIOUS",
+      "answer": "propitious"
+    },
+    {
+      "word": "RUMINATE",
+      "answer": "ruminate"
+    },
+    {
+      "word": "SEQUESTER",
+      "answer": "sequestered"
+    },
+    {
+      "word": "SINUOUS",
+      "answer": "sinuous"
+    },
+    {
+      "word": "STODGY",
+      "answer": "stodgy"
+    },
+    {
+      "word": "SUFFUSE",
+      "answer": "suffused"
+    },
+    {
+      "word": "TENABLE",
+      "answer": "tenable"
+    },
+    {
+      "word": "TRIBULATION",
+      "answer": "tribulations"
+    },
+    {
+      "word": "UBIQUITOUS",
+      "answer": "ubiquitous"
+    },
+    {
+      "word": "VILIFY",
+      "answer": "vilified"
+    },
+    {
+      "word": "VOLUBLE",
+      "answer": "voluble"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The",
+      "part2": "mechanic worked hard to make sure the engine was absolutely perfect.",
+      "correct": "assiduous",
+      "word": "ASSIDUOUS"
+    },
+    {
+      "part1": "All the circumstances were",
+      "part2": "for a victory: everyone was healthy, we were on our home field and we had an excellent game plan.",
+      "correct": "propitious",
+      "word": "PROPITIOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "young man chose to live on bread and water in order to purify his spirit.",
+      "correct": "ascetic",
+      "word": "ASCETIC"
+    },
+    {
+      "part1": "You are too",
+      "part2": "; why do you believe everything you are told?",
+      "correct": "credulous",
+      "word": "CREDULOUS"
+    },
+    {
+      "part1": "Only the most brilliant students could follow the professor's",
+      "part2": "lecture.",
+      "correct": "abstruse",
+      "word": "ABSTRUSE"
+    },
+    {
+      "part1": "As he slid down the side of the hill, his palms were",
+      "part2": "by the rough surface of the rock.",
+      "correct": "abraded",
+      "word": "ABRADE"
+    },
+    {
+      "part1": "Gandhi's movement was a(n)",
+      "part2": "of the successful, nonviolent approach to political change.",
+      "correct": "paradigm",
+      "word": "PARADIGM"
+    },
+    {
+      "part1": "The townspeople demanded that Hester Prynne wear a scarlet A on her chest as",
+      "part2": "for her adultery.",
+      "correct": "expiation",
+      "word": "EXPIATION"
+    },
+    {
+      "part1": "The general's",
+      "part2": "defeat in the important battle destroyed his reputation.",
+      "correct": "ignominious",
+      "word": "IGNOMINIOUS"
+    },
+    {
+      "part1": "The Andersons seemed rather",
+      "part2": "to Barbara; they didn't approve of young people laughing or playing in the house.",
+      "correct": "stodgy",
+      "word": "STODGY"
+    },
+    {
+      "part1": "Jason proved to be extremely",
+      "part2": "to our advice; in fact, he said it was quite helpful.",
+      "correct": "amenable",
+      "word": "AMENABLE"
+    },
+    {
+      "part1": "The writer's output was",
+      "part2": ": he wrote over a hundred novels in his lifetime.",
+      "correct": "prodigious",
+      "word": "PRODIGIOUS"
+    },
+    {
+      "part1": "We left the \"Do Not Disturb\" sign on the door so that the maid wouldn't",
+      "part2": "us.",
+      "correct": "incommode",
+      "word": "INCOMMODE"
+    },
+    {
+      "part1": "Since absolute silence was required, we were asked to",
+      "part2": "talking during the performances.",
+      "correct": "eschew",
+      "word": "ESCHEW"
+    },
+    {
+      "part1": "Despite all her",
+      "part2": "she still managed to keep smiling.",
+      "correct": "tribulations",
+      "word": "TRIBULATION"
+    },
+    {
+      "part1": "Juan wrote us a letter to",
+      "part2": "us of conditions in his country.",
+      "correct": "apprise",
+      "word": "APPRISE"
+    },
+    {
+      "part1": "Nothing would satisfy the",
+      "part2": "enemy but our complete and utter defeat.",
+      "correct": "implacable",
+      "word": "IMPLACABLE"
+    },
+    {
+      "part1": "The evening sky was",
+      "part2": "with an eerie red glow.",
+      "correct": "suffused",
+      "word": "SUFFUSE"
+    },
+    {
+      "part1": "You couldn't go anywhere in Rome that summer without running into the",
+      "part2": "tourists - cameras and guidebooks in hand.",
+      "correct": "ubiquitous",
+      "word": "UBIQUITOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "students refused to believe their teacher could actually make a mistake.",
+      "correct": "incredulous",
+      "word": "INCREDULOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "of his apartment to where he worked meant that he could be on the job in less than five minutes.",
+      "correct": "propinquity",
+      "word": "PROPINQUITY"
+    },
+    {
+      "part1": "There is only one copy of the book",
+      "part2": "; all the rest were destroyed by fire.",
+      "correct": "extant",
+      "word": "EXTANT"
+    },
+    {
+      "part1": "The speech was totally",
+      "part2": "; there wasn't an ounce of sense in it.",
+      "correct": "fatuous",
+      "word": "FATUOUS"
+    },
+    {
+      "part1": "The task of retyping the book proved to be too",
+      "part2": "for just one person, so two people were assigned to it.",
+      "correct": "onerous",
+      "word": "ONEROUS"
+    },
+    {
+      "part1": "His views on medicine are simply not",
+      "part2": "in light of what we know about how the body works.",
+      "correct": "tenable",
+      "word": "TENABLE"
+    },
+    {
+      "part1": "We were impressed by her act of",
+      "part2": "; she refused to accept any financial rewards for her medical discovery.",
+      "correct": "abnegation",
+      "word": "ABNEGATION"
+    },
+    {
+      "part1": "The animal's",
+      "part2": "instincts told it when it was in danger.",
+      "correct": "feral",
+      "word": "FERAL"
+    },
+    {
+      "part1": "After a year without a shave or haircut, Jim had an extremely",
+      "part2": "appearance.",
+      "correct": "hirsute",
+      "word": "HIRSUTE"
+    },
+    {
+      "part1": "We have enough money for the required equipment, but not for the",
+      "part2": "materials that would make the job so much easier.",
+      "correct": "ancillary",
+      "word": "ANCILLARY"
+    },
+    {
+      "part1": "The",
+      "part2": "uncle would always have a kind word and a gift for his nephews and nieces.",
+      "correct": "benign",
+      "word": "BENIGN"
+    },
+    {
+      "part1": "She works with such great",
+      "part2": "that she will finish the job by the end of the day.",
+      "correct": "celerity",
+      "word": "CELERITY"
+    },
+    {
+      "part1": "The",
+      "part2": "actress spent half an hour answering the interviewer's first question.",
+      "correct": "voluble",
+      "word": "VOLUBLE"
+    },
+    {
+      "part1": "The newspaper",
+      "part2": "the mayor, saying that he was the scum of the earth.",
+      "correct": "vilified",
+      "word": "VILIFY"
+    },
+    {
+      "part1": "The committee was",
+      "part2": "in the conference room all day while they tried to decide whom to hire.",
+      "correct": "sequestered",
+      "word": "SEQUESTER"
+    },
+    {
+      "part1": "The newspaper called the dictator's decision",
+      "part2": ", a disgraceful violation of human rights.",
+      "correct": "iniquitous",
+      "word": "INIQUITOUS"
+    },
+    {
+      "part1": "The audience went into a sudden",
+      "part2": "of laughter when the comedian told the joke.",
+      "correct": "paroxysm",
+      "word": "PAROXYSM"
+    },
+    {
+      "part1": "The man",
+      "part2": "Jimmy for disturbing his nap.",
+      "correct": "admonished",
+      "word": "ADMONISH"
+    },
+    {
+      "part1": "His insistence on wearing a business suit and tie made him a(n)",
+      "part2": "among the casually dressed students.",
+      "correct": "anomaly",
+      "word": "ANOMALY"
+    },
+    {
+      "part1": "Late at night he liked to",
+      "part2": "on what his life would have been like if he had been born in another century.",
+      "correct": "ruminate",
+      "word": "RUMINATE"
+    },
+    {
+      "part1": "The",
+      "part2": "man said that if anyone disagreed with him, he'd be happy to prove his point with his fists.",
+      "correct": "bellicose",
+      "word": "BELLICOSE"
+    },
+    {
+      "part1": "We were astonished by his",
+      "part2": "in selling the military secrets to the enemy.",
+      "correct": "perfidy",
+      "word": "PERFIDY"
+    },
+    {
+      "part1": "Your trembling hands",
+      "part2": "your brave words; you are really quite frightened.",
+      "correct": "belie",
+      "word": "BELIE"
+    },
+    {
+      "part1": "The",
+      "part2": "path of the stream led us in and out of many interesting places.",
+      "correct": "sinuous",
+      "word": "SINUOUS"
+    },
+    {
+      "part1": "The priestess performed a ceremonial",
+      "part2": "by washing her face and hands in the sacred water.",
+      "correct": "ablution",
+      "word": "ABLUTION"
+    },
+    {
+      "part1": "The writer's speech was filled with",
+      "part2": "; we were shocked at the bitterness of his insults.",
+      "correct": "invective",
+      "word": "INVECTIVE"
+    }
+  ],
+  "type": "fitb",
+  "id": 4
+}

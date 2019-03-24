@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ACUTE",
+      "answer": "acute"
+    },
+    {
+      "word": "AJAR",
+      "answer": "ajar"
+    },
+    {
+      "word": "ALTER",
+      "answer": "alter"
+    },
+    {
+      "word": "AUTHENTIC",
+      "answer": "authentic"
+    },
+    {
+      "word": "CHAMBER",
+      "answer": "chamber"
+    },
+    {
+      "word": "COMPETENT",
+      "answer": "competent"
+    },
+    {
+      "word": "CONCEPT",
+      "answer": "concept"
+    },
+    {
+      "word": "CONSPIRACY",
+      "answer": "conspiracy"
+    },
+    {
+      "word": "DOMESTIC",
+      "answer": "domestic"
+    },
+    {
+      "word": "EMBRACE",
+      "answer": "embraced"
+    },
+    {
+      "word": "EXERTION",
+      "answer": "exertion"
+    },
+    {
+      "word": "EXTRACT",
+      "answer": "extract"
+    },
+    {
+      "word": "FATIGUE",
+      "answer": "fatigued"
+    },
+    {
+      "word": "FOOLHARDY",
+      "answer": "foolhardy"
+    },
+    {
+      "word": "FRANK",
+      "answer": "frank"
+    },
+    {
+      "word": "FUGITIVE",
+      "answer": "fugitive"
+    },
+    {
+      "word": "GRATIFY",
+      "answer": "gratified"
+    },
+    {
+      "word": "HANDILY",
+      "answer": "handily"
+    },
+    {
+      "word": "ILLITERATE",
+      "answer": "illiterate"
+    },
+    {
+      "word": "INCOMPARABLE",
+      "answer": "incomparable"
+    },
+    {
+      "word": "INFALLIBLE",
+      "answer": "infallible"
+    },
+    {
+      "word": "INSTRUMENTAL",
+      "answer": "instrumental"
+    },
+    {
+      "word": "JUVENILE",
+      "answer": "juveniles"
+    },
+    {
+      "word": "LOFTY",
+      "answer": "lofty"
+    },
+    {
+      "word": "MANEUVER",
+      "answer": "maneuvers"
+    },
+    {
+      "word": "MEMENTO",
+      "answer": "memento"
+    },
+    {
+      "word": "PARCHED",
+      "answer": "parched"
+    },
+    {
+      "word": "PATHETIC",
+      "answer": "pathetic"
+    },
+    {
+      "word": "PERSISTENT",
+      "answer": "persistent"
+    },
+    {
+      "word": "PHENOMENAL",
+      "answer": "phenomenal"
+    },
+    {
+      "word": "PIGMENT",
+      "answer": "pigments"
+    },
+    {
+      "word": "RELUCTANT",
+      "answer": "reluctant"
+    },
+    {
+      "word": "REVIVE",
+      "answer": "revived"
+    },
+    {
+      "word": "RIGID",
+      "answer": "rigid"
+    },
+    {
+      "word": "ROVING",
+      "answer": "roving"
+    },
+    {
+      "word": "SECLUSION",
+      "answer": "seclusion"
+    },
+    {
+      "word": "SEEK",
+      "answer": "seek"
+    },
+    {
+      "word": "SENSATION",
+      "answer": "sensation"
+    },
+    {
+      "word": "SNARE",
+      "answer": "snares"
+    },
+    {
+      "word": "SQUABBLE",
+      "answer": "squabble"
+    },
+    {
+      "word": "STANCE",
+      "answer": "stance"
+    },
+    {
+      "word": "TEXTILE",
+      "answer": "textiles"
+    },
+    {
+      "word": "THRUST",
+      "answer": "thrust"
+    },
+    {
+      "word": "TRAITOR",
+      "answer": "traitor"
+    },
+    {
+      "word": "TYPHOON",
+      "answer": "typhoon"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The two friends",
+      "part2": "each other when they met.",
+      "correct": "embraced",
+      "word": "EMBRACE"
+    },
+    {
+      "part1": "The twenty-mile hike really",
+      "part2": "us; we could barely stand up.",
+      "correct": "fatigued",
+      "word": "FATIGUE"
+    },
+    {
+      "part1": "Through a series of skillful",
+      "part2": "he managed to become the only possible candidate for president of the company.",
+      "correct": "maneuvers",
+      "word": "MANEUVER"
+    },
+    {
+      "part1": "The shortage of gasoline became so",
+      "part2": "that long lines formed at gas stations.",
+      "correct": "acute",
+      "word": "ACUTE"
+    },
+    {
+      "part1": "Her singing was",
+      "part2": "; some say she was the greatest singer who ever lived.",
+      "correct": "incomparable",
+      "word": "INCOMPARABLE"
+    },
+    {
+      "part1": "The",
+      "part2": "mountains towered thousands of feet into the air.",
+      "correct": "lofty",
+      "word": "LOFTY"
+    },
+    {
+      "part1": "Fred was so certain that he was right that he was extremely",
+      "part2": "to admit that he might have made a mistake.",
+      "correct": "reluctant",
+      "word": "RELUCTANT"
+    },
+    {
+      "part1": "If weather forecasters were",
+      "part2": ", then we could always believe their predictions.",
+      "correct": "infallible",
+      "word": "INFALLIBLE"
+    },
+    {
+      "part1": "That summer all the trees were",
+      "part2": "from lack of rainfall.",
+      "correct": "parched",
+      "word": "PARCHED"
+    },
+    {
+      "part1": "The poor boy was",
+      "part2": ". He had never had the chance to go to school and learn how to read.",
+      "correct": "illiterate",
+      "word": "ILLITERATE"
+    },
+    {
+      "part1": "Interest in this book is",
+      "part2": ". Everyone seems to be talking about it.",
+      "correct": "phenomenal",
+      "word": "PHENOMENAL"
+    },
+    {
+      "part1": "Ben didn't have any experience in these matters, so he was not",
+      "part2": "to solve the problem.",
+      "correct": "competent",
+      "word": "COMPETENT"
+    },
+    {
+      "part1": "Her",
+      "part2": "happiness suffered greatly when her husband left home.",
+      "correct": "domestic",
+      "word": "DOMESTIC"
+    },
+    {
+      "part1": "The police searched for months before finally capturing the",
+      "part2": ".",
+      "correct": "fugitive",
+      "word": "FUGITIVE"
+    },
+    {
+      "part1": "The man lived on an island because he wanted to find some",
+      "part2": "from the rest of the world.",
+      "correct": "seclusion",
+      "word": "SECLUSION"
+    },
+    {
+      "part1": "I admire the",
+      "part2": "way in which he tells you what is bothering him.",
+      "correct": "frank",
+      "word": "FRANK"
+    },
+    {
+      "part1": "Because he was fond of young people, the man decided to specialize in the teaching of",
+      "part2": ".",
+      "correct": "juveniles",
+      "word": "JUVENILE"
+    },
+    {
+      "part1": "Bill just couldn't understand the",
+      "part2": "that students must study in order to learn.",
+      "correct": "concept",
+      "word": "CONCEPT"
+    },
+    {
+      "part1": "Ed wasn't putting on an act; his unhappiness was",
+      "part2": ".",
+      "correct": "authentic",
+      "word": "AUTHENTIC"
+    },
+    {
+      "part1": "A degree in business administration can be",
+      "part2": "in getting a good job.",
+      "correct": "instrumental",
+      "word": "INSTRUMENTAL"
+    },
+    {
+      "part1": "Tom",
+      "part2": "the knife deep into the cushion and ripped it apart.",
+      "correct": "thrust",
+      "word": "THRUST"
+    },
+    {
+      "part1": "The plant",
+      "part2": "after I watered it.",
+      "correct": "revived",
+      "word": "REVIVE"
+    },
+    {
+      "part1": "Even after it was proved that he had betrayed his country, it was hard for many people to believe that he really was a(n)",
+      "part2": ".",
+      "correct": "traitor",
+      "word": "TRAITOR"
+    },
+    {
+      "part1": "Next to his bedroom he had a small",
+      "part2": "where he would sit and study.",
+      "correct": "chamber",
+      "word": "CHAMBER"
+    },
+    {
+      "part1": "He wasn't used to so much",
+      "part2": ", so he was very tired after climbing all those stairs.",
+      "correct": "exertion",
+      "word": "EXERTION"
+    },
+    {
+      "part1": "We put out several",
+      "part2": "to trap the rabbits.",
+      "correct": "snares",
+      "word": "SNARE"
+    },
+    {
+      "part1": "The criminal tried to",
+      "part2": "his appearance so that no one would recognize him.",
+      "correct": "alter",
+      "word": "ALTER"
+    },
+    {
+      "part1": "She made a(n)",
+      "part2": "attempt to stop the runaway horse and ended up with several broken bones.",
+      "correct": "foolhardy",
+      "word": "FOOLHARDY"
+    },
+    {
+      "part1": "Ann kept the postcard as a(n)",
+      "part2": "of her happy vacation.",
+      "correct": "memento",
+      "word": "MEMENTO"
+    },
+    {
+      "part1": "The runner broke the world's record",
+      "part2": "; he had seconds to spare.",
+      "correct": "handily",
+      "word": "HANDILY"
+    },
+    {
+      "part1": "During the gold rush many miners came to California to",
+      "part2": "their fortunes.",
+      "correct": "seek",
+      "word": "SEEK"
+    },
+    {
+      "part1": "They would",
+      "part2": "over the most unimportant things.",
+      "correct": "squabble",
+      "word": "SQUABBLE"
+    },
+    {
+      "part1": "Joe took up a threatening",
+      "part2": "in front of the door and dared everyone to try to get by him.",
+      "correct": "stance",
+      "word": "STANCE"
+    },
+    {
+      "part1": "It was quite an unpleasant",
+      "part2": "to have the cold rain dripping down his neck.",
+      "correct": "sensation",
+      "word": "SENSATION"
+    },
+    {
+      "part1": "She left the door",
+      "part2": "for us so that we could get in without a key.",
+      "correct": "ajar",
+      "word": "AJAR"
+    },
+    {
+      "part1": "This factory produces",
+      "part2": "that are used in making sheets and pillowcases.",
+      "correct": "textiles",
+      "word": "TEXTILE"
+    },
+    {
+      "part1": "A dozen men secretly joined the",
+      "part2": "to kidnap the business leader.",
+      "correct": "conspiracy",
+      "word": "CONSPIRACY"
+    },
+    {
+      "part1": "The old saying, \"If at first you don't succeed, try, try again,\" advises us to be",
+      "part2": ".",
+      "correct": "persistent",
+      "word": "PERSISTENT"
+    },
+    {
+      "part1": "The ship sank in the high winds and huge waves of the",
+      "part2": ".",
+      "correct": "typhoon",
+      "word": "TYPHOON"
+    },
+    {
+      "part1": "She will give in on some things, but she is",
+      "part2": "about this; no one is allowed to smoke in her house.",
+      "correct": "rigid",
+      "word": "RIGID"
+    },
+    {
+      "part1": "The beggar told us a(n)",
+      "part2": "story about how he had lost all he owned in a fire.",
+      "correct": "pathetic",
+      "word": "PATHETIC"
+    },
+    {
+      "part1": "They could not",
+      "part2": "any information from him about the enemy's plans.",
+      "correct": "extract",
+      "word": "EXTRACT"
+    },
+    {
+      "part1": "In days of old there were many",
+      "part2": "knights who wandered about the country looking for wrongs to right.",
+      "correct": "roving",
+      "word": "ROVING"
+    },
+    {
+      "part1": "The artist mixed together the",
+      "part2": "to get the exact shade of green he needed.",
+      "correct": "pigments",
+      "word": "PIGMENT"
+    },
+    {
+      "part1": "Your approval",
+      "part2": "us immensely. We had hoped you'd like it.",
+      "correct": "gratified",
+      "word": "GRATIFY"
+    }
+  ],
+  "type": "fitb",
+  "id": 3
+}

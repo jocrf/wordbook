@@ -1,0 +1,611 @@
+{
+  "title": "3.2",
+  "definitions": {
+    "CRINGE": {
+      "word": "CRINGE",
+      "phonetic": "(krinj)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shrink back, huddle, crouch down </p><p>To CRINGE is to draw back from something, to huddle or crouch down in fear. </p><p>“The shy child CRINGED at the sight of the stranger.” </p><p>“The thief CRINGED fearfully as the huge attack dog lunged at his neck.” </p><p>CRINGE sometimes suggests a total lack of self-respect. </p><p>“The beggar CRINGED as he saw the powerful nobleman approach.”</p>"
+    },
+    "PLAGUE": {
+      "word": "PLAGUE",
+      "phonetic": "(plAg)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to torment, annoy, trouble, afflict </p><p>Note the pronunciation. A PLAGUE is some kind of evil that causes widespread harm, especially a disease that spreads rapidly and causes fever and death. </p><p>“Millions died when the PLAGUE swept across Europe in the Middle Ages.” </p><p>“The rising number of robberies is a PLAGUE upon the nation.” </p><p>As a verb, PLAGUE means to <i class=“def-ital\">trouble</i> or <i class=“def-ital\">torment</i> as if with a PLAGUE. </p><p>“Bad luck seemed to PLAGUE him throughout life.” </p><p>“The project was PLAGUED with delays and problems.” </p><p>“Poor health PLAGUED her as she tried to study for her exams.”</p>"
+    },
+    "SACRED": {
+      "word": "SACRED",
+      "phonetic": "(sA'-krid)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">holy, divine </p><p>Something that is SACRED is dedicated or set apart for some reason. </p><p>“This field is SACRED to the memory of our soldiers who have fallen in battle.” </p><p>SACRED is usually used about things that are set apart for religious purposes; in this sense it means just about the same as <i class=“def-ital\">holy</i>. </p><p>“These SACRED books may be opened only by the high priest.” </p><p>“I made a SACRED promise. It would be a sin to break it.” </p><p>Usage: SACRED is sometimes followed by <i class=“def-ital\">to</i>.</p>"
+    },
+    "PROVOKE": {
+      "word": "PROVOKE",
+      "phonetic": "(prÔøΩv-Ok')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to stir up, call forth; to make angry </p><p> The <i class=“def-ital\">voke</i> part of the word means <i class=“def-ital\">call</i>. To PROVOKE is to call forth or stir up. </p><p>“His jokes managed to PROVOKE a smile.” </p><p>“Her suggestion PROVOKED a long debate.” </p><p>Very often PROVOKE means “to call forth <i class=“def-ital\">anger</i>.” To PROVOKE someone is to make him upset or angry. </p><p>“Don’t PROVOKE the cat or it will scratch you.” </p><p>“His enemy’s insults PROVOKED him into starting a fight.” </p><p>On the Pretest, many people choose <i class=“def-ital\">stop</i> as the meaning of PROVOKE. The two words are actually just about opposites. The confusion may be due to the similarity between PROVOKE and <i class=“def-ital\">revoke</i>, which means to <i class=“def-ital\">cancel</i>. </p><p>Other forms of the word: PROVOCATION, n. PROVOCATIVE, adj.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">pro-</i> under Prefixes."
+      ]
+    },
+    "SALVAGE": {
+      "word": "SALVAGE",
+      "phonetic": "(sat'-vij)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to save, rescue </p><p>To SALVAGE something is to save it, especially from loss or ruin. The word was originally used in shipping, where people would be paid for saving, or SALVAGING, cargo from a shipwreck. Now the word is also used about saving from any kind of loss or wreckage. </p><p>“We managed to SALVAGE most of our furniture from the fire.” </p><p>“All our records were ruined in the flood. Nothing could be SALVAGED.” </p><p>SALVAGE is also a noun. It is the act of saving: </p><p>“The SALVAGE of the ship was a difficult operation.” </p><p>Or the things that have been saved: </p><p>“They piled up the ship’s SALVAGE on the beach.”</p>"
+    },
+    "SHUDDER": {
+      "word": "SHUDDER",
+      "phonetic": "(shuhd'-ÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to tremble, shake, shiver </p><p>To SHUDDER is to tremble or shake. When people SHUDDER, it is usually from fear or disgust. </p><p>“She SHUDDERED when she heard the strange noises outside the room.” </p><p>“They SHUDDERED with horror at the sight of the dead bodies.” </p><p>Physical objects can also SHUDDER. </p><p>“The whole house seemed to SHUDDER when the big trucks came roaring by.” </p><p>SHUDDER is also a noun, and means a <i class=“def-ital\">trembling</i> or <i class=“def-ital\">shaking</i>. </p><p>“A SHUDDER passed through him at the thought of the coming battle.” </p><p>Many people think SHUDDER means <i class=“def-ital\">moan</i>. These words might be used in the same situation--about a person who is afraid or in pain--but they do not have the same meaning.</p>"
+    },
+    "EXHAUST": {
+      "word": "EXHAUST",
+      "phonetic": "(eg-zost'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to use up; to tire </p><p>EXHAUST has two common meanings. The basic meaning of EXHAUST is “to use up so that there’s nothing left.” </p><p>“Our supply of gasoline was almost EXHAUSTED, so we had to stop and buy some more.” </p><p>“The children’s shouting finally EXHAUSTED her patience, and she told them to be quiet.” </p><p>When used about people, EXHAUST suggests that their strength or energy is all used up, so the word means to <i class=“def-ital\">tire</i> or <i class=“def-ital\">wear out</i>. </p><p>“The long drive totally EXHAUSTED him.” </p><p>“Even when she’s EXHAUSTED she seems to find the strength to stay up and watch the late show.” </p><p>Other forms of the word: EXHAUSTION, n.</p>"
+    },
+    "CONTAGIOUS": {
+      "word": "CONTAGIOUS",
+      "phonetic": "(kan-tA'-jas)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">catching </p><p>CONTAGIOUS is primarily used about diseases, and means “spreading by contact.” Scarlet fever is a CONTAGIOUS disease; you can come down with it by touching a person who has it. Diabetes is not a CONTAGIOUS disease; it is not spread by contact. </p><p>“We stayed away from Jimmy when he had the chicken pox, because we were afraid the disease might be CONTAGIOUS.” </p><p>Other forms of the word: CONTAGION, n.</p>"
+    },
+    "SPRAWL": {
+      "word": "SPRAWL",
+      "phonetic": "(sprol)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to spread out </p><p>The verb to SPRAWL means “to spread out loosely, with arms and legs flung apart.” </p><p>“He was SPRAWLED on the bed\"--that is, he was lying down with his arms and legs carelessly spread out. </p><p>“The boy SPRAWLED on the sofa, with one leg dangling over its arm.” </p><p>SPRAWL can also be used about anything that is spread out in a loose or irregular way. </p><p>“As more and more people came to the campground, tents SPRAWLED all over the place.” </p><p>SPRAWL is also a noun; a SPRAWL is the position you take when you SPRAWL. </p><p>“She tripped and fell in a SPRAWL.” </p><p>Many people choose <i class=“def-ital\">crawl</i> as the meaning of SPRAWL, probably because they sound alike, and both can take place on the floor. But <i class=“def-ital\">crawling</i> is a way of moving, while SPRAWLING is a way of falling or lying.</p>"
+    },
+    "LEAN": {
+      "word": "LEAN",
+      "phonetic": "(IEn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">thin, lacking fat; scarce, scanty </p><p>When used about people or animals, LEAN means <i class=“def-ital\">thin</i>, “without much fat.” </p><p>“She eats very little so that she can have a LEAN figure.” </p><p>“He buys LEAN meat, because he believes that eating a lot of fat is bad for you.” </p><p>When used about other things, LEAN means “lacking in fullness or quantity,” <i class=“def-ital\">unproductive</i>, <i class=“def-ital\">scarce</i>. </p><p>“It was a LEAN harvest this year. We only got half as much corn as we expected.” </p><p>“There will be LEAN years ahead unless we all work harder.” </p><p>LEAN is confused by some people with <i class=“def-ital\">healthy</i>. A LEAN person might also be <i class=“def-ital\">healthy</i>, but the two words do not have the same meaning.</p>"
+    },
+    "BEFUDDLE": {
+      "word": "BEFUDDLE",
+      "phonetic": "(bi-fuhd'-1)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to confuse, puzzle, muddle </p><p>To BEFUDDLE someone is to confuse him so that he can’t understand what is going on. </p><p>“He BEFUDDLED his son by giving him several orders one right after the other.” </p><p>“She was in a BEFUDDLED state for several hours after the operation; finally the drug wore off and her mind cleared.” </p><p>“Sally was completely BEFUDDLED by the strong opposition to her reasonable suggestion.” </p><p>“Liquor is known to BEFUDDLE people. They can’t walk or think straight.” </p><p><i class=“def-ital\">Amuse</i> is the most commonly chosen wrong answer on the Pretest, perhaps because BEFUDDLE is a funny sounding word.</p>"
+    },
+    "CONSENT": {
+      "word": "CONSENT",
+      "phonetic": "(k::,n-sent')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to agree, give permission </p><p>CONSENT means “to give permission or approval.” The word suggests going along with a request or an idea; it does not necessarily suggest enthusiastic support for it. </p><p>“The teacher CONSENTED to the suggestion that she delay the test.” </p><p>“He would not CONSENT to let them go out alone after dark.” </p><p>“I wanted to go to the movies, but my parents would not CONSENT.” </p><p>CONSENT is also a noun. </p><p>“The committee gave their CONSENT to the plan.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">decide</i>, probably because you must decide whether or not you want something to happen before you CONSENT to it. </p><p>Usage: CONSENT is often followed by <i class=“def-ital\">to</i>.</p>"
+    },
+    "DESCEND": {
+      "word": "DESCEND",
+      "phonetic": "(di-send')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go down, come down </p><p> To DESCEND is to go from a higher level to a lower one. The word can be used about real heights: </p><p>“She DESCENDED the stairs very slowly.” </p><p>Or about things that are like heights: </p><p>“The book started brilliantly, then DESCENDED into stupidity.” </p><p>Many people choose <i class=“def-ital\">go away</i> as the meaning of DESCEND, but DESCEND always has the idea of going <i class=“def-ital\">down</i>. </p><p>The opposite of DESCEND is <i class=“def-ital\">ascend</i>, to <i class=“def-ital\">go up</i>. </p><p>“He <i class=“def-ital\">ascended</i> the mountain in the morning and DESCENDED it in the afternoon.” </p><p>Other forms of the word: DESCENT, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">de-</i> under Prefixes."
+      ]
+    },
+    "ENCHANTING": {
+      "word": "ENCHANTING",
+      "phonetic": "(en-chan'-ting",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">charming, delightful, fascinating, bewitching </p><p>To ENCHANT is to lay under a magic spell, to <i class=“def-ital\">charm</i>: </p><p>“the ENCHANTED castle\"; “the ENCHANTED forest.” ENCHANTING is the adjective from ENCHANT and means <i class=“def-ital\">charming</i>, “so pleasant and delightful that it seems like magic.” </p><p>“The music was ENCHANTING. It held us in its spell.” </p><p>“She had an ENCHANTING smile that made everyone fall in love with her.” </p><p>Many people choose <i class=“def-ital\">exciting</i> as the meaning of ENCHANTING. ENCHANTING suggests pleasure and delight, however, not excitement. </p><p>Other forms of the word: ENCHANT, v. ENCHANTMENT, n.</p>"
+    },
+    "DOMINATE": {
+      "word": "DOMINATE",
+      "phonetic": "(dom'-::,.-nAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to rule, hold power over, control, overshadow </p><p> The <i class=“def-ital\">domin</i> part of the word comes from a Latin word meaning <i class=“def-ital\">lord</i> or <i class=“def-ital\">master</i>. To DOMINATE something is to have control over it, to be so powerful or so numerous that nothing or no one else has a chance. </p><p>“He was such a great player that he DOMINATED tennis for many years.” </p><p>“That one huge tree DOMINATED the entire landscape.” </p><p>“Three automakers DOMINATE the entire industry.” </p><p>“He DOMINATED the conversation; no one else had a chance to speak.” </p><p>Someone or something that has this kind of control is DOMINANT. </p><p>“The DOMINANT activity around here is farming.” </p><p>“When the senator died, his replacement became the DOMINANT figure in the party.” </p><p>Other forms of the word: DOMINANT, adj. DOMINATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    }
+  },
+  "id": "2",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Saw him CRINGE.",
+          "answers": [
+            "bow",
+            "fall down",
+            "shrink back",
+            "rise up",
+            "give up"
+          ],
+          "word": "CRINGE",
+          "correct": "shrink back"
+        },
+        {
+          "prompt": "Continues to PLAGUE me.",
+          "answers": [
+            "need",
+            "support",
+            "avoid",
+            "torment",
+            "hate"
+          ],
+          "word": "PLAGUE",
+          "correct": "torment"
+        },
+        {
+          "prompt": "These are SACRED.",
+          "answers": [
+            "evil",
+            "holy",
+            "related",
+            "ancient",
+            "beautiful"
+          ],
+          "word": "SACRED",
+          "correct": "holy"
+        },
+        {
+          "prompt": "PROVOKE a riot.",
+          "answers": [
+            "join",
+            "stop",
+            "plan",
+            "stir up",
+            "call off"
+          ],
+          "word": "PROVOKE",
+          "correct": "stir up"
+        },
+        {
+          "prompt": "What can we SALVAGE?",
+          "answers": [
+            "sell",
+            "throw out",
+            "destroy",
+            "improve",
+            "save"
+          ],
+          "word": "SALVAGE",
+          "correct": "save"
+        },
+        {
+          "prompt": "Suddenly he SHUDDERED.",
+          "answers": [
+            "trembled",
+            "stopped",
+            "yelled",
+            "hid",
+            "moaned"
+          ],
+          "word": "SHUDDER",
+          "correct": "trembled"
+        },
+        {
+          "prompt": "We EXHAUSTED the supply.",
+          "answers": [
+            "reduced",
+            "added to",
+            "released",
+            "cleaned up",
+            "used up"
+          ],
+          "word": "EXHAUST",
+          "correct": "used up"
+        },
+        {
+          "prompt": "It was CONTAGIOUS.",
+          "answers": [
+            "ugly",
+            "catching",
+            "disgraceful",
+            "safe",
+            "dangerous"
+          ],
+          "word": "CONTAGIOUS",
+          "correct": "catching"
+        },
+        {
+          "prompt": "SPRAWL on the floor.",
+          "answers": [
+            "spread out",
+            "slide",
+            "run",
+            "crawl",
+            "sit down"
+          ],
+          "word": "SPRAWL",
+          "correct": "spread out"
+        },
+        {
+          "prompt": "LEAN men.",
+          "answers": [
+            "fat",
+            "thin",
+            "tired",
+            "healthy",
+            "old"
+          ],
+          "word": "LEAN",
+          "correct": "thin"
+        },
+        {
+          "prompt": "Everyone was BEFUDDLED.",
+          "answers": [
+            "confused",
+            "improved",
+            "soiled",
+            "tired",
+            "amused"
+          ],
+          "word": "BEFUDDLE",
+          "correct": "confused"
+        },
+        {
+          "prompt": "They will CONSENT.",
+          "answers": [
+            "leave",
+            "refuse",
+            "agree",
+            "decide",
+            "improve"
+          ],
+          "word": "CONSENT",
+          "correct": "agree"
+        },
+        {
+          "prompt": "Started to DESCEND.",
+          "answers": [
+            "argue",
+            "come up",
+            "go down",
+            "take off",
+            "go away"
+          ],
+          "word": "DESCEND",
+          "correct": "go down"
+        },
+        {
+          "prompt": "ENCHANTING plays.",
+          "answers": [
+            "excellent",
+            "terrible",
+            "exciting",
+            "boring",
+            "charming"
+          ],
+          "word": "ENCHANTING",
+          "correct": "charming"
+        },
+        {
+          "prompt": "Started to DOMINATE them.",
+          "answers": [
+            "know",
+            "obey",
+            "hate",
+            "rule",
+            "destroy"
+          ],
+          "word": "DOMINATE",
+          "correct": "rule"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do some people CRINGE at the sight of blood?",
+          "word": "CRINGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people try to avoid PLAGUES?",
+          "word": "PLAGUE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would SACRED things usually be thrown away?",
+          "word": "SACRED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a slap in the face PROVOKE most people?",
+          "word": "PROVOKE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can SALVAGE be valuable?",
+          "word": "SALVAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person usually SHUDDER with joy?",
+          "word": "SHUDDER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a gallon of milk EXHAUSTED when most of it is gone?",
+          "word": "EXHAUST",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a broken arm CONTAGIOUS?",
+          "word": "CONTAGIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do skaters sometimes SPRAWL when they lose their balance?",
+          "word": "SPRAWL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does LEAN meat have a lot of fat on it?",
+          "word": "LEAN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person who is BEFUDDLED give clear directions?",
+          "word": "BEFUDDLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people CONSENT to being given a raise?",
+          "word": "CONSENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a rock DESCEND when you drop it?",
+          "word": "DESCEND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most students find homework ENCHANTING?",
+          "word": "ENCHANTING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are palm trees the DOMINANT form of life at the North Pole?",
+          "word": "DOMINATE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The dog CRINGED when he saw that his master was angry with him.",
+          "word": "CRINGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She was PLAGUED by doubts about her ability to sing in public.",
+          "word": "PLAGUE",
+          "correct": "true"
+        },
+        {
+          "prompt": "In ancient times they considered this tree to be SACRED and offered sacrifices to it.",
+          "word": "SACRED",
+          "correct": "true"
+        },
+        {
+          "prompt": "He had his license PROVOKED for three years.",
+          "word": "PROVOKE",
+          "correct": "false"
+        },
+        {
+          "prompt": "They SALVAGED what they could from the office after it had been robbed.",
+          "word": "SALVAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "It makes me SHUDDER to think of how close we all came to drowning.",
+          "word": "SHUDDER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Spring house cleaning left us all EXHAUSTED.",
+          "word": "EXHAUST",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was a rather CONTAGIOUS person, always getting angry at people for no reason.",
+          "word": "CONTAGIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "He SPRAWLED as quickly as he could from one side of the room to the other.",
+          "word": "SPRAWL",
+          "correct": "false"
+        },
+        {
+          "prompt": "He kept himself LEAN by not overeating.",
+          "word": "LEAN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Sally was delighted when the most popular girl in the class BEFUDDLED her.",
+          "word": "BEFUDDLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The farmer said he would never CONSENT to sell his land.",
+          "word": "CONSENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The skier DESCENDED quickly to the bottom of the mountain.",
+          "word": "DESCEND",
+          "correct": "true"
+        },
+        {
+          "prompt": "He wrote ENCHANTING stories which little children loved to read.",
+          "word": "ENCHANTING",
+          "correct": "true"
+        },
+        {
+          "prompt": "Plans for escaping DOMINATED the thoughts of the prisoners.",
+          "word": "DOMINATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "CRINGE",
+          "answers": [
+            "bow",
+            "shout",
+            "cower"
+          ],
+          "word": "CRINGE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PLAGUE",
+          "answers": [
+            "bother",
+            "torture",
+            "fear"
+          ],
+          "word": "PLAGUE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SACRED",
+          "answers": [
+            "religious",
+            "holy",
+            "necessary"
+          ],
+          "word": "SACRED",
+          "correct": "2"
+        },
+        {
+          "prompt": "PROVOKE",
+          "answers": [
+            "produce",
+            "anger",
+            "prevent"
+          ],
+          "word": "PROVOKE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SALVAGE",
+          "answers": [
+            "recover",
+            "rescue",
+            "release"
+          ],
+          "word": "SALVAGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SHUDDER",
+          "answers": [
+            "eat",
+            "fear",
+            "disgust"
+          ],
+          "word": "SHUDDER",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXHAUST",
+          "answers": [
+            "use up",
+            "tire out",
+            "overdo"
+          ],
+          "word": "EXHAUST",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONTAGIOUS",
+          "answers": [
+            "worsening",
+            "spreading",
+            "catching"
+          ],
+          "word": "CONTAGIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "SPRAWL",
+          "answers": [
+            "stop",
+            "fall",
+            "spread"
+          ],
+          "word": "SPRAWL",
+          "correct": "0"
+        },
+        {
+          "prompt": "LEAN",
+          "answers": [
+            "uncommon",
+            "slim",
+            "scarce"
+          ],
+          "word": "LEAN",
+          "correct": "0"
+        },
+        {
+          "prompt": "BEFUDDLE",
+          "answers": [
+            "sadden",
+            "confuse",
+            "puzzle"
+          ],
+          "word": "BEFUDDLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONSENT",
+          "answers": [
+            "allow",
+            "approve",
+            "affect"
+          ],
+          "word": "CONSENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "DESCEND",
+          "answers": [
+            "soften",
+            "lower",
+            "go down"
+          ],
+          "word": "DESCEND",
+          "correct": "0"
+        },
+        {
+          "prompt": "ENCHANTING",
+          "answers": [
+            "lovely",
+            "delightful",
+            "musical"
+          ],
+          "word": "ENCHANTING",
+          "correct": "2"
+        },
+        {
+          "prompt": "DOMINATE",
+          "answers": [
+            "enjoy",
+            "control",
+            "overshadow"
+          ],
+          "word": "DOMINATE",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

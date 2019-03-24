@@ -1,0 +1,614 @@
+{
+  "title": "6.1",
+  "definitions": {
+    "LEVY": {
+      "word": "LEVY",
+      "phonetic": "(lev'-E)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to impose, collect; to carry on (war) </p><p>To LEVY is to impose something like a tax or a fine, and to collect it by authority or force. </p><p>“The king LEVIED a new tax on the citizens.” </p><p>“The judge LEVIED a huge fine on the company.” </p><p>LEVY is also used in a different sense, to mean “to start or make war.” </p><p>“The king decided to LEVY war against his enemies.” </p><p>As a noun, a LEVY is the act of imposing or the thing imposed, a <i class=“def-ital\">tax</i>. </p><p>“The governor announced a new LEVY on cigarettes.”</p>"
+    },
+    "ONSLAUGHT": {
+      "word": "ONSLAUGHT",
+      "phonetic": "(on'-slot)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an attack, assault </p><p>ONSLAUGHT is related to the word <i class=“def-ital\">slaughter</i>. An ONSLAUGHT is a furious attack, of an enemy or of something like an enemy. </p><p>“The enemy launched a fierce ONSLAUGHT against our army.” </p><p>“The ONSLAUGHT of the illness put him in the hospital for a week.” </p><p>“They built a wall to protect themselves from the ONSLAUGHT of the cold wind.”</p>"
+    },
+    "THWART": {
+      "word": "THWART",
+      "phonetic": "(thwart)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to block, prevent, foil, frustrate </p><p>To THWART someone is to block or prevent him from doing something. THWART suggests making things difficult for a person by running counter to what he wants or plans. </p><p>“The governor successfully THWARTED his opponent’s attempt to win the election.” </p><p>“Her plans to attend the party were THWARTED by a sudden illness.” </p><p>“The baby screams whenever he is THWARTED\"--that is, whenever he is not allowed to do something he wants to do. </p><p>In the Pretest, many people select <i class=“def-ital\">delay</i> as the meaning of THWART, but THWART suggests more complete and successful interference. </p><p>“Lack of funds <i class=“def-ital\">delayed</i> the project, but the principal’s opposition finally THWARTED it.”</p>"
+    },
+    "DEGENERATE": {
+      "word": "DEGENERATE",
+      "phonetic": "(di-jen'-:}-rAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to worsen, decline, deteriorate </p><p>To DEGENERATE is to become worse, to pass from a higher state to a lower or worse one.  The word can be used about physical, mental, or moral qualities. </p><p>“The disease caused his health to DEGENERATE and now he’s confined to bed.” </p><p>“The play started brilliantly, but then DEGENERATED into a typical silly comedy.” </p><p>“The once great lawyer has DEGENERATED into a drunken bum.” </p><p>DEGENERATE is also an adjective and a noun, pronounced (di-jen’-:i—rit). These words are most often used about lowered moral qualities. </p><p>“He may once have been a good man, but now he is just a DEGENERATE.” </p><p>“The DEGENERATE emperor practiced every sort of vice.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">de-</i> under Prefixes."
+      ]
+    },
+    "ELITE": {
+      "word": "ELITE",
+      "phonetic": "(i-lEt')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the chosen ones, a superior or highly special group </p><p>Note the pronunciation. ELITE originally came from a Latin word meaning to <i class=“def-ital\">choose</i>. The ELITE are the chosen ones, a group of people who are considered superior because of their achievements, wealth, power, or other quality. </p><p>“This store would only do business with the social ELITE.” </p><p>“His tremendous feats as a hitter put him among baseball’s ELITE.” </p><p>“He was part of the political ELITE who ran the country year after year.” </p><p>ELITE is also used as an adjective, meaning <i class=“def-ital\">choice</i> or <i class=“def-ital\">best</i>. </p><p>“An ELITE group of soldiers was selected to lead the attack.” </p><p>Other forms of the word: ELITISM, n. ELITIST, adj., n.</p>"
+    },
+    "INDIFFERENT": {
+      "word": "INDIFFERENT",
+      "phonetic": "(in-dif'-ÔøΩrQnt",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">uninterested, unconcerned, unimpressive, commonplace </p><p>The most common meaning of INDIFFERENT is “not caring one way or the other\"; in this sense the word is usually followed by <i class=“def-ital\">to</i>. </p><p>“I love swimming, but I am INDIFFERENT to winter sports.” </p><p>“How can you be so INDIFFERENT to the suffering of these people?” </p><p>Another meaning of INDIFFERENT is “neither good nor bad,” <i class=“def-ital\">commonplace</i>, <i class=“def-ital\">mediocre</i>. </p><p>“It was an INDIFFERENT novel; I’ve read much better.” </p><p>“He played the piano very well, but he sang INDIFFERENTLY.” </p><p>Other forms of the word: INDIFFERENCE, n.</p>"
+    },
+    "KALEIDOSCOPIC": {
+      "word": "KALEIDOSCOPIC",
+      "phonetic": "(kQ-lld-Q-skop'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">continually changing, extremely varied </p><p>A KALEIDOSCOPE is a tube that contains mirrors and pieces of colored glass. When the tube is turned, the glass appears in an endless variety of multicolored patterns. The adjective KALEIDOSCOPIC means “formed by or relating to a KALEIDOSCOPE.”  The word is usually used in a general sense, about shapes or events that are constantly shifting into new patterns, as if seen through a KALEIDOSCOPE. </p><p>“The reporters could barely keep up with the KALEIDOSCOPIC events of the day.” </p><p>“It was a time of KALEIDOSCOPIC change, when no one knew what to expect next.” </p><p>Other forms of the word: KALEIDOSCOPE, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ic</i> under Suffixes."
+      ]
+    },
+    "PATERNAL": {
+      "word": "PATERNAL",
+      "phonetic": "(pÔøΩter'-nÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">having to do with a father, fatherly </p><p>PATERNAL comes from <i class=“def-ital\">pater</i>, the Latin word for <i class=“def-ital\">father</i>, and means “like or of a father.”  </p><p>“He took a PATERNAL interest in the boy. He treated him as if he were his own son.” </p><p>“I didn’t like his PATERNAL attitude. He talked to me like a father talking to his little girl.” </p><p>Similar words are <i class=“def-ital\">maternal</i>, meaning <i class=“def-ital\">motherly</i>, and <i class=“def-ital\">fraternal</i>, meaning <i class=“def-ital\">brotherly</i>.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "RETROSPECT": {
+      "word": "RETROSPECT",
+      "phonetic": "(re'-trÔøΩspekt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a review </p><p>RETROSPECT comes from a Latin word meaning to <i class=“def-ital\">look back at</i>. The <i class=“def-ital\">spect</i> part is also found in other words having to do with seeing, like <i class=“def-ital\">inspect</i> and <i class=“def-ital\">spectacles</i>. A RETROSPECT is a view of past events. The word is usually used in the phrase “in RETROSPECT,” which means <i class=“def-ital\">in review</i>, <i class=“def-ital\">in looking back</i>. </p><p>“In RETROSPECT, I guess I made a mistake in doing what I did.” </p><p>“At the time we thought we had failed, but in RETROSPECT it seems that we did pretty well.” </p><p>Other forms of the word: RETROSPECTION, n. RETROSPECTIVE, adj., n.</p>"
+    },
+    "TORRENT": {
+      "word": "TORRENT",
+      "phonetic": "(tor'-ÔøΩnt",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a flood, deluge </p><p>A TORRENT is a rush or surge of water or other liquid. The word stresses the rapidity and violence of the water. </p><p>“Their rowboat was swept away in the TORRENT.” </p><p>“A TORRENT of lava flooded the city at the foot of the volcano.” </p><p>TORRENT is also used about any kind of sudden surge. </p><p>“The quarterback was greeted with a TORRENT of abuse from the crowd.”</p>"
+    },
+    "ZENITH": {
+      "word": "ZENITH",
+      "phonetic": "(zE'-nith)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a peak, summit, highest point </p><p>In astronomy, the ZENITH is the point in the sky that is directly overhead. ZENITH has come to mean the peak or highest point of anything. </p><p>“The singer’s popularity reached its ZENITH just after World War II.” </p><p>“He was at the ZENITH of his powers when he was tragically killed in an auto accident.” </p><p>“The country’s prosperity was at its ZENITH for only a short time before the depression started.”</p>"
+    },
+    "BIGOTED": {
+      "word": "BIGOTED",
+      "phonetic": "(big'-ÔøΩt-id)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">intolerant, narrow-minded </p><p>A BIGOT is a person who is completely intolerant of any belief, opinion, or religion that differs from his own. </p><p>“He is such a BIGOT that he won’t even speak to someone who doesn’t belong to the same party as he does.” </p><p>BIGOTED is the adjective from BIGOT. </p><p>“He complained that the company executives were BIGOTED and would hire only people of their own religion.” </p><p>“They didn’t want to appear BIGOTED, so they invited people of different races, creeds, and political parties to the conference.” </p><p>The most common mistakes for BIGOTED in the Pretest are <i class=“def-ital\">vicious</i> and <i class=“def-ital\">greedy</i>. People who make those mistakes perhaps know that it is bad to be BIGOTED, but don’t know exactly why. </p><p>Other forms of the word: BIGOT, n. BIGOTRY, n.</p>"
+    },
+    "EXCEPTIONAL": {
+      "word": "EXCEPTIONAL",
+      "phonetic": "(ek-sep'-shÔøΩn-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unusual, rare, uncommon </p><p>An EXCEPTION is something that doesn’t follow the rule. </p><p>“All the students passed the test with one EXCEPTION--Tommy Jones.” </p><p>EXCEPTIONAL is the adjective from EXCEPTION.  Something that is EXCEPTIONAL is out of the ordinary, doesn’t follow the rule. </p><p>“There have been an EXCEPTIONAL number of warm days this spring.” </p><p>The word is usually used in a positive sense, about something that is better than average or uncommonly good. </p><p>“He thought it was an EXCEPTIONAL movie--one of the best he’d seen.” </p><p>Most people who make a mistake on this word choose <i class=“def-ital\">perfect</i> as the synonym. Something that is EXCEPTIONAL may be unusually good, but it is not necessarily <i class=“def-ital\">perfect</i>. </p><p>Other forms of the word: EXCEPT, v., prep. EXCEPTION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "IMPERATIVE": {
+      "word": "IMPERATIVE",
+      "phonetic": "(im-per'-;}-tiv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">urgent, essential, obligatory, pressing </p><p>IMPERATIVE is related to the words <i class=“def-ital\">emperor</i> and <i class=“def-ital\">imperial</i>. All come from a Latin word meaning to <i class=“def-ital\">command</i>. Something that is IMPERATIVE is like a command; it is not to be disobeyed or avoided. </p><p>“She said it was IMPERATIVE that we treat the most badly injured soldiers first.” </p><p>“It is IMPERATIVE that we leave this building before it collapses.” </p><p>In grammar, an IMPERATIVE sentence is one that expresses a command. </p><p>“Stop that right now!” is an IMPERATIVE sentence.</p>"
+    },
+    "PERCEIVE": {
+      "word": "PERCEIVE",
+      "phonetic": "(pÔøΩr-sEv')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to notice, observe, become aware of, sense </p><p>To PERCEIVE something is to become aware of it, especially through the senses. </p><p>“We PERCEIVED a faint light in the distance.” </p><p>“He could PERCEIVE very small differences in sounds.” </p><p>“The critics failed to PERCEIVE the greatness of the novel until many years later.” </p><p><i class=“def-ital\">Trick</i> is often chosen as the meaning of PERCEIVE. This is probably due to a confusion of PERCEIVE with <i class=“def-ital\">deceive</i>, which means to <i class=“def-ital\">trick</i>. </p><p>Other forms of the word: PERCEPTIBLE, adj. PERCEPTION, n. PERCEPTIVE, adj.</p>"
+    }
+  },
+  "id": "1",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "To LEVY a fine.",
+          "answers": [
+            "increase",
+            "ignore",
+            "impose",
+            "accept",
+            "give back"
+          ],
+          "word": "LEVY",
+          "correct": "impose"
+        },
+        {
+          "prompt": "Another ONSLAUGHT.",
+          "answers": [
+            "arrival",
+            "argument",
+            "attack",
+            "death",
+            "victory"
+          ],
+          "word": "ONSLAUGHT",
+          "correct": "attack"
+        },
+        {
+          "prompt": "THWART his effort.",
+          "answers": [
+            "delay",
+            "block",
+            "support",
+            "dislike",
+            "twist"
+          ],
+          "word": "THWART",
+          "correct": "block"
+        },
+        {
+          "prompt": "Started to DEGENERATE.",
+          "answers": [
+            "worsen",
+            "leave",
+            "fall",
+            "disappear",
+            "improve"
+          ],
+          "word": "DEGENERATE",
+          "correct": "worsen"
+        },
+        {
+          "prompt": "Among the ELITE.",
+          "answers": [
+            "last",
+            "worst",
+            "chosen",
+            "happiest",
+            "rest"
+          ],
+          "word": "ELITE",
+          "correct": "chosen"
+        },
+        {
+          "prompt": "Completely INDIFFERENT.",
+          "answers": [
+            "separate",
+            "unaware",
+            "involved",
+            "similar",
+            "uninterested"
+          ],
+          "word": "INDIFFERENT",
+          "correct": "uninterested"
+        },
+        {
+          "prompt": "KALEIDOSCOPIC events.",
+          "answers": [
+            "publicly seen",
+            "important",
+            "faraway",
+            "strange",
+            "continually changing"
+          ],
+          "word": "KALEIDOSCOPIC",
+          "correct": "continually changing"
+        },
+        {
+          "prompt": "PATERNAL cares.",
+          "answers": [
+            "brotherly",
+            "inherited",
+            "motherly",
+            "continual",
+            "fatherly"
+          ],
+          "word": "PATERNAL",
+          "correct": "fatherly"
+        },
+        {
+          "prompt": "In RETROSPECT.",
+          "answers": [
+            "review",
+            "admiration",
+            "sight",
+            "planning",
+            "politeness"
+          ],
+          "word": "RETROSPECT",
+          "correct": "review"
+        },
+        {
+          "prompt": "Sudden TORRENT.",
+          "answers": [
+            "fire",
+            "flood",
+            "silence",
+            "fear",
+            "wind"
+          ],
+          "word": "TORRENT",
+          "correct": "flood"
+        },
+        {
+          "prompt": "Approached the ZENITH.",
+          "answers": [
+            "bottom",
+            "wizard",
+            "peak",
+            "radio",
+            "end"
+          ],
+          "word": "ZENITH",
+          "correct": "peak"
+        },
+        {
+          "prompt": "They were BIGOTED.",
+          "answers": [
+            "open-minded",
+            "intolerant",
+            "worried",
+            "vicious",
+            "greedy"
+          ],
+          "word": "BIGOTED",
+          "correct": "intolerant"
+        },
+        {
+          "prompt": "They were EXCEPTIONAL.",
+          "answers": [
+            "unnecessary",
+            "perfect",
+            "unusual",
+            "unfair",
+            "normal"
+          ],
+          "word": "EXCEPTIONAL",
+          "correct": "unusual"
+        },
+        {
+          "prompt": "IMPERATIVE statements.",
+          "answers": [
+            "urgent",
+            "tender",
+            "royal",
+            "harsh",
+            "pleading"
+          ],
+          "word": "IMPERATIVE",
+          "correct": "urgent"
+        },
+        {
+          "prompt": "To PERCEIVE them.",
+          "answers": [
+            "describe",
+            "show",
+            "hide",
+            "trick",
+            "notice"
+          ],
+          "word": "PERCEIVE",
+          "correct": "notice"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do ordinary citizens LEVY taxes?",
+          "word": "LEVY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could an ONSLAUGHT be dangerous?",
+          "word": "ONSLAUGHT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do you assist someone by THWARTING him?",
+          "word": "THWART",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a DEGENERATE make a pleasant neighbor?",
+          "word": "DEGENERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most people belong to the social ELITE?",
+          "word": "ELITE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people get excited about INDIFFERENT movies?",
+          "word": "INDIFFERENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are KALEIDOSCOPIC events often exciting?",
+          "word": "KALEIDOSCOPIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would your PATERNAL grandfather be your father's father?",
+          "word": "PATERNAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "When a person talks about something in RETROSPECT, is he talking about the future?",
+          "word": "RETROSPECT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can someone speak with a TORRENT of words?",
+          "word": "TORRENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "If someone's reputation is at its ZENITH, is it as high as it will ever get?",
+          "word": "ZENITH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a BIGOT believe that everyone should be treated equally?",
+          "word": "BIGOT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would it be EXCEPTIONAL for someone to run a mile in less than three minutes?",
+          "word": "EXCEPTIONAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is \"Are you coming?\" an IMPERATIVE sentence?",
+          "word": "IMPERATIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you PERCEIVE something with your eyes?",
+          "word": "PERCEIVE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Congress passed an additional LEVY on imported oil.",
+          "word": "LEVY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The ONSLAUGHT of the blizzard caught them completely unprepared.",
+          "word": "ONSLAUGHT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Every time she tried to go to the beach something happened to THWART her plans.",
+          "word": "THWART",
+          "correct": "true"
+        },
+        {
+          "prompt": "The new power plant DEGENERATES a great deal of electricity.",
+          "word": "DEGENERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Several ELITE musicians were chosen to play at the White House.",
+          "word": "ELITE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The judge was INDIFFERENT to the criminal's cries for mercy.",
+          "word": "INDIFFERENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The result was completely KALEIDOSCOPIC. All our work was ruined.",
+          "word": "KALEIDOSCOPIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Her PATERNAL instincts were aroused whenever she saw a newborn baby.",
+          "word": "PATERNAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "In RETROSPECT we realized we should have paid more attention to our parents.",
+          "word": "RETROSPECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The lake was so calm and peaceful it looked like a TORRENT.",
+          "word": "TORRENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Fads quickly reach the ZENITH of their popularity, and then they fade away just as quickly.",
+          "word": "ZENITH",
+          "correct": "true"
+        },
+        {
+          "prompt": "His BIGOTED attitude makes it difficult for him to accept others on their individual merits.",
+          "word": "BIGOT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The fourth pair of skis was EXCEPTIONAL, since only three of us were going skiing.",
+          "word": "EXCEPTIONAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The teacher felt it was IMPERATIVE that her students be able to read well.",
+          "word": "IMPERATIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Too late he PERCEIVED that she had been right from the start.",
+          "word": "PERCEIVE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "LEVY",
+          "answers": [
+            "gift",
+            "tax",
+            "fine"
+          ],
+          "word": "LEVY",
+          "correct": "0"
+        },
+        {
+          "prompt": "ONSLAUGHT",
+          "answers": [
+            "battle",
+            "retreat",
+            "assault"
+          ],
+          "word": "ONSLAUGHT",
+          "correct": "1"
+        },
+        {
+          "prompt": "THWART",
+          "answers": [
+            "bother",
+            "frustrate",
+            "despise"
+          ],
+          "word": "THWART",
+          "correct": "2"
+        },
+        {
+          "prompt": "DEGENERATE",
+          "answers": [
+            "decay",
+            "defend",
+            "decline"
+          ],
+          "word": "DEGENERATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ELITE",
+          "answers": [
+            "young",
+            "noble",
+            "best"
+          ],
+          "word": "ELITE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INDIFFERENT",
+          "answers": [
+            "ridiculous",
+            "unbiased",
+            "average"
+          ],
+          "word": "INDIFFERENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "KALEIDOSCOPIC",
+          "answers": [
+            "changing",
+            "improving",
+            "varying"
+          ],
+          "word": "KALEIDOSCOPIC",
+          "correct": "1"
+        },
+        {
+          "prompt": "PATERNAL",
+          "answers": [
+            "brotherly",
+            "fatherly",
+            "grandfatherly"
+          ],
+          "word": "PATERNAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "RETROSPECT",
+          "answers": [
+            "memory",
+            "decision",
+            "past"
+          ],
+          "word": "RETROSPECT",
+          "correct": "1"
+        },
+        {
+          "prompt": "TORRENT",
+          "answers": [
+            "rapid",
+            "strength",
+            "heat"
+          ],
+          "word": "TORRENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "ZENITH",
+          "answers": [
+            "top",
+            "acme",
+            "beginning"
+          ],
+          "word": "ZENITH",
+          "correct": "2"
+        },
+        {
+          "prompt": "BIGOTED",
+          "answers": [
+            "intolerant",
+            "contemptuous",
+            "impatient"
+          ],
+          "word": "BIGOT",
+          "correct": "2"
+        },
+        {
+          "prompt": "EXCEPTIONAL",
+          "answers": [
+            "pleasant",
+            "rare",
+            "outstanding"
+          ],
+          "word": "EXCEPTIONAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "IMPERATIVE",
+          "answers": [
+            "important",
+            "crucial",
+            "unusual"
+          ],
+          "word": "IMPERATIVE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PERCEIVE",
+          "answers": [
+            "view",
+            "comprehend",
+            "select"
+          ],
+          "word": "PERCEIVE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

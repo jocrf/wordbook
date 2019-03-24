@@ -1,0 +1,605 @@
+{
+  "title": "3.6",
+  "definitions": {
+    "REFINE": {
+      "word": "REFINE",
+      "phonetic": "(ri-fln')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to purify </p><p>To REFINE something is to <i class=“def-ital\">purify</i> it, to remove other substances from it so that it is pure and unmixed. Products like iron, oil, and sugar are REFINED before they are sold. To REFINE a person is to improve his manners, speech, and so on, to make him more elegant and cultivated. In this sense, the adjective REFINED means <i class=“def-ital\">polished</i>, <i class=“def-ital\">cultured</i>, “free from coarseness or vulgarity.” </p><p>“He is a very REFINED gentleman. He is always very polite and attentive.” </p><p>Other forms of the word: REFINEMENT, n. REFINERY, n.</p>"
+    },
+    "INTRICATE": {
+      "word": "INTRICATE",
+      "phonetic": "(in'-tri-kit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">complicated, complex, involved </p><p>INTRICATE comes from a Latin word meaning to <i class=“def-ital\">entangle</i>. Something that is INTRICATE has so many parts and connections working together in such complicated ways that it becomes difficult to follow or understand. </p><p>“We marveled at how long it must have taken to weave the INTRICATE pattern in the rug.” </p><p>“It was hard to make sense of the INTRICATE plot of the spy novel.” </p><p>“This INTRICATE machinery can only be fixed by an expert.” </p><p>Other forms of the word: INTRICACY, n.</p>"
+    },
+    "DENSE": {
+      "word": "DENSE",
+      "phonetic": "(dens)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">thick, compact </p><p>DENSE means “crowded closely together,” <i class=“def-ital\">thick</i>. </p><p>“The trees were very DENSE in that part of the forest. It was very difficult to make your way through them.” </p><p>“It was impossible to see anyone or anything in the DENSE fog.” </p><p>“There was a DENSE crowd around the man playing the guitar.” </p><p>The noun from DENSE is DENSITY, <i class=“def-ital\">thickness</i>. </p><p>“There were flowers everywhere, but they were at their greatest DENSITY right in the middle of the garden.” </p><p>Other forms of the word: DENSITY, n.</p>"
+    },
+    "PERTAIN": {
+      "word": "PERTAIN",
+      "phonetic": "(p::>r-tAn')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to relate, belong as a part, be connected </p><p>PERTAIN means “to have to do with.” PERTAIN does not necessarily suggest a strong or close connection, but would often be used about things that belong properly or fittingly to a particular subject or situation. </p><p>“None of his suggestions PERTAINED to the particular problem they were facing.” </p><p>“We understand most of the circumstances that PERTAIN to her illness.” </p><p>Usage: PERTAIN is usually followed by <i class=“def-ital\">to</i>.</p>"
+    },
+    "CORRUPT": {
+      "word": "CORRUPT",
+      "phonetic": "(kÔøΩuhpt')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dishonest, immoral </p><p>To be CORRUPT is to be dishonest, immoral, or bad. The word is often used about public officials who take bribes and sell political favors. </p><p>“The mayor was so CORRUPT that the townspeople had him thrown out of office.” </p><p>“Some people are CORRUPT in small ways, but can be very honest about other things.” </p><p>CORRUPT is also a verb that means “to make dishonest or impure.” </p><p>“They tried unsuccessfully to CORRUPT him. They offered him large bribes to falsify the records, but he refused them.” </p><p>Other forms of the word: CORRUPTION, n.</p>"
+    },
+    "DELINQUENCY": {
+      "word": "DELINQUENCY",
+      "phonetic": "(di-ling'-kw::>n-sE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">negligence, wrongdoing </p><p>To be DELINQUENT is to do wrong, often by failing to do a duty. </p><p>“He was DELINQUENT in paying his taxes.” </p><p>DELINQUENCY is the state of being DELINQUENT. It is wrongdoing or neglect of duty. </p><p>“As a result of his DELINQUENCY in making the payments, the bank took the car away from him.” </p><p>“Juvenile DELINQUENCY” is wrongdoing by youths. </p><p>“The police could not handle the increase in juvenile DELINQUENCY.” </p><p>Other forms of the word: DELINQUENT, adj., n.</p>"
+    },
+    "ENSEMBLE": {
+      "word": "ENSEMBLE",
+      "phonetic": "(ahn-sahm'-bÔøΩI)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a group; a general effect </p><p>Note the pronunciation. ENSEMBLE is a French word meaning <i class=“def-ital\">together</i>, and the English pronunciation is almost the same as the French. In English, an ENSEMBLE is a group of people or things that act together to produce some result. The word is used about a group of musicians who play together. It is also used about items of clothing that go together to form a complete outfit. </p><p>“The complete ENSEMBLE costs much less when purchased all at once.” </p><p>ENSEMBLE is also used about the general effect of something taken as a whole. </p><p>“Viewed individually the parts of the building were all beautiful, but the ENSEMBLE was somehow unsatisfying.”</p>"
+    },
+    "FRAIL": {
+      "word": "FRAIL",
+      "phonetic": "(frAI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">weak, lacking strength, easily broken, fragile </p><p>FRAIL comes from the same Latin word as <i class=“def-ital\">fragile</i>. Both mean <i class=“def-ital\">weak</i>, <i class=“def-ital\">easily broken</i>. FRAIL is most often used about health and physical makeup. </p><p>“Tim is a very FRAIL little boy; he should not be forced to play rough sports.” </p><p>“She is in FRAIL health; a sudden shock might do her great harm.” </p><p>FRAIL is sometimes used about other things as well. </p><p>“He thought the bridge looked rather FRAIL, so he decided not to drive his truck over it.” </p><p>The noun from FRAIL is FRAILTY. </p><p>“As he grew older, his FRAILTY increased.” </p><p>“This one little problem showed the FRAILTY of the entire system.” </p><p>Many people think FRAIL means <i class=“def-ital\">old</i>. An <i class=“def-ital\">old</i> person is not necessarily FRAIL, however. </p><p>Other forms of the word: FRAILTY, n.</p>"
+    },
+    "EXTENSIVE": {
+      "word": "EXTENSIVE",
+      "phonetic": "(ek-sten'-siv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wide, broad, far-reaching, thorough </p><p>To EXTEND means to <i class=“def-ital\">stretch out</i> or <i class=“def-ital\">reach</i>. </p><p>“This desert EXTENDS for miles in every direction.” </p><p>Something which is EXTENSIVE EXTENDS far, has a wide range.  </p><p>“He owns an EXTENSIVE farm which covers most of the county.” </p><p>“She has traveled EXTENSIVELY throughout the world.” </p><p>“Jane has an EXTENSIVE knowledge of history.” </p><p>“The car needed EXTENSIVE repairs.” </p><p>Other forms of the word: EXTEND, v. EXTENSION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ive</i> under Suffixes."
+      ]
+    },
+    "GLIMMER": {
+      "word": "GLIMMER",
+      "phonetic": "(glim'-ÔøΩ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a dim, unsteady light; a faint idea, vague indication </p><p>GLIMMER is related to the word <i class=“def-ital\">gleam</i>. Both are kinds of light. A <i class=“def-ital\">gleam</i> is a flash of light, not very bright and usually not lasting very long. A GLIMMER is an even weaker light, so faint and unsteady that you are just able to see it. </p><p>“He saw the GLIMMER of their flashlights far up on the mountain.” </p><p>GLIMMER is also used as a verb. </p><p>“The campfire GLIMMERED in the distance.” </p><p>GLIMMER is also used to apply to ideas, hopes, possibilities, and other things that may be very faint. </p><p>“There was only a GLIMMER of hope left that any of them would make it.” </p><p>“She didn’t show a GLIMMER of the talent she was supposed to have.”</p>"
+    },
+    "INSTANTANEOUS": {
+      "word": "INSTANTANEOUS",
+      "phonetic": "(in-stÔøΩn-tA'-nE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">done in an INSTANT, immediate </p><p>An INSTANT is a very short space of time. </p><p>“He will be back in an INSTANT.” </p><p>INSTANTANEOUS comes from INSTANT and means “done or happening in an INSTANT.” </p><p>“He pulled the switch, and the explosion was INSTANTANEOUS.” </p><p>“Their response to his suggestion was almost INSTANTANEOUS. They agreed right away.” </p><p>“He never suffered. Death was INSTANTANEOUS.” </p><p><i class=“def-ital\">Unexpected</i> is often chosen as the meaning of INSTANTANEOUS, probably because you do not always expect something to happen immediately. </p><p>Other forms of the word: INSTANT, n.</p>"
+    },
+    "NOTABLE": {
+      "word": "NOTABLE",
+      "phonetic": "(nOt'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">worthy of note, remarkable, outstanding, striking </p><p>NOTABLE means “deserving to be noted or noticed,” <i class=“def-ital\">remarkable</i>. The word is usually used in a good sense about someone who deserves to be famous because of his excellence. </p><p>“She was NOTABLE for her great skating ability.” </p><p>“Many NOTABLE men and women were invited to dine with the president.” </p><p>“Putting a man on the moon was a NOTABLE achievement.”</p>"
+    },
+    "PENETRATE": {
+      "word": "PENETRATE",
+      "phonetic": "(pen'-ÔøΩtrAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to enter into, pass into or through </p><p>To PENETRATE something is to enter or pass into it. </p><p>“They PENETRATED deeper into the cave than anyone had before.” </p><p>“The needle just barely PENETRATED the skin.” </p><p>“We must PENETRATE into enemy territory before dawn.” </p><p>PENETRATE is also used in a general sense about seeing into or understanding something. </p><p>“How far can scientists PENETRATE into the secrets of nature?” </p><p>Other forms of the word: PENETRATION, n.</p>"
+    },
+    "REEK": {
+      "word": "REEK",
+      "phonetic": "(rEk)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a strong smell </p><p>A REEK is a strong, usually unpleasant smell. </p><p>“We could smell the REEK of rotting fish.” </p><p>“The REEK of garlic was almost overpowering.” </p><p>REEK is also a verb meaning “to give off a strong, unpleasant odor.” </p><p>“The locker room REEKED with sweat.” </p><p>“The closet REEKED of stale perfume.” </p><p>Usage: As a verb, REEK is usually followed by <i class=“def-ital\">of</i> or <i class=“def-ital\">with</i>.</p>"
+    },
+    "RETAIN": {
+      "word": "RETAIN",
+      "phonetic": "(ri-tAn')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to keep, continue to have; to keep in place </p><p>To RETAIN something is to hold onto it, to continue to have it. It is related to other words like <i class=“def-ital\">obtain</i> and <i class=“def-ital\">contain</i> which have to do with getting and holding. </p><p>“Despite the other team’s rally, we RETAINED the lead at halftime.” </p><p>“She RETAINS all the energy and enthusiasm she had when she was much younger.” </p><p>RETAIN also means “to keep in place.” </p><p>“A dam was built to RETAIN the water.” </p><p>“Female kangaroos RETAIN their young in pouches on their abdomens.”</p>"
+    }
+  },
+  "id": "6",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "To REFINE it.",
+          "answers": [
+            "spoil",
+            "discover",
+            "purify",
+            "remove",
+            "add to"
+          ],
+          "word": "REFINE",
+          "correct": "purify"
+        },
+        {
+          "prompt": "Very INTRICATE.",
+          "answers": [
+            "simple",
+            "complicated",
+            "thin",
+            "dangerous",
+            "large"
+          ],
+          "word": "INTRICATE",
+          "correct": "complicated"
+        },
+        {
+          "prompt": "DENSE fog.",
+          "answers": [
+            "gray",
+            "slight",
+            "huge",
+            "thick",
+            "early"
+          ],
+          "word": "DENSE",
+          "correct": "thick"
+        },
+        {
+          "prompt": "How does this PERTAIN?",
+          "answers": [
+            "help",
+            "relate",
+            "continue",
+            "end",
+            "differ"
+          ],
+          "word": "PERTAIN",
+          "correct": "relate"
+        },
+        {
+          "prompt": "CORRUPT officials.",
+          "answers": [
+            "blunt",
+            "upright",
+            "dishonest",
+            "political",
+            "weak"
+          ],
+          "word": "CORRUPT",
+          "correct": "dishonest"
+        },
+        {
+          "prompt": "Spoke of his DELINQUENCY.",
+          "answers": [
+            "negligence",
+            "need",
+            "anger",
+            "cleverness",
+            "sorrow"
+          ],
+          "word": "DELINQUENCY",
+          "correct": "negligence"
+        },
+        {
+          "prompt": "Impressed by the ENSEMBLE.",
+          "answers": [
+            "size",
+            "group",
+            "similarity",
+            "beginning",
+            "width"
+          ],
+          "word": "ENSEMBLE",
+          "correct": "group"
+        },
+        {
+          "prompt": "The man is very FRAIL.",
+          "answers": [
+            "old",
+            "great",
+            "frightened",
+            "small",
+            "weak"
+          ],
+          "word": "FRAIL",
+          "correct": "weak"
+        },
+        {
+          "prompt": "EXTENSIVE areas.",
+          "answers": [
+            "new",
+            "narrow",
+            "beautiful",
+            "broad",
+            "different"
+          ],
+          "word": "EXTENSIVE",
+          "correct": "broad"
+        },
+        {
+          "prompt": "Saw the GLIMMER.",
+          "answers": [
+            "dim light",
+            "dark cloud",
+            "signal",
+            "fire",
+            "shadow"
+          ],
+          "word": "GLIMMER",
+          "correct": "dim light"
+        },
+        {
+          "prompt": "INSTANTANEOUS results.",
+          "answers": [
+            "slow",
+            "immediate",
+            "unexpected",
+            "new",
+            "wonderful"
+          ],
+          "word": "INSTANTANEOUS",
+          "correct": "immediate"
+        },
+        {
+          "prompt": "NOTABLE women.",
+          "answers": [
+            "lovely",
+            "ordinary",
+            "outstanding",
+            "friendly",
+            "modern"
+          ],
+          "word": "NOTABLE",
+          "correct": "outstanding"
+        },
+        {
+          "prompt": "They PENETRATED the jungle.",
+          "answers": [
+            "entered into",
+            "escaped",
+            "burned",
+            "cut down",
+            "approached"
+          ],
+          "word": "PENETRATE",
+          "correct": "entered into"
+        },
+        {
+          "prompt": "The REEK of tobacco.",
+          "answers": [
+            "strong smell",
+            "pleasure",
+            "danger",
+            "hatred",
+            "bad taste"
+          ],
+          "word": "REEK",
+          "correct": "strong smell"
+        },
+        {
+          "prompt": "Let us RETAIN it.",
+          "answers": [
+            "pack",
+            "sell",
+            "fix",
+            "keep",
+            "enjoy"
+          ],
+          "word": "RETAIN",
+          "correct": "keep"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does a REFINED person have bad manners?",
+          "word": "REFINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a hammer an INTRICATE tool?",
+          "word": "INTRICATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would it be difficult to walk through a DENSE jungle?",
+          "word": "DENSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can evidence PERTAIN to a crime?",
+          "word": "PERTAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a CORRUPT police department be effective in fighting crime?",
+          "word": "CORRUPT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can old people be accused of DELINQUENCY?",
+          "word": "DELINQUENCY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is there more than one item in an ENSEMBLE?",
+          "word": "ENSEMBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a FRAIL person be a weightlifting champion?",
+          "word": "FRAIL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is there much wrong with something that has been EXTENSIVELY damaged?",
+          "word": "EXTENSIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it easy to see a GLIMMER?",
+          "word": "GLIMMER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people learn to read INSTANTANEOUSLY?",
+          "word": "INSTANTANEOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Was George Washington a NOTABLE American?",
+          "word": "NOTABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a feather PENETRATE a rock?",
+          "word": "PENETRATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a sewer REEK?",
+          "word": "REEK",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you RETAIN something that you have never had?",
+          "word": "RETAIN",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The teacher REFINED the boy for stealing the book.",
+          "word": "REFINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The operation was so INTRICATE that it took several doctors many hours to complete it.",
+          "word": "INTRICATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The DENSE clouds meant that there might be a storm coming.",
+          "word": "DENSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I do not understand how your remarks PERTAIN to the subject we are discussing.",
+          "word": "PERTAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "The congressman was CORRUPTED by the expensive gifts he received from foreign agents.",
+          "word": "CORRUPT",
+          "correct": "true"
+        },
+        {
+          "prompt": "If you are DELINQUENT in handing in this paper you won't pass the course.",
+          "word": "DELINQUENCY",
+          "correct": "true"
+        },
+        {
+          "prompt": "We listened to a small ENSEMBLE playing music from the turn of the century.",
+          "word": "ENSEMBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The door was so FRAIL that a person could easily kick it in.",
+          "word": "FRAIL",
+          "correct": "true"
+        },
+        {
+          "prompt": "The boss felt rather EXTENSIVE, so he took everyone in the office to dinner.",
+          "word": "EXTENSIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "They watched the fireflies GLIMMERING in the twilight.",
+          "word": "GLIMMER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The people were INSTANTANEOUS to me, but I had a good time anyway.",
+          "word": "INSTANTANEOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The play was NOTABLE for its beautiful costumes.",
+          "word": "NOTABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They found it hard to PENETRATE the mysteries of this ancient civilization.",
+          "word": "PENETRATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I couldn't stand the REEK of his cheap cigars.",
+          "word": "REEK",
+          "correct": "true"
+        },
+        {
+          "prompt": "It's hard to RETAIN your sense of humor when everyone is yelling at you.",
+          "word": "RETAIN",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "REFINE",
+          "answers": [
+            "clean",
+            "settle",
+            "improve"
+          ],
+          "word": "REFINE",
+          "correct": "1"
+        },
+        {
+          "prompt": "INTRICATE",
+          "answers": [
+            "puzzling",
+            "tangled",
+            "false"
+          ],
+          "word": "INTRICATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "DENSE",
+          "answers": [
+            "strong",
+            "thick",
+            "close"
+          ],
+          "word": "DENSE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PERTAIN",
+          "answers": [
+            "solve",
+            "connect",
+            "relate"
+          ],
+          "word": "PERTAIN",
+          "correct": "0"
+        },
+        {
+          "prompt": "CORRUPT",
+          "answers": [
+            "wicked",
+            "angry",
+            "dishonest"
+          ],
+          "word": "CORRUPT",
+          "correct": "1"
+        },
+        {
+          "prompt": "DELINQUENCY",
+          "answers": [
+            "neglect",
+            "rudeness",
+            "crime"
+          ],
+          "word": "DELINQUENCY",
+          "correct": "1"
+        },
+        {
+          "prompt": "ENSEMBLE",
+          "answers": [
+            "list",
+            "group",
+            "chorus"
+          ],
+          "word": "ENSEMBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "FRAIL",
+          "answers": [
+            "weak",
+            "sad",
+            "ill"
+          ],
+          "word": "FRAIL",
+          "correct": "1"
+        },
+        {
+          "prompt": "EXTENSIVE",
+          "answers": [
+            "necessary",
+            "broad",
+            "long"
+          ],
+          "word": "EXTENSIVE",
+          "correct": "0"
+        },
+        {
+          "prompt": "GLIMMER",
+          "answers": [
+            "blaze",
+            "gleam",
+            "glow"
+          ],
+          "word": "GLIMMER",
+          "correct": "0"
+        },
+        {
+          "prompt": "INSTANTANEOUS",
+          "answers": [
+            "eager",
+            "quick",
+            "sudden"
+          ],
+          "word": "INSTANTANEOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "NOTABLE",
+          "answers": [
+            "famous",
+            "outstanding",
+            "clean"
+          ],
+          "word": "NOTABLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PENETRATE",
+          "answers": [
+            "enter",
+            "stop",
+            "understand"
+          ],
+          "word": "PENETRATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "REEK",
+          "answers": [
+            "odor",
+            "stink",
+            "evil"
+          ],
+          "word": "REEK",
+          "correct": "2"
+        },
+        {
+          "prompt": "RETAIN",
+          "answers": [
+            "keep",
+            "return",
+            "hold"
+          ],
+          "word": "RETAIN",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

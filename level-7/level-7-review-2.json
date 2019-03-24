@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABSTEMIOUS",
+      "answer": "abstemious"
+    },
+    {
+      "word": "AFICIONADO",
+      "answer": "aficianado"
+    },
+    {
+      "word": "AMITY",
+      "answer": "amity"
+    },
+    {
+      "word": "ASCRIBE",
+      "answer": "ascribe"
+    },
+    {
+      "word": "AUSPICIOUS",
+      "answer": "auspicious"
+    },
+    {
+      "word": "BURGEON",
+      "answer": "burgeon"
+    },
+    {
+      "word": "CEDE",
+      "answer": "cede"
+    },
+    {
+      "word": "COMMISERATE",
+      "answer": "commiserated"
+    },
+    {
+      "word": "DEBASE",
+      "answer": "debase"
+    },
+    {
+      "word": "DISCERN",
+      "answer": "discern"
+    },
+    {
+      "word": "DISPARATE",
+      "answer": "disparate"
+    },
+    {
+      "word": "DISTEND",
+      "answer": "distended"
+    },
+    {
+      "word": "FOMENT",
+      "answer": "foment"
+    },
+    {
+      "word": "FORBEARANCE",
+      "answer": "forbearance"
+    },
+    {
+      "word": "GERMANE",
+      "answer": "germane"
+    },
+    {
+      "word": "GIBE",
+      "answer": "gibed"
+    },
+    {
+      "word": "GLOWER",
+      "answer": "glowered"
+    },
+    {
+      "word": "GUILE",
+      "answer": "guile"
+    },
+    {
+      "word": "INIMITABLE",
+      "answer": "inimitable"
+    },
+    {
+      "word": "INTIMATION",
+      "answer": "intimation"
+    },
+    {
+      "word": "INVIOLATE",
+      "answer": "inviolate"
+    },
+    {
+      "word": "ITINERANT",
+      "answer": "itinerant"
+    },
+    {
+      "word": "JOCOSE",
+      "answer": "jocose"
+    },
+    {
+      "word": "LUMINARY",
+      "answer": "luminaries"
+    },
+    {
+      "word": "MELLIFLUOUS",
+      "answer": "mellifluous"
+    },
+    {
+      "word": "OBDURATE",
+      "answer": "obdurate"
+    },
+    {
+      "word": "PANACHE",
+      "answer": "panache"
+    },
+    {
+      "word": "PARITY",
+      "answer": "parity"
+    },
+    {
+      "word": "PARRY",
+      "answer": "parry"
+    },
+    {
+      "word": "PAUCITY",
+      "answer": "paucity"
+    },
+    {
+      "word": "PECUNIARY",
+      "answer": "pecuniary"
+    },
+    {
+      "word": "PONDEROUS",
+      "answer": "ponderous"
+    },
+    {
+      "word": "PROVISO",
+      "answer": "proviso"
+    },
+    {
+      "word": "PUGNACIOUS",
+      "answer": "pugnacious"
+    },
+    {
+      "word": "REMISS",
+      "answer": "remiss"
+    },
+    {
+      "word": "SHIFTLESS",
+      "answer": "shiftless"
+    },
+    {
+      "word": "STIGMA",
+      "answer": "stigma"
+    },
+    {
+      "word": "SURREPTITIOUS",
+      "answer": "surreptitious"
+    },
+    {
+      "word": "TRANSGRESS",
+      "answer": "transgressed"
+    },
+    {
+      "word": "TRAVAIL",
+      "answer": "travail"
+    },
+    {
+      "word": "TRUNCATE",
+      "answer": "truncate"
+    },
+    {
+      "word": "UPBRAID",
+      "answer": "upbraided"
+    },
+    {
+      "word": "VAPID",
+      "answer": "vapid"
+    },
+    {
+      "word": "VEX",
+      "answer": "vexed"
+    },
+    {
+      "word": "WAN",
+      "answer": "wan"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "These",
+      "part2": "fellows just can't be serious; everything is a joke to them.",
+      "correct": "jocose",
+      "word": "JOCOSE"
+    },
+    {
+      "part1": "With only two minutes left in the class, the professor was forced to",
+      "part2": "his lecture.",
+      "correct": "truncate",
+      "word": "TRUNCATE"
+    },
+    {
+      "part1": "Mrs. Sims was so",
+      "part2": "by her children's constant questioning that she finally shouted at them to be quiet.",
+      "correct": "vexed",
+      "word": "VEX"
+    },
+    {
+      "part1": "Despite a few problems, the two nations shared the same border in relative",
+      "part2": ".",
+      "correct": "amity",
+      "word": "AMITY"
+    },
+    {
+      "part1": "The custom of having Thanksgiving dinner at our house is",
+      "part2": ";nothing has ever made us change it.",
+      "correct": "inviolate",
+      "word": "INVIOLATE"
+    },
+    {
+      "part1": "Samuel Johnson's literary style was",
+      "part2": ";no one could hope to match its vigor and precision.",
+      "correct": "inimitable",
+      "word": "INIMITABLE"
+    },
+    {
+      "part1": "The color-blind boy was unable to",
+      "part2": "the difference between red and green.",
+      "correct": "discern",
+      "word": "DISCERN"
+    },
+    {
+      "part1": "The company's lawyer inserted a(n)",
+      "part2": "in the contract.",
+      "correct": "proviso",
+      "word": "PROVISO"
+    },
+    {
+      "part1": "The judge",
+      "part2": "the lawyers for wasting his time with their trivial objections.",
+      "correct": "upbraided",
+      "word": "UPBRAID"
+    },
+    {
+      "part1": "Mr. Phillips remained",
+      "part2": "and said he would never rehire the worker he had fired.",
+      "correct": "obdurate",
+      "word": "OBDURATE"
+    },
+    {
+      "part1": "The sweetness of the singer's",
+      "part2": "voice charmed us all.",
+      "correct": "mellifluous",
+      "word": "MELLIFLUOUS"
+    },
+    {
+      "part1": "Few of the laborers could endure for very long the",
+      "part2": "of dragging the boulders across the hot desert.",
+      "correct": "travail",
+      "word": "TRAVAIL"
+    },
+    {
+      "part1": "There is such a(n)",
+      "part2": "of good books in the local library that no one bothers to go there.",
+      "correct": "paucity",
+      "word": "PAUCITY"
+    },
+    {
+      "part1": "Sam",
+      "part2": "at his friends for having voted for a politician who turned out to be a crook.",
+      "correct": "gibed",
+      "word": "GIBE"
+    },
+    {
+      "part1": "Just because I'm unemployed, that doesn't mean I'm (a)n",
+      "part2": "good-for-nothing. I'd work hard, if only I could find a job.",
+      "correct": "shiftless",
+      "word": "SHIFTLESS"
+    },
+    {
+      "part1": "It only took us two seasons to achieve",
+      "part2": "with the other teams in the league; now we're as good as any of them.",
+      "correct": "parity",
+      "word": "PARITY"
+    },
+    {
+      "part1": "The king decreed that all who",
+      "part2": "this law should be put to death.",
+      "correct": "transgressed",
+      "word": "TRANSGRESS"
+    },
+    {
+      "part1": "The actor forgot his lines in the first scene of the play; it was hardly a(n)",
+      "part2": "beginning.",
+      "correct": "auspicious",
+      "word": "AUSPICIOUS"
+    },
+    {
+      "part1": "Through cunning and",
+      "part2": ", he was able to convince everyone that his opponent was unfit for office.",
+      "correct": "guile",
+      "word": "GUILE"
+    },
+    {
+      "part1": "The boxer managed to",
+      "part2": "his opponent's blows, but he was unable to land a punch himself.",
+      "correct": "parry",
+      "word": "PARRY"
+    },
+    {
+      "part1": "No one noticed the prisoner’s",
+      "part2": "movements toward the open door.",
+      "correct": "surreptitious",
+      "word": "SURREPTITIOUS"
+    },
+    {
+      "part1": "The newspaper claimed that the police were",
+      "part2": "in not investigating the charges more thoroughly.",
+      "correct": "remiss",
+      "word": "REMISS"
+    },
+    {
+      "part1": "The professor's",
+      "part2": "lecture was so dull it put most of his students to sleep.",
+      "correct": "ponderous",
+      "word": "PONDEROUS"
+    },
+    {
+      "part1": "The radicals planned to",
+      "part2": "a rebellion by making fiery speeches and calling for a general strike.",
+      "correct": "foment",
+      "word": "FOMENT"
+    },
+    {
+      "part1": "His comments, though interesting, were not",
+      "part2": "to the subject under discussion.",
+      "correct": "germane",
+      "word": "GERMANE"
+    },
+    {
+      "part1": "Almost overnight the shy young girl seemed to",
+      "part2": "into a self-confident woman.",
+      "correct": "burgeon",
+      "word": "BURGEON"
+    },
+    {
+      "part1": "Dave's friends",
+      "part2": "with him when he failed to get the job.",
+      "correct": "commiserated",
+      "word": "COMMISERATE"
+    },
+    {
+      "part1": "The",
+      "part2": "farmhands traveled all across the state, picking up jobs here and there.",
+      "correct": "itinerant",
+      "word": "ITINERANT"
+    },
+    {
+      "part1": "The animal's body was so",
+      "part2": "that it looked round.",
+      "correct": "distended",
+      "word": "DISTEND"
+    },
+    {
+      "part1": "The",
+      "part2": "truck driver was ready to fight anyone who got in his way on the road.",
+      "correct": "pugnacious",
+      "word": "PUGNACIOUS"
+    },
+    {
+      "part1": "Pamela's long hours of studying have left her looking quite",
+      "part2": ".She needs rest and relaxation.",
+      "correct": "wan",
+      "word": "WAN"
+    },
+    {
+      "part1": "The army took these",
+      "part2": "types of men and molded them into an effective fighting force.",
+      "correct": "disparate",
+      "word": "DISPARATE"
+    },
+    {
+      "part1": "The judges decided to",
+      "part2": "his behavior to ignorance of the rules, not cheating.",
+      "correct": "ascribe",
+      "word": "ASCRIBE"
+    },
+    {
+      "part1": "Cindy refused to",
+      "part2": "herself by appearing in the ridiculous costume. She said she had too much dignity.",
+      "correct": "debase",
+      "word": "DEBASE"
+    },
+    {
+      "part1": "We were surprised by John's",
+      "part2": "that he might not be working for us much longer.",
+      "correct": "intimation",
+      "word": "INTIMATION"
+    },
+    {
+      "part1": "The salesman refused to discuss the",
+      "part2": "aspects of the deal; he said the money would take care of itself.",
+      "correct": "pecuniary",
+      "word": "PECUNIARY"
+    },
+    {
+      "part1": "The judge",
+      "part2": "at the noisy spectators and threatened to throw them out of the courtroom.",
+      "correct": "glowered",
+      "word": "GLOWER"
+    },
+    {
+      "part1": "I'm sorry I'm so late in repaying you; your",
+      "part2": "is greatly appreciated.",
+      "correct": "forbearance",
+      "word": "FORBEARANCE"
+    },
+    {
+      "part1": "His comments on current affairs were utterly",
+      "part2": ";he had nothing new or interesting to say.",
+      "correct": "vapid",
+      "word": "VAPID"
+    },
+    {
+      "part1": "The country refused to",
+      "part2": "any of the territory it had captured in the war.",
+      "correct": "cede",
+      "word": "CEDE"
+    },
+    {
+      "part1": "The comic-book",
+      "part2": "has a complete collection of Superman.",
+      "correct": "aficianado",
+      "word": "AFICIONADO"
+    },
+    {
+      "part1": "Many Hall-of-Famers and other athletic",
+      "part2": "were on the physical-fitness panel.",
+      "correct": "luminaries",
+      "word": "LUMINARY"
+    },
+    {
+      "part1": "He tried hard to remove the",
+      "part2": "attached to the family name because of his father's crimes.",
+      "correct": "stigma",
+      "word": "STIGMA"
+    },
+    {
+      "part1": "The",
+      "part2": "man ate and drank only when absolutely necessary.",
+      "correct": "abstemious",
+      "word": "ABSTEMIOUS"
+    },
+    {
+      "part1": "The actor had a certain",
+      "part2": "that made even his smallest roles interesting and exciting.",
+      "correct": "panache",
+      "word": "PANACHE"
+    }
+  ],
+  "type": "fitb",
+  "id": 2
+}

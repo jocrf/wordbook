@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ADJACENT",
+      "answer": "adjacent"
+    },
+    {
+      "word": "APPRENTICE",
+      "answer": "apprentice"
+    },
+    {
+      "word": "DECIPHER",
+      "answer": "decipher"
+    },
+    {
+      "word": "DECREE",
+      "answer": "decree"
+    },
+    {
+      "word": "DERANGED",
+      "answer": "deranged"
+    },
+    {
+      "word": "DEVASTATE",
+      "answer": "devastated"
+    },
+    {
+      "word": "DISPEL",
+      "answer": "dispel"
+    },
+    {
+      "word": "EMERGE",
+      "answer": "emerged"
+    },
+    {
+      "word": "ENUNCIATE",
+      "answer": "enunciated"
+    },
+    {
+      "word": "ESCAPADE",
+      "answer": "escapade"
+    },
+    {
+      "word": "EXCURSION",
+      "answer": "excursion"
+    },
+    {
+      "word": "EXECUTE",
+      "answer": "executed"
+    },
+    {
+      "word": "EXPLICIT",
+      "answer": "explicit"
+    },
+    {
+      "word": "FABRICATE",
+      "answer": "fabricated"
+    },
+    {
+      "word": "FALTER",
+      "answer": "falter"
+    },
+    {
+      "word": "FAMINE",
+      "answer": "famine"
+    },
+    {
+      "word": "FELON",
+      "answer": "felon"
+    },
+    {
+      "word": "GESTURE",
+      "answer": "gestures"
+    },
+    {
+      "word": "GLUTTON",
+      "answer": "glutton"
+    },
+    {
+      "word": "GRANDEUR",
+      "answer": "grandeur"
+    },
+    {
+      "word": "HASTEN",
+      "answer": "hasten"
+    },
+    {
+      "word": "ILLUMINATE",
+      "answer": "illuminate"
+    },
+    {
+      "word": "INQUISITIVE",
+      "answer": "inquisitive"
+    },
+    {
+      "word": "LEGIBLE",
+      "answer": "legible"
+    },
+    {
+      "word": "MERCILESS",
+      "answer": "merciless"
+    },
+    {
+      "word": "METROPOLIS",
+      "answer": "metropolis"
+    },
+    {
+      "word": "NOMAD",
+      "answer": "nomad"
+    },
+    {
+      "word": "NOOK",
+      "answer": "nook"
+    },
+    {
+      "word": "PERPETUAL",
+      "answer": "perpetual"
+    },
+    {
+      "word": "PUNCTUAL",
+      "answer": "punctual"
+    },
+    {
+      "word": "RANSACK",
+      "answer": "ransacked"
+    },
+    {
+      "word": "RATIFY",
+      "answer": "ratify"
+    },
+    {
+      "word": "RECEDE",
+      "answer": "receded"
+    },
+    {
+      "word": "REFRAIN",
+      "answer": "refrained"
+    },
+    {
+      "word": "REFUGE",
+      "answer": "refuge"
+    },
+    {
+      "word": "REPEL",
+      "answer": "repel"
+    },
+    {
+      "word": "REPRESS",
+      "answer": "repress"
+    },
+    {
+      "word": "REVOLT",
+      "answer": "revolt"
+    },
+    {
+      "word": "RURAL",
+      "answer": "rural"
+    },
+    {
+      "word": "SKEPTIC",
+      "answer": "skeptic"
+    },
+    {
+      "word": "SURMOUNT",
+      "answer": "surmount"
+    },
+    {
+      "word": "SURVEILLANCE",
+      "answer": "surveillance"
+    },
+    {
+      "word": "THERMAL",
+      "answer": "thermal"
+    },
+    {
+      "word": "UNSAVORY",
+      "answer": "unsavory"
+    },
+    {
+      "word": "WAGER",
+      "answer": "wagered"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "Several towns decided to start a(n)",
+      "part2": "against the unpopular dictator.",
+      "correct": "revolt",
+      "word": "REVOLT"
+    },
+    {
+      "part1": "The train",
+      "part2": "from the tunnel going sixty miles an hour.",
+      "correct": "emerged",
+      "word": "EMERGE"
+    },
+    {
+      "part1": "He liked his workers to be",
+      "part2": "; he fired them if they were late three times.",
+      "correct": "punctual",
+      "word": "PUNCTUAL"
+    },
+    {
+      "part1": "It took several experts to",
+      "part2": "the Russians' secret code.",
+      "correct": "decipher",
+      "word": "DECIPHER"
+    },
+    {
+      "part1": "There are fewer",
+      "part2": "villages as more and more people leave their farms and move into cities.",
+      "correct": "rural",
+      "word": "RURAL"
+    },
+    {
+      "part1": "We wanted to keep bugs off the tree so we sprayed it with a chemical which is supposed to",
+      "part2": "them.",
+      "correct": "repel",
+      "word": "REPEL"
+    },
+    {
+      "part1": "They went on a short",
+      "part2": "to the country last weekend.",
+      "correct": "excursion",
+      "word": "EXCURSION"
+    },
+    {
+      "part1": "The police kept him under constant",
+      "part2": "to see if he would lead them to the gang's hideout.",
+      "correct": "surveillance",
+      "word": "SURVEILLANCE"
+    },
+    {
+      "part1": "The king was",
+      "part2": "; he sentenced all of his enemies to death.",
+      "correct": "merciless",
+      "word": "MERCILESS"
+    },
+    {
+      "part1": "Johnny",
+      "part2": "that story about feeling ill so that he wouldn't have to do his share of the work.",
+      "correct": "fabricated",
+      "word": "FABRICATE"
+    },
+    {
+      "part1": "The store is",
+      "part2": "to a subway stop, so it is easy for you to get there.",
+      "correct": "adjacent",
+      "word": "ADJACENT"
+    },
+    {
+      "part1": "Bob was very angry at the dog, but he",
+      "part2": "from hitting it.",
+      "correct": "refrained",
+      "word": "REFRAIN"
+    },
+    {
+      "part1": "We are trying to",
+      "part2": "the delivery of our furniture so that we can move in sooner.",
+      "correct": "hasten",
+      "word": "HASTEN"
+    },
+    {
+      "part1": "The water in a(n)",
+      "part2": "spring can be very hot.",
+      "correct": "thermal",
+      "word": "THERMAL"
+    },
+    {
+      "part1": "They sat in the cozy",
+      "part2": "by the window and chatted.",
+      "correct": "nook",
+      "word": "NOOK"
+    },
+    {
+      "part1": "Everyone resented the king's",
+      "part2": "that doubled taxes.",
+      "correct": "decree",
+      "word": "DECREE"
+    },
+    {
+      "part1": "He was such a(n)",
+      "part2": "that he would eat three helpings of everything.",
+      "correct": "glutton",
+      "word": "GLUTTON"
+    },
+    {
+      "part1": "The",
+      "part2": "little boy asked questions about everything he saw in the museum.",
+      "correct": "inquisitive",
+      "word": "INQUISITIVE"
+    },
+    {
+      "part1": "This part of town has a(n)",
+      "part2": "reputation; a lot of nasty people live here.",
+      "correct": "unsavory",
+      "word": "UNSAVORY"
+    },
+    {
+      "part1": "He gave up his job and became a(n)",
+      "part2": ", traveling wherever he wanted to, living by his wits.",
+      "correct": "nomad",
+      "word": "NOMAD"
+    },
+    {
+      "part1": "We were impressed by the",
+      "part2": "of the ceremony in which the new king was crowned.",
+      "correct": "grandeur",
+      "word": "GRANDEUR"
+    },
+    {
+      "part1": "She felt scared and lonely in the huge, busy",
+      "part2": "after living on a farm all her life.",
+      "correct": "metropolis",
+      "word": "METROPOLIS"
+    },
+    {
+      "part1": "The judge said that stealing a car was not a childish",
+      "part2": "but a serious crime.",
+      "correct": "escapade",
+      "word": "ESCAPADE"
+    },
+    {
+      "part1": "I don't understand all these hints. Could you please be more",
+      "part2": "about what you mean?",
+      "correct": "explicit",
+      "word": "EXPLICIT"
+    },
+    {
+      "part1": "We looked high and low for the missing necklace, and",
+      "part2": "the house trying to find it.",
+      "correct": "ransacked",
+      "word": "RANSACK"
+    },
+    {
+      "part1": "This will be a(n)",
+      "part2": "problem for us; I don't think we'll ever solve it.",
+      "correct": "perpetual",
+      "word": "PERPETUAL"
+    },
+    {
+      "part1": "Once he made up his mind, he stuck to his decision and did not",
+      "part2": ".",
+      "correct": "falter",
+      "word": "FALTER"
+    },
+    {
+      "part1": "After the earthquake, the church provided a(n)",
+      "part2": "for those who had lost their homes.",
+      "correct": "refuge",
+      "word": "REFUGE"
+    },
+    {
+      "part1": "The new street lights helped to",
+      "part2": "the street so that there were fewer accidents.",
+      "correct": "illuminate",
+      "word": "ILLUMINATE"
+    },
+    {
+      "part1": "Because the storekeeper was deaf, I had to use a lot of",
+      "part2": "to make him understand what I wanted.",
+      "correct": "gestures",
+      "word": "GESTURE"
+    },
+    {
+      "part1": "Bill",
+      "part2": "ten dollars that he would beat Tim in the race.",
+      "correct": "wagered",
+      "word": "WAGER"
+    },
+    {
+      "part1": "It was hard to",
+      "part2": "the strange feeling that this had all happened to me before.",
+      "correct": "dispel",
+      "word": "DISPEL"
+    },
+    {
+      "part1": "Sam never believed in anything wholeheartedly; he remained a(n)",
+      "part2": "all his life.",
+      "correct": "skeptic",
+      "word": "SKEPTIC"
+    },
+    {
+      "part1": "The criminals",
+      "part2": "the robbery so successfully that no one knew what had happened.",
+      "correct": "executed",
+      "word": "EXECUTE"
+    },
+    {
+      "part1": "Two square blocks of the city were totally",
+      "part2": "by the explosion.",
+      "correct": "devastated",
+      "word": "DEVASTATE"
+    },
+    {
+      "part1": "If it doesn't rain soon the crops will die and there will be a(n)",
+      "part2": ".",
+      "correct": "famine",
+      "word": "FAMINE"
+    },
+    {
+      "part1": "The sound of thunder",
+      "part2": "as the storm moved away.",
+      "correct": "receded",
+      "word": "RECEDE"
+    },
+    {
+      "part1": "The legislature refused to",
+      "part2": "the treaty.",
+      "correct": "ratify",
+      "word": "RATIFY"
+    },
+    {
+      "part1": "He must be",
+      "part2": "No one in his right mind would act that way.",
+      "correct": "deranged",
+      "word": "DERANGED"
+    },
+    {
+      "part1": "The gravestones were so old and worn that the names on them were barely",
+      "part2": ".",
+      "correct": "legible",
+      "word": "LEGIBLE"
+    },
+    {
+      "part1": "Tom had to",
+      "part2": "many obstacles on his climb to the presidency.",
+      "correct": "surmount",
+      "word": "SURMOUNT"
+    },
+    {
+      "part1": "Art said he was not a(n)",
+      "part2": "; the worst thing he had ever done was to park illegally.",
+      "correct": "felon",
+      "word": "FELON"
+    },
+    {
+      "part1": "He was only a(n)",
+      "part2": ", but already we could tell that someday he would be a great master of his trade.",
+      "correct": "apprentice",
+      "word": "APPRENTICE"
+    },
+    {
+      "part1": "He",
+      "part2": "every word clearly so that he wouldn't be misunderstood.",
+      "correct": "enunciated",
+      "word": "ENUNCIATE"
+    },
+    {
+      "part1": "She tried very hard to",
+      "part2": "a grin, but she was too happy to keep from smiling.",
+      "correct": "repress",
+      "word": "REPRESS"
+    }
+  ],
+  "type": "fitb",
+  "id": 1
+}

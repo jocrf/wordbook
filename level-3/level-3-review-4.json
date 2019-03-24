@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "AMUSEMENT",
+      "answer": "amusement"
+    },
+    {
+      "word": "CASUALTY",
+      "answer": "casualties"
+    },
+    {
+      "word": "COMPILE",
+      "answer": "compiled"
+    },
+    {
+      "word": "CONCEITED",
+      "answer": "conceited"
+    },
+    {
+      "word": "CONFINE",
+      "answer": "confine"
+    },
+    {
+      "word": "CONTRADICT",
+      "answer": "contradict"
+    },
+    {
+      "word": "CZAR",
+      "answer": "czar"
+    },
+    {
+      "word": "DEBUT",
+      "answer": "debut"
+    },
+    {
+      "word": "DRAB",
+      "answer": "drab"
+    },
+    {
+      "word": "ENTRENCH",
+      "answer": "entrench"
+    },
+    {
+      "word": "EQUILIBRIUM",
+      "answer": "equilibrium"
+    },
+    {
+      "word": "ERECT",
+      "answer": "erect"
+    },
+    {
+      "word": "EVALUATE",
+      "answer": "evaluate"
+    },
+    {
+      "word": "EXCEED",
+      "answer": "exceed"
+    },
+    {
+      "word": "GRIM",
+      "answer": "grim"
+    },
+    {
+      "word": "GULLY",
+      "answer": "gully"
+    },
+    {
+      "word": "IDLE",
+      "answer": "idle"
+    },
+    {
+      "word": "IMMORTAL",
+      "answer": "immortal"
+    },
+    {
+      "word": "INFLICT",
+      "answer": "inflict"
+    },
+    {
+      "word": "INTENTION",
+      "answer": "intention"
+    },
+    {
+      "word": "LAVISH",
+      "answer": "lavish"
+    },
+    {
+      "word": "LINGER",
+      "answer": "lingered"
+    },
+    {
+      "word": "MASSACRE",
+      "answer": "massacre"
+    },
+    {
+      "word": "NEGLIGENT",
+      "answer": "negligent"
+    },
+    {
+      "word": "OBLIGATION",
+      "answer": "obligation"
+    },
+    {
+      "word": "OBSTRUCT",
+      "answer": "obstructed"
+    },
+    {
+      "word": "OBTAIN",
+      "answer": "obtain"
+    },
+    {
+      "word": "PACT",
+      "answer": "pact"
+    },
+    {
+      "word": "PORTRAY",
+      "answer": "portray"
+    },
+    {
+      "word": "POTENTIAL",
+      "answer": "potential"
+    },
+    {
+      "word": "RADIANT",
+      "answer": "radiant"
+    },
+    {
+      "word": "RECOIL",
+      "answer": "recoiled"
+    },
+    {
+      "word": "RENOVATE",
+      "answer": "renovate"
+    },
+    {
+      "word": "RESIDE",
+      "answer": "resided"
+    },
+    {
+      "word": "REVOLTING",
+      "answer": "revolting"
+    },
+    {
+      "word": "SCOLD",
+      "answer": "scolded"
+    },
+    {
+      "word": "SERENE",
+      "answer": "serene"
+    },
+    {
+      "word": "SINCERE",
+      "answer": "sincere"
+    },
+    {
+      "word": "SKETCHY",
+      "answer": "sketchy"
+    },
+    {
+      "word": "STATIONARY",
+      "answer": "stationary"
+    },
+    {
+      "word": "TOPPLE",
+      "answer": "topple"
+    },
+    {
+      "word": "TYRANT",
+      "answer": "tyrant"
+    },
+    {
+      "word": "UTTER",
+      "answer": "utter"
+    },
+    {
+      "word": "VICIOUS",
+      "answer": "vicious"
+    },
+    {
+      "word": "YEARN",
+      "answer": "yearned"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The actor only had a small part in the movie, but critics said he was a(n)",
+      "part2": "star.",
+      "correct": "potential",
+      "word": "POTENTIAL"
+    },
+    {
+      "part1": "The enemy tried to",
+      "part2": "themselves in front of our city, but we managed to drive them away.",
+      "correct": "entrench",
+      "word": "ENTRENCH"
+    },
+    {
+      "part1": "We can't afford to buy a new house, so we're going to",
+      "part2": "this one and make it look like new.",
+      "correct": "renovate",
+      "word": "RENOVATE"
+    },
+    {
+      "part1": "Do you have any",
+      "part2": "of carrying out your promise to return my money?",
+      "correct": "intention",
+      "word": "INTENTION"
+    },
+    {
+      "part1": "Every holiday weekend there are hundreds of",
+      "part2": "on our nation's highways.",
+      "correct": "casualties",
+      "word": "CASUALTY"
+    },
+    {
+      "part1": "Hal is very",
+      "part2": "about his athletic ability. He thinks he's going to be an All-American his freshman year.",
+      "correct": "conceited",
+      "word": "CONCEITED"
+    },
+    {
+      "part1": "Everyone was killed in the",
+      "part2": "which followed the capture of the village.",
+      "correct": "massacre",
+      "word": "MASSACRE"
+    },
+    {
+      "part1": "The",
+      "part2": "criminals beat up the man and left him to die in the alley.",
+      "correct": "vicious",
+      "word": "VICIOUS"
+    },
+    {
+      "part1": "John was",
+      "part2": "with happiness on the day he was married.",
+      "correct": "radiant",
+      "word": "RADIANT"
+    },
+    {
+      "part1": "The job of the customs inspector is to",
+      "part2": "the worth of articles brought into the country.",
+      "correct": "evaluate",
+      "word": "EVALUATE"
+    },
+    {
+      "part1": "The walls were",
+      "part2": "and uninteresting, so he decided to paint them bright blue.",
+      "correct": "drab",
+      "word": "DRAB"
+    },
+    {
+      "part1": "I know very little Russian, so my understanding of what they were saying was, at best,",
+      "part2": ".",
+      "correct": "sketchy",
+      "word": "SKETCHY"
+    },
+    {
+      "part1": "Even the doctor",
+      "part2": "in horror when he first examined the victims of the fire.",
+      "correct": "recoiled",
+      "word": "RECOIL"
+    },
+    {
+      "part1": "The man told a(n)",
+      "part2": "tale of sickness and misery.",
+      "correct": "grim",
+      "word": "GRIM"
+    },
+    {
+      "part1": "They decided to",
+      "part2": "a huge monument in memory of the king.",
+      "correct": "erect",
+      "word": "ERECT"
+    },
+    {
+      "part1": "The sight of all the bugs crawling over the food was",
+      "part2": ".",
+      "correct": "revolting",
+      "word": "REVOLTING"
+    },
+    {
+      "part1": "Some people didn't believe Don, but I think he was",
+      "part2": "when he said he was sorry.",
+      "correct": "sincere",
+      "word": "SINCERE"
+    },
+    {
+      "part1": "A huge rock",
+      "part2": "our path to the house.",
+      "correct": "obstructed",
+      "word": "OBSTRUCT"
+    },
+    {
+      "part1": "The blind boy",
+      "part2": "to be able to see again.",
+      "correct": "yearned",
+      "word": "YEARN"
+    },
+    {
+      "part1": "The earthquake caused large buildings to",
+      "part2": "to the ground.",
+      "correct": "topple",
+      "word": "TOPPLE"
+    },
+    {
+      "part1": "The boxer started to",
+      "part2": "a great deal of damage on his opponent.",
+      "correct": "inflict",
+      "word": "INFLICT"
+    },
+    {
+      "part1": "The rebels killed the dictator, but another",
+      "part2": "took over the government.",
+      "correct": "tyrant",
+      "word": "TYRANT"
+    },
+    {
+      "part1": "We found some rainwater to drink flowing slowly downhill in a small",
+      "part2": ".",
+      "correct": "gully",
+      "word": "GULLY"
+    },
+    {
+      "part1": "Nicholas II, the last",
+      "part2": "of Russia, was killed during the Russian Revolution.",
+      "correct": "czar",
+      "word": "CZAR"
+    },
+    {
+      "part1": "The cost of the party should not",
+      "part2": "fifty dollars, since that is all the money we have.",
+      "correct": "exceed",
+      "word": "EXCEED"
+    },
+    {
+      "part1": "Mary",
+      "part2": "a list of everyone she wanted to invite to the party.",
+      "correct": "compiled",
+      "word": "COMPILE"
+    },
+    {
+      "part1": "His",
+      "part2": "as a third baseman was not very good. He made four errors in that first game.",
+      "correct": "debut",
+      "word": "DEBUT"
+    },
+    {
+      "part1": "Mr. Allen was",
+      "part2": "about paying his bills on time; as a result, his phone service was cut off.",
+      "correct": "negligent",
+      "word": "NEGLIGENT"
+    },
+    {
+      "part1": "Chet didn't like to be",
+      "part2": ". He always wanted to be busy doing something.",
+      "correct": "idle",
+      "word": "IDLE"
+    },
+    {
+      "part1": "The marchers in the parade remained",
+      "part2": "until they received the signal to move on.",
+      "correct": "stationary",
+      "word": "STATIONARY"
+    },
+    {
+      "part1": "The artist chose to",
+      "part2": "her as a peasant girl in his painting.",
+      "correct": "portray",
+      "word": "PORTRAY"
+    },
+    {
+      "part1": "When we went to the bank for a loan, we were asked how long we had",
+      "part2": "at our present address.",
+      "correct": "resided",
+      "word": "RESIDE"
+    },
+    {
+      "part1": "His humorous stories gave us plenty of",
+      "part2": ".",
+      "correct": "amusement",
+      "word": "AMUSEMENT"
+    },
+    {
+      "part1": "He didn't",
+      "part2": "his speech to one topic, but talked about a variety of matters.",
+      "correct": "confine",
+      "word": "CONFINE"
+    },
+    {
+      "part1": "The angry teacher",
+      "part2": "Bill for being late for class.",
+      "correct": "scolded",
+      "word": "SCOLD"
+    },
+    {
+      "part1": "June is always so",
+      "part2": ". Nothing ever seems to worry her or make her angry.",
+      "correct": "serene",
+      "word": "SERENE"
+    },
+    {
+      "part1": "The judge ruled that the store had a(n)",
+      "part2": "to refund Ted's money.",
+      "correct": "obligation",
+      "word": "OBLIGATION"
+    },
+    {
+      "part1": "They made a solemn",
+      "part2": "to always help each other.",
+      "correct": "pact",
+      "word": "PACT"
+    },
+    {
+      "part1": "The man sought a magic drug that would make him",
+      "part2": ", but like everyone else he finally died.",
+      "correct": "immortal",
+      "word": "IMMORTAL"
+    },
+    {
+      "part1": "The boat always maintained its",
+      "part2": "; whenever it was pushed one way, it would immediately right itself and continue on course.",
+      "correct": "equilibrium",
+      "word": "EQUILIBRIUM"
+    },
+    {
+      "part1": "At Thanksgiving, she always prepared a(n)",
+      "part2": "meal, with more than enough to feed a dozen families.",
+      "correct": "lavish",
+      "word": "LAVISH"
+    },
+    {
+      "part1": "Scott dislikes it when people",
+      "part2": "him; he thinks if he says it, it must be true, and no one should say otherwise.",
+      "correct": "contradict",
+      "word": "CONTRADICT"
+    },
+    {
+      "part1": "Bob tried to",
+      "part2": "the record album, but none of the stores carried it.",
+      "correct": "obtain",
+      "word": "OBTAIN"
+    },
+    {
+      "part1": "A few fans",
+      "part2": "for hours at the stage door, hoping that the actor would appear.",
+      "correct": "lingered",
+      "word": "LINGER"
+    },
+    {
+      "part1": "We were not allowed to",
+      "part2": "a single word while we were taking the test.",
+      "correct": "utter",
+      "word": "UTTER"
+    }
+  ],
+  "type": "fitb",
+  "id": 4
+}

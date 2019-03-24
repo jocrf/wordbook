@@ -1,0 +1,617 @@
+{
+  "title": "4.4",
+  "definitions": {
+    "PERILOUS": {
+      "word": "PERILOUS",
+      "phonetic": "(per'-ÔøΩlÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dangerous, hazardous </p><p>PERIL is <i class=“def-ital\">hazard</i> or <i class=“def-ital\">danger</i>.n“They faced many PERILS climbing the mountain.” </p><p>Something that is PERILOUS is full of PERIL.  </p><p>“The journey across the ocean was a PERILOUS one in the days of sailing ships.” </p><p>“Crossing a minefield is PERILOUS.” </p><p>“On the top floor of the burning building, they felt their situation was PERILOUS but not hopeless.” </p><p>Other forms of the word: PERIL, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "SUBDUE": {
+      "word": "SUBDUE",
+      "phonetic": "(sÔøΩb-dU'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to overcome, control, tame, curb; to quiet down, tone down </p><p>To SUBDUE is to conquer or get control of by force, threat, or by an effort of the will. </p><p>“The conquering army SUBDUED the uprising by the natives.” </p><p>“The expert rider SUBDUED the wild horse.” </p><p>“She managed to SUBDUE her desire to own a new car.” </p><p>SUBDUE can also mean “to reduce in intensity,” to <i class=“def-ital\">quiet down</i>. </p><p>“They SUBDUED their voices when they saw the teacher approaching.” </p><p>The adjective SUBDUED is usually used in this sense. </p><p>“The SUBDUED lighting made the restaurant appear mysterious and romantic.” </p><p>Other forms of the word: SUBDUED, adj.</p>"
+    },
+    "COMMERCE": {
+      "word": "COMMERCE",
+      "phonetic": "(kom'-ÔøΩrs)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">trade </p><p>COMMERCE is the buying and selling of goods, especially on a large scale or between different countries. </p><p>“The shipping strike caused COMMERCE to decline.” </p><p>“Congress encouraged COMMERCE with other countries by reducing the taxes on goods coming into the United States.” </p><p>The Chamber of COMMERCE is an association which promotes trade and business activity in a particular area. </p><p>COMMERCIAL is the adjective from COMMERCE, and means “having to do with trade or business.” </p><p>“The COMMERCIAL interests in the city urged that more roads be built to carry goods to and from the factories.” </p><p>A COMMERCIAL <i class=“def-ital\">message</i> or COMMERCIAL is an advertisement in a radio or television program. </p><p>Other forms of the word: COMMERCIAL, adj., n.</p>"
+    },
+    "PRELIMINARY": {
+      "word": "PRELIMINARY",
+      "phonetic": "(prÔøΩlim'-ÔøΩner-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">introductory, preparatory </p><p>Something that is PRELIMINARY comes before something else, and usually leads up to or prepares for it.  </p><p>“These are just PRELIMINARY findings. The final report will be published later.” </p><p>“There were three PRELIMINARY fights before the main event.” </p><p>PRELIMINARY is also a noun. </p><p>“This test is just a PRELIMINARY. If you pass it, you have to take a much harder one.” </p><p>The most commonly marked incorrect answer on the Pretest is <i class=“def-ital\">final</i>, which is almost an opposite of PRELIMINARY.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">pre-</i> under Prefixes."
+      ]
+    },
+    "BRISK": {
+      "word": "BRISK",
+      "phonetic": "(brisk)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">lively, quick-moving, stimulating </p><p>BRISK means <i class=“def-ital\">lively</i>, <i class=“def-ital\">quick</i>, <i class=“def-ital\">energetic</i>. The word is used about the way people or things act and move, and also about people’s manners and attitudes. BRISK often suggests a liveliness that makes a person feel strong and healthy. </p><p>“The BRISK ten-minute walk made us all feel wonderful.” </p><p>“After the heavy rain, a BRISK wind dried the newly washed ground.” </p><p>“She was a BRISK, intelligent woman with plenty of plans and the energy to carry them out.” </p><p>“It was a BRISK fall day: the sun was out but it was cool and there was no humidity.”</p>"
+    },
+    "NONCHALANT": {
+      "word": "NONCHALANT",
+      "phonetic": "(non-shÔøΩlont')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">casual, cool, unconcerned </p><p> The root meaning of NONCHALANT is <i class=“def-ital\">not warm</i>. The word is applied to people who have a cool and calm manner, who do not get excited or upset easily. </p><p>“He seems very NONCHALANT about winning the prize, but he’s really quite pleased.” </p><p>“When she was accused of lying, she acted very NONCHALANT, as if it didn’t bother her a bit.” </p><p>Other forms of the word: NONCHALANCE, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">non-</i> under Prefixes."
+      ]
+    },
+    "DENOUNCE": {
+      "word": "DENOUNCE",
+      "phonetic": "(di-nowns'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to criticize, speak against </p><p>To DENOUNCE someone is to criticize or make charges against him, usually publicly. </p><p>“He DENOUNCED his former friend as a crook and a liar.” </p><p>“She DENOUNCED the plan, calling it unfair and illegal.” </p><p>In a slightly different sense, the word means “to give in- formation against” a person, usually to the authorities. </p><p>“He DENOUNCED his co-worker to the police as a traitor.” </p><p>The noun from DENOUNCE is DENUNCIATION. “Despite the City Council’s DENUNCIATION of his plan, the mayor said he would go ahead with it.” </p><p>Other forms of the word: DENUNCIATION, n.</p>"
+    },
+    "EARNEST": {
+      "word": "EARNEST",
+      "phonetic": "(er'-nist)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">serious, determined, sincere </p><p>An EARNEST person is sincere and serious in pursuing a goal. The word suggests steady purpose and deep feeling. </p><p>“The EARNEST student tried to learn all he could about the subject.” </p><p>“He made an EARNEST attempt to climb the mountain, but finally had to give up.” </p><p>“The teacher EARNESTLY warned Jack to study harder or else he wouldn’t graduate.” </p><p>EARNEST is also a noun, which is usually found in the phrase “in EARNEST.” Someone who is “in EARNEST” is serious, is not joking. </p><p>“She was in EARNEST when she told us a hurricane was coming and we were in danger.”</p>"
+    },
+    "OPTIMISTIC": {
+      "word": "OPTIMISTIC",
+      "phonetic": "(op-tÔøΩmis'-tik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hopeful, cheerful, confident </p><p>The word OPTIMIST comes from a Latin word meaning <i class=“def-ital\">best</i>. An OPTIMIST believes everything will turn out for the best. </p><p>“He’s such an OPTIMIST-he believes that he will soon be rich and famous.” </p><p>OPTIMISTIC is the adjective from OPTIMIST.  Someone who is OPTIMISTIC is hopeful and cheerful in his outlook. OPTIMISTIC people are confident that everything will turn out well, even though they may have no good reason to believe this. </p><p>“Although he knew he had only one year to live, he was OPTIMISTIC that a cure would be found in time to save him.” </p><p>“She was OPTIMISTIC about getting the job on the newspaper because the editor had seemed to like her during the interview.” </p><p>Other forms of the word: OPTIMISM, n. OPTIMIST, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ic</i> under Suffixes."
+      ]
+    },
+    "CONQUEST": {
+      "word": "CONQUEST",
+      "phonetic": "(kon'-kwest)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">victory, conquering </p><p>CONQUEST is related to the word CONQUER. To CONQUER is to defeat or overcome an enemy. A CONQUEST is a victory or the act of CONQUERING. The word is usually used about victory in war or battle. </p><p>“The CONQUEST of Germany was a long campaign; it took four years to CONQUER the country.” </p><p>“The Norman CONQUEST of England began with the Battle of Hastings.” </p><p>CONQUEST is also used about any act of overcoming or gaining a victory, especially after a struggle. </p><p>“Many doctors deserve credit for helping in the CONQUEST of polio.”</p>"
+    },
+    "STERN": {
+      "word": "STERN",
+      "phonetic": "(stern)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">severe, strict, firm, grim </p><p>Someone who is STERN has a firm and unyielding manner, is strict and severe. </p><p>“The STERN teacher would punish the whole class for any mistakes.” </p><p>STERN is also used about the way people look and what they do. </p><p>“He gave them a STERN look when he heard them laughing at him.” </p><p>“The children were unhappy because of their mother’s STERN refusal to let them play outside.” </p><p>Something which is a “STERN necessity” isn’t very pleasant, but has to be done. </p><p>“He was faced with the STERN necessity of having to fire his best friend from the job.”</p>"
+    },
+    "BEHOLD": {
+      "word": "BEHOLD",
+      "phonetic": "(bÔøΩhOld')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to look at, observe, see </p><p>To BEHOLD something is to look at it. The word usually suggests seeing fully and clearly. </p><p>“When we first BEHELD the city we knew we wanted to live there.” </p><p>“After a snowstorm the woods are beautiful to BEHOLD.” </p><p>“Last night I BEHELD the strangest sight I have ever seen.” </p><p>“The magician opened the box and BEHOLD! the girl had disappeared.” </p><p>Many people confuse BEHOLD with <i class=“def-ital\">remember</i>, perhaps because the <i class=“def-ital\">hold</i> part of the word suggests holding something in your memory. </p><p>Usage: The past tense of BEHOLD is BEHELD.</p>"
+    },
+    "DISCLOSE": {
+      "word": "DISCLOSE",
+      "phonetic": "(dis-klOz')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to reveal, uncover, expose, divulge, make known </p><p> To DISCLOSE something is to make it “not closed,” to open it up to view or to public knowledge. </p><p>“Examination of their records DISCLOSED several illegal business deals.” </p><p>The word is usually used about people saying something which was previously secret. </p><p>“Jim DISCLOSED that he had once been in jail.” </p><p>The noun from DISCLOSE is DISCLOSURE. </p><p>“Everyone was shocked by his DISCLOSURE that he was an alcoholic.” </p><p>Other forms of the word: DISCLOSURE, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    },
+    "ETIQUETTE": {
+      "word": "ETIQUETTE",
+      "phonetic": "(et'-ÔøΩkÔøΩt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">manners, rules of behavior </p><p>Note the pronunciation. The <i class=“def-ital\">qu</i> is pronounced like <i class=“def-ital\">k</i>. </p><p>Every society or profession has its own unwritten rules of how to behave, what to do and what not to do in certain situations. ETIQUETTE is the general name for these accepted ways of behaving. </p><p>“To leave the table so soon was not proper ETIQUETTE\"-that is, it was not the accepted way to act.” </p><p>“Medical ETIQUETTE prohibits a doctor from stealing another doctor’s patient.” </p><p>It is not against the law to go against ETIQUETTE, but you can be looked down on or disliked for ignoring proper ETIQUETTE.</p>"
+    },
+    "MANIPULATE": {
+      "word": "MANIPULATE",
+      "phonetic": "(mÔøΩnip'-yU-IAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to handle skillfully, manage, control </p><p>MANIPULATE comes from the Latin word for <i class=“def-ital\">hand</i>, also the source of the words <i class=“def-ital\">manual</i> and <i class=“def-ital\">manufacture</i>. To MANIPULATE something is to <i class=“def-ital\">handle</i> it, particularly with skill or cleverness. </p><p>“She MANIPULATED the controls expertly.” </p><p>In a general sense the word means to <i class=“def-ital\">control</i> or <i class=“def-ital\">manage</i> something or someone, particularly by artful or tricky means. </p><p>“The speaker knew how to MANIPULATE his audience so that they agreed with him.” </p><p>“I don’t mind being given advice, but I don’t like the idea that I’m being MANIPULATED to do what someone else wants.” </p><p>Other forms of the word: MANIPULATION, n.</p>"
+    }
+  },
+  "id": "4",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "PERILOUS journey.",
+          "answers": [
+            "unlucky",
+            "safe",
+            "boring",
+            "dangerous",
+            "endless"
+          ],
+          "word": "PERILOUS",
+          "correct": "dangerous"
+        },
+        {
+          "prompt": "SUBDUE all of them.",
+          "answers": [
+            "overcome",
+            "go beneath",
+            "fight",
+            "lose to",
+            "change"
+          ],
+          "word": "SUBDUE",
+          "correct": "overcome"
+        },
+        {
+          "prompt": "Foreign COMMERCE.",
+          "answers": [
+            "warfare",
+            "offer",
+            "talk",
+            "trade",
+            "ship"
+          ],
+          "word": "COMMERCE",
+          "correct": "trade"
+        },
+        {
+          "prompt": "PRELIMINARY material.",
+          "answers": [
+            "easy",
+            "introductory",
+            "new",
+            "well-known",
+            "final"
+          ],
+          "word": "PRELIMINARY",
+          "correct": "introductory"
+        },
+        {
+          "prompt": "BRISK people.",
+          "answers": [
+            "homely",
+            "slow",
+            "lively",
+            "clever",
+            "mean"
+          ],
+          "word": "BRISK",
+          "correct": "lively"
+        },
+        {
+          "prompt": "NONCHALANT attitude.",
+          "answers": [
+            "mental",
+            "undecided",
+            "concerned",
+            "former",
+            "casual"
+          ],
+          "word": "NONCHALANT",
+          "correct": "casual"
+        },
+        {
+          "prompt": "To DENOUNCE him.",
+          "answers": [
+            "leave",
+            "dislike",
+            "capture",
+            "praise",
+            "criticize"
+          ],
+          "word": "DENOUNCE",
+          "correct": "criticize"
+        },
+        {
+          "prompt": "A very EARNEST boy.",
+          "answers": [
+            "rich",
+            "serious",
+            "sad",
+            "playful",
+            "stingy"
+          ],
+          "word": "EARNEST",
+          "correct": "serious"
+        },
+        {
+          "prompt": "Unusually OPTIMISTIC.",
+          "answers": [
+            "hopeful",
+            "excited",
+            "friendly",
+            "happy",
+            "worried"
+          ],
+          "word": "OPTIMISTIC",
+          "correct": "hopeful"
+        },
+        {
+          "prompt": "Joined in the CONQUEST.",
+          "answers": [
+            "victory",
+            "game",
+            "tour",
+            "celebration",
+            "surrender"
+          ],
+          "word": "CONQUEST",
+          "correct": "victory"
+        },
+        {
+          "prompt": "STERN words.",
+          "answers": [
+            "loud",
+            "final",
+            "gentle",
+            "severe",
+            "unknown"
+          ],
+          "word": "STERN",
+          "correct": "severe"
+        },
+        {
+          "prompt": "BEHOLD it.",
+          "answers": [
+            "remember",
+            "enjoy",
+            "forget",
+            "go to",
+            "look at"
+          ],
+          "word": "BEHOLD",
+          "correct": "look at"
+        },
+        {
+          "prompt": "Unwilling to DISCLOSE it.",
+          "answers": [
+            "start",
+            "find",
+            "reveal",
+            "unlock",
+            "hide"
+          ],
+          "word": "DISCLOSE",
+          "correct": "reveal"
+        },
+        {
+          "prompt": "Different ETIQUETTE.",
+          "answers": [
+            "invitation",
+            "phrases",
+            "laws",
+            "manners",
+            "dance"
+          ],
+          "word": "ETIQUETTE",
+          "correct": "manners"
+        },
+        {
+          "prompt": "To MANIPULATE it.",
+          "answers": [
+            "drop",
+            "handle",
+            "copy",
+            "fix",
+            "demand"
+          ],
+          "word": "MANIPULATE",
+          "correct": "handle"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do lion tamers have a PERILOUS job?",
+          "word": "PERILOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are SUBDUED voices very loud?",
+          "word": "SUBDUE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is money involved in COMMERCE?",
+          "word": "COMMERCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a PRELIMINARY decision the last one that will be made?",
+          "word": "PRELIMINARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can winds be BRISK?",
+          "word": "BRISK",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people be NONCHALANT about winning a million dollars?",
+          "word": "NONCHALANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a reporter on television DENOUNCE the news?",
+          "word": "DENOUNCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Should you pay attention to someone who is in EARNEST?",
+          "word": "EARNEST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an OPTIMIST worry a lot?",
+          "word": "OPTIMISTIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "If someone climbed a mountain that had never been climbed before, would that be considered a CONQUEST?",
+          "word": "CONQUEST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a comedian STERN?",
+          "word": "STERN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you BEHOLD something that is in the distance?",
+          "word": "BEHOLD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are secrets supposed to be DISCLOSED?",
+          "word": "DISCLOSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it usually considered proper ETIQUETTE to slam the door in someone's face?",
+          "word": "ETIOUETTE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it possible to MANIPULATE a hammer?",
+          "word": "MANIPULATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "They all breathed a sigh of relief when they had completed the PERILOUS journey.",
+          "word": "PERILOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The wrestler SUBDUED his opponent with a trick hold.",
+          "word": "SUBDUE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The COMMERCIAL bank dealt mainly with the money needs of large businesses.",
+          "word": "COMMERCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "There will be a PRELIMINARY interview before we will let you formally apply for the job.",
+          "word": "PRELIMINARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "He ran at a BRISK pace through the park.",
+          "word": "BRISK",
+          "correct": "true"
+        },
+        {
+          "prompt": "The angry teacher was NONCHALANT with everyone for disobeying.",
+          "word": "NONCHALANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The politician took every opportunity to issue public DENUNCIATIONS of his opponent.",
+          "word": "DENOUNCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I EARNESTLY recommend that you fix those stairs before someone gets hurt.",
+          "word": "EARNEST",
+          "correct": "true"
+        },
+        {
+          "prompt": "The coach was OPTIMISTIC about winning the title despite our injuries.",
+          "word": "OPTIMISTIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was a close CONQUEST, but we finally lost.",
+          "word": "CONQUEST",
+          "correct": "false"
+        },
+        {
+          "prompt": "His parents were very STERN. He wasn't allowed to do anything the other children did.",
+          "word": "STERN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Traffic on the highway was BEHELD by a serious accident.",
+          "word": "BEHOLD",
+          "correct": "false"
+        },
+        {
+          "prompt": "They asked for a full DISCLOSURE of what he knew about the business deal.",
+          "word": "DISCLOSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He knows nothing about ETIQUETTE: his table manners are disgraceful.",
+          "word": "ETIQUETTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He is easily MANIPULATED: he will do anything if you ask him in the right way.",
+          "word": "MANIPULATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "PERILOUS",
+          "answers": [
+            "hazardous",
+            "miserable",
+            "risky"
+          ],
+          "word": "PERILOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "SUBDUE",
+          "answers": [
+            "quiet",
+            "control",
+            "demand"
+          ],
+          "word": "SUBDUE",
+          "correct": "2"
+        },
+        {
+          "prompt": "COMMERCE",
+          "answers": [
+            "selling",
+            "taxing",
+            "buying"
+          ],
+          "word": "COMMERCE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PRELIMINARY",
+          "answers": [
+            "first",
+            "fast",
+            "prior"
+          ],
+          "word": "PRELIMINARY",
+          "correct": "1"
+        },
+        {
+          "prompt": "BRISK",
+          "answers": [
+            "quick",
+            "energetic",
+            "powerful"
+          ],
+          "word": "BRISK",
+          "correct": "2"
+        },
+        {
+          "prompt": "NONCHALANT",
+          "answers": [
+            "calm",
+            "smart",
+            "casual"
+          ],
+          "word": "NONCHALANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "DENOUNCE",
+          "answers": [
+            "disappoint",
+            "blame",
+            "condemn"
+          ],
+          "word": "DENOUNCE",
+          "correct": "0"
+        },
+        {
+          "prompt": "EARNEST",
+          "answers": [
+            "passionate",
+            "determined",
+            "cheerful"
+          ],
+          "word": "EARNEST",
+          "correct": "2"
+        },
+        {
+          "prompt": "OPTIMISTIC",
+          "answers": [
+            "happy",
+            "young",
+            "confident"
+          ],
+          "word": "OPTIMISTIC",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONQUEST",
+          "answers": [
+            "attempt",
+            "victory",
+            "win"
+          ],
+          "word": "CONQUEST",
+          "correct": "0"
+        },
+        {
+          "prompt": "STERN",
+          "answers": [
+            "serious",
+            "firm",
+            "brilliant"
+          ],
+          "word": "STERN",
+          "correct": "2"
+        },
+        {
+          "prompt": "BEHOLD",
+          "answers": [
+            "remember",
+            "examine",
+            "notice"
+          ],
+          "word": "BEHOLD",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISCLOSE",
+          "answers": [
+            "expect",
+            "uncover",
+            "tell"
+          ],
+          "word": "DISCLOSE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ETIQUETTE",
+          "answers": [
+            "rules",
+            "beliefs",
+            "manners"
+          ],
+          "word": "ETIQUETTE",
+          "correct": "1"
+        },
+        {
+          "prompt": "MANIPULATE",
+          "answers": [
+            "handle",
+            "influence",
+            "ruin"
+          ],
+          "word": "MANIPULATE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

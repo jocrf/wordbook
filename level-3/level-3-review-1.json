@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABRUPT",
+      "answer": "abrupt"
+    },
+    {
+      "word": "BAN",
+      "answer": "banned"
+    },
+    {
+      "word": "BEFUDDLE",
+      "answer": "befuddled"
+    },
+    {
+      "word": "CONGESTION",
+      "answer": "congestion"
+    },
+    {
+      "word": "CONSENT",
+      "answer": "consented"
+    },
+    {
+      "word": "CONTAGIOUS",
+      "answer": "contagious"
+    },
+    {
+      "word": "CRINGE",
+      "answer": "cringed"
+    },
+    {
+      "word": "DESCEND",
+      "answer": "descend"
+    },
+    {
+      "word": "DOMINATE",
+      "answer": "dominate"
+    },
+    {
+      "word": "ENCHANTING",
+      "answer": "enchanting"
+    },
+    {
+      "word": "ENDURE",
+      "answer": "endure"
+    },
+    {
+      "word": "ENVELOP",
+      "answer": "envelop"
+    },
+    {
+      "word": "EVIDENT",
+      "answer": "evident"
+    },
+    {
+      "word": "EXHAUST",
+      "answer": "exhausted"
+    },
+    {
+      "word": "FEEBLE",
+      "answer": "feeble"
+    },
+    {
+      "word": "FEUD",
+      "answer": "feud"
+    },
+    {
+      "word": "FOE",
+      "answer": "foes"
+    },
+    {
+      "word": "FRISKY",
+      "answer": "frisky"
+    },
+    {
+      "word": "FROLIC",
+      "answer": "frolic"
+    },
+    {
+      "word": "INQUIRE",
+      "answer": "inquired"
+    },
+    {
+      "word": "INTENSE",
+      "answer": "intense"
+    },
+    {
+      "word": "INTERMEDIATE",
+      "answer": "intermediate"
+    },
+    {
+      "word": "INTERSECT",
+      "answer": "intersect"
+    },
+    {
+      "word": "JAVELIN",
+      "answer": "javelin"
+    },
+    {
+      "word": "LEAN",
+      "answer": "lean"
+    },
+    {
+      "word": "LIBERATE",
+      "answer": "liberate"
+    },
+    {
+      "word": "PAMPER",
+      "answer": "pampers"
+    },
+    {
+      "word": "PERISH",
+      "answer": "perished"
+    },
+    {
+      "word": "PLAGUE",
+      "answer": "plagued"
+    },
+    {
+      "word": "PLEAD",
+      "answer": "pleaded"
+    },
+    {
+      "word": "PROVOKE",
+      "answer": "provoked"
+    },
+    {
+      "word": "RECEPTION",
+      "answer": "reception"
+    },
+    {
+      "word": "ROSTER",
+      "answer": "roster"
+    },
+    {
+      "word": "RUPTURE",
+      "answer": "rupture"
+    },
+    {
+      "word": "SACRED",
+      "answer": "sacred"
+    },
+    {
+      "word": "SALVAGE",
+      "answer": "salvage"
+    },
+    {
+      "word": "SANITARY",
+      "answer": "sanitary"
+    },
+    {
+      "word": "SHUDDER",
+      "answer": "shudder"
+    },
+    {
+      "word": "SITE",
+      "answer": "site"
+    },
+    {
+      "word": "SPRAWL",
+      "answer": "sprawled"
+    },
+    {
+      "word": "STEER",
+      "answer": "steer"
+    },
+    {
+      "word": "SUBSTITUTE",
+      "answer": "substituted"
+    },
+    {
+      "word": "VICINITY",
+      "answer": "vicinity"
+    },
+    {
+      "word": "VIGOR",
+      "answer": "vigor"
+    },
+    {
+      "word": "VIOLATE",
+      "answer": "violated"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "They found the murdered man",
+      "part2": "face down on the floor.",
+      "correct": "sprawled",
+      "word": "SPRAWL"
+    },
+    {
+      "part1": "The plane started to",
+      "part2": "as it came in for a landing.",
+      "correct": "descend",
+      "word": "DESCEND"
+    },
+    {
+      "part1": "Grandmother",
+      "part2": "the children when they stay with her; she lets them watch television all the time.",
+      "correct": "pampers",
+      "word": "PAMPER"
+    },
+    {
+      "part1": "A series of minor injuries",
+      "part2": "him throughout his career as a ballplayer.",
+      "correct": "plagued",
+      "word": "PLAGUE"
+    },
+    {
+      "part1": "The soldiers were able to capture the prison-of-war camp and",
+      "part2": "the men held there.",
+      "correct": "liberate",
+      "word": "LIBERATE"
+    },
+    {
+      "part1": "It was a close game for a while, but then the other team began to",
+      "part2": "us, and we lost quite badly.",
+      "correct": "dominate",
+      "word": "DOMINATE"
+    },
+    {
+      "part1": "You can see on the map where the railroad and the highway",
+      "part2": ".",
+      "correct": "intersect",
+      "word": "INTERSECT"
+    },
+    {
+      "part1": "The starving family",
+      "part2": "for a little more food.",
+      "correct": "pleaded",
+      "word": "PLEAD"
+    },
+    {
+      "part1": "The woman was forced to",
+      "part2": "great hardships for many years.",
+      "correct": "endure",
+      "word": "ENDURE"
+    },
+    {
+      "part1": "A thick mist began to",
+      "part2": "us as we walked into the valley.",
+      "correct": "envelop",
+      "word": "ENVELOP"
+    },
+    {
+      "part1": "It was",
+      "part2": "that Art couldn't win the election, so he dropped out of the race.",
+      "correct": "evident",
+      "word": "EVIDENT"
+    },
+    {
+      "part1": "His speech was",
+      "part2": "and to the point: he told us we were all fired.",
+      "correct": "abrupt",
+      "word": "ABRUPT"
+    },
+    {
+      "part1": "Although Andy is very strong, he has a surprisingly",
+      "part2": "handshake.",
+      "correct": "feeble",
+      "word": "FEEBLE"
+    },
+    {
+      "part1": "The",
+      "part2": "began with a simple misunderstanding between the two families and lasted for many years.",
+      "correct": "feud",
+      "word": "FEUD"
+    },
+    {
+      "part1": "After the window was broken, the principal",
+      "part2": "all ball playing in the schoolyard.",
+      "correct": "banned",
+      "word": "BAN"
+    },
+    {
+      "part1": "The other team was completely",
+      "part2": "by our trick plays. They didn't know what was going on.",
+      "correct": "befuddled",
+      "word": "BEFUDDLE"
+    },
+    {
+      "part1": "Her disease was",
+      "part2": "; before long we were all sick.",
+      "correct": "contagious",
+      "word": "CONTAGIOUS"
+    },
+    {
+      "part1": "The boat was difficult to",
+      "part2": "; it seemed to want to go anywhere but where you wanted it to go.",
+      "correct": "steer",
+      "word": "STEER"
+    },
+    {
+      "part1": "The man",
+      "part2": "and started begging for his life when he saw the bully come toward him.",
+      "correct": "cringed",
+      "word": "CRINGE"
+    },
+    {
+      "part1": "He was very",
+      "part2": "as a youth, but he put on weight as he grew older.",
+      "correct": "lean",
+      "word": "LEAN"
+    },
+    {
+      "part1": "The entire family",
+      "part2": "in the car crash.",
+      "correct": "perished",
+      "word": "PERISH"
+    },
+    {
+      "part1": "We knew that when our supply of food was",
+      "part2": "we'd have to buy some more.",
+      "correct": "exhausted",
+      "word": "EXHAUST"
+    },
+    {
+      "part1": "The fight between the border guards",
+      "part2": "a full-scale battle between the two nations.",
+      "correct": "provoked",
+      "word": "PROVOKE"
+    },
+    {
+      "part1": "The court ruled that their actions",
+      "part2": "the man's civil rights.",
+      "correct": "violated",
+      "word": "VIOLATE"
+    },
+    {
+      "part1": "All of his",
+      "part2": "were happy to see him go to jail.",
+      "correct": "foes",
+      "word": "FOE"
+    },
+    {
+      "part1": "On this very",
+      "part2": "the Declaration of Independence was signed in 1776.",
+      "correct": "site",
+      "word": "SITE"
+    },
+    {
+      "part1": "The",
+      "part2": "kitten kept jumping at the sleeping dog's tail.",
+      "correct": "frisky",
+      "word": "FRISKY"
+    },
+    {
+      "part1": "The dog liked to",
+      "part2": "on the shore, dashing in and out of the water.",
+      "correct": "frolic",
+      "word": "FROLIC"
+    },
+    {
+      "part1": "The astronauts were given a huge",
+      "part2": "when they returned from their space journey.",
+      "correct": "reception",
+      "word": "RECEPTION"
+    },
+    {
+      "part1": "The increasing pressure of the water finally caused the dam to",
+      "part2": ".",
+      "correct": "rupture",
+      "word": "RUPTURE"
+    },
+    {
+      "part1": "His",
+      "part2": "desire to win the contest drove everything else out of his mind.",
+      "correct": "intense",
+      "word": "INTENSE"
+    },
+    {
+      "part1": "Kathy would",
+      "part2": "uncontrollably whenever she remembered the night she was robbed.",
+      "correct": "shudder",
+      "word": "SHUDDER"
+    },
+    {
+      "part1": "A new singer",
+      "part2": "for the one who was supposed to sing.",
+      "correct": "substituted",
+      "word": "SUBSTITUTE"
+    },
+    {
+      "part1": "This church is a(n)",
+      "part2": "place. One should be very quiet and respectful in it.",
+      "correct": "sacred",
+      "word": "SACRED"
+    },
+    {
+      "part1": ". Alice",
+      "part2": "about the possibility of working at the library.",
+      "correct": "inquired",
+      "word": "INQUIRE"
+    },
+    {
+      "part1": "There are two parks in the",
+      "part2": "of the school where the children can go at lunchtime.",
+      "correct": "vicinity",
+      "word": "VICINITY"
+    },
+    {
+      "part1": "The divers tried to",
+      "part2": "some of the precious cargo from the sunken ship.",
+      "correct": "salvage",
+      "word": "SALVAGE"
+    },
+    {
+      "part1": "Jim's parents",
+      "part2": "when he asked if he could take the car.",
+      "correct": "consented",
+      "word": "CONSENT"
+    },
+    {
+      "part1": "Between the start and the finish of the project there were many",
+      "part2": "steps.",
+      "correct": "intermediate",
+      "word": "INTERMEDIATE"
+    },
+    {
+      "part1": "There was considerable",
+      "part2": "in the small room as dozens of people jammed into it.",
+      "correct": "congestion",
+      "word": "CONGESTION"
+    },
+    {
+      "part1": "Walter is a very energetic person, full of",
+      "part2": ".",
+      "correct": "vigor",
+      "word": "VIGOR"
+    },
+    {
+      "part1": "All the equipment should be",
+      "part2": "; we don't want anyone catching a disease.",
+      "correct": "sanitary",
+      "word": "SANITARY"
+    },
+    {
+      "part1": "The melody of that song is",
+      "part2": ". I could listen to it forever.",
+      "correct": "enchanting",
+      "word": "ENCHANTING"
+    },
+    {
+      "part1": "Jack found his name on the",
+      "part2": "of those assigned to guard duty.",
+      "correct": "roster",
+      "word": "ROSTER"
+    },
+    {
+      "part1": "The warrior threw the",
+      "part2": "so hard that it stuck deep in a tree.",
+      "correct": "javelin",
+      "word": "JAVELIN"
+    }
+  ],
+  "type": "fitb",
+  "id": 1
+}

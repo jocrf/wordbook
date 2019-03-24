@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ACCUMULATE",
+      "answer": "accumulate"
+    },
+    {
+      "word": "ANONYMOUS",
+      "answer": "anonymous"
+    },
+    {
+      "word": "ANTICIPATE",
+      "answer": "anticipate"
+    },
+    {
+      "word": "APPARATUS",
+      "answer": "apparatus"
+    },
+    {
+      "word": "APPAREL",
+      "answer": "apparel"
+    },
+    {
+      "word": "CAPSIZE",
+      "answer": "capsize"
+    },
+    {
+      "word": "COLLABORATE",
+      "answer": "collaborate"
+    },
+    {
+      "word": "COMMEND",
+      "answer": "commended"
+    },
+    {
+      "word": "COMPREHEND",
+      "answer": "comprehend"
+    },
+    {
+      "word": "CONFRONT",
+      "answer": "confronted"
+    },
+    {
+      "word": "CONGREGATE",
+      "answer": "congregated"
+    },
+    {
+      "word": "CONTROVERSY",
+      "answer": "controversy"
+    },
+    {
+      "word": "CORRUPT",
+      "answer": "corrupt"
+    },
+    {
+      "word": "DELINQUENCY",
+      "answer": "delinquency"
+    },
+    {
+      "word": "DENSE",
+      "answer": "dense"
+    },
+    {
+      "word": "ENSEMBLE",
+      "answer": "ensemble"
+    },
+    {
+      "word": "EXTENSIVE",
+      "answer": "extensive"
+    },
+    {
+      "word": "FELINE",
+      "answer": "feline"
+    },
+    {
+      "word": "FOREMOST",
+      "answer": "foremost"
+    },
+    {
+      "word": "FRAIL",
+      "answer": "frail"
+    },
+    {
+      "word": "FREAKISH",
+      "answer": "freakish"
+    },
+    {
+      "word": "GLIMMER",
+      "answer": "glimmer"
+    },
+    {
+      "word": "GOUGE",
+      "answer": "gouged"
+    },
+    {
+      "word": "HABITABLE",
+      "answer": "habitable"
+    },
+    {
+      "word": "HEADWAY",
+      "answer": "headway"
+    },
+    {
+      "word": "IMMENSE",
+      "answer": "immense"
+    },
+    {
+      "word": "INSTANCE",
+      "answer": "instance"
+    },
+    {
+      "word": "INSTANTANEOUS",
+      "answer": "instantaneous"
+    },
+    {
+      "word": "INTERCEPT",
+      "answer": "intercepted"
+    },
+    {
+      "word": "INTRICATE",
+      "answer": "intricate"
+    },
+    {
+      "word": "MEDDLE",
+      "answer": "meddles"
+    },
+    {
+      "word": "MISGIVING",
+      "answer": "misgivings"
+    },
+    {
+      "word": "MUTE",
+      "answer": "mute"
+    },
+    {
+      "word": "NEGOTIATE",
+      "answer": "negotiated"
+    },
+    {
+      "word": "NOTABLE",
+      "answer": "notable"
+    },
+    {
+      "word": "PENETRATE",
+      "answer": "penetrate"
+    },
+    {
+      "word": "PERTAIN",
+      "answer": "pertained"
+    },
+    {
+      "word": "PRECAUTION",
+      "answer": "precaution"
+    },
+    {
+      "word": "REEK",
+      "answer": "reek"
+    },
+    {
+      "word": "REFINE",
+      "answer": "refine"
+    },
+    {
+      "word": "REFORM",
+      "answer": "reform"
+    },
+    {
+      "word": "RESUME",
+      "answer": "resume"
+    },
+    {
+      "word": "RETAIN",
+      "answer": "retain"
+    },
+    {
+      "word": "SERVICEABLE",
+      "answer": "serviceable"
+    },
+    {
+      "word": "TRANQUIL",
+      "answer": "tranquil"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "After taking a long vacation, she was able to",
+      "part2": "working as if she'd never been away.",
+      "correct": "resume",
+      "word": "RESUME"
+    },
+    {
+      "part1": "He lost his money when his business failed, but he was able to",
+      "part2": "his house and car.",
+      "correct": "retain",
+      "word": "RETAIN"
+    },
+    {
+      "part1": "If you have any",
+      "part2": "about what we are going to do, please tell us before we begin.",
+      "correct": "misgivings",
+      "word": "MISGIVING"
+    },
+    {
+      "part1": "The general",
+      "part2": "the soldiers for their bravery during the battle.",
+      "correct": "commended",
+      "word": "COMMEND"
+    },
+    {
+      "part1": "We began to",
+      "part2": "the wine by straining it through a filter to get rid of the grape skins and seeds.",
+      "correct": "refine",
+      "word": "REFINE"
+    },
+    {
+      "part1": "The pattern of the streets is so",
+      "part2": "in that part of town that we always get lost there.",
+      "correct": "intricate",
+      "word": "INTRICATE"
+    },
+    {
+      "part1": "The ground was so hard that the shovel couldn't",
+      "part2": "it.",
+      "correct": "penetrate",
+      "word": "PENETRATE"
+    },
+    {
+      "part1": "I tried to",
+      "part2": "with him on the project, but he couldn't stand to have anyone work with him.",
+      "correct": "collaborate",
+      "word": "COLLABORATE"
+    },
+    {
+      "part1": "Hundreds of people",
+      "part2": "in the park to hear the mayor's speech.",
+      "correct": "congregated",
+      "word": "CONGREGATE"
+    },
+    {
+      "part1": "They didn't know that their mail was being",
+      "part2": "and opened before they got it.",
+      "correct": "intercepted",
+      "word": "INTERCEPT"
+    },
+    {
+      "part1": "He advised us to take every",
+      "part2": "beforehand if we were going to drive in the blizzard.",
+      "correct": "precaution",
+      "word": "PRECAUTION"
+    },
+    {
+      "part1": "The smoke was so",
+      "part2": "in the room that none of us could breathe.",
+      "correct": "dense",
+      "word": "DENSE"
+    },
+    {
+      "part1": "Most of his speech",
+      "part2": "to foreign affairs, but once in a while he also mentioned local problems.",
+      "correct": "pertained",
+      "word": "PERTAIN"
+    },
+    {
+      "part1": "It is hard to",
+      "part2": "how he will react. He might be pleased, or he might be angry.",
+      "correct": "anticipate",
+      "word": "ANTICIPATE"
+    },
+    {
+      "part1": "Computers are designed to give nearly",
+      "part2": "replies to requests for information.",
+      "correct": "instantaneous",
+      "word": "INSTANTANEOUS"
+    },
+    {
+      "part1": "I",
+      "part2": "him with this new information and demanded that he explain what it meant.",
+      "correct": "confronted",
+      "word": "CONFRONT"
+    },
+    {
+      "part1": "The plan to build another highway caused a tremendous",
+      "part2": "in the town; both sides debated the proposal for months.",
+      "correct": "controversy",
+      "word": "CONTROVERSY"
+    },
+    {
+      "part1": "The dentist's",
+      "part2": "consists of drills, probes, mirrors, and other instruments.",
+      "correct": "apparatus",
+      "word": "APPARATUS"
+    },
+    {
+      "part1": "The professor is the world's",
+      "part2": "authority on the history of Spain.",
+      "correct": "foremost",
+      "word": "FOREMOST"
+    },
+    {
+      "part1": "The cat",
+      "part2": "a hole in the rug with its claw.",
+      "correct": "gouged",
+      "word": "GOUGE"
+    },
+    {
+      "part1": "Tim's English grades have been improving, so it seems that he's making some",
+      "part2": "in his understanding of grammar.",
+      "correct": "headway",
+      "word": "HEADWAY"
+    },
+    {
+      "part1": "Your",
+      "part2": "in filing your tax returns may result in a fine.",
+      "correct": "delinquency",
+      "word": "DELINQUENCY"
+    },
+    {
+      "part1": "The statue of the Egyptian cat-goddess has a human body and a",
+      "part2": "head.",
+      "correct": "feline",
+      "word": "FELINE"
+    },
+    {
+      "part1": "Some",
+      "part2": "people have graduated from this school, including a president of the United States.",
+      "correct": "notable",
+      "word": "NOTABLE"
+    },
+    {
+      "part1": "He watched the taillights of their car until they were just a",
+      "part2": "in the distance.",
+      "correct": "glimmer",
+      "word": "GLIMMER"
+    },
+    {
+      "part1": "Because he made fun of powerful people in his book, the author wanted to be",
+      "part2": ".",
+      "correct": "anonymous",
+      "word": "ANONYMOUS"
+    },
+    {
+      "part1": "The skirt, blouse, and shoes went together to form a fine",
+      "part2": "for the fall season.",
+      "correct": "ensemble",
+      "word": "ENSEMBLE"
+    },
+    {
+      "part1": "We had hoped for a new television, but the used set that we got is still",
+      "part2": ".",
+      "correct": "serviceable",
+      "word": "SERVICEABLE"
+    },
+    {
+      "part1": "It is almost impossible to",
+      "part2": "a thief who doesn't want to change.",
+      "correct": "reform",
+      "word": "REFORM"
+    },
+    {
+      "part1": "Can you give me one",
+      "part2": "when I didn't do what you asked?",
+      "correct": "instance",
+      "word": "INSTANCE"
+    },
+    {
+      "part1": "The book has a(n)",
+      "part2": "index which makes it easy to find whatever information you are looking for.",
+      "correct": "extensive",
+      "word": "EXTENSIVE"
+    },
+    {
+      "part1": "I don't know how she stays so",
+      "part2": "with all the problems and annoyances she has.",
+      "correct": "tranquil",
+      "word": "TRANQUIL"
+    },
+    {
+      "part1": "I hate the",
+      "part2": "of frying onions. I have to leave the kitchen whenever they're being cooked.",
+      "correct": "reek",
+      "word": "REEK"
+    },
+    {
+      "part1": "The little girl was so",
+      "part2": "that even walking a few steps made her feel tired.",
+      "correct": "frail",
+      "word": "FRAIL"
+    },
+    {
+      "part1": "She wore her fanciest",
+      "part2": "to the expensive restaurant.",
+      "correct": "apparel",
+      "word": "APPAREL"
+    },
+    {
+      "part1": "The agent",
+      "part2": "a new contract at a higher salary for the baseball pitcher.",
+      "correct": "negotiated",
+      "word": "NEGOTIATE"
+    },
+    {
+      "part1": "Pam always",
+      "part2": "in things that are none of her business.",
+      "correct": "meddles",
+      "word": "MEDDLE"
+    },
+    {
+      "part1": "The newspaper claimed that everyone in the town government was",
+      "part2": "and becoming rich at the taxpayers' expense.",
+      "correct": "corrupt",
+      "word": "CORRUPT"
+    },
+    {
+      "part1": "It was a(n)",
+      "part2": "accident. I've never seen one quite like it.",
+      "correct": "freakish",
+      "word": "FREAKISH"
+    },
+    {
+      "part1": "The mountain is so",
+      "part2": "that it would take us weeks to climb it.",
+      "correct": "immense",
+      "word": "IMMENSE"
+    },
+    {
+      "part1": "Some people won't throw anything away; they",
+      "part2": "lots of worthless stuff.",
+      "correct": "accumulate",
+      "word": "ACCUMULATE"
+    },
+    {
+      "part1": "I never could",
+      "part2": "why she decided to quit school.",
+      "correct": "comprehend",
+      "word": "COMPREHEND"
+    },
+    {
+      "part1": "The rough seas caused the motorboat to",
+      "part2": ".",
+      "correct": "capsize",
+      "word": "CAPSIZE"
+    },
+    {
+      "part1": "After the house was flooded, we lived in a motel until it was made",
+      "part2": "again.",
+      "correct": "habitable",
+      "word": "HABITABLE"
+    },
+    {
+      "part1": "They nodded silently to each other in",
+      "part2": "agreement.",
+      "correct": "mute",
+      "word": "MUTE"
+    }
+  ],
+  "type": "fitb",
+  "id": 2
+}

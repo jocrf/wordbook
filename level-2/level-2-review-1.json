@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ACCURATE",
+      "answer": "accurate"
+    },
+    {
+      "word": "AIL",
+      "answer": "ailing"
+    },
+    {
+      "word": "ASSIST",
+      "answer": "assist"
+    },
+    {
+      "word": "ASTOUND",
+      "answer": "astounded"
+    },
+    {
+      "word": "AVALANCHE",
+      "answer": "avalanche"
+    },
+    {
+      "word": "BATTER",
+      "answer": "battered"
+    },
+    {
+      "word": "CLOAK",
+      "answer": "cloak"
+    },
+    {
+      "word": "COMMAND",
+      "answer": "command"
+    },
+    {
+      "word": "COMMOTION",
+      "answer": "commotion"
+    },
+    {
+      "word": "CONCLUDE",
+      "answer": "concluded"
+    },
+    {
+      "word": "DANGLE",
+      "answer": "dangled"
+    },
+    {
+      "word": "DECEIVE",
+      "answer": "deceive"
+    },
+    {
+      "word": "DISPUTE",
+      "answer": "disputes"
+    },
+    {
+      "word": "DONATION",
+      "answer": "donations"
+    },
+    {
+      "word": "DROUGHT",
+      "answer": "drought"
+    },
+    {
+      "word": "EAVESDROP",
+      "answer": "eavesdrop"
+    },
+    {
+      "word": "EDIBLE",
+      "answer": "edible"
+    },
+    {
+      "word": "EMBLEM",
+      "answer": "emblem"
+    },
+    {
+      "word": "ESTIMATE",
+      "answer": "estimate"
+    },
+    {
+      "word": "FRAGMENT",
+      "answer": "fragments"
+    },
+    {
+      "word": "GAINFUL",
+      "answer": "gainful"
+    },
+    {
+      "word": "HYMN",
+      "answer": "hymn"
+    },
+    {
+      "word": "IGNITE",
+      "answer": "ignited"
+    },
+    {
+      "word": "INDUSTRIOUS",
+      "answer": "industrious"
+    },
+    {
+      "word": "MANIAC",
+      "answer": "maniac"
+    },
+    {
+      "word": "MYSTIFY",
+      "answer": "mystify"
+    },
+    {
+      "word": "OBSTACLE",
+      "answer": "obstacles"
+    },
+    {
+      "word": "OMIT",
+      "answer": "omit"
+    },
+    {
+      "word": "ORIGINAL",
+      "answer": "original"
+    },
+    {
+      "word": "PEER",
+      "answer": "peered"
+    },
+    {
+      "word": "PREY",
+      "answer": "prey"
+    },
+    {
+      "word": "PRIVILEGE",
+      "answer": "privilege"
+    },
+    {
+      "word": "PULVERIZE",
+      "answer": "pulverized"
+    },
+    {
+      "word": "REBOUND",
+      "answer": "rebounded"
+    },
+    {
+      "word": "REPLY",
+      "answer": "reply"
+    },
+    {
+      "word": "SCAMPER",
+      "answer": "scamper"
+    },
+    {
+      "word": "SEIZE",
+      "answer": "seized"
+    },
+    {
+      "word": "SIGNIFY",
+      "answer": "signify"
+    },
+    {
+      "word": "SNARL",
+      "answer": "snarl"
+    },
+    {
+      "word": "SWAY",
+      "answer": "sway"
+    },
+    {
+      "word": "TASK",
+      "answer": "task"
+    },
+    {
+      "word": "THRESHOLD",
+      "answer": "threshold"
+    },
+    {
+      "word": "TRANSFORM",
+      "answer": "transformed"
+    },
+    {
+      "word": "TUTOR",
+      "answer": "tutor"
+    },
+    {
+      "word": "WITHER",
+      "answer": "wither"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The announcement that there would be no school next week caused quite a(n)",
+      "part2": "among the students.",
+      "correct": "commotion",
+      "word": "COMMOTION"
+    },
+    {
+      "part1": "Jim",
+      "part2": "the opportunity to ask the teacher several important questions.",
+      "correct": "seized",
+      "word": "SEIZE"
+    },
+    {
+      "part1": "The cat hunted down its",
+      "part2": "a bird looking for worms on the wet ground.",
+      "correct": "prey",
+      "word": "PREY"
+    },
+    {
+      "part1": "The desert is in a state of permanent",
+      "part2": "; it hasn't rained there for centuries.",
+      "correct": "drought",
+      "word": "DROUGHT"
+    },
+    {
+      "part1": "With irrigation, they",
+      "part2": "the dry area into productive farmland.",
+      "correct": "transformed",
+      "word": "TRANSFORM"
+    },
+    {
+      "part1": "Art gave",
+      "part2": "responses to every question on the test and got an A.",
+      "correct": "accurate",
+      "word": "ACCURATE"
+    },
+    {
+      "part1": "She was on the",
+      "part2": "of becoming a great artist when she went blind.",
+      "correct": "threshold",
+      "word": "THRESHOLD"
+    },
+    {
+      "part1": "The palm tree started to",
+      "part2": "in the gentle breeze.",
+      "correct": "sway",
+      "word": "SWAY"
+    },
+    {
+      "part1": "The",
+      "part2": "problem was bad enough, but all the problems we've had since then have been even worse.",
+      "correct": "original",
+      "word": "ORIGINAL"
+    },
+    {
+      "part1": "His strange theories",
+      "part2": "us. We can't understand them at all.",
+      "correct": "mystify",
+      "word": "MYSTIFY"
+    },
+    {
+      "part1": "The teacher yelled at them to stop, but they paid no attention to her",
+      "part2": ".",
+      "correct": "command",
+      "word": "COMMAND"
+    },
+    {
+      "part1": "The news of their defeat",
+      "part2": "me. I never thought they could lose.",
+      "correct": "astounded",
+      "word": "ASTOUND"
+    },
+    {
+      "part1": "A glittering diamond",
+      "part2": "on the end of the chain.",
+      "correct": "dangled",
+      "word": "DANGLE"
+    },
+    {
+      "part1": "We like to knock the icicles off the roof with a stick and watch them shatter into",
+      "part2": "on the ground below.",
+      "correct": "fragments",
+      "word": "FRAGMENT"
+    },
+    {
+      "part1": "They",
+      "part2": "through the smoke at the burning building.",
+      "correct": "peered",
+      "word": "PEER"
+    },
+    {
+      "part1": "The tank ran over the wooden box and completely",
+      "part2": "it.",
+      "correct": "pulverized",
+      "word": "PULVERIZE"
+    },
+    {
+      "part1": "From the way she kept looking at her watch I",
+      "part2": "that she thought it was time to go.",
+      "correct": "concluded",
+      "word": "CONCLUDE"
+    },
+    {
+      "part1": "She is a very disagreeable woman, always involved in bitter",
+      "part2": "with her neighbors.",
+      "correct": "disputes",
+      "word": "DISPUTE"
+    },
+    {
+      "part1": "The children",
+      "part2": "quickly after the man selling ice cream cones.",
+      "correct": "scamper",
+      "word": "SCAMPER"
+    },
+    {
+      "part1": "The motto of the United States is \"In God We Trust.\" The country's",
+      "part2": "is the bald eagle.",
+      "correct": "emblem",
+      "word": "EMBLEM"
+    },
+    {
+      "part1": "We had no idea how much the necklace was worth, so we took it to a jeweler and had him",
+      "part2": "its value. ",
+      "correct": "estimate",
+      "word": "ESTIMATE"
+    },
+    {
+      "part1": "Many small",
+      "part2": "to our fund are as important as one large gift.",
+      "correct": "donations",
+      "word": "DONATION"
+    },
+    {
+      "part1": "She waved to them to",
+      "part2": "that she was all right.",
+      "correct": "signify",
+      "word": "SIGNIFY"
+    },
+    {
+      "part1": "No one would",
+      "part2": "us, so we had to do the job all by ourselves.",
+      "correct": "assist",
+      "word": "ASSIST"
+    },
+    {
+      "part1": "When I ask you something, I would like a(n)",
+      "part2": ", even if you just nod your head.",
+      "correct": "reply",
+      "word": "REPLY"
+    },
+    {
+      "part1": "The leaves on the plant began to",
+      "part2": "after several weeks without water.",
+      "correct": "wither",
+      "word": "WITHER"
+    },
+    {
+      "part1": "We were frightened by the announcement that a dangerous",
+      "part2": "had escaped from the mental hospital.",
+      "correct": "maniac",
+      "word": "MANIAC"
+    },
+    {
+      "part1": "Most teenagers have difficulty in finding",
+      "part2": "employment, so they can't make any money.",
+      "correct": "gainful",
+      "word": "GAINFUL"
+    },
+    {
+      "part1": "We heard the wolves",
+      "part2": "as they fought over the dead lamb.",
+      "correct": "snarl",
+      "word": "SNARL"
+    },
+    {
+      "part1": "All the people in the church stood up to sing the",
+      "part2": ".",
+      "correct": "hymn",
+      "word": "HYMN"
+    },
+    {
+      "part1": "The branches of the tree",
+      "part2": "the sides of our house in the high winds.",
+      "correct": "battered",
+      "word": "BATTER"
+    },
+    {
+      "part1": "She wore a long",
+      "part2": "that kept her warm but left her arms free to move.",
+      "correct": "cloak",
+      "word": "CLOAK"
+    },
+    {
+      "part1": "Although Gail was",
+      "part2": "about doing her English lessons, she couldn't seem to bring her grade up to anything more than a B.",
+      "correct": "industrious",
+      "word": "INDUSTRIOUS"
+    },
+    {
+      "part1": "The intense heat",
+      "part2": "the cans of paint.",
+      "correct": "ignited",
+      "word": "IGNITE"
+    },
+    {
+      "part1": "You must be sure to answer all the questions. Do not",
+      "part2": "any.",
+      "correct": "omit",
+      "word": "OMIT"
+    },
+    {
+      "part1": "Betty",
+      "part2": "quickly from the disappointment of not winning the contest and was soon her usual happy self again.",
+      "correct": "rebounded",
+      "word": "REBOUND"
+    },
+    {
+      "part1": "Ed has been",
+      "part2": "for months, but he refuses to go to the doctor to find out what's wrong.",
+      "correct": "ailing",
+      "word": "AIL"
+    },
+    {
+      "part1": "We wouldn't",
+      "part2": "you. We're telling you the truth about this.",
+      "correct": "deceive",
+      "word": "DECEIVE"
+    },
+    {
+      "part1": "The",
+      "part2": "of mowing that huge lawn was too much for Ed, so he had to get someone to help.",
+      "correct": "task",
+      "word": "TASK"
+    },
+    {
+      "part1": "The skiers just missed being caught in the",
+      "part2": "that came crashing down the side of the mountain.",
+      "correct": "avalanche",
+      "word": "AVALANCHE"
+    },
+    {
+      "part1": "Alice is doing fine in most of her classes but she needs someone to",
+      "part2": "her in French.",
+      "correct": "tutor",
+      "word": "TUTOR"
+    },
+    {
+      "part1": "He tried to",
+      "part2": "on their conversation by placing a microphone under the table.",
+      "correct": "eavesdrop",
+      "word": "EAVESDROP"
+    },
+    {
+      "part1": "In order to survive in the wilderness it is necessary to know which plants are",
+      "part2": "and which are poisonous.",
+      "correct": "edible",
+      "word": "EDIBLE"
+    },
+    {
+      "part1": "It was a",
+      "part2": "to speak with the great man for a few moments.",
+      "correct": "privilege",
+      "word": "PRIVILEGE"
+    },
+    {
+      "part1": "There were trash cans, broken tables, and other",
+      "part2": "in our way as we tried to walk through the basement.",
+      "correct": "obstacles",
+      "word": "OBSTACLE"
+    }
+  ],
+  "type": "fitb",
+  "id": 1
+}

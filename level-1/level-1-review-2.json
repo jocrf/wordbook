@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ALTITUDE",
+      "answer": "altitude"
+    },
+    {
+      "word": "ASSEMBLE",
+      "answer": "assemble"
+    },
+    {
+      "word": "BAIT",
+      "answer": "baited"
+    },
+    {
+      "word": "BANDIT",
+      "answer": "bandits"
+    },
+    {
+      "word": "BLUSH",
+      "answer": "blushes"
+    },
+    {
+      "word": "BORDER",
+      "answer": "border"
+    },
+    {
+      "word": "CAUTIOUS",
+      "answer": "cautious"
+    },
+    {
+      "word": "CONCEAL",
+      "answer": "concealed"
+    },
+    {
+      "word": "CONSTRUCT",
+      "answer": "construct"
+    },
+    {
+      "word": "DEFEND",
+      "answer": "defend"
+    },
+    {
+      "word": "DISGRACE",
+      "answer": "disgrace"
+    },
+    {
+      "word": "DISTANT",
+      "answer": "distant"
+    },
+    {
+      "word": "ELIMINATE",
+      "answer": "eliminate"
+    },
+    {
+      "word": "ERUPT",
+      "answer": "erupted"
+    },
+    {
+      "word": "EXAMINE",
+      "answer": "examined"
+    },
+    {
+      "word": "EXHALE",
+      "answer": "exhaled"
+    },
+    {
+      "word": "EXPIRE",
+      "answer": "expire"
+    },
+    {
+      "word": "FURIOUS",
+      "answer": "furious"
+    },
+    {
+      "word": "GRIME",
+      "answer": "grime"
+    },
+    {
+      "word": "HANDICAP",
+      "answer": "handicap"
+    },
+    {
+      "word": "HAZARD",
+      "answer": "hazard"
+    },
+    {
+      "word": "HURDLE",
+      "answer": "hurdled"
+    },
+    {
+      "word": "INVESTIGATE",
+      "answer": "investigated"
+    },
+    {
+      "word": "IRRITATE",
+      "answer": "irritated"
+    },
+    {
+      "word": "LASH",
+      "answer": "lashed"
+    },
+    {
+      "word": "METHOD",
+      "answer": "method"
+    },
+    {
+      "word": "MISTREAT",
+      "answer": "mistreated"
+    },
+    {
+      "word": "NUMEROUS",
+      "answer": "numerous"
+    },
+    {
+      "word": "OPPORTUNITY",
+      "answer": "opportunity"
+    },
+    {
+      "word": "PACE",
+      "answer": "paces"
+    },
+    {
+      "word": "PECULIAR",
+      "answer": "peculiar"
+    },
+    {
+      "word": "PERMANENT",
+      "answer": "permanent"
+    },
+    {
+      "word": "POSE",
+      "answer": "pose"
+    },
+    {
+      "word": "QUANTITY",
+      "answer": "quantity"
+    },
+    {
+      "word": "RECKLESS",
+      "answer": "reckless"
+    },
+    {
+      "word": "REGAIN",
+      "answer": "regained"
+    },
+    {
+      "word": "REGULATION",
+      "answer": "regulations"
+    },
+    {
+      "word": "RELY",
+      "answer": "rely"
+    },
+    {
+      "word": "REPRESENT",
+      "answer": "represent"
+    },
+    {
+      "word": "REQUEST",
+      "answer": "request"
+    },
+    {
+      "word": "RETREAT",
+      "answer": "retreat"
+    },
+    {
+      "word": "SOB",
+      "answer": "sob"
+    },
+    {
+      "word": "SPLENDID",
+      "answer": "splendid"
+    },
+    {
+      "word": "SWIFT",
+      "answer": "swift"
+    },
+    {
+      "word": "TIRESOME",
+      "answer": "tiresome"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "They want to",
+      "part2": "a new office building next to the park.",
+      "correct": "construct",
+      "word": "CONSTRUCT"
+    },
+    {
+      "part1": "The dull man made a long and",
+      "part2": "speech about something no one was interested in.",
+      "correct": "tiresome",
+      "word": "TIRESOME"
+    },
+    {
+      "part1": "The students were told to",
+      "part2": "all unnecessary words from their compositions.",
+      "correct": "eliminate",
+      "word": "ELIMINATE"
+    },
+    {
+      "part1": "The police",
+      "part2": "the report that the store had been broken into.",
+      "correct": "investigated",
+      "word": "INVESTIGATE"
+    },
+    {
+      "part1": "They wanted",
+      "part2": "peace. They never wanted the world to be at war again.",
+      "correct": "permanent",
+      "word": "PERMANENT"
+    },
+    {
+      "part1": "His lack of experience was a serious",
+      "part2": "for him when he started the job.",
+      "correct": "handicap",
+      "word": "HANDICAP"
+    },
+    {
+      "part1": "His constant talking",
+      "part2": "everyone, so we told him to be quiet.",
+      "correct": "irritated",
+      "word": "IRRITATE"
+    },
+    {
+      "part1": "Our club has several",
+      "part2": "which all members must obey.",
+      "correct": "regulations",
+      "word": "REGULATION"
+    },
+    {
+      "part1": "They",
+      "part2": "him into changing jobs by promising him a large increase in salary.",
+      "correct": "baited",
+      "word": "BAIT"
+    },
+    {
+      "part1": "You must be",
+      "part2": "when you use that knife. It is very sharp and you might hurt someone.",
+      "correct": "cautious",
+      "word": "CAUTIOUS"
+    },
+    {
+      "part1": "When I saw the angry crowd, I felt that my best bet was to",
+      "part2": "to the safety of the police station.",
+      "correct": "retreat",
+      "word": "RETREAT"
+    },
+    {
+      "part1": "When she realized she had breathed in harmful fumes, she",
+      "part2": "quickly.",
+      "correct": "exhaled",
+      "word": "EXHALE"
+    },
+    {
+      "part1": "Alice was so",
+      "part2": "she shouted and raged for half an hour.",
+      "correct": "furious",
+      "word": "FURIOUS"
+    },
+    {
+      "part1": "She has been involved in several car accidents and has been arrested many times for",
+      "part2": "driving.",
+      "correct": "reckless",
+      "word": "RECKLESS"
+    },
+    {
+      "part1": "Our car was searched at the",
+      "part2": "between France and Germany.",
+      "correct": "border",
+      "word": "BORDER"
+    },
+    {
+      "part1": "He",
+      "part2": "the secret paper behind a loose brick in the fireplace.",
+      "correct": "concealed",
+      "word": "CONCEAL"
+    },
+    {
+      "part1": "The plane climbed to a higher",
+      "part2": "to avoid the storm clouds.",
+      "correct": "altitude",
+      "word": "ALTITUDE"
+    },
+    {
+      "part1": "This is the perfect",
+      "part2": "to ask the teacher to let us leave school early.",
+      "correct": "opportunity",
+      "word": "OPPORTUNITY"
+    },
+    {
+      "part1": "The former champion",
+      "part2": "his title after someone else had had it for a year.",
+      "correct": "regained",
+      "word": "REGAIN"
+    },
+    {
+      "part1": "Since you are our class president, you will",
+      "part2": "us at the national meeting of student leaders.",
+      "correct": "represent",
+      "word": "REPRESENT"
+    },
+    {
+      "part1": "We thought the broken glass was a real",
+      "part2": ", so we swept it up and threw it away.",
+      "correct": "hazard",
+      "word": "HAZARD"
+    },
+    {
+      "part1": "The entire group was told to",
+      "part2": "at eight o'clock outside the gym.",
+      "correct": "assemble",
+      "word": "ASSEMBLE"
+    },
+    {
+      "part1": "It was quite a(n)",
+      "part2": "for the school to rank last in the state in reading ability.",
+      "correct": "disgrace",
+      "word": "DISGRACE"
+    },
+    {
+      "part1": "The little boy started to",
+      "part2": "when he realized he was lost.",
+      "correct": "sob",
+      "word": "SOB"
+    },
+    {
+      "part1": "This dress comes in",
+      "part2": "sizes; I'm sure one of them will fit you.",
+      "correct": "numerous",
+      "word": "NUMEROUS"
+    },
+    {
+      "part1": "We thought it was a(n)",
+      "part2": "movie. All of us loved it.",
+      "correct": "splendid",
+      "word": "SPLENDID"
+    },
+    {
+      "part1": "He's acting very",
+      "part2": "this morning. Why is he doing such strange things?",
+      "correct": "peculiar",
+      "word": "PECULIAR"
+    },
+    {
+      "part1": "It takes a larger",
+      "part2": "of food to feed a big dog than a small cat.",
+      "correct": "quantity",
+      "word": "QUANTITY"
+    },
+    {
+      "part1": "The map said the treasure was buried seven",
+      "part2": "from the rock.",
+      "correct": "paces",
+      "word": "PACE"
+    },
+    {
+      "part1": "Many people died when the volcano",
+      "part2": "",
+      "correct": "erupted",
+      "word": "ERUPT"
+    },
+    {
+      "part1": "Our confidence in her has never been misplaced; we can",
+      "part2": "on her to do exactly what she is told to do.",
+      "correct": "rely",
+      "word": "RELY"
+    },
+    {
+      "part1": "Everyone admired her graceful",
+      "part2": "in the painting.",
+      "correct": "pose",
+      "word": "POSE"
+    },
+    {
+      "part1": "She pointed to the bruises on her arm to show how she had been",
+      "part2": ".",
+      "correct": "mistreated",
+      "word": "MISTREAT"
+    },
+    {
+      "part1": "In that country criminals are sometimes",
+      "part2": "with whips.",
+      "correct": "lashed",
+      "word": "LASH"
+    },
+    {
+      "part1": "Three masked",
+      "part2": "held up a liquor store today and escaped with five hundred dollars.",
+      "correct": "bandits",
+      "word": "BANDIT"
+    },
+    {
+      "part1": "He",
+      "part2": "whenever people compliment him. It embarrasses him a great deal.",
+      "correct": "blushes",
+      "word": "BLUSH"
+    },
+    {
+      "part1": "The bank turned down his",
+      "part2": "for a loan.",
+      "correct": "request",
+      "word": "REQUEST"
+    },
+    {
+      "part1": "The soldiers could no longer",
+      "part2": "the city, so the citizens were moved out.",
+      "correct": "defend",
+      "word": "DEFEND"
+    },
+    {
+      "part1": "The next house was so",
+      "part2": "from them that it took an hour to drive there.",
+      "correct": "distant",
+      "word": "DISTANT"
+    },
+    {
+      "part1": "The deer",
+      "part2": "the stream with a mighty bound.",
+      "correct": "hurdled",
+      "word": "HURDLE"
+    },
+    {
+      "part1": "The electrician",
+      "part2": "the wires and said they were very dangerous.",
+      "correct": "examined",
+      "word": "EXAMINE"
+    },
+    {
+      "part1": "Everyone has a different",
+      "part2": "for cleaning the house.",
+      "correct": "method",
+      "word": "METHOD"
+    },
+    {
+      "part1": "Our insurance policy will",
+      "part2": "next month unless we decide to renew it.",
+      "correct": "expire",
+      "word": "EXPIRE"
+    },
+    {
+      "part1": "The runner was so",
+      "part2": "that he won the race easily.",
+      "correct": "swift",
+      "word": "SWIFT"
+    },
+    {
+      "part1": "The mechanic's hands were covered with a thick layer of",
+      "part2": ".",
+      "correct": "grime",
+      "word": "GRIME"
+    }
+  ],
+  "type": "fitb",
+  "id": 2
+}

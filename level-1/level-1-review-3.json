@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "AFFECTION",
+      "answer": "affection"
+    },
+    {
+      "word": "AGONY",
+      "answer": "agony"
+    },
+    {
+      "word": "ATTENDANCE",
+      "answer": "attendance"
+    },
+    {
+      "word": "CALCULATE",
+      "answer": "calculate"
+    },
+    {
+      "word": "CERTAIN",
+      "answer": "certain"
+    },
+    {
+      "word": "CHUCKLE",
+      "answer": "chuckled"
+    },
+    {
+      "word": "COMICAL",
+      "answer": "comical"
+    },
+    {
+      "word": "CONSIDER",
+      "answer": "considered"
+    },
+    {
+      "word": "COURTEOUS",
+      "answer": "courteous."
+    },
+    {
+      "word": "DEFINITE",
+      "answer": "definite"
+    },
+    {
+      "word": "DELEGATE",
+      "answer": "delegates"
+    },
+    {
+      "word": "DIRECT",
+      "answer": "direct"
+    },
+    {
+      "word": "DISTRICT",
+      "answer": "district"
+    },
+    {
+      "word": "DUPLICATE",
+      "answer": "duplicate"
+    },
+    {
+      "word": "DURABLE",
+      "answer": "durable"
+    },
+    {
+      "word": "FLING",
+      "answer": "fling"
+    },
+    {
+      "word": "GLOSSY",
+      "answer": "glossy"
+    },
+    {
+      "word": "HESITATE",
+      "answer": "hesitates"
+    },
+    {
+      "word": "IDENTICAL",
+      "answer": "identical"
+    },
+    {
+      "word": "INTERRUPT",
+      "answer": "interrupted"
+    },
+    {
+      "word": "INTRUDE",
+      "answer": "intrude"
+    },
+    {
+      "word": "LURE",
+      "answer": "lure"
+    },
+    {
+      "word": "MODERN",
+      "answer": "modern"
+    },
+    {
+      "word": "MOUND",
+      "answer": "mound"
+    },
+    {
+      "word": "NEGLECT",
+      "answer": "neglect"
+    },
+    {
+      "word": "NUDGE",
+      "answer": "nudged"
+    },
+    {
+      "word": "OBJECTION",
+      "answer": "objection"
+    },
+    {
+      "word": "OBSERVE",
+      "answer": "observe"
+    },
+    {
+      "word": "OVERCAST",
+      "answer": "overcast"
+    },
+    {
+      "word": "PERSPIRATION",
+      "answer": "perspiration"
+    },
+    {
+      "word": "PLUNGE",
+      "answer": "plunged"
+    },
+    {
+      "word": "PORTION",
+      "answer": "portion"
+    },
+    {
+      "word": "POSSIBILITY",
+      "answer": "possibility"
+    },
+    {
+      "word": "PURCHASE",
+      "answer": "purchase"
+    },
+    {
+      "word": "RECOMMEND",
+      "answer": "recommend"
+    },
+    {
+      "word": "SCARCE",
+      "answer": "scarce"
+    },
+    {
+      "word": "SLUMP",
+      "answer": "slumped"
+    },
+    {
+      "word": "SNUG",
+      "answer": "snug"
+    },
+    {
+      "word": "SOLUTION",
+      "answer": "solution"
+    },
+    {
+      "word": "SPECTATOR",
+      "answer": "spectators"
+    },
+    {
+      "word": "STRESS",
+      "answer": "stress"
+    },
+    {
+      "word": "TRAGEDY",
+      "answer": "tragedy"
+    },
+    {
+      "word": "TRICKLE",
+      "answer": "trickled"
+    },
+    {
+      "word": "VARY",
+      "answer": "vary"
+    },
+    {
+      "word": "WILT",
+      "answer": "wilt"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The day was completely",
+      "part2": "; there wasn't even a patch of blue in the sky.",
+      "correct": "overcast",
+      "word": "OVERCAST"
+    },
+    {
+      "part1": "Each state elected two",
+      "part2": "to represent it at the conference.",
+      "correct": "delegates",
+      "word": "DELEGATE"
+    },
+    {
+      "part1": "The city had a large shopping",
+      "part2": "where all the major department stores were located.",
+      "correct": "district",
+      "word": "DISTRICT"
+    },
+    {
+      "part1": "John liked to",
+      "part2": "the way the birds were building their nest.",
+      "correct": "observe",
+      "word": "OBSERVE"
+    },
+    {
+      "part1": "The teacher had a small",
+      "part2": "of papers that she had to correct.",
+      "correct": "mound",
+      "word": "MOUND"
+    },
+    {
+      "part1": "The bus driver was very",
+      "part2": "He helped the blind lady to her seat and let her know when he reached her stop.",
+      "correct": "courteous.",
+      "word": "COURTEOUS"
+    },
+    {
+      "part1": "Even though he knows the answers perfectly well, he always",
+      "part2": "a bit before replying.",
+      "correct": "hesitates",
+      "word": "HESITATE"
+    },
+    {
+      "part1": "The pipes were partially clogged, so the water just",
+      "part2": "out.",
+      "correct": "trickled",
+      "word": "TRICKLE"
+    },
+    {
+      "part1": "When Jimmy started to",
+      "part2": "his chores around the house his mother scolded him.",
+      "correct": "neglect",
+      "word": "NEGLECT"
+    },
+    {
+      "part1": "Donna was",
+      "part2": "that she passed the test, so she went out to celebrate right away.",
+      "correct": "certain",
+      "word": "CERTAIN"
+    },
+    {
+      "part1": "We have had good results with this floor cleaner, so we",
+      "part2": "that you use it too.",
+      "correct": "recommend",
+      "word": "RECOMMEND"
+    },
+    {
+      "part1": "He needs lots of love and",
+      "part2": "to make him feel worthwhile.",
+      "correct": "affection",
+      "word": "AFFECTION"
+    },
+    {
+      "part1": "There were thousands of",
+      "part2": "on hand to watch the race.",
+      "correct": "spectators",
+      "word": "SPECTATOR"
+    },
+    {
+      "part1": "Our interest in the job started out fresh and strong, but it began to",
+      "part2": "when we saw how difficult the work was.",
+      "correct": "wilt",
+      "word": "WILT"
+    },
+    {
+      "part1": "She",
+      "part2": "the conversation to announce that her father had fallen ill.",
+      "correct": "interrupted",
+      "word": "INTERRUPT"
+    },
+    {
+      "part1": "The attractive surroundings and beautiful weather in Hawaii",
+      "part2": "many people into moving there.",
+      "correct": "lure",
+      "word": "LURE"
+    },
+    {
+      "part1": "He",
+      "part2": "his arm into the water to see how cold it was.",
+      "correct": "plunged",
+      "word": "PLUNGE"
+    },
+    {
+      "part1": "People have always",
+      "part2": "him one of the greatest players who ever lived.",
+      "correct": "considered",
+      "word": "CONSIDER"
+    },
+    {
+      "part1": "He",
+      "part2": "Ann to let her know the teacher was looking at her.",
+      "correct": "nudged",
+      "word": "NUDGE"
+    },
+    {
+      "part1": "They were yelling at him to",
+      "part2": "the ball back to them.",
+      "correct": "fling",
+      "word": "FLING"
+    },
+    {
+      "part1": "She was very bad about studying and doing her homework; as a result her grades",
+      "part2": ".",
+      "correct": "slumped",
+      "word": "SLUMP"
+    },
+    {
+      "part1": "In spite of the storm outside our tent, we felt quite",
+      "part2": "in our sleeping bags.",
+      "correct": "snug",
+      "word": "SNUG"
+    },
+    {
+      "part1": "Cars are",
+      "part2": "around here; you could go for days without seeing one.",
+      "correct": "scarce",
+      "word": "SCARCE"
+    },
+    {
+      "part1": "It's easy to give your table a(n)",
+      "part2": "surface with this furniture polish.",
+      "correct": "glossy",
+      "word": "GLOSSY"
+    },
+    {
+      "part1": "The principal requested his",
+      "part2": "at the meeting after school.",
+      "correct": "attendance",
+      "word": "ATTENDANCE"
+    },
+    {
+      "part1": "Ben liked to",
+      "part2": "the meals he prepared for them so that they wouldn't get bored.",
+      "correct": "vary",
+      "word": "VARY"
+    },
+    {
+      "part1": "He ate his entire",
+      "part2": "of food, then asked for some of mine.",
+      "correct": "portion",
+      "word": "PORTION"
+    },
+    {
+      "part1": "These marble floors are so",
+      "part2": "they can last for hundreds of years.",
+      "correct": "durable",
+      "word": "DURABLE"
+    },
+    {
+      "part1": "He told us a(n)",
+      "part2": "story that had us laughing very hard.",
+      "correct": "comical",
+      "word": "COMICAL"
+    },
+    {
+      "part1": "The teacher had no",
+      "part2": "to the students' plan to go to the museum.",
+      "correct": "objection",
+      "word": "OBJECTION"
+    },
+    {
+      "part1": "Their vacation plans aren't very",
+      "part2": "yet; they think they might go on a cruise somewhere.",
+      "correct": "definite",
+      "word": "DEFINITE"
+    },
+    {
+      "part1": "We could see by the",
+      "part2": "on his face that he'd been working hard in the heat.",
+      "correct": "perspiration",
+      "word": "PERSPIRATION"
+    },
+    {
+      "part1": "For several days the newspapers carried stories about the",
+      "part2": "in which many people were killed.",
+      "correct": "tragedy",
+      "word": "TRAGEDY"
+    },
+    {
+      "part1": "The man at the door said they had to",
+      "part2": "tickets to get inside.",
+      "correct": "purchase",
+      "word": "PURCHASE"
+    },
+    {
+      "part1": "We decided to wear",
+      "part2": "costumes to the party so that no one could tell us apart.",
+      "correct": "identical",
+      "word": "IDENTICAL"
+    },
+    {
+      "part1": "The soldier was in great",
+      "part2": "until the doctor treated his wounds.",
+      "correct": "agony",
+      "word": "AGONY"
+    },
+    {
+      "part1": "I don't want to",
+      "part2": ", but if you're not busy I'd like to see you for a minute.",
+      "correct": "intrude",
+      "word": "INTRUDE"
+    },
+    {
+      "part1": "Scientists spent several years searching for a(n)",
+      "part2": "to the problem, but they haven't yet succeeded.",
+      "correct": "solution",
+      "word": "SOLUTION"
+    },
+    {
+      "part1": "Her dress was an exact",
+      "part2": "of the one her friend was wearing. They must have shopped at the same store.",
+      "correct": "duplicate",
+      "word": "DUPLICATE"
+    },
+    {
+      "part1": "They traveled to the city by a(n)",
+      "part2": "route.",
+      "correct": "direct",
+      "word": "DIRECT"
+    },
+    {
+      "part1": "He thought there was too much",
+      "part2": "placed on coming in first in these contests.",
+      "correct": "stress",
+      "word": "STRESS"
+    },
+    {
+      "part1": "In",
+      "part2": "times people live much longer than they did centuries ago.",
+      "correct": "modern",
+      "word": "MODERN"
+    },
+    {
+      "part1": "If there is any",
+      "part2": "that you can make it, please let us know.",
+      "correct": "possibility",
+      "word": "POSSIBILITY"
+    },
+    {
+      "part1": "Ed found it difficult to",
+      "part2": "the answer without a pencil and paper.",
+      "correct": "calculate",
+      "word": "CALCULATE"
+    },
+    {
+      "part1": "Other people were laughing noisily at the show, but we just",
+      "part2": "quietly.",
+      "correct": "chuckled",
+      "word": "CHUCKLE"
+    }
+  ],
+  "type": "fitb",
+  "id": 3
+}

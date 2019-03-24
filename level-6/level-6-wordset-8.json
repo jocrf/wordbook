@@ -1,0 +1,608 @@
+{
+  "title": "6.8",
+  "definitions": {
+    "SAGE": {
+      "word": "SAGE",
+      "phonetic": "(sAj)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wise, judicious </p><p>SAGE means <i class=“def-ital\">wise</i>. The word is especially applied to a person who is wise through long experience. </p><p>“The old judge was noted for his SAGE opinions.” </p><p>“The SAGE teacher gave him good advice about how to solve the problem.” </p><p>SAGE is also a noun, meaning “a profoundly wise man.” </p><p>“The ancient SAGES knew a great deal about human nature.”</p>"
+    },
+    "INDULGE": {
+      "word": "INDULGE",
+      "phonetic": "(in-duhlj')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to humor, pamper, spoil, give way to, gratify </p><p>To INDULGE someone is to satisfy his wishes and demands, even if he has little right to make them. </p><p>“Grandmother INDULGES those children too much. She lets them do whatever they want.” </p><p>To INDULGE yourself is to give in to your own desires or feelings. </p><p>“After the long journey she INDULGED herself by taking a hot bath and eating at the best restaurant in town.” </p><p>To INDULGE <i class=“def-ital\">in</i> something is to give in to your desire for it. </p><p>“They INDULGED in ice cream and cake after dinner.” </p><p>“He INDULGES in the luxury of a cruise every year.” </p><p>Other forms of the word: INDULGENCE, n. INDULGENT, adj.</p>"
+    },
+    "RECTIFY": {
+      "word": "RECTIFY",
+      "phonetic": "(rek'-tÔøΩfl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to correct, make right </p><p>The <i class=“def-ital\">rect</i> part of both RECTIFY and <i class=“def-ital\">correct</i> comes from a Latin word meaning <i class=“def-ital\">right</i>. Both words mean “to make or put right.”  </p><p>“He tried to RECTIFY his mistake but only made it worse.” </p><p>“She demanded that they RECTIFY their bad habits.” </p><p>“If we cannot RECTIFY this problem soon we will have to end the entire project.” </p><p>The most commonly chosen wrong answer in the Pretest is <i class=“def-ital\">change</i>. You can <i class=“def-ital\">change</i> something and make it wrong; to RECTIFY is only to make something right.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-fy</i> under Suffixes."
+      ]
+    },
+    "INSURRECTION": {
+      "word": "INSURRECTION",
+      "phonetic": "(in-sÔøΩrek'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an uprising, rebellion, revolt </p><p>INSURRECTION comes from a Latin word which means to <i class=“def-ital\">rise up</i> and which is also the source of the words <i class=“def-ital\">surge</i> and <i class=“def-ital\">insurgent</i>. An INSURRECTION is a rising up of people in resistance to authority or the government. It is usually less well organized than a rebellion or a revolution. </p><p>“The leaders of the INSURRECTION claimed that half the population supported their cause.” </p><p>“The army crushed the INSURRECTION with little difficulty.”</p>"
+    },
+    "REPREHENSIBLE": {
+      "word": "REPREHENSIBLE",
+      "phonetic": "(re-pri-hen'-sÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">blameworthy, deserving censure </p><p> REPREHEND is a rather uncommon word that means to <i class=“def-ital\">criticize</i>, to <i class=“def-ital\">reprove</i>. Someone or something that is REPREHENSIBLE deserves to be criticized. </p><p>“I think your actions were REPREHENSIBLE. You ought to be severely punished.” </p><p>“His opinions are fine, but the way he forces everyone to agree with them is REPREHENSIBLE.” </p><p>“Everyone thought the company’s decision to make the work day longer was REPREHENSIBLE.” </p><p><i class=“def-ital\">Puzzling</i> is the most commonly chosen wrong answer on the Pretest, perhaps because REPREHENSIBLE looks like <i class=“def-ital\">incomprehensible</i>, which means <i class=“def-ital\">not understandable</i>.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "SOLACE": {
+      "word": "SOLACE",
+      "phonetic": "(sol'-ÔøΩs)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">comfort, consolation, relief </p><p>SOLACE means <i class=“def-ital\">comfort</i> or <i class=“def-ital\">relief</i> from sorrow or pain. </p><p>“He looked for SOLACE from his troubles.” </p><p>SOLACE is also the thing that brings comfort. </p><p>“Her children were a SOLACE to her in her old age.” </p><p>“The money her husband left her in his will was little SOLACE to her after his death.” </p><p>“Nothing seemed to comfort him until he found some SOLACE in music.”</p>"
+    },
+    "MEMOIRS": {
+      "word": "MEMOIRS",
+      "phonetic": "(mem'-wahrz)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a life story, autobiography, recollections </p><p>Note the pronunciation. MEMOIRS is a French word, and keeps the French pronunciation. </p><p>The word MEMOIRS is related to the word <i class=“def-ital\">memory</i>. MEMOIRS are a person’s life story, usually telling about events and people that he has personal knowledge of. </p><p>“The general wrote his MEMOIRS about his experiences during the war.” </p><p>“Everyone wanted to know what the movie star would say about these people in his MEMOIRS.” </p><p>MEMOIRS is sometimes used in the singular. </p><p>“She wrote a MEMOIR of her early days in the fashion industry.” </p><p><i class=“def-ital\">Short reminders</i> is the most popular wrong answer on the Pretest, due to confusion with the word <i class=“def-ital\">memo</i>.</p>"
+    },
+    "RECOMPENSE": {
+      "word": "RECOMPENSE",
+      "phonetic": "(rek'-ÔøΩm-pens)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a reward, payment, compensation </p><p>A RECOMPENSE is a return or payment made for work, loss, or injury. The word suggests making up for something, an attempt to do justice or to make amends. </p><p>“He thought the RECOMPENSE they offered was not adequate for the loss of his home.” </p><p>“The company gave her a Christmas bonus as partial RECOMPENSE for all the extra work she had done that year.” </p><p>“We must make some RECOMPENSE for causing him to miss his plane flight.” </p><p>RECOMPENSE is also a verb. </p><p>“The insurance company RECOMPENSED him for the theft of the camera.”</p>"
+    },
+    "TlNGE": {
+      "word": "TlNGE",
+      "phonetic": "(tinj)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a trace, slight coloring, slight mixture </p><p>TINGE may be used either as a noun or as a verb. A TINGE is a <i class=“def-ital\">trace</i> or <i class=“def-ital\">slight mixture</i> of something. The word is especially used about a slight trace of a color found in something, but it can also be used about traces of emotions in the face or voice. </p><p>“There is a TINGE of green in the sky.” </p><p>“There was a TINGE of sadness in his expression as he walked out the door.” </p><p>When used as a verb, TINGE means to <i class=“def-ital\">color</i> or <i class=“def-ital\">affect slightly</i>. </p><p>“The white tile floor was TINGED with yellow after only a few months.” </p><p>“Her voice was TINGED with regret as she declined the invitation.” </p><p>“The air was TINGED with the pleasant aroma of freshly baked bread.”</p>"
+    },
+    "VANQUISH": {
+      "word": "VANQUISH",
+      "phonetic": "(vang'-kwish)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to defeat, overcome, conquer </p><p>VANQUISH means to <i class=“def-ital\">defeat</i> or <i class=“def-ital\">conquer</i>, but it is stronger than these words. VANQUISH usually suggests an important, complete defeat or conquest of an enemy. </p><p>“The victorious general had VANQUISHED the enemy.” </p><p>One can VANQUISH other things besides enemies. </p><p>“The disease was totally VANQUISHED after they developed the new medicine.” </p><p>“He was able to VANQUISH his fears about flying and board the plane.”</p>"
+    },
+    "BREVITY": {
+      "word": "BREVITY",
+      "phonetic": "(brev'-ÔøΩ-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">shortness, briefness </p><p>BREVITY is shortness of time. BREVITY is the noun usually used in association with the adjective <i class=“def-ital\">brief</i>. </p><p>“The program was very brief; we were surprised by its BREVITY.” </p><p>“The poet mourned the BREVITY of human life.” </p><p>“The BREVITY of this book was more than made up for by its wisdom and humor.” </p><p>Many people choose <i class=“def-ital\">value</i> as the meaning of BREVITY, perhaps because BREVITY is usually considered to be a virtue.</p>"
+    },
+    "VENDETTA": {
+      "word": "VENDETTA",
+      "phonetic": "(ven-det'-:))",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a blood feud </p><p>VENDETTA is the Italian word for <i class=“def-ital\">vengeance</i>. A VENDETTA is a feud between two families that starts when one family murders someone in the other family. Then the second family murders someone in the first family for revenge. And so it goes on and on, sometimes for generations. The most famous American VENDETTA was between the Hatfields and the McCoys. </p><p>“Romeo and Juliet were forbidden to marry because there was a VENDETTA between their families.” </p><p>“After years of VENDETTA, the two families decided on a truce before they were all wiped out.” </p><p>Sometimes the word is used in a general sense for any feud that goes on for a long time. </p><p>“He had a personal VENDETTA with the company that had sold him the broken typewriter.”</p>"
+    },
+    "DELETE": {
+      "word": "DELETE",
+      "phonetic": "(di-lEt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to erase, take out, cancel, eliminate </p><p>To DELETE something is to take it out, to erase or omit it. The word is usually used about written or printed matter. </p><p>“They decided to DELETE this section of the chapter before the book was printed.” </p><p>“The teacher DELETED Bill’s name from the list of those going to the museum.” </p><p>“I was asked to DELETE that sentence from my speech.” </p><p>Many people confuse DELETE with <i class=“def-ital\">shorten</i>. To DELETE something is to strike it out entirely, not just to shorten it. </p><p>Other forms of the word: DELETION, n.</p>"
+    },
+    "MIRTH": {
+      "word": "MIRTH",
+      "phonetic": "(merth)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">merriment, laughter, gladness </p><p>MIRTH is gladness or happiness accompanied by laughter and fun. </p><p>“Everyone was full of MIRTH at the Christmas party.” </p><p>“They could barely hide their MIRTH as he slipped on a banana peel.” </p><p>Other forms of the word: MIRTHFUL, adj. MIRTHLESS, adj.</p>"
+    },
+    "RABBLE": {
+      "word": "RABBLE",
+      "phonetic": "(rab'-:)I)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a mob, disorderly crowd </p><p>A RABBLE is a crowd or mob of people who act stupidly or unthinkingly. The word is always used in an insulting sense. </p><p>“He ignored the RABBLE who tried to block his way.” </p><p>“The RABBLE in the stadium shouted insults at the referee.” </p><p>A RABBLE-<i class=“def-ital\">rouser</i> is a person who tries to stir up a mob, usually by making speeches. </p><p>“Several RABBLE-rousers urged the mob to take the law into its own hands.”</p>"
+    }
+  },
+  "id": "8",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "SAGE advice.",
+          "answers": [
+            "careful",
+            "wise",
+            "ancient",
+            "foolish",
+            "odd"
+          ],
+          "word": "SAGE",
+          "correct": "wise"
+        },
+        {
+          "prompt": "INDULGE the children.",
+          "answers": [
+            "accept",
+            "love",
+            "feed",
+            "pamper",
+            "punish"
+          ],
+          "word": "INDULGE",
+          "correct": "pamper"
+        },
+        {
+          "prompt": "To RECTIFY it.",
+          "answers": [
+            "change",
+            "enlarge",
+            "favor",
+            "correct",
+            "destroy"
+          ],
+          "word": "RECTIFY",
+          "correct": "correct"
+        },
+        {
+          "prompt": "Started the INSURRECTION.",
+          "answers": [
+            "fight",
+            "argument",
+            "uprising",
+            "trial",
+            "investigation"
+          ],
+          "word": "INSURRECTION",
+          "correct": "uprising"
+        },
+        {
+          "prompt": "REPREHENSIBLE behavior.",
+          "answers": [
+            "greedy",
+            "holy",
+            "puzzling",
+            "blameworthy",
+            "fearful"
+          ],
+          "word": "REPREHENSIBLE",
+          "correct": "blameworthy"
+        },
+        {
+          "prompt": "A little SOLACE.",
+          "answers": [
+            "joy",
+            "strength",
+            "comfort",
+            "hope",
+            "sorrow"
+          ],
+          "word": "SOLACE",
+          "correct": "comfort"
+        },
+        {
+          "prompt": "Read his MEMOIRS.",
+          "answers": [
+            "life story",
+            "orders",
+            "short reminders",
+            "long novel",
+            "responses"
+          ],
+          "word": "MEMOIRS",
+          "correct": "life story"
+        },
+        {
+          "prompt": "His RECOMPENSE.",
+          "answers": [
+            "mistake",
+            "duty",
+            "reputation",
+            "value",
+            "reward"
+          ],
+          "word": "RECOMPENSE",
+          "correct": "reward"
+        },
+        {
+          "prompt": "A certain TINGE.",
+          "answers": [
+            "sadness",
+            "trace",
+            "part",
+            "smell",
+            "change"
+          ],
+          "word": "TINGE",
+          "correct": "trace"
+        },
+        {
+          "prompt": "To VANQUISH them.",
+          "answers": [
+            "rescue",
+            "lose",
+            "defeat",
+            "hate",
+            "torture"
+          ],
+          "word": "VANQUISH",
+          "correct": "defeat"
+        },
+        {
+          "prompt": "Its BREVITY.",
+          "answers": [
+            "length",
+            "decrease",
+            "value",
+            "weight",
+            "shortness"
+          ],
+          "word": "BREVITY",
+          "correct": "shortness"
+        },
+        {
+          "prompt": "Stopped the VENDETTA.",
+          "answers": [
+            "blood feud",
+            "sailing race",
+            "melody",
+            "police raid",
+            "truce"
+          ],
+          "word": "VENDETTA",
+          "correct": "blood feud"
+        },
+        {
+          "prompt": "DELETE the paragraph.",
+          "answers": [
+            "rearrange",
+            "shorten",
+            "finish",
+            "erase",
+            "include"
+          ],
+          "word": "DELETE",
+          "correct": "erase"
+        },
+        {
+          "prompt": "A great deal of MIRTH.",
+          "answers": [
+            "energy",
+            "light",
+            "excitement",
+            "sadness",
+            "merriment"
+          ],
+          "word": "MIRTH",
+          "correct": "merriment"
+        },
+        {
+          "prompt": "Disliked the RABBLE.",
+          "answers": [
+            "workers",
+            "enemy",
+            "nobility",
+            "mob",
+            "young"
+          ],
+          "word": "RABBLE",
+          "correct": "mob"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does a person have to be old to be SAGE?",
+          "word": "SAGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do policemen usually INDULGE criminals?",
+          "word": "INDULGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people like to RECTIFY their mistakes?",
+          "word": "RECTIFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could people be hurt in an INSURRECTION?",
+          "word": "INSURRECTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it REPREHENSIBLE to be kind to animals?",
+          "word": "REPREHENSIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do some people seek SOLACE in eating?",
+          "word": "SOLACE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would MEMOIRS usually be true?",
+          "word": "MEMOIRS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would ten dollars be sufficient RECOMPENSE for someone whose car was stolen?",
+          "word": "RECOMPENSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a face ever be TINGED with sadness?",
+          "word": "TINGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Did Germany VANQUISH the United States in World War II?",
+          "word": "VANQUISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a thousand-page book be known for its BREVITY?",
+          "word": "BREVITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are VENDETTAS generally pleasant?",
+          "word": "VENDETTA",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a single letter be DELETED?",
+          "word": "DELETE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does someone who is full of MIRTH need to be cheered up?",
+          "word": "MIRTH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can RABBLE be dangerous?",
+          "word": "RABBLE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Even though we disliked her, we knew she would give us SAGE advice.",
+          "word": "SAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The students INDULGED in all sorts of foolishness when the teacher was away.",
+          "word": "INDULGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "My mother RECTIFIED me for coming home late.",
+          "word": "RECTIFY",
+          "correct": "false"
+        },
+        {
+          "prompt": "We worked hard on the INSURRECTION of the newspaper; we wanted to make sure everything was perfect.",
+          "word": "INSURRECTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "You are old enough now to be REPREHENSIBLE for your own actions.",
+          "word": "REPREHENSIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "It took a great deal of SOLACE to understand what the professor meant.",
+          "word": "SOLACE",
+          "correct": "false"
+        },
+        {
+          "prompt": "In her MEMOIRS she wrote about all the famous people she had met.",
+          "word": "MEMOIRS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The salesman ran up considerable RECOMPENSES while he was on the road.",
+          "word": "RECOMPENSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "There was a TINGE of anger in his voice when he told them to stop talking.",
+          "word": "TINGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The senator VANQUISHED all his opponents in the election.",
+          "word": "VANQUISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "I was impressed by the BREVITY with which he could present a complicated argument.",
+          "word": "BREVITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "They waged a political VENDETTA against the senators who had voted against the bill.",
+          "word": "VENDETTA",
+          "correct": "true"
+        },
+        {
+          "prompt": "He said that the third clause had to be DELETED before he would sign the contract.",
+          "word": "DELETE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The actress's silly faces caused some MIRTH in the audience.",
+          "word": "MIRTH",
+          "correct": "true"
+        },
+        {
+          "prompt": "The angry old man said that those teenagers were ignorant RABBLE and should all be locked up.",
+          "word": "RABBLE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "SAGE",
+          "answers": [
+            "famous",
+            "intelligent",
+            "sensible"
+          ],
+          "word": "SAGE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INDULGE",
+          "answers": [
+            "humor",
+            "expect",
+            "spoil"
+          ],
+          "word": "INDULGE",
+          "correct": "1"
+        },
+        {
+          "prompt": "RECTIFY",
+          "answers": [
+            "improve",
+            "repair",
+            "exchange"
+          ],
+          "word": "RECTIFY",
+          "correct": "2"
+        },
+        {
+          "prompt": "INSURRECTION",
+          "answers": [
+            "revolt",
+            "rebel",
+            "reject"
+          ],
+          "word": "INSURRECTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "REPREHENSIBLE",
+          "answers": [
+            "blameworthy",
+            "laughable",
+            "condemnable"
+          ],
+          "word": "REPREHENSIBLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "SOLACE",
+          "answers": [
+            "help",
+            "relief",
+            "power"
+          ],
+          "word": "SOLACE",
+          "correct": "2"
+        },
+        {
+          "prompt": "MEMOIRS",
+          "answers": [
+            "invention",
+            "remembrance",
+            "description"
+          ],
+          "word": "MEMOIRS",
+          "correct": "0"
+        },
+        {
+          "prompt": "RECOMPENSE",
+          "answers": [
+            "accept",
+            "repay",
+            "compensate"
+          ],
+          "word": "RECOMPENSE",
+          "correct": "0"
+        },
+        {
+          "prompt": "TINGE",
+          "answers": [
+            "shade",
+            "dirt",
+            "color"
+          ],
+          "word": "TINGE",
+          "correct": "1"
+        },
+        {
+          "prompt": "VANQUISH",
+          "answers": [
+            "overcome",
+            "forget",
+            "conquer"
+          ],
+          "word": "VANQUISH",
+          "correct": "1"
+        },
+        {
+          "prompt": "BREVITY",
+          "answers": [
+            "quickness",
+            "fun",
+            "briefness"
+          ],
+          "word": "BREVITY",
+          "correct": "1"
+        },
+        {
+          "prompt": "VENDETTA",
+          "answers": [
+            "despair",
+            "grudge",
+            "revenge"
+          ],
+          "word": "VENDETTA",
+          "correct": "0"
+        },
+        {
+          "prompt": "DELETE",
+          "answers": [
+            "finish",
+            "remove",
+            "omit"
+          ],
+          "word": "DELETE",
+          "correct": "0"
+        },
+        {
+          "prompt": "MIRTH",
+          "answers": [
+            "amusement",
+            "gratefulness",
+            "happiness"
+          ],
+          "word": "MIRTH",
+          "correct": "1"
+        },
+        {
+          "prompt": "RABBLE",
+          "answers": [
+            "crowd",
+            "audience",
+            "mob"
+          ],
+          "word": "RABBLE",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

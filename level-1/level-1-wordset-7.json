@@ -1,0 +1,602 @@
+{
+  "title": "1.7",
+  "definitions": {
+    "TRAGEDY": {
+      "word": "TRAGEDY",
+      "phonetic": "(traj'-ÔøΩdE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a disaster, calamity, misfortune </p><p>A TRAGEDY is a very sad event that usually ends in some kind of misfortune or disaster. Originally, a TRAGEDY was a play that ended very unhappily, the opposite of <i class=“def-ital\">comedy</i>. Now, in addition to being a play or book with a sad ending, a TRAGEDY is any kind of disaster that can happen to a person. </p><p>“We were all saddened by the TRAGEDY of the president’s death.” </p><p>“He acted as if it were a TRAGEDY that he couldn’t have the car that evening.” </p><p>The adjective from TRAGEDY is TRAGIC, which means <i class=“def-ital\">very sad</i>, <i class=“def-ital\">unfortunate</i>. </p><p>“The once famous star died in TRAGIC circumstances.” </p><p>“He has such a low, sad voice that everything he says sounds TRAGIC.” </p><p>Other forms of the word: TRAGIC, adj.</p>"
+    },
+    "PORTION": {
+      "word": "PORTION",
+      "phonetic": "(por'-shJn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a share, part </p><p>A PORTION is a part or share in something. </p><p>“I think that his PORTION of the money is larger than mine.” </p><p>“Each child received a PORTION of the marbles.” </p><p>The word is often used about food, meaning “the share of the food given to one person.” </p><p>“The restaurant gave them such large PORTIONS that no one could finish.”</p>"
+    },
+    "MOUND": {
+      "word": "MOUND",
+      "phonetic": "(mownd)",
+      "pos": "n",
+      "deftext": "<p class=\"definition\">a pile, heap, small hill </p><p>A MOUND is a small pile. The word is often used about piled-up earth. </p><p>“The small MOUND in the backyard made them think something might be buried there.” </p><p>MOUND can also be used about anything that is piled up. </p><p>“There was a MOUND of dishes in the sink.” </p><p>“He had a MOUND of dirty clothes in his room.”</p>"
+    },
+    "INTERRUPT": {
+      "word": "INTERRUPT",
+      "phonetic": "(in-tÔøΩruhpt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to break in on, break off </p><p>To INTERRUPT someone is to break in on him while he is doing or saying something, so that he has to stop. </p><p>“She kept INTERRUPTING the teacher to ask silly questions.” </p><p>“I locked the door of my room so that I wouldn’t be INTERRUPTED while I was studying.” </p><p>You can also INTERRUPT things like programs. </p><p>“They INTERRUPTED the program to give a special news bulletin.” </p><p>Other forms of the word: INTERRUPTION, n.</p>"
+    },
+    "STRESS": {
+      "word": "STRESS",
+      "phonetic": "(stres)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">pressure, emphasis </p><p>STRESS is a noun and a verb. It has several different uses, all having to do with pressure or importance put on something. STRESS can mean <i class=“def-ital\">importance</i> or <i class=“def-ital\">emphasis</i>. </p><p>“They place too much STRESS on having a winning football team at that school.” </p><p>It is the <i class=“def-ital\">force</i> with which a particular word is spoken. </p><p>“He always STRESSED the first word in the sentence.” </p><p>STRESS is also mental or emotional pressure. </p><p>“With all her problems, she has been under a lot of STRESS lately.” </p><p><i class=“def-ital\">Danger</i> is often chosen as a meaning of STRESS on the Pretest. <i class=“def-ital\">Danger</i> might cause STRESS in the sense of mental pressure, but the words have different meanings.</p>"
+    },
+    "INTRUDE": {
+      "word": "INTRUDE",
+      "phonetic": "(in-trUd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to enter or come uninvited, trespass </p><p>To INTRUDE is to force yourself into a place where you are not welcome. </p><p>“I hope I’m not INTRUDING on you, but I’d like to talk with you for a few minutes.” </p><p>“People are always INTRUDING on my privacy.” </p><p>Other things besides people can INTRUDE. </p><p>“The noises INTRUDED on my thoughts.” </p><p>An INTRUSION is an act of INTRUDING. </p><p>“I was annoyed at these constant INTRUSIONS.” </p><p>Other forms of the word: INTRUDER, n. INTRUSION, n. INTRUSIVE, adj. Usage: INTRUDE is usually followed by <i class=“def-ital\">on</i> or <i class=“def-ital\">upon</i>.</p>"
+    },
+    "NEGLECT": {
+      "word": "NEGLECT",
+      "phonetic": "(ni-glekt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to fail to do, overlook, forget </p><p>To NEGLECT to do something is to fail to do it, either purposely or not. </p><p>“Bill NEGLECTED to follow the instructions, and as a result he did it all wrong.” </p><p>“Mary’s mother got mad at her when she NE- GLECTED to make her bed.” </p><p>In a slightly different use, to NEGLECT something is to fail to pay proper attention to it, to ignore it. </p><p>“They NEGLECTED their homework in order to watch television.” </p><p>“Sally’s parents were so busy with other matters that they often NEGLECTED her.” </p><p>Other forms of the word: NEGLECTFUL, adj.</p>"
+    },
+    "OBJECTION": {
+      "word": "OBJECTION",
+      "phonetic": "(ob-jek'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a protest </p><p>To OBJECT to something is to speak in opposition to it. </p><p>“I OBJECT to the way you keep calling me a child. I’m practically an adult.” </p><p>An OBJECTION is something said in opposition, disagreement, or refusal. </p><p>“When we asked if we could go, he said he had no OBJECTION.” </p><p>“Their OBJECTION to our plan was that it would cost too much money.” </p><p>“I raised a strong OBJECTION to the idea of starting the game later.” </p><p>Other forms of the word: OBJECT, v.</p>"
+    },
+    "RECOMMEND": {
+      "word": "RECOMMEND",
+      "phonetic": "(rek-ÔøΩmend')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to speak favorably of, advise, suggest </p><p>To RECOMMEND is to speak favorably of, to say that someone or something is suited for a job or a purpose. </p><p>“I RECOMMEND him to you highly. He’s perfect for the job.” </p><p>“We RECOMMEND this paint for your house. It will last for years.” </p><p>When you RECOMMEND that someone do something, you suggest it as a good thing to do. </p><p>“The teacher RECOMMENDS that Susan watch less television and study more.” </p><p>“The doctor RECOMMENDS that you stay in bed to- day.” </p><p>Other forms of the word: RECOMMENDATION, n.</p>"
+    },
+    "POSSIBILITY": {
+      "word": "POSSIBILITY",
+      "phonetic": "(pos-ÔøΩbil'-ÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">chance, likelihood </p><p>Something that is POSSIBLE can be done or can happen. </p><p>“It is POSSIBLE that we will all pass the test.” </p><p>POSSIBILITY is the state of being POSSIBLE. If there is a POSSIBILITY of something happening, we are not sure that it will happen, but it may happen. </p><p>“There is a POSSIBILITY that it will rain tomorrow.” </p><p>“Is there any POSSIBILITY that you will be here early?” </p><p>Other forms of the word: POSSIBLE, adj.</p>"
+    },
+    "SOLUTION": {
+      "word": "SOLUTION",
+      "phonetic": "(sÔøΩIU'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an answer, explanation </p><p>SOLUTION is the noun from the verb to solve. A SOLUTION is the answer to a problem or the explanation of a difficulty or a mystery. </p><p>“Everyone has suggestions about how to find the SOLUTION to the unemployment problem.” </p><p>“Tom spent hours puzzling over the question without success, but Richard saw the SOLUTION immediately.” </p><p>“A fight is not the best SOLUTION for a disagreement.”</p>"
+    },
+    "OBSERVE": {
+      "word": "OBSERVE",
+      "phonetic": "(ob-zerv')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to note, notice, watch carefully; to pay attention to; to remark, comment </p><p>OBSERVE has several common meanings. To OBSERVE something is to watch it carefully, to take notice of it. </p><p>“He OBSERVED them walking down the street just before dawn.” </p><p>“She OBSERVED that the animals in the zoo didn’t like the new lights.” </p><p>To OBSERVE a rule is to follow it. To OBSERVE a holiday is to celebrate it. To OBSERVE also means “to say by way of a comment.” </p><p>” ‘I think they’re getting tired,’ Mary OBSERVED, as she watched the children play.” </p><p>Other forms of the word: OBSERVANCE, n. OBSERVATION, n. OBSERVATORY, n.</p>"
+    },
+    "LURE": {
+      "word": "LURE",
+      "phonetic": "(IUr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to tempt, attract, entice </p><p>Originally, a LURE was a bunch of feathers roughly resembling a bird which was used to attract and recall a trained hawk from its flight. From this the word came to be used about anything that attracts or tempts someone. </p><p>“The LURE of the sea has drawn many men away from their homes.” </p><p>To LURE therefore means to attract or tempt. </p><p>“The football game on TV LURED them away from their homework.” </p><p>“The hope of becoming rich LURED many people to California during the Gold Rush.” </p><p>The artificial bait used by fishers is also called a LURE.</p>"
+    },
+    "PURCHASE": {
+      "word": "PURCHASE",
+      "phonetic": "(per'-chÔøΩs)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to buy </p><p>To PURCHASE something is to buy it. </p><p>“We always PURCHASE our groceries at the super- market.” </p><p>“He went to the city to PURCHASE a ring.” </p><p>“Money can’t PURCHASE love.” </p><p>PURCHASE is also a noun, meaning “something that is bought.” </p><p>“She put all her PURCHASES into one bag.” </p><p>Most people who get this item wrong think PURCHASE means sell, which is the exact opposite of the correct meaning.</p>"
+    },
+    "SNUG": {
+      "word": "SNUG",
+      "phonetic": "(snuhg)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">comfortable, cozy, warm </p><p>SNUG was originally used about ships that are neat and well-prepared for bad weather. To be SNUG now means to be <i class=“def-ital\">comfortable</i>, especially to be warm and dry and protected from the weather. </p><p>“She felt very SNUG in her warm bed as she listened to the wind howl outside.” </p><p>SNUG is also used about places and things that make us feel comfortable. </p><p>“As he shoveled snow he wished he were back in his SNUG little room sitting by the fireplace.” </p><p>In a different sense, SNUG means closely fitting, tight. </p><p>“This coat is a bit SNUG. Perhaps I should try on a larger size.”</p>"
+    }
+  },
+  "id": "7",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Talk about the TRAGEDY.",
+          "answers": [
+            "story",
+            "crime",
+            "excitement",
+            "victory",
+            "disaster"
+          ],
+          "word": "TRAGEDY",
+          "correct": "disaster"
+        },
+        {
+          "prompt": "Which PORTION is yours?",
+          "answers": [
+            "share",
+            "drink",
+            "seat",
+            "one",
+            "room"
+          ],
+          "word": "PORTION",
+          "correct": "share"
+        },
+        {
+          "prompt": "He INTERRUPTED the conversation.",
+          "answers": [
+            "lost track of",
+            "started",
+            "overheard",
+            "broke in on",
+            "tired of"
+          ],
+          "word": "INTERRUPT",
+          "correct": "broke in on"
+        },
+        {
+          "prompt": "Near the MOUND.",
+          "answers": [
+            "ocean",
+            "hole",
+            "cliff",
+            "grave",
+            "pile"
+          ],
+          "word": "MOUND",
+          "correct": "pile"
+        },
+        {
+          "prompt": "Aware of the STRESS.",
+          "answers": [
+            "time",
+            "pressure",
+            "loss",
+            "danger",
+            "calmness"
+          ],
+          "word": "STRESS",
+          "correct": "pressure"
+        },
+        {
+          "prompt": "Will he INTRUDE?",
+          "answers": [
+            "go home",
+            "give up",
+            "come uninvited",
+            "arrive late",
+            "object"
+          ],
+          "word": "INTRUDE",
+          "correct": "come uninvited"
+        },
+        {
+          "prompt": "He NEGLECTED to write.",
+          "answers": [
+            "promised",
+            "failed",
+            "remembered",
+            "hoped",
+            "hated"
+          ],
+          "word": "NEGLECT",
+          "correct": "failed"
+        },
+        {
+          "prompt": "Without any OBJECTION.",
+          "answers": [
+            "purpose",
+            "support",
+            "protest",
+            "alarm",
+            "effort"
+          ],
+          "word": "OBJECTION",
+          "correct": "protest"
+        },
+        {
+          "prompt": "They RECOMMEND caution.",
+          "answers": [
+            "ignore",
+            "reward",
+            "demand",
+            "promise",
+            "advise"
+          ],
+          "word": "RECOMMEND",
+          "correct": "advise"
+        },
+        {
+          "prompt": "Is there any POSSIBILITY?",
+          "answers": [
+            "trust",
+            "chance",
+            "truth",
+            "hope",
+            "need"
+          ],
+          "word": "POSSIBILITY",
+          "correct": "chance"
+        },
+        {
+          "prompt": "Argued about the SOLUTION.",
+          "answers": [
+            "vote",
+            "problem",
+            "direction",
+            "answer",
+            "chapter"
+          ],
+          "word": "SOLUTION",
+          "correct": "answer"
+        },
+        {
+          "prompt": "OBSERVE his behavior.",
+          "answers": [
+            "note",
+            "talk about",
+            "copy",
+            "hide",
+            "improve"
+          ],
+          "word": "OBSERVE",
+          "correct": "note"
+        },
+        {
+          "prompt": "LURED by gold.",
+          "answers": [
+            "attracted",
+            "improved",
+            "excited",
+            "unaffected",
+            "ruined"
+          ],
+          "word": "LURE",
+          "correct": "attracted"
+        },
+        {
+          "prompt": "PURCHASE the car.",
+          "answers": [
+            "park",
+            "steal",
+            "buy",
+            "keep",
+            "sell"
+          ],
+          "word": "PURCHASE",
+          "correct": "buy"
+        },
+        {
+          "prompt": "They looked very SNUG.",
+          "answers": [
+            "confident",
+            "happy",
+            "uneasy",
+            "sleepy",
+            "comfortable"
+          ],
+          "word": "SNUG",
+          "correct": "comfortable"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does a TRAGEDY have a happy ending?",
+          "word": "TRAGEDY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are some PORTIONS larger than others?",
+          "word": "PORTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you INTERRUPT a meeting?",
+          "word": "MOUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a MOUND always huge?",
+          "word": "INTERRUPT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a person who is under a lot of STRESS usually be carefree and happy?",
+          "word": "STRESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do invited guests INTRUDE?",
+          "word": "INTRUDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do businesses like people to NEGLECT to pay their bills?",
+          "word": "NEGLECT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people OBJECT to receiving a present?",
+          "word": "OBJECTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would you RECOMMEND buying a phone that doesn't work?",
+          "word": "RECOMMEND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it POSSIBLE to see something that is invisible?",
+          "word": "POSSIBILITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most people like to get the right SOLUTION to a problem?",
+          "word": "SOLUTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do Americans OBSERVE the Fourth of July as a holiday?",
+          "word": "OBSERVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a movie theater LURE customers by showing terrible movies?",
+          "word": "LURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does it take money to PURCHASE most things?",
+          "word": "PURCHASE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person caught outside in a snowstorm feel SNUG?",
+          "word": "SNUG",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "She is so tender-hearted that even the death of an ant strikes her as TRAGIC.",
+          "word": "TRAGEDY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Please read the PORTION of the story starting on page 35 and ending on page",
+          "word": "PORTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "After the program was over it was INTERRUPTED.",
+          "word": "INTERRUPT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The child made a MOUND of rocks at the beach.",
+          "word": "MOUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "The doctor STRESSED the importance of keeping fit.",
+          "word": "STRESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "She put the \"Do Not Disturb\" sign on her door to prevent any INTRUSIONS.",
+          "word": "INTRUDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He NEGLECTED some of the small details and concentrated on the important problems.",
+          "word": "NEGLECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Their OBJECTION was to make it to the top of the mountain before dark.",
+          "word": "OBJECTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "They RECOMMENDED that we leave early if we wanted to get to the show on time.",
+          "word": "RECOMMEND",
+          "correct": "true"
+        },
+        {
+          "prompt": "We thought that there was no POSSIBILITY that we could lose the game.",
+          "word": "POSSIBILITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her SOLUTION for any problem was to forget about it.",
+          "word": "SOLUTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "He OBSERVED that the days got longer in the springtime.",
+          "word": "OBSERVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We put some food at the bottom of the tree to LURE the kitten down.",
+          "word": "LURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Because he needed money, Tom was forced to PURCHASE his car.",
+          "word": "PURCHASE",
+          "correct": "false"
+        },
+        {
+          "prompt": "She was quite SNUG in her comfortable chair by the fireplace.",
+          "word": "SNUG",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "TRAGEDY",
+          "answers": [
+            "misfortune",
+            "danger",
+            "sorrow"
+          ],
+          "word": "TRAGEDY",
+          "correct": "1"
+        },
+        {
+          "prompt": "PORTION",
+          "answers": [
+            "all",
+            "some",
+            "most"
+          ],
+          "word": "PORTION",
+          "correct": "0"
+        },
+        {
+          "prompt": "INTERRUPT",
+          "answers": [
+            "hear",
+            "stop",
+            "break"
+          ],
+          "word": "MOUND",
+          "correct": "0"
+        },
+        {
+          "prompt": "MOUND",
+          "answers": [
+            "pile",
+            "mountain",
+            "hill"
+          ],
+          "word": "INTERRUPT",
+          "correct": "1"
+        },
+        {
+          "prompt": "STRESS",
+          "answers": [
+            "quality",
+            "importance",
+            "pressure"
+          ],
+          "word": "STRESS",
+          "correct": "0"
+        },
+        {
+          "prompt": "INTRUDE",
+          "answers": [
+            "refuse",
+            "enter",
+            "bother"
+          ],
+          "word": "INTRUDE",
+          "correct": "0"
+        },
+        {
+          "prompt": "NEGLECT",
+          "answers": [
+            "wonder",
+            "forget",
+            "miss"
+          ],
+          "word": "NEGLECT",
+          "correct": "0"
+        },
+        {
+          "prompt": "OBJECTION",
+          "answers": [
+            "disagreement",
+            "insult",
+            "opposition"
+          ],
+          "word": "OBJECTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "RECOMMEND",
+          "answers": [
+            "speak",
+            "praise",
+            "suggest"
+          ],
+          "word": "RECOMMEND",
+          "correct": "0"
+        },
+        {
+          "prompt": "POSSIBILITY",
+          "answers": [
+            "likelihood",
+            "chance",
+            "refusal"
+          ],
+          "word": "POSSIBILITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "SOLUTION",
+          "answers": [
+            "decision",
+            "answer",
+            "test"
+          ],
+          "word": "SOLUTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "OBSERVE",
+          "answers": [
+            "see",
+            "say",
+            "hear"
+          ],
+          "word": "OBSERVE",
+          "correct": "2"
+        },
+        {
+          "prompt": "LURE",
+          "answers": [
+            "attract",
+            "tempt",
+            "attack"
+          ],
+          "word": "LURE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PURCHASE",
+          "answers": [
+            "see",
+            "get",
+            "buy"
+          ],
+          "word": "PURCHASE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SNUG",
+          "answers": [
+            "warm",
+            "tight",
+            "sleepy"
+          ],
+          "word": "SNUG",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "title": "1.1",
+  "definitions": {
+    "DECAY": {
+      "word": "DECAY",
+      "phonetic": "(di-kA')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to rot, spoil, go bad </p><p>DECAY means to <i class=“def-ital\">rot</i> or <i class=“def-ital\">go bad</i>, to <i class=“def-ital\">spoil</i>. The word usually suggests a slow natural change from a good condition to a worse one. The word can be used about physical changes or about the breakdown of the mind, morals, or the like. </p><p>“The apples ripened, fell off the tree, and then DECAYED.” </p><p>“The stink of the DECAYING garbage was overpowering.” </p><p>“His athletic skills had DECAYED from lack of practice.” </p><p>DECAY is also a noun which means <i class=“def-ital\">rot</i> or <i class=“def-ital\">ruin</i>. </p><p>“In that section of town many old houses were abandoned and had fallen into a state of DECAY.” </p><p>“He brushed his teeth every day to prevent tooth DECAY.”</p>"
+    },
+    "MISERABLE": {
+      "word": "MISERABLE",
+      "phonetic": "(miz'-ÔøΩr-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\"> unhappy, wretched, worthless, very uncomfortable </p><p>MISERY is a state of suffering and great unhappiness. </p><p>“They tried to make her feel better, but no one could relieve her MISERY.” </p><p>MISERABLE means “full of MISERY,” <i class=“def-ital\">unhappy</i>.  </p><p>“Her cold made her feel MISERABLE.” </p><p>“The dog was MISERABLE when its master went away.” </p><p>MISERABLE can also mean “causing MISERY,” <i class=“def-ital\">wretched</i>. </p><p>“This MISERABLE rainy weather has got to end.” </p><p>“They lived in MISERABLE conditions in the slum.” </p><p>Other forms of the word: MISERY, n.</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">able</i> under Suffixes."
+      ]
+    },
+    "TREMBLE": {
+      "word": "TREMBLE",
+      "phonetic": "(trem'-bÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shake, shiver, shudder </p><p>TREMBLE means to <i class=“def-ital\">shake</i> or <i class=“def-ital\">shiver</i>, because of fear, cold, anger, or even sickness. </p><p>“He was so angry that his voice TREMBLED when he tried to speak.” </p><p>“When he came out of the water, his lips were blue with cold and he TREMBLED all over.” </p><p>“The needle TREMBLED slightly and then stopped on zero.”</p>"
+    },
+    "TROPHY": {
+      "word": "TROPHY",
+      "phonetic": "(trO'-fE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a prize, award </p><p>A TROPHY is something that is given to a person in memory of a victory or a success. It could be a statue, a medal, a cup, or something similar. </p><p>“He keeps his bowling TROPHIES in a special cabinet.” </p><p>“The TROPHY for the top student is a plaque with his or her name on it.”</p>"
+    },
+    "ELECT": {
+      "word": "ELECT",
+      "phonetic": "(i-lekt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to choose, select by vote, decide upon, pick out </p><p>To ELECT basically means to choose, and is sometimes used in this way: </p><p>“We ELECTED to go home first.” </p><p>Usually, though, ELECT means “to choose among candidates for a political office.” </p><p>“When someone is ELECTED president, he is chosen by the voters to be president.” </p><p>“Alice was ELECTED class treasurer by fifty-seven votes.” </p><p>An ELECTION is an act of choosing. In an ELECTION, voters choose whom they want to be in office. An ELECTIVE course is one which the student may choose to take, as opposed to a course which he is required to take. </p><p>Other forms of the word: ELECTION, n. ELECTIVE, adj.</p>"
+    },
+    "TERRIFY": {
+      "word": "TERRIFY",
+      "phonetic": "(ter'-ÔøΩfl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to scare, frighten, fill with fear </p><p>To TERRIFY someone is to make him extremely scared or frightened, to the point where he almost loses his senses. “He is TERRIFIED of fire.” </p><p>“Don’t TERRIFY the child with those foolish ghost stories.” </p><p>The noun from TERRIFY is TERROR. TERROR is great fear or horror. </p><p>“The sound of the bombs falling filled them with TERROR.” </p><p>“The king ruled not by kindness, but by TERROR.” </p><p>Other forms of the word: TERROR, n.</p>"
+    },
+    "TERRITORY": {
+      "word": "TERRITORY",
+      "phonetic": "{ter'-ÔøΩtor-E)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an area, district, region, land </p><p>A TERRITORY is an area of land belonging to a person or government. Animals also have TERRITORIES, which are the areas they consider theirs, and which they will de- fend against other animals. </p><p>“The backyard fence marks the boundary of my cat’s TERRITORY.” </p><p>“Several tribes held the large TERRITORY in common.” </p><p>Districts assigned to traveling salespeople are called TERRITORIES also. “Mr. Smith’s TERRITORY covers all of New York state outside of New York City.” </p><p>Other forms of the word: TERRITORIAL, adj.</p>"
+    },
+    "THAW": {
+      "word": "THAW",
+      "phonetic": "(tho)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to melt, become liquid, become unfrozen. </p><p>THAW means to <i class=“def-ital\">melt</i>, to <i class=“def-ital\">become unfrozen</i>. </p><p>“It was several weeks before the last of the ice THAWED.” </p><p>“I forgot to THAW the meat for supper.” THAW is often used in a broader sense about feelings that become warmer. </p><p>“They had been enemies for years, but finally relations between them THAWED.” </p><p>THAW is also a noun. “After the spring THAW the streets were inches deep in water.”</p>"
+    },
+    "DEPART": {
+      "word": "DEPART",
+      "phonetic": "{di-pahrt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go away, leave </p><p>To DEPART is to go away. </p><p>“They stayed here for three days and then DE- PARTED.” </p><p>“Our ship DEPARTS next week.” </p><p>“We were having such an enjoyable time at the show that we didn’t want to DEPART.” </p><p>“We DEPARTED from our usual habit of going to bed early.” </p><p>The noun from DEPART is DEPARTURE. </p><p>“The bad weather delayed the plane’s DEPAR- TURE.” </p><p>Other forms of the word: DEPARTURE, n.</p>"
+    },
+    "HOLLER": {
+      "word": "HOLLER",
+      "phonetic": "{hol'-Jr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to yell, shout, cry out </p><p>To HOLLER is to <i class=“def-ital\">shout</i>, to <i class=“def-ital\">make a loud noise</i>, usually because you are excited, unhappy, or want to get someone’s attention. </p><p>“Sally HOLLERED to her friends across the lake.” </p><p>“He HOLLERED for help, but no one came.” “He was so afraid that he started to HOLLER when anyone came near him.” </p><p>“Don’t HOLLER; I can hear you perfectly well.”</p>"
+    },
+    "PARTICIPATE": {
+      "word": "PARTICIPATE",
+      "phonetic": "{pahr-tis'-ÔøΩpAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to take part in, share in </p><p>To PARTICIPATE in something is to <i class=“def-ital\">take part</i> in it. You can see the word <i class=“def-ital\">part</i> in PARTICIPATE. </p><p>“Everyone must PARTICIPATE in the singing.” </p><p>“It’s hard to play a football game if no one else wants to PARTICIPATE.” </p><p>“The teacher asked us to PARTICIPATE in the discussion.” </p><p>A PARTICIPANT is someone who PARTICIPATES. </p><p>“All the PARTICIPANTS in the show should be congratulated.” </p><p>Other forms of the word: PARTICIPANT, n. PARTICIPATION, n. Usage: PARTICIPATE is usually followed by in.</p>"
+    },
+    "RAPID": {
+      "word": "RAPID",
+      "phonetic": "(rap'-id)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">quick, fast, speedy, swift </p><p>RAPID is another word for <i class=“def-ital\">fast</i>. </p><p>“We are making RAPID progress toward solving the problem.” </p><p>“The student gave RAPID answers to all of the teacher’s questions.” </p><p>“We walked RAPIDLY along the dark street.” </p><p>The noun from RAPID is RAPIDITY. </p><p>“Their RAPIDITY makes it hard for us to keep up with them.” </p><p>“We were amazed at the RAPIDITY with which she solved the problem.” </p><p>Other forms of the word: RAPIDITY, n.</p>"
+    },
+    "REFUND": {
+      "word": "REFUND",
+      "phonetic": "(ri-fuhnd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to pay back, repay, give back </p><p>REFUND means to <i class=“def-ital\">pay back</i>.  It is usually used when speaking of money. </p><p>“If you are not fully satisfied with our product, we will cheerfully REFUND your money.” </p><p>“He paid them too much, so they REFUNDED the extra amount to him.” </p><p>REFUND is also a noun, meaning a repayment. </p><p>“She paid too much in taxes to the government, so they sent her a REFUND.” </p><p>When used as a noun, the word is pronounced rE’-fuhnd.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "RESPONSE": {
+      "word": "RESPONSE",
+      "phonetic": "(ri-spons')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an answer, reply </p><p>To RESPOND to something is to say something in return, to <i class=“def-ital\">answer</i>. </p><p>“When asked about her health, she RESPONDED that she had never felt better.” </p><p>RESPONSE is the noun from RESPOND. A RESPONSE is an <i class=“def-ital\">answer</i>, a <i class=“def-ital\">reply</i>. </p><p>“When the teacher asked who had thrown the pencil, there was no RESPONSE.” </p><p>“I asked him if he would go, and his RESPONSE was that it would depend on the weather.” </p><p>A RESPONSE doesn’t have to be spoken. </p><p>“When they asked him a rude question, his RESPONSE was to slam the door in their faces.” </p><p>Other forms of the word: RESPOND, v.</p>"
+    },
+    "SCORCH": {
+      "word": "SCORCH",
+      "phonetic": "(skorch)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to burn slightly To SCORCH something is to burn it slightly, usually just on the surface. Often something that has been SCORCHED turns brown or dries up. </p><p>“The leaves were SCORCHED by the hot sun.” </p><p>“He SCORCHED his shirt when he tried to iron it.” </p><p>“The meat was SCORCHED when she left it in the oven for too long.” </p><p>Other forms of the word: SCORCHING, adj.</p>"
+    }
+  },
+  "id": "1",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Starting to DECAY.",
+          "answers": [
+            "appear",
+            "ripen",
+            "rot",
+            "change",
+            "shrink"
+          ],
+          "word": "DECAY",
+          "correct": "rot"
+        },
+        {
+          "prompt": "Why is she so MISERABLE?",
+          "answers": [
+            "unhappy",
+            "greedy",
+            "glad",
+            "thin",
+            "lonely"
+          ],
+          "word": "MISERABLE",
+          "correct": "unhappy"
+        },
+        {
+          "prompt": "Caused him to TREMBLE.",
+          "answers": [
+            "jump",
+            "stiffen",
+            "fall",
+            "shake",
+            "sweat"
+          ],
+          "word": "TREMBLE",
+          "correct": "shake"
+        },
+        {
+          "prompt": "Lost the TROPHY.",
+          "answers": [
+            "race",
+            "chance",
+            "jewel",
+            "battle",
+            "prize"
+          ],
+          "word": "TROPHY",
+          "correct": "prize"
+        },
+        {
+          "prompt": "Whom did they ELECT?",
+          "answers": [
+            "name",
+            "vote against",
+            "speak to",
+            "hope for",
+            "choose"
+          ],
+          "word": "ELECT",
+          "correct": "choose"
+        },
+        {
+          "prompt": "You TERRIFY her.",
+          "answers": [
+            "please",
+            "scare",
+            "praise",
+            "hurt",
+            "dislike"
+          ],
+          "word": "TERRIFY",
+          "correct": "scare"
+        },
+        {
+          "prompt": "Large TERRITORY.",
+          "answers": [
+            "building",
+            "area",
+            "ocean",
+            "monster",
+            "government"
+          ],
+          "word": "TERRITORY",
+          "correct": "area"
+        },
+        {
+          "prompt": "When will it THAW?",
+          "answers": [
+            "break",
+            "rain",
+            "flow",
+            "melt",
+            "freeze"
+          ],
+          "word": "THAW",
+          "correct": "melt"
+        },
+        {
+          "prompt": "When will you DEPART?",
+          "answers": [
+            "begin",
+            "finish",
+            "leave",
+            "come",
+            "shop"
+          ],
+          "word": "DEPART",
+          "correct": "leave"
+        },
+        {
+          "prompt": "Let them HOLLER.",
+          "answers": [
+            "yell",
+            "sleep",
+            "come",
+            "laugh",
+            "talk"
+          ],
+          "word": "HOLLER",
+          "correct": "yell"
+        },
+        {
+          "prompt": "Will he PARTICIPATE?",
+          "answers": [
+            "lose",
+            "be friendly",
+            "leave",
+            "take part",
+            "be eager"
+          ],
+          "word": "PARTICIPATE",
+          "correct": "take part"
+        },
+        {
+          "prompt": "RAPID workers.",
+          "answers": [
+            "angry",
+            "good",
+            "fast",
+            "slow",
+            "smart"
+          ],
+          "word": "RAPID",
+          "correct": "fast"
+        },
+        {
+          "prompt": "REFUND the money.",
+          "answers": [
+            "spend",
+            "turn down",
+            "give away",
+            "earn",
+            "pay back"
+          ],
+          "word": "REFUND",
+          "correct": "pay back"
+        },
+        {
+          "prompt": "Satisfactory RESPONSE.",
+          "answers": [
+            "pay",
+            "ending",
+            "beginning",
+            "answer",
+            "report"
+          ],
+          "word": "RESPONSE",
+          "correct": "answer"
+        },
+        {
+          "prompt": "He SCORCHED it.",
+          "answers": [
+            "burned",
+            "soaked",
+            "tried",
+            "cut",
+            "dried"
+          ],
+          "word": "SCORCH",
+          "correct": "burned"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do other things besides food DECAY?",
+          "word": "DECAY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most people like to be MISERABLE?",
+          "word": "MISERABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do the leaves of trees TREMBLE when the wind blows through them?",
+          "word": "TREMBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is an Olympic gold medal a TROPHY?",
+          "word": "TROPHY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are governors ELECTED?",
+          "word": "ELECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are some people TERRIFIED of the dark?",
+          "word": "TERRIFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are all TERRITORIES the same size?",
+          "word": "TERRITORY",
+          "correct": "false"
+        },
+        {
+          "prompt": "If you take frozen food out of the freezer, will it THAW?",
+          "word": "THAW",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people usually say \"Hello\" when they DEPART?",
+          "word": "DEPART",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people usually HOLLER in the library?",
+          "word": "HOLLER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are people who are watching a baseball game PARTICIPATING in it?",
+          "word": "PARTICIPATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is someone who learns a language in a few months a RAPID learner?",
+          "word": "RAPID",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a store usually REFUND your money if you returned an item that you had broken?",
+          "word": "REFUND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a wink be a RESPONSE?",
+          "word": "RESPONSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a piece of paper be SCORCHED?",
+          "word": "SCORCH",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "She DECAYED it until it was all used up.",
+          "word": "DECAY",
+          "correct": "false"
+        },
+        {
+          "prompt": "I'm sorry I hurt you; I didn't mean to make you MISERABLE.",
+          "word": "MISERABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She TREMBLED the cup of coffee onto the floor.",
+          "word": "TREMBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Each year the winning team receives a large TROPHY.",
+          "word": "TROPHY",
+          "correct": "true"
+        },
+        {
+          "prompt": "They gave us a choice, so we ELECTED to stay here.",
+          "word": "ELECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The news that there was no school today filled us all with TERROR.",
+          "word": "TERRIFY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The explorers came upon a TERRITORY they had never heard of before.",
+          "word": "TERRITORY",
+          "correct": "true"
+        },
+        {
+          "prompt": "When the temperature dropped below zero, everything began to THAW.",
+          "word": "THAW",
+          "correct": "false"
+        },
+        {
+          "prompt": "Their DEPARTURE was a sad event for those of us who stayed behind.",
+          "word": "DEPART",
+          "correct": "true"
+        },
+        {
+          "prompt": "She HOLLERED for help when she saw the monster.",
+          "word": "HOLLER",
+          "correct": "true"
+        },
+        {
+          "prompt": "They wanted the whole school to PARTICIPATE in selecting a nickname for the team.",
+          "word": "PARTICIPATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He became very RAPID whenever anyone disagreed with him.",
+          "word": "RAPID",
+          "correct": "false"
+        },
+        {
+          "prompt": "If you mail in this coupon, we will send you a fifty-cent REFUND.",
+          "word": "REFUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "We had to wait three weeks for a RESPONSE to our request for a new telephone.",
+          "word": "RESPONSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They SCORCHED the sink so that it would be completely clean.",
+          "word": "SCORCH",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "DECAY",
+          "answers": [
+            "spoil",
+            "rot",
+            "wait"
+          ],
+          "word": "DECAY",
+          "correct": "2"
+        },
+        {
+          "prompt": "MISERABLE",
+          "answers": [
+            "short",
+            "lonely",
+            "sad"
+          ],
+          "word": "MISERABLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "TREMBLE",
+          "answers": [
+            "fear",
+            "shake",
+            "eat"
+          ],
+          "word": "TREMBLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "TROPHY",
+          "answers": [
+            "award",
+            "medal",
+            "name"
+          ],
+          "word": "TROPHY",
+          "correct": "2"
+        },
+        {
+          "prompt": "ELECT",
+          "answers": [
+            "write",
+            "vote",
+            "pick"
+          ],
+          "word": "ELECT",
+          "correct": "0"
+        },
+        {
+          "prompt": "TERRIFY",
+          "answers": [
+            "frighten",
+            "anger",
+            "scare"
+          ],
+          "word": "TERRIFY",
+          "correct": "1"
+        },
+        {
+          "prompt": "TERRITORY",
+          "answers": [
+            "rock",
+            "district",
+            "land"
+          ],
+          "word": "TERRITORY",
+          "correct": "0"
+        },
+        {
+          "prompt": "THAW",
+          "answers": [
+            "heat",
+            "harden",
+            "melt"
+          ],
+          "word": "THAW",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEPART",
+          "answers": [
+            "go",
+            "leave",
+            "run"
+          ],
+          "word": "DEPART",
+          "correct": "2"
+        },
+        {
+          "prompt": "HOLLER",
+          "answers": [
+            "shout",
+            "scream",
+            "laugh"
+          ],
+          "word": "HOLLER",
+          "correct": "2"
+        },
+        {
+          "prompt": "PARTICIPATE",
+          "answers": [
+            "know",
+            "join",
+            "share"
+          ],
+          "word": "PARTICIPATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "RAPID",
+          "answers": [
+            "fast",
+            "crawling",
+            "swift"
+          ],
+          "word": "RAPID",
+          "correct": "1"
+        },
+        {
+          "prompt": "REFUND",
+          "answers": [
+            "earn",
+            "repay",
+            "return"
+          ],
+          "word": "REFUND",
+          "correct": "0"
+        },
+        {
+          "prompt": "RESPONSE",
+          "answers": [
+            "letter",
+            "time",
+            "answer"
+          ],
+          "word": "RESPONSE",
+          "correct": "1"
+        },
+        {
+          "prompt": "SCORCH",
+          "answers": [
+            "burn",
+            "grow",
+            "blister"
+          ],
+          "word": "SCORCH",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "title": "5.2",
+  "definitions": {
+    "OBSESS": {
+      "word": "OBSESS",
+      "phonetic": "(ob-ses')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to trouble continuously, haunt, beset </p><p>OBSESS was originally used about an army besieging a town or a fortress, or an evil spirit haunting or possessing a person. From these uses the word has developed its current sense, “to trouble or distress continuously, to influence unreasonably.” Now OBSESS is only used about ideas, fears, emotions, and other mental actions. </p><p>“She was OBSESSED by the idea that someone was out to kill her.” </p><p>“These suspicions OBSESSED him so much that he couldn’t sleep at night.” </p><p>“We were OBSESSED with the desire to become state champions.” </p><p>Other forms of the word: OBSESSION, n. OBSESSIVE, adj.</p>"
+    },
+    "EXULT": {
+      "word": "EXULT",
+      "phonetic": "(eg-zuhlt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to rejoice, be very glad, be elated </p><p>EXULT comes from a Latin word meaning to <i class=“def-ital\">leap up.</i> Someone who EXULTS is so happy that he could jump for joy. EXULT means about the same as <i class=“def-ital\">rejoice,</i> but EXULT is even stronger, suggesting happiness and triumph that can scarcely be contained. </p><p>“We EXULTED over winning the championship.” </p><p>“They EXULTED in their good luck.” </p><p>EXULTATION is the noun from EXULT, meaning <i class=“def-ital\">great joy, jubilation.</i> </p><p>“We were full of EXULTATION when we passed the course.” </p><p>EXULTANT is the adjective from EXULT. </p><p>“The crowd was EXULTANT over the news.” </p><p>Other forms of the word: EXULTANT, adj. EXULTATION, n.</p>"
+    },
+    "MEDITATE": {
+      "word": "MEDITATE",
+      "phonetic": "(med'-::>-tAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to reflect, think, contemplate, ponder </p><p>To MEDITATE is to think deeply and seriously. </p><p>“He used to take long walks and MEDITATE upon the meaning of life.” </p><p>“She wanted to take some time to MEDITATE on these problems before making a decision.” </p><p>To MEDITATE something is to consider it or plan it in your mind. </p><p>“He MEDITATED revenge for all the wrongs that had been done to him.” </p><p>Other forms of the word: MEDITATION, n. MEDITATIVE, adj. </p><p>Usage: MEDITATE is often followed by <i class=“def-ital\">on or upon.</i></p>"
+    },
+    "DISINTEGRATE": {
+      "word": "DISINTEGRATE",
+      "phonetic": "(dis-in'-tÔøΩgrAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to break up, fall apart </p><p>When something DISINTEGRATES, it breaks up into small pieces.  </p><p>“The building DISINTEGRATED from the force of the explosion.” </p><p>“The rocks slowly DISINTEGRATED after centuries of storms and heat.” </p><p>To DISINTEGRATE something is to break it apart. </p><p>“One blow of his ax DISINTEGRATED the table.” </p><p>The most commonly marked incorrect answer on the Pre- test is <i class=“def-ital\">go away,</i> perhaps because DISINTEGRATE looks a little like <i class=“def-ital\">disappear.</i> Other forms of the word: DISINTEGRATION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    },
+    "SUMMIT": {
+      "word": "SUMMIT",
+      "phonetic": "(suhm'-it)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the top, highest point, acme </p><p>The SUMMIT is the peak or highest point of something. </p><p>“After hours of climbing they reached the SUMMIT of the mountain.” </p><p>“He was at the SUMMIT of his powers when he was struck down by the illness.” </p><p>A SUMMIT <i class=“def-ital\">talk</i> or SUMMIT <i class=“def-ital\">meeting</i> is a conference of the highest-level officials of governments, such as the president of the United States and the prime minister of Great Britain.</p>"
+    },
+    "PROFICIENT": {
+      "word": "PROFICIENT",
+      "phonetic": "(pr::>-fish'-gnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">skillful, expert, adept </p><p>PROFICIENT means <i class=“def-ital\">very skilled</i> or <i class=“def-ital\">expert</i> at doing something. The word usually suggests that this skill is the result of training and practice. </p><p>“She worked hard to become a PROFICIENT typist.” </p><p>“Bob is very PROFICIENT at gardening. His roses have won prizes.” </p><p>“Sally is quite PROFICIENT in the art of making up excuses. She always has one ready when she hasn’t done something she’s supposed to do.” </p><p>The noun from PROFICIENT is PROFICIENCY, which means <i class=“def-ital\">skill.</i> </p><p>“She lacks PROFICIENCY in speaking a foreign language, but otherwise she’s perfect for the job.” </p><p>Other forms of the word: PROFICIENCY, n.</p>"
+    },
+    "CHRONIC": {
+      "word": "CHRONIC",
+      "phonetic": "(kron'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">constant, continual, long- lasting </p><p>CHRONIC comes from the Greek word for <i class=“def-ital\">time.</i> Some- thing that is CHRONIC lasts for a long time without change. The word is used especially about diseases or conditions which are difficult to cure or improve. </p><p>“She has CHRONIC arthritis in her hands and is con- stantly in pain.” </p><p>“The school was hampered by a CHRONIC shortage of money.” </p><p>CHRONIC is also used about a person who has a constant habit or disease. </p><p>“He is a CHRONIC complainer. He is always finding fault with something.” </p><p>“He has been a CHRONIC cigarette smoker for thirty years.” </p><p>The most popular wrong answer on the Pretest is <i class=“def-ital\">medical,</i> probably because CHRONIC is used so often about diseases. People who choose <i class=“def-ital\">medical</i> have seen the word CHRONIC used, but haven’t been able to narrow it down to its specific meaning.</p>"
+    },
+    "INDUCE": {
+      "word": "INDUCE",
+      "phonetic": "(in-dUs')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to persuade, influence, prevail upon; to bring about, cause </p><p>To INDUCE someone to do something is to lead or cause him to do it, usually by showing him the advantages that will result. </p><p>“We finally INDUCED him to be quiet by offering him an ice cream cone.” </p><p>“Nothing would INDUCE her to enter the haunted house.” </p><p>When used about things, INDUCE means to <i class=“def-ital\">bring about</i> or <i class=“def-ital\">cause.</i> </p><p>“His illness was INDUCED by poison gas.” </p><p>“The drug INDUCED a state of sleepiness.” </p><p>An INDUCEMENT is something which INDUCES, a <i class=“def-ital\">motive</i> or <i class=“def-ital\">incentive.</i> </p><p>“We offered to double his salary as an INDUCE- MENT for him to join our company.” </p><p>Other forms of the word: INDUCEMENT, n.</p>"
+    },
+    "PUNY": {
+      "word": "PUNY",
+      "phonetic": "(pyU'-nE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">feeble, weak, small </p><p>Someone who is PUNY is smaller and weaker than normal. The word is usually used in an insulting manner. PUNY is also used about things and actions, and means <i class=“def-ital\">insignificant, petty.</i> </p><p>“Although very PUNY at birth, the puppy survived to become a champion.” </p><p>“His PUNY efforts to entertain the group were a complete flop.” </p><p>“They said he was too PUNY to make the football team.”</p>"
+    },
+    "PRECINCT": {
+      "word": "PRECINCT",
+      "phonetic": "(prE'-singkt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a district, region </p><p>A PRECINCT is an <i class=“def-ital\">area</i> or <i class=“def-ital\">district.</i> In the United States, PRECINCT is most often used about a particular section of a town or city used for election or administrative purposes. </p><p>“We vote in the twelfth PRECINCT.” </p><p>“The policeman worked in the fourth PRECINCT.” </p><p>The word is also used in the plural for any area bounded by walls or other limits. </p><p>“You are now within the sacred PRECINCTS of the temple.” </p><p>Or the word can mean “the area immediately surrounding a place.” </p><p>“The king allowed no commoners in the PRECINCTS of his castle.”</p>"
+    },
+    "CLICHE": {
+      "word": "CLICHE",
+      "phonetic": "(klE-shA')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a trite phrase, worn-out expression </p><p>Note the pronunciation. </p><p>A CLICHE is a phrase or expression which has been used so much that it has become trite, worn out, and stale. </p><p>“His speech was so full of CLICHES that we wondered if he had ever had one original thought.” </p><p>“You must try to avoid using CLICHES in your com- positions. Think of new ways to express your ideas.” </p><p>Some examples of CLICHES are “fresh as a daisy,” “last but not least,” “pretty as a picture,” and “hook, line, and sinker.”</p>"
+    },
+    "SULLEN": {
+      "word": "SULLEN",
+      "phonetic": "(suhl'-::m)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">gloomy, ill-humored, sulky </p><p>Someone who is SULLEN is moody, silent, and often bad-tempered. </p><p>“He was a SULLEN boy who always acted as if you had just insulted him.” </p><p>“Jane became very SULLEN when her parents refused to let her go to the party.” </p><p>“He gave them a SULLEN look and walked out of the house, slamming the door behind him.” </p><p>When used about things, SULLEN means <i class=“def-ital\">gloomy</i> or <i class=“def-ital\">dismal.</i> </p><p>“The sky was dark and SULLEN. It looked like rain.”</p>"
+    },
+    "PROLOGUE": {
+      "word": "PROLOGUE",
+      "phonetic": "(prO'-log)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an introduction </p><p>A PROLOGUE is an introduction, especially one that comes before the beginning of a book or a play.  </p><p>“We recited the PROLOGUE to the Declaration of In- dependence.” </p><p>“Even though this book itself is very interesting, its PROLOGUE is very dull.” </p><p>PROLOGUE can also be used loosely about the introduction or first part of something. </p><p>“This small battle was a PROLOGUE to the long war that was about to start.” </p><p>Usage: PROLOGUE is sometimes spelled PROLOG.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">pro-</i> under Prefixes."
+      ]
+    },
+    "RELATE": {
+      "word": "RELATE",
+      "phonetic": "(ri-lAt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to tell; to connect logically </p><p>RELATE is used in two different ways. To RELATE a story or experience is to tell it, to give an account of it. </p><p>“He RELATED how he had come to be president of the company.” </p><p>“She RELATED the story of the Headless Horseman.” </p><p>To RELATE one thing <i class=“def-ital\">to</i> another thing is to make or show a connection, or relationship, between them. </p><p>“It is hard to RELATE your results to what we already know.” </p><p>In an extended sense, when used about a person RE- LATE means “to have a meaningful RELATIONSHIP.” </p><p>“Helen found that she could RELATE very well to Phil even though he was much older.” </p><p>RELATED is an adjective which means <i class=“def-ital\">connected.</i> </p><p>“We didn’t know the two events were RELATED until much later.” People who are RELATED are connected by blood. “We are distantly RELATED. She is my third cousin.” </p><p>Other forms of the word: RELATED, adj. RELATIONSHIP, n.</p>"
+    },
+    "INTIMATE": {
+      "word": "INTIMATE",
+      "phonetic": "(in'-t::>-mit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">very close, personal, private </p><p>INTIMATE is used in several senses, all with the general meaning of <i class=“def-ital\">close, personal, private. INTIMATE friends are very close, very deep friends. An INTIMATE conversation is a private, personal talk that you would not want to be overheard. A person who has an INTIMATE knowledge of a subject knows it extremely well, is deeply familiar with it. The INTIMATE details of an event or a per- son’s life are the private, secret matters that few people know about. </p><p>“The mechanic had an INTIMATE understanding of how cars work.” </p><p>“No one ever learned the INTIMATE secrets of her life.” </p><p>Other forms of the word: INTIMACY, n.</p>"
+    }
+  },
+  "id": "2",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Began to OBSESS him.",
+          "answers": [
+            "leave",
+            "hurt",
+            "upset",
+            "hate",
+            "haunt"
+          ],
+          "word": "OBSESS",
+          "correct": "haunt"
+        },
+        {
+          "prompt": "To EXULT over it.",
+          "answers": [
+            "worry",
+            "argue",
+            "cry",
+            "rejoice",
+            "laugh"
+          ],
+          "word": "EXULT",
+          "correct": "rejoice"
+        },
+        {
+          "prompt": "Time to MEDITATE.",
+          "answers": [
+            "speak",
+            "decide",
+            "reflect",
+            "get better",
+            "sleep"
+          ],
+          "word": "MEDITATE",
+          "correct": "reflect"
+        },
+        {
+          "prompt": "Starting to DISINTEGRATE.",
+          "answers": [
+            "break up",
+            "come together",
+            "shake",
+            "age",
+            "go away"
+          ],
+          "word": "DISINTEGRATE",
+          "correct": "break up"
+        },
+        {
+          "prompt": "Near the SUMMIT.",
+          "answers": [
+            "side",
+            "middle",
+            "end",
+            "bottom",
+            "top"
+          ],
+          "word": "SUMMIT",
+          "correct": "top"
+        },
+        {
+          "prompt": "Very PROFICIENT.",
+          "answers": [
+            "clumsy",
+            "expensive",
+            "skillful",
+            "lovely",
+            "friendly"
+          ],
+          "word": "PROFICIENT",
+          "correct": "skillful"
+        },
+        {
+          "prompt": "CHRONIC problems.",
+          "answers": [
+            "constant",
+            "medical",
+            "new",
+            "past",
+            "foolish"
+          ],
+          "word": "CHRONIC",
+          "correct": "constant"
+        },
+        {
+          "prompt": "We INDUCED him to go.",
+          "answers": [
+            "begged",
+            "persuaded",
+            "forced",
+            "allowed",
+            "helped"
+          ],
+          "word": "INDUCE",
+          "correct": "persuaded"
+        },
+        {
+          "prompt": "PUNY men.",
+          "answers": [
+            "comical",
+            "mighty",
+            "sad",
+            "feeble",
+            "bad-smelling"
+          ],
+          "word": "PUNY",
+          "correct": "feeble"
+        },
+        {
+          "prompt": "Various PRECINCTS.",
+          "answers": [
+            "towns",
+            "policemen",
+            "districts",
+            "examples",
+            "jails"
+          ],
+          "word": "PRECINCT",
+          "correct": "districts"
+        },
+        {
+          "prompt": "Another CLICHE.",
+          "answers": [
+            "French recipe",
+            "average person",
+            "joke",
+            "old speech",
+            "trite phrase"
+          ],
+          "word": "CLICHE",
+          "correct": "trite phrase"
+        },
+        {
+          "prompt": "SULLEN men.",
+          "answers": [
+            "evil",
+            "cheerful",
+            "gloomy",
+            "thoughtful",
+            "selfish"
+          ],
+          "word": "SULLEN",
+          "correct": "gloomy"
+        },
+        {
+          "prompt": "Read the PROLOGUE.",
+          "answers": [
+            "plan",
+            "introduction",
+            "speech",
+            "play",
+            "ending"
+          ],
+          "word": "PROLOGUE",
+          "correct": "introduction"
+        },
+        {
+          "prompt": "He RELATED the story.",
+          "answers": [
+            "waited for",
+            "told",
+            "thought up",
+            "heard",
+            "knew"
+          ],
+          "word": "RELATE",
+          "correct": "told"
+        },
+        {
+          "prompt": "INTIMATE conversation.",
+          "answers": [
+            "serious",
+            "general",
+            "important",
+            "long",
+            "private"
+          ],
+          "word": "INTIMATE",
+          "correct": "private"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Could the desire to make money OBSESS a person?",
+          "word": "OBSESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an EXULTANT person be angry?",
+          "word": "EXULT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you MEDITATE upon something you don't understand?",
+          "word": "MEDITATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you DISINTEGRATE glass with a hammer?",
+          "word": "DISINTEGRATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do mountains have SUMMITS?",
+          "word": "SUMMIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should a doctor be PROFICIENT?",
+          "word": "PROFICIENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a CHRONIC problem usually be solved easily?",
+          "word": "CHRONIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can pepper INDUCE sneezing in people?",
+          "word": "INDUCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a PUNY person be able to lift heavy weights?",
+          "word": "PUNY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can people live in a PRECINCT?",
+          "word": "PRECINCT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could the phrase \"cold as ice\" be considered a CLICHE?",
+          "word": "CLICHE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a child be SULLEN?",
+          "word": "SULLEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do PROLOGUES come at the end?",
+          "word": "PROLOGUE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are brothers RELATED?",
+          "word": "RELATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most people have hundreds of INTIMATE friends?",
+          "word": "INTIMATE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He ordered them to OBSESS their poor behavior.",
+          "word": "OBSESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The good news was so unexpected that they couldn't hide their EXULTATION.",
+          "word": "EXULT",
+          "correct": "true"
+        },
+        {
+          "prompt": "For a long time she has MEDITATED quitting her job.",
+          "word": "MEDITATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They said they were DISINTEGRATED and wouldn't be able to go to the movies.",
+          "word": "DISINTEGRATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Jim gave a quick SUMMIT of his reasons for leaving.",
+          "word": "SUMMIT",
+          "correct": "false"
+        },
+        {
+          "prompt": "He is not very PROFICIENT in math, so I doubt that he'll want to become an engineer.",
+          "word": "PROFICIENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bill is a CHRONIC liar. He only lies when he absolutely has to.",
+          "word": "CHRONIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "They INDUCED the number of students by transferring some to another school.",
+          "word": "INDUCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "What a PUNY chicken; there's very little meat on its bones.",
+          "word": "PUNY",
+          "correct": "true"
+        },
+        {
+          "prompt": "More than half of the crimes in the city are committed in that one PRECINCT.",
+          "word": "PRECINCT",
+          "correct": "true"
+        },
+        {
+          "prompt": "His speech was so full of CLICHES that I don't think he wrote one original line himself.",
+          "word": "CLICHE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The SULLEN sky seemed to add to our unhappiness.",
+          "word": "SULLEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "As a PROLOGUE to the fashion show there was a brief speech about the history of clothes.",
+          "word": "PROLOGUE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We must speed things up. The project has become very RELATED recently.",
+          "word": "RELATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He developed an INTIMATE understanding of how governments work.",
+          "word": "INTIMATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "OBSESS",
+          "answers": [
+            "trouble",
+            "pretend",
+            "worry"
+          ],
+          "word": "OBSESS",
+          "correct": "1"
+        },
+        {
+          "prompt": "EXULT",
+          "answers": [
+            "elate",
+            "amuse",
+            "delight"
+          ],
+          "word": "EXULT",
+          "correct": "1"
+        },
+        {
+          "prompt": "MEDITATE",
+          "answers": [
+            "discuss",
+            "contemplate",
+            "wonder"
+          ],
+          "word": "MEDITATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISINTEGRATE",
+          "answers": [
+            "tremble",
+            "break",
+            "crash"
+          ],
+          "word": "DISINTEGRATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SUMMIT",
+          "answers": [
+            "greatest",
+            "newest",
+            "highest"
+          ],
+          "word": "SUMMIT",
+          "correct": "1"
+        },
+        {
+          "prompt": "PROFICIENT",
+          "answers": [
+            "competent",
+            "generous",
+            "capable"
+          ],
+          "word": "PROFICIENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "CHRONIC",
+          "answers": [
+            "temporary",
+            "continued",
+            "habitual"
+          ],
+          "word": "CHRONIC",
+          "correct": "0"
+        },
+        {
+          "prompt": "INDUCE",
+          "answers": [
+            "cause",
+            "influence",
+            "improve"
+          ],
+          "word": "INDUCE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PUNY",
+          "answers": [
+            "weak",
+            "young",
+            "small"
+          ],
+          "word": "PUNY",
+          "correct": "1"
+        },
+        {
+          "prompt": "PRECINCT",
+          "answers": [
+            "source",
+            "area",
+            "section"
+          ],
+          "word": "PRECINCT",
+          "correct": "0"
+        },
+        {
+          "prompt": "CLICHE",
+          "answers": [
+            "overused",
+            "stale",
+            "ancient"
+          ],
+          "word": "CLICHE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SULLEN",
+          "answers": [
+            "cross",
+            "afraid",
+            "glum"
+          ],
+          "word": "SULLEN",
+          "correct": "1"
+        },
+        {
+          "prompt": "PROLOGUE",
+          "answers": [
+            "beginning",
+            "decision",
+            "preparation"
+          ],
+          "word": "PROLOGUE",
+          "correct": "1"
+        },
+        {
+          "prompt": "RELATE",
+          "answers": [
+            "remember",
+            "tell",
+            "connect"
+          ],
+          "word": "RELATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "INTIMATE",
+          "answers": [
+            "personal",
+            "close",
+            "unusual"
+          ],
+          "word": "INTIMATE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

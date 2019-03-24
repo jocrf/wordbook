@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABJECT",
+      "answer": "abject"
+    },
+    {
+      "word": "AMBIENCE",
+      "answer": "ambience"
+    },
+    {
+      "word": "BLITHE",
+      "answer": "blithe or ebullient"
+    },
+    {
+      "word": "CATACLYSM",
+      "answer": "cataclysms"
+    },
+    {
+      "word": "CATARACT",
+      "answer": "cataract"
+    },
+    {
+      "word": "CHOLERIC",
+      "answer": "choleric or peevish or petulant"
+    },
+    {
+      "word": "CHURLISH",
+      "answer": "churlish"
+    },
+    {
+      "word": "DAUNT",
+      "answer": "daunted"
+    },
+    {
+      "word": "DEMISE",
+      "answer": "demise"
+    },
+    {
+      "word": "DILATE",
+      "answer": "dilates"
+    },
+    {
+      "word": "DIRE",
+      "answer": "dire"
+    },
+    {
+      "word": "DOLOROUS",
+      "answer": "dolorous"
+    },
+    {
+      "word": "DULCET",
+      "answer": "dulcet"
+    },
+    {
+      "word": "EBULLIENCE",
+      "answer": "ebullience"
+    },
+    {
+      "word": "FLACCID",
+      "answer": "flaccid"
+    },
+    {
+      "word": "FRETFUL",
+      "answer": "fretful or churlish"
+    },
+    {
+      "word": "HAPLESS",
+      "answer": "hapless"
+    },
+    {
+      "word": "HIATUS",
+      "answer": "hiatus"
+    },
+    {
+      "word": "HINTERLAND",
+      "answer": "hinterland"
+    },
+    {
+      "word": "IMBROGLIO",
+      "answer": "imbroglio"
+    },
+    {
+      "word": "INCULCATE",
+      "answer": "inculcate"
+    },
+    {
+      "word": "INFINITESIMAL",
+      "answer": "infinitesimal"
+    },
+    {
+      "word": "LASSITUDE",
+      "answer": "lassitude"
+    },
+    {
+      "word": "MESMERIZE",
+      "answer": "mesmerized"
+    },
+    {
+      "word": "MISCREANT",
+      "answer": "miscreant"
+    },
+    {
+      "word": "NOXIOUS",
+      "answer": "noxious"
+    },
+    {
+      "word": "OBFUSCATE",
+      "answer": "obfuscate"
+    },
+    {
+      "word": "OBSEQUIOUS",
+      "answer": "obsequious"
+    },
+    {
+      "word": "OBSTREPEROUS",
+      "answer": "obstreperous or vociferous"
+    },
+    {
+      "word": "OSSIFY",
+      "answer": "ossified"
+    },
+    {
+      "word": "PARSIMONIOUS",
+      "answer": "parsimonious"
+    },
+    {
+      "word": "PEEVISH",
+      "answer": "peevish or petulant or choleric"
+    },
+    {
+      "word": "PETULANT",
+      "answer": "petulant or peevish or obstreperous"
+    },
+    {
+      "word": "PORTEND",
+      "answer": "portended"
+    },
+    {
+      "word": "POTABLE",
+      "answer": "potable"
+    },
+    {
+      "word": "PRODIGY",
+      "answer": "prodigy"
+    },
+    {
+      "word": "PROGENY",
+      "answer": "progeny"
+    },
+    {
+      "word": "PROTRACT",
+      "answer": "protract"
+    },
+    {
+      "word": "QUAFF",
+      "answer": "quaff"
+    },
+    {
+      "word": "REMUNERATE",
+      "answer": "remunerate"
+    },
+    {
+      "word": "REVERIE",
+      "answer": "reverie"
+    },
+    {
+      "word": "SAGACIOUS",
+      "answer": "sagacious"
+    },
+    {
+      "word": "TENET",
+      "answer": "tenets"
+    },
+    {
+      "word": "TIMOROUS",
+      "answer": "timorous"
+    },
+    {
+      "word": "VOCIFEROUS",
+      "answer": "vociferous or obstreperous"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "Our parents tried to",
+      "part2": "in us a sense of responsibility for our actions.",
+      "correct": "inculcate",
+      "word": "INCULCATE"
+    },
+    {
+      "part1": "The youthful",
+      "part2": "was found guilty of armed robbery, assault with a dangerous weapon, and car theft.",
+      "correct": "miscreant",
+      "word": "MISCREANT"
+    },
+    {
+      "part1": "As a child John Stuart Mill was quite a(n)",
+      "part2": "; he could speak Latin and Greek by the age of five.",
+      "correct": "prodigy",
+      "word": "PRODIGY"
+    },
+    {
+      "part1": "Instead of clarifying the complex issue, her remarks served only to",
+      "part2": "it further.",
+      "correct": "obfuscate",
+      "word": "OBFUSCATE"
+    },
+    {
+      "part1": "Nothing",
+      "part2": "us; we were determined to succeed, and ultimately we did.",
+      "correct": "daunted",
+      "word": "DAUNT"
+    },
+    {
+      "part1": "He tried to",
+      "part2": "his stay because he had no place else to live.",
+      "correct": "protract",
+      "word": "PROTRACT"
+    },
+    {
+      "part1": "One of the",
+      "part2": "of this political party is: \"the less government, the better.\"",
+      "correct": "tenets",
+      "word": "TENET"
+    },
+    {
+      "part1": "In her quiet",
+      "part2": ", dreams and images and memories floated through her mind.",
+      "correct": "reverie",
+      "word": "REVERIE"
+    },
+    {
+      "part1": "The leader of the search party said that even if there was only a(n)",
+      "part2": "chance of finding any survivors, they would continue to look.",
+      "correct": "infinitesimal",
+      "word": "INFINITESIMAL"
+    },
+    {
+      "part1": "There was a(n)",
+      "part2": "of several years between the completion of the novel and its publication.",
+      "correct": "hiatus",
+      "word": "HIATUS"
+    },
+    {
+      "part1": "The",
+      "part2": "over who had the right to use the parking space soon involved everyone in the office.",
+      "correct": "imbroglio",
+      "word": "IMBROGLIO"
+    },
+    {
+      "part1": "The",
+      "part2": "salesclerk told them to hurry up and make up their minds.",
+      "correct": "churlish",
+      "word": "CHURLISH"
+    },
+    {
+      "part1": "There is no need to",
+      "part2": "us for our services; we are happy to donate them.",
+      "correct": "remunerate",
+      "word": "REMUNERATE"
+    },
+    {
+      "part1": "The",
+      "part2": "stockbroker knew from long experience exactly the right times to buy and sell.",
+      "correct": "sagacious",
+      "word": "SAGACIOUS"
+    },
+    {
+      "part1": "He would sit for hours,",
+      "part2": "by the constantly shifting pattern of shadows on the wall.",
+      "correct": "mesmerized",
+      "word": "MESMERIZE"
+    },
+    {
+      "part1": "They expected her to",
+      "part2": "the whole drink, but she only took one sip.",
+      "correct": "quaff",
+      "word": "QUAFF"
+    },
+    {
+      "part1": "When Sally was overtired, she became",
+      "part2": "and would snap at everyone.",
+      "correct": "fretful or churlish",
+      "word": "FRETFUL"
+    },
+    {
+      "part1": "Even though he had plenty of money, the",
+      "part2": "man kept track of every nickel he spent.",
+      "correct": "parsimonious",
+      "word": "PARSIMONIOUS"
+    },
+    {
+      "part1": "Earthquakes, volcanic eruptions, and other",
+      "part2": "were seen as evidence of God's displeasure.",
+      "correct": "cataclysms",
+      "word": "CATACLYSM"
+    },
+    {
+      "part1": "After the dictator's",
+      "part2": ", his followers battled to determine who would succeed him.",
+      "correct": "demise",
+      "word": "DEMISE"
+    },
+    {
+      "part1": "The family lived in such",
+      "part2": "poverty they could not afford new clothing. ",
+      "correct": "abject",
+      "word": "ABJECT"
+    },
+    {
+      "part1": "George Washington had no children of his own, but in a sense all Americans can be considered his",
+      "part2": ".",
+      "correct": "progeny",
+      "word": "PROGENY"
+    },
+    {
+      "part1": "The hotel tried to create a romantic",
+      "part2": "for the many newlyweds who stayed there.",
+      "correct": "ambience",
+      "word": "AMBIENCE"
+    },
+    {
+      "part1": "His problems during the first day of vacation",
+      "part2": "a disagreeable two weeks.",
+      "correct": "portended",
+      "word": "PORTEND"
+    },
+    {
+      "part1": "Over the years his mind has",
+      "part2": ", and he never has any new ideas.",
+      "correct": "ossified",
+      "word": "OSSIFY"
+    },
+    {
+      "part1": "When Jill saw how",
+      "part2": "her body had become, she decided it was time to do some serious exercising.",
+      "correct": "flaccid",
+      "word": "FLACCID"
+    },
+    {
+      "part1": "We listened to Sam's",
+      "part2": "tale about all the misfortunes that had befallen him.",
+      "correct": "dolorous",
+      "word": "DOLOROUS"
+    },
+    {
+      "part1": "The",
+      "part2": "child cried and complained whenever he didn't get his own way.",
+      "correct": "petulant or peevish or obstreperous",
+      "word": "PETULANT"
+    },
+    {
+      "part1": "The wine was bitter but",
+      "part2": "; we managed to finish the bottle.",
+      "correct": "potable",
+      "word": "POTABLE"
+    },
+    {
+      "part1": "The",
+      "part2": "lady complained constantly about everything.",
+      "correct": "peevish or petulant or choleric",
+      "word": "PEEVISH"
+    },
+    {
+      "part1": "The",
+      "part2": "audience started shouting and demanding their money back when the film projector broke.",
+      "correct": "vociferous or obstreperous",
+      "word": "VOCIFEROUS"
+    },
+    {
+      "part1": "Her",
+      "part2": ", sunny disposition made it seem as if she didn't have a problem in the world.",
+      "correct": "blithe or ebullient",
+      "word": "BLITHE"
+    },
+    {
+      "part1": "We listened with pleasure to the",
+      "part2": "sounds of the mother crooning a lullaby to her baby.",
+      "correct": "dulcet",
+      "word": "DULCET"
+    },
+    {
+      "part1": ". The sudden hundred-foot drop turned the peaceful river into a dangerous",
+      "part2": ".",
+      "correct": "cataract",
+      "word": "CATARACT"
+    },
+    {
+      "part1": "Sarah was so",
+      "part2": "that she was afraid to complain when the waitress brought her the wrong order.",
+      "correct": "timorous",
+      "word": "TIMOROUS"
+    },
+    {
+      "part1": "The",
+      "part2": "gas leaking from the chemical factory caused authorities to evacuate the area.",
+      "correct": "noxious",
+      "word": "NOXIOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "man would explode with anger at the slightest provocation.",
+      "correct": "choleric or peevish or petulant",
+      "word": "CHOLERIC"
+    },
+    {
+      "part1": "The",
+      "part2": "spectators became so loud and unruly that the quarterback couldn't be heard by his team.",
+      "correct": "obstreperous or vociferous",
+      "word": "OBSTREPEROUS"
+    },
+    {
+      "part1": "The Red Cross said there was a(n)",
+      "part2": "need for medical supplies in the flood-stricken area.",
+      "correct": "dire",
+      "word": "DIRE"
+    },
+    {
+      "part1": "Alan tried to restrain his",
+      "part2": ", but we could tell how excited he was by the news.",
+      "correct": "ebullience",
+      "word": "EBULLIENCE"
+    },
+    {
+      "part1": "The",
+      "part2": "young man had more than his share of bad luck this year.",
+      "correct": "hapless",
+      "word": "HAPLESS"
+    },
+    {
+      "part1": "After all our frenzied activity we fell into a state of",
+      "part2": "that lasted for weeks.",
+      "correct": "lassitude",
+      "word": "LASSITUDE"
+    },
+    {
+      "part1": "The",
+      "part2": "waiter was always at our side, inquiring if there were anything he could do for us.",
+      "correct": "obsequious",
+      "word": "OBSEQUIOUS"
+    },
+    {
+      "part1": "In dim light, the pupil of the eye",
+      "part2": ", letting in as much light as possible.",
+      "correct": "dilates",
+      "word": "DILATE"
+    },
+    {
+      "part1": "After living in the",
+      "part2": "all his life, the young man was overwhelmed by the fast pace of the city.",
+      "correct": "hinterland",
+      "word": "HINTERLAND"
+    }
+  ],
+  "type": "fitb",
+  "id": 3
+}

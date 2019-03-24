@@ -1,0 +1,608 @@
+{
+  "title": "5.9",
+  "definitions": {
+    "DEROGATORY": {
+      "word": "DEROGATORY",
+      "phonetic": "(di-rog'-ÔøΩtor-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">degrading, detracting, disparaging </p><p>Something that is DEROGATORY tends to take away from the value or reputation of someone or something. The word is usually used about expressions or remarks. </p><p>“The other children made DEROGATORY comments about the odd way he walked.” </p><p>“Many police officers think that the word ’cop’ is DEROGATORY, and they get angry whenever they hear it.” </p><p>“You shouldn’t make DEROGATORY statements about other people’s beliefs.”</p>"
+    },
+    "RECOUP": {
+      "word": "RECOUP",
+      "phonetic": "(ri-kUp')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to recover, regain, get back, make up for </p><p>To RECOUP means to <i class=“def-ital\">get back</i> or <i class=“def-ital\">make good on</i> something that has been lost.  Often the word suggests getting back not the same thing that has been lost but its equivalent. </p><p>“By shrewd investing he managed to RECOUP the fortune he had lost.” </p><p>“The family never RECOUPED the losses they suffered in the fire.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "INGENUITY": {
+      "word": "INGENUITY",
+      "phonetic": "(in-jÔøΩ-nyU'-ÔøΩtE",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">cleverness, skillfulness, originality </p><p>INGENUITY is cleverness in coming up with ideas or inventions. It is related to the words <i class=“def-ital\">genius</i> and <i class=“def-ital\">ingenious.</i> </p><p>“He was a man of great INGENUITY. He could figure his way out of any difficulty.” </p><p>“Thanks to her INGENUITY we found a way to buy a new car and save money at the same time.” </p><p>INGENUITY is also used about the idea or invention it- self. </p><p>“The INGENUITY of the device astounded every- one.” </p><p>“Despite the INGENUITY of his theory, we tend to think he is wrong.” </p><p>On the Pretest, many people select <i class=“def-ital\">knowledge</i> as the synonym of INGENUITY. You can know a great deal, how- ever, and lack the INGENUITY to make use of your <i class=“def-ital\">knowledge.</i></p>"
+    },
+    "SHEEN": {
+      "word": "SHEEN",
+      "phonetic": "(shEn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">brightness, shine, gloss, luster </p><p>SHEEN is gleaming brightness or luster, like that of well- polished wood. </p><p>“The SHEEN of the bird’s wings glistened in the sun.” </p><p>“Her silk dress had a beautiful SHEEN to it.”</p>"
+    },
+    "INCOGNITO": {
+      "word": "INCOGNITO",
+      "phonetic": "(in-kog-nE'-tO)",
+      "pos": "adj.,adv.",
+      "deftext": "<p class=\"definition\">disguised, with one’s identity concealed </p><p>INCOGNITO comes originally from a Latin word meaning <i class=“def-ital\">unknown.</i> Someone who is INCOGNITO wants to keep his or her true identity unknown. The word is often used about famous people who travel under an assumed name or in disguise so that they won’t be bothered. </p><p>“The movie star came to the theater INCOGNITO, but his fans recognized him anyway.” </p><p>“The prince went INCOGNITO among the soldiers, trying to discover how they felt about the coming bat- tle.”</p>"
+    },
+    "STIFLE": {
+      "word": "STIFLE",
+      "phonetic": "(stl'-fal)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to suffocate, smother; to suppress, keep back </p><p>To STIFLE someone is to kill him by not letting him breathe, to <i class=“def-ital\">suffocate</i> him. </p><p>“The murderer STIFLED his victim with a pillow.” </p><p>STIFLE is also used in a general sense, meaning to <i class=“def-ital\">cut off</i> or <i class=“def-ital\">hold back.</i> </p><p>“She managed to STIFLE a sneeze.” </p><p>“They accused the king of trying to STIFLE all politi- cal parties.” </p><p>“Bill thought his job was STIFLING him; he longed for more excitement and challenge.”</p>"
+    },
+    "PLUMAGE": {
+      "word": "PLUMAGE",
+      "phonetic": "(plU'-mij)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">feathers </p><p>A PLUME is a single feather. </p><p>“She stuck a PLUME in her hat.” The suffix <i class=“def-ital\">-age</i> can mean a <i class=“def-ital\">group</i> or <i class=“def-ital\">collection.</i> For example, baggage is a group of bags or suitcases. PLUMAGE, therefore, is a group of feathers. It is the feathers of a bird, taken all together. </p><p>“The peacock has very colorful PLUMAGE.”</p>"
+    },
+    "PANORAMA": {
+      "word": "PANORAMA",
+      "phonetic": "(pan-ÔøΩram'-ÔøΩ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a wide view, a continually changing scene </p><p>PANORAMA was originally the name of a kind of picture that was shown a part at a time by being unrolled in front of the viewer. In this way it could give a complete view of a landscape or a scene. PANORAMA has come to be used about any wide or constantly changing view. </p><p>“From the top of the building you can see a PANORAMA of the city.” </p><p>“His book looks over the PANORAMA of recent American history.” </p><p>“The movie is a real PANORAMA of modern life.” </p><p>Other forms of the word: PANORAMIC, adj.</p>"
+    },
+    "FLOUNDER": {
+      "word": "FLOUNDER",
+      "phonetic": "(flown'-dÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to move clumsily, muddle, wallow </p><p>To FLOUNDER is to move clumsily, particularly to fling your arms and legs this way and that in trying to regain your balance or to escape from something. </p><p>“The poor swimmers FLOUNDERED in the deep water, trying to stay afloat.” </p><p>“They FLOUNDERED through the snowdrifts, falling down often.” </p><p>FLOUNDER can also be used in a broader sense. </p><p>“He FLOUNDERED through the speech, constantly forgetting what he was supposed to say next.” </p><p>“She FLOUNDERED about in the kitchen, wishing she knew something about cooking.”</p>"
+    },
+    "NEGATE": {
+      "word": "NEGATE",
+      "phonetic": "(nÔøΩgAt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to rule out, nullify, neutralize </p><p>NEGATE is related to the word <i class=“def-ital\">negative.</i> Both come from a Latin word meaning to <i class=“def-ital\">say no.</i> To NEGATE something is to cause it to have no effect or value. Often the word suggests two things canceling each other out be- cause of their opposite effects. </p><p>“His grand slam homer NEGATED the four runs the other team had scored in the previous inning.” </p><p>“The principal’s opposition NEGATES the possibility of a school outing.” </p><p>“All our work was NEGATED when money ran out and the project ended.” </p><p>“He found it difficult to NEGATE the bad impression he had already made on people.” </p><p>Other forms of the word: NEGATION, n.</p>"
+    },
+    "PALTRY": {
+      "word": "PALTRY",
+      "phonetic": "(pol'-trE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">petty, insignificant, worthless, trivial </p><p>Something that is PALTRY is of very little importance or value. PALTRY is a strong word, and would be used of people or things that are hardly worth noticing. </p><p>“Ten cents is a PALTRY sum of money to have such an argument about.” </p><p>“I wouldn’t bother punishing him for such a PALTRY offense.” </p><p>“Paul’s always late, and he always has some PALTRY excuse.”</p>"
+    },
+    "INCOHERENT": {
+      "word": "INCOHERENT",
+      "phonetic": "(in-kO-hEr'-ÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">disorganized, disjointed, unintelligible </p><p>The <i class=“def-ital\">her</i> part of INCOHERENT means to stick; this root is also found in the word <i class=“def-ital\">adhere.</i> Something that is COHERENT sticks together.  </p><p>“His explanation of how the complicated machine works was totally INCOHERENT; no one could understand him.” </p><p>“She was so angry she became INCOHERENT and just started shouting and banging the table.” </p><p>Other forms of the word: INCOHERENCE, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">co-</i> under Prefixes. The word is usually used about people or arguments that make sense, that are logical and organized. </p><p>“He gave a COHERENT summary of everything that happened that day.” </p><p>Someone or something that is INCOHERENT is disorganized, illogical, lacks order or sense. See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "VERBATIM": {
+      "word": "VERBATIM",
+      "phonetic": "(ver-bA'-tim)",
+      "pos": "adv.",
+      "deftext": "<p class=\"definition\">word for word </p><p>VERBATIM comes from the Latin word that means <i class=“def-ital\">word,</i> also the source of English words like <i class=“def-ital\">verb</i> and <i class=“def-ital\">verbal.</i> VERBATIM means “in exactly the same words.” </p><p>“She has an amazing memory. She can recite an entire poem VERBATIM after looking at it only once.” </p><p>“The secretary took down the entire speech VERBA- TIM and typed it out later.” </p><p>VERBATIM is also used as an adjective. </p><p>“He gave a VERBATIM report of what the general had said.”</p>"
+    },
+    "TREAD": {
+      "word": "TREAD",
+      "phonetic": "(tred)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to walk, step; to stamp, crush </p><p>To TREAD is to <i class=“def-ital\">walk</i> or <i class=“def-ital\">step.</i> </p><p>“A slogan during the American Revolution was ‘Don’t TREAD on me.’ ” </p><p>“They TROD through the thick carpet of leaves on the lawn.” </p><p>“Don’t TREAD on that ice. It’s very thin.” </p><p>TREAD often suggests pressure and weight, and gives the idea of crushing or beating down. </p><p>“The thoughtless children TROD all over the beautiful flowers.” </p><p>Usage: TREAD is often followed by on. The past tense of TREAD is TROD.</p>"
+    },
+    "INSOLENT": {
+      "word": "INSOLENT",
+      "phonetic": "(in'-sa-lÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">rude, offensive, disrespectful, insulting </p><p>Someone who is INSOLENT lacks proper respect for people. An INSOLENT person is rude and insulting, especially to a person who is in a higher position. </p><p>“The INSOLENT private refused to salute the general.” </p><p>“Some INSOLENT students laughed during the principal’s speech.” </p><p>INSOLENT is also used about the way such a person acts, or what he says. </p><p>“When asked why he was late, he gave an INSOLENT reply.” </p><p>Other forms of the word: INSOLENCE, n.</p>"
+    }
+  },
+  "id": "9",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "DEROGATORY remarks.",
+          "answers": [
+            "unpopular",
+            "stupid",
+            "degrading",
+            "questioning",
+            "approving"
+          ],
+          "word": "DEROGATORY",
+          "correct": "degrading"
+        },
+        {
+          "prompt": "We must RECOUP our investment.",
+          "answers": [
+            "improve",
+            "recover",
+            "stop",
+            "forget",
+            "remember"
+          ],
+          "word": "RECOUP",
+          "correct": "recover"
+        },
+        {
+          "prompt": "Her INGENUITY.",
+          "answers": [
+            "stupidity",
+            "knowledge",
+            "confidence",
+            "innocence",
+            "cleverness"
+          ],
+          "word": "INGENUITY",
+          "correct": "cleverness"
+        },
+        {
+          "prompt": "Lasting SHEEN.",
+          "answers": [
+            "brightness",
+            "anger",
+            "dampness",
+            "value",
+            "roughness"
+          ],
+          "word": "SHEEN",
+          "correct": "brightness"
+        },
+        {
+          "prompt": "He traveled INCOGNITO.",
+          "answers": [
+            "deep in thought openly",
+            "foolishly",
+            "unexpectedly",
+            "disguised",
+            null
+          ],
+          "word": "INCOGNITO",
+          "correct": "disguised"
+        },
+        {
+          "prompt": "To STIFLE him.",
+          "answers": [
+            "toy with",
+            "change",
+            "suffocate",
+            "fight",
+            "treat"
+          ],
+          "word": "STIFLE",
+          "correct": "suffocate"
+        },
+        {
+          "prompt": "Looked at its PLUMAGE.",
+          "answers": [
+            "feathers",
+            "leaves",
+            "nest",
+            "tail",
+            "fruit"
+          ],
+          "word": "PLUMAGE",
+          "correct": "feathers"
+        },
+        {
+          "prompt": "Admired the PANORAMA.",
+          "answers": [
+            "small picture",
+            "movie",
+            "great outdoors",
+            "wide view",
+            "universe"
+          ],
+          "word": "PANORAMA",
+          "correct": "wide view"
+        },
+        {
+          "prompt": "Started to FLOUNDER.",
+          "answers": [
+            "swim",
+            "move clumsily",
+            "hurt",
+            "give up",
+            "do well"
+          ],
+          "word": "FLOUNDER",
+          "correct": "move clumsily"
+        },
+        {
+          "prompt": "NEGATE the possibility.",
+          "answers": [
+            "rule out",
+            "delay",
+            "change",
+            "bring up",
+            "lessen"
+          ],
+          "word": "NEGATE",
+          "correct": "rule out"
+        },
+        {
+          "prompt": "PALTRY amounts.",
+          "answers": [
+            "forgotten",
+            "secret",
+            "necessary",
+            "petty",
+            "huge"
+          ],
+          "word": "PALTRY",
+          "correct": "petty"
+        },
+        {
+          "prompt": "The report was INCOHERENT.",
+          "answers": [
+            "unnecessary",
+            "untrue",
+            "too long",
+            "disorganized",
+            "clear"
+          ],
+          "word": "INCOHERENT",
+          "correct": "disorganized"
+        },
+        {
+          "prompt": "Gave the message VERBATIM.",
+          "answers": [
+            "differently",
+            "word for word",
+            "out loud",
+            "after a while",
+            "immediately"
+          ],
+          "word": "VERBATIM",
+          "correct": "word for word"
+        },
+        {
+          "prompt": "Where did she TREAD?",
+          "answers": [
+            "walk",
+            "work",
+            "sew",
+            "stay",
+            "drive"
+          ],
+          "word": "TREAD",
+          "correct": "walk"
+        },
+        {
+          "prompt": "INSOLENT children.",
+          "answers": [
+            "stupid",
+            "angry",
+            "rude",
+            "polite",
+            "poor"
+          ],
+          "word": "INSOLENT",
+          "correct": "rude"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do people usually dislike hearing DEROGATORY remarks about themselves?",
+          "word": "DEROGATORY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it possible to RECOUP your health after an illness?",
+          "word": "RECOUP",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does it require INGENUITY to add two and two?",
+          "word": "INGENUITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does polishing metal give it a SHEEN?",
+          "word": "SHEEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a movie star who wanted to avoid photographers travel INCOGNITO?",
+          "word": "INCOGNITO",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do loudspeakers STIFLE the sound of a record?",
+          "word": "STIFLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do cows have PLUMAGE?",
+          "word": "PLUMAGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a book about the Civil War present a PANORAMA of American history?",
+          "word": "PANORAMA",
+          "correct": "false"
+        },
+        {
+          "prompt": "If you know very little French, will you FLOUNDER when you try to speak it?",
+          "word": "FLOUNDER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a small tax increase NEGATE a large pay raise?",
+          "word": "NEGATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a million dollars a PALTRY sum of money?",
+          "word": "PALTRY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are INCOHERENT speeches easy to listen to?",
+          "word": "INCOHERENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a VERBATIM report be very accurate?",
+          "word": "VERBATIM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you TREAD on air?",
+          "word": "TREAD",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do adults usually disapprove of INSOLENT children?",
+          "word": "INSOLENT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "These courses are DEROGATORY; everyone must take them.",
+          "word": "DEROGATORY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The gambler tried to RECOUP his losses by betting more heavily.",
+          "word": "RECOUP",
+          "correct": "true"
+        },
+        {
+          "prompt": "We were amazed by the INGENUITY of his new invention.",
+          "word": "INGENUITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The polished oak table had a golden SHEEN.",
+          "word": "SHEEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "We were told to travel to the meeting INCOGNITO, so we wore disguises and we didn't use our real names.",
+          "word": "INCOGNITO",
+          "correct": "true"
+        },
+        {
+          "prompt": "The coach STIFLED them to try even harder during the second half.",
+          "word": "STIFLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "We admired the bird's fancy PLUMAGE.",
+          "word": "PLUMAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They drove to the city in the PANORAMA.",
+          "word": "PANORAMA",
+          "correct": "false"
+        },
+        {
+          "prompt": "The company was FLOUNDERED in 1922.",
+          "word": "FLOUNDER",
+          "correct": "false"
+        },
+        {
+          "prompt": "That one destructive storm completely NEGATED our months of work on the barn.",
+          "word": "NEGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I can't be bothered with such PALTRY tasks; give me something important to do.",
+          "word": "PALTRY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The man was so frightened that he trembled and his speech was INCOHERENT.",
+          "word": "INCOHERENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "She repeated the boss's orders VERBATIM.",
+          "word": "VERBATIM",
+          "correct": "true"
+        },
+        {
+          "prompt": "The workers TROD through the kitchen in their muddy boots.",
+          "word": "TREAD",
+          "correct": "true"
+        },
+        {
+          "prompt": "The young man was so INSOLENT we told him to leave the room.",
+          "word": "INSOLENT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "DEROGATORY",
+          "answers": [
+            "insulting",
+            "terrifying",
+            "mocking"
+          ],
+          "word": "DEROGATORY",
+          "correct": "1"
+        },
+        {
+          "prompt": "RECOUP",
+          "answers": [
+            "regain",
+            "repay",
+            "recover"
+          ],
+          "word": "RECOUP",
+          "correct": "1"
+        },
+        {
+          "prompt": "INGENUITY",
+          "answers": [
+            "skill",
+            "originality",
+            "oddness"
+          ],
+          "word": "INGENUITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "SHEEN",
+          "answers": [
+            "gleam",
+            "blush",
+            "polish"
+          ],
+          "word": "SHEEN",
+          "correct": "1"
+        },
+        {
+          "prompt": "INCOGNITO",
+          "answers": [
+            "anonymous",
+            "masked",
+            "titled"
+          ],
+          "word": "INCOGNITO",
+          "correct": "2"
+        },
+        {
+          "prompt": "STIFLE",
+          "answers": [
+            "stop",
+            "hold back",
+            "deny"
+          ],
+          "word": "STIFLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PLUMAGE",
+          "answers": [
+            "covering",
+            "feathers",
+            "beaks"
+          ],
+          "word": "PLUMAGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PANORAMA",
+          "answers": [
+            "scene",
+            "picture",
+            "sign"
+          ],
+          "word": "PANORAMA",
+          "correct": "2"
+        },
+        {
+          "prompt": "FLOUNDER",
+          "answers": [
+            "struggle",
+            "wallow",
+            "bend"
+          ],
+          "word": "FLOUNDER",
+          "correct": "2"
+        },
+        {
+          "prompt": "NEGATE",
+          "answers": [
+            "offset",
+            "loosen",
+            "deny"
+          ],
+          "word": "NEGATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PALTRY",
+          "answers": [
+            "small",
+            "safe",
+            "trivial"
+          ],
+          "word": "PALTRY",
+          "correct": "1"
+        },
+        {
+          "prompt": "INCOHERENT",
+          "answers": [
+            "messy",
+            "untrue",
+            "unclear"
+          ],
+          "word": "INCOHERENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "VERBATIM",
+          "answers": [
+            "exact",
+            "accurate",
+            "constant"
+          ],
+          "word": "VERBATIM",
+          "correct": "2"
+        },
+        {
+          "prompt": "TREAD",
+          "answers": [
+            "dive",
+            "step",
+            "trample"
+          ],
+          "word": "TREAD",
+          "correct": "0"
+        },
+        {
+          "prompt": "INSOLENT",
+          "answers": [
+            "insulting",
+            "discourteous",
+            "downcast"
+          ],
+          "word": "INSOLENT",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "title": "7.2",
+  "definitions": {
+    "PREDISPOSED": {
+      "word": "PREDISPOSED",
+      "phonetic": "(prE-dis-pOzd')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">inclined, tending, susceptible </p><p>One meaning of the verb to <i class=“def-ital\">dispose</i> is to <i class=“def-ital\">make willing</i>. To PREDISPOSE is to make willing in advance.  The word suggests putting someone in the right frame of mind ahead of time. It is usually used with <i class=“def-ital\">to</i>. </p><p>“His open, honest face PREDISPOSED me to believe him.” </p><p>PREDISPOSE is also used about one’s physical condition. In this sense it means to <i class=“def-ital\">make susceptible</i>. </p><p>“Her frail constitution PREDISPOSED her to a variety of ailments.” </p><p>PREDISPOSE is more often seen in its adjectival form, PREDISPOSED. As an adjective, it generally comes after the noun it modifies. </p><p>“Because he was broke, he was PREDISPOSED to accept whatever money they offered him.” </p><p>Other forms of the word: PREDISPOSE, v. PREDISPOSITION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">pre-</i> under Prefixes."
+      ]
+    },
+    "REPROVE": {
+      "word": "REPROVE",
+      "phonetic": "(ri-prUv')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to rebuke, scold, admonish, reprimand </p><p>To REPROVE is to scold or criticize. The word usually suggests that the scolding is done without anger or harshness, in order to help the person. </p><p>“Sally’s mother gently REPROVED her for going out without her mittens.” </p><p>“The principal felt compelled to REPROVE the students for their rowdy behavior.” </p><p>The noun related to REPROVE is REPROOF, which is an expression of blame or censure. </p><p>“Her mother’s REPROOF made Sally decide to mend her ways.” </p><p>Other forms of the word: REPROOF, n.</p>"
+    },
+    "SUBTERFUGE": {
+      "word": "SUBTERFUGE",
+      "phonetic": "(suhb'-tÔøΩr-fyUj)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a deception, artifice, stratagem </p><p>SUBTERFUGE comes from a Latin word meaning to <i class=“def-ital\">flee secretly</i>. A SUBTERFUGE is a trick or tactic used to avoid or conceal something. </p><p>“Through various SUBTERFUGES he managed to avoid paying any income tax.” </p><p>“We saw through all his SUBTERFUGES, and wouldn’t let him get away with anything.” </p><p>“The police used SUBTERFUGE to help the singer escape: they put a look-alike in the limousine, while the singer drove away unnoticed in a police car.”</p>"
+    },
+    "ACQUIESCE": {
+      "word": "ACQUIESCE",
+      "phonetic": "(ak-wE-es')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to agree, assent, go along </p><p>To ACQUIESCE is to comply passively or tacitly. The word suggests going along with something because one is unwilling to protest or oppose it. ACQUIESCE is often followed by <i class=“def-ital\">in</i> or <i class=“def-ital\">to</i>. </p><p>“When the workers threatened to strike, management was forced to ACQUIESCE to their demand.” </p><p>“I’m afraid we cannot ACQUIESCE in this matter. Our opposition is unalterable.” </p><p>“He was opposed to using credit cards, but because he had no cash, he finally ACQUIESCED.” </p><p>Other forms of the word: ACQUIESCENCE, n. ACQUIESCENT, adj.</p>"
+    },
+    "ACRIMONIOUS": {
+      "word": "ACRIMONIOUS",
+      "phonetic": "(ak-rÔøΩ-mO'-nE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">bitter, stinging, sharp, biting </p><p>The Latin adjective <i class=“def-ital\">acer</i> means <i class=“def-ital\">sharp</i> or <i class=“def-ital\">sour</i>, and is found in English words like <i class=“def-ital\">acrid</i>, <i class=“def-ital\">acute</i>, <i class=“def-ital\">acid</i>, and <i class=“def-ital\">acerbic</i>. ACRIMONIOUS means <i class=“def-ital\">sharp</i> in a figurative sense, and suggests bitterness of speech, feeling, behavior, or disposition. </p><p>“Janice wrote an ACRIMONIOUS letter to her parents after they refused to come to her wedding.” </p><p>“Bill could tell by her ACRIMONIOUS reply that she had a hot temper.” </p><p>“She wondered whether his ACRIMONIOUS remarks about marriage stemmed from his recent divorce.” </p><p>ACRIMONY is a biting sharpness or bitterness; like ACRIMONIOUS it has to do with speech, feeling, or behavior. </p><p>“The jurors never forgot the ACRIMONY with which the defendant’s mother protested their verdict,” </p><p>Other forms of the word: ACRIMONY, n.</p>"
+    },
+    "COPIOUS": {
+      "word": "COPIOUS",
+      "phonetic": "(kO'-pE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">plentiful, abundant, ample </p><p>COPIOUS means <i class=“def-ital\">plentiful</i>, “existing in abundance.” </p><p>“We have a COPIOUS supply of meat in the freezer.” </p><p>“The composer’s works are not COPIOUS, but they make up in quality what they lack in quantity.” </p><p>COPIOUS is also sometimes used about language that is full of thought or wordy. </p><p>“The students were hard put to take notes on everything the professor said during his COPIOUS lecture.”</p>"
+    },
+    "FURTIVE": {
+      "word": "FURTIVE",
+      "phonetic": "(fer'-tiv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">secret, stealthy, sneaky </p><p>FURTIVE comes from a Latin word meaning <i class=“def-ital\">thief</i>.  FURTIVE means “characterized by the stealth and watchfulness of a thief.” It is applied to people, their actions, and their expressions. </p><p>“The FURTIVE soldier crept quietly through the enemy lines.” </p><p>“With a FURTIVE glance around him the thief reached toward the open cash register.” </p><p>“Gail signaled FURTIVELY to her brother to keep quiet about going to the movies.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ive</i> under Suffixes."
+      ]
+    },
+    "HARBINGER": {
+      "word": "HARBINGER",
+      "phonetic": "(hahr'-bÔøΩn-jÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a forerunner, herald, precursor </p><p>A HARBINGER was originally a person sent ahead to prepare lodgings for English royalty when they traveled. From this, the word came to be used about anyone or anything that is a forerunner of something else. </p><p>“The sound of the trumpets was a HARBINGER of the king’s arrival.” </p><p>“The cold north wind is a sure HARBINGER of winter.” </p><p>“The secretaries knew that the boss’s early-morning frown was a HARBINGER of a bad day to come.” </p><p>HARBINGER is also occasionally used as a verb. </p><p>“The poor harvest HARBINGERS a long and difficult winter for everyone.”</p>"
+    },
+    "INCLEMENT": {
+      "word": "INCLEMENT",
+      "phonetic": "(in-klem'-ÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">stormy, severe, harsh </p><p>The word <i class=“def-ital\">clement</i> means <i class=“def-ital\">mild</i> or <i class=“def-ital\">merciful</i>. INCLEMENT is the opposite of clement; see <i class=“def-ital\">in-2</i> under Prefixes. INCLEMENT means <i class=“def-ital\">stormy</i> or <i class=“def-ital\">severe</i>, and is usually used about the weather. </p><p>“The baseball game was postponed because of INCLEMENT weather.” </p><p>Other forms of the word: INCLEMENCY, n.</p>"
+    },
+    "PORTENT": {
+      "word": "PORTENT",
+      "phonetic": "(por'tent)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an omen, sign, augury </p><p>A PORTENT is an omen or sign of something calamitous or very important that is about to happen. </p><p>“The natives took the eclipse to be a PORTENT of evil times to come.” </p><p>“The boss’s friendly smile was a PORTENT that this job would be better than Jack’s previous one.” </p><p>The verb related to PORTENT is PORTEND, which means “to be an omen of,” to <i class=“def-ital\">presage</i>. </p><p>“These early snowstorms PORTEND a long, cold winter.” </p><p>The adjective from PORTENT is PORTENTOUS, which means <i class=“def-ital\">ominous</i>, <i class=“def-ital\">fateful</i>. Sometimes it is used in a less threatening sense to mean <i class=“def-ital\">prodigious</i>, <i class=“def-ital\">marvelous</i>. </p><p>“We will always remember having lived through these PORTENTOUS times.” </p><p>Other forms of the word: PORTEND, v. PORTENTOUS, adj.</p>"
+    },
+    "ADVERSITY": {
+      "word": "ADVERSITY",
+      "phonetic": "(ad-ver'-sÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">misfortune, disaster, trouble, distress </p><p>ADVERSITY is a state of misfortune or suffering. </p><p>“He kept a great deal of money in the bank as a protection against ADVERSITY.” </p><p>“Susan did not let physical ADVERSITY keep her from improving her mind.” </p><p>“Some artists seem to thrive on ADVERSITY; the more they suffer, the more they create.” </p><p>When used in the plural, ADVERSITIES, the word means <i class=“def-ital\">unfortunate experiences</i>, <i class=“def-ital\">disasters</i>. </p><p>“There seemed to be no end to these ADVERSITIES; it was just one stroke of bad luck after another.” </p><p>Other forms of the word: ADVERSE, adj.</p>"
+    },
+    "COGITATE": {
+      "word": "COGITATE",
+      "phonetic": "(koj'-ÔøΩtAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to ponder, meditate, think carefully </p><p>To COGITATE is to think deeply, to consider carefully. The word does not necessarily suggest that there will be any result from the thinking. </p><p>“He smoked his pipe and COGITATED for a long time about the best place to do his fishing.” </p><p>“John appeared to COGITATE for ten minutes before he answered the question.” </p><p>The noun from COGITATE is COGITATION, meaning <i class=“def-ital\">deep thought</i>. </p><p>“After long COGITATION, Alan thought he had the answer.” </p><p>Other forms of the word: COGITATION, n.</p>"
+    },
+    "CORPULENT": {
+      "word": "CORPULENT",
+      "phonetic": "(kor'-pyÔøΩlÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fat, stout, obese </p><p>CORPULENT comes from the Latin word for <i class=“def-ital\">body</i>, also the source of the English words <i class=“def-ital\">corpse</i> and <i class=“def-ital\">corporation</i>. People who are CORPULENT have too much flesh; they have large, overweight bodies. CORPULENT has a somewhat more negative sense than <i class=“def-ital\">fat</i> or <i class=“def-ital\">stout</i>; it is not quite as negative as <i class=“def-ital\">obese</i>, however, which suggests gross fatness. </p><p>“The CORPULENT passenger could barely fit into the seat on the airplane.” </p><p>“Before her diet Janet was CORPULENT and unhealthy; now she is slim and feels wonderful.</p><p>” Other forms of the word: CORPULENCE, n.</p>"
+    },
+    "DERISIVE": {
+      "word": "DERISIVE",
+      "phonetic": "(di-rl'-siv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">mocking, ridiculing, scoffing </p><p>To DERIDE is to make fun of in a bitter or contemptuous way. It comes from the Latin word for laugh, also the source of the word <i class=“def-ital\">ridiculous</i>. </p><p>“Jones said he had found a way to make himself invisible, but scientists DERIDED his claim.” </p><p>DERISIVE is the adjective from DERIDE.  </p><p>“The audience responded to the stupid movie with DERISIVE laughter.” </p><p>“The DERISIVE senior said that only a freshman would be dumb enough to believe that he had to go to school on Saturday.” </p><p>Other forms of the word: DERIDE, v. DERISION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ive</i> under Suffixes."
+      ]
+    },
+    "DISCONSOLATE": {
+      "word": "DISCONSOLATE",
+      "phonetic": "(dis-kon'-sÔøΩlit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">heartbroken, dejected, depressed </p><p>To console means to <i class=“def-ital\">cheer up</i>, to <i class=“def-ital\">give comfort to</i>. DISCONSOLATE means “not consoled, deeply dejected, hopelessly sad.”  </p><p>“We were DISCONSOLATE when we found out our team had been disqualified.” </p><p>“Don’t be DISCONSOLATE. Things are bound to get better.” </p><p>“The sad expression on his face mirrored his DISCONSOLATE state of mind.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes and <i class=“def-ital\">-ate2</i> under Suffixes."
+      ]
+    }
+  },
+  "id": "2",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "PREDISPOSED",
+          "answers": [
+            "inclined",
+            "unwilling",
+            "expected",
+            "too sick",
+            "discarded"
+          ],
+          "word": "PREDISPOSED",
+          "correct": "inclined"
+        },
+        {
+          "prompt": "to REPROVE",
+          "answers": [
+            "recommend",
+            "teach",
+            "rebuke",
+            "require",
+            "shun"
+          ],
+          "word": "REPROVE",
+          "correct": "rebuke"
+        },
+        {
+          "prompt": "SUBTERFUGE",
+          "answers": [
+            "escape",
+            "deception",
+            "theft",
+            "attack",
+            "hideout"
+          ],
+          "word": "SUBTERFUGE",
+          "correct": "deception"
+        },
+        {
+          "prompt": "to ACQUIESCE",
+          "answers": [
+            "confess",
+            "obtain",
+            "insist",
+            "oppose",
+            "agree"
+          ],
+          "word": "ACQUIESCE",
+          "correct": "agree"
+        },
+        {
+          "prompt": "ACRIMONIOUS",
+          "answers": [
+            "formal",
+            "discouraging",
+            "bitter",
+            "friendly",
+            "noisy"
+          ],
+          "word": "ACRIMONIOUS",
+          "correct": "bitter"
+        },
+        {
+          "prompt": "COPIOUS",
+          "answers": [
+            "difficult",
+            "scarce",
+            "repetitive",
+            "plentiful",
+            "grand"
+          ],
+          "word": "COPIOUS",
+          "correct": "plentiful"
+        },
+        {
+          "prompt": "FURTIVE",
+          "answers": [
+            "secret",
+            "dangerous",
+            "positive",
+            "unimportant",
+            "clever"
+          ],
+          "word": "FURTIVE",
+          "correct": "secret"
+        },
+        {
+          "prompt": "HARBINGER",
+          "answers": [
+            "actor",
+            "bird",
+            "forerunner",
+            "danger",
+            "historian"
+          ],
+          "word": "HARBINGER",
+          "correct": "forerunner"
+        },
+        {
+          "prompt": "INCLEMENT",
+          "answers": [
+            "dark",
+            "fair",
+            "changing",
+            "stormy",
+            "unusual"
+          ],
+          "word": "INCLEMENT",
+          "correct": "stormy"
+        },
+        {
+          "prompt": "PORTENT",
+          "answers": [
+            "copy",
+            "omen",
+            "ship",
+            "key",
+            "desire"
+          ],
+          "word": "PORTENT",
+          "correct": "omen"
+        },
+        {
+          "prompt": "ADVERSITY",
+          "answers": [
+            "difference",
+            "luck",
+            "hardship",
+            "danger",
+            "conflict"
+          ],
+          "word": "ADVERSITY",
+          "correct": "hardship"
+        },
+        {
+          "prompt": "to COGITATE",
+          "answers": [
+            "disturb",
+            "lecture",
+            "remember",
+            "ponder",
+            "strain"
+          ],
+          "word": "COGITATE",
+          "correct": "ponder"
+        },
+        {
+          "prompt": "CORPULENT",
+          "answers": [
+            "wretched",
+            "merry",
+            "proud",
+            "rich",
+            "fat"
+          ],
+          "word": "CORPULENT",
+          "correct": "fat"
+        },
+        {
+          "prompt": "DERISIVE",
+          "answers": [
+            "helpful",
+            "final",
+            "mocking",
+            "unoriginal",
+            "angry"
+          ],
+          "word": "DERISIVE",
+          "correct": "mocking"
+        },
+        {
+          "prompt": "DISCONSOLATE",
+          "answers": [
+            "heartbroken",
+            "excited",
+            "defeated",
+            "lonely",
+            "enraged"
+          ],
+          "word": "DISCONSOLATE",
+          "correct": "heartbroken"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Should a jury be PREDISPOSED to find a defendant guilty?",
+          "word": "PREDISPOSED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a heroic act deserve a REPROOF?",
+          "word": "REPROVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a disguise be a form of SUBTERFUGE?",
+          "word": "SUBTERFUGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could people ACQUIESCE in something they don't favor?",
+          "word": "ACQUIESCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do ACRIMONIOUS discussions promote friendship?",
+          "word": "ACRIMONIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is there a COPIOUS supply of water in the desert?",
+          "word": "COPIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a spy be FURTIVE?",
+          "word": "FURTIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can animals be HARBINGERS?",
+          "word": "HARBINGER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people enjoy having a picnic in INCLEMENT weather?",
+          "word": "INCLEMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a PORTENT be favorable?",
+          "word": "PORTENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a depression a time of economic ADVERSITY?",
+          "word": "ADVERSITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a sleeping person COGITATE?",
+          "word": "COGITATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a CORPULENT person have a large girth?",
+          "word": "CORPULENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Might people DERIDE a buffoon?",
+          "word": "DERISIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a DISCONSOLATE person need to be comforted?",
+          "word": "DISCONSOLATE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "She PREDISPOSED of her Christmas presents early in December.",
+          "word": "PREDISPOSED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Victor seemed indifferent when he was REPROVED.",
+          "word": "REPROVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The embezzler used some very sophisticated SUBTERFUGES to escape detection.",
+          "word": "SUBTERFUGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The company ACQUIESCED to the workers' demand for another paid holiday.",
+          "word": "ACQUIESCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "There was considerable ACRIMONY over the unfair tactics the other team had used in the game.",
+          "word": "ACRIMONIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jerry's grandmother gave him a COPIOUS serving of ice cream for dessert.",
+          "word": "COPIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Chuck gave a FURTIVE wink to his fellow conspirator.",
+          "word": "FURTIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The crocus peeping up through the ground was the first HARBINGER of spring.",
+          "word": "HARBINGER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The plane had difficulty landing because of the INCLEMENT weather.",
+          "word": "INCLEMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Everyone chose to ignore the PORTENTS of the coming war.",
+          "word": "PORTENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Someday these ADVERSITIES will seem less important to us, but right now they are quite oppressive.",
+          "word": "ADVERSITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Nancy COGITATED the right answer immediately.",
+          "word": "COGITATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The CORPULENT fellow didn't need to stuff a pillow under his coat in order to play Santa Claus.",
+          "word": "CORPULENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The DERISIVE audience hooted the singer off the stage.",
+          "word": "DERISIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Sally's parents tried to be DISCONSOLATE toward her when she lost the contest.",
+          "word": "DISCONSOLATE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "PREDISPOSED",
+          "answers": [
+            "reminded",
+            "susceptible",
+            "biased"
+          ],
+          "word": "PREDISPOSED",
+          "correct": "0"
+        },
+        {
+          "prompt": "REPROVE",
+          "answers": [
+            "reproach",
+            "reprimand",
+            "repent"
+          ],
+          "word": "REPROVE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SUBTERFUGE",
+          "answers": [
+            "wile",
+            "resistance",
+            "trickery"
+          ],
+          "word": "SUBTERFUGE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ACQUIESCE",
+          "answers": [
+            "advise",
+            "assent",
+            "accede"
+          ],
+          "word": "ACQUIESCE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ACRIMONIOUS",
+          "answers": [
+            "angry",
+            "sinister",
+            "sour"
+          ],
+          "word": "ACRIMONIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "COPIOUS",
+          "answers": [
+            "lavish",
+            "profuse",
+            "prominent"
+          ],
+          "word": "COPIOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "FURTIVE",
+          "answers": [
+            "sinful",
+            "secret",
+            "cunning"
+          ],
+          "word": "FURTIVE",
+          "correct": "0"
+        },
+        {
+          "prompt": "HARBINGER",
+          "answers": [
+            "reporter",
+            "precursor",
+            "herald"
+          ],
+          "word": "HARBINGER",
+          "correct": "0"
+        },
+        {
+          "prompt": "INCLEMENT",
+          "answers": [
+            "harsh",
+            "rainy",
+            "warm"
+          ],
+          "word": "INCLEMENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "PORTENT",
+          "answers": [
+            "omen",
+            "precursor",
+            "monument"
+          ],
+          "word": "PORTENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "ADVERSITY",
+          "answers": [
+            "trouble",
+            "misfortune",
+            "confusion"
+          ],
+          "word": "ADVERSITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "COGITATE",
+          "answers": [
+            "reflect",
+            "surprise",
+            "meditate"
+          ],
+          "word": "COGITATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "CORPULENT",
+          "answers": [
+            "strong",
+            "heavy",
+            "big"
+          ],
+          "word": "CORPULENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "DERISIVE",
+          "answers": [
+            "bitter",
+            "cunning",
+            "mocking"
+          ],
+          "word": "DERISIVE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DISCONSOLATE",
+          "answers": [
+            "woeful",
+            "dejected",
+            "confused"
+          ],
+          "word": "DISCONSOLATE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

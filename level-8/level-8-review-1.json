@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABSCOND",
+      "answer": "absconded"
+    },
+    {
+      "word": "ACCEDE",
+      "answer": "accede"
+    },
+    {
+      "word": "ACERBITY",
+      "answer": "acerbity"
+    },
+    {
+      "word": "ACETOUS",
+      "answer": "acetous"
+    },
+    {
+      "word": "ALACRITY",
+      "answer": "alacrity"
+    },
+    {
+      "word": "BUCOLIC",
+      "answer": "bucolic"
+    },
+    {
+      "word": "BUFFET",
+      "answer": "buffet"
+    },
+    {
+      "word": "CALUMNY",
+      "answer": "calumny"
+    },
+    {
+      "word": "COMPORT",
+      "answer": "comported"
+    },
+    {
+      "word": "CRAVEN",
+      "answer": "craven"
+    },
+    {
+      "word": "CURSORY",
+      "answer": "cursory"
+    },
+    {
+      "word": "DENIZEN",
+      "answer": "denizen"
+    },
+    {
+      "word": "DESICCATE",
+      "answer": "desiccated"
+    },
+    {
+      "word": "DETRITUS",
+      "answer": "detritus"
+    },
+    {
+      "word": "DIADEM",
+      "answer": "diadem"
+    },
+    {
+      "word": "DIDACTIC",
+      "answer": "didactic"
+    },
+    {
+      "word": "DROLL",
+      "answer": "droll"
+    },
+    {
+      "word": "EGRESS",
+      "answer": "egress"
+    },
+    {
+      "word": "ENNUI",
+      "answer": "ennui"
+    },
+    {
+      "word": "EVINCE",
+      "answer": "evinced"
+    },
+    {
+      "word": "IMPECUNIOUS",
+      "answer": "impecunious"
+    },
+    {
+      "word": "INCIPIENT",
+      "answer": "incipient"
+    },
+    {
+      "word": "INDISPOSED",
+      "answer": "indisposed"
+    },
+    {
+      "word": "INJUNCTION",
+      "answer": "injunction"
+    },
+    {
+      "word": "LACHRYMOSE",
+      "answer": "lachrymose or lugubrious"
+    },
+    {
+      "word": "LUGUBRIOUS",
+      "answer": "lugubrious"
+    },
+    {
+      "word": "MALADROIT",
+      "answer": "maladroit"
+    },
+    {
+      "word": "MALEDICTION",
+      "answer": "malediction"
+    },
+    {
+      "word": "MENDICANT",
+      "answer": "mendicant"
+    },
+    {
+      "word": "MITIGATE",
+      "answer": "mitigate"
+    },
+    {
+      "word": "PATENTLY",
+      "answer": "patently"
+    },
+    {
+      "word": "PERPETRATE",
+      "answer": "perpetrated"
+    },
+    {
+      "word": "PITHY",
+      "answer": "pithy"
+    },
+    {
+      "word": "PLAINTIVE",
+      "answer": "plaintive or lugubrious"
+    },
+    {
+      "word": "PREVARICATE",
+      "answer": "prevaricate"
+    },
+    {
+      "word": "PUERILE",
+      "answer": "puerile"
+    },
+    {
+      "word": "RAREFIED",
+      "answer": "rarefied"
+    },
+    {
+      "word": "REGALE",
+      "answer": "regaled"
+    },
+    {
+      "word": "SALUTARY",
+      "answer": "salutary"
+    },
+    {
+      "word": "SANGFROID",
+      "answer": "sangfroid"
+    },
+    {
+      "word": "SUCCOR",
+      "answer": "succor"
+    },
+    {
+      "word": "TRACTABLE",
+      "answer": "tractable"
+    },
+    {
+      "word": "TRENCHANT",
+      "answer": "trenchant"
+    },
+    {
+      "word": "UMBRAGE",
+      "answer": "umbrage"
+    },
+    {
+      "word": "VAGARY",
+      "answer": "vagaries"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The minister tried to give",
+      "part2": "to the distressed families who had lost their homes.",
+      "correct": "succor",
+      "word": "SUCCOR"
+    },
+    {
+      "part1": "Jim accepted the ticket with",
+      "part2": "; he was dying to go to the game.",
+      "correct": "alacrity",
+      "word": "ALACRITY"
+    },
+    {
+      "part1": "The",
+      "part2": "movie had everyone in the audience in tears.",
+      "correct": "lachrymose or lugubrious",
+      "word": "LACHRYMOSE"
+    },
+    {
+      "part1": "Julie couldn't overcome her feeling of",
+      "part2": "as the days went by and nothing changed.",
+      "correct": "ennui",
+      "word": "ENNUI"
+    },
+    {
+      "part1": "Mr. Jones would not",
+      "part2": "to Ralph's request for a raise.",
+      "correct": "accede",
+      "word": "ACCEDE"
+    },
+    {
+      "part1": "We rushed outside when we heard the",
+      "part2": "whimpering of the injured puppy.",
+      "correct": "plaintive or lugubrious",
+      "word": "PLAINTIVE"
+    },
+    {
+      "part1": "The unexpected defeat proved to be",
+      "part2": "for the team, since it then worked harder and eventually won the championship.",
+      "correct": "salutary",
+      "word": "SALUTARY"
+    },
+    {
+      "part1": "All this",
+      "part2": "talk of death and unhappiness is beginning to bother me.",
+      "correct": "lugubrious",
+      "word": "LUGUBRIOUS"
+    },
+    {
+      "part1": "It is",
+      "part2": "absurd to expect to learn physics in two weeks.",
+      "correct": "patently",
+      "word": "PATENTLY"
+    },
+    {
+      "part1": "The pitiful",
+      "part2": "came to our door, begging for food.",
+      "correct": "mendicant",
+      "word": "MENDICANT"
+    },
+    {
+      "part1": "The stranger",
+      "part2": "us late into the night with hilarious stories and songs.",
+      "correct": "regaled",
+      "word": "REGALE"
+    },
+    {
+      "part1": "With amazing",
+      "part2": "she calmly told her boss that she would do things her way and he would just have to accept it.",
+      "correct": "sangfroid",
+      "word": "SANGFROID"
+    },
+    {
+      "part1": "He is so",
+      "part2": "that he has no money for food, and has to keep borrowing from his friends.",
+      "correct": "impecunious",
+      "word": "IMPECUNIOUS"
+    },
+    {
+      "part1": "Alice took",
+      "part2": "whenever anyone suggested that she should lose weight.",
+      "correct": "umbrage",
+      "word": "UMBRAGE"
+    },
+    {
+      "part1": "The comedian's",
+      "part2": "jokes wouldn't appeal to anyone over the age of twelve.",
+      "correct": "puerile",
+      "word": "PUERILE"
+    },
+    {
+      "part1": "The bully liked to pretend he was brave, but he was really",
+      "part2": "and would run at the first hint of fighting.",
+      "correct": "craven",
+      "word": "CRAVEN"
+    },
+    {
+      "part1": "Although it was nothing serious, Mrs. Johnson felt",
+      "part2": "and cancelled her appointment at the beauty parlor.",
+      "correct": "indisposed",
+      "word": "INDISPOSED"
+    },
+    {
+      "part1": "Everyone obeyed the teacher's",
+      "part2": "not to use any books or notes during the exam.",
+      "correct": "injunction",
+      "word": "INJUNCTION"
+    },
+    {
+      "part1": "The play was too",
+      "part2": "to hold our interest; we came to be entertained, not instructed.",
+      "correct": "didactic",
+      "word": "DIDACTIC"
+    },
+    {
+      "part1": "Every",
+      "part2": "of the city had to be counted in the census.",
+      "correct": "denizen",
+      "word": "DENIZEN"
+    },
+    {
+      "part1": "Janet was upset by the doctor's",
+      "part2": "examination of her injury; she felt he should have spent more time studying it.",
+      "correct": "cursory",
+      "word": "CURSORY"
+    },
+    {
+      "part1": "",
+      "part2": "from the theater was made difficult by the large number of people standing in front of the doors.",
+      "correct": "egress",
+      "word": "EGRESS"
+    },
+    {
+      "part1": "The peasants were terrified by the dire",
+      "part2": "the evil sorcerer uttered against them.",
+      "correct": "malediction",
+      "word": "MALEDICTION"
+    },
+    {
+      "part1": "The",
+      "part2": "of Mr. Johnson's temper make it impossible to predict what his mood will be.",
+      "correct": "vagaries",
+      "word": "VAGARY"
+    },
+    {
+      "part1": "The new chairman",
+      "part2": "himself with quiet dignity during the meeting.",
+      "correct": "comported",
+      "word": "COMPORT"
+    },
+    {
+      "part1": "Peter longed for the",
+      "part2": "life of the shepherd.",
+      "correct": "bucolic",
+      "word": "BUCOLIC"
+    },
+    {
+      "part1": "The murderer",
+      "part2": "his crime on a moonless night.",
+      "correct": "perpetrated",
+      "word": "PERPETRATE"
+    },
+    {
+      "part1": "His",
+      "part2": "essays cut to the heart of the issues.",
+      "correct": "trenchant",
+      "word": "TRENCHANT"
+    },
+    {
+      "part1": "Jim was",
+      "part2": "when speaking to people at parties; he always managed to insult someone unwittingly.",
+      "correct": "maladroit",
+      "word": "MALADROIT"
+    },
+    {
+      "part1": "Workers had to clear away all the",
+      "part2": "at the mouth of the tunnel before they could reach the trapped miners.",
+      "correct": "detritus",
+      "word": "DETRITUS"
+    },
+    {
+      "part1": "The",
+      "part2": "storyteller kept us laughing at his tall tales.",
+      "correct": "droll",
+      "word": "DROLL"
+    },
+    {
+      "part1": "Tell the absolute truth. Don't",
+      "part2": "or try to get out of answering anything.",
+      "correct": "prevaricate",
+      "word": "PREVARICATE"
+    },
+    {
+      "part1": "The dry heat of the desert made us feel",
+      "part2": ", as if all our bodily fluids had evaporated.",
+      "correct": "desiccated",
+      "word": "DESICCATE"
+    },
+    {
+      "part1": "Raising the tax rate enabled the mayor to",
+      "part2": "somewhat the city's fiscal difficulties.",
+      "correct": "mitigate",
+      "word": "MITIGATE"
+    },
+    {
+      "part1": "We common people were astonished at the",
+      "part2": "heights of their philosophical discussions.",
+      "correct": "rarefied",
+      "word": "RAREFIED"
+    },
+    {
+      "part1": "He thought the first few snowflakes were a(n)",
+      "part2": "blizzard, so he returned home as fast as he could.",
+      "correct": "incipient",
+      "word": "INCIPIENT"
+    },
+    {
+      "part1": "The",
+      "part2": "of the reporter's questions indicated the bitterness of his feeling toward the mayor.",
+      "correct": "acerbity",
+      "word": "ACERBITY"
+    },
+    {
+      "part1": "The",
+      "part2": "taste of the wine made people think they were drinking vinegar.",
+      "correct": "acetous",
+      "word": "ACETOUS"
+    },
+    {
+      "part1": "The mayor said it was",
+      "part2": "to suggest he had taken a bribe.",
+      "correct": "calumny",
+      "word": "CALUMNY"
+    },
+    {
+      "part1": "Everyone thought the mild-mannered clerk was harmless until she",
+      "part2": "with the company payroll.",
+      "correct": "absconded",
+      "word": "ABSCOND"
+    },
+    {
+      "part1": "High winds and torrential rain are expected to",
+      "part2": "the region all through the night.",
+      "correct": "buffet",
+      "word": "BUFFET"
+    },
+    {
+      "part1": "The young woman wore her",
+      "part2": "proudly when she was crowned queen.",
+      "correct": "diadem",
+      "word": "DIADEM"
+    },
+    {
+      "part1": "Her brief,",
+      "part2": "remarks summed things up perfectly.",
+      "correct": "pithy",
+      "word": "PITHY"
+    },
+    {
+      "part1": "I wish the horse were more",
+      "part2": "; it just won't obey any of my commands.",
+      "correct": "tractable",
+      "word": "TRACTABLE"
+    },
+    {
+      "part1": "The children",
+      "part2": "their pleasure by shouting happily and jumping up and down.",
+      "correct": "evinced",
+      "word": "EVINCE"
+    }
+  ],
+  "type": "fitb",
+  "id": 1
+}

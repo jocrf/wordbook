@@ -1,0 +1,608 @@
+{
+  "title": "4.7",
+  "definitions": {
+    "COMPOUND": {
+      "word": "COMPOUND",
+      "phonetic": "(kom'-pownd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a combination, mixture </p><p>A COMPOUND is something formed by combining different parts or ingredients.  </p><p>“Water is a COMPOUND of oxygen and hydrogen.” </p><p>“His book is a COMPOUND of interesting facts and silly theories.” </p><p>COMPOUND <i class=“def-ital\">words</i>, such as storeroom and outside, are words that are made up of other words. </p><p>COMPOUND is also a verb, meaning “to make a mixture.” The verb form of the word is pronounced (kÔøΩm- pownd)’. </p><p>“The druggist COMPOUNDED the medicine out of several others.” </p><p>The verb also means simply to <i class=“def-ital\">add to</i>, <i class=“def-ital\">increase</i>. </p><p>“Our latest attempt at a solution simply COMPOUNDED our problems.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">con-</i> under Prefixes."
+      ]
+    },
+    "APPOINT": {
+      "word": "APPOINT",
+      "phonetic": "(ÔøΩpoynt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to name, designate </p><p>To APPOINT someone is to name him to a job or a position. </p><p>“The president APPOINTED him to be his personal secretary.” </p><p>“Jim was APPOINTED class treasurer by the teacher.” </p><p>To APPOINT is also to fix or choose a time for an event. </p><p>“We were all there at the APPOINTED time, ready to begin work.” </p><p>An APPOINTMENT is the act of APPOINTING. </p><p>“He opposed the APPOINTMENT of that judge to the Supreme Court.” </p><p>It is especially used to mean “an agreed-upon arrangement for a meeting.” </p><p>“They had an APPOINTMENT to eat lunch together on Thursday.” </p><p>Other forms of the word: APPOINTMENT, n.</p>"
+    },
+    "COMPENSATE": {
+      "word": "COMPENSATE",
+      "phonetic": "(kom'-p:m-sAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make up, offset, balance; to pay, pay back </p><p>To COMPENSATE for something is to make up for it. </p><p>“She COMPENSATED for being unable to use her legs by getting a special car with hand controls.” </p><p>“You can’t COMPENSATE for weeks of not studying by staying up and reading all night just before the exam.” </p><p>Very often COMPENSATE refers to money which is used to make up for loss or injury. </p><p>“The company paid Sam a thousand dollars to COMPENSATE him for the injury he suffered at work.” </p><p>The noun form of COMPENSATE is COMPENSATION, which is something given, usually money, to make up for something else. </p><p>“She had to sue to get the COMPENSATION due her for the accident.” </p><p>“He receives adequate COMPENSATION for the work he does.” </p><p>Other forms of the word: COMPENSATION, n.</p>"
+    },
+    "DUMBFOUNDED": {
+      "word": "DUMBFOUNDED",
+      "phonetic": "(duhm'-fown-ded)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">amazed, astonished, puzzled </p><p>The word DUMB has two meanings. The first is “not able to speak,” <i class=“def-ital\">speechless</i>, as in the phrase “deaf and DUMB.” The second is <i class=“def-ital\">stupid</i>, <i class=“def-ital\">dull</i>. DUMBFOUNDED comes from the first meaning. To be DUMBFOUNDED is to be so surprised and puzzled that you are speechless. </p><p>“We were DUMBFOUNDED when we discovered that the treasure was missing.” </p><p>“The DUMBFOUNDED explorers could only stare in wonder at the palace they had discovered in the middle of the jungle.” </p><p>The most common mistake on the Pretest is the choice of <i class=“def-ital\">stupid</i> as the meaning of DUMBFOUNDED-due to confusion, of course, with the second meaning of DUMB. </p><p>Other forms of the word: DUMBFOUND, v. </p><p>Usage: DUMBFOUNDED is also often spelled <i class=“def-ital\">dumfounded</i>.</p>"
+    },
+    "ELEVATING": {
+      "word": "ELEVATING",
+      "phonetic": "(el'-ÔøΩvAt-ing)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">uplifting, exalting </p><p>To ELEVATE something is to lift it up higher. The adjective ELEVATING means “tending to lift up minds or morals.” The word is almost never used about something that is physically being lifted. </p><p>“The minister gave a very ELEVATING sermon which left everyone determined to lead better lives.” </p><p>“Alice said her visit to the art museum had been an ELEVATING experience.” </p><p>Other forms of the word: ELEVATE,v.</p>"
+    },
+    "ACKNOWLEDGE": {
+      "word": "ACKNOWLEDGE",
+      "phonetic": "(ak-nol'-ij",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to admit, confess; to recognize, accept </p><p>You can see the word <i class=“def-ital\">knowledge</i> in ACKNOWLEDGE. ACKNOWLEDGE has two rather different uses that deal with <i class=“def-ital\">knowledge</i>. First, to ACKNOWLEDGE something is to admit you have knowledge of it, to state or agree that it exists or has happened. </p><p>“By signing the form, he ACKNOWLEDGED receipt of the package from the post office.” </p><p>“The criminal ACKNOWLEDGED his guilt and begged for another chance.” </p><p>Second, to ACKNOWLEDGE can mean to <i class=“def-ital\">take notice of</i>. Often the word is used about a gift or letter, to show that you have received it. </p><p>“She sent them a short note ACKNOWLEDGING their present and thanking them for their thoughtfulness.” </p><p>ACKNOWLEDGE in this sense can also be used about responsibilities or duties to show that you recognize and accept them. </p><p>“Bill ACKNOWLEDGED his obligation to help the poor in any way he could.” </p><p>Other forms of the word: ACKNOWLEDGMENT, n.</p>"
+    },
+    "CLARITY": {
+      "word": "CLARITY",
+      "phonetic": "(klar'-ÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">clearness, distinctness </p><p>CLARITY is the quality of being clear. The word can be used about things that are clear to the eye or clear to the mind. </p><p>“The water was of such CLARITY that you could see all the way to the bottom of the lake.” </p><p>“The photograph lacked CLARITY. We couldn’t make out any of the faces.” </p><p>“He presented his arguments with great CLARITY. Everyone could follow him quite easily.”</p>"
+    },
+    "CONDENSE": {
+      "word": "CONDENSE",
+      "phonetic": "(kÔøΩn-dens')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shorten, compress, abridge </p><p>CONDENSE is related to the word <i class=“def-ital\">dense</i>, which means “packed tightly together.” When something CONDENSES,it occupies less space,it becomes denser or more compact. The word is used about gases which turn into liquids. </p><p>“The steam CONDENSED to water when it reached the cold window.” </p><p>CONDENSE is also used about written material or other kinds of information. To CONDENSE it is to make it shorter, to abridge it. </p><p>“We don’t have time to hear that long report. Could you CONDENSE it into a few sentences?” </p><p>“They had to CONDENSE twenty hours of film into a half-hour television show.” </p><p>Other forms of the word: CONDENSATION, n.</p>"
+    },
+    "IMPARTIAL": {
+      "word": "IMPARTIAL",
+      "phonetic": "(im-pahr'-shÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fair, unbiased, just </p><p> One meaning of <i class=“def-ital\">partial</i> is “favoring one person or side more than the other.” </p><p>“He admitted that he was partial to people with a sense of humor.” </p><p>Someone who is IMPARTIAL shows no favoritism, is strictly fair and unprejudiced. </p><p>“We want an IMPARTIAL jury. We don’t want people who have made up their minds ahead of time.” </p><p>“They couldn’t agree among themselves, so they brought the problem to an IMPARTIAL outsider and let him decide.” </p><p>“It’s hard to be IMPARTIAL when you know someone who’s involved in the case.” </p><p>Other forms of the word: IMPARTIALITY,n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-2</i> under Prefixes."
+      ]
+    },
+    "CONTRARY": {
+      "word": "CONTRARY",
+      "phonetic": "(kon'-trer-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">opposite, opposed; stubborn, self-willed </p><p>Something that is CONTRARY to something else is opposed to it, is the total opposite of it. </p><p>“You may think he is kind, but I have heard a CONTRARY opinion from someone else.” </p><p>“CONTRARY to what you might have expected, I passed the course quite easily.” </p><p>“The two candidates held CONTRARY views on many issues.” </p><p>CONTRARY can also be used about a person who is very self-willed and is always doing or saying the opposite of what people want or suggest. </p><p>“She’s a CONTRARY child. We can never get her to obey.” </p><p>In this sense, the word is often pronounced (kÔøΩn-trair’-E).</p>"
+    },
+    "BARREN": {
+      "word": "BARREN",
+      "phonetic": "(bar'-an)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">empty, fruitless </p><p>BARREN has several uses, all of which have the idea of <i class=“def-ital\">empty</i>, <i class=“def-ital\">fruitless</i>, or <i class=“def-ital\">unproductive</i>. Land which is BARREN is no good for growing crops; it is unproductive. BARREN land is also often very difficult for people or animals to survive in, because it is too cold or windy or desert-like. BARREN trees or plants do not produce fruit or seeds. BARREN discussions have no results; they are empty and worthless. </p><p>“We had several BARREN conversations about the matter; we never came to any conclusion about what should be done.”</p>"
+    },
+    "COMRADE": {
+      "word": "COMRADE",
+      "phonetic": "(kom'-rad)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a friend, companion </p><p>A COMRADE is a friend or companion, someone who is loyal to you and whom you see often. </p><p>“They became friends when they were in the fifth grade and remained COMRADES for life.” </p><p>“She was my COMRADE in school. We went everywhere together; we were almost never apart.” </p><p>“His trusted COMRADE turned against him and betrayed him.” </p><p>COMRADE is a usual form of address used by Communists. </p><p>“COMRADE Ustinov will give a speech at the next meeting of the Communist party.” </p><p>This may lead many people to choose <i class=“def-ital\">enemy</i> or <i class=“def-ital\">leader</i> as a synonym for COMRADE.</p>"
+    },
+    "BARTER": {
+      "word": "BARTER",
+      "phonetic": "(bahr'-tar)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to trade, exchange </p><p>When you BARTER you trade goods or services for what you want instead of using money. </p><p>“In ‘Jack and the Beanstalk,’ Jack BARTERED the family’s cow for a handful of beans. His mother thought it was a bad trade.” </p><p>“The farmer BARTERED the use of his tractor in exchange for part of the crop.” </p><p>BARTER is also a noun meaning a <i class=“def-ital\">trade</i> or <i class=“def-ital\">exchange</i>. </p><p>“The doctor decided that having his cellar cleaned was a good BARTER for fixing Dan’s broken arm.”</p>"
+    },
+    "COINCIDE": {
+      "word": "COINCIDE",
+      "phonetic": "(kO-an-sld')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to agree, be the same, correspond; to happen at the same time </p><p>When two things COINCIDE, they are in agreement or in harmony with one another. In this sense, COINCIDE is generally used about opinions, wishes, judgments, or the like. </p><p>“Your views on politics COINCIDE completely with my own.” </p><p>“The teacher’s opinion of the boy did not COINCIDE with his parents’ opinion of him.” </p><p>COINCIDE also means “to happen at the same time.” </p><p>“His arrival at the airport COINCIDED with a strike by the pilots.” </p><p>“Her birthday and mine COINCIDE.” </p><p>A COINCIDENCE is a chance occurrence of two events at the same time. </p><p>“It was a strange COINCIDENCE that the two old friends should both be in the foreign city on business.” </p><p>Other forms of the word: COINCIDENCE, n.</p>"
+    },
+    "COURIER": {
+      "word": "COURIER",
+      "phonetic": "(kuhr'-E-ar)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a messenger </p><p>COURIER comes from a French word which means to <i class=“def-ital\">run</i>. A COURIER is someone who carries messages or information. A COURIER doesn’t necessarily run, but the word often suggests speed and urgency. </p><p>“The general sent a COURIER ahead to tell the fort that more troops were on their way.” </p><p>“The COURIER arrived at the palace with the secret papers.” </p><p>“Each morning the COURIER brought them reports on the military situation.”</p>"
+    }
+  },
+  "id": "7",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "This COMPOUND.",
+          "answers": [
+            "particle",
+            "solution",
+            "combination",
+            "problem",
+            "series"
+          ],
+          "word": "COMPOUND",
+          "correct": "combination"
+        },
+        {
+          "prompt": "We APPOINTED him.",
+          "answers": [
+            "demanded",
+            "named",
+            "favored",
+            "accepted",
+            "wanted"
+          ],
+          "word": "APPOINT",
+          "correct": "named"
+        },
+        {
+          "prompt": "COMPENSATE for it.",
+          "answers": [
+            "watch out",
+            "hope",
+            "wait",
+            "get ready",
+            "make up"
+          ],
+          "word": "COMPENSATE",
+          "correct": "make up"
+        },
+        {
+          "prompt": "They were DUMBFOUNDED.",
+          "answers": [
+            "unwanted",
+            "amazed",
+            "stupid",
+            "bored",
+            "excited"
+          ],
+          "word": "DUMBFOUNDED",
+          "correct": "amazed"
+        },
+        {
+          "prompt": "The book was ELEVATING.",
+          "answers": [
+            "uplifting",
+            "boring",
+            "interesting",
+            "exciting",
+            "expensive"
+          ],
+          "word": "ELEVATING",
+          "correct": "uplifting"
+        },
+        {
+          "prompt": "ACKNOWLEDGED his mistake.",
+          "answers": [
+            "admitted",
+            "found",
+            "learned",
+            "ignored",
+            "discussed"
+          ],
+          "word": "ACKNOWLEDGE",
+          "correct": "admitted"
+        },
+        {
+          "prompt": "Unusual CLARITY.",
+          "answers": [
+            "cleverness",
+            "closeness",
+            "kindness",
+            "clearness",
+            "darkness"
+          ],
+          "word": "CLARITY",
+          "correct": "clearness"
+        },
+        {
+          "prompt": "Please CONDENSE it.",
+          "answers": [
+            "lengthen",
+            "lighten",
+            "change",
+            "end",
+            "shorten"
+          ],
+          "word": "CONDENSE",
+          "correct": "shorten"
+        },
+        {
+          "prompt": "IMPARTIAL judges.",
+          "answers": [
+            "calm",
+            "full-time",
+            "fair",
+            "unfriendly",
+            "wise"
+          ],
+          "word": "IMPARTIAL",
+          "correct": "fair"
+        },
+        {
+          "prompt": "CONTRARY opinions.",
+          "answers": [
+            "obvious",
+            "opposite",
+            "mistaken",
+            "similar",
+            "extreme"
+          ],
+          "word": "CONTRARY",
+          "correct": "opposite"
+        },
+        {
+          "prompt": "BARREN effort.",
+          "answers": [
+            "fruitless",
+            "silly",
+            "difficult",
+            "useful",
+            "total"
+          ],
+          "word": "BARREN",
+          "correct": "fruitless"
+        },
+        {
+          "prompt": "Spoke to his COMRADE.",
+          "answers": [
+            "cousin",
+            "brother",
+            "enemy",
+            "friend",
+            "leader"
+          ],
+          "word": "COMRADE",
+          "correct": "friend"
+        },
+        {
+          "prompt": "To BARTER goods.",
+          "answers": [
+            "trade",
+            "steal",
+            "buy",
+            "destroy",
+            "keep"
+          ],
+          "word": "BARTER",
+          "correct": "trade"
+        },
+        {
+          "prompt": "Happened to COINCIDE.",
+          "answers": [
+            "depart",
+            "appear",
+            "arrive",
+            "differ",
+            "agree"
+          ],
+          "word": "COINCIDE",
+          "correct": "agree"
+        },
+        {
+          "prompt": "Found the COURIER.",
+          "answers": [
+            "reporter",
+            "messenger",
+            "stableboy",
+            "knight",
+            "prince"
+          ],
+          "word": "COURIER",
+          "correct": "messenger"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is dog a COMPOUND word?",
+          "word": "COMPOUND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people make APPOINTMENTS to see doctors?",
+          "word": "APPOINT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a dollar adequate COMPENSATION for painting a house?",
+          "word": "COMPENSATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Should people be DUMBFOUNDED if the sun rises in the morning?",
+          "word": "DUMBFOUNDED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is stealing money an ELEVATING experience?",
+          "word": "ELEVATING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it polite to ACKNOWLEDGE a favor that someone has done for you?",
+          "word": "ACKNOWLEDGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does mud increase water's CLARITY?",
+          "word": "CLARITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does it take less time to read a book if it has been CONDENSED?",
+          "word": "CONDENSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are judges supposed to be IMPARTIAL?",
+          "word": "IMPARTIAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "If a person's belief is CONTRARY to your own, do you agree?",
+          "word": "CONTRARY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a BARREN area have many people in it?",
+          "word": "BARREN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people usually dislike their COMRADES?",
+          "word": "COMRADE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Will most stores BARTER with you?",
+          "word": "BARTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does New Year's Day COINCIDE with Christmas?",
+          "word": "COINCIDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a COURIER use a car?",
+          "word": "COURIER",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The chemist came up with a new COMPOUND that was the most powerful glue ever invented.",
+          "word": "COMPOUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "She APPOINTED at me and said I was the one.",
+          "word": "APPOINT",
+          "correct": "false"
+        },
+        {
+          "prompt": "He COMPENSATED for a long time before finally making up his mind.",
+          "word": "COMPENSATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He is the most DUMBFOUNDED person I know. He can't add two and two.",
+          "word": "DUMBFOUNDED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Although the speech was both informative and ELEVATING, many people slipped out before it was over.",
+          "word": "ELEVATING",
+          "correct": "true"
+        },
+        {
+          "prompt": "The suspect refused to ACKNOWLEDGE that he had done anything wrong.",
+          "word": "ACKNOWLEDGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They don't know English very well, so you must speak slowly and with CLARITY.",
+          "word": "CLARITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The school CONDENSED the six-month course so that now it takes a year.",
+          "word": "CONDENSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "We became very IMPARTIAL for him to arrive after we had been waiting for two hours.",
+          "word": "IMPARTIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The boy is so CONTRARY that he won't do anything the teacher asks him to do.",
+          "word": "CONTRARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "His efforts were completely BARREN; he had nothing to show for his work.",
+          "word": "BARREN",
+          "correct": "true"
+        },
+        {
+          "prompt": "They were my COMRADES in the army; now I never see them any more.",
+          "word": "COMRADE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He thought that getting a car in exchange for a few old chairs was a good BARTER.",
+          "word": "BARTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The two cars arrived at the corner at the same time and COINCIDED with a loud crash.",
+          "word": "COINCIDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The COURIER had to slip through enemy territory to bring the news to headquarters.",
+          "word": "COURIER",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "COMPOUND",
+          "answers": [
+            "fixture",
+            "combination",
+            "mixture"
+          ],
+          "word": "COMPOUND",
+          "correct": "0"
+        },
+        {
+          "prompt": "APPOINT",
+          "answers": [
+            "expect",
+            "choose",
+            "select"
+          ],
+          "word": "APPOINT",
+          "correct": "0"
+        },
+        {
+          "prompt": "COMPENSATE",
+          "answers": [
+            "offset",
+            "refuse",
+            "repay"
+          ],
+          "word": "COMPENSATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DUMBFOUNDED",
+          "answers": [
+            "speechless",
+            "worried",
+            "astonished"
+          ],
+          "word": "DUMBFOUNDED",
+          "correct": "1"
+        },
+        {
+          "prompt": "ELEVATING",
+          "answers": [
+            "uplifting",
+            "exalting",
+            "hoisting"
+          ],
+          "word": "ELEVATING",
+          "correct": "2"
+        },
+        {
+          "prompt": "ACKNOWLEDGE",
+          "answers": [
+            "approve",
+            "recognize",
+            "confess"
+          ],
+          "word": "ACKNOWLEDGE",
+          "correct": "0"
+        },
+        {
+          "prompt": "CLARITY",
+          "answers": [
+            "clearness",
+            "distinctness",
+            "separation"
+          ],
+          "word": "CLARITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONDENSE",
+          "answers": [
+            "destroy",
+            "reduce",
+            "shrink"
+          ],
+          "word": "CONDENSE",
+          "correct": "0"
+        },
+        {
+          "prompt": "IMPARTIAL",
+          "answers": [
+            "fair",
+            "wise",
+            "just"
+          ],
+          "word": "IMPARTIAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONTRARY",
+          "answers": [
+            "stubborn",
+            "contradictory",
+            "unusual"
+          ],
+          "word": "CONTRARY",
+          "correct": "2"
+        },
+        {
+          "prompt": "BARREN",
+          "answers": [
+            "funny",
+            "empty",
+            "bare"
+          ],
+          "word": "BARREN",
+          "correct": "0"
+        },
+        {
+          "prompt": "COMRADE",
+          "answers": [
+            "associate",
+            "cousin",
+            "companion"
+          ],
+          "word": "COMRADE",
+          "correct": "1"
+        },
+        {
+          "prompt": "BARTER",
+          "answers": [
+            "swap",
+            "exchange",
+            "return"
+          ],
+          "word": "BARTER",
+          "correct": "2"
+        },
+        {
+          "prompt": "COINCIDE",
+          "answers": [
+            "approach",
+            "correspond",
+            "match"
+          ],
+          "word": "COINCIDE",
+          "correct": "0"
+        },
+        {
+          "prompt": "COURIER",
+          "answers": [
+            "information",
+            "television",
+            "message"
+          ],
+          "word": "COURIER",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "title": "4.10",
+  "definitions": {
+    "ASCEND": {
+      "word": "ASCEND",
+      "phonetic": "(ÔøΩsend')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go up, rise, climb </p><p>ASCEND means simply to <i class=“def-ital\">go up</i>. </p><p>“The elevator ASCENDED to the top floor.” </p><p>“They threw bags of sand out of the balloon to make it ASCEND.” </p><p>“The soldier ASCENDED through the ranks until he became a general.” </p><p>Many people confuse ASCEND with its opposite <i class=“def-ital\">descend</i>, which means to <i class=“def-ital\">go down</i>. </p><p>“They ASCENDED the mountain in the morning, and descended it in the afternoon.” </p><p>Other forms of the word: ASCENT, n.</p>"
+    },
+    "OUTLANDISH": {
+      "word": "OUTLANDISH",
+      "phonetic": "(owt-lan'-dish)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">strange, bizarre, ridiculous </p><p> OUTLAND is a rare word for a foreign land or country-a land that is outside your own. Something that it OUTLANDISH has a foreign or unfamiliar appearance or quality. It is strange, bizarre, exotic. </p><p>“She dressed in OUTLANDISH clothing just to shock people.” </p><p>“He had some OUTLANDISH ideas about flying saucers.” </p><p>“They made some OUTLANDISH suggestions about how to improve television.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ish</i> under Suffixes."
+      ]
+    },
+    "UNCANNY": {
+      "word": "UNCANNY",
+      "phonetic": "(uhn-kan'-E)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">weird, strange, mysterious </p><p>UNCANNY means <i class=“def-ital\">weird</i> or <i class=“def-ital\">strange</i>. The word is applied to people, events, or feelings that are so beyond what is normal or expected that they make you feel frightened or uncomfortable. </p><p>“He has an UNCANNY way of knowing what you’re thinking.” </p><p>“That dog is so smart it’s almost UNCANNY.” </p><p>“We were frightened by the UNCANNY sounds.”</p>"
+    },
+    "VIVID": {
+      "word": "VIVID",
+      "phonetic": "(viv'-id)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">lively, spirited, intense </p><p>VIVID comes from a Latin word meaning to <i class=“def-ital\">live</i>, also the source of English words like <i class=“def-ital\">survive</i> and <i class=“def-ital\">revive</i>. VIVID means “full of life and freshness.” The word is used about things, as well as about ideas, memories, imaginations, and the like. </p><p>“The picture is painted in sharp, VIVID colors that make a strong impression on the eye.” </p><p>“After all these years her memories of her trip to Europe are still fresh and VIVID.” </p><p>“The author wrote a VIVID account of the battle. You almost felt as if you were there.” </p><p>“Little Billy has a VIVID imagination. He’s always pretending to be a detective or an astronaut.”</p>"
+    },
+    "NULLIFY": {
+      "word": "NULLIFY",
+      "phonetic": "(nuhl'-ÔøΩfl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make void, invalidate, negate  The NULL part of the word means <i class=“def-ital\">nothing</i>. NULL is an adjective which means “without value or effect.” It is often used in the phrase “NULL and void,” which means “having no legal force.” </p><p>“The judges declared that the agreement was NULL and void.” </p><p>To NULLIFY something is to make it as if it were nothing, to take away its force, value, or usefulness. </p><p>“The referee’s decision NULLIFIED the touchdown.” </p><p>“His refusal to let us finish NULLIFIED all our work for the past month. It’s as if we’d never even begun.” </p><p>Other forms of the word: NULL, adj. NULLIFICATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-fy</i> under Suffixes."
+      ]
+    },
+    "INTERSPERSE": {
+      "word": "INTERSPERSE",
+      "phonetic": "(in-t::lr-spers')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to scatter, place here and there </p><p> To INTERSPERSE things is to scatter or sprinkle them between or among other things. </p><p>“Some red balls were INTERSPERSED among the black ones.” </p><p>“She INTERSPERSED some very funny jokes in an otherwise serious speech.” </p><p>In a slightly different sense, to INTERSPERSE something <i class=“def-ital\">with</i> other things is to supply it with these things here and there. </p><p>“He INTERSPERSED the black balls with some red ones.” </p><p>“The book was INTERSPERSED with many beautiful pictures.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">inter-</i> under Prefixes."
+      ]
+    },
+    "FACSIMILE": {
+      "word": "FACSIMILE",
+      "phonetic": "(fak-sim'-ÔøΩIE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a copy, reproduction </p><p>Note the pronunciation. The final <i class=“def-ital\">e</i> is sounded. </p><p>FACSIMILE is related to the word <i class=“def-ital\">similar</i>. Both come from a Latin word meaning <i class=“def-ital\">like</i>. A FACSIMILE is an exact, or almost exact, copy of a book, painting, letter, or the like. </p><p>“He printed a FACSIMILE of the Declaration of Independence that was identical in every detail with the original.” </p><p>“She wore a dress that was a close FACSIMILE of an expensive Paris design.” </p><p>The most common mistake on the Pretest is to choose <i class=“def-ital\">original</i> as the meaning of FACSIMILE. This is a confusion of a word with its opposite. A FACSIMILE is made from an original, but it is not the original itself.</p>"
+    },
+    "CONSEQUENCE": {
+      "word": "CONSEQUENCE",
+      "phonetic": "(kon'-sÔøΩ-kwens)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an effect, result; importance, value </p><p>A CONSEQUENCE is the effect or result of something that has gone before. </p><p>“His success was a direct CONSEQUENCE of his hard work.” CONSEQUENCE often suggests a bad or undesired result. </p><p>“If you steal this, you’ll have to accept the CONSEQUENCES when you are caught.” </p><p>“He didn’t consider all the CONSEQUENCES of his thoughtless behavior.” </p><p>In a different sense, CONSEQUENCE means importance, particularly with regard to the results that may come about from something. </p><p>“His refusal to come was of no CONSEQUENCE. We had a good time anyway.” </p><p>“She is a woman of great CONSEQUENCE in her community. Nothing is done without her approval.” </p><p>Other forms of the word: CONSEQUENTIAL, adj.</p>"
+    },
+    "CANINE": {
+      "word": "CANINE",
+      "phonetic": "(kA'-nln)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">of or relating to dogs </p><p>CANINE means “of or like a dog.” </p><p>“A human’s CANINE teeth are pointed, like a dog’s teeth.” </p><p>“He followed his older brother around all day with CANINE devotion\"-that is, he followed him like a dog following its master. CANINE is also a noun, meaning <i class=“def-ital\">dog</i> or “member of the dog family.” </p><p>“Poodles, collies, and terriers are all CANINES.” </p><p>“The fox is the only CANINE that can climb a tree.” </p><p>The most popular wrong answer on the Pretest is <i class=“def-ital\">cat</i>. The word which means “of or like a cat” is <i class=“def-ital\">feline</i>, not CANINE.</p>"
+    },
+    "PLACID": {
+      "word": "PLACID",
+      "phonetic": "(plas'-ÔøΩd)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">peaceful, calm, tranquil </p><p>PLACID means “free from disturbance,” <i class=“def-ital\">calm</i>, <i class=“def-ital\">untroubled</i>. </p><p>“Not the slightest ripple disturbed the PLACID surface of the lake.” </p><p>When used about people, PLACID means “having a peaceful nature,” and sometimes suggests a person who is <i class=“def-ital\">too</i> calm and lacking in feeling. </p><p>“She was so PLACID that not even the roar of the jet planes bothered her.” </p><p><i class=“def-ital\">Soft</i> and <i class=“def-ital\">weak</i> are both sometimes chosen as the meaning of PLACID. They are both close, but not quite the same as <i class=“def-ital\">peaceful</i>, <i class=“def-ital\">calm</i>, <i class=“def-ital\">untroubled</i>. They might be chosen because of a confusion of PLACID with <i class=“def-ital\">flaccid</i>, which means <i class=“def-ital\">weak</i>, <i class=“def-ital\">flabby</i>. </p><p>Other forms of the word: PLACIDITY, n.</p>"
+    },
+    "ELAPSE": {
+      "word": "ELAPSE",
+      "phonetic": "(i-laps')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to pass, slip by, glide by </p><p>ELAPSE is almost always used about time. It means simply to <i class=“def-ital\">pass</i>, to <i class=“def-ital\">go by</i>. </p><p>“Twenty seconds ELAPSED between the two shots\"- that is, the shots came twenty seconds apart. </p><p>“He returned after six months had ELAPSED.” </p><p>ELAPSE should not be confused with the similar verb <i class=“def-ital\">lapse</i>, which can be used about time, but it is more commonly used to mean “to fall into error” or “to go out of existence.” You can say “The insurance policy <i class=“def-ital\">lapsed</i>\"; it doesn’t make sense, however, to say “The insurance policy ELAPSED.”</p>"
+    },
+    "UPHOLD": {
+      "word": "UPHOLD",
+      "phonetic": "(uhp-hOld')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to support, approve </p><p>UPHOLD is made up of the two words <i class=“def-ital\">hold</i> and <i class=“def-ital\">up</i>. UPHOLD means just that: to <i class=“def-ital\">hold up</i> or <i class=“def-ital\">support</i>. UPHOLD can be used about physical things like a roof, but it is generally used about ideas, decisions, or beliefs. </p><p>“The lower court’s decision in the case was UPHELD by the higher court.” </p><p>“He tried to UPHOLD his family’s good reputation.” </p><p>“I do not UPHOLD actions which are dangerous to oneself or others.” </p><p><i class=“def-ital\">Put off</i> is the most frequently marked wrong answer on the Pretest, probably because one meaning of <i class=“def-ital\">hold up</i> is to <i class=“def-ital\">delay</i>.</p>"
+    },
+    "STRICKEN": {
+      "word": "STRICKEN",
+      "phonetic": "(strik'-ÔøΩn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wounded, afflicted, overcome </p><p>STRICKEN comes from the word <i class=“def-ital\">strike</i>. Someone who is STRICKEN with something has been <i class=“def-ital\">struck</i> or <i class=“def-ital\">struck down</i> by it. The word is usually used about illness, sorrow, misfortune, or the like. </p><p>“She was STRICKEN with a terrible disease.” </p><p>“Several soldiers lay STRICKEN on the battlefield.” </p><p>“After the flood the Red Cross aided the STRICKEN families.” </p><p><i class=“def-ital\">Panic<i class=“def-ital\">-STRICKEN means “overwhelmed with great fear.” </p><p>“The <i class=“def-ital\">panic<i class=“def-ital\">-STRICKEN people fled from the huge monster.” </p><p>STRICKEN is also used in other phrases like <i class=“def-ital\">conscience<i class=“def-ital\">-STRICKEN and <i class=“def-ital\">grief<i class=“def-ital\">-STRICKEN.</p>"
+    },
+    "MONOTONOUS": {
+      "word": "MONOTONOUS",
+      "phonetic": "(mÔøΩnot'-ÔøΩnÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unchanging, boring, tedious, repetitious </p><p> The <i class=“def-ital\">mono</i> part of MONOTONOUS comes from the Greek word for one. A <i class=“def-ital\">monologue</i> is a speech for one person; a <i class=“def-ital\">monocle</i> is an eyeglass worn in one eye only. The <i class=“def-ital\">ton</i> part of the word comes from the word <i class=“def-ital\">tone</i>. Something that is MONOTONOUS has only one tone; it doesn’t vary at all, and therefore it is boring and uninteresting. </p><p>“The scenery was rather MONOTONOUS; there was nothing but cornfields as far as you could see.” </p><p>“The book was impressive at first, but after a while its heavy style became rather MONOTONOUS.” </p><p>“She quickly became bored with the MONOTONOUS work on the assembly line in the factory.” </p><p>Other forms of the word: MONOTONY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "ELUDE": {
+      "word": "ELUDE",
+      "phonetic": "(i-lUd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to escape, evade, slip away, avoid </p><p>To ELUDE someone is to avoid or evade him, usually by means of cleverness or quickness. </p><p>“The criminal managed to ELUDE the police by hiding in the trunk of a car.” </p><p>“The halfback ELUDED several tackles with his clever moves.” </p><p>Things or ideas can ELUDE you, usually by being very difficult or hard to see. </p><p>“The answer ELUDED Bob. No matter how hard he tried he couldn’t quite think of it.” </p><p>“The change she made in the room was so small that it ELUDED my notice.” </p><p>Other forms of the word: ELUSIVE, adj.</p>"
+    }
+  },
+  "id": "10",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Watched it ASCEND.",
+          "answers": [
+            "fall",
+            "turn",
+            "start",
+            "rise",
+            "stop"
+          ],
+          "word": "ASCEND",
+          "correct": "rise"
+        },
+        {
+          "prompt": "OUTLANDISH clothing.",
+          "answers": [
+            "excellent",
+            "colorful",
+            "strange",
+            "ragged",
+            "usual"
+          ],
+          "word": "OUTLANDISH",
+          "correct": "strange"
+        },
+        {
+          "prompt": "It was UNCANNY.",
+          "answers": [
+            "weird",
+            "sudden",
+            "unknown",
+            "typical",
+            "wonderful"
+          ],
+          "word": "UNCANNY",
+          "correct": "weird"
+        },
+        {
+          "prompt": "VIVID descriptions.",
+          "answers": [
+            "mistaken",
+            "popular",
+            "dull",
+            "lively",
+            "unbelievable"
+          ],
+          "word": "VIVID",
+          "correct": "lively"
+        },
+        {
+          "prompt": "The contract was NULLIFIED.",
+          "answers": [
+            "changed",
+            "made void",
+            "made legal",
+            "misunderstood",
+            "approved"
+          ],
+          "word": "NULLIFY",
+          "correct": "made void"
+        },
+        {
+          "prompt": "INTERSPERSED among them.",
+          "answers": [
+            "taken from",
+            "lived",
+            "scattered",
+            "left",
+            "joined"
+          ],
+          "word": "INTERSPERSE",
+          "correct": "scattered"
+        },
+        {
+          "prompt": "Saw the FACSIMILE.",
+          "answers": [
+            "photograph",
+            "copy",
+            "book",
+            "original",
+            "plan"
+          ],
+          "word": "FACSIMILE",
+          "correct": "copy"
+        },
+        {
+          "prompt": "Think about the CONSEQUENCES.",
+          "answers": [
+            "problems",
+            "effects",
+            "decisions",
+            "differences",
+            "causes"
+          ],
+          "word": "CONSEQUENCE",
+          "correct": "effects"
+        },
+        {
+          "prompt": "The CANINE family.",
+          "answers": [
+            "insect",
+            "fish",
+            "dog",
+            "cat",
+            "sheep"
+          ],
+          "word": "CANINE",
+          "correct": "dog"
+        },
+        {
+          "prompt": "Unusually PLACID.",
+          "answers": [
+            "peaceful",
+            "weak",
+            "firm",
+            "upset",
+            "soft"
+          ],
+          "word": "PLACID",
+          "correct": "peaceful"
+        },
+        {
+          "prompt": "The year ELAPSED.",
+          "answers": [
+            "dragged on",
+            "came",
+            "raced by",
+            "passed",
+            "started"
+          ],
+          "word": "ELAPSE",
+          "correct": "passed"
+        },
+        {
+          "prompt": "UPHOLD the decision.",
+          "answers": [
+            "put off",
+            "oppose",
+            "make",
+            "change",
+            "support"
+          ],
+          "word": "UPHOLD",
+          "correct": "support"
+        },
+        {
+          "prompt": "They were STRICKEN.",
+          "answers": [
+            "shot",
+            "despised",
+            "overcome",
+            "taken",
+            "trapped"
+          ],
+          "word": "STRICKEN",
+          "correct": "overcome"
+        },
+        {
+          "prompt": "MONOTONOUS speech.",
+          "answers": [
+            "loud",
+            "boring",
+            "stupid",
+            "exciting",
+            "important"
+          ],
+          "word": "MONOTONOUS",
+          "correct": "boring"
+        },
+        {
+          "prompt": "To ELUDE them.",
+          "answers": [
+            "wait for",
+            "find",
+            "stop",
+            "escape",
+            "choose"
+          ],
+          "word": "ELUDE",
+          "correct": "escape"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do you go higher as you ASCEND?",
+          "word": "ASCEND",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are OUTLANDISH ideas always wrong?",
+          "word": "OUTLANDISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a talking horse be UNCANNY?",
+          "word": "UNCANNY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a VIVID story be dull to read?",
+          "word": "VIVID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can an agreement by NULLIFIED?",
+          "word": "NULLIFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you INTERSPERSE apples with oranges?",
+          "word": "INTERSPERSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a FACSIMILE generally more valuable than an original?",
+          "word": "FACSIMILE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is going to prison sometimes a CONSEQUENCE of committing a crime?",
+          "word": "CONSEQUENCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a cocker spaniel a member of the CANINE family?",
+          "word": "CANINE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do PLACID people get angry easily?",
+          "word": "PLACID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does it take a hundred years for a century to ELAPSE?",
+          "word": "ELAPSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people like their decisions to be UPHELD?",
+          "word": "UPHOLD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a grief-STRICKEN person be unhappy?",
+          "word": "STRICKEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would MONOTONOUS music be fascinating to listen to?",
+          "word": "MONOTONOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Has a person in prison ELUDED punishment for his crime?",
+          "word": "ELUDE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The airplane fell from the sky and ASCENDED to the ground.",
+          "word": "ASCEND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Her OUTLANDISH methods of teaching constantly got her into trouble with the principal.",
+          "word": "OUTLANDISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "She has an UNCANNY ability to predict the weather.",
+          "word": "UNCANNY",
+          "correct": "true"
+        },
+        {
+          "prompt": "I have a VIVID picture in my mind of exactly how the room is going to look.",
+          "word": "VIVID",
+          "correct": "true"
+        },
+        {
+          "prompt": "The governor NULLIFIED the contract with the firm because they were cheating the state.",
+          "word": "NULLIFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "His workday was INTERSPERSED with many chances to relax and regain his strength.",
+          "word": "INTERSPERSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "John could produce a reasonably good FACSIMILE of George Washington's signature.",
+          "word": "FACSIMILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "When the automobile was invented, no one realized the CONSEQUENCES it would have on the American way of life.",
+          "word": "CONSEQUENCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We call them CANINE teeth because they resemble an elephant's tusks.",
+          "word": "CANINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "She put a nice PLACID pillow beneath his head to make him more comfortable.",
+          "word": "PLACID",
+          "correct": "false"
+        },
+        {
+          "prompt": "They ELAPSED the afternoon with friends on a picnic in the woods.",
+          "word": "ELAPSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The heavy rains UPHELD the game for over an hour.",
+          "word": "UPHOLD",
+          "correct": "false"
+        },
+        {
+          "prompt": "The entire city was STRICKEN with the plague.",
+          "word": "STRICKEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "She was very MONOTONOUS with the children--always telling them jokes and thinking up games for them to play.",
+          "word": "MONOTONOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "We ELUDED them by escaping through a secret passage.",
+          "word": "ELUDE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ASCEND",
+          "answers": [
+            "claw",
+            "rise",
+            "climb"
+          ],
+          "word": "ASCEND",
+          "correct": "0"
+        },
+        {
+          "prompt": "OUTLANDISH",
+          "answers": [
+            "weird",
+            "bizarre",
+            "wonderful"
+          ],
+          "word": "OUTLANDISH",
+          "correct": "2"
+        },
+        {
+          "prompt": "UNCANNY",
+          "answers": [
+            "mysterious",
+            "frightening",
+            "ancient"
+          ],
+          "word": "UNCANNY",
+          "correct": "2"
+        },
+        {
+          "prompt": "VIVID",
+          "answers": [
+            "alive",
+            "huge",
+            "clear"
+          ],
+          "word": "VIVID",
+          "correct": "1"
+        },
+        {
+          "prompt": "NULLIFY",
+          "answers": [
+            "cancel",
+            "consume",
+            "negate"
+          ],
+          "word": "NULLIFY",
+          "correct": "1"
+        },
+        {
+          "prompt": "INTERSPERSE",
+          "answers": [
+            "sprinkle",
+            "discover",
+            "strew"
+          ],
+          "word": "INTERSPERSE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FACSIMILE",
+          "answers": [
+            "copy",
+            "reproduction",
+            "factory"
+          ],
+          "word": "FACSIMILE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONSEQUENCE",
+          "answers": [
+            "result",
+            "importance",
+            "meaning"
+          ],
+          "word": "CONSEQUENCE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CANINE",
+          "answers": [
+            "sneering",
+            "barking",
+            "doglike"
+          ],
+          "word": "CANINE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PLACID",
+          "answers": [
+            "calm",
+            "plump",
+            "gentle"
+          ],
+          "word": "PLACID",
+          "correct": "1"
+        },
+        {
+          "prompt": "ELAPSE",
+          "answers": [
+            "miss",
+            "pass",
+            "go by"
+          ],
+          "word": "ELAPSE",
+          "correct": "0"
+        },
+        {
+          "prompt": "UPHOLD",
+          "answers": [
+            "defend",
+            "enjoy",
+            "approve"
+          ],
+          "word": "UPHOLD",
+          "correct": "1"
+        },
+        {
+          "prompt": "STRICKEN",
+          "answers": [
+            "struck",
+            "excited",
+            "wounded"
+          ],
+          "word": "STRICKEN",
+          "correct": "1"
+        },
+        {
+          "prompt": "MONOTONOUS",
+          "answers": [
+            "evil",
+            "dull",
+            "constant"
+          ],
+          "word": "MONOTONOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "ELUDE",
+          "answers": [
+            "evade",
+            "avoid",
+            "refuse"
+          ],
+          "word": "ELUDE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

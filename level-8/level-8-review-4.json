@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABROGATE",
+      "answer": "abrogated"
+    },
+    {
+      "word": "ADDUCE",
+      "answer": "adduce"
+    },
+    {
+      "word": "ADUMBRATE",
+      "answer": "adumbrated"
+    },
+    {
+      "word": "APOCRYPHAL",
+      "answer": "apocryphal"
+    },
+    {
+      "word": "ARCANE",
+      "answer": "arcane"
+    },
+    {
+      "word": "AVER",
+      "answer": "averred"
+    },
+    {
+      "word": "BALEFUL",
+      "answer": "baleful"
+    },
+    {
+      "word": "CONDIGN",
+      "answer": "condign"
+    },
+    {
+      "word": "CYNOSURE",
+      "answer": "cynosure"
+    },
+    {
+      "word": "DESCRY",
+      "answer": "descry"
+    },
+    {
+      "word": "ENCOMIUM",
+      "answer": "encomium"
+    },
+    {
+      "word": "EQUABLE",
+      "answer": "equable"
+    },
+    {
+      "word": "EXIGUOUS",
+      "answer": "exiguous"
+    },
+    {
+      "word": "FULSOME",
+      "answer": "fulsome"
+    },
+    {
+      "word": "HIERATIC",
+      "answer": "hieratic"
+    },
+    {
+      "word": "IMPRECATION",
+      "answer": "imprecations"
+    },
+    {
+      "word": "IMPUGN",
+      "answer": "impugn"
+    },
+    {
+      "word": "INCHOATE",
+      "answer": "inchoate"
+    },
+    {
+      "word": "INELUCTABLE",
+      "answer": "ineluctable"
+    },
+    {
+      "word": "INTERNECINE",
+      "answer": "internecine"
+    },
+    {
+      "word": "LANGUISH",
+      "answer": "languish"
+    },
+    {
+      "word": "LIMPID",
+      "answer": "limpid"
+    },
+    {
+      "word": "MERETRICIOUS",
+      "answer": "meretricious"
+    },
+    {
+      "word": "OBLOQUY",
+      "answer": "obloquy"
+    },
+    {
+      "word": "OBVIATE",
+      "answer": "obviate"
+    },
+    {
+      "word": "OPPROBRIOUS",
+      "answer": "opprobrious"
+    },
+    {
+      "word": "OTIOSE",
+      "answer": "otiose"
+    },
+    {
+      "word": "PERSPICUOUS",
+      "answer": "perspicuous"
+    },
+    {
+      "word": "PRODIGAL",
+      "answer": "prodigal"
+    },
+    {
+      "word": "PROTEAN",
+      "answer": "protean"
+    },
+    {
+      "word": "QUONDAM",
+      "answer": "quondam"
+    },
+    {
+      "word": "RECHERCHÉ",
+      "answer": "recherché"
+    },
+    {
+      "word": "REDACTION",
+      "answer": "redaction"
+    },
+    {
+      "word": "REFULGENT",
+      "answer": "refulgent"
+    },
+    {
+      "word": "RETICULATE",
+      "answer": "reticulate"
+    },
+    {
+      "word": "SALIENT",
+      "answer": "salient"
+    },
+    {
+      "word": "SCURRILOUS",
+      "answer": "scurrilous"
+    },
+    {
+      "word": "STENTORIAN",
+      "answer": "stentorian"
+    },
+    {
+      "word": "STERTOROUS",
+      "answer": "stertorous"
+    },
+    {
+      "word": "SUBORN",
+      "answer": "suborn"
+    },
+    {
+      "word": "TENDENTIOUS",
+      "answer": "tendentious or fulsome"
+    },
+    {
+      "word": "TENEBROUS",
+      "answer": "tenebrous"
+    },
+    {
+      "word": "TRADUCE",
+      "answer": "traduce"
+    },
+    {
+      "word": "VENIAL",
+      "answer": "venial"
+    },
+    {
+      "word": "VITIATE",
+      "answer": "vitiated"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The defendant tried to",
+      "part2": "the witness with the promise of a Swiss bank account.",
+      "correct": "suborn",
+      "word": "SUBORN"
+    },
+    {
+      "part1": "The college's most",
+      "part2": "feature is the diversity of its student body.",
+      "correct": "salient",
+      "word": "SALIENT"
+    },
+    {
+      "part1": "The press called the enemy's mistreatment of their prisoners of war",
+      "part2": "and said they ought to be ashamed of themselves.",
+      "correct": "opprobrious",
+      "word": "OPPROBRIOUS"
+    },
+    {
+      "part1": "Their",
+      "part2": "expenditures on parties prevented the business from making a profit.",
+      "correct": "prodigal",
+      "word": "PRODIGAL"
+    },
+    {
+      "part1": "Bayreuth is a(n)",
+      "part2": "for Wagner-lovers; they all travel there to hear his music played.",
+      "correct": "cynosure",
+      "word": "CYNOSURE"
+    },
+    {
+      "part1": "The politician has a(n)",
+      "part2": "nature; it changes to fit the mood of the times.",
+      "correct": "protean",
+      "word": "PROTEAN"
+    },
+    {
+      "part1": "The fundraiser's praise of the rich widow was so",
+      "part2": "that we were embarrassed.",
+      "correct": "fulsome",
+      "word": "FULSOME"
+    },
+    {
+      "part1": "The priest raised his hands over our heads in a(n)",
+      "part2": "gesture of blessing.",
+      "correct": "hieratic",
+      "word": "HIERATIC"
+    },
+    {
+      "part1": "His faults are",
+      "part2": "and hardly worth mentioning when compared with his virtues.",
+      "correct": "venial",
+      "word": "VENIAL"
+    },
+    {
+      "part1": "Their",
+      "part2": "supply of food would not last more than two days, and then they would starve.",
+      "correct": "exiguous",
+      "word": "EXIGUOUS"
+    },
+    {
+      "part1": "The idea was",
+      "part2": "in the fall of 1980, but it was only the next spring that all the details were clear.",
+      "correct": "adumbrated",
+      "word": "ADUMBRATE"
+    },
+    {
+      "part1": "The",
+      "part2": "brochure made the congressman sound like another Abraham Lincoln.",
+      "correct": "tendentious or fulsome",
+      "word": "TENDENTIOUS"
+    },
+    {
+      "part1": "We found the music",
+      "part2": "; its effect was based on cheap tricks rather than on real substance.",
+      "correct": "meretricious",
+      "word": "MERETRICIOUS"
+    },
+    {
+      "part1": "The",
+      "part2": "swords gleamed brilliantly in the bright sun.",
+      "correct": "refulgent",
+      "word": "REFULGENT"
+    },
+    {
+      "part1": "The general was subject to considerable public",
+      "part2": "over what people felt was his cowardice in battle.",
+      "correct": "obloquy",
+      "word": "OBLOQUY"
+    },
+    {
+      "part1": "The top student received a glowing",
+      "part2": "from the principal at graduation.",
+      "correct": "encomium",
+      "word": "ENCOMIUM"
+    },
+    {
+      "part1": "The",
+      "part2": "antagonism between the two nations finally culminated in full-scale war.",
+      "correct": "inchoate",
+      "word": "INCHOATE"
+    },
+    {
+      "part1": "The",
+      "part2": "athlete now gets hardly any exercise at all.",
+      "correct": "quondam",
+      "word": "QUONDAM"
+    },
+    {
+      "part1": "Joe viewed the",
+      "part2": "approach of the final exam with trepidation, but there was nothing he could do to avoid it.",
+      "correct": "ineluctable",
+      "word": "INELUCTABLE"
+    },
+    {
+      "part1": "In a(n)",
+      "part2": "voice he boomed out the instructions for the test.",
+      "correct": "stentorian",
+      "word": "STENTORIAN"
+    },
+    {
+      "part1": "Interest in the team began to",
+      "part2": "when they started losing to weaker opponents.",
+      "correct": "languish",
+      "word": "LANGUISH"
+    },
+    {
+      "part1": "The notorious gossip likes to",
+      "part2": "important people with half-truths and unfounded rumors.",
+      "correct": "traduce",
+      "word": "TRADUCE"
+    },
+    {
+      "part1": "The pleasantness of the holiday weekend was",
+      "part2": "by the numerous holiday fatalities.",
+      "correct": "vitiated",
+      "word": "VITIATE"
+    },
+    {
+      "part1": "The",
+      "part2": "remarks about the man caused his family a great deal of pain and embarrassment.",
+      "correct": "scurrilous",
+      "word": "SCURRILOUS"
+    },
+    {
+      "part1": "The witch's",
+      "part2": "prophecy of doom and destruction proved to be all too true.",
+      "correct": "baleful",
+      "word": "BALEFUL"
+    },
+    {
+      "part1": "The new government",
+      "part2": "all laws regarding the ownership of the land and started redistributing it to the peasants.",
+      "correct": "abrogated",
+      "word": "ABROGATE"
+    },
+    {
+      "part1": "The",
+      "part2": "symbols on the manuscript were understood only by a few philosophers.",
+      "correct": "arcane",
+      "word": "ARCANE"
+    },
+    {
+      "part1": "I do not wish to",
+      "part2": "your motives, but I think your actions have been rather questionable.",
+      "correct": "impugn",
+      "word": "IMPUGN"
+    },
+    {
+      "part1": "The",
+      "part2": "leaf contains many crisscrossing veins.",
+      "correct": "reticulate",
+      "word": "RETICULATE"
+    },
+    {
+      "part1": "The",
+      "part2": "struggle within the committee led to the resignation of three members.",
+      "correct": "internecine",
+      "word": "INTERNECINE"
+    },
+    {
+      "part1": "All our preparations could not",
+      "part2": "the necessity for a hundred last-minute decisions.",
+      "correct": "obviate",
+      "word": "OBVIATE"
+    },
+    {
+      "part1": "The judge felt that ten years in prison would be",
+      "part2": "punishment for the criminal.",
+      "correct": "condign",
+      "word": "CONDIGN"
+    },
+    {
+      "part1": "The book is cogent and",
+      "part2": "; it is a pleasure to read something that is free from obscurity.",
+      "correct": "perspicuous",
+      "word": "PERSPICUOUS"
+    },
+    {
+      "part1": "Any further work on the project would be",
+      "part2": "; it's as good as we can make it.",
+      "correct": "otiose",
+      "word": "OTIOSE"
+    },
+    {
+      "part1": "The scientist",
+      "part2": "that nothing could possibly go wrong with the experiment.",
+      "correct": "averred",
+      "word": "AVER"
+    },
+    {
+      "part1": "Deep in the",
+      "part2": "forest, it was difficult to see even your hand in front of your face.",
+      "correct": "tenebrous",
+      "word": "TENEBROUS"
+    },
+    {
+      "part1": "Her",
+      "part2": "temperament allows her to confront the most bizarre situations in the same steady manner.",
+      "correct": "equable",
+      "word": "EQUABLE"
+    },
+    {
+      "part1": "The water in the",
+      "part2": "mountain stream is utterly pure.",
+      "correct": "limpid",
+      "word": "LIMPID"
+    },
+    {
+      "part1": "In the distance we could",
+      "part2": "a tiny figure making its way toward us.",
+      "correct": "descry",
+      "word": "DESCRY"
+    },
+    {
+      "part1": "The homeowner hurled angry",
+      "part2": "at the children who had broken his window.",
+      "correct": "imprecations",
+      "word": "IMPRECATION"
+    },
+    {
+      "part1": "The play, for many years considered",
+      "part2": ", has definitely been shown to be the work of Christopher Marlowe.",
+      "correct": "apocryphal",
+      "word": "APOCRYPHAL"
+    },
+    {
+      "part1": "I would like to",
+      "part2": "several additional arguments in support of my position.",
+      "correct": "adduce",
+      "word": "ADDUCE"
+    },
+    {
+      "part1": "Bill's",
+      "part2": "breathing when he is asleep is so loud you wonder why it doesn't wake him.",
+      "correct": "stertorous",
+      "word": "STERTOROUS"
+    },
+    {
+      "part1": "He considers his hobby of collecting eighteenth-century bills of lading rather mundane, but we consider it rather",
+      "part2": ".",
+      "correct": "recherché",
+      "word": "RECHERCHÉ"
+    },
+    {
+      "part1": "The medieval",
+      "part2": "of the Latin love poems omitted many of the more erotic passages.",
+      "correct": "redaction",
+      "word": "REDACTION"
+    }
+  ],
+  "type": "fitb",
+  "id": 4
+}

@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABUNDANT",
+      "answer": "abundant"
+    },
+    {
+      "word": "COMPLIMENT",
+      "answer": "compliments"
+    },
+    {
+      "word": "CONSUME",
+      "answer": "consumed"
+    },
+    {
+      "word": "CRISIS",
+      "answer": "crisis"
+    },
+    {
+      "word": "DEDICATED",
+      "answer": "dedicated"
+    },
+    {
+      "word": "DETECT",
+      "answer": "detect"
+    },
+    {
+      "word": "DISREGARD",
+      "answer": "disregarded"
+    },
+    {
+      "word": "DISRUPT",
+      "answer": "disrupted"
+    },
+    {
+      "word": "DISSECT",
+      "answer": "dissect"
+    },
+    {
+      "word": "DISTRESS",
+      "answer": "distressed"
+    },
+    {
+      "word": "EPISODE",
+      "answer": "episode"
+    },
+    {
+      "word": "FLAWLESS",
+      "answer": "flawless"
+    },
+    {
+      "word": "FULFILL",
+      "answer": "fulfilled"
+    },
+    {
+      "word": "HARNESS",
+      "answer": "harness"
+    },
+    {
+      "word": "HORDE",
+      "answer": "horde"
+    },
+    {
+      "word": "IMPULSE",
+      "answer": "impulse"
+    },
+    {
+      "word": "INFURIATE",
+      "answer": "infuriate"
+    },
+    {
+      "word": "INTERNAL",
+      "answer": "internal"
+    },
+    {
+      "word": "ISOLATED",
+      "answer": "isolated"
+    },
+    {
+      "word": "JUNCTION",
+      "answer": "junction"
+    },
+    {
+      "word": "LOYAL",
+      "answer": "loyal"
+    },
+    {
+      "word": "MOBILE",
+      "answer": "mobile"
+    },
+    {
+      "word": "MOURN",
+      "answer": "mourned"
+    },
+    {
+      "word": "NUISANCE",
+      "answer": "nuisance"
+    },
+    {
+      "word": "POSSESS",
+      "answer": "possess"
+    },
+    {
+      "word": "PRECIOUS",
+      "answer": "precious"
+    },
+    {
+      "word": "PROTEST",
+      "answer": "protested"
+    },
+    {
+      "word": "PURSUE",
+      "answer": "pursued"
+    },
+    {
+      "word": "QUALIFIED",
+      "answer": "qualified"
+    },
+    {
+      "word": "RESTRAIN",
+      "answer": "restrain"
+    },
+    {
+      "word": "SLACKEN",
+      "answer": "slacken"
+    },
+    {
+      "word": "SLUMBER",
+      "answer": "slumber"
+    },
+    {
+      "word": "SOOTHE",
+      "answer": "soothe"
+    },
+    {
+      "word": "STABLE",
+      "answer": "stable"
+    },
+    {
+      "word": "STRIDE",
+      "answer": "strides"
+    },
+    {
+      "word": "STRIVE",
+      "answer": "strive"
+    },
+    {
+      "word": "SUMMON",
+      "answer": "summoned"
+    },
+    {
+      "word": "SWINDLE",
+      "answer": "swindled"
+    },
+    {
+      "word": "TOLERATE",
+      "answer": "tolerate"
+    },
+    {
+      "word": "TORMENT",
+      "answer": "torment "
+    },
+    {
+      "word": "TRIBUTE",
+      "answer": "tribute"
+    },
+    {
+      "word": "UNSETTLE",
+      "answer": "unsettled"
+    },
+    {
+      "word": "VOW",
+      "answer": "vow"
+    },
+    {
+      "word": "WEARY",
+      "answer": "weary"
+    },
+    {
+      "word": "WOE",
+      "answer": "woe"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "Jack was pleased by the many",
+      "part2": "he received about the way he looked.",
+      "correct": "compliments",
+      "word": "COMPLIMENT"
+    },
+    {
+      "part1": "It's impossible to",
+      "part2": "the stain unless you examine the dress carefully.",
+      "correct": "detect",
+      "word": "DETECT"
+    },
+    {
+      "part1": "Mrs. Jackson",
+      "part2": "the death of her husband for many years.",
+      "correct": "mourned",
+      "word": "MOURN"
+    },
+    {
+      "part1": "Johnny constantly",
+      "part2": "the class by making noises and throwing things.",
+      "correct": "disrupted",
+      "word": "DISRUPT"
+    },
+    {
+      "part1": "I was surprised by how much money they",
+      "part2": "; they're really quite wealthy.",
+      "correct": "possess",
+      "word": "POSSESS"
+    },
+    {
+      "part1": "She kept her most",
+      "part2": "jewels locked in a safe.",
+      "correct": "precious",
+      "word": "PRECIOUS"
+    },
+    {
+      "part1": "Our picnic was spoiled by the",
+      "part2": "of mosquitoes that suddenly descended on us.",
+      "correct": "horde",
+      "word": "HORDE"
+    },
+    {
+      "part1": "A town was built at the",
+      "part2": "of the two main highways.",
+      "correct": "junction",
+      "word": "JUNCTION"
+    },
+    {
+      "part1": "The president",
+      "part2": "businessmen from all across the country to the meeting.",
+      "correct": "summoned",
+      "word": "SUMMON"
+    },
+    {
+      "part1": "Each chapter discusses a different",
+      "part2": "in the life of the author.",
+      "correct": "episode",
+      "word": "EPISODE"
+    },
+    {
+      "part1": "Gus didn't",
+      "part2": "hard enough to improve, and so he just stayed the same.",
+      "correct": "strive",
+      "word": "STRIVE"
+    },
+    {
+      "part1": "Andy has not been very",
+      "part2": "since they put the cast on his leg.",
+      "correct": "mobile",
+      "word": "MOBILE"
+    },
+    {
+      "part1": "The doctor had to",
+      "part2": "the animal to find out what had caused its death.",
+      "correct": "dissect",
+      "word": "DISSECT"
+    },
+    {
+      "part1": "It's quite a(n)",
+      "part2": "for us to have to drive him home, but I suppose we have to do it.",
+      "correct": "nuisance",
+      "word": "NUISANCE"
+    },
+    {
+      "part1": "We",
+      "part2": "him through three states before we finally caught up with him.",
+      "correct": "pursued",
+      "word": "PURSUE"
+    },
+    {
+      "part1": "The cure for the disease was very painful; it caused him greater",
+      "part2": "than the disease itself.",
+      "correct": "torment ",
+      "word": "TORMENT"
+    },
+    {
+      "part1": "Her short unhappy life was full of",
+      "part2": ".",
+      "correct": "woe",
+      "word": "WOE"
+    },
+    {
+      "part1": "Two men posing as insurance salesmen",
+      "part2": "the lady out of her life's savings.",
+      "correct": "swindled",
+      "word": "SWINDLE"
+    },
+    {
+      "part1": "He",
+      "part2": "the warning on the bottle, and swallowed all the pills in it.",
+      "correct": "disregarded",
+      "word": "DISREGARD"
+    },
+    {
+      "part1": "The rebels remained",
+      "part2": "to their cause even after all hope of victory was gone.",
+      "correct": "loyal",
+      "word": "LOYAL"
+    },
+    {
+      "part1": "When Ed received only half of his usual allowance he",
+      "part2": "to his mother about it.",
+      "correct": "protested",
+      "word": "PROTEST"
+    },
+    {
+      "part1": "In wintertime the village is cut off from the outside world; it is totally",
+      "part2": ".",
+      "correct": "isolated",
+      "word": "ISOLATED"
+    },
+    {
+      "part1": "The sudden noise",
+      "part2": "us; we began to think that perhaps there was a robber in the house.",
+      "correct": "unsettled",
+      "word": "UNSETTLE"
+    },
+    {
+      "part1": "Her paper was",
+      "part2": "; no one could find a mistake in it.",
+      "correct": "flawless",
+      "word": "FLAWLESS"
+    },
+    {
+      "part1": "Jack took a few long",
+      "part2": "to reach the other end of the gym.",
+      "correct": "strides",
+      "word": "STRIDE"
+    },
+    {
+      "part1": "Their hopes of having a daughter were finally",
+      "part2": "when Marie was born.",
+      "correct": "fulfilled",
+      "word": "FULFILL"
+    },
+    {
+      "part1": "In Holland, windmills are used to",
+      "part2": "the power of the wind.",
+      "correct": "harness",
+      "word": "HARNESS"
+    },
+    {
+      "part1": "Delays",
+      "part2": "Peter; he hates to be late for anything.",
+      "correct": "infuriate",
+      "word": "INFURIATE"
+    },
+    {
+      "part1": "The lungs, heart, and liver are some of the",
+      "part2": "organs of the human body.",
+      "correct": "internal",
+      "word": "INTERNAL"
+    },
+    {
+      "part1": "He is so",
+      "part2": "to his job that he will work all night to make sure everything is right.",
+      "correct": "dedicated",
+      "word": "DEDICATED"
+    },
+    {
+      "part1": "Gail was supposed to be taking a little nap, but she soon fell into a deep",
+      "part2": ".",
+      "correct": "slumber",
+      "word": "SLUMBER"
+    },
+    {
+      "part1": "Donna rubbed lotion on to try to",
+      "part2": "the pain of the sunburn.",
+      "correct": "soothe",
+      "word": "SOOTHE"
+    },
+    {
+      "part1": "It was a serious",
+      "part2": "for our company; we almost went out of business, but we managed to pull through.",
+      "correct": "crisis",
+      "word": "CRISIS"
+    },
+    {
+      "part1": "Our family",
+      "part2": "two whole turkeys last Thanksgiving.",
+      "correct": "consumed",
+      "word": "CONSUME"
+    },
+    {
+      "part1": "The lamp was not very",
+      "part2": "; it fell over every time you brushed against it.",
+      "correct": "stable",
+      "word": "STABLE"
+    },
+    {
+      "part1": "We have a(n)",
+      "part2": "supply of tomatoes; we'll never be able to eat them all ourselves.",
+      "correct": "abundant",
+      "word": "ABUNDANT"
+    },
+    {
+      "part1": "The park is named Jones Field as a(n)",
+      "part2": "to our mayor, without whom it would never have existed.",
+      "correct": "tribute",
+      "word": "TRIBUTE"
+    },
+    {
+      "part1": "The teacher can",
+      "part2": "students who make mistakes, but she can't stand students who lie about them.",
+      "correct": "tolerate",
+      "word": "TOLERATE"
+    },
+    {
+      "part1": "He broke his",
+      "part2": "never to take another drink.",
+      "correct": "vow",
+      "word": "VOW"
+    },
+    {
+      "part1": "Don tried to overcome the",
+      "part2": "to break things whenever he was angry.",
+      "correct": "impulse",
+      "word": "IMPULSE"
+    },
+    {
+      "part1": "I became very",
+      "part2": "of hotdogs after having them for supper every night for a month.",
+      "correct": "weary",
+      "word": "WEARY"
+    },
+    {
+      "part1": "Our rate of working started to",
+      "part2": "as we became more and more tired.",
+      "correct": "slacken",
+      "word": "SLACKEN"
+    },
+    {
+      "part1": "As a lawyer he knows the law thoroughly; he is well",
+      "part2": "to become a judge.",
+      "correct": "qualified",
+      "word": "QUALIFIED"
+    },
+    {
+      "part1": "It took three of us to",
+      "part2": "him from attacking the other man.",
+      "correct": "restrain",
+      "word": "RESTRAIN"
+    },
+    {
+      "part1": "I was",
+      "part2": "to find out that I had failed the exam.",
+      "correct": "distressed",
+      "word": "DISTRESS"
+    }
+  ],
+  "type": "fitb",
+  "id": 3
+}

@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "AGENDA",
+      "answer": "agenda"
+    },
+    {
+      "word": "BEHOLD",
+      "answer": "beheld"
+    },
+    {
+      "word": "BRISK",
+      "answer": "brisk"
+    },
+    {
+      "word": "CALAMITY",
+      "answer": "calamity"
+    },
+    {
+      "word": "COMMERCE",
+      "answer": "Commerce"
+    },
+    {
+      "word": "CONDEMN",
+      "answer": "condemned"
+    },
+    {
+      "word": "CONQUEST",
+      "answer": "conquest"
+    },
+    {
+      "word": "CORONATION",
+      "answer": "coronation"
+    },
+    {
+      "word": "DENOUNCE",
+      "answer": "denounced"
+    },
+    {
+      "word": "DINGY",
+      "answer": "dingy"
+    },
+    {
+      "word": "DISCLOSE",
+      "answer": "disclose"
+    },
+    {
+      "word": "DISTINCT",
+      "answer": "distinct"
+    },
+    {
+      "word": "EARNEST",
+      "answer": "earnest"
+    },
+    {
+      "word": "ELABORATE",
+      "answer": "elaborate"
+    },
+    {
+      "word": "EMPLOY",
+      "answer": "employ"
+    },
+    {
+      "word": "ENTAIL",
+      "answer": "entail"
+    },
+    {
+      "word": "ENTERPRISE",
+      "answer": "enterprise"
+    },
+    {
+      "word": "ETIQUETTE",
+      "answer": "etiquette"
+    },
+    {
+      "word": "GALA",
+      "answer": "gala"
+    },
+    {
+      "word": "INTERVENE",
+      "answer": "intervene"
+    },
+    {
+      "word": "MANIPULATE",
+      "answer": "manipulate"
+    },
+    {
+      "word": "MATERNAL",
+      "answer": "maternal"
+    },
+    {
+      "word": "MULTITUDE",
+      "answer": "multitude"
+    },
+    {
+      "word": "MURAL",
+      "answer": "mural"
+    },
+    {
+      "word": "NONCHALANT",
+      "answer": "nonchalant"
+    },
+    {
+      "word": "OBSCURE",
+      "answer": "obscure"
+    },
+    {
+      "word": "OOZE",
+      "answer": "oozed"
+    },
+    {
+      "word": "OPTIMISTIC",
+      "answer": "optimistic"
+    },
+    {
+      "word": "ORATION",
+      "answer": "oration"
+    },
+    {
+      "word": "PERILOUS",
+      "answer": "perilous"
+    },
+    {
+      "word": "PRELIMINARY",
+      "answer": "preliminary"
+    },
+    {
+      "word": "PRIMARILY",
+      "answer": "primarily"
+    },
+    {
+      "word": "REMNANT",
+      "answer": "remnants"
+    },
+    {
+      "word": "REMOTE",
+      "answer": "remote"
+    },
+    {
+      "word": "RIVALRY",
+      "answer": "rivalry"
+    },
+    {
+      "word": "SATANIC",
+      "answer": "satanic"
+    },
+    {
+      "word": "SHUN",
+      "answer": "shunned"
+    },
+    {
+      "word": "STERN",
+      "answer": "stern"
+    },
+    {
+      "word": "STRENUOUS",
+      "answer": "strenuous"
+    },
+    {
+      "word": "STREW",
+      "answer": "strewn"
+    },
+    {
+      "word": "STUPENDOUS",
+      "answer": "stupendous"
+    },
+    {
+      "word": "SUBDUE",
+      "answer": "subdue"
+    },
+    {
+      "word": "TESTY",
+      "answer": "testy"
+    },
+    {
+      "word": "VENGEANCE",
+      "answer": "vengeance"
+    },
+    {
+      "word": "VULNERABLE",
+      "answer": "vulnerable"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "He knew that becoming a doctor would",
+      "part2": "many years of training.",
+      "correct": "entail",
+      "word": "ENTAIL"
+    },
+    {
+      "part1": "In the box was the most beautiful diamond ring she had ever",
+      "part2": ".",
+      "correct": "beheld",
+      "word": "BEHOLD"
+    },
+    {
+      "part1": "He was very",
+      "part2": "about winning the championship; you'd think it happened to him every day.",
+      "correct": "nonchalant",
+      "word": "NONCHALANT"
+    },
+    {
+      "part1": "The senator gave a long",
+      "part2": "about the need for peace in the world.",
+      "correct": "oration",
+      "word": "ORATION"
+    },
+    {
+      "part1": "The tablecloth was so",
+      "part2": "after years of use that we were ashamed of it.",
+      "correct": "dingy",
+      "word": "DINGY"
+    },
+    {
+      "part1": "It is difficult to",
+      "part2": "people into doing something they are totally unwilling to do.",
+      "correct": "manipulate",
+      "word": "MANIPULATE"
+    },
+    {
+      "part1": "He had to",
+      "part2": "more carpenters to get the project finished on time.",
+      "correct": "employ",
+      "word": "EMPLOY"
+    },
+    {
+      "part1": "His desire for revenge was uncontrollable; his life was spent seeking",
+      "part2": "against the murderers of his father.",
+      "correct": "vengeance",
+      "word": "VENGEANCE"
+    },
+    {
+      "part1": "The critics called it a(n)",
+      "part2": "play, one of the greatest ever written.",
+      "correct": "stupendous",
+      "word": "STUPENDOUS"
+    },
+    {
+      "part1": "He is very",
+      "part2": "about becoming a millionaire. He is working toward that goal twenty-four hours a day.",
+      "correct": "earnest",
+      "word": "EARNEST"
+    },
+    {
+      "part1": "Her",
+      "part2": "instincts were aroused when she saw the little baby crying.",
+      "correct": "maternal",
+      "word": "MATERNAL"
+    },
+    {
+      "part1": "She was afraid to",
+      "part2": "the secret information she had about the criminals.",
+      "correct": "disclose",
+      "word": "DISCLOSE"
+    },
+    {
+      "part1": "We had a(n)",
+      "part2": "celebration to mark the end of the school year.",
+      "correct": "gala",
+      "word": "GALA"
+    },
+    {
+      "part1": "Their army was so tired and hungry that it was quite",
+      "part2": "to an attack by the enemy.",
+      "correct": "vulnerable",
+      "word": "VULNERABLE"
+    },
+    {
+      "part1": "Their vacation home was in a(n)",
+      "part2": "area, far away from noise and traffic.",
+      "correct": "remote",
+      "word": "REMOTE"
+    },
+    {
+      "part1": "The newspaper",
+      "part2": "the new law as a threat to freedom of the press.",
+      "correct": "denounced",
+      "word": "DENOUNCE"
+    },
+    {
+      "part1": "The general said it was his soldiers who should get the credit for the",
+      "part2": "of the enemy city.",
+      "correct": "conquest",
+      "word": "CONQUEST"
+    },
+    {
+      "part1": "In the cluttered little store, every surface was",
+      "part2": "with items for sale.",
+      "correct": "strewn",
+      "word": "STREW"
+    },
+    {
+      "part1": "The rug had a(n)",
+      "part2": "pattern in it which had obviously taken years to weave.",
+      "correct": "elaborate",
+      "word": "ELABORATE"
+    },
+    {
+      "part1": "After so much",
+      "part2": "activity she was extremely tired.",
+      "correct": "strenuous",
+      "word": "STRENUOUS"
+    },
+    {
+      "part1": "His lack of education",
+      "part2": "him to a low-paying job.",
+      "correct": "condemned",
+      "word": "CONDEMN"
+    },
+    {
+      "part1": "The judge looked very",
+      "part2": "as she walked into the courtroom. We knew she wouldn't put up with any nonsense.",
+      "correct": "stern",
+      "word": "STERN"
+    },
+    {
+      "part1": "The writer was",
+      "part2": "and unappreciated during his lifetime, but after his death he became famous.",
+      "correct": "obscure",
+      "word": "OBSCURE"
+    },
+    {
+      "part1": "The",
+      "part2": "results showed him to be the winner, but in the final figures he came in second.",
+      "correct": "preliminary",
+      "word": "PRELIMINARY"
+    },
+    {
+      "part1": "A few deserted buildings and ruined houses were the only",
+      "part2": "of the once-great city.",
+      "correct": "remnants",
+      "word": "REMNANT"
+    },
+    {
+      "part1": "The Interstate",
+      "part2": "Commission regulates the shipment of goods across state lines.",
+      "correct": "Commerce",
+      "word": "COMMERCE"
+    },
+    {
+      "part1": "I think the teacher was being",
+      "part2": "when she said we would all be rich and famous.",
+      "correct": "optimistic",
+      "word": "OPTIMISTIC"
+    },
+    {
+      "part1": "The usually pleasant bus driver began to act",
+      "part2": "because of the heat and noise and heavy traffic.",
+      "correct": "testy",
+      "word": "TESTY"
+    },
+    {
+      "part1": "Only the most important people in the land received invitations to attend the",
+      "part2": "of the new king.",
+      "correct": "coronation",
+      "word": "CORONATION"
+    },
+    {
+      "part1": "Getting through enemy lines was a daring and dangerous",
+      "part2": "for the spies.",
+      "correct": "enterprise",
+      "word": "ENTERPRISE"
+    },
+    {
+      "part1": "The wind was so",
+      "part2": "that we had trouble walking into it.",
+      "correct": "brisk",
+      "word": "BRISK"
+    },
+    {
+      "part1": "He painted a large",
+      "part2": "on one whole wall of his bedroom.",
+      "correct": "mural",
+      "word": "MURAL"
+    },
+    {
+      "part1": "Bob managed to",
+      "part2": "three of his attackers singlehandedly, and the rest fled in fear.",
+      "correct": "subdue",
+      "word": "SUBDUE"
+    },
+    {
+      "part1": "There was quite a(n)",
+      "part2": "among the students to see who would get the scholarship.",
+      "correct": "rivalry",
+      "word": "RIVALRY"
+    },
+    {
+      "part1": "His injury is a(n)",
+      "part2": "because the team doesn't have another quarterback.",
+      "correct": "calamity",
+      "word": "CALAMITY"
+    },
+    {
+      "part1": "After they broke up, she",
+      "part2": "any further contact with him.",
+      "correct": "shunned",
+      "word": "SHUN"
+    },
+    {
+      "part1": "There was a(n)",
+      "part2": "of people in the stands for the championship game.",
+      "correct": "multitude",
+      "word": "MULTITUDE"
+    },
+    {
+      "part1": "The next item on the committee's",
+      "part2": "is a discussion of the financial report.",
+      "correct": "agenda",
+      "word": "AGENDA"
+    },
+    {
+      "part1": "Jim is",
+      "part2": "paid to pump gasoline, although he has other duties as well.",
+      "correct": "primarily",
+      "word": "PRIMARILY"
+    },
+    {
+      "part1": "The writing was so",
+      "part2": "that I could make it out quite easily, even from the back of the room.",
+      "correct": "distinct",
+      "word": "DISTINCT"
+    },
+    {
+      "part1": "His situation was truly",
+      "part2": "He was hanging from the bridge by a thin rope, and the rope was breaking.",
+      "correct": "perilous",
+      "word": "PERILOUS"
+    },
+    {
+      "part1": "Milk",
+      "part2": "out of the small hole in the bottom of the carton.",
+      "correct": "oozed",
+      "word": "OOZE"
+    },
+    {
+      "part1": "The look on his face was truly",
+      "part2": "; I felt sure he was going to murder me.",
+      "correct": "satanic",
+      "word": "SATANIC"
+    },
+    {
+      "part1": "The president decided to",
+      "part2": "in the dispute between the union and the industry.",
+      "correct": "intervene",
+      "word": "INTERVENE"
+    },
+    {
+      "part1": "He said it went against legal",
+      "part2": "to give advice to both sides in the dispute.",
+      "correct": "etiquette",
+      "word": "ETIQUETTE"
+    }
+  ],
+  "type": "fitb",
+  "id": 2
+}

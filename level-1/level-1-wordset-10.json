@@ -1,0 +1,602 @@
+{
+  "title": "1.10",
+  "definitions": {
+    "NAVIGATE": {
+      "word": "NAVIGATE",
+      "phonetic": "(nav'-ÔøΩgAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to steer, sail </p><p>NAVIGATE is related to the word navy. Both come from a Latin word meaning <i class=“def-ital\">ship</i>. The basic meaning of NAVIGATE is to “steer a ship.” Now the word also means to steer or direct your course anywhere, in the water, on the ground, or in the air. “The pilot NAVIGATED the damaged plane to a successful landing.” </p><p>“Can you NAVIGATE the boat through the rapids?” </p><p>“We expect you to be able to NAVIGATE anywhere after you have finished this course in sailing.” </p><p>Other forms of the word: NAVIGATION, n. </p><p>NAVIGATOR, n.</p>"
+    },
+    "FAINT": {
+      "word": "FAINT",
+      "phonetic": "(fAnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dim, weak, unclear, indistinct </p><p>Something that is FAINT lacks strength. A person who “feels FAINT” feels sick and dizzy, as if he or she were about to pass out. FAINT can be used about sounds, lights, smells, memories, and other things. </p><p>“There was a FAINT smell of roses in the air as they approached the garden.” </p><p>“He could barely hear the FAINT sound of the distant train whistle.” </p><p>“There is only a very FAINT hope that any of the trapped miners will survive.” </p><p>The verb to FAINT is usually used about people and means “to lose consciousness,” to <i class=“def-ital\">pass out</i>. </p><p>“Many people FAINTED in the heat during the long speech.”</p>"
+    },
+    "HOMICIDE": {
+      "word": "HOMICIDE",
+      "phonetic": "(hom'-ÔøΩsld)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the killing of a human being, murder </p><p>HOMICIDE is the killing of a person by another person. “The medical examiner ruled that the death was a HOMICIDE.” </p><p>“The detective was assigned to investigate cases of HOMICIDE.” </p><p>HOMICIDE and <i class=“def-ital\">murder</i> have almost the same meaning, but there is a slight difference. <i class=“def-ital\">Murder</i> is the <i class=“def-ital\">unlawful</i> killing of a person. If you kill someone in self-defense, that would be HOMICIDE, but it wouldn’t be <i class=“def-ital\">murder</i>, since the killing would be legal. All <i class=“def-ital\">murders</i> are HOMICIDES, but not all HOMICIDES are <i class=“def-ital\">murders</i>.</p>"
+    },
+    "SHRIEK": {
+      "word": "SHRIEK",
+      "phonetic": "(shrEk)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to scream, screech, cry out </p><p>To SHRIEK is to scream or screech suddenly or loudly, usually with a very high sound. </p><p>“She SHRIEKED when she heard the unexpected knock on the door.” </p><p>SHRIEK is also a noun meaning a <i class=“def-ital\">scream</i>. </p><p>“She let out a piercing SHRIEK when she saw the accident.” </p><p>“The SHRIEKS of the angry birds disturbed my nap.”</p>"
+    },
+    "ELEMENTARY": {
+      "word": "ELEMENTARY",
+      "phonetic": "(el-ÔøΩmen'-tÔøΩrE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">basic, fundamental, simple </p><p>An ELEMENT is a basic part of something. The chemical ELEMENTS, for example, are the basic substances like oxygen and carbon which combine to form all matter. Something that is ELEMENTARY, therefore, has to do with the basic or first parts of a subject or a thing. </p><p>“He learned some of the ELEMENTARY steps, but he never became an expert dancer.” </p><p>“You have to pass ELEMENTARY French before you can take advanced courses.” </p><p>An ELEMENTARY school teaches children basic subjects like reading, writing, and arithmetic. Other forms of the word: ELEMENT, n.</p>"
+    },
+    "INCINERATE": {
+      "word": "INCINERATE",
+      "phonetic": "(in-sin'-ÔøΩrAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to burn, reduce to ashes </p><p>INCINERATE comes from the Latin word for ashes and means to “burn to ashes.” </p><p>“He INCINERATED the pile of leaves in the backyard.” </p><p>An INCINERATOR is a place for INCINERATING, a furnace. </p><p>“We placed all the trash in the INCINERATOR.” </p><p>Other forms of the word: INCINERATOR, n.</p>"
+    },
+    "OCCASIONALLY": {
+      "word": "OCCASIONALLY",
+      "phonetic": "(:;i-kA'-zhÔøΩn-ÔøΩ1-E)",
+      "pos": "adv.",
+      "deftext": "<p class=\"definition\">sometimes, now and then, at times </p><p>OCCASIONALLY is an adverb from OCCASIONAL, which means “happening now and then.” </p><p>“There were OCCASIONAL mistakes in the book, but in general it was quite good.” </p><p>OCCASIONALLY means <i class=“def-ital\">at times</i>, <i class=“def-ital\">now and then</i>. On the Pretest, many people pick <i class=“def-ital\">often</i> as the meaning of OCCA- SIONALLY, but something that happens OCCASIONALLY doesn’t happen very <i class=“def-ital\">often</i> at all. </p><p>“She OCCASIONALLY went to the movies, but preferred watching television.” </p><p>“We have turkey only OCCASIONALLY-maybe two or three times a year.” </p><p>Other forms of the word: OCCASION, n. </p><p>OCCASIONAL, adj.</p>"
+    },
+    "ASSAULT": {
+      "word": "ASSAULT",
+      "phonetic": "(ÔøΩsolt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to attack </p><p>To ASSAULT someone is to attack him, usually violently or suddenly. </p><p>“The three youths ASSAULTED the defenseless girl.” </p><p>“The soldiers ASSAULTED the enemy positions.” </p><p>ASSAULT is also a noun. </p><p>“We managed to turn back the enemy’s ASSAULT.” </p><p>Sometimes an ASSAULT can be in words. </p><p>“The mayor considered the newspaper articles to be an ASSAULT on his good reputation.”</p>"
+    },
+    "MUFFLE": {
+      "word": "MUFFLE",
+      "phonetic": "(muhf'-ÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to wrap up, cover over; to deaden the sound of </p><p>To MUFFLE or MUFFLE up something is to wrap it up. You can MUFFLE something to keep it warm or hide it. </p><p>“She MUFFLED her neck with a scarf.” </p><p>“He MUFFLED up in a heavy coat before going out into the cold.” </p><p>Or you can MUFFLE something to keep it from being noisy. </p><p>“They tried to MUFFLE the noise of the machine by wrapping it in cotton.” </p><p>On a car, a MUFFLER is a device that deadens the sound of the engine. Many people choose move as the meaning of MUFFLE, perhaps because MUFFLE sounds like shuffle, which is a kind of movement. </p><p>Other forms of the word: MUFFLER, n. </p><p>Usage: MUFFLE is sometimes followed by up.</p>"
+    },
+    "HOBBLE": {
+      "word": "HOBBLE",
+      "phonetic": "(hob'-ÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to limp, move awkwardly; to hamper the action of </p><p>To HOBBLE is to walk with difficulty, as if your feet or legs were hurt. </p><p>“The old man HOBBLED down the street, leaning heavily on his cane.” </p><p>“With his broken ankle Don can barely HOBBLE.” </p><p>To HOBBLE someone or something is to cause it to move awkwardly, to hamper or bother it. </p><p>“The tight-fitting shoes HOBBLED her as she tried to walk across the room.”</p>"
+    },
+    "LINK": {
+      "word": "LINK",
+      "phonetic": "(lingk)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to join, connect </p><p>A LINK is one of the rings or loops in a chain. To LINK things is to connect them, to join them together the way LINKS are joined in a chain. </p><p>“They built a bridge to LINK the two sides of the river.” </p><p>“Our common interest in fishing LINKS us together.” </p><p>LINK is often used with <i class=“def-ital\">up</i>. </p><p>“The two ends were LINKED up with one another by means of a rope.”</p>"
+    },
+    "RESIST": {
+      "word": "RESIST",
+      "phonetic": "{ri-zist')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to oppose, withstand </p><p>To RESIST something is to withstand its power or force. </p><p>“The enemy RESISTED our attack.” </p><p>“The youth was charged with RESISTING arrest.” </p><p>“I couldn’t RESIST buying this necklace.” </p><p>“This glass can RESIST temperatures of up to a thou- sand degrees.” </p><p>RESISTANCE is the power of RESISTING. </p><p>“The insects had developed a RESISTANCE to that poison\"-that is, they could withstand its effects. </p><p>Other forms of the word: RESISTANCE, n. </p><p>RESISTANT, adj.</p>"
+    },
+    "GRIEF": {
+      "word": "GRIEF",
+      "phonetic": "(grEf)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">deep sorrow, sadness, mental suffering, misery </p><p>GRIEF is a very strong degree of <i class=“def-ital\">sadness</i> or <i class=“def-ital\">sorrow</i>. </p><p>GRIEF usually suggests sadness that is caused by loss, pain, regret, or despair, and that lasts for a long time or is very deep. </p><p>“No one could ease her GRIEF when she discovered that her son had died.” </p><p>“Jim’s GRIEF over her decision to leave him was almost unbearable.” </p><p>The phrase “to come to GRIEF” means “to meet misfortune or disappointment.” </p><p>“This project will come to GRIEF unless we work harder.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">anger</i>. <i class=“def-ital\">Anger</i> is another strong emotion, but it is not the same as GRIEF. Other forms of the word: GRIEVE, v.</p>"
+    },
+    "MOOD": {
+      "word": "MOOD",
+      "phonetic": "(mUd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a state of mind, feeling </p><p>A MOOD is a state of mind, the way a person feels men- tally at a certain time. </p><p>“His MOODS change constantly. He’s happy one minute and sad the next.” </p><p>“She said she isn’t in the MOOD to work right now.” </p><p>MOOD is also used about the general spirits of a group of people. </p><p>“The country is in an angry MOOD.” </p><p>“His writings reflect the MOOD of the times.” </p><p>A person who is MOODY has MOODS that often change. MOODY is usually used about a person who often has un- happy or angry MOODS. </p><p>“He becomes MOODY and won’t talk to anyone whenever he loses a game.” </p><p>Other forms of the word: MOODY, adj.</p>"
+    },
+    "QUAKE": {
+      "word": "QUAKE",
+      "phonetic": "(kwAk)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shake, tremble </p><p>QUAKE means to <i class=“def-ital\">shake</i>, usually violently. </p><p>“Every time the train roared by the entire house would QUAKE.” </p><p>People QUAKE from cold or fear. </p><p>“When I saw the monster I started QUAKING so badly that I couldn’t run.” </p><p>QUAKE, as a noun, is short for <i class=“def-ital\">earthquake</i>. In an <i class=“def-ital\">earthquake</i> the ground starts shaking, which causes great damage to buildings and property.</p>"
+    }
+  },
+  "id": "10",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "NAVIGATE the ship.",
+          "answers": [
+            "sink",
+            "clean",
+            "board",
+            "steer",
+            "find"
+          ],
+          "word": "NAVIGATE",
+          "correct": "steer"
+        },
+        {
+          "prompt": "FAINT memories.",
+          "answers": [
+            "odd",
+            "pleasant",
+            "dim",
+            "old",
+            "powerful"
+          ],
+          "word": "FAINT",
+          "correct": "dim"
+        },
+        {
+          "prompt": "A case of HOMICIDE.",
+          "answers": [
+            "robbery",
+            "lying",
+            "false arrest",
+            "bribery",
+            "murder"
+          ],
+          "word": "HOMICIDE",
+          "correct": "murder"
+        },
+        {
+          "prompt": "They SHRIEK.",
+          "answers": [
+            "scream",
+            "weep",
+            "fly",
+            "fight",
+            "hide"
+          ],
+          "word": "SHRIEK",
+          "correct": "scream"
+        },
+        {
+          "prompt": "ELEMENTARY ideas.",
+          "answers": [
+            "basic",
+            "useless",
+            "important",
+            "advanced",
+            "incorrect"
+          ],
+          "word": "ELEMENTARY",
+          "correct": "basic"
+        },
+        {
+          "prompt": "To INCINERATE it.",
+          "answers": [
+            "save",
+            "dump",
+            "crush",
+            "burn",
+            "search"
+          ],
+          "word": "INCINERATE",
+          "correct": "burn"
+        },
+        {
+          "prompt": "OCCASIONALLY late.",
+          "answers": [
+            "always",
+            "already",
+            "often",
+            "sometimes",
+            "never"
+          ],
+          "word": "OCCASIONALLY",
+          "correct": "sometimes"
+        },
+        {
+          "prompt": "To ASSAULT him.",
+          "answers": [
+            "help",
+            "dislike",
+            "attack",
+            "rob",
+            "laugh at"
+          ],
+          "word": "ASSAULT",
+          "correct": "attack"
+        },
+        {
+          "prompt": "MUFFLE up carefully.",
+          "answers": [
+            "give",
+            "wrap",
+            "wash",
+            "open",
+            "move"
+          ],
+          "word": "MUFFLE",
+          "correct": "wrap"
+        },
+        {
+          "prompt": "Began to HOBBLE.",
+          "answers": [
+            "jump",
+            "crawl",
+            "run",
+            "yell",
+            "limp"
+          ],
+          "word": "HOBBLE",
+          "correct": "limp"
+        },
+        {
+          "prompt": "LINK the wires.",
+          "answers": [
+            "drop",
+            "join",
+            "cut",
+            "hold",
+            "twist"
+          ],
+          "word": "LINK",
+          "correct": "join"
+        },
+        {
+          "prompt": "He may RESIST it.",
+          "answers": [
+            "help",
+            "attack",
+            "need",
+            "hate",
+            "oppose"
+          ],
+          "word": "RESIST",
+          "correct": "oppose"
+        },
+        {
+          "prompt": "The cause of her GRIEF.",
+          "answers": [
+            "smile",
+            "delight",
+            "sadness",
+            "anger",
+            "sickness"
+          ],
+          "word": "GRIEF",
+          "correct": "sadnÔøΩss"
+        },
+        {
+          "prompt": "His MOOD.",
+          "answers": [
+            "idea",
+            "way of life",
+            "happiness",
+            "state of mind",
+            "decision"
+          ],
+          "word": "MOOD",
+          "correct": "state of mind"
+        },
+        {
+          "prompt": "Fear made them QUAKE.",
+          "answers": [
+            "tremble",
+            "run",
+            "fight",
+            "stop",
+            "hide"
+          ],
+          "word": "QUAKE",
+          "correct": "tremble"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Should a pilot be able to NAVIGATE a plane?",
+          "word": "NAVIGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it easy to see a FAINT star?",
+          "word": "FAINT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is running over a dog HOMICIDE?",
+          "word": "HOMICIDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a person SHRIEK from fear?",
+          "word": "SHRIEK",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are reading, writing, and arithmetic ELEMENTARY subjects?",
+          "word": "ELEMENTARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it easy to INCINERATE gold and silver?",
+          "word": "INCINERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are most people OCCASIONALLY angry?",
+          "word": "OCCASIONALLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you only ASSAULT someone by hitting him?",
+          "word": "ASSAULT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people MUFFLE up in order to keep warm?",
+          "word": "MUFFLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a good racehorse HOBBLE?",
+          "word": "HOBBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are a father and his son LINKED in any way?",
+          "word": "LINK",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does wood RESIST fire?",
+          "word": "RESIST",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does an airplane crash usually cause GRIEF?",
+          "word": "GRIEF",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a MOOD change quickly?",
+          "word": "MOOD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could an explosion cause buildings to QUAKE?",
+          "word": "QUAKE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The captain let his son NAVIGATE the ship through the canal.",
+          "word": "NAVIGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her cries were too FAINT to be heard in the next room.",
+          "word": "FAINT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was accused of HOMICIDE in the death of his wife.",
+          "word": "HOMICIDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The baby's constant SHRIEKS kept us from getting a good night's sleep.",
+          "word": "SHRIEK",
+          "correct": "true"
+        },
+        {
+          "prompt": "There are some ELEMENTARY things you have to know before you can drive a car.",
+          "word": "ELEMENTARY",
+          "correct": "true"
+        },
+        {
+          "prompt": "They INCINERATED that we had made a mistake.",
+          "word": "INCINERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Alice was OCCASIONALLY late for school; she was almost never on time.",
+          "word": "OCCASIONALLY",
+          "correct": "false"
+        },
+        {
+          "prompt": "The cruel strangers ASSAULTED him with clubs and rocks.",
+          "word": "ASSAULT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The fielder MUFFLED the easy ground ball.",
+          "word": "MUFFLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He HOBBLED to the other side of the room to pick up his crutches.",
+          "word": "HOBBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They LINKED the boat from the dock by cutting the rope.",
+          "word": "LINK",
+          "correct": "false"
+        },
+        {
+          "prompt": "There was considerable RESISTANCE in Congress to the president's plan.",
+          "word": "RESIST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Only the passage of time could ease the GRIEF she felt over his death.",
+          "word": "GRIEF",
+          "correct": "true"
+        },
+        {
+          "prompt": "Beth is very MOODY today. She may yell at you for no reason.",
+          "word": "MOOD",
+          "correct": "true"
+        },
+        {
+          "prompt": "The explosions made the nearby buildings QUAKE.",
+          "word": "QUAKE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "NAVIGATE",
+          "answers": [
+            "fly",
+            "sit",
+            "sail"
+          ],
+          "word": "NAVIGATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FAINT",
+          "answers": [
+            "strange",
+            "unclear",
+            "distant"
+          ],
+          "word": "FAINT",
+          "correct": "0"
+        },
+        {
+          "prompt": "HOMICIDE",
+          "answers": [
+            "beating",
+            "killing",
+            "murder"
+          ],
+          "word": "HOMICIDE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SHRIEK",
+          "answers": [
+            "cry",
+            "yell",
+            "weep"
+          ],
+          "word": "SHRIEK",
+          "correct": "2"
+        },
+        {
+          "prompt": "ELEMENTARY",
+          "answers": [
+            "basic",
+            "common",
+            "simple"
+          ],
+          "word": "ELEMENTARY",
+          "correct": "1"
+        },
+        {
+          "prompt": "INCINERATE",
+          "answers": [
+            "flame",
+            "burn",
+            "explode"
+          ],
+          "word": "INCINERATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "OCCASIONALLY",
+          "answers": [
+            "rarely",
+            "sometimes",
+            "usually"
+          ],
+          "word": "OCCASIONALLY",
+          "correct": "2"
+        },
+        {
+          "prompt": "ASSAULT",
+          "answers": [
+            "hit",
+            "hurt",
+            "trick"
+          ],
+          "word": "ASSAULT",
+          "correct": "2"
+        },
+        {
+          "prompt": "MUFFLE",
+          "answers": [
+            "hide",
+            "cover",
+            "lose"
+          ],
+          "word": "MUFFLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "HOBBLE",
+          "answers": [
+            "slide",
+            "limp",
+            "bother"
+          ],
+          "word": "HOBBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "LINK",
+          "answers": [
+            "connect",
+            "tie",
+            "shorten"
+          ],
+          "word": "LINK",
+          "correct": "2"
+        },
+        {
+          "prompt": "RESIST",
+          "answers": [
+            "refuse",
+            "prevent",
+            "disturb"
+          ],
+          "word": "RESIST",
+          "correct": "2"
+        },
+        {
+          "prompt": "GRIEF",
+          "answers": [
+            "despair",
+            "rage",
+            "sorrow"
+          ],
+          "word": "GRIEF",
+          "correct": "1"
+        },
+        {
+          "prompt": "MOOD",
+          "answers": [
+            "anger",
+            "memory",
+            "joy"
+          ],
+          "word": "MOOD",
+          "correct": "1"
+        },
+        {
+          "prompt": "QUAKE",
+          "answers": [
+            "cry",
+            "shiver",
+            "shake"
+          ],
+          "word": "QUAKE",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

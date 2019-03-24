@@ -1,0 +1,608 @@
+{
+  "title": "1.2",
+  "definitions": {
+    "ACCOMPANY": {
+      "word": "ACCOMPANY",
+      "phonetic": "(a-kuhm'-pa-nE)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go with, be with </p><p>You can see the word <i class=“def-ital\">company</i> in ACCOMPANY. To ACCOMPANY someone is to be <i class=“def-ital\">in company</i> with him, to go along with him. </p><p>“We will ACCOMPANY him as far as the bus stop.” </p><p>“The president arrived, ACCOMPANIED by several Secret Service men.” </p><p>“High winds ACCOMPANIED the snowstorm.” </p><p>ACCOMPANY is often used in the field of music. </p><p>“The singer will be ACCOMPANIED by a pianist.”</p>"
+    },
+    "PERMIT": {
+      "word": "PERMIT",
+      "phonetic": "(pronounced",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to allow, authorize, make possible </p><p>To PERMIT something is to allow it, to give your consent to it. </p><p>“Her father PERMITTED her to go to the dance.” </p><p>“Smoking is not PERMITTED inside the building.” The noun from PERMIT is PERMISSION, which is the act of allowing. </p><p>“She was given PERMISSION to speak to the class.” </p><p>“The airport denied the plane PERMISSION to land.” </p><p>PERMIT (pronounced per-mit) is also a noun, meaning PERMISSION, especially PERMISSION in written form such as a certificate or license, which allows someone to do something. </p><p>“The school parking PERMIT was pasted on his car’s windshield.” </p><p>Other forms of the word: PERMISSION, n. </p><p>PERMISSIVE, adj. </p><p>PERMISSIBLE, adj.</p>"
+    },
+    "GREET": {
+      "word": "GREET",
+      "phonetic": "(grEt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to welcome, meet </p><p>To GREET someone is to welcome him, to say hello to him in a friendly way. </p><p>“We all went over to GREET the new neighbors.” </p><p>“Is that any way to GREET an old friend?” </p><p>GREET can also mean to <i class=“def-ital\">meet</i> or <i class=“def-ital\">receive</i>. </p><p>“The play was GREETED with polite applause.” </p><p>“They GREETED his speech with boos and hisses.” </p><p>A GREETING is the act or words that you use to GREET someone. </p><p>“He received a warm GREETING when he arrived home.” </p><p>Other forms of the word: GREETING, n.</p>"
+    },
+    "COUNTERFEIT": {
+      "word": "COUNTERFEIT",
+      "phonetic": "(kown'-t:>r-fit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fake, phony, not genuine </p><p>COUNTERFEIT can be an adjective, a noun, or a verb. As an adjective, COUNTERFEIT means <i class=“def-ital\">fake</i> or <i class=“def-ital\">phony</i>. </p><p>“They tried to spend the COUNTERFEIT money as if it were real.” </p><p>“She was caught with the COUNTERFEIT dollar bills in her possession.” </p><p>A COUNTERFEIT (noun) is a copy or imitation which someone pretends is the real thing, usually in order to cheat a person. </p><p>“The expert said the supposedly priceless painting was a COUNTERFEIT and actually wasn’t worth anything.” </p><p>Finally, COUNTERFEIT is a verb meaning to fake or pretend. </p><p>“Jane COUNTERFEITED great joy at the gift of the pocketbook. She really thought it was ugly.” </p><p>Many people choose <i class=“def-ital\">useless</i> as the meaning of COUNTERFEIT. COUNTERFEIT money may be useless, but the basic meaning is <i class=“def-ital\">fake</i>, <i class=“def-ital\">not genuine</i>.</p>"
+    },
+    "DISCUSS": {
+      "word": "DISCUSS",
+      "phonetic": "(dis-kuhs')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to talk about, talk over </p><p>To DISCUSS something is to talk about it, to exchange opinions about it. </p><p>“We DISCUSSED where the picture should be hung.” </p><p>“The teacher DISCUSSED the meanings of various words.” </p><p>“I want to DISCUSS your behavior with you.” </p><p>“It’s hard to DISCUSS anything with Tim. He just gets excited and starts yelling.” </p><p>The noun from DISCUSS is DISCUSSION. </p><p>“We had a long DISCUSSION about how to do the job.” </p><p>Other forms of the word: DISCUSSION, n.</p>"
+    },
+    "DISCARD": {
+      "word": "DISCARD",
+      "phonetic": "(dis-kahrd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to throw away, get rid of </p><p> DISCARD means to <i class=“def-ital\">throw away</i>. The word was first used only about throwing away cards that weren’t useful in games like poker or gin rummy. </p><p>“He picked up the queen of spades and DISCARDED the two of clubs.” </p><p>Now DISCARD is used to indicate throwing away anything that isn’t useful. </p><p>“Sheila DISCARDED some old, broken toys.” </p><p>“I wanted to DISCARD the book, but since he said it might be valuable, I kept it.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis<i class=“def-ital\">- under Prefixes."
+      ]
+    },
+    "ACHE": {
+      "word": "ACHE",
+      "phonetic": "(Ak)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a dull pain </p><p>An ACHE is a dull, steady pain. </p><p>“Jane felt an ACHE in her legs after she had been running for an hour.” </p><p>“Cold, wet weather always caused an ACHE in his injured knee.” </p><p>ACHE is also a verb, meaning “to feel a dull steady pain.” </p><p>“His head ACHED from all the noise in the room.” </p><p>ACHE is often used in the sense “to long for something so much that it is almost painful.” </p><p>“She ACHED to see him one last time before she left.”</p>"
+    },
+    "OVERCOME": {
+      "word": "OVERCOME",
+      "phonetic": "(O-vÔøΩr-kuhm')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to defeat, surmount, conquer </p><p>To OVERCOME something is to get the better of it. You can OVERCOME a person, a feeling, or a thing. </p><p>“It may take years, but we will OVERCOME the enemy.” “He OVERCAME the urge to smoke a cigarette.” </p><p>To be OVERCOME <i class=“def-ital\">by</i> or <i class=“def-ital\">with</i> something is to be weakened or overpowered by it. </p><p>“She was OVERCOME with sadness when she remembered what he had said.” </p><p>“They were OVERCOME by the gas fumes escaping from the car.”</p>"
+    },
+    "QUIVER": {
+      "word": "QUIVER",
+      "phonetic": "(kw1v'-ÔøΩ)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shake, tremble </p><p>To QUIVER is to shake or tremble slightly. It is more often used about things than about people. </p><p>“The needle QUIVERED for a while, then stopped on zero.” </p><p>“The arrow QUIVERED in the target.” </p><p>“The animal QUIVERED with fear as the men ap- proached.” </p><p>In the Pretest, many people choose <i class=“def-ital\">freeze</i> as the meaning of QUIVER, probably because QUIVER looks like <i class=“def-ital\">shiver</i>, and you shiver when its very cold.</p>"
+    },
+    "NOURISHMENT": {
+      "word": "NOURISHMENT",
+      "phonetic": "(nuhr'-ish-mÔøΩnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">food, sustenance </p><p>To NOURISH something is to keep it alive and strong by feeding. </p><p>“They needed to NOURISH their plants, so they bought some special plant food.” </p><p>NOURISHMENT is that which supports life and growth; it is food or anything else that NOURISHES. </p><p>“Even when you are sick and don’t feel like eating, you must still take some NOURISHMENT.” </p><p>“Just as your body needs food, your mind needs NOURISHMENT too.” </p><p>Other forms of the word: NOURISH, v.</p>"
+    },
+    "COURAGEOUS": {
+      "word": "COURAGEOUS",
+      "phonetic": "(kÔøΩrA'-jÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">having COURAGE, brave, fearless COURAGEOUS comes from the word COURAGE, which means <i class=“def-ital\">bravery</i>.  COURAGEOUS means <i class=“def-ital\">brave</i>, <i class=“def-ital\">fearless</i>, <i class=“def-ital\">having courage</i>. </p><p>“It was very COURAGEOUS of him to stand up for what he felt was right in the face of the others’ disapproval.” </p><p>“Her COURAGEOUS attempt to swim the English Channel was unsuccessful.” </p><p>“COURAGEOUS people do not run and hide when things become dangerous.” </p><p>Other forms of the word: COURAGE, n.</p>",
+      "suffix": [
+        "See -<i class=“def-ital\">ous</i> under Suffixes."
+      ]
+    },
+    "ANNUAL": {
+      "word": "ANNUAL",
+      "phonetic": "(an'-yU-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">yearly ANNUAL means “coming or happening every year.” </p><p>“We will put on our seventh ANNUAL flower show this spring.” </p><p>“The party was so successful we decided to make it an ANNUAL event.” </p><p>“His ANNUAL income went up ten percent last year.”</p>"
+    },
+    "LOBBY": {
+      "word": "LOBBY",
+      "phonetic": "(lob'-E)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an entrance hall, waiting room </p><p>A LOBBY is a hall, room, or corridor that is used as an entrance or waiting area. </p><p>“He sat and waited in the LOBBY of the hotel until his friends came downstairs.” </p><p>The LOBBIES of places like the Senate or the House of Representatives were where members of Congress would meet with the public. A LOBBY has therefore also come to mean a group of people who attempt to influence lawmakers to vote in a certain way. </p><p>“The shipping industry LOBBY spent a great deal of money trying to get this bill passed.” </p><p>A LOBBYIST is someone who attempts to influence lawmakers in this way. Other forms of the word: LOBBYIST, n.</p>"
+    },
+    "CONTRIBUTE": {
+      "word": "CONTRIBUTE",
+      "phonetic": "(kÔøΩn-trib'-yUt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to give, donate CONTRIBUTE has two related meanings. First, CONTRIBUTE means “to give along with others.” The word is usually used about giving money to a charity, but it can be used about giving other things as well. </p><p>“She CONTRIBUTED several good ideas to the pro- ject.” </p><p>“If everyone CONTRIBUTES a few hours of his time the house will be painted very quickly.” </p><p>CONTRIBUTE can also mean “to help bring about.” </p><p>“Extreme tiredness CONTRIBUTED to his coming down with a very bad cold.” </p><p>“A good education CONTRIBUTED to his success in politics.” </p><p>A CONTRIBUTION, the noun from CONTRIBUTE, is a gift. </p><p>“She has made many CONTRIBUTIONS to charity in the past year.” </p><p>Other forms of the word: CONTRIBUTION, n.</p>"
+    },
+    "SMUDGE": {
+      "word": "SMUDGE",
+      "phonetic": "(smuhj)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a dirty mark, smear, dirt </p><p>A SMUDGE is a blurred, streaky mark, the kind that is made when a bit of dirt is rubbed, or when something is incompletely erased. </p><p>“There were SMUDGES on the window where the child had put his greasy fingers.” </p><p>“The paper was covered with SMUDGES after she had finished erasing all her mistakes.” </p><p>SMUDGE is also a verb. </p><p>“He SMUDGED the paper even more when he tried to clean it up.” </p><p>“She SMUDGED her cheek when she rubbed it with her dirty hand.”</p>"
+    }
+  },
+  "id": "2",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "ACCOMPANY him.",
+          "answers": [
+            "work for",
+            "leave",
+            "go with",
+            "meet",
+            "deal with"
+          ],
+          "word": "ACCOMPANY",
+          "correct": "go with"
+        },
+        {
+          "prompt": "PERMIT him to go.",
+          "answers": [
+            "ask",
+            "remind",
+            "order",
+            "allow",
+            "want"
+          ],
+          "word": "PERMIT",
+          "correct": "allow"
+        },
+        {
+          "prompt": "Eager to GREET him.",
+          "answers": [
+            "welcome",
+            "hurt",
+            "know",
+            "speak to",
+            "leave"
+          ],
+          "word": "GREET",
+          "correct": "welcome"
+        },
+        {
+          "prompt": "COUNTERFEIT bills.",
+          "answers": [
+            "real",
+            "fake",
+            "smaller",
+            "foreign",
+            "useless"
+          ],
+          "word": "COUNTERFEIT",
+          "correct": "fake"
+        },
+        {
+          "prompt": "To DISCUSS their parents.",
+          "answers": [
+            "think about",
+            "shame",
+            "write to",
+            "talk about",
+            "speak to"
+          ],
+          "word": "DISCUSS",
+          "correct": "talk about"
+        },
+        {
+          "prompt": "DISCARD the clothing.",
+          "answers": [
+            "ignore",
+            "dislike",
+            "lose",
+            "throwaway",
+            "find"
+          ],
+          "word": "DISCARD",
+          "correct": "throw away"
+        },
+        {
+          "prompt": "Another ACHE.",
+          "answers": [
+            "pain",
+            "memory",
+            "feeling",
+            "idea",
+            "problem"
+          ],
+          "word": "ACHE",
+          "correct": "pain"
+        },
+        {
+          "prompt": "We shall OVERCOME them.",
+          "answers": [
+            "support",
+            "love",
+            "visit",
+            "lead",
+            "defeat"
+          ],
+          "word": "OVERCOME",
+          "correct": "defeat"
+        },
+        {
+          "prompt": "Began to QUIVER.",
+          "answers": [
+            "freeze",
+            "choke",
+            "shake",
+            "fall",
+            "spin"
+          ],
+          "word": "QUIVER",
+          "correct": "shake"
+        },
+        {
+          "prompt": "Not enough NOURISHMENT.",
+          "answers": [
+            "praise",
+            "weight",
+            "food",
+            "exercise",
+            "love"
+          ],
+          "word": "NOURISHMENT",
+          "correct": "food"
+        },
+        {
+          "prompt": "COURAGEOUS action.",
+          "answers": [
+            "unbelievable",
+            "polite",
+            "generous",
+            "brave",
+            "cowardly"
+          ],
+          "word": "COURAGEOUS",
+          "correct": "brave"
+        },
+        {
+          "prompt": "ANNUAL events.",
+          "answers": [
+            "new",
+            "yearly",
+            "weekly",
+            "unusual",
+            "monthly"
+          ],
+          "word": "ANNUAL",
+          "correct": "yearly"
+        },
+        {
+          "prompt": "Approached the LOBBY.",
+          "answers": [
+            "entrance hall",
+            "hotel",
+            "doctor's office",
+            "elevator",
+            "top floor"
+          ],
+          "word": "LOBBY",
+          "correct": "entrance hall"
+        },
+        {
+          "prompt": "Wanted to CONTRIBUTE.",
+          "answers": [
+            "give",
+            "steal",
+            "join",
+            "praise",
+            "work"
+          ],
+          "word": "CONTRIBUTE",
+          "correct": "give"
+        },
+        {
+          "prompt": "Noticed the SMUDGE.",
+          "answers": [
+            "dirty mark",
+            "hard candy",
+            "freckle",
+            "soap",
+            "swamp"
+          ],
+          "word": "SMUDGE",
+          "correct": "dirty mark"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does pain usually ACCOMPANY an injury?",
+          "word": "ACCOMPANY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do banks give people PERMISSION to rob them?",
+          "word": "PERMIT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you GREET people when they leave?",
+          "word": "GREET",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people like COUNTERFEIT money for their pay?",
+          "word": "COUNTERFEIT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people DISCUSS things they keep secret?",
+          "word": "DISCUSS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people like to DISCARD money?",
+          "word": "DISCARD",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it fun to have an ACHE?",
+          "word": "ACHE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it hard to OVERCOME a powerful enemy?",
+          "word": "OVERCOME",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a leaf QUIVER?",
+          "word": "QUIVER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people need NOURISHMENT?",
+          "word": "NOURISHMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person who tries to save people trapped in a burning building be called COURAGEOUS?",
+          "word": "COURAGEOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is Washington's Birthday an ANNUAL holiday?",
+          "word": "ANNUAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people often live in LOBBIES?",
+          "word": "LOBBY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do most churches accept CONTRIBUTIONS?",
+          "word": "CONTRIBUTE",
+          "correct": "true"
+        },
+        {
+          "prompt": " Is a SMUDGE usually beautiful?",
+          "word": "SMUDGE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He hated people, so he always found someone to ACCOMPANY him.",
+          "word": "ACCOMPANY",
+          "correct": "false"
+        },
+        {
+          "prompt": "David wasn't PERMITTED to leave his room until he said he was sorry.",
+          "word": "PERMIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Susan GREETED us with a warm smile.",
+          "word": "GREET",
+          "correct": "true"
+        },
+        {
+          "prompt": "I could see at a glance that the stamp was a COUNTERFEIT.",
+          "word": "COUNTERFEIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "No one listened to our DISCUSSION of Egyptian mummies.",
+          "word": "DISCUSS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Instead of DISCARDING the old furniture he fixed it up and sold it.",
+          "word": "DISCARD",
+          "correct": "true"
+        },
+        {
+          "prompt": "The flu made Jane ACHE all over.",
+          "word": "ACHE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We OVERCAME and stayed a few nights at our friend's house.",
+          "word": "OVERCOME",
+          "correct": "false"
+        },
+        {
+          "prompt": "The force of the car crash made the telephone pole QUIVER.",
+          "word": "QUIVER",
+          "correct": "true"
+        },
+        {
+          "prompt": "He ran away after he broke the window because he was afraid to be NOURISHED.",
+          "word": "NOURISHMENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "It was COURAGEOUS of him to run away when the other children were in trouble.",
+          "word": "COURAGEOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "She takes her ANNUAL vacation the first two weeks in August.",
+          "word": "ANNUAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "He stood in the LOBBY trying to decide which elevator to take.",
+          "word": "LOBBY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bill CONTRIBUTED his lack of success to bad luck.",
+          "word": "CONTRIBUTE",
+          "correct": "false"
+        },
+        {
+          "prompt": "By the time she finished eating, her lipstick was all SMUDGED.",
+          "word": "SMUDGE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ACCOMPANY",
+          "answers": [
+            "stay with",
+            "go with",
+            "go toward"
+          ],
+          "word": "ACCOMPANY",
+          "correct": "2"
+        },
+        {
+          "prompt": "PERMIT",
+          "answers": [
+            "stop",
+            "let",
+            "help"
+          ],
+          "word": "PERMIT",
+          "correct": "0"
+        },
+        {
+          "prompt": "GREET",
+          "answers": [
+            "find",
+            "welcome",
+            "meet"
+          ],
+          "word": "GREET",
+          "correct": "0"
+        },
+        {
+          "prompt": "COUNTERFEIT",
+          "answers": [
+            "broken",
+            "worthless",
+            "false"
+          ],
+          "word": "COUNTERFEIT",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISCUSS",
+          "answers": [
+            "talk",
+            "argue",
+            "laugh"
+          ],
+          "word": "DISCUSS",
+          "correct": "2"
+        },
+        {
+          "prompt": "DISCARD",
+          "answers": [
+            "throw away",
+            "go away",
+            "give away"
+          ],
+          "word": "DISCARD",
+          "correct": "1"
+        },
+        {
+          "prompt": "ACHE",
+          "answers": [
+            "sickness",
+            "injury",
+            "hatred"
+          ],
+          "word": "ACHE",
+          "correct": "2"
+        },
+        {
+          "prompt": "OVERCOME",
+          "answers": [
+            "disagree",
+            "weaken",
+            "beat"
+          ],
+          "word": "OVERCOME",
+          "correct": "0"
+        },
+        {
+          "prompt": "QUIVER",
+          "answers": [
+            "drop",
+            "swing",
+            "tremble"
+          ],
+          "word": "QUIVER",
+          "correct": "0"
+        },
+        {
+          "prompt": "NOURISHMENT",
+          "answers": [
+            "food",
+            "time",
+            "help"
+          ],
+          "word": "NOURISHMENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "COURAGEOUS",
+          "answers": [
+            "brave",
+            "daring",
+            "successful"
+          ],
+          "word": "COURAGEOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "ANNUAL",
+          "answers": [
+            "yearly",
+            "regular",
+            "unusual"
+          ],
+          "word": "ANNUAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "LOBBY",
+          "answers": [
+            "hall",
+            "waiting room",
+            "doorway"
+          ],
+          "word": "LOBBY",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONTRIBUTE",
+          "answers": [
+            "give",
+            "help",
+            "sell"
+          ],
+          "word": "CONTRIBUTE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SMUDGE",
+          "answers": [
+            "blur",
+            "aging",
+            "dirt"
+          ],
+          "word": "SMUDGE",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

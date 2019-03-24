@@ -1,0 +1,605 @@
+{
+  "title": "8.11",
+  "definitions": {
+    "SUBORN": {
+      "word": "SUBORN",
+      "phonetic": "(sg-born')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to bribe, instigate, induce to commit </p><p>To SUBORN a person is to induce him or her, by secret or illegal means, to commit a crime. SUBORN is particularly used with reference to perjury. </p><p>“The mobster SUBORNED the witness to change his testimony by buying him a new car.” </p><p>“The spy SUBORNED the clerk to remove the secret documents from the file.” </p><p>“Three of the jurors were SUBORNED by the unscrupulous defense attorney and agreed to vote ‘Not Guilty’ for a fee.” </p><p><i class=“def-ital\">Replace</i> is the most commonly chosen wrong answer on the Pretest, possibly because of a vague resemblance be- tween SUBORN and <i class=“def-ital\">substitute</i>. </p><p>Other forms of the word: SUBORNATION, n.</p>"
+    },
+    "TENDENTIOUS": {
+      "word": "TENDENTIOUS",
+      "phonetic": "(ten-den'-shgs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">biased, not impartial </p><p>TENDENTIOUS is an adjective from the noun <i class=“def-ital\">tendency</i>. A person or thing that is TENDENTIOUS has a tendency to support a particular cause or point of view, is not objective. </p><p>“She wrote a TENDENTIOUS article praising the mayor’s record and ridiculing his opponent.” </p><p>“I thought the politician was rather TENDENTIOUS in his speech-mentioning all the good things about his party and ignoring its weaknesses.” </p><p>“Advertisements on TV are at best TENDENTIOUS, at worst deliberately misleading.” </p><p><i class=“def-ital\">Pompous</i> and <i class=“def-ital\">misleading</i> are the common mistakes. <i class=“def-ital\">Pompous</i> is probably chosen due to confusion with <i class=“def-ital\">pretentious</i>. Something that it TENDENTIOUS may also be misleading, because the truth is not as important as promoting a point of view. The emphasis, however, is on this lack of impartiality.</p>"
+    },
+    "TENEBROUS": {
+      "word": "TENEBROUS",
+      "phonetic": "(ten'-g-brgs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">gloomy, dark, murky </p><p>TENEBROUS is a somewhat literary term meaning “dark and gloomy.” It can be used about actual physical darkness: </p><p>“There were living creatures even in the TENEBROUS depths of the cave.” </p><p>Or it can be used in a figurative sense: </p><p>“The TENEBROUS atmosphere created by the Gothic novel was both mysterious and frightening.” </p><p><i class=“def-ital\">Flimsy</i> and <i class=“def-ital\">stubborn</i> are the most commonly chosen wrong answers. <i class=“def-ital\">Flimsy</i> is probably chosen because TENEBROUS looks vaguely like <i class=“def-ital\">tenuous</i>; <i class=“def-ital\">stubborn</i> because it looks like <i class=“def-ital\">tenacious</i>.</p>"
+    },
+    "STENTORIAN": {
+      "word": "STENTORIAN",
+      "phonetic": "(sten-tor'-E-gn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">loud, earsplitting, resounding </p><p>STENTOR was a Greek warrior in the <i class=“def-ital\">Iliad</i> famous for his loud, powerful voice. STENTORIAN is the adjective from STENTOR. It is usually applied to voices and means <i class=“def-ital\">extremely loud</i>. </p><p>“In a STENTORIAN voice the sergeant shouted out his orders to the troops.” </p><p>“The orator’s STENTORIAN tones could be heard in every part of the huge hall.” </p><p>“Cindy didn’t know how to whisper; when she tried to speak softly her voice was still STENTORIAN.”</p>"
+    },
+    "SALIENT": {
+      "word": "SALIENT",
+      "phonetic": "(sA'-IE-gnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">prominent, striking, conspicuous </p><p>SALIENT comes from a Latin word meaning to <i class=“def-ital\">leap</i>. SALIENTIA is the scientific name for the group of animals that includes frogs and toads. In English SALIENT sometimes has the basic meaning of <i class=“def-ital\">leaping</i> or <i class=“def-ital\">jumping</i>, particularly with reference to animals. Commonly, however, the word is used in a figurative sense of things that “leap out” at you, that are prominent and significant. </p><p>“The most SALIENT characteristic of the company’s salespeople is their aggressiveness.” </p><p>“The one SALIENT fact is that someone is dead; nothing else is important.” </p><p>“The critic said that the SALIENT feature of television news is its superficiality.” </p><p><i class=“def-ital\">Crucial</i> is the most commonly chosen wrong answer. SALIENT usually implies that there is some importance and significance to the thing it describes, but the emphasis is on its prominence. </p><p>Other forms of the word: SALIENCE, n.</p>"
+    },
+    "OPPROBRIOUS": {
+      "word": "OPPROBRIOUS",
+      "phonetic": "(::)-prO'-brE-::)s)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">shameful, disgraceful, scurrilous, abusive </p><p>OPPROBRIUM is disgrace that results from shameful conduct. </p><p>“The public OPPROBRIUM was so great following the scandal that the president was forced to resign in disgrace.” </p><p>OPPROBRIOUS is the adjective from OPPROBRIUM. When used about language, it means “expressing OPPROBRIUM.” </p><p>“She made OPPROBRIOUS comments about businessmen who don’t care about the safety of their products.” </p><p>In general, OPPROBRIOUS means “deserving OPPROBRIUM,” <i class=“def-ital\">shameful</i>, <i class=“def-ital\">infamous</i>. </p><p>“Your OPPROBRIOUS conduct must be condemned by every right-thinking person.” </p><p>Other forms of the word: OPPROBRIUM, n.</p>"
+    },
+    "AVER": {
+      "word": "AVER",
+      "phonetic": "(J-ver')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to assert, affirm, declare </p><p>The <i class=“def-ital\">ver</i> part of AVER comes from a Latin word meaning <i class=“def-ital\">true</i>; it is also found in such words as <i class=“def-ital\">verify</i> and <i class=“def-ital\">verdict</i>. To AVER something is to declare confidently that it is true. </p><p>“The governor AVERRED that nothing could make him raise taxes.” </p><p>“The coach AVERRED that his team would win the championship easily.” </p><p>“Several witnesses heard him AVER that he would get even if it was the last thing he did.” </p><p>On the Pretest, <i class=“def-ital\">deny</i>, an exact opposite, is chosen more frequently than the correct answer, <i class=“def-ital\">assert</i>. People who choose <i class=“def-ital\">deny</i> are familiar with AVER, but perhaps haven’t seen it often enough to remember whether to AVER something is to say it is true or say it is false.</p>"
+    },
+    "LANGUISH": {
+      "word": "LANGUISH",
+      "phonetic": "(lang'-gwish)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to grow weak, droop, fade, pine </p><p>LANGUISH, <i class=“def-ital\">languor</i>, and <i class=“def-ital\">languid</i> all come from a Latin word meaning to <i class=“def-ital\">feel faint</i>. The basic meaning of LANGUISH is to grow weak, to lose strength. </p><p>“Without water the plants quickly began to LANGUISH.” </p><p>LANGUISH also means “to continue in a state of suffering or neglect.” </p><p>“He LANGUISHED in prison for ten years before finally being released.” </p><p>Particularly in its participial form, LANGUISHING, the word is used about an affected attitude of weariness or wistfulness. </p><p>“With a LANGUISHING sigh she said that if only she could get to Moscow, everything would be all right.”</p>"
+    },
+    "DESCRY": {
+      "word": "DESCRY",
+      "phonetic": "(di-skrl')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to notice, discern, espy </p><p>To DESCRY means to <i class=“def-ital\">catch sight of</i>. The word implies keen vision that allows one to see something despite great distance or other hindrance. </p><p>“The townspeople could just barely DESCRY the masts of the ships on the horizon.” </p><p>“The lookout DESCRIED the Indians moving stealthily through the trees.” </p><p>DESCRY can also be used in a figurative sense about anything that is discovered by keen mental observation. </p><p>“She thought she DESCRIED a pattern in the murderer’s behavior.” </p><p><i class=“def-ital\">Fear</i> is the most commonly chosen wrong answer, perhaps because of the <i class=“def-ital\">cry</i> part of DESCRY.</p>"
+    },
+    "ENCOMIUM": {
+      "word": "ENCOMIUM",
+      "phonetic": "(en-kO'-mE-Jm)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a eulogy, tribute, panegyric </p><p>An ENCOMIUM is a formal, usually public, expression of praise. The plural of ENCOMIUM is either ENCOMIA or ENCOMIUMS. </p><p>“The president’s ENCOMIUM of basic American values stirred the hearts of his listeners.” </p><p>“Despite all these ENCOMIA the returning hero remained humble.” </p><p>“Moved by the ENCOMIUM to Martin Luther King, Jr., Jack resolved to learn more about the man.” </p><p><i class=“def-ital\">Reward</i> is the most commonly chosen wrong answer. An ENCOMIUM can be thought of as a kind of reward, but it is specifically an expression of praise.</p>"
+    },
+    "BALEFUL": {
+      "word": "BALEFUL",
+      "phonetic": "(bAl'-fal)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">ominous, sinister, malign, dire </p><p>BALE is a poetic or archaic word meaning <i class=“def-ital\">harm</i> or <i class=“def-ital\">disaster</i>. Something that it BALEFUL threatens evil or disaster, often because it is evil itself. </p><p>“The teacher’s BALEFUL look convinced John that he should start behaving.” </p><p>“The economists’ BALEFUL predictions of a worldwide depression never came true.” </p><p>“Mary’s parents feared the BALEFUL influence the drifter had over her.” </p><p><i class=“def-ital\">Unhappy</i> is by far the most common choice on the Pretest. Something that is BALEFUL can cause unhappiness, but it is not necessarily unhappy.</p>"
+    },
+    "LIMPID": {
+      "word": "LIMPID",
+      "phonetic": "(lim'-pid)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">clear, transparent, translucent </p><p>LIMPID means “having the transparent clearness of water.” It is often used in an extended sense about writing that is clear and readily intelligible. It sometimes also suggests calmness and serenity. </p><p>“The LIMPID water of the lake allowed us to see all the way to the bottom.” </p><p>“The LIMPID grace of his essays is unmatched in English prose.” </p><p>“No one could fail to be impressed by the nun’s LIMPID, serene holiness.” </p><p>Most people choose <i class=“def-ital\">soft</i> as the meaning of LIMPID, obviously misled by the <i class=“def-ital\">limp</i> part of the word. </p><p>Other forms of the word: LIMPIDITY, n.</p>"
+    },
+    "TRADUCE": {
+      "word": "TRADUCE",
+      "phonetic": "(tr:}-dUs'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to slander, defame, malign, libel </p><p>The common root <i class=“def-ital\">duce</i>, found in such words as <i class=“def-ital\">reduce</i>, <i class=“def-ital\">produce</i>, and <i class=“def-ital\">induce</i>, means to <i class=“def-ital\">lead</i>.  TRADUCE originally was used as a synonym of transport. It then came to mean “leading across as a spectacle,” and finally reached its current meaning, “to speak evil of,” to <i class=“def-ital\">slander</i>. </p><p>“The book TRADUCES a great man with its unsupported accusations and sly innuendoes.” </p><p>“The politician was not above planting false stories in the newspaper that TRADUCED his rivals.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">deceive</i>, probably because of confusion with <i class=“def-ital\">seduce</i>. To TRADUCE a person is not to deceive him, but to speak evil of him. This might deceive others, but it would not deceive the person being TRADUCED. </p><p>Other forms of the word: TRADUCEMENT, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">tra-</i> under Prefixes."
+      ]
+    },
+    "VENIAL": {
+      "word": "VENIAL",
+      "phonetic": "(vE'-nE-::)1",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">excusable, insignificant, pardonable, forgivable </p><p>VENIAL comes from a Latin word for <i class=“def-ital\">forgiveness</i> and is related to Venus, the Roman goddess of love. VENIAL is used about faults or sins that are not serious enough to require punishment, that are easily pardonable. In Roman Catholic theology, VENIAL sins are contrasted with mortal sins. A VENIAL sin is a minor offense against divine law, while a mortal sin is a serious offense that merits eternal punishment. </p><p>“These VENIAL faults are not worth punishing; just explain to him what he did wrong.” </p><p>“Sheila thought her offense was VENIAL, but the dean felt it merited expulsion.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">immoral</i>, a word that might be used in the same situation as VENIAL. A VENIAL sin or offense might be immoral, but mainly it is excusable, insignificant.</p>"
+    },
+    "PRODIGAL": {
+      "word": "PRODIGAL",
+      "phonetic": "(prod'-i-g:)I)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">extravagant, wasteful; lavish, profuse </p><p>PRODIGAL means “given to extravagance.” The word generally suggests waste and recklessness. </p><p>“Unless you check your PRODIGAL habits of spending you will soon be ruined.” </p><p>It does not always have a totally negative connotation, however, and may mean <i class=“def-ital\">lavish</i>, <i class=“def-ital\">profuse</i>. </p><p>“The kind theater critic was PRODIGAL in his praise of the young performers.” </p><p>“That spring the PRODIGAL earth brought forth flowers in incredible abundance.” </p><p>Three times as many people pick <i class=“def-ital\">wandering</i> as pick the correct answer, <i class=“def-ital\">extravagant</i>, on the Pretest. These people have been misled by the parable of the prodigal son. The PRODIGAL son wanders far from home and wastes his money. PRODIGAL refers to the wasting, not the wandering. </p><p>Other forms of the word: PRODIGALITY, n.</p>"
+    }
+  },
+  "id": "11",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "to SUBORN",
+          "answers": [
+            "jail",
+            "replace",
+            "bribe",
+            "swear",
+            "trick"
+          ],
+          "word": "SUBORN",
+          "correct": "bribe"
+        },
+        {
+          "prompt": "TENDENTIOUS",
+          "answers": [
+            "pompous",
+            "biased",
+            "fair",
+            "necessary",
+            "misleading"
+          ],
+          "word": "TENDENTIOUS",
+          "correct": "biased"
+        },
+        {
+          "prompt": "TENEBROUS",
+          "answers": [
+            "glowing",
+            "flimsy",
+            "stubborn",
+            "gloomy",
+            "invisible"
+          ],
+          "word": "TENEBROUS",
+          "correct": "gloomy"
+        },
+        {
+          "prompt": "STENTORIAN",
+          "answers": [
+            "solemn",
+            "strict",
+            "fierce",
+            "proud",
+            "loud"
+          ],
+          "word": "STENTORIAN",
+          "correct": "loud"
+        },
+        {
+          "prompt": "SALIENT",
+          "answers": [
+            "hidden",
+            "crucial",
+            "unexpected",
+            "serious",
+            "prominent"
+          ],
+          "word": "SALIENT",
+          "correct": "prominent"
+        },
+        {
+          "prompt": "OPPROBRIOUS",
+          "answers": [
+            "shameful",
+            "fitting",
+            "solemn",
+            "cruel",
+            "mysterious"
+          ],
+          "word": "OPPROBRIOUS",
+          "correct": "shameful"
+        },
+        {
+          "prompt": "to AVER",
+          "answers": [
+            "deny",
+            "imply",
+            "assert",
+            "wish",
+            "demand"
+          ],
+          "word": "AVER",
+          "correct": "assert"
+        },
+        {
+          "prompt": "to LANGUISH",
+          "answers": [
+            "feel pain",
+            "lie down",
+            "grow weak",
+            "give in",
+            "worry"
+          ],
+          "word": "LANGUISH",
+          "correct": "grow weak"
+        },
+        {
+          "prompt": "to DESCRY",
+          "answers": [
+            "notice",
+            "expect",
+            "search for",
+            "fear",
+            "overlook"
+          ],
+          "word": "DESCRY",
+          "correct": "notice"
+        },
+        {
+          "prompt": "ENCOMIUM",
+          "answers": [
+            "accusation",
+            "eulogy",
+            "reward",
+            "debate",
+            "burden"
+          ],
+          "word": "ENCOMIUM",
+          "correct": "eulogy"
+        },
+        {
+          "prompt": "BALEFUL",
+          "answers": [
+            "unhappy",
+            "sympathetic",
+            "grotesque",
+            "ominous",
+            "pompous"
+          ],
+          "word": "BALEFUL",
+          "correct": "ominous"
+        },
+        {
+          "prompt": "LIMPID",
+          "answers": [
+            "muddy",
+            "cold",
+            "soft",
+            "sweet",
+            "clear"
+          ],
+          "word": "LIMPID",
+          "correct": "clear"
+        },
+        {
+          "prompt": "to TRADUCE",
+          "answers": [
+            "slander",
+            "glorify",
+            "deceive",
+            "ruin",
+            "mock"
+          ],
+          "word": "TRADUCE",
+          "correct": "slander"
+        },
+        {
+          "prompt": "VENIAL",
+          "answers": [
+            "serious",
+            "bodily",
+            "excusable",
+            "humble",
+            "immoral"
+          ],
+          "word": "VENIAL",
+          "correct": "excusable"
+        },
+        {
+          "prompt": "PRODIGAL",
+          "answers": [
+            "ungrateful",
+            "wandering",
+            "sorry",
+            "exceptional",
+            "extravagant"
+          ],
+          "word": "PRODIGAL",
+          "correct": "extravagant"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can a senator be SUBORNED?",
+          "word": "SUBORN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Should a scientific article be TENDENTIOUS?",
+          "word": "TENDENTIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Should an office be TENEBROUS?",
+          "word": "TENEBROUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could a diminutive person have a STENTORIAN voice?",
+          "word": "STENTORIAN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is humor a SALIENT feature of a Marx Brothers movie?",
+          "word": "SALIENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is immorality OPPROBRIOUS?",
+          "word": "OPPROBRIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a criminal AVER that he is innocent?",
+          "word": "AVER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a conversation LANGUISH?",
+          "word": "LANGUISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you DESCRY something with a microscope?",
+          "word": "DESCRY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person be likely to receive an ENCOMIUM for deplorable behavior?",
+          "word": "ENCOMIUM",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a BALEFUL look betray a dislike for someone?",
+          "word": "BALEFUL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a cloud LIMPID?",
+          "word": "LIMPID",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it shameful to TRADUCE someone?",
+          "word": "TRADUCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is depravity a VENIAL fault?",
+          "word": "VENIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a spendthrift PRODIGAL?",
+          "word": "PRODIGAL",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "They accused the government of SUBORNING the witness with the promise of a job if he cooperated.",
+          "word": "SUBORN",
+          "correct": "true"
+        },
+        {
+          "prompt": "We thought the travel agent was being TENDENTIOUS in describing nothing but the good points of the island.",
+          "word": "TENDENTIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Through the foggy, TENEBROUS London night Holmes and Watson pursued the criminal.",
+          "word": "TENEBROUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The workers covered their ears when the boss issued his STENTORIAN commands.",
+          "word": "STENTORIAN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jim's most SALIENT trait is an inability to accept criticism.",
+          "word": "SALIENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The boss thought the workers' attitude was OPPROBRIOUS: they didn't care about doing a good job.",
+          "word": "OPPROBRIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The defendant AVERRED being with the deceased on the night of the murder.",
+          "word": "AVER",
+          "correct": "false"
+        },
+        {
+          "prompt": "His story LANGUISHED for months on the editor's desk before it was finally read.",
+          "word": "LANGUISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Despite the camouflage we managed to DESCRY the enemy's tanks.",
+          "word": "DESCRY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The juvenile delinquent paid no attention to the judge's stern ENCOMIUMS.",
+          "word": "ENCOMIUM",
+          "correct": "false"
+        },
+        {
+          "prompt": "Their BALEFUL marriage finally ended in divorce.",
+          "word": "BALEFUL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The flag hung LIMPID in the dead air.",
+          "word": "LIMPID",
+          "correct": "false"
+        },
+        {
+          "prompt": "The con man TRADUCED the woman into giving him her life savings.",
+          "word": "TRADUCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The preacher condemned the movie as VENIAL and depraved.",
+          "word": "VENIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The PRODIGAL explorer never spent more than six months in the same place.",
+          "word": "PRODIGAL",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "SUBORN",
+          "answers": [
+            "infuse",
+            "incite",
+            "instigate"
+          ],
+          "word": "SUBORN",
+          "correct": "0"
+        },
+        {
+          "prompt": "TENDENTIOUS",
+          "answers": [
+            "partial",
+            "obstinate",
+            "predisposed"
+          ],
+          "word": "TENDENTIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "TENEBROUS",
+          "answers": [
+            "murky",
+            "mysterious",
+            "mutinous"
+          ],
+          "word": "TENEBROUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "STENTORIAN",
+          "answers": [
+            "voluble",
+            "strident",
+            "raucous"
+          ],
+          "word": "STENTORIAN",
+          "correct": "0"
+        },
+        {
+          "prompt": "SALIENT",
+          "answers": [
+            "conspicuous",
+            "diligent",
+            "manifest"
+          ],
+          "word": "SALIENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "OPPROBRIOUS",
+          "answers": [
+            "harsh",
+            "odious",
+            "ignominious"
+          ],
+          "word": "OPPROBRIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "AVER",
+          "answers": [
+            "avow",
+            "affirm",
+            "command"
+          ],
+          "word": "AVER",
+          "correct": "2"
+        },
+        {
+          "prompt": "LANGUISH",
+          "answers": [
+            "weaken",
+            "droop",
+            "dry"
+          ],
+          "word": "LANGUISH",
+          "correct": "2"
+        },
+        {
+          "prompt": "DESCRY",
+          "answers": [
+            "discern",
+            "recall",
+            "behold"
+          ],
+          "word": "DESCRY",
+          "correct": "1"
+        },
+        {
+          "prompt": "ENCOMIUM",
+          "answers": [
+            "eulogy",
+            "tribute",
+            "impetus"
+          ],
+          "word": "ENCOMIUM",
+          "correct": "2"
+        },
+        {
+          "prompt": "BALEFUL",
+          "answers": [
+            "deplorable",
+            "foreboding",
+            "maleficent"
+          ],
+          "word": "BALEFUL",
+          "correct": "0"
+        },
+        {
+          "prompt": "LIMPID",
+          "answers": [
+            "icy",
+            "transparent",
+            "clear"
+          ],
+          "word": "LIMPID",
+          "correct": "0"
+        },
+        {
+          "prompt": "TRADUCE",
+          "answers": [
+            "violate",
+            "vilify",
+            "vituperate"
+          ],
+          "word": "TRADUCE",
+          "correct": "0"
+        },
+        {
+          "prompt": "VENIAL",
+          "answers": [
+            "trivial",
+            "forgivable",
+            "casual"
+          ],
+          "word": "VENIAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "PRODIGAL",
+          "answers": [
+            "benevolent",
+            "wasteful",
+            "overgenerous"
+          ],
+          "word": "PRODIGAL",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

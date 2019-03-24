@@ -1,0 +1,608 @@
+{
+  "title": "5.7",
+  "definitions": {
+    "ENFEEBLE": {
+      "word": "ENFEEBLE",
+      "phonetic": "(en-fE'-bÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cause extreme weakness, make feeble </p><p>FEEBLE means <i class=“def-ital\">very weak, lacking strength.</i> The prefix <i class=“def-ital\">en-</i> means “to cause to be,” as in <i class=“def-ital\">enslave,</i> “to cause to be a slave.” So ENFEEBLE means “to cause to be FEE- BLE.” </p><p>“The long illness ENFEEBLED him.” </p><p>“The animals were ENFEEBLED by lack of food.” </p><p>On the Pretest, many people think ENFEEBLE means <i class=“def-ital\">strengthen,</i> which is opposite in meaning. This may be due to a confusion of the prefix <i class=“def-ital\">en-</i> with <i class=“def-ital\">un-</i> or <i class=“def-ital\">in-,</i> both of which can mean <i class=“def-ital\">not.</i></p>"
+    },
+    "PROFOUND": {
+      "word": "PROFOUND",
+      "phonetic": "(prÔøΩfownd')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">deep </p><p>The basic meaning of PROFOUND is <i class=“def-ital\">very deep.</i> The word is sometimes used about physical depth, but it is usually used about interests, ideas, feelings, and the like. PROFOUND often suggests depth of knowledge or wisdom. </p><p>“It was very difficult to awaken him from his PROFOUND sleep.” </p><p>“My father has a PROFOUND interest in painting.” </p><p>“The author showed a PROFOUND understanding of the way governments work.” </p><p>Other forms of the word: PROFUNDITY, n.</p>"
+    },
+    "CRESTFALLEN": {
+      "word": "CRESTFALLEN",
+      "phonetic": "(krest'-fol-ÔøΩn)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">discouraged, dejected, disappointed </p><p>A <i class=“def-ital\">crest</i> is the tuft of feathers on the top of a bird’s head. The basic meaning of CRESTFALLEN is “with the crest drooping or falling\"-that is, with the head hanging down. From this the word has come to mean “so disappointed, dejected, or discouraged that you want to hang your head.” </p><p>“Jim was CRESTFALLEN when he heard he hadn’t made the team.” </p><p>“Sally will be CRESTFALLEN if she doesn’t get a new bicycle for Christmas.” </p><p>“The boss told the CRESTFALLEN workers that he couldn’t afford to give them a raise.”</p>"
+    },
+    "EXALT": {
+      "word": "EXALT",
+      "phonetic": "(eg-zolt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to raise high, elevate, glorify </p><p>EXALT comes from the Latin word for <i class=“def-ital\">high,</i> also the source for the word <i class=“def-ital\">altitude.</i> To EXALT someone is to make him higher, usually in rank, power, or dignity. </p><p>“They EXALTED her by calling her the greatest writer of our time.” </p><p>“In his EXALTED position he has little time for these little problems.” </p><p>The most common mistake on the Pretest is choosing <i class=“def-ital\">thrown out</i> as the meaning of EXALTED. This may be due to confusion about the <i class=“def-ital\">ex-</i> at the beginning of the word, which often means <i class=“def-ital\">out of.</i> Other forms of the word: EXALTATION, n.</p>"
+    },
+    "REGAL": {
+      "word": "REGAL",
+      "phonetic": "(rE'-gÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">royal, kingly </p><p> REGAL comes from the Latin word for <i class=“def-ital\">king,</i> and means “belonging to or like a king.” The word often suggests the splendor and magnificence associated with a king. </p><p>“The king was dressed in all his REGAL splendor for this occasion.” </p><p>“He was disguised as a beggar, but his REGAL atti- tude gave him away.” </p><p>“They had a REGAL feast to celebrate their great vic- tory.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "ALLURE": {
+      "word": "ALLURE",
+      "phonetic": "(ÔøΩIUr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to attract, entice, charm </p><p>ALLURE is related to the word <i class=“def-ital\">lure,</i> and the two words have similar meanings. To ALLURE someone is to attract him with the offer of something valuable or pleasing. </p><p>“The salesman ALLURED us with tales of fabulous wealth if we bought this stock.” </p><p>“The hope of becoming a movie star ALLURES many young women to Hollywood.” </p><p>As a noun, ALLURE is this power of attraction, <i class=“def-ital\">charm.</i> </p><p>“The job offer lacked sufficient ALLURE to tempt her.” </p><p>“The city of Paris holds quite an ALLURE for many tourists.” Other forms of the word: ALLUREMENT, n. ALLURING, adj.</p>"
+    },
+    "AMICABLE": {
+      "word": "AMICABLE",
+      "phonetic": "(am'-i-k:)-bÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">friendly, peaceable, neighborly </p><p>AMICABLE is used about people’s actions or attitudes and means “showing good will,” <i class=“def-ital\">friendly.</i> AMICABLE is not a very strong word. It usually doesn’t suggest deep affection, but merely shows that people aren’t disposed to quarrel with one another. </p><p>“Both parties seemed eager for an AMICABLE settlement of their dispute.” </p><p>“The two countries maintained AMICABLE relations despite their disagreements.” </p><p>“We solved our differences AMICABLY and continued to work together.”</p>"
+    },
+    "GUTTURAL": {
+      "word": "GUTTURAL",
+      "phonetic": "(guht'-:)-rÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">of the throat. </p><p>Note the spelling. The word is spelled with <i class=“def-ital\">ur,</i> not <i class=“def-ital\">er,</i> in the middle. GUTTURAL comes from the Latin word for <i class=“def-ital\">throat</i> and means “related to the throat.” The word is usually used about sounds that are produced in the throat and suggests a harsh, unpleasant quality. </p><p>“The sound of the <i class=“def-ital\">ch</i> in <i class=“def-ital\">acht,</i> the German word for ’eight,’ is a GUTTURAL sound\"-that is, it is formed in the throat, not the mouth.</p>"
+    },
+    "FOLLY": {
+      "word": "FOLLY",
+      "phonetic": "(fol'-E)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">foolishness, silliness </p><p>FOLLY means <i class=“def-ital\">foolishness, silliness, lack of wisdom.</i> The word often suggests that this foolishness might have bad consequences. </p><p>“Attempting to swim the Atlantic Ocean was an act of FOLLY.” </p><p>“It was FOLLY to ask the boss for a raise.” </p><p>FOLLY has been used about a particular event, place, or building. For example, when Secretary of State Seward advised President Lincoln to purchase Alaska, Alaska be- came known as “Seward’s FOLLY” because it was thought that nothing valuable existed there, and its pur- chase was just a waste of money. It is FOLLY to judge the value of a purchase too quickly.</p>"
+    },
+    "CONVEY": {
+      "word": "CONVEY",
+      "phonetic": "(kÔøΩn-vA')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to carry, deliver, transport; to communicate, make known </p><p>To CONVEY something is to carry it from one place to another. </p><p>“This pipe CONVEYS water from the well to the house.” </p><p>“Telegraph signals are CONVEYED from one town to another by wires.” </p><p>CONVEY is also used about ideas, information, and feelings and means to <i class=“def-ital\">make known,</i> either directly or indirectly. </p><p>“He CONVEYED his approval by nodding and smiling.” </p><p>“We wish to CONVEY our deepest sympathy to you on the death of your father.” </p><p>A CONVEYANCE is something that carries or transports, a <i class=“def-ital\">vehicle.</i> </p><p>“No public CONVEYANCES were operating during the snowstorm.” </p><p>Other forms of the word: CONVEYANCE, n.</p>"
+    },
+    "ANNUL": {
+      "word": "ANNUL",
+      "phonetic": "(ÔøΩnuhl')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cancel, nullify, make void ANNUL comes from the Latin word <i class=“def-ital\">nullus,</i> which means “none.” <i class=“def-ital\">Nullus</i> is also the source of the words <i class=“def-ital\">null</i> and <i class=“def-ital\">nullify.</i> To ANNUL something is to make it cease to ex- ist, to put an end to it. The word is most often used about legal agreements. To ANNUL a marriage is to declare that it is not legally valid. </p><p>“The judge ANNULLED the contract between the two companies.” </p><p>ANNUL is also sometimes used in other areas as well. </p><p>“Nothing could ANNUL the startling effect of her sudden appearance in the room.”</p>"
+    },
+    "PREMONITION": {
+      "word": "PREMONITION",
+      "phonetic": "(pre-m:)-ni'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a forewarning, feeling of trouble coming, foreboding </p><p> A PREMONITION is a feeling that something, usually bad, is going to happen. There is no conscious reason for this feeling; it just seems to occur. </p><p>“She had a PREMONITION of the accident.” </p><p>“Sam didn’t pay attention to his PREMONITION that there was danger ahead.” </p><p>“He keeps having strange PREMONITIONS, but none of them seem to come true.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">pre-</i> under Prefixes."
+      ]
+    },
+    "FLAUNT": {
+      "word": "FLAUNT",
+      "phonetic": "(flont)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to show off, display, wave defiantly, attract attention to </p><p>To FLAUNT something is to show it off, to attract attention to it by displaying it or waving it around. </p><p>“He didn’t try to hide his bad habits. He FLAUNTED them in front of everyone.” </p><p>“Knowing they couldn’t catch him, the boy FLAUNTED the stolen wallet at them.” FLAUNT is very often confused with <i class=“def-ital\">flout,</i> a word which sounds almost the same but has a very different meaning. To <i class=“def-ital\">flout</i> something is to treat it with contempt, to scoff at it. </p><p>“He thinks we’re stupid; he’s always <i class=“def-ital\">flouting</i> our advice.” </p><p>To FLAUNT is to show off; to <i class=“def-ital\">flout</i> is to treat with contempt.</p>"
+    },
+    "SIMULATE": {
+      "word": "SIMULATE",
+      "phonetic": "(sim'-yU-IAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to pretend, pretend to be, imitate </p><p>SIMULATE is related to the word <i class=“def-ital\">similar.</i> To SIMULATE something is to take on its appearance, to pretend to be or have it. </p><p>“The fake fur SIMULATES the appearance and feel of real mink.” </p><p>“John SIMULATED lameness so that people would think he was injured.” </p><p>“Jane SIMULATED considerable reluctance to take the job, although she really was quite eager.” </p><p>“SIMULATED diamonds are much less valuable than real ones.” </p><p>Other forms of the word: SIMULATION, n.</p>"
+    },
+    "ENCROACH": {
+      "word": "ENCROACH",
+      "phonetic": "(en-krOch')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to intrude, trespass, enter or take gradually  </p><p>To ENCROACH on or upon something is to advance farther than you are supposed to into it, to <i class=“def-ital\">trespass</i> on it. The word is used about trespassing on actual physical property, and also on things like rights and time. </p><p>“That new fence you built ENCROACHES on my property.” </p><p>“Your speech is too long. It will ENCROACH on my time to speak.” </p><p>ENCROACH is used especially when this trespassing happens gradually or secretly. </p><p>“Step by step the government started to ENCROACH on their rights.” </p><p>“As the years went by the sea ENCROACHED more and more on the land.” </p><p>Other forms of the word: ENCROACHMENT, n. </p><p>Usage: ENCROACH is usually followed by on or upon.</p>"
+    }
+  },
+  "id": "7",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "It ENFEEBLED them.",
+          "answers": [
+            "frightened",
+            "weakened",
+            "destroyed",
+            "strengthened",
+            "worried"
+          ],
+          "word": "ENFEEBLE",
+          "correct": "weakened"
+        },
+        {
+          "prompt": "PROFOUND understanding.",
+          "answers": [
+            "different",
+            "some",
+            "new",
+            "deep",
+            "little"
+          ],
+          "word": "PROFOUND",
+          "correct": "deep"
+        },
+        {
+          "prompt": "Rather CRESTFALLEN.",
+          "answers": [
+            "suspicious",
+            "angry",
+            "discouraged",
+            "ugly",
+            "excited"
+          ],
+          "word": "CRESTFALLEN",
+          "correct": "discouraged"
+        },
+        {
+          "prompt": "We shall be EXALTED.",
+          "answers": [
+            "let in",
+            "impressed",
+            "thrown out",
+            "worn out",
+            "raised high"
+          ],
+          "word": "EXALT",
+          "correct": "raised high"
+        },
+        {
+          "prompt": "His REGAL manner.",
+          "answers": [
+            "vain",
+            "polite",
+            "royal",
+            "usual",
+            "poor"
+          ],
+          "word": "REGAL",
+          "correct": "royal"
+        },
+        {
+          "prompt": "Tried to ALLURE me.",
+          "answers": [
+            "capture",
+            "attract",
+            "order",
+            "love",
+            "frighten"
+          ],
+          "word": "ALLURE",
+          "correct": "attract"
+        },
+        {
+          "prompt": "AMICABLE relations.",
+          "answers": [
+            "friendly",
+            "changeable",
+            "merry",
+            "perfect",
+            "hostile"
+          ],
+          "word": "AMICABLE",
+          "correct": "friendly"
+        },
+        {
+          "prompt": "GUTTURAL voice.",
+          "answers": [
+            "high",
+            "sweet",
+            "loud",
+            "throaty",
+            "frightening"
+          ],
+          "word": "GUTTURAL",
+          "correct": "throaty"
+        },
+        {
+          "prompt": "An act of FOLLY.",
+          "answers": [
+            "common sense",
+            "bravery",
+            "foolishness",
+            "happiness",
+            "love"
+          ],
+          "word": "FOLLY",
+          "correct": "foolishness"
+        },
+        {
+          "prompt": "Try to CONVEY it.",
+          "answers": [
+            "carry",
+            "lift",
+            "spot",
+            "find",
+            "get"
+          ],
+          "word": "CONVEY",
+          "correct": "carry"
+        },
+        {
+          "prompt": "To ANNUL the treaty.",
+          "answers": [
+            "ignore",
+            "accept",
+            "renew",
+            "delay",
+            "cancel"
+          ],
+          "word": "ANNUL",
+          "correct": "cancel"
+        },
+        {
+          "prompt": "Ignored his PREMONITION.",
+          "answers": [
+            "decision",
+            "forewarning",
+            "plan",
+            "explanation",
+            "advice"
+          ],
+          "word": "PREMONITION",
+          "correct": "forewarning"
+        },
+        {
+          "prompt": "He FLAUNTED the thing.",
+          "answers": [
+            "ignored",
+            "feared",
+            "put away",
+            "showed off",
+            "respected"
+          ],
+          "word": "FLAUNT",
+          "correct": "showed off"
+        },
+        {
+          "prompt": "SIMULATED knowledge.",
+          "answers": [
+            "improved",
+            "acquired",
+            "pretended",
+            "useless",
+            "genuine"
+          ],
+          "word": "SIMULATE",
+          "correct": "pretended"
+        },
+        {
+          "prompt": "ENCROACH on the land.",
+          "answers": [
+            "hunt",
+            "stay",
+            "work",
+            "live",
+            "trespass"
+          ],
+          "word": "ENCROACH",
+          "correct": "trespass"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can old age ENFEEBLE a person?",
+          "word": "ENFEEBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an apprentice have a PROFOUND knowledge of his trade?",
+          "word": "PROFOUND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people be CRESTFALLEN if they became rich?",
+          "word": "CRESTFALLEN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you EXALT someone by insulting him?",
+          "word": "EXALT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are most people REGAL?",
+          "word": "REGAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would the idea of catching a disease ALLURE many people?",
+          "word": "ALLURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would people be friendly during an AMICABLE discussion?",
+          "word": "AMICABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a scream a GUTTURAL sound?",
+          "word": "GUTTURAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it FOLLY to try to pass another car on a curve?",
+          "word": "FOLLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a boat a CONVEYANCE?",
+          "word": "CONVEY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a child ANNUL a marriage?",
+          "word": "ANNUL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do PREMONITIONS always come true?",
+          "word": "PREMONITION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a vain person FLAUNT his knowledge?",
+          "word": "FLAUNT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can manufacturers make plastics to SIMULATE wood?",
+          "word": "SIMULATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would people approve of someone who ENCROACHED upon their rights?",
+          "word": "ENCROACH",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "His words of encouragement ENFEEBLED her to try again.",
+          "word": "ENFEEBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He told us about his PROFOUND regret that he had never gone to college.",
+          "word": "PROFOUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "The CRESTFALLEN players realized they just hadn't been good enough to beat the other team.",
+          "word": "CRESTFALLEN",
+          "correct": "true"
+        },
+        {
+          "prompt": "The emperor was friendly despite his EXALTED position.",
+          "word": "EXALT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The wedding was a REGAL affair that would have pleased any king or queen.",
+          "word": "REGAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "The ALLURE of gold has caused many men to become prospectors.",
+          "word": "ALLURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "They both decided they couldn't work together, so they parted AMICABLY.",
+          "word": "AMICABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "She gave a high, GUTTURAL giggle and said she was only kidding.",
+          "word": "GUTTURAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Ed was FOLLY about model railroads. He would play with them all day.",
+          "word": "FOLLY",
+          "correct": "false"
+        },
+        {
+          "prompt": "It is hard to CONVEY to you how important I think this subject is.",
+          "word": "CONVEY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The Supreme Court ANNULLED the agreement, stating that the president didn't have the power to enter into it.",
+          "word": "ANNUL",
+          "correct": "true"
+        },
+        {
+          "prompt": "He had a PREMONITION afterwards that he had done poorly on the test.",
+          "word": "PREMONITION",
+          "correct": "false"
+        },
+        {
+          "prompt": "She got an A in every subject and FLAUNTED her report card in front of her classmates.",
+          "word": "FLAUNT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The students SIMULATED an understanding of what the teacher was saying, but it really wasn't clear to them.",
+          "word": "SIMULATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The thieves ENCROACHED her pocketbook in broad daylight.",
+          "word": "ENCROACH",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "ENFEEBLE",
+          "answers": [
+            "weaken",
+            "drain",
+            "frighten"
+          ],
+          "word": "ENFEEBLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PROFOUND",
+          "answers": [
+            "expensive",
+            "deep",
+            "wise"
+          ],
+          "word": "PROFOUND",
+          "correct": "0"
+        },
+        {
+          "prompt": "CRESTFALLEN",
+          "answers": [
+            "unhappy",
+            "dismayed",
+            "unhealthy"
+          ],
+          "word": "CRESTFALLEN",
+          "correct": "2"
+        },
+        {
+          "prompt": "EXALT",
+          "answers": [
+            "begin",
+            "glorify",
+            "raise"
+          ],
+          "word": "EXALT",
+          "correct": "0"
+        },
+        {
+          "prompt": "REGAL",
+          "answers": [
+            "imperial",
+            "magnificent",
+            "holy"
+          ],
+          "word": "REGAL",
+          "correct": "2"
+        },
+        {
+          "prompt": "ALLURE",
+          "answers": [
+            "fascinate",
+            "improve",
+            "enchant"
+          ],
+          "word": "ALLURE",
+          "correct": "1"
+        },
+        {
+          "prompt": "AMICABLE",
+          "answers": [
+            "amiable",
+            "pleasant",
+            "restful"
+          ],
+          "word": "AMICABLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "GUTTURAL",
+          "answers": [
+            "sharp",
+            "throaty",
+            "harsh"
+          ],
+          "word": "GUTTURAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "FOLLY",
+          "answers": [
+            "absurdity",
+            "unkindness",
+            "silliness"
+          ],
+          "word": "FOLLY",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONVEY",
+          "answers": [
+            "send",
+            "tell",
+            "delay"
+          ],
+          "word": "CONVEY",
+          "correct": "2"
+        },
+        {
+          "prompt": "ANNUL",
+          "answers": [
+            "nullify",
+            "attack",
+            "abolish"
+          ],
+          "word": "ANNUL",
+          "correct": "1"
+        },
+        {
+          "prompt": "PREMONITION",
+          "answers": [
+            "regret",
+            "warning",
+            "fear"
+          ],
+          "word": "PREMONITION",
+          "correct": "0"
+        },
+        {
+          "prompt": "FLAUNT",
+          "answers": [
+            "boast",
+            "show off",
+            "pretend"
+          ],
+          "word": "FLAUNT",
+          "correct": "2"
+        },
+        {
+          "prompt": "SIMULATE",
+          "answers": [
+            "copy",
+            "increase",
+            "imitate"
+          ],
+          "word": "SIMULATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ENCROACH",
+          "answers": [
+            "enter",
+            "intrude",
+            "refuse"
+          ],
+          "word": "ENCROACH",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

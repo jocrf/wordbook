@@ -1,26 +1,4 @@
 {
-  "general-info": {
-    "about": {
-      "title": "About the Foundation",
-      "text": [
-        "The Johnson O'Connor Research Foundation, Inc., is a nonprofit research organization devoted to the study of aptitudes and vocabulary and their use in school and work. Since 1922, hundreds of thousands of people have taken its program of aptitude measurements to learn more about themselves and to derive more satisfaction from their lives and work. The Foundation has testing centers in major cities across the nation."
-      ]
-    },
-    "how-to-use": {
-      "title": "How to Use Wordbook",
-      "text": [
-        "This tool has been created to help you increase your knowledge of words. It does this by discussing and testing you on words that are at a certain level of difficulty on our vocabulary scale. The first step is to take the placement test, which shows you where you score on this scale. If you study the words which are about at your level, they should be easier for you to learn than words that are much higher on the scale.",
-        "There are many different ways of using this tool. If you are studying vocabulary as part of a class, your teacher may tell you the best way he or she has found to use it. If you are studying on your own, here are some suggestions:",
-        "Start at the beginning of the level, even if it is below your vocabulary scale score. If you do not know some words below that level you certainly should learn them, and they should not be too difficult to learn.",
-        "The first step in studying a set of words is to take the Pretest. This will tell you what words you do not know. You should certainly study any words you get wrong on this Pretest. Since it is possible to get an item right by guessing, you should also make a note of any words you aren't quite sure of; study them even if you get them right.",
-        "Next, read over the discussion of each word you missed or weren't sure of. Memorize its meaning. Pay careful attention to the way the word is used in the sample sentences. Try to get a feel for the word. Use a dictionary (or two) in addition to reading the discussion. Try to understand the other forms which the word may take. (The lists of prefixes and suffixes that will be linked to can be very helpful for this.) When you think you know the words, go on to the exercises.",
-        "The exercises give you three ways of testing your understanding of the words. They do not have to be done in any particular order. If you make a mistake on any one of them, though, you should reread the definition for that word. After every three wordsets there is a review section for words in those sets. Any words you get wrong on this review section should, of course, be restudied.",
-        "You might want to work with the test words in other ways as well. Have someone read the words aloud to you; see if you can recognize them and write them correctly. Try to write a story or article that uses all of the words. See if you can write good definitions of the words without looking at the discussions or a dictionary.",
-        "Once you think you have learned the words in a set, go on to the next one. It is a good idea, though, to make a list of the words you have learned so that you can review them from time to time. As you go through the level you may find the words becoming slightly more difficult. This will be particularly true as you go beyond your score on the vocabulary scale. If you get to a point where you are missing about half the words in a wordset, you should slow down and spend more time with each word. It would also be a good idea to begin studying the words that you got right on the Pretest, in order to fix them more firmly in your mind.",
-        "By the time you finish a level we hope that all the words in it will be a part of your vocabulary. At that point you should be ready to learn more words that are harder than these. You should continue to review these words, however, until you know them so well that they are a natural part of your speech and writing."
-      ]
-    }
-  },
   "instructions": {
     "placement": {
       "title": "Placement Quiz",

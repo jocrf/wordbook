@@ -1,0 +1,611 @@
+{
+  "title": "7.3",
+  "definitions": {
+    "EXACERBATE": {
+      "word": "EXACERBATE",
+      "phonetic": "(ig-zas'-ÔøΩr-bAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to aggravate, embitter, irritate </p><p>The <i class=“def-ital\">acerb</i> part of EXACERBATE comes from a Latin word meaning <i class=“def-ital\">bitter</i> or <i class=“def-ital\">sour</i>. <i class=“def-ital\">Acerb</i>, or <i class=“def-ital\">acerbic</i>, also has the same meaning in English. To EXACERBATE something is to make it more bitter, to increase its severity or violence.  The word is usually used about pain, emotions, or the like. </p><p>“You must eat something. Going without food will only EXACERBATE your illness.” </p><p>“The mayor’s thoughtless remark only served to EXACERBATE racial tensions in the city.” </p><p>“Instead of solving the problem, Jack’s foolish scheme EXACERBATED it.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "FELICITY": {
+      "word": "FELICITY",
+      "phonetic": "(fa-lis'-ÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">happiness, bliss; a pleasing manner </p><p>FELICITY is a rather formal term for <i class=“def-ital\">happiness</i>. </p><p>“On their 50th anniversary, the couple were a model of wedded FELICITY.” </p><p>“At the reunion, there was such FELICITY that smiles and laughter flowed like wine.” </p><p>In a less common sense, FELICITY is a pleasing manner or quality, especially in language. </p><p>“Some say it was not the politician’s platform that got him elected, but his good looks and FELICITY of speech.” </p><p>Other forms of the word: FELICITOUS, adj.</p>"
+    },
+    "OBLIVIOUS": {
+      "word": "OBLIVIOUS",
+      "phonetic": "(ÔøΩbliv'-E-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">forgetful, unaware, unmindful </p><p>OBLIVIOUS and its related noun OBLIVION come from a Latin word meaning to <i class=“def-ital\">forget</i>. The basic meaning of OBLIVIOUS is <i class=“def-ital\">forgetful</i>, either because one chooses to forget, or because the matter is too trivial to remember. The word is usually followed by <i class=“def-ital\">of</i> or <i class=“def-ital\">to</i>. </p><p>“The sudden new crisis made Sheila OBLIVIOUS of her previous concerns.” </p><p>“The union said it would strike if management remained OBLIVIOUS to its grievance.” </p><p>Very often OBLIVIOUS is used to mean <i class=“def-ital\">unaware</i>. </p><p>“The busy teacher was OBLIVIOUS of the talking and laughter going on all around her.” </p><p>This usage is sometimes criticized as being too general and imprecise. </p><p>Other forms of the word: OBLIVION, n.</p>"
+    },
+    "SQUALOR": {
+      "word": "SQUALOR",
+      "phonetic": "(skwol'-ÔøΩ)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">filthiness, corruption, baseness </p><p>The adjective SQUALID means filthy. </p><p>“They lived in a SQUALID apartment, with garbage heaped everywhere.” </p><p>SQUALID can also be applied to moral filth, and means <i class=“def-ital\">sordid</i>. </p><p>“The newspaper was filled with SQUALID stories about divorce trials and ax murders.” </p><p>SQUALOR is the noun from SQUALID. It too is used about both physical and moral filth. </p><p>“Janet longs to move away from the SQUALOR of the slums.” </p><p>“The preacher denounced the moral SQUALOR in which so many people lived.” </p><p>Other forms of the word: SQUALID, adj.</p>"
+    },
+    "AFFRAY": {
+      "word": "AFFRAY",
+      "phonetic": "(ÔøΩfrA')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a brawl, noisy quarrel </p><p>In legal use, an AFFRAY is a public quarrel or fight loud enough to disturb people nearby. Generally, AFFRAY refers to any noisy or unseemly dispute. </p><p>“What had started as a political discussion turned into such an AFFRAY that people at nearby tables got up to leave.” </p><p>“The two groups began to shout and throw garbage at each other, but the police broke up the AFFRAY.” </p><p>“The argumentative economist was always getting into bitter AFFRAYS with his equally opinionated colleagues.”</p>"
+    },
+    "ANTIPATHY": {
+      "word": "ANTIPATHY",
+      "phonetic": "(an-tip'-ÔøΩthE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">aversion, repugnance, distaste, enmity </p><p>The <i class=“def-ital\">path</i> part of ANTIPATHY comes from a Greek word meaning <i class=“def-ital\">feeling</i>; this root is also found in <i class=“def-ital\">pathos</i>, <i class=“def-ital\">pathetic</i>, and <i class=“def-ital\">sympathy</i>.  ANTIPATHY is a “feeling against someone or something, a sense of aversion or strong distaste. It is often followed by <i class=“def-ital\">to</i>, <i class=“def-ital\">toward</i>, or <i class=“def-ital\">against</i>. </p><p>“Sam’s ANTIPATHY toward his boss was so great that he finally had to quit.” </p><p>“His experience during the war left him with a strong ANTIPATHY to violence.” </p><p>“John overcame his ANTIPATHY toward cats and now owns three of them.” </p><p>Other forms of the word: ANTIPATHETIC, adj.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">anti-</i> under Prefixes and <i class=“def-ital\">-y</i> under Suffixes."
+      ]
+    },
+    "ASPECT": {
+      "word": "ASPECT",
+      "phonetic": "(as'-pekt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a part or feature; trait; appearance </p><p>An ASPECT of something or someone is a part you can see with either your eyes or your mind. Its Latin root, <i class=“def-ital\">spectare</i>, meaning to look or behold, is found in words like <i class=“def-ital\">inspect</i>, <i class=“def-ital\">spectator</i>, <i class=“def-ital\">prospect</i>, and <i class=“def-ital\">spectacle</i>. An ASPECT is something that is looked at, regarded, or considered. It can mean the actual appearance of something. </p><p>“Their painted bodies and unsmiling faces gave the natives a fierce ASPECT.” </p><p>“The combination of dusk and fog gave the forest a terrifying ASPECT.” </p><p>ASPECT can also be less visual and more figurative or abstract. </p><p>“The unfamiliar ASPECTS of Bob’s new job confused him.” </p><p>“The judge instructed the jurors to consider each ASPECT of the case with the greatest care.” </p><p>ASPECT also means “the manner in which something or someone is looked at or presented.” </p><p>“A salesperson tries to present his product in a favorable ASPECT.” </p><p>“I suddenly understood the poem when I regarded it in a different ASPECT.”</p>"
+    },
+    "CONTRITION": {
+      "word": "CONTRITION",
+      "phonetic": "(kÔøΩn-trish'-ÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">repentance, remorse, penitence </p><p>CONTRITION and its adjective CONTRITE come from a Latin word meaning to <i class=“def-ital\">bruise</i> or <i class=“def-ital\">grind</i>, also the source of the words <i class=“def-ital\">attrition</i> and <i class=“def-ital\">detritus</i>. People who are CONTRITE are bruised or broken in spirit because of sorrow for their sins. CONTRITION is sincere regret and sorrow for having done wrong. </p><p>“The child showed no CONTRITION for having stolen the money. In fact, he appeared to be happy that he had done it.” </p><p>“We could tell Jane’s CONTRITION for her crime was real: she couldn’t stop crying as she tried to say how sorry she was.” </p><p>“The criminal’s words of CONTRITION did not sway the judge.” </p><p>Other forms of the word: CONTRITE, adj.</p>"
+    },
+    "IMPUDENT": {
+      "word": "IMPUDENT",
+      "phonetic": "(im'-pyU-dÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">shameless, disrespectful, impertinent, brazen </p><p>IMPUDENT is made up of the prefix <i class=“def-ital\">im-</i>, meaning not, and the root <i class=“def-ital\">pud</i>, from a Latin word meaning to <i class=“def-ital\">feel shame</i>. An IMPUDENT person is shameless, especially in his or her attitude toward others. The word often stresses boldness and lack of respect. </p><p>“The IMPUDENT student simply ignored the principal when she spoke to him.” </p><p>“The boss fired the worker because of his IMPUDENT behavior.” </p><p>The noun from IMPUDENT is IMPUDENCE. </p><p>“Jane’s mother made her apologize for her IMPUDENCE toward the guests.” </p><p>“Because of his constant IMPUDENCE, Paul was told that he was no longer welcome as a member of the business association.” </p><p>Other forms of the word: IMPUDENCE, n.</p>"
+    },
+    "INDOLENT": {
+      "word": "INDOLENT",
+      "phonetic": "(in'-da-lÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">lazy, slothful </p><p>INDOLENT means “habitually lazy.” An INDOLENT person is not inclined to work or to perform any other kind of exertion. </p><p>“She is so INDOLENT that she spends the entire summer lying on the beach.” </p><p>“The INDOLENT fellows hung around the park all day, playing cards and watching the cars go by.” </p><p>The noun form of INDOLENT is INDOLENCE. </p><p>“The boss accused his workers of INDOLENCE, saying that all they wanted to do was take long lunch hours.” </p><p>Other forms of the word: INDOLENCE, n.</p>"
+    },
+    "INTERLOPER": {
+      "word": "INTERLOPER",
+      "phonetic": "(in'-tÔøΩr-lOp-ÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an intruder, trespasser </p><p>An INTERLOPER is an intruder, someone who interferes in other people’s affairs, often in order to gain a privilege or a right that belongs to someone else. </p><p>“A group of INTERLOPERS appeared and tried to take over our mining claims.” </p><p>“She said no one had invited Dave to the party; he was nothing but an INTERLOPER.” </p><p>The verb form is INTERLOPE, to <i class=“def-ital\">intrude</i>, <i class=“def-ital\">meddle</i>, <i class=“def-ital\">butt in</i>. </p><p>“The company official accused the government of constantly INTERLOPING in the affairs of business.” </p><p>Other forms of the word: INTERLOPE, v.</p>"
+    },
+    "MILIEU": {
+      "word": "MILIEU",
+      "phonetic": "(mEl-yÔøΩr')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">surroundings, environment, setting </p><p>Note the pronunciation. MILIEU is a French word, and has retained its French pronunciation. The MILIEU of people is their surroundings, the social and physical setting in which they live. </p><p>“The book examines the cultural MILIEU in Vienna at the turn of the century.” </p><p>“She came out of the slums of New York City and anyone who has lived in that MILIEU knows the obstacles she had to overcome.” </p><p>“The painter did his best work in a strange MILIEU of poets, out-of-work actors, and assorted eccentrics.”</p>"
+    },
+    "NEBULOUS": {
+      "word": "NEBULOUS",
+      "phonetic": "(neb'-ya-lÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hazy, cloudy, indistinct, vague </p><p>NEBULOUS comes from the Latin word for <i class=“def-ital\">cloud</i>.  Something that is NEBULOUS is hazy and indistinct, like a cloud. The word is often used in an extended sense about anything that is dimly realized or not clearly established. </p><p>“The boundary between the countries is quite NEBULOUS; no one is sure where one country ends and the other begins.” </p><p>“Their plans for the party are still NEBULOUS, but I’m sure everything will be settled by next week.” </p><p>“NEBULOUS memories and ideas floated through her mind as she lay on the hammock.” </p><p>Other forms of the word: NEBULOSITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "ODIOUS": {
+      "word": "ODIOUS",
+      "phonetic": "(O'-dE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hateful, abhorrent, offensive, detestable </p><p>ODIOUS and the noun ODIUM come from a Latin word meaning to <i class=“def-ital\">hate</i>. Something that is ODIOUS arouses one’s hatred or disgust. </p><p>“I cannot tell you how shocked I am by your ODIOUS conduct.” </p><p>“Finally they abolished their ODIOUS policy of excluding women from their club.” </p><p>“The ODIOUS band of criminals would stop at nothing in carrying out their fiendish plans.” </p><p>Other forms of the word: ODIUM, n.</p>"
+    },
+    "REPAST": {
+      "word": "REPAST",
+      "phonetic": "(ri-past'",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a meal, food </p><p>A REPAST is a meal, or the food provided at a meal. </p><p>“This salad will make a pleasant summer REPAST.” </p><p>“For our evening REPAST we will have chicken wings and asparagus.” </p><p>The <i class=“def-ital\">past</i> part of REPAST leads many people to pick <i class=“def-ital\">legend</i> on the Pretest as the word’s meaning. The derivation of REPAST has nothing to do with time, however.</p>"
+    }
+  },
+  "id": "3",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "to EXACERBATE",
+          "answers": [
+            "comfort",
+            "aggravate",
+            "falsify",
+            "calculate",
+            "elevate"
+          ],
+          "word": "EXACERBATE",
+          "correct": "aggravate"
+        },
+        {
+          "prompt": "FELICITY",
+          "answers": [
+            "loyalty",
+            "ease",
+            "satisfaction",
+            "happiness",
+            "fame"
+          ],
+          "word": "FELICITY",
+          "correct": "happiness"
+        },
+        {
+          "prompt": "OBLIVIOUS",
+          "answers": [
+            "rash",
+            "helpless",
+            "high-spirited",
+            "aware",
+            "forgetful"
+          ],
+          "word": "OBLIVIOUS",
+          "correct": "forgetful"
+        },
+        {
+          "prompt": "SQUALOR",
+          "answers": [
+            "cleanliness",
+            "wealth",
+            "filthiness",
+            "bitterness",
+            "storminess"
+          ],
+          "word": "SQUALOR",
+          "correct": "filthiness"
+        },
+        {
+          "prompt": "AFFRAY",
+          "answers": [
+            "brawl",
+            "game",
+            "party",
+            "comedy",
+            "war"
+          ],
+          "word": "AFFRAY",
+          "correct": "brawl"
+        },
+        {
+          "prompt": "ANTIPATHY",
+          "answers": [
+            "depression",
+            "confusion",
+            "understanding",
+            "fear",
+            "aversion"
+          ],
+          "word": "ANTIPATHY",
+          "correct": "aversion"
+        },
+        {
+          "prompt": "ASPECT",
+          "answers": [
+            "appearance",
+            "decision",
+            "behavior",
+            "opportunity",
+            "feeling"
+          ],
+          "word": "ASPECT",
+          "correct": "appearance"
+        },
+        {
+          "prompt": "CONTRITION",
+          "answers": [
+            "pressure",
+            "anxiety",
+            "repentance",
+            "pride",
+            "holiness"
+          ],
+          "word": "CONTRITION",
+          "correct": "repentance"
+        },
+        {
+          "prompt": "IMPUDENT",
+          "answers": [
+            "helpless",
+            "cautious",
+            "shameless",
+            "courageous",
+            "playful"
+          ],
+          "word": "IMPUDENT",
+          "correct": "shameless"
+        },
+        {
+          "prompt": "INDOLENT",
+          "answers": [
+            "lazy",
+            "hardworking",
+            "poor",
+            "weak",
+            "mean"
+          ],
+          "word": "INDOLENT",
+          "correct": "lazy"
+        },
+        {
+          "prompt": "INTERLOPER",
+          "answers": [
+            "thief",
+            "intruder",
+            "messenger",
+            "beginner",
+            "opponent"
+          ],
+          "word": "INTERLOPER",
+          "correct": "intruder"
+        },
+        {
+          "prompt": "MILIEU",
+          "answers": [
+            "surroundings",
+            "target",
+            "substitute",
+            "food",
+            "inhabitants"
+          ],
+          "word": "MILIEU",
+          "correct": "surroundings"
+        },
+        {
+          "prompt": "NEBULOUS",
+          "answers": [
+            "false",
+            "incredible",
+            "distant",
+            "hazy",
+            "bright"
+          ],
+          "word": "NEBULOUS",
+          "correct": "hazy"
+        },
+        {
+          "prompt": "ODIOUS",
+          "answers": [
+            "foreign",
+            "hateful",
+            "sweet",
+            "clear",
+            "unusual"
+          ],
+          "word": "ODIOUS",
+          "correct": "hateful"
+        },
+        {
+          "prompt": "REPAST",
+          "answers": [
+            "play",
+            "party",
+            "legend",
+            "beverage",
+            "meal"
+          ],
+          "word": "REPAST",
+          "correct": "meal"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Could cigarette smoking EXACERBATE a respiratory infection?",
+          "word": "EXACERBATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does living in a hovel cause FELICITY?",
+          "word": "FELICITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it possible to be OBLIVIOUS of noisy surroundings?",
+          "word": "OBLIVIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a palace likely to be SQUALID?",
+          "word": "SQUALOR",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could an AFFRAY involve bitter words?",
+          "word": "AFFRAY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do mothers usually show ANTIPATHY toward their children?",
+          "word": "ANTIPATHY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are there furtive ASPECTS to being an undercover agent?",
+          "word": "ASPECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a CONTRITE person be likely to apologize?",
+          "word": "CONTRITION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a teacher want to rebuke a pupil for IMPUDENCE?",
+          "word": "IMPUDENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an INDOLENT person make a good employee?",
+          "word": "INDOLENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are INTERLOPERS welcome?",
+          "word": "INTERLOPER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can people be part of a MILIEU?",
+          "word": "MILIEU",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a thought be NEBULOUS?",
+          "word": "NEBULOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it ODIOUS to be a murderer?",
+          "word": "ODIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a banquet be a REPAST?",
+          "word": "REPAST",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The teacher EXACERBATED them for smoking on the school grounds.",
+          "word": "EXACERBATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Mr. Jones claimed that nothing was more important to him than his wife's FELICITY.",
+          "word": "FELICITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "When hard at work, John became OBLIVIOUS of his surroundings.",
+          "word": "OBLIVIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The SQUALOR of the teenagers' bedrooms contrasted vividly with the cleanliness of the rest of the house.",
+          "word": "SQUALOR",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was a quiet AFFRAY, attended only by his close friends.",
+          "word": "AFFRAY",
+          "correct": "false"
+        },
+        {
+          "prompt": "I have considerable ANTIPATHY for your predicament; unfortunately, there is nothing I can do to help you.",
+          "word": "ANTIPATHY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Looking at it from a different ASPECT, I can understand why she was upset.",
+          "word": "ASPECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The murderer expressed great CONTRITION when she said the victim got what he deserved.",
+          "word": "CONTRITION",
+          "correct": "false"
+        },
+        {
+          "prompt": "The IMPUDENT children stuck their tongues out at the woman.",
+          "word": "IMPUDENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "His INDOLENCE is astonishing; he wouldn't get out of bed if he didn't have to eat.",
+          "word": "INDOLENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Betty called the new salesman an INTERLOPER for trying to take over some of her accounts.",
+          "word": "INTERLOPER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The refined lady seemed out of place in the rough-and-tumble MILIEU of the waterfront.",
+          "word": "MILIEU",
+          "correct": "true"
+        },
+        {
+          "prompt": "They painted their house a bright, NEBULOUS color.",
+          "word": "NEBULOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "She exclaimed with delight at the ODIOUS smell of the roses.",
+          "word": "ODIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The man entertained us with REPASTS of things that had happened long ago.",
+          "word": "REPAST",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "EXACERBATE",
+          "answers": [
+            "worsen",
+            "destroy",
+            "embitter"
+          ],
+          "word": "EXACERBATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "FELICITY",
+          "answers": [
+            "pleasure",
+            "contentment",
+            "nostalgia"
+          ],
+          "word": "FELICITY",
+          "correct": "2"
+        },
+        {
+          "prompt": "OBLIVIOUS",
+          "answers": [
+            "unaware",
+            "careful",
+            "forgetful"
+          ],
+          "word": "OBLIVIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "SQUALOR",
+          "answers": [
+            "filth",
+            "sordidness",
+            "danger"
+          ],
+          "word": "SQUALOR",
+          "correct": "2"
+        },
+        {
+          "prompt": "AFFRAY",
+          "answers": [
+            "meeting",
+            "quarrel",
+            "wrangle"
+          ],
+          "word": "AFFRAY",
+          "correct": "0"
+        },
+        {
+          "prompt": "ANTIPATHY",
+          "answers": [
+            "ferocity",
+            "repugnance",
+            "aversion"
+          ],
+          "word": "ANTIPATHY",
+          "correct": "0"
+        },
+        {
+          "prompt": "ASPECT",
+          "answers": [
+            "belief",
+            "view",
+            "trait"
+          ],
+          "word": "ASPECT",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONTRITION",
+          "answers": [
+            "regret",
+            "remorse",
+            "resentment"
+          ],
+          "word": "CONTRITION",
+          "correct": "2"
+        },
+        {
+          "prompt": "IMPUDENT",
+          "answers": [
+            "angry",
+            "brash",
+            "insolent"
+          ],
+          "word": "IMPUDENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "INDOLENT",
+          "answers": [
+            "lonely",
+            "lethargic",
+            "languid"
+          ],
+          "word": "INDOLENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "INTERLOPER",
+          "answers": [
+            "conqueror",
+            "meddler",
+            "intruder"
+          ],
+          "word": "INTERLOPER",
+          "correct": "0"
+        },
+        {
+          "prompt": "MILIEU",
+          "answers": [
+            "discipline",
+            "atmosphere",
+            "background"
+          ],
+          "word": "MILIEU",
+          "correct": "0"
+        },
+        {
+          "prompt": "NEBULOUS",
+          "answers": [
+            "unclear",
+            "unknown",
+            "imprecise"
+          ],
+          "word": "NEBULOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "ODIOUS",
+          "answers": [
+            "hateful",
+            "disgusting",
+            "fearful"
+          ],
+          "word": "ODIOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "REPAST",
+          "answers": [
+            "dessert",
+            "breakfast",
+            "water"
+          ],
+          "word": "REPAST",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

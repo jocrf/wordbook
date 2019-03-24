@@ -1,0 +1,610 @@
+{
+  "title": "5.11",
+  "definitions": {
+    "IMPEDIMENT": {
+      "word": "IMPEDIMENT",
+      "phonetic": "(im-ped'-ÔøΩ-mÔøΩnt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an obstacle, obstruction, hindrance </p><p>The verb IMPEDE comes from the Latin word for <i class=“def-ital\">foot,</i> which is also the source of the English words <i class=“def-ital\">pedal</i> and <i class=“def-ital\">pedestrian.</i> The original Latin meaning of IMPEDE was “to snare the feet.” Today it means more generally “to obstruct the progress of,” to <i class=“def-ital\">hinder.</i> </p><p>“The constant floods IMPEDED their journey.” An IMPEDIMENT is something which IMPEDES, an <i class=“def-ital\">obstacle.</i> </p><p>“Lack of money was the main IMPEDIMENT to the successful completion of the project.” </p><p>“He had a speech IMPEDIMENT that kept him from talking easily.” </p><p>Other forms of the word: IMPEDE,v.</p>"
+    },
+    "DORMANT": {
+      "word": "DORMANT",
+      "phonetic": "(dor'-mÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">inactive </p><p>DORMANT comes originally from a Latin word meaning to <i class=“def-ital\">sleep,</i> also the source of the word <i class=“def-ital\">dormitory.</i> DORMANT means lying asleep or as if asleep. It is used about things which are inactive now, but are capable of becoming active in the future. </p><p>“During the winter, trees become DORMANT. In the spring they seem to come alive again and put out new leaves.” </p><p>“After years of being DORMANT the volcano suddenly erupted.” </p><p>“Her ability to paint lay DORMANT for many years. She didn’t start to draw and sketch until she was past fifty.”</p>"
+    },
+    "DIMINISH": {
+      "word": "DIMINISH",
+      "phonetic": "(dÔøΩ-min'-ish)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to lessen, decrease, dwindle </p><p>To DIMINISH is to make less, or to become less. </p><p>“Nothing could DIMINISH my interest in history.” </p><p>“The value of our house DIMINISHED when they decided to build an expressway next to it.” </p><p>“His wealth DIMINISHED as a result of poor investments.” </p><p>“Our food supply was greatly DIMINISHED by the end of the day.” </p><p>The most common wrong answer on the Pretest is <i class=“def-ital\">stop.</i> </p><p>To DIMINISH something is not to <i class=“def-ital\">stop</i> it, though,only to lessen it.</p>"
+    },
+    "JAUNT": {
+      "word": "JAUNT",
+      "phonetic": "(jont)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a short trip, excursion </p><p>A JAUNT is a short, casual trip taken for pleasure. </p><p>“We took a quick JAUNT to the beach.” </p><p>“They went on a JAUNT to see the city sights.” </p><p>JAUNT can also be used as a verb. </p><p>“She liked to JAUNT through the lovely parks. ”</p>"
+    },
+    "TUMULT": {
+      "word": "TUMULT",
+      "phonetic": "(tU'-mÔøΩlt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an uproar, noise, disturbance, commotion </p><p>A TUMULT is any sort of uproar or disturbance. </p><p>“The politician was greeted with a TUMULT of cheers.” </p><p>“There was a sudden silence in the midst of the TUMULT.” </p><p>TUMULT is often used about highly disturbed emotions. </p><p>“Her feelings were in a TUMULT as she waited for the door to open.” </p><p>The adjective form of TUMULT is TUMULTUOUS, which means <i class=“def-ital\">noisy</i> or <i class=“def-ital\">disorderly.</i> </p><p>“The star received TUMULTUOUS applause when he came on stage.” </p><p>“The teacher tried to calm the TUMULTUOUS crowd of children.” </p><p>Other forms of the word: TUMULTUOUS,adj.</p>"
+    },
+    "CLAD": {
+      "word": "CLAD",
+      "phonetic": "(klad)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">dressed, clothed </p><p>CLAD is an old form of the past tense of the verb to <i class=“def-ital\">clothe.</i> When the word is used in this way, it usually has an old-fashioned flavor. </p><p>“The princess was CLAD in the finest Japanese silk.” </p><p>Usually CLAD is an adjective, used with another word as part of a phrase. </p><p>“Poorly CLAD beggars roamed the streets of the town.” </p><p>An IRONCLAD ship is covered with iron plates, usually as armor. From this IRONCLAD has come to be used about anything that is impossible to break. </p><p>“We had an IRONCLAD agreement to help each other.”</p>"
+    },
+    "MERCANTILE": {
+      "word": "MERCANTILE",
+      "phonetic": "(mer'-kÔøΩn-tll)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">related to trade, commercial </p><p>A MERCHANT is someone who buys and sells a product for profit. MERCANTILE is an adjective from MERCHANT and means “of or related to MERCHANTS or trading.” </p><p>“It was a MERCANTILE city, famous for its many large businesses.” </p><p>“The MERCANTILE interests in the legislature sup- ported all bills that would help increase trade.” </p><p>Other forms of the word: MERCHANT, n.</p>"
+    },
+    "ANGUISH": {
+      "word": "ANGUISH",
+      "phonetic": "(ang'-gwish",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">suffering, sorrow, distress, woe, agony </p><p>ANGUISH is extreme suffering. The suffering can be either mental or physical. </p><p>“Her son’s death in an automobile accident caused her great ANGUISH.” </p><p>“Nothing we could do could relieve her ANGUISH when her house burned down.” </p><p>“The soldier was in ANGUISH until the doctor came to treat his wound.” </p><p>ANGUISH is also a verb. </p><p>“Mary ANGUISHED over the loss of her home and belongings in the fire.” </p><p>ANGUISHED is the adjective from ANGUISH. </p><p>“Her ANGUISHED cries told us that something was terribly wrong.” </p><p><i class=“def-ital\">Rage</i> is the incorrect answer that is most often chosen. This is probably due to a confusion between ANGUISH and <i class=“def-ital\">anger.</i> Other forms of the word: ANGUISHED, adj.</p>"
+    },
+    "DEPLORABLE": {
+      "word": "DEPLORABLE",
+      "phonetic": "(di-plor'-ÔøΩbÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wretched, bad, causing grief or regret </p><p>To DEPLORE something is to feel great regret, disapproval, or sorrow about it. </p><p>“He DEPLORED the conditions in which the miners had to work.” </p><p>DEPLORABLE is the adjective from DEPLORE.  Something which is DEPLORABLE is <i class=“def-ital\">wretched,</i> bad enough to cause strong disapproval. </p><p>“When we arrived at our new apartment we found that the people living there before us had left it in a DE- PLORABLE condition.” “Wendy’s grandmother told her that her manners were DEPLORABLE.” </p><p>Sometimes the word is used about something that causes sorrow rather than disapproval. </p><p>“The people wept bitterly upon hearing of the DEPLORABLE death of their president.” </p><p>“They had never before witnessed such a DEPLORABLE accident.” Other forms of the word: DEPLORE, v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-able</i> under Suffixes."
+      ]
+    },
+    "EFFERVESCENT": {
+      "word": "EFFERVESCENT",
+      "phonetic": "(ef-ÔøΩr-ves'-ÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">bubbling, exuberant, lively </p><p>The <i class=“def-ital\">ferv</i> part of EFFERVESCENT comes from a Latin word meaning to <i class=“def-ital\">boil,</i> also the source of the word <i class=“def-ital\">fervent.</i> To EFFERVESCE is to give off bubbles of gas the way a carbonated soft drink or champagne does.EFFERVES- CENT is the adjective from EFFERVESCE. The word is usually used in a general sense about people who are so lively and excitable that they seem to bubbleover with enthusiasm, joy, or ideas. </p><p>“Her EFFERVESCENT enthusiasm made everyone else try twice as hard.” </p><p>“His EFFERVESCENT personality would enliven any party.” </p><p>“Jane’s EFFERVESCENT imagination came up with a hundred ways of solving the problem.” </p><p>Other forms of the word: EFFERVESCE, v. EFFERVESCENCE, n.</p>"
+    },
+    "ORNATE": {
+      "word": "ORNATE",
+      "phonetic": "(or-nAt')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">elaborately or excessively decorated, showy </p><p>ORNATE is related to the word <i class=“def-ital\">ornament.</i> Something which is ORNATE is highly decorated or ornamented. </p><p>“The chair was very ORNATE, covered with scrolls and designs and patterns.” </p><p>“We stared at the ORNATE design on the ceiling of the church.” </p><p>ORNATE is often used about writing which is full of flowery language. </p><p>“Some people like this ORNATE style of writing. I like writing to be simple and clear.”</p>"
+    },
+    "SOMBER": {
+      "word": "SOMBER",
+      "phonetic": "(som'-bÔøΩr)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">gloomy, dark, dark colored, dismal </p><p>SOMBER means <i class=“def-ital\">gloomy, dark,</i> or <i class=“def-ital\">shadowy.</i> It is used about things and people’s moods. </p><p>“It was customary for relatives of the dead person to dress in SOMBER clothes for at least a year.” </p><p>“SOMBER clouds filled the sky.” </p><p>“She put on a SOMBER look, even though she was secretly pleased.” </p><p>“He couldn’t shake off his SOMBER mood.” </p><p>Many people think SOMBER means <i class=“def-ital\">bored.</i> SOMBER, however, emphasizes gloominess and depression rather than boredom.</p>"
+    },
+    "JURISDICTION": {
+      "word": "JURISDICTION",
+      "phonetic": "(jUr-is-dik'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">authority, power, control </p><p>JURISDICTION comes from the Latin word for <i class=“def-ital\">law,</i> also the source of <i class=“def-ital\">jury.</i> JURISDICTION is the legal power to administer justice and decide cases. “Our courts have JURISDICTION over foreigners living in the United States.” </p><p>“The judge said it wasn’t within his JURISDICTION to decide this question.” </p><p>The word can be used in a broader sense for any authority or power that has well-defined limits. </p><p>“Your complaint does not come within our JURISDICTION. Try another department.” </p><p>The most popular wrong answer is <i class=“def-ital\">decision.</i> People who choose this probably know that JURISDICTION has something to do with the law, but don’t know exactly what. JURISDICTION is the authority to make a legal decision, not the decision itself.</p>"
+    },
+    "NARRATIVE": {
+      "word": "NARRATIVE",
+      "phonetic": "(nar'-ÔøΩ-tiv)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a story, tale To NARRATE a story is to tell it. </p><p>“He NARRATED a story about a boy and his dog living on a farm.” </p><p>A NARRATIVE is a story, the telling of a series of events. </p><p>A NARRATIVE can be either true or made up. </p><p>“They read an exciting NARRATIVE about pirates and buried treasure.” </p><p>“We listened to the NARRATIVE of the first space- flight.” </p><p>Other forms of the word: NARRATE, v. NARRATOR, n.</p>"
+    },
+    "REALM": {
+      "word": "REALM",
+      "phonetic": "(relm)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a kingdom, territory, region </p><p>REALM is a fancy or poetical word for <i class=“def-ital\">kingdom.</i> </p><p>“The king searched throughout his REALM for one honest man.” </p><p>The word is also used in a general sense for <i class=“def-ital\">region, territory, or range.</i> </p><p>“He lived entirely within the REALM of his own imagination.” </p><p>If something is “within the REALM of possibility,” it is possible, it can happen. </p><p>The most commonly chosen wrong answer is tale, possibly because REALM is connected in people’s minds with stories and legends rather than with everyday speech.</p>"
+    }
+  },
+  "id": "11",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "IMPEDIMENT to learning.",
+          "answers": [
+            "threat",
+            "disadvantage",
+            "end",
+            "obstacle",
+            "aid"
+          ],
+          "word": "IMPEDIMENT",
+          "correct": "obstacle"
+        },
+        {
+          "prompt": "It was DORMANT.",
+          "answers": [
+            "inactive",
+            "forgotten",
+            "uncertain",
+            "painful",
+            "powerful"
+          ],
+          "word": "DORMANT",
+          "correct": "inactive"
+        },
+        {
+          "prompt": "To DIMINISH it.",
+          "answers": [
+            "change",
+            "stop",
+            "lessen",
+            "use",
+            "refuse"
+          ],
+          "word": "DIMINISH",
+          "correct": "lessen"
+        },
+        {
+          "prompt": "During the JAUNT.",
+          "answers": [
+            "comedy",
+            "short trip",
+            "mountain climb",
+            "expedition",
+            "train ride"
+          ],
+          "word": "JAUNT",
+          "correct": "short trip"
+        },
+        {
+          "prompt": "In the middle of the TUMULT.",
+          "answers": [
+            "silence",
+            "contest",
+            "discussion",
+            "fire",
+            "uproar"
+          ],
+          "word": "TUMULT",
+          "correct": "uproar"
+        },
+        {
+          "prompt": "Well-CLAD children.",
+          "answers": [
+            "dressed",
+            "protected",
+            "cared-for",
+            "behaved",
+            "disguised"
+          ],
+          "word": "CLAD",
+          "correct": "dressed"
+        },
+        {
+          "prompt": "MERCANTILE interests.",
+          "answers": [
+            "unclear",
+            "legal",
+            "trade",
+            "government",
+            "communist"
+          ],
+          "word": "MERCANTILE",
+          "correct": "trade"
+        },
+        {
+          "prompt": "Her ANGUISH.",
+          "answers": [
+            "pleasure",
+            "nervousness",
+            "insanity",
+            "suffering",
+            "rage"
+          ],
+          "word": "ANGUISH",
+          "correct": "suffering"
+        },
+        {
+          "prompt": "DEPLORABLE conditions.",
+          "answers": [
+            "unusual",
+            "wretched",
+            "improper",
+            "remarkable",
+            "unnecessary"
+          ],
+          "word": "DEPLORABLE",
+          "correct": "wretched"
+        },
+        {
+          "prompt": "EFFERVESCENT personality.",
+          "answers": [
+            "bubbling",
+            "lovable",
+            "unique",
+            "dull",
+            "constant"
+          ],
+          "word": "EFFERVESCENT",
+          "correct": "bubbling"
+        },
+        {
+          "prompt": "ORNATE style.",
+          "answers": [
+            "showy",
+            "modern",
+            "pleasing",
+            "plain",
+            "perfect"
+          ],
+          "word": "ORNATE",
+          "correct": "showy"
+        },
+        {
+          "prompt": "SOMBER attitude.",
+          "answers": [
+            "critical",
+            "cruel",
+            "eager",
+            "gloomy",
+            "bored"
+          ],
+          "word": "SOMBER",
+          "correct": "gloomy"
+        },
+        {
+          "prompt": "Question their JURISDICTION.",
+          "answers": [
+            "ability",
+            "wisdom",
+            "interest",
+            "authority",
+            "decision"
+          ],
+          "word": "JURISDICTION",
+          "correct": "authority"
+        },
+        {
+          "prompt": "During the NARRATIVE.",
+          "answers": [
+            "story",
+            "concert",
+            "meeting",
+            "class",
+            "conversation"
+          ],
+          "word": "NARRATIVE",
+          "correct": "story"
+        },
+        {
+          "prompt": "Faraway REALM.",
+          "answers": [
+            "island",
+            "castle",
+            "banquet",
+            "tale",
+            "kingdom"
+          ],
+          "word": "REALM",
+          "correct": "kingdom"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Example",
+          "word": "IMPEDIMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a train be IMPEDED by a truck on the tracks?",
+          "word": "IMPEDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are some bears DORMANT during the winter?",
+          "word": "DORMANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does your supply of money DIMINISH when you spend some?",
+          "word": "DIMINISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could someone go on a JAUNT to the zoo?",
+          "word": "JAUNT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a riot be considered a TUMULT?",
+          "word": "TUMULT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a well-CLAD person have holes in his socks?",
+          "word": "CLAD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would someone who sells furniture be called a MERCHANT?",
+          "word": "MERCHANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people enjoy being in ANGUISH?",
+          "word": "ANGUISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people DEPLORE murder?",
+          "word": "DEPLORE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are EFFERVESCENT people usually bored?",
+          "word": "EFFERVESCENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a sidewalk usually ORNATE?",
+          "word": "ORNATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are people generally SOMBER at a wedding?",
+          "word": "SOMBER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does the teacher have JURISDICTION in the classroom?",
+          "word": "JURISDICTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a NARRATIVE be very short?",
+          "word": "NARRATIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a king rule a REALM?",
+          "word": "REALM",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "If there are no unexpected IMPEDIMENTS, we should be finished on time.",
+          "word": "IMPEDIMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "My talent for writing was DORMANT for many years until a friend in publishing persuaded me to write a book.",
+          "word": "DORMANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The wrecking crew completely DIMINISHED the building in a few hours.",
+          "word": "DIMINISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Magellan's JAUNT around the world lasted several years.",
+          "word": "JAUNT",
+          "correct": "false"
+        },
+        {
+          "prompt": "They were so ashamed of themselves that they just stood there in TUMULTUOUS silence.",
+          "word": "TUMULT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The knight was CLAD in shining armor.",
+          "word": "CLAD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Some commercial banks discourage small savings accounts; they prefer to deal with large MERCANTILE outfits.",
+          "word": "MERCANTILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I will never forget the ANGUISHED look on his face when his dog died.",
+          "word": "ANGUISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "She thought the dirty language in the movie was DEPLORABLE.",
+          "word": "DEPLORABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "These problems are EFFERVESCENT; I don't think we'll ever solve them.",
+          "word": "EFFERVESCENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "The stained glass window was beautifully ORNATE. It would take you hours to notice all the details.",
+          "word": "ORNATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The hotel was filled with SOMBER, poorly lit passageways that made us feel a little frightened.",
+          "word": "SOMBER",
+          "correct": "true"
+        },
+        {
+          "prompt": "After many days of debate the jury finally reached a JURISDICTION.",
+          "word": "JURISDICTION",
+          "correct": "false"
+        },
+        {
+          "prompt": ". They listened to the exciting NARRATIVE of his adventures.",
+          "word": "NARRATIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher said that my getting an A in English was not within the REALM of possibility.",
+          "word": "REALM",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "IMPEDIMENT",
+          "answers": [
+            "destruction",
+            "hindrance",
+            "obstruction"
+          ],
+          "word": "IMPEDIMENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "DORMANT",
+          "answers": [
+            "sleeping",
+            "stupid",
+            "inactive"
+          ],
+          "word": "DORMANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "DIMINISH",
+          "answers": [
+            "reduce",
+            "end",
+            "decline"
+          ],
+          "word": "DIMINISH",
+          "correct": "1"
+        },
+        {
+          "prompt": "JAUNT a ) outing",
+          "answers": [
+            "ship",
+            "trip",
+            ""
+          ],
+          "word": "JAUNT",
+          "correct": "1"
+        },
+        {
+          "prompt": "TUMULT",
+          "answers": [
+            "confusion",
+            "shouting",
+            "robbery"
+          ],
+          "word": "TUMULT",
+          "correct": "2"
+        },
+        {
+          "prompt": "CLAD a ) costumed",
+          "answers": [
+            "attired",
+            "lashed",
+            ""
+          ],
+          "word": "CLAD",
+          "correct": "2"
+        },
+        {
+          "prompt": "MERCANTILE",
+          "answers": [
+            "commercial",
+            "financial",
+            "private"
+          ],
+          "word": "MERCANTILE",
+          "correct": "2"
+        },
+        {
+          "prompt": "ANGUISH",
+          "answers": [
+            "unhappiness",
+            "anger c ) misery",
+            ""
+          ],
+          "word": "ANGUISH",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEPLORABLE",
+          "answers": [
+            "awful",
+            "disgusting",
+            "unexpected"
+          ],
+          "word": "DEPLORABLE",
+          "correct": "2"
+        },
+        {
+          "prompt": "EFFERVESCENT",
+          "answers": [
+            "jolly",
+            "kind",
+            "excited"
+          ],
+          "word": "EFFERVESCENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "ORNATE",
+          "answers": [
+            "exciting b ) elaborate",
+            "flowery",
+            ""
+          ],
+          "word": "ORNATE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SOMBER",
+          "answers": [
+            "old b ) dark",
+            "sad",
+            ""
+          ],
+          "word": "SOMBER",
+          "correct": "0"
+        },
+        {
+          "prompt": "JURISDICTION",
+          "answers": [
+            "power",
+            "opportunity",
+            "control"
+          ],
+          "word": "JURISDICTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "NARRATIVE",
+          "answers": [
+            "telling",
+            "reply",
+            "account"
+          ],
+          "word": "NARRATIVE",
+          "correct": "1"
+        },
+        {
+          "prompt": "REALM",
+          "answers": [
+            "town",
+            "area",
+            "empire"
+          ],
+          "word": "REALM",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

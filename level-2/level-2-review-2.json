@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABSURD",
+      "answer": "absurd"
+    },
+    {
+      "word": "ACCELERATE",
+      "answer": "accelerate"
+    },
+    {
+      "word": "ACQUAINTANCE",
+      "answer": "acquaintance."
+    },
+    {
+      "word": "AMATEUR",
+      "answer": "amateur"
+    },
+    {
+      "word": "BANQUET",
+      "answer": "banquet"
+    },
+    {
+      "word": "BLOATED",
+      "answer": "bloated"
+    },
+    {
+      "word": "CAVITY",
+      "answer": "cavities"
+    },
+    {
+      "word": "CEASE",
+      "answer": "ceased"
+    },
+    {
+      "word": "CLUTCH",
+      "answer": "clutched"
+    },
+    {
+      "word": "COMMITMENT",
+      "answer": "commitment"
+    },
+    {
+      "word": "CONFLICT",
+      "answer": "conflict"
+    },
+    {
+      "word": "DEBRIS",
+      "answer": "debris"
+    },
+    {
+      "word": "DEVOUR",
+      "answer": "devour"
+    },
+    {
+      "word": "DWELL",
+      "answer": "dwelt"
+    },
+    {
+      "word": "ELIGIBLE",
+      "answer": "eligible"
+    },
+    {
+      "word": "EXCLUDE",
+      "answer": "exclude"
+    },
+    {
+      "word": "EXPOSE",
+      "answer": "exposed"
+    },
+    {
+      "word": "HOIST",
+      "answer": "hoist"
+    },
+    {
+      "word": "IMPERSONATE",
+      "answer": "impersonated"
+    },
+    {
+      "word": "INCIDENT",
+      "answer": "incident"
+    },
+    {
+      "word": "KERNEL",
+      "answer": "kernels"
+    },
+    {
+      "word": "LEASE",
+      "answer": "lease"
+    },
+    {
+      "word": "MINDFUL",
+      "answer": "mindful"
+    },
+    {
+      "word": "PENITENTIARY",
+      "answer": "penitentiary"
+    },
+    {
+      "word": "PRECISE",
+      "answer": "precise"
+    },
+    {
+      "word": "PREVIOUS",
+      "answer": "previous"
+    },
+    {
+      "word": "PROCLAIM",
+      "answer": "proclaimed"
+    },
+    {
+      "word": "PROSPER",
+      "answer": "prosper"
+    },
+    {
+      "word": "QUARANTINE",
+      "answer": "quarantine"
+    },
+    {
+      "word": "QUESTIONABLE",
+      "answer": "questionable"
+    },
+    {
+      "word": "REAP",
+      "answer": "reap"
+    },
+    {
+      "word": "RECREATION",
+      "answer": "recreation"
+    },
+    {
+      "word": "REDUCE",
+      "answer": "reduced"
+    },
+    {
+      "word": "ROUSE",
+      "answer": "roused"
+    },
+    {
+      "word": "SEGMENT",
+      "answer": "segment"
+    },
+    {
+      "word": "SHRIVEL",
+      "answer": "shrivel"
+    },
+    {
+      "word": "SLAY",
+      "answer": "slay"
+    },
+    {
+      "word": "STAGGER",
+      "answer": "staggered"
+    },
+    {
+      "word": "STAMPEDE",
+      "answer": "stampede"
+    },
+    {
+      "word": "SUBMERGE",
+      "answer": "submerged"
+    },
+    {
+      "word": "THRASH",
+      "answer": "thrashed"
+    },
+    {
+      "word": "TURQUOISE",
+      "answer": "turquoise"
+    },
+    {
+      "word": "UTMOST",
+      "answer": "utmost"
+    },
+    {
+      "word": "VICTOR",
+      "answer": "victor"
+    },
+    {
+      "word": "WAIL",
+      "answer": "wail"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The",
+      "part2": "was settled when both sides agreed they had been partly to blame.",
+      "correct": "conflict",
+      "word": "CONFLICT"
+    },
+    {
+      "part1": "The man with the gun threatened to",
+      "part2": "them all if they talked.",
+      "correct": "slay",
+      "word": "SLAY"
+    },
+    {
+      "part1": "She",
+      "part2": "the doll even more tightly as the man tried to take it away from her.",
+      "correct": "clutched",
+      "word": "CLUTCH"
+    },
+    {
+      "part1": "When they received the loan, they made a(n)",
+      "part2": "to pay it back within two years.",
+      "correct": "commitment",
+      "word": "COMMITMENT"
+    },
+    {
+      "part1": "Since no one liked Bert, they tried to",
+      "part2": "him from all their games.",
+      "correct": "exclude",
+      "word": "EXCLUDE"
+    },
+    {
+      "part1": "Bill",
+      "part2": "Jim so well that he fooled Jim's brother.",
+      "correct": "impersonated",
+      "word": "IMPERSONATE"
+    },
+    {
+      "part1": "Ed had to put on the brakes because the bicycle began to",
+      "part2": "too fast as it went downhill.",
+      "correct": "accelerate",
+      "word": "ACCELERATE"
+    },
+    {
+      "part1": "What happened was of no great importance; it was simply a minor",
+      "part2": ".",
+      "correct": "incident",
+      "word": "INCIDENT"
+    },
+    {
+      "part1": "After working hard all week you need some time for",
+      "part2": "on Saturday and Sunday.",
+      "correct": "recreation",
+      "word": "RECREATION"
+    },
+    {
+      "part1": "The unhappy little boy began to",
+      "part2": "when his parents told him that he had to go to school all by himself.",
+      "correct": "wail",
+      "word": "WAIL"
+    },
+    {
+      "part1": "The plant began to",
+      "part2": "from lack of water.",
+      "correct": "shrivel",
+      "word": "SHRIVEL"
+    },
+    {
+      "part1": "Ken loves to eat popcorn, even though he usually gets a few",
+      "part2": "stuck in his teeth.",
+      "correct": "kernels",
+      "word": "KERNEL"
+    },
+    {
+      "part1": "Nora",
+      "part2": "about in pain until the doctor gave her some medication.",
+      "correct": "thrashed",
+      "word": "THRASH"
+    },
+    {
+      "part1": "Central High was the",
+      "part2": "in the football game; they defeated us 20-17.",
+      "correct": "victor",
+      "word": "VICTOR"
+    },
+    {
+      "part1": "We must be",
+      "part2": "of our responsibilities if we want to succeed.",
+      "correct": "mindful",
+      "word": "MINDFUL"
+    },
+    {
+      "part1": "It is",
+      "part2": "whether or not we will finish on time. Most people think we won't.",
+      "correct": "questionable",
+      "word": "QUESTIONABLE"
+    },
+    {
+      "part1": "They said a lost continent lay",
+      "part2": "deep in the middle of the ocean.",
+      "correct": "submerged",
+      "word": "SUBMERGE"
+    },
+    {
+      "part1": "The prisoners were taken to the federal",
+      "part2": "to serve their sentences.",
+      "correct": "penitentiary",
+      "word": "PENITENTIARY"
+    },
+    {
+      "part1": "Art was not",
+      "part2": "to run for this office because he hadn't lived in town long enough.",
+      "correct": "eligible",
+      "word": "ELIGIBLE"
+    },
+    {
+      "part1": "The magazine article",
+      "part2": "the secret inner workings of the large corporation.",
+      "correct": "exposed",
+      "word": "EXPOSE"
+    },
+    {
+      "part1": "Tom is only a(n)",
+      "part2": "We met at a party but have never really spoken to each other.",
+      "correct": "acquaintance.",
+      "word": "ACQUAINTANCE"
+    },
+    {
+      "part1": "They",
+      "part2": "the size of the stage from a hundred feet to fifty.",
+      "correct": "reduced",
+      "word": "REDUCE"
+    },
+    {
+      "part1": "Each",
+      "part2": "of the history course covers a different century.",
+      "correct": "segment",
+      "word": "SEGMENT"
+    },
+    {
+      "part1": "The ads promised that this car will give you the",
+      "part2": "excitement you could possibly have in your life.",
+      "correct": "utmost",
+      "word": "UTMOST"
+    },
+    {
+      "part1": "It's",
+      "part2": "to expect a two-year-old child to prepare supper for the whole family.",
+      "correct": "absurd",
+      "word": "ABSURD"
+    },
+    {
+      "part1": "The blow to the head",
+      "part2": "him, but he managed to stay on his feet.",
+      "correct": "staggered",
+      "word": "STAGGER"
+    },
+    {
+      "part1": "The",
+      "part2": "surface of the lake seemed to mix the color of the blue sky and the green grass.",
+      "correct": "turquoise",
+      "word": "TURQUOISE"
+    },
+    {
+      "part1": "His stomach was",
+      "part2": "because he drank too many soft drinks.",
+      "correct": "bloated",
+      "word": "BLOATED"
+    },
+    {
+      "part1": "Her heart had stopped beating and her breathing had",
+      "part2": ", but the doctor was able to bring her back to life.",
+      "correct": "ceased",
+      "word": "CEASE"
+    },
+    {
+      "part1": "The teacher said her",
+      "part2": "classes had all been much smarter than her present one.",
+      "correct": "previous",
+      "word": "PREVIOUS"
+    },
+    {
+      "part1": "The famous writer",
+      "part2": "for many years in that house on the corner.",
+      "correct": "dwelt",
+      "word": "DWELL"
+    },
+    {
+      "part1": "There were several",
+      "part2": "in her teeth which the dentist had to fill.",
+      "correct": "cavities",
+      "word": "CAVITY"
+    },
+    {
+      "part1": "After years of barely being able to pay the bills he finally started to",
+      "part2": ".",
+      "correct": "prosper",
+      "word": "PROSPER"
+    },
+    {
+      "part1": "The noise of the rubbish truck",
+      "part2": "Ann early in the morning.",
+      "correct": "roused",
+      "word": "ROUSE"
+    },
+    {
+      "part1": "Mr. Simpson was unable to",
+      "part2": "the benefits of his discovery because he died shortly afterward.",
+      "correct": "reap",
+      "word": "REAP"
+    },
+    {
+      "part1": "I'm only a(n)",
+      "part2": "golfer now, but someday I hope to be good enough so that I can make a lot of money.",
+      "correct": "amateur",
+      "word": "AMATEUR"
+    },
+    {
+      "part1": "They used a large crane to",
+      "part2": "the cement blocks up to the roof.",
+      "correct": "hoist",
+      "word": "HOIST"
+    },
+    {
+      "part1": "We all cooked something for the huge",
+      "part2": "at which we were honoring the principal.",
+      "correct": "banquet",
+      "word": "BANQUET"
+    },
+    {
+      "part1": "The fire at one end of the room caused a real",
+      "part2": "for the exits as people rushed to get out.",
+      "correct": "stampede",
+      "word": "STAMPEDE"
+    },
+    {
+      "part1": "Our family used to",
+      "part2": "a cottage on the lake for three months every summer.",
+      "correct": "lease",
+      "word": "LEASE"
+    },
+    {
+      "part1": "Steve arrived home at the",
+      "part2": "moment that his father pulled into the driveway.",
+      "correct": "precise",
+      "word": "PRECISE"
+    },
+    {
+      "part1": "It took us weeks to clean up the",
+      "part2": "after the tornado went through the city.",
+      "correct": "debris",
+      "word": "DEBRIS"
+    },
+    {
+      "part1": "The defendant",
+      "part2": "his innocence to everyone in the courtroom.",
+      "correct": "proclaimed",
+      "word": "PROCLAIM"
+    },
+    {
+      "part1": "They had to",
+      "part2": "him in order to keep his disease from spreading.",
+      "correct": "quarantine",
+      "word": "QUARANTINE"
+    },
+    {
+      "part1": "Mary liked candy so much that she could",
+      "part2": "a whole box of chocolates at one sitting.",
+      "correct": "devour",
+      "word": "DEVOUR"
+    }
+  ],
+  "type": "fitb",
+  "id": 2
+}

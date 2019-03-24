@@ -1,0 +1,605 @@
+{
+  "title": "3.10",
+  "definitions": {
+    "EXCEED": {
+      "word": "EXCEED",
+      "phonetic": "(ek-sEd')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to go beyond, be greater than, outdo </p><p>To EXCEED means to <i class=“def-ital\">go beyond</i>. The word is used in various senses of <i class=“def-ital\">going beyond</i>: <i class=“def-ital\">going beyond</i> what is necessary, for example, or what is allowed, or what someone else has done. </p><p>“The driver EXCEEDED the speed limit by going ninety miles an hour.” </p><p>“The captain EXCEEDED the general’s orders when he told his men to attack immediately.” </p><p>“Her swimming ability EXCEEDED everyone else’s.” </p><p>“The price of the car EXCEEDS what we want to pay for it.” </p><p>Other forms of the word: EXCESS, n. EXCESSIVE, adj.</p>"
+    },
+    "COMPILE": {
+      "word": "COMPILE",
+      "phonetic": "(kÔøΩm-pll')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to collect, assemble, gather together </p><p>To COMPILE is to <i class=“def-ital\">collect</i>. The word is especially applied to collecting information or items of any kind and arranging this material into a book, report, chart, or the like. </p><p>“They COMPILED a list of voters who might favor their candidate.” </p><p>“We COMPILED a chart of average salaries using figures we received from the government.” </p><p>The word can also mean to <i class=“def-ital\">gather together</i> or <i class=“def-ital\">pile up</i>. </p><p>“He COMPILED all the figures necessary for the report.” </p><p>“The candidate COMPILED a huge number of votes in the election.” </p><p>A COMPILATION is something (like a book or list) that has been put together from other sources. </p><p>“This book is a COMPILATION of the best sports stories of the year.” </p><p>Other forms of the word: COMPILATION, n.</p>"
+    },
+    "MASSACRE": {
+      "word": "MASSACRE",
+      "phonetic": "(mas'-ÔøΩkÔøΩr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a general slaughter, mass killing </p><p>A MASSACRE is the cruel killing of a large number of people. The word is especially used about the killing of people who are not able to defend themselves. </p><p>“The soldiers shot the people in cold blood, but everyone was too scared to talk about the MASSACRE.” </p><p>MASSACRE is also a verb, meaning “to kill in a MASSACRE,” to <i class=“def-ital\">slaughter</i>. </p><p>“The enemy MASSACRED all the women and children in town.” </p><p>MASSACRE is often confused with <i class=“def-ital\">battle</i>. Both may involve fighting and killing, but they do not have the same meaning.</p>"
+    },
+    "LAVISH": {
+      "word": "LAVISH",
+      "phonetic": "(lav'-ish)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unlimited, profuse, extravagant, overly generous </p><p>LAVISH comes from an old French word meaning “a downpour of rain.” To be LAVISH is to give or produce something abundantly, to pour it forth like raindrops. The word often has the sense that too much is being given or produced. LAVISH is used about the person giving something or about the thing being given. </p><p>“He was LAVISH in his praise of her singing.” </p><p>“He wrote some LAVISH praise of her singing.” </p><p>“When he struck it rich, he became a LAVISH spender. He wanted to buy everything.” </p><p>LAVISH is also a verb. </p><p>“He LAVISHED praise on the new novel.”</p>"
+    },
+    "CONTRADICT": {
+      "word": "CONTRADICT",
+      "phonetic": "(kon-trÔøΩdikt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to deny, dispute </p><p>CONTRADICT comes from Latin words which mean to <i class=“def-ital\">speak against</i>. To CONTRADICT something is to say or show that it is untrue. </p><p>“We CONTRADICTED his statement that the Earth is flat.” </p><p>“Bill had evidence that CONTRADICTED my theory.” </p><p>You can also CONTRADICT a person. </p><p>“The girl CONTRADICTED him when he said that New York City was the capital of New York.” </p><p>CONTRADICT can also mean “to be the opposite of, be contrary to.” </p><p>“Your two statements CONTRADICT each other. Which is true?” </p><p>Other forms of the word: CONTRADICTION, n. CONTRADICTORY, adj.</p>"
+    },
+    "OBTAIN": {
+      "word": "OBTAIN",
+      "phonetic": "(ob-tAn'",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to get, gain possession of </p><p>To OBTAIN something is to <i class=“def-ital\">get</i> it. OBTAIN often suggests more effort or planning or a longer wait than <i class=“def-ital\">get</i>. </p><p>“I managed to OBTAIN two tickets for the game Saturday night.” </p><p>“Jane finally OBTAINED a new pair of skis.” </p><p>“He OBTAINED the right book from another library.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">keep</i>. This may be due to confusion with the word <i class=“def-ital\">retain</i>, which means to <i class=“def-ital\">keep</i> or <i class=“def-ital\">hold on to</i>. OBTAIN has to do only with <i class=“def-ital\">getting</i> something, not <i class=“def-ital\">keeping</i> it.</p>"
+    },
+    "LINGER": {
+      "word": "LINGER",
+      "phonetic": "(ling'-gar)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to stay, remain, delay; to continue to exist </p><p>To LINGER is to stay in a place longer than usual or expected. </p><p>“We LINGERED on the beach long after everyone else had gone home.” </p><p>“I LINGERED for a long time over that one beautiful painting before passing on to the next one.” </p><p>LINGER also means “to continue to exist although becoming weaker.” </p><p>“After his heart attack, he LINGERED for only a few days before dying.” </p><p>“A few very old customs still LINGER on among the natives.” </p><p>Usage: LINGER is sometimes followed by <i class=“def-ital\">on</i>.</p>"
+    },
+    "UTTER": {
+      "word": "UTTER",
+      "phonetic": "(uht'-ÔøΩ)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to speak, say </p><p>UTTER basically means “to make a sound with the mouth.” </p><p>“She UTTERED a little cry of disappointment.” </p><p>From this, UTTER is usually used to mean <i class=“def-ital\">speak</i> or <i class=“def-ital\">say words</i>. </p><p>“Bobby had reached the stage when it seemed that the only word he could UTTER was <i class=“def-ital\">no</i>.” </p><p>“The last word he UTTERED was ‘Goodbye.’” </p><p>The noun form of UTTER is UTTERANCE, which means <i class=“def-ital\">something spoken</i>. </p><p>“She thought his every UTTERANCE was extremely funny.” </p><p>In the Pretest item, <i class=“def-ital\">make up</i> is the most common incorrect choice. The word UTTER involves only speaking and making sounds, however, not thinking or planning. </p><p>Other forms of the word: UTTERANCE, n.</p>"
+    },
+    "AMUSEMENT": {
+      "word": "AMUSEMENT",
+      "phonetic": "(ÔøΩmyUz'-mant)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">fun, entertainment </p><p>To AMUSE someone is to make the time pass pleasantly for him, especially by making him laugh. </p><p>“We AMUSED ourselves by looking at old photographs.” </p><p>“The comedian AMUSED everyone in the audience.” </p><p>AMUSEMENT is the state of being AMUSED.  </p><p>“The kitten’s playful actions gave everyone a great deal of AMUSEMENT.” </p><p>An AMUSEMENT is also something that AMUSES a person. </p><p>“There are plenty of AMUSEMENTS for little children at the fair.” </p><p>Many people choose <i class=“def-ital\">excitement</i> as the meaning of AMUSEMENT. Something that AMUSES you does not have to be exciting, though. </p><p>Other forms of the word: AMUSE,v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ment</i> under Suffixes."
+      ]
+    },
+    "CASUALTY": {
+      "word": "CASUALTY",
+      "phonetic": "(kazh'-U-al-tE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an accident; a victim </p><p>A CASUALTY is an accident in which someone is injured or killed. </p><p>“The heavy storm caused several traffic CASUALTIES.” </p><p>The person who is killed or injured is also called a CASUALTY. </p><p>“Seven CASUALTIES resulted from the explosion.” </p><p>The word is often used about injured or killed soldiers. </p><p>“Each side suffered hundreds of CASUALTIES during the battle.”</p>"
+    },
+    "CONCEITED": {
+      "word": "CONCEITED",
+      "phonetic": "(kÔøΩn-sE'-tid)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">vain, proud, egotistical </p><p>CONCEIT is an overly high opinion of yourself, a feeling that you are superior to everyone else. </p><p>“His incredible CONCEIT caused him to believe that he was the greatest living writer.” </p><p>Someone who is CONCEITED is full of CONCEIT. </p><p>“Jan was so CONCEITED she wouldn’t speak to any of us. She said we weren’t good enough for her.” </p><p>“Her CONCEITED brother thinks he is the handsomest fellow in the world.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">humble</i>, which is the exact opposite of CONCEITED. </p><p>Other forms of the word: CONCEIT, n.</p>"
+    },
+    "GULLY": {
+      "word": "GULLY",
+      "phonetic": "(guhl'-E)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a ditch, channel </p><p>A GULLY is a ditch or channel, formed by running water, which serves as a natural drain for rainwater. </p><p>“Several GULLIES in the side of the hill overflowed during the heavy rains.” </p><p>Many people choose <i class=“def-ital\">stream</i> as the meaning of GULLY. A GULLY might have been formed by a stream, but it is really the channel in which water is carried, not the water itself.</p>"
+    },
+    "CZAR": {
+      "word": "CZAR",
+      "phonetic": "(zahr)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a ruler, emperor </p><p>Note the pronunciation; the <i class=“def-ital\">c</i> is silent. CZAR is a Russian word which came originally from the name <i class=“def-ital\">Caesar</i>. The CZAR was the ruler of Russia in the days before the Russian Revolution of 1917. </p><p>“CZAR Ivan the Terrible was a cruel ruler of Russia during the sixteenth century.” </p><p>CZAR has also come to be used about anyone who has absolute power and authority. </p><p>“The police said that this man was the CZAR of organized crime in this part of the country.” </p><p>“The movie CZAR decided that his studio should also make television shows.” </p><p>Usage: CZAR is also sometimes spelled <i class=“def-ital\">tsar</i>.</p>"
+    },
+    "EQUILIBRIUM": {
+      "word": "EQUILIBRIUM",
+      "phonetic": "(E-kwÔøΩlib'-rE-ÔøΩm)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">balance </p><p>EQUILIBRIUM comes from Latin words meaning <i class=“def-ital\">equal balance</i>. EQUILIBRIUM is the state of being balanced, especially when the balance is due to the equal action of opposing forces. The word is often used in science, but it is also in general use. </p><p>“He lost his EQUILIBRIUM as he walked along the top of the fence, and he tumbled to the ground.” </p><p>The word is often used with regard to a person’s emotional balance. </p><p>“She had difficulty recovering her EQUILIBRIUM after someone in the audience yelled an insult at her.” </p><p>EQUILIBRIUM is also used about balances in society. </p><p>“The EQUILIBRIUM of the social order was destroyed when the population of one of the two major groups in the country increased dramatically in a short period of time.”</p>"
+    },
+    "GRIM": {
+      "word": "GRIM",
+      "phonetic": "(grim)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">harsh, severe, stern, forbidding; ghastly </p><p>GRIM means <i class=“def-ital\">stern</i>, <i class=“def-ital\">severe</i>. The word is used about the way people look. </p><p>“The GRIM expression on his face told us he was quite angry.” </p><p>It is also used about conditions or actions that are harsh or unpleasant. </p><p>“Neither fighter could stand up at the end of the GRIM struggle.” </p><p>“It was his GRIM task to count the dead bodies.” </p><p>The phrase “GRIM necessity” applies to something that is unpleasant but has to be done. </p><p>“GRIM necessity forced us to drink the dirty water.” </p><p>Sometimes GRIM has an even stronger sense of <i class=“def-ital\">ghastly</i>, <i class=“def-ital\">horrifying</i>. </p><p>“It was a GRIM tale of murder and torture.”</p>"
+    }
+  },
+  "id": "10",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "He has EXCEEDED our wishes.",
+          "answers": [
+            "gone beyond",
+            "gone against",
+            "agreed with",
+            "asked about",
+            "met"
+          ],
+          "word": "EXCEED",
+          "correct": "gone beyond"
+        },
+        {
+          "prompt": "COMPILE the facts.",
+          "answers": [
+            "read",
+            "need",
+            "find",
+            "forget",
+            "assemble"
+          ],
+          "word": "COMPILE",
+          "correct": "assemble"
+        },
+        {
+          "prompt": "The place of the MASSACRE.",
+          "answers": [
+            "truce",
+            "slaughter",
+            "religious service",
+            "accident",
+            "battle"
+          ],
+          "word": "MASSACRE",
+          "correct": "slaughter"
+        },
+        {
+          "prompt": "LAVISH gifts.",
+          "answers": [
+            "over-generous",
+            "cheap",
+            "unexpected",
+            "very useful",
+            "pretty"
+          ],
+          "word": "LAVISH",
+          "correct": "over-generous"
+        },
+        {
+          "prompt": "CONTRADICTS the story.",
+          "answers": [
+            "believes",
+            "confirms",
+            "denies",
+            "leaves out",
+            "dislikes"
+          ],
+          "word": "CONTRADICT",
+          "correct": "denies"
+        },
+        {
+          "prompt": "To OBTAIN it.",
+          "answers": [
+            "want",
+            "get",
+            "need",
+            "lose",
+            "keep"
+          ],
+          "word": "OBTAIN",
+          "correct": "get"
+        },
+        {
+          "prompt": "LINGER for awhile.",
+          "answers": [
+            "stir",
+            "run",
+            "stay",
+            "stretch",
+            "relax"
+          ],
+          "word": "LINGER",
+          "correct": "stay"
+        },
+        {
+          "prompt": "To UTTER lies.",
+          "answers": [
+            "read",
+            "hear",
+            "believe",
+            "make up",
+            "speak"
+          ],
+          "word": "UTTER",
+          "correct": "speak"
+        },
+        {
+          "prompt": "Constant AMUSEMENT.",
+          "answers": [
+            "hope",
+            "work",
+            "pride",
+            "fun",
+            "excitement"
+          ],
+          "word": "AMUSEMENT",
+          "correct": "fun"
+        },
+        {
+          "prompt": "Many CASUALTIES.",
+          "answers": [
+            "prisoners",
+            "improvements",
+            "greetings",
+            "mistakes",
+            "accidents"
+          ],
+          "word": "CASUALTY",
+          "correct": "accidents"
+        },
+        {
+          "prompt": "CONCEITED men.",
+          "answers": [
+            "young",
+            "humble",
+            "dishonest",
+            "vain",
+            "good-looking"
+          ],
+          "word": "CONCEITED",
+          "correct": "vain"
+        },
+        {
+          "prompt": "Saw the GULLY.",
+          "answers": [
+            "boat",
+            "hill",
+            "ditch",
+            "stream",
+            "swamp"
+          ],
+          "word": "GULLY",
+          "correct": "ditch"
+        },
+        {
+          "prompt": "Near the CZAR.",
+          "answers": [
+            "priest",
+            "peasant",
+            "river",
+            "ruler",
+            "general"
+          ],
+          "word": "CZAR",
+          "correct": "ruler"
+        },
+        {
+          "prompt": "Keep their EQUILIBRIUM.",
+          "answers": [
+            "balance",
+            "interest",
+            "position",
+            "high spirits",
+            "distance"
+          ],
+          "word": "EQUILIBRIUM",
+          "correct": "balance"
+        },
+        {
+          "prompt": "GRIM times.",
+          "answers": [
+            "busy",
+            "harsh",
+            "cold",
+            "old",
+            "dull"
+          ],
+          "word": "GRIM",
+          "correct": "harsh"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does one hundred EXCEED one thousand?",
+          "word": "EXCEED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a book of famous sayings be a COMPILATION?",
+          "word": "COMPILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are people usually MASSACRED in hospitals?",
+          "word": "MASSACRE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a LAVISH person save all his money?",
+          "word": "LAVISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "If two statements CONTRADICT each other, can they both be true?",
+          "word": "CONTRADICT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can you OBTAIN knowledge by reading books?",
+          "word": "OBTAIN",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people who are in a hurry like to LINGER?",
+          "word": "LINGER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a baby UTTER sounds?",
+          "word": "UTTER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people like to be AMUSED?",
+          "word": "AMUSEMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people enjoy being CASUALTIES?",
+          "word": "CASUALTY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is CONCEIT usually considered a bad quality?",
+          "word": "CONCEITED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a GULLY be dry?",
+          "word": "GULLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does Russia still have a CZAR?",
+          "word": "CZAR",
+          "correct": "false"
+        },
+        {
+          "prompt": "Should a tightrope walker keep his EQUILIBRIUM?",
+          "word": "EQUILIBRIUM",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do GRIM men laugh a lot?",
+          "word": "GRIM",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "She finally EXCEEDED in getting the car to start.",
+          "word": "EXCEED",
+          "correct": "false"
+        },
+        {
+          "prompt": "The lawyer COMPILED a great deal of evidence that showed the defendant was innocent.",
+          "word": "COMPILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Thousands of people were MASSACRED by the fierce invaders.",
+          "word": "MASSACRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He LAVISHED so many treats on the puppy that it soon became quite fat.",
+          "word": "LAVISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bob CONTRADICTED me and said it really wasn't true.",
+          "word": "CONTRADICT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Once she had the beautiful painting, she OBTAINED it all her life.",
+          "word": "OBTAIN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Some of these superstitions LINGERED on despite the scientific evidence against them.",
+          "word": "LINGER",
+          "correct": "true"
+        },
+        {
+          "prompt": "She UTTERED him to wipe his feet before he came into the kitchen.",
+          "word": "UTTER",
+          "correct": "false"
+        },
+        {
+          "prompt": "The teacher showed no sign of AMUSEMENT at the students' practical joke.",
+          "word": "AMUSEMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He tried to be a CASUALTY but people could tell he was really quite excited.",
+          "word": "CASUALTY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Sarah tried to be CONCEITED and let other people take all the glory.",
+          "word": "CONCEITED",
+          "correct": "false"
+        },
+        {
+          "prompt": "The water flowed rapidly through the long GULLY.",
+          "word": "GULLY",
+          "correct": "true"
+        },
+        {
+          "prompt": "In the old days, one CZAR would rule the entire industry; now it is so big several people have to run things.",
+          "word": "CZAR",
+          "correct": "true"
+        },
+        {
+          "prompt": "The angrier he got, the more his EQUILIBRIUM increased.",
+          "word": "EQUILIBRIUM",
+          "correct": "false"
+        },
+        {
+          "prompt": "He takes a GRIM delight in tormenting the younger children.",
+          "word": "GRIM",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "EXCEED",
+          "answers": [
+            "outdo",
+            "better",
+            "renew"
+          ],
+          "word": "EXCEED",
+          "correct": "2"
+        },
+        {
+          "prompt": "COMPILE",
+          "answers": [
+            "gather",
+            "add",
+            "change"
+          ],
+          "word": "COMPILE",
+          "correct": "2"
+        },
+        {
+          "prompt": "MASSACRE",
+          "answers": [
+            "attack",
+            "chase",
+            "kill"
+          ],
+          "word": "MASSACRE",
+          "correct": "1"
+        },
+        {
+          "prompt": "LAVISH",
+          "answers": [
+            "useful",
+            "generous",
+            "wasteful"
+          ],
+          "word": "LAVISH",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONTRADICT",
+          "answers": [
+            "dislike",
+            "dispute",
+            "disprove"
+          ],
+          "word": "CONTRADICT",
+          "correct": "0"
+        },
+        {
+          "prompt": "OBTAIN",
+          "answers": [
+            "earn",
+            "gain",
+            "like"
+          ],
+          "word": "OBTAIN",
+          "correct": "2"
+        },
+        {
+          "prompt": "LINGER",
+          "answers": [
+            "remain",
+            "end",
+            "delay"
+          ],
+          "word": "LINGER",
+          "correct": "1"
+        },
+        {
+          "prompt": "UTTER",
+          "answers": [
+            "announce",
+            "cry",
+            "remember"
+          ],
+          "word": "UTTER",
+          "correct": "2"
+        },
+        {
+          "prompt": "AMUSEMENT",
+          "answers": [
+            "danger",
+            "fun",
+            "pleasure"
+          ],
+          "word": "AMUSEMENT",
+          "correct": "0"
+        },
+        {
+          "prompt": "CASUALTY",
+          "answers": [
+            "problem",
+            "death",
+            "disaster"
+          ],
+          "word": "CASUALTY",
+          "correct": "0"
+        },
+        {
+          "prompt": "CONCEITED",
+          "answers": [
+            "self-satisfied",
+            "happy",
+            "proud"
+          ],
+          "word": "CONCEITED",
+          "correct": "1"
+        },
+        {
+          "prompt": "GULLY",
+          "answers": [
+            "drain",
+            "hill",
+            "channel"
+          ],
+          "word": "GULLY",
+          "correct": "1"
+        },
+        {
+          "prompt": "CZAR",
+          "answers": [
+            "senator",
+            "king",
+            "dictator"
+          ],
+          "word": "CZAR",
+          "correct": "0"
+        },
+        {
+          "prompt": "EQUILIBRIUM",
+          "answers": [
+            "stability",
+            "softness",
+            "steadiness"
+          ],
+          "word": "EQUILIBRIUM",
+          "correct": "1"
+        },
+        {
+          "prompt": "GRIM",
+          "answers": [
+            "cruel",
+            "chilly",
+            "severe"
+          ],
+          "word": "GRIM",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

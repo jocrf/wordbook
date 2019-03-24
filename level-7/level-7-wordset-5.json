@@ -1,0 +1,606 @@
+{
+  "title": "7.5",
+  "definitions": {
+    "GERMANE": {
+      "word": "GERMANE",
+      "phonetic": "(jgr-mAn')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">relevant, pertinent, related </p><p>GERMANE comes from an obsolete English word meaning </p><p>“having the same parents.” </p><p>GERMANE means “closely related” in a figurative sense, to a subject or an occasion, for example. It is usually followed by <i class=“def-ital\">to</i>. “The chairman felt that Jennifer’s point was not GERMANE to the discussion.” </p><p>“His stories were amusing, but also quite GERMANE to the serious issue about which he was speaking.” </p><p>“These speculations are interesting but not GERMANE; they should be deleted from the book.”</p>"
+    },
+    "GIBE": {
+      "word": "GIBE",
+      "phonetic": "(jib)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to jeer, taunt, mock, ridicule </p><p>GIBE is also sometimes spelled JIBE. </p><p>To GIBE is to taunt, to make mocking remarks. The remarks can be good-natured, but more often they are sarcastic, intending to hurt. GIBE is often followed by <i class=“def-ital\">at</i>. </p><p>“The other boys GIBED at Peter for walking Cindy home, but secretly they were jealous.” </p><p>“The newspapers GIBED the owner of the baseball team for his ridiculous antics.” </p><p>GIBE is also a noun, meaning “a taunting remark.” </p><p>“Helen paid no attention to the GIBES and insults of her classmates when she started taking lessons on the tuba.”</p>"
+    },
+    "INIMITABLE": {
+      "word": "INIMITABLE",
+      "phonetic": "(in-im'-g-tg-bgl)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">matchless, unique </p><p>INIMITABLE is made up of the prefix <i class=“def-ital\">in-</i>, meaning <i class=“def-ital\">not</i>, the suffix <i class=“def-ital\">-able</i>, and the root <i class=“def-ital\">imit</i>, also found in the word <i class=“def-ital\">imitate</i>. Something that is INIMITABLE is not able to be imitated, usually because it is so good. </p><p>“We begged Danny to do his INIMITABLE impression of Frank Sinatra.” </p><p>“Bill told the story of his first day at college in his own INIMITABLE style.” </p><p>“The INIMITABLE Vincent van Gogh created some of the greatest paintings of the nineteenth century.”</p>"
+    },
+    "ITINERANT": {
+      "word": "ITINERANT",
+      "phonetic": "(I-tin'-ÔøΩrnnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">journeying, traveling, nomadic, peripatetic </p><p>ITINERANT comes from a Latin word meaning <i class=“def-ital\">journey</i>, also the source of the word ITINERARY, which is a record or route of a journey. ITINERANT means “moving from place to place.” It is especially applied to people whose work entails a great deal of traveling. </p><p>“The ITINERANT actors would put on a play in any town where they could rent a hall.” </p><p>“The ITINERANT preacher gave a sermon in a different church every Sunday.” </p><p>“He loved the ITINERANT life; nothing could persuade him to settle down.”</p>"
+    },
+    "MELLIFLUOUS": {
+      "word": "MELLIFLUOUS",
+      "phonetic": "(mÔøΩlif'-IU-gs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sweet-sounding, honeyed, smoothly flowing </p><p>The <i class=“def-ital\">melli-</i> part of MELLIFLUOUS comes from the Latin word for <i class=“def-ital\">honey</i>. The <i class=“def-ital\">flu</i> part is the Latin root meaning flow, also found in <i class=“def-ital\">fluent</i>.  MELLIFLUOUS literally means “flowing with honey.” Although the word is occasionally used with this literal meaning, it usually has the figurative meaning of “flowing sweetly or smoothly,” and is applied to sounds, voices, or the like. </p><p>“The singer’s MELLIFLUOUS voice enchanted the audience.” </p><p>“The baby fell asleep to the MELLIFLUOUS sounds of the lullaby.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "PUGNACIOUS": {
+      "word": "PUGNACIOUS",
+      "phonetic": "(pgg-nA'-shgs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">quarrelsome, belligerent, aggressive, truculent, combative </p><p>PUGNACIOUS comes from a Latin word meaning <i class=“def-ital\">fight</i>, which in turn comes from a word meaning <i class=“def-ital\">fist</i>. This word is also the source of <i class=“def-ital\">pugilism</i>, which is a formal term for boxing. PUGNACIOUS means “eager to fight,” and is usually used about a person who is naturally or characteristically given to fighting. </p><p>“The PUGNACIOUS sailors liked nothing better than to get into a brawl when they went ashore.” </p><p>“He was quite PUGNACIOUS when it came to defending the reputation of his school.” </p><p>“Sandra’s PUGNACIOUS manner made it very difficult for us to work with her.” </p><p>Other forms of the word: PUGNACITY, n.</p>"
+    },
+    "AFICIONADO": {
+      "word": "AFICIONADO",
+      "phonetic": "(ÔøΩfE-sE-ÔøΩna'-dO)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">an ardent devotee, enthusiast, zealot </p><p>AFICIONADO comes directly from Spanish and literally means “one who is affectionate.” But in English its sense is much stronger than “affectionate.” It means “one who is ardently devoted to or enthusiastic about something.” </p><p>“The bullfighting AFICIONADOS cheered the toreador with great fervor.” </p><p>“The rare first edition of her poems was prized by collectors and cherished by her AFICIONADOS.” </p><p>“My professor insisted that I could never consider myself a true AFICIONADO of Shakespeare until I had made a pilgrimage to Stratford.” .</p>"
+    },
+    "CEDE": {
+      "word": "CEDE",
+      "phonetic": "(sEd)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to give up, grant, relinquish </p><p>To CEDE something is to relinquish the possession of it, especially in a formal manner, through a treaty or other official act. It is usually used about rights or territory. </p><p>“Under the terms of the treaty, the United States CEDED the land to Canada.” </p><p>“The judge ruled that the company had to CEDE all rights in the invention to its competitor.”</p>"
+    },
+    "DEBASE": {
+      "word": "DEBASE",
+      "phonetic": "(di-bAs')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to corrupt, degrade, adulterate, vitiate </p><p>DEBASE is related to the adjective <i class=“def-ital\">base</i>, meaning <i class=“def-ital\">low</i> or <i class=“def-ital\">inferior</i>. To DEBASE something is to lower its value or quality. </p><p>“The so-called ’modern adaptation’ DEBASES Shakespeare’s play by omitting all the great poetry.” </p><p>“I said I would not DEBASE myself by appearing on the same program with my opponent.” </p><p>Virtually everyone who takes the Pretest knows that DEBASE means something bad, but many think it means <i class=“def-ital\">destroy</i> rather than <i class=“def-ital\">corrupt</i>. DEBASE is not quite that strong. To DEBASE is to lower the quality of, not to destroy. Other forms of the word: DEBASEMENT, n.</p>"
+    },
+    "FOMENT": {
+      "word": "FOMENT",
+      "phonetic": "(fO-ment')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to stir up, instigate, incite, rouse </p><p>FOMENT is usually used about rebellions and other violent actions. It means to <i class=“def-ital\">stir up</i>, “to promote the growth of.” The word suggests a persistent goading or incitement for a bad purpose. </p><p>“The mayor said that outside agitators were responsible for FOMENTING the riots in his city.” </p><p>“She FOMENTED trouble in the organization by spreading rumors and telling lies.” </p><p>“The president accused the Communists of FOMENTING revolution in the South American country.”</p>"
+    },
+    "FORBEARANCE": {
+      "word": "FORBEARANCE",
+      "phonetic": "(for-bair'-:ms)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">patience, restraint </p><p>To FORBEAR from doing something is to refrain from doing it, especially when it is your right. FORBEARANCE is the noun from FORBEAR. People who show FORBEARANCE are patient and restrained; they hold back from exacting punishment, criticizing someone, or demanding their rights. </p><p>“I thought she showed remarkable FORBEARANCE in putting up with her husband’s drinking all these years.” </p><p>“The bank’s FORBEARANCE finally ended when he fell six months behind in his loan payments.” </p><p>Other forms of the word: FORBEAR, v.</p>"
+    },
+    "JOCOSE": {
+      "word": "JOCOSE",
+      "phonetic": "(jO-kOs')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">humorous, playful, merry </p><p>JOCOSE is related to the words <i class=“def-ital\">joke</i> and <i class=“def-ital\">jocular</i>; all come from a Latin word meaning <i class=“def-ital\">jest</i> or <i class=“def-ital\">joke</i>. JOCOSE means “characterized by joking,” <i class=“def-ital\">humorous</i>, <i class=“def-ital\">waggish</i>. </p><p>“Bill is the life of every party; with his JOCOSE disposition, he keeps everybody in stitches.” </p><p>“Brenda resented Dan’s JOCOSE remarks about her weight, even though he thought he was very funny.” </p><p>“When Sue complained that she didn’t want to go to school, her father JOCOSELY suggested that she quit and become a trapeze artist.” </p><p>Other forms of the word: JOCOSITY, n.</p>"
+    },
+    "VEX": {
+      "word": "VEX",
+      "phonetic": "(veks)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to irritate, annoy, bother; to puzzle, perplex, baffle </p><p>To VEX is to annoy or irritate, often with small matters, but usually to the point of real frustration or anger. </p><p>“Joe’s wife was so VEXED by his behavior that she refused to speak to him for a week.” </p><p>“The employees’ constant lateness VEXED the boss.” </p><p>In a slightly different sense VEX means <i class=“def-ital\">baffle</i> or <i class=“def-ital\">perplex</i>. The word suggests irritation and annoyance in this sense as well. </p><p>“George was VEXED by the problem of how to make ends meet on his salary.” </p><p>The adjective from VEX is VEXATIOUS; it means “causing someone to be VEXED,” <i class=“def-ital\">annoying</i>. </p><p>“False alarms are not just VEXATIOUS to fire departments, they are hazardous.” </p><p>Other forms of the word: VEXATION, n. VEXATIOUS, adj.</p>"
+    },
+    "BURGEON": {
+      "word": "BURGEON",
+      "phonetic": "(ber'-jÔøΩn)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to develop, flourish, sprout </p><p>To BURGEON is to sprout or grow like a budding flower. BURGEON usually emphasizes new and rapid growth, like that of a flower in springtime. </p><p>“With the new piano teacher, Alan’s talent suddenly started to BURGEON.” </p><p>“Over the summer vacation their mild affection for each other BURGEONED into love.” </p><p>“The two principals tried to end the BURGEONING rivalry between their schools.”</p>"
+    },
+    "DISTEND": {
+      "word": "DISTEND",
+      "phonetic": "(dis-tend')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to swell, expand, bloat </p><p>DISTEND is a combination of the prefix <i class=“def-ital\">dis-</i>, in this case meaning <i class=“def-ital\">apart</i>, and <i class=“def-ital\">tend</i>, from a Latin word meaning to <i class=“def-ital\">stretch</i>. The <i class=“def-ital\">tend</i> root is also found in such words as <i class=“def-ital\">extend</i>, <i class=“def-ital\">contend</i>, and <i class=“def-ital\">intend</i>. To DISTEND is to stretch out or swell, especially because of internal pressure. </p><p>“The balloon gradually DISTENDED as we filled it with water.” </p><p>“His stomach was DISTENDED with gas.” </p><p>The most common wrong answer is postpone, possibly because the <i class=“def-ital\">dis</i> and <i class=“def-ital\">end</i> parts of the word suggest “not ending,” and thus putting something off’. </p><p>Other forms of the word: DISTENSION or DISTENTION, n.</p>"
+    }
+  },
+  "id": "5",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "GERMANE",
+          "answers": [
+            "foreign",
+            "sickening",
+            "relevant",
+            "logical",
+            "crucial"
+          ],
+          "word": "GERMANE",
+          "correct": "relevant"
+        },
+        {
+          "prompt": "GIBE",
+          "answers": [
+            "compliment",
+            "jeer",
+            "punch",
+            "riddle",
+            "lie"
+          ],
+          "word": "GIBE",
+          "correct": "jeer"
+        },
+        {
+          "prompt": "INIMITABLE",
+          "answers": [
+            "matchless",
+            "unchanging",
+            "frequent",
+            "threatening",
+            "unbeaten"
+          ],
+          "word": "INIMITABLE",
+          "correct": "matchless"
+        },
+        {
+          "prompt": "ITINERANT",
+          "answers": [
+            "unpredictable",
+            "occasional",
+            "begging",
+            "selling",
+            "journeying"
+          ],
+          "word": "ITINERANT",
+          "correct": "journeying"
+        },
+        {
+          "prompt": "MELLIFLUOUS",
+          "answers": [
+            "bitter tasting",
+            "soft",
+            "convincing",
+            "grating",
+            "sweet-sounding"
+          ],
+          "word": "MELLIFLUOUS",
+          "correct": "sweet-sounding"
+        },
+        {
+          "prompt": "PUGNACIOUS",
+          "answers": [
+            "greedy",
+            "ugly",
+            "quarrelsome",
+            "unhappy",
+            "strong"
+          ],
+          "word": "PUGNACIOUS",
+          "correct": "quarrelsome"
+        },
+        {
+          "prompt": "AFICIONADO",
+          "answers": [
+            "enthusiast",
+            "ruler",
+            "criminal",
+            "rancher",
+            "champion"
+          ],
+          "word": "AFICIONADO",
+          "correct": "enthusiast"
+        },
+        {
+          "prompt": "to CEDE",
+          "answers": [
+            "examine",
+            "start",
+            "accept",
+            "give up",
+            "turn down"
+          ],
+          "word": "CEDE",
+          "correct": "give up"
+        },
+        {
+          "prompt": "to DEBASE",
+          "answers": [
+            "destroy",
+            "corrupt",
+            "improve",
+            "move",
+            "forget"
+          ],
+          "word": "DEBASE",
+          "correct": "corrupt"
+        },
+        {
+          "prompt": "to FOMENT",
+          "answers": [
+            "complete",
+            "stir up",
+            "uncover",
+            "talk about",
+            "advise"
+          ],
+          "word": "FOMENT",
+          "correct": "stir up"
+        },
+        {
+          "prompt": "FORBEARANCE",
+          "answers": [
+            "confidence",
+            "faith",
+            "respect",
+            "patience",
+            "excitement"
+          ],
+          "word": "FORBEARANCE",
+          "correct": "patience"
+        },
+        {
+          "prompt": "JOCOSE",
+          "answers": [
+            "sullen",
+            "plump",
+            "humorous",
+            "drunken",
+            "insulting"
+          ],
+          "word": "JOCOSE",
+          "correct": "humorous"
+        },
+        {
+          "prompt": "to VEX",
+          "answers": [
+            "trick",
+            "scorn",
+            "confuse",
+            "comfort",
+            "annoy"
+          ],
+          "word": "VEX",
+          "correct": "annoy"
+        },
+        {
+          "prompt": "to BURGEON",
+          "answers": [
+            "rot",
+            "develop",
+            "shine",
+            "fl.oat",
+            "breathe"
+          ],
+          "word": "BURGEON",
+          "correct": "develop"
+        },
+        {
+          "prompt": "to DISTEND",
+          "answers": [
+            "swell",
+            "shrink",
+            "warp",
+            "deface",
+            "postpone"
+          ],
+          "word": "DISTEND",
+          "correct": "swell"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Would comments about sports be GERMANE during a discussion of the solar system",
+          "word": "GERMANE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can GIBES be annoying?",
+          "word": "GIBE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an actor try to give an INIMITABLE performance?",
+          "word": "INIMITABLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are librarians usually ITINERANT?",
+          "word": "ITINERANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do television announcers usually have MELLIFLUOUS voices?",
+          "word": "MELLIFLUOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a PUGNACIOUS person be likely to get into a fight?",
+          "word": "PUGNACIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would opera AFICIONADOS have little interest in music?",
+          "word": "AFICIONADO",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you lose something when you CEDE it?",
+          "word": "CEDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would most people find it unpleasant to be DEBASED?",
+          "word": "DEBASE",
+          "correct": "true"
+        },
+        {
+          "prompt": " Did Thomas Paine want to FOMENT a rebellion in the British Colonies in America?",
+          "word": "FOMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a stubborn person be likely to show FORBEARANCE?",
+          "word": "FORBEARANCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a JOCOSE person be likely to scowl?",
+          "word": "JOCOSE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a detective find an unsolved murder case VEXING?",
+          "word": "VEX",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a friendship BURGEON?",
+          "word": "BURGEON",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can cheeks DISTEND?",
+          "word": "DISTEND",
+          "correct": "true"
+        },
+        {}
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Your comments are not GERMANE to the topic at hand.",
+          "word": "GERMANE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bill thought it was immature to GIBE at someone just for being different.",
+          "word": "GIBE",
+          "correct": "true"
+        },
+        {
+          "prompt": "When Charlie started showing up for work late, the result was INIMITABLE: he was fired.",
+          "word": "INIMITABLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The ITINERANT life of the traveling salesman became too much for him as he grew older.",
+          "word": "ITINERANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "I could listen to her MELLIFLUOUS voice forever.",
+          "word": "MELLIFLUOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Harry was PUGNACIOUS to get as much money as he could before it was too late.",
+          "word": "PUGNACIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "He is a true AFICIONADO of wine; there is nothing he doesn't know about the subject.",
+          "word": "AFICIONADO",
+          "correct": "true"
+        },
+        {
+          "prompt": "The judge CEDED the money from them and awarded it to us.",
+          "word": "CEDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The atomic bomb totally DEBASED the city.",
+          "word": "DEBASE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The warden said a few ringleaders had FOMENTED the riot in the prison.",
+          "word": "FOMENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The coach is showing amazing FORBEARANCE; I would have thrown Paul off the team weeks ago.",
+          "word": "FORBEARANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "His JOCOSE comments were out of place at the solemn gathering.",
+          "word": "JOCOSE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher was VEXED by the lack of obedience in the classroom.",
+          "word": "VEX",
+          "correct": "true"
+        },
+        {
+          "prompt": "They BURGEONED in to tell us the exciting news.",
+          "word": "BURGEON",
+          "correct": "false"
+        },
+        {
+          "prompt": "The more he ate, the more his stomach would DISTEND.",
+          "word": "DISTEND",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "GERMANE",
+          "answers": [
+            "expected",
+            "apropos",
+            "pertinent"
+          ],
+          "word": "GERMANE",
+          "correct": "0"
+        },
+        {
+          "prompt": "GIBE",
+          "answers": [
+            "scoff",
+            "sneer",
+            "smile"
+          ],
+          "word": "GIBE",
+          "correct": "2"
+        },
+        {
+          "prompt": "INIMITABLE",
+          "answers": [
+            "illustrious",
+            "banal",
+            "unique"
+          ],
+          "word": "INIMITABLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ITINERANT",
+          "answers": [
+            "vagabond",
+            "thief",
+            "nomad"
+          ],
+          "word": "ITINERANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "MELLIFLUOUS",
+          "answers": [
+            "smooth",
+            "light",
+            "sweet"
+          ],
+          "word": "MELLIFLUOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "PUGNACIOUS",
+          "answers": [
+            "opposing",
+            "aggressive",
+            "hostile"
+          ],
+          "word": "PUGNACIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "AFICIONADO",
+          "answers": [
+            "agitator",
+            "zealot",
+            "fan"
+          ],
+          "word": "AFICIONADO",
+          "correct": "0"
+        },
+        {
+          "prompt": "CEDE",
+          "answers": [
+            "lend",
+            "grant",
+            "surrender"
+          ],
+          "word": "CEDE",
+          "correct": "0"
+        },
+        {
+          "prompt": "DEBASE",
+          "answers": [
+            "corrupt",
+            "lower",
+            "harm"
+          ],
+          "word": "DEBASE",
+          "correct": "2"
+        },
+        {
+          "prompt": "FOMENT",
+          "answers": [
+            "agitate",
+            "incite",
+            "debate"
+          ],
+          "word": "FOMENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "FORBEARANCE",
+          "answers": [
+            "long suffering",
+            "unhappiness",
+            "understanding"
+          ],
+          "word": "FORBEARANCE",
+          "correct": "1"
+        },
+        {
+          "prompt": "JOCOSE",
+          "answers": [
+            "facetious",
+            "amiable",
+            "mellifluous"
+          ],
+          "word": "JOCOSE",
+          "correct": "2"
+        },
+        {
+          "prompt": "VEX",
+          "answers": [
+            "pester",
+            "dismiss",
+            "confuse"
+          ],
+          "word": "VEX",
+          "correct": "1"
+        },
+        {
+          "prompt": "BURGEON",
+          "answers": [
+            "live",
+            "flower",
+            "grow"
+          ],
+          "word": "BURGEON",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISTEND",
+          "answers": [
+            "extend",
+            "inflate",
+            "disappear"
+          ],
+          "word": "DISTEND",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

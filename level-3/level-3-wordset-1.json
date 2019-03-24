@@ -1,0 +1,611 @@
+{
+  "title": "3.1",
+  "definitions": {
+    "FROLIC": {
+      "word": "FROLIC",
+      "phonetic": "(frol'-ik)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to make merry, play happily, romp </p><p>To FROLIC is to play in a lighthearted, carefree way. The word is used especially about children or about people acting like children. </p><p>“I love to see children FROLIC at the beach.” </p><p>“She FROLICKED about the yard, singing happily.” </p><p>FROLIC can also be used as a noun. </p><p>“After their FROLIC in the snow they came inside, cold but happy.” </p><p>Usage: The past tense of FROLIC is spelled FROLICKED.</p>"
+    },
+    "CONGESTION": {
+      "word": "CONGESTION",
+      "phonetic": "(kQn-jes'-chQn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">overcrowding, overfullness </p><p>To CONGEST means to <i class=“def-ital\">overfill</i> or <i class=“def-ital\">overcrowd</i>. </p><p>“The subway trains are always CONGESTED at five o’clock in the evening.” </p><p>CONGESTION is the state of being overcrowded or too full. “Traffic CONGESTION” is when there are so many cars on a street that traffic becomes blocked. “Lung CONGESTION” is when the lungs become so full of fluid that it is difficult to breathe. </p><p>“So many people crowded onto the subway platform that the CONGESTION was terrible.” </p><p>“CONGESTION became so bad in the city that many people moved to the suburbs.” </p><p>Other forms of the word: CONGEST, v.</p>"
+    },
+    "VIOLATE": {
+      "word": "VIOLATE",
+      "phonetic": "(vl-ÔøΩIAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to break, interfere with, treat badly </p><p>To VIOLATE a law or rule is to break it, to fail to keep it. </p><p>“If you VIOLATE this law, you will be sent to jail.” </p><p>“He VIOLATED our order to stay inside.” </p><p>In another sense, VIOLATE means “to treat in an improper manner.” The word is used especially about non- physical things like rights or dignity. </p><p>“His orders VIOLATE our basic human rights.” </p><p>“Bill didn’t like anyone to VIOLATE his privacy.” </p><p>Other forms of the word: VIOLATION, n.</p>"
+    },
+    "INTERMEDIATE": {
+      "word": "INTERMEDIATE",
+      "phonetic": "(in-tÔøΩ-mE'-dE-it)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">in the middle, in between </p><p> The <i class=“def-ital\">medi</i> part of INTERMEDIATE comes from the Latin word for <i class=“def-ital\">middle</i>, which is also the source of the word <i class=“def-ital\">medium</i>. Something that is INTERMEDIATE comes in the middle; it is, for example, between two stages, times, or extremes. </p><p>“He was too good for the beginners’ group, and not good enough for the advanced group, so they put him in the INTERMEDIATE group.” </p><p>“There are several INTERMEDIATE steps between starting the machine and getting the final product.”</p>",
+      "suffix": [
+        "See <i class=“def-ital\">inter-</i> under Prefixes and <i class=“def-ital\">-ate2</i> under Suffixes."
+      ]
+    },
+    "RECEPTION": {
+      "word": "RECEPTION",
+      "phonetic": "(ri-sep'-shQn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a welcome, greeting </p><p>RECEPTION is the act of receiving. It is often used about the receiving of guests. </p><p>“I got a cool RECEPTION from the host when I arrived two hours late.” </p><p>A wedding RECEPTION is the formal receiving of guests after a wedding. RECEPTION is used for other kinds of receiving as well, like the receiving of radio or television signals. </p><p>“We had very poor RECEPTION on our TV until we bought an antenna.” On the Pretest, many people confuse RECEPTION with <i class=“def-ital\">farewell</i>, which is an exact opposite. </p><p>Other forms of the word: RECEPTIVE, adj.</p>"
+    },
+    "STEER": {
+      "word": "STEER",
+      "phonetic": "(stEr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to guide, lead, direct the course of </p><p>To STEER something is to guide it in a particular direction. The word can be used about physical objects like cars and boats and about conversations, interests, and the like. </p><p>“Jane STEERED the canoe with her paddle.” </p><p>“He STEERED us quickly through the crowded station.” </p><p>“You STEER a car by turning the STEERING wheel.” </p><p>“We tried to STEER him toward college, but he wanted to work after high school.”</p>"
+    },
+    "SUBSTITUTE": {
+      "word": "SUBSTITUTE",
+      "phonetic": "(suhb'-stÔøΩtUt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to put in place of, take the place of, exchange </p><p>SUBSTITUTE is both a verb and a noun. To SUBSTITUTE something is to put or use it in place of something else. </p><p>“He SUBSTITUTED the fake painting for the real one.” </p><p>“You may SUBSTITUTE margarine for butter when you make this cake.” </p><p>When something SUBSTITUTES for something else, it takes the place of it. </p><p>“For a blind person, the other senses have to SUBSTITUTE for the sense of sight.” </p><p>A SUBSTITUTE is something that takes the place of something else. </p><p>“The coach sent Bill in as a SUBSTITUTE for the center.” </p><p>Other forms of the word: SUBSTITUTION, n.</p>"
+    },
+    "VICINITY": {
+      "word": "VICINITY",
+      "phonetic": "(vi-sin'-ÔøΩtE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">neighborhood, surrounding area </p><p>The area surrounding a place is called the VICINITY. “In the VICINITY of the school” means “near the school” or “in the neighborhood of the school.” </p><p>“She lives in the VICINITY of the hospital. Her apartment is just across the street.” </p><p>“There are several grocery stores in the VICINITY.” </p><p>“The robber was seen leaving the VICINITY of the bank at two o’clock.”</p>"
+    },
+    "ABRUPT": {
+      "word": "ABRUPT",
+      "phonetic": "(ÔøΩbruhpt')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sudden, unexpected; curt, blunt </p><p>Something that is ABRUPT happens without warning. It occurs so suddenly that it is almost unpleasant. </p><p>“His departure was ABRUPT, to say the least. One minute he was talking to me, the next minute he was gone.” </p><p>ABRUPT is often used about people and their behavior. A person who is ABRUPT is brief almost to the point of rudeness in the way he acts or speaks. </p><p>“Mr. Ames has a rather ABRUPT manner that makes people feel he is eager to get rid of them.”</p>"
+    },
+    "EVIDENT": {
+      "word": "EVIDENT",
+      "phonetic": "(ev'-ÔøΩdÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">clear, apparent, obvious, plain </p><p> EVIDENT comes from the Latin root <i class=“def-ital\">vid</i>, which means to <i class=“def-ital\">see</i>. <i class=“def-ital\">Vid</i> is also the source of the words <i class=“def-ital\">video</i> and <i class=“def-ital\">vision</i>. Something that is EVIDENT is easily seen; it is plain and clear. It can be clear either to the eye or to the mind. </p><p>“Her anger was EVIDENT from the way she went around slamming doors.” </p><p>“It became EVIDENT that our team just wasn’t good enough to win.” </p><p>“The man EVIDENTLY was wealthy; he lived in a mansion.” </p><p>Other forms of the word: EVIDENCE, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ant</i> under Suffixes."
+      ]
+    },
+    "BAN": {
+      "word": "BAN",
+      "phonetic": "(ban)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to forbid </p><p>BAN means to <i class=“def-ital\">forbid</i>, “to give an order that something must not be done.” </p><p>“Cigarette smoking is BANNED in many restaurants.” </p><p>“Jim’s mother BANNED all yelling in the house.” </p><p>BAN is also a noun, and means “an order forbidding something,” a <i class=“def-ital\">prohibition</i>. </p><p>“The government put a BAN on buying or selling gold.” </p><p>“There was a BAN on driving during the emergency.”</p>"
+    },
+    "ENDURE": {
+      "word": "ENDURE",
+      "phonetic": "(en-dUr')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to put up with, bear; to last, continue </p><p>ENDURE is related to the word <i class=“def-ital\">durable</i>. Both come from a Latin word that means <i class=“def-ital\">lasting</i>. ENDURE has two related meanings. The first is to <i class=“def-ital\">put up with</i>, especially with patience and for a long time. </p><p>“I can’t ENDURE listening to his complaints again.” </p><p>“Since you can’t change the weather, you’ll just have to ENDURE it.” </p><p>“That tree has ENDURED wind and rain and snow, and still it has survived.” </p><p>The second meaning is “to continue to exist” for a long time, to <i class=“def-ital\">last</i>. </p><p>“His desire to learn ENDURED throughout his life.” </p><p>“The belief that the Earth was the center of the universe ENDURED for centuries.” </p><p>Other forms of the word: ENDURANCE, n.</p>"
+    },
+    "FEUD": {
+      "word": "FEUD",
+      "phonetic": "(fyUd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a long, bitter quarrel </p><p>Note the pronunciation. A FEUD is a quarrel that goes on over a long period of time. It is always bitter and sometimes violent. </p><p>“They had forgotten what started the FEUD, but they were still angry with each other twenty years later.” </p><p>“The FEUD between the two families was never really settled.” </p><p>FEUD can also be used as a verb. </p><p>“The two neighbors FEUDED over the location of the fence.” </p><p>“He FEUDED with his brothers over his share of the inheritance.”</p>"
+    },
+    "FRISKY": {
+      "word": "FRISKY",
+      "phonetic": "(fris'-kE)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">lively, playful, energetic </p><p>One meaning of the verb to FRISK is “to move about playfully.” </p><p>“The puppies FRISKED about on the lawn.” </p><p>FRISKY means “given to FRISKING,” <i class=“def-ital\">lively</i>, <i class=“def-ital\">playful</i>.  </p><p>“They thought the pony was too FRISKY, so they bought a slower, quieter one instead.” </p><p>“The old man started to feel a bit FRISKY on the bright spring morning.” </p><p>FRISKY is often confused with <i class=“def-ital\">friendly</i>, perhaps because the two words look alike. A pet or person could be both FRISKY and <i class=“def-ital\">friendly</i>, but the two words do not have the same meaning. </p><p>Other forms of the word: FRISK, v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-y</i> under Suffixes."
+      ]
+    },
+    "PAMPER": {
+      "word": "PAMPER",
+      "phonetic": "(pam'-pÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to spoil, indulge, humor, coddle </p><p>To PAMPER someone is to treat him or her with too much care and attention, to be excessively kind. The word almost always suggests that this is a bad thing, and that the person who is PAMPERED may become spoiled as a result. </p><p>“They PAMPER their children. They let them stay up late and eat nothing but desserts.” </p><p>“She decided to PAMPER herself and stay in bed till noon.” </p><p>“She was PAMPERED as a child, and now she can’t do anything for herself.”</p>"
+    }
+  },
+  "id": "1",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "Let them FROLIC.",
+          "answers": [
+            "jump up",
+            "sit still",
+            "laugh loudly",
+            "play merrily",
+            "run fast"
+          ],
+          "word": "FROLIC",
+          "correct": "play merrily"
+        },
+        {
+          "prompt": "Doesn't like CONGESTION.",
+          "answers": [
+            "joking",
+            "loneliness",
+            "overcrowding",
+            "arguing",
+            "heights"
+          ],
+          "word": "CONGESTION",
+          "correct": "overcrowding"
+        },
+        {
+          "prompt": "VIOLATE the rule.",
+          "answers": [
+            "break",
+            "honor",
+            "think about",
+            "despise",
+            "ignore"
+          ],
+          "word": "VIOLATE",
+          "correct": "break"
+        },
+        {
+          "prompt": "The INTERMEDIATE course.",
+          "answers": [
+            "final",
+            "middle",
+            "communications",
+            "easy",
+            "next"
+          ],
+          "word": "INTERMEDIATE",
+          "correct": "middle"
+        },
+        {
+          "prompt": "Tremendous RECEPTION.",
+          "answers": [
+            "trick",
+            "sympathy",
+            "welcome",
+            "favor",
+            "farewell"
+          ],
+          "word": "RECEPTION",
+          "correct": "welcome"
+        },
+        {
+          "prompt": "To STEER it.",
+          "answers": [
+            "plan",
+            "enter",
+            "laugh at",
+            "finish",
+            "guide"
+          ],
+          "word": "STEER",
+          "correct": "guide"
+        },
+        {
+          "prompt": "He SUBSTITUTED it",
+          "answers": [
+            "started",
+            "did without",
+            "exchanged",
+            "supported",
+            "weakened"
+          ],
+          "word": "SUBSTITUTE",
+          "correct": "exchanged"
+        },
+        {
+          "prompt": "From the VICINITY.",
+          "answers": [
+            "neighborhood",
+            "hotel",
+            "city",
+            "church",
+            "devil"
+          ],
+          "word": "VICINITY",
+          "correct": "neighborhood"
+        },
+        {
+          "prompt": "ABRUPT decision.",
+          "answers": [
+            "hard",
+            "sudden",
+            "evil",
+            "stupid",
+            "important"
+          ],
+          "word": "ABRUPT",
+          "correct": "sudden"
+        },
+        {
+          "prompt": "Quite EVIDENT.",
+          "answers": [
+            "true",
+            "difficult",
+            "unusual",
+            "common",
+            "clear"
+          ],
+          "word": "EVIDENT",
+          "correct": "clear"
+        },
+        {
+          "prompt": "Wanted to BAN it.",
+          "answers": [
+            "forget",
+            "allow",
+            "collect",
+            "forbid",
+            "destroy"
+          ],
+          "word": "BAN",
+          "correct": "forbid"
+        },
+        {
+          "prompt": "We ENDURED his insults.",
+          "answers": [
+            "put up with",
+            "hated",
+            "were hurt by",
+            "returned",
+            "didn't listen to"
+          ],
+          "word": "ENDURE",
+          "correct": "put up with"
+        },
+        {
+          "prompt": "Ended the FEUD.",
+          "answers": [
+            "long quarrel",
+            "riot",
+            "hatred",
+            "world war",
+            "tragedy"
+          ],
+          "word": "FEUD",
+          "correct": "long quarrel"
+        },
+        {
+          "prompt": "FRISKY pets.",
+          "answers": [
+            "slow",
+            "lively",
+            "friendly",
+            "bad-tempered",
+            "fast"
+          ],
+          "word": "FRISKY",
+          "correct": "lively"
+        },
+        {
+          "prompt": "To PAMPER her.",
+          "answers": [
+            "dress",
+            "punish",
+            "bother",
+            "spoil",
+            "admire"
+          ],
+          "word": "PAMPER",
+          "correct": "spoil"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do people usually FROLIC at funerals?",
+          "word": "FROLIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is there likely to be CONGESTION on a desert island?",
+          "word": "CONGESTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a person VIOLATE the law when he steals something?",
+          "word": "VIOLATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an expert have problems with something at an INTERMEDIATE level of difficulty?",
+          "word": "INTERMEDIATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a dog give you a warm RECEPTION?",
+          "word": "RECEPTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a car be STEERED?",
+          "word": "STEER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is margarine used as a SUBSTITUTE for butter?",
+          "word": "SUBSTITUTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is New York City in the VICINITY of Los Angeles?",
+          "word": "VICINITY",
+          "correct": "false"
+        },
+        {
+          "prompt": "If a television program ended in the middle of a sentence, would its ending be ABRUPT?",
+          "word": "ABRUPT",
+          "correct": "true"
+        },
+        {
+          "prompt": "If a person's anger is EVIDENT, is he hiding it very well?",
+          "word": "EVIDENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "If someone tried to BAN baseball in the United States, would he be successful?",
+          "word": "BAN",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a lightning flash ENDURE for hours?",
+          "word": "ENDURE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a FEUD be stopped?",
+          "word": "FEUD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a snail a FRISKY animal?",
+          "word": "FRISKY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you PAMPER a small child by spanking him?",
+          "word": "PAMPER",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "The baby was laughing and splashing and FROLICKING in the bathtub.",
+          "word": "FROLIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "There was a lot of CONGESTION about what exactly we were supposed to do.",
+          "word": "CONGESTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "The prisoner claimed that his rights were VIOLATED because he wasn't allowed to speak to a lawyer.",
+          "word": "VIOLATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Thomas had to take INTERMEDIATE-level Spanish over again.",
+          "word": "INTERMEDIATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Magicians practice for a long time to become skillful in their RECEPTIONS.",
+          "word": "RECEPTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "She tried to STEER the conversation toward a more interesting subject, but everyone else wanted to talk about sports.",
+          "word": "STEER",
+          "correct": "true"
+        },
+        {
+          "prompt": "The store SUBSTITUTED a cheaper brand of paper for the one we ordered.",
+          "word": "SUBSTITUTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We couldn't see him, but we knew he was somewhere in the VICINITY.",
+          "word": "VICINITY",
+          "correct": "true"
+        },
+        {
+          "prompt": "She ABRUPTLY decided she didn't like the dance, and left immediately.",
+          "word": "ABRUPT",
+          "correct": "true"
+        },
+        {
+          "prompt": "EVIDENTLY we didn't make the team; our names aren't on the list.",
+          "word": "EVIDENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "As punishment, their parents placed a BAN on watching television.",
+          "word": "BAN",
+          "correct": "true"
+        },
+        {
+          "prompt": "She was able to ENDURE the pain by taking aspirin three times a day.",
+          "word": "ENDURE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We refused to become involved in their silly FEUD.",
+          "word": "FEUD",
+          "correct": "true"
+        },
+        {
+          "prompt": "The children were having a FRISKY game of tag.",
+          "word": "FRISKY",
+          "correct": "true"
+        },
+        {
+          "prompt": "He said that even though he was ill he didn't want to be PAMPERED.",
+          "word": "PAMPER",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "FROLIC",
+          "answers": [
+            "play",
+            "enjoy",
+            "race"
+          ],
+          "word": "FROLIC",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONGESTION",
+          "answers": [
+            "crowding",
+            "fullness",
+            "finishing"
+          ],
+          "word": "CONGESTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "VIOLATE",
+          "answers": [
+            "break",
+            "ill-treat",
+            "choose"
+          ],
+          "word": "VIOLATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "INTERMEDIATE",
+          "answers": [
+            "middle",
+            "edge",
+            "center"
+          ],
+          "word": "INTERMEDIATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "RECEPTION",
+          "answers": [
+            "greeting",
+            "admiring",
+            "receiving"
+          ],
+          "word": "RECEPTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "STEER",
+          "answers": [
+            "stop",
+            "lead",
+            "drive"
+          ],
+          "word": "STEER",
+          "correct": "0"
+        },
+        {
+          "prompt": "SUBSTITUTE",
+          "answers": [
+            "switch",
+            "sell",
+            "trade"
+          ],
+          "word": "SUBSTITUTE",
+          "correct": "1"
+        },
+        {
+          "prompt": "VICINITY",
+          "answers": [
+            "sameness",
+            "nearness",
+            "neighborhood"
+          ],
+          "word": "VICINITY",
+          "correct": "0"
+        },
+        {
+          "prompt": "ABRUPT",
+          "answers": [
+            "short",
+            "sudden",
+            "dangerous"
+          ],
+          "word": "ABRUPT",
+          "correct": "2"
+        },
+        {
+          "prompt": "EVIDENT",
+          "answers": [
+            "plain",
+            "probable",
+            "obvious"
+          ],
+          "word": "EVIDENT",
+          "correct": "1"
+        },
+        {
+          "prompt": "BAN",
+          "answers": [
+            "prevent",
+            "forbid",
+            "argue"
+          ],
+          "word": "BAN",
+          "correct": "2"
+        },
+        {
+          "prompt": "ENDURE",
+          "answers": [
+            "agree",
+            "continue",
+            "bear"
+          ],
+          "word": "ENDURE",
+          "correct": "0"
+        },
+        {
+          "prompt": "FEUD",
+          "answers": [
+            "loneliness",
+            "fight",
+            "anger"
+          ],
+          "word": "FEUD",
+          "correct": "0"
+        },
+        {
+          "prompt": "FRISKY",
+          "answers": [
+            "powerful",
+            "playful",
+            "spirited"
+          ],
+          "word": "FRISKY",
+          "correct": "0"
+        },
+        {
+          "prompt": "PAMPER",
+          "answers": [
+            "humor",
+            "spoil",
+            "respect"
+          ],
+          "word": "PAMPER",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

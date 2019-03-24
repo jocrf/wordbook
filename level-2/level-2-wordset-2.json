@@ -1,0 +1,617 @@
+{
+  "title": "2.2",
+  "definitions": {
+    "SEIZE": {
+      "word": "SEIZE",
+      "phonetic": "(sEz)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to grab, take, grasp, snatch </p><p>SEIZE means “to take suddenly and by force,” to <i class=“def-ital\">grab</i> or <i class=“def-ital\">snatch</i>. </p><p>“The child SEIZED the piece of candy and ran off with it.” </p><p>SEIZE is often used about grabbing a chance or opportunity. </p><p>“I will SEIZE every chance I get to practice skating.” </p><p>The noun from SEIZE is SEIZURE. </p><p>“He said that the police’s SEIZURE of his car was illegal.” </p><p><i class=“def-ital\">Find</i> is the most commonly chosen wrong answer in the Pretest. <i class=“def-ital\">Finding</i> something is not the same as SEIZING it, however. </p><p>Other forms of the word: SEIZURE, n.</p>"
+    },
+    "GAINFUL": {
+      "word": "GAINFUL",
+      "phonetic": "(gAn'-fal)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">producing a gain, profitable </p><p>A GAIN is an increase or a profit. </p><p>“The stock market made a GAIN of five points yester- day.” </p><p>Something which is GAINFUL produces a GAIN. () GAINFUL is used about jobs, businesses, and similar activities which earn money for the person doing them. </p><p>“After years of doing only volunteer work, she decided to seek GAINFJJL employment.” </p><p>“He was good at what he did, but it wasn’t a very GAINFUL trade.” </p><p>Other forms of the word: GAIN, n., v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ful</i> under Suffixes."
+      ]
+    },
+    "INDUSTRIOUS": {
+      "word": "INDUSTRIOUS",
+      "phonetic": "(in-duhs'-trE-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">hardworking, diligent, busy  </p><p>One meaning of the word INDUSTRY is “steady attention to business,” <i class=“def-ital\">hard work</i>. </p><p>“His success was due to years of steady INDUSTRY.” </p><p>INDUSTRIOUS means “full of INDUSTRY,” <i class=“def-ital\">hardworking</i>, and is used about people.  </p><p>“He was a very INDUSTRIOUS student; he always seemed to be doing his homework.” </p><p>“You will have to be more INDUSTRIOUS in doing your job if you want to get a raise.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">brilliant</i>. This is perhaps due to a confusion between INDUSTRIOUS and <i class=“def-ital\">illustrious</i>. <i class=“def-ital\">Illustrious</i> means <i class=“def-ital\">famous, distinguished</i>. </p><p>“You should be INDUSTRIOUS if you ever hope to become <i class=“def-ital\">illustrious</i>.” </p><p>Other forms of the word: INDUSTRY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "MANIAC": {
+      "word": "MANIAC",
+      "phonetic": "(mA'-nE-ak)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a madman, lunatic </p><p>MANIA is a violent form of insanity or madness. A MAN- IAC is a raving madman. </p><p>“That MANIAC is chopping down all the trees in the parks.” </p><p>Often MANIA is used in a weaker sense to mean “extreme enthusiasm,” a <i class=“def-ital\">craze</i>. </p><p>“There was a sudden MANIA for collecting match- book covers.” </p><p>MANIAC is also sometimes used in this weaker sense. </p><p>“He was a MANIAC for playing pinball. You couldn’t drag him away from the machine.</p><p>” Other forms of the word: MANIA, n.</p>"
+    },
+    "OMIT": {
+      "word": "OMIT",
+      "phonetic": "(O-mit')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to leave out, leave undone </p><p>To OMIT something is to leave it out, to fail to include it or do it. </p><p>“She OMITTED my name from the list.” </p><p>“I OMITTED doing my homework last night.” </p><p>“Please OMIT the first two pages and start with the third.” </p><p>An OMISSION is an act of leaving out. </p><p>“We were all upset by the OMISSION of his name from the list.” </p><p>Other forms of the word: OMISSION, n.</p>"
+    },
+    "MYSTIFY": {
+      "word": "MYSTIFY",
+      "phonetic": "(mis'-t:>-fl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to puzzle, make mysterious, confuse, baffle </p><p>MYSTIFY is the verb form of MYSTERY.  To MYSTIFY means to <i class=“def-ital\">make mysterious</i>; if you are MYSTIFIED, you are completely puzzled. </p><p>“Does the difference between a prefix and a suffix MYSTIFY you?” </p><p>“The magician MYSTIFIES us with his tricks.” </p><p>“The police were MYSTIFIED by the unusual case. They didn’t know how to go about solving it.” </p><p>Other forms of the word: MYSTERIOUS, adj. </p><p>MYSTERY, n. </p><p>MYSTIFICATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-fy</i> under Suffixes."
+      ]
+    },
+    "ORIGINAL": {
+      "word": "ORIGINAL",
+      "phonetic": "(:>-rij'-:>-nÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">first, earliest, new </p><p>The ORIGIN of something is its starting point, its beginning. </p><p>“What is the ORIGIN of the custom of giving gifts at Christmas?\"</p><p>ORIGINAL means “having to do with a beginning.”  Sometimes ORIGINAL gives the idea of first or earliest. </p><p>“She had the ORIGINAL idea, then everyone else copied her.” </p><p>Sometimes the word gives the idea of new or fresh. </p><p>“There were many ORIGINAL costumes at the party. No one had ever seen anything like them before.” </p><p>Other forms of the word: ORIGIN, n.</p><p>ORIGINALITY, n.</p><p>ORIGINATE, v.</p>",
+      "suffix": [
+        "See -al under Suffixes."
+      ]
+    },
+    "PREY": {
+      "word": "PREY",
+      "phonetic": "(prA)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a victim </p><p>Animals which are or can be killed and eaten by other animals are called PREY. </p><p>“The worm is the usual PREY of the robin.</p><p>” People can also be PREY when they are the victim of a criminal, a disease, or the like. </p><p>“The pickpocket carefully chose his PREY in the crowd.</p><p>” To “fall PREY to” something is to become a victim of it. “Everyone in the family fell PREY to the illness.</p><p>” PREY is also used as a verb. </p><p>“The wolf PREYS upon the herds of sheep.”</p>"
+    },
+    "REBOUND": {
+      "word": "REBOUND",
+      "phonetic": "(ri-bownd'",
+      "pos": "or",
+      "deftext": "<p class=\"definition\">rE-bownd’) v.: to bounce back, spring back </p><p> To <i class=“def-ital\">bound</i> is to bounce or leap. To REBOUND is to bounce back, like a ball when it is thrown against something. </p><p>“The golf ball REBOUNDED from the tree and hit him on the head.</p><p>” REBOUND is also used about someone or something that “bounces back” from a disappointment or setback. </p><p>“The movie industry is starting to REBOUND after several years of losing money.” </p><p>“Stan REBOUNDED from his illness to become more active than ever.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">re-</i> under Prefixes."
+      ]
+    },
+    "SCAMPER": {
+      "word": "SCAMPER",
+      "phonetic": "(skam'-pÔøΩr)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to run quickly, scurry, move hastily </p><p>SCAMPER means “to run quickly or playfully,” to <i class=“def-ital\">scurry about</i>. </p><p>“The children SCAMPERED about the lawn as they played tag.” </p><p>“The mice SCAMPERED toward the hole when I turned on the light.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">jump up</i>. SCAMPER is used just about running, not jumping.</p>"
+    },
+    "SNARL": {
+      "word": "SNARL",
+      "phonetic": "(snahrl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to growl, bare the teeth, speak harshly </p><p>SNARL means to <i class=“def-ital\">growl</i> or <i class=“def-ital\">bare one’s teeth</i> like a dog. SNARLING indicates anger or hostility. </p><p>“The dog SNARLED at the cat to keep her away from the food.” </p><p>“The watchdog SNARLED in warning, so we went no further.” </p><p>When people SNARL, they don’t usually bare their teeth, but they do speak with a growling sound, to express their anger or irritation. </p><p>“The man SNARLED at the children in his usual un- pleasant manner.” </p><p>SNARL is also a noun. </p><p>“The bad-tempered lady replied to his suggestion with a SNARL.”</p>"
+    },
+    "OBSTACLE": {
+      "word": "OBSTACLE",
+      "phonetic": "(ob'-stÔøΩkÔøΩI)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a barrier, hindrance, obstruction </p><p>An OBSTACLE is something that stands in the way of something else, something which stops progress or makes it difficult. </p><p>“They kept putting OBSTACLES in my way as I tried to walk up to the front of the room.” </p><p>An OBSTACLE does not have to be a physical object. </p><p>“Our game with Jefferson High is the only OBSTACLE left between us and the championship.” </p><p>“There are many OBSTACLES facing a person who tries to solve the problem of hunger in the world.”</p>"
+    },
+    "SWAY": {
+      "word": "SWAY",
+      "phonetic": "(swA)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to swing, move to and fro; to influence </p><p>SWAY means “to swing back and forth” the way trees do when the wind blows them. </p><p>“The flowers were SWAYING in the gentle breeze.” </p><p>“She was probably dizzy, because she SWAYED when she stood up.” </p><p>SWAY also has the meaning of <i class=“def-ital\">control</i> or <i class=“def-ital\">influence</i>. If you can SWAY something, then you can control its movement. </p><p>“The reporter tried to SWAY public opinion by writing misleading articles about the candidate.” </p><p>“Sam was SWAYED by their appeals, and finally agreed to help them.”</p>"
+    },
+    "WITHER": {
+      "word": "WITHER",
+      "phonetic": "(wi'-TH:;,r)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to dry up, waste away </p><p>When something WITHERS it dries up, it becomes stale and lifeless. |n“Without water, the plants WITHERED.” </p><p>“His hope of success WITHERED as he grew older.</p><p>” To WITHER something is to make it dry up or become lifeless. </p><p>“Old age WITHERED her once great beauty.” </p><p>WITHERING is an adjective which means “able to devastate, destroy, or stun.” </p><p>“The WITHERING fire from the machine guns halted the soldiers’ advance.</p><p>” A “WITHERING glance” is a look which is intended to stun a person or make him unable to act. </p><p>“Susan’s WITHERING glance stopped Bob in his tracks.” </p><p>Other forms of the word: WITHERING, adj.</p>"
+    },
+    "IGNITE": {
+      "word": "IGNITE",
+      "phonetic": "(ig-nlt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to set on fire, cause to burn; to catch fire, begin to burn </p><p>To IGNITE something is to set fire to it. </p><p>“The burning cigarette IGNITED the straw.” </p><p>“He IGNITED the blaze with just one match.</p><p>” When something IGNITES, it begins to burn. </p><p>“When we threw on a few matches, the fire IGNITED.” </p><p>IGNITE is also used in a broader sense to mean to <i class=“def-ital\">excite, inflame</i>. </p><p>“Carol’s speech IGNITED the crowd’s enthusiasm.”</p>"
+    }
+  },
+  "id": "2",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "SEIZE it.",
+          "answers": [
+            "want",
+            "keep",
+            "grab",
+            "find",
+            "need"
+          ],
+          "word": "SEIZE",
+          "correct": "grab"
+        },
+        {
+          "prompt": "GAINFUL employment.",
+          "answers": [
+            "harsh",
+            "profitable",
+            "useless",
+            "possible",
+            "pleasant"
+          ],
+          "word": "GAINFUL",
+          "correct": "profitable"
+        },
+        {
+          "prompt": "INDUSTRIOUS men.",
+          "answers": [
+            "lazy",
+            "low-paid",
+            "brilliant",
+            "dirty",
+            "hardworking"
+          ],
+          "word": "INDUSTRIOUS",
+          "correct": "hardworking"
+        },
+        {
+          "prompt": "Afraid of the MANIAC.",
+          "answers": [
+            "computer",
+            "murderer",
+            "madman",
+            "disease",
+            "policeman"
+          ],
+          "word": "MANIAC",
+          "correct": "madman"
+        },
+        {
+          "prompt": "OMIT the last section.",
+          "answers": [
+            "leave out",
+            "rewrite",
+            "reduce",
+            "send",
+            "put in"
+          ],
+          "word": "OMIT",
+          "correct": "leave out"
+        },
+        {
+          "prompt": "They MYSTIFY me.",
+          "answers": [
+            "show",
+            "chase",
+            "shame",
+            "puzzle",
+            "hurt"
+          ],
+          "word": "MYSTIFY",
+          "correct": "puzzle"
+        },
+        {
+          "prompt": "The ORIGINAL inhabitants.",
+          "answers": [
+            "evil",
+            "first",
+            "pure",
+            "early",
+            "newest"
+          ],
+          "word": "ORIGINAL",
+          "correct": "first"
+        },
+        {
+          "prompt": "Found his PREY.",
+          "answers": [
+            "victim",
+            "pet",
+            "companion",
+            "weapon",
+            "opponent"
+          ],
+          "word": "PREY",
+          "correct": "victim"
+        },
+        {
+          "prompt": "To REBOUND quickly.",
+          "answers": [
+            "fall off",
+            "jump",
+            "spring back",
+            "stop",
+            "tie up"
+          ],
+          "word": "REBOUND",
+          "correct": "spring back"
+        },
+        {
+          "prompt": "The children SCAMPER.",
+          "answers": [
+            "hide",
+            "run quickly",
+            "laugh loudly",
+            "sit still",
+            "jump up"
+          ],
+          "word": "SCAMPER",
+          "correct": "run quickly"
+        },
+        {
+          "prompt": "Heard him SNARL.",
+          "answers": [
+            "choke",
+            "whine",
+            "laugh",
+            "shout",
+            "growl"
+          ],
+          "word": "SNARL",
+          "correct": "growl"
+        },
+        {
+          "prompt": "Certain OBSTACLES.",
+          "answers": [
+            "crimes",
+            "threats",
+            "aids",
+            "barriers",
+            "mistakes"
+          ],
+          "word": "OBSTACLE",
+          "correct": "barriers"
+        },
+        {
+          "prompt": "SWAY in the breeze.",
+          "answers": [
+            "stand",
+            "dance",
+            "swing",
+            "fly",
+            "wander"
+          ],
+          "word": "SWAY",
+          "correct": "swing"
+        },
+        {
+          "prompt": "It may WITHER.",
+          "answers": [
+            "dry up",
+            "darken",
+            "cave in",
+            "continue",
+            "grow"
+          ],
+          "word": "WITHER",
+          "correct": "dry up"
+        },
+        {
+          "prompt": "The log IGNITED.",
+          "answers": [
+            "changed color",
+            "dried out",
+            "fell apart",
+            "caught fire",
+            "became wet"
+          ],
+          "word": "IGNITE",
+          "correct": "caught fire"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is it polite to SEIZE something from someone else?",
+          "word": "SEIZE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a paying job a form of GAINFUL employment?",
+          "word": "GAINFUL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do teachers usually like INDUSTRIOUS pupils?",
+          "word": "INDUSTRIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a MANIAC a normal person?",
+          "word": "MANIAC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do people usually OMIT pages when reading a book?",
+          "word": "OMIT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Should a teacher MYSTIFY his students?",
+          "word": "MYSTIFY",
+          "correct": "false"
+        },
+        {
+          "prompt": "If something is ORIGINAL, has it ever been done before?",
+          "word": "ORIGINAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do tigers hunt PREY?",
+          "word": "PREY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a stone REBOUND when it is dropped into the water?",
+          "word": "REBOUND",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would some adults be able to SCAMPER?",
+          "word": "SCAMPER",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a dog's SNARL a sign of anger?",
+          "word": "SNARL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it sometimes possible to get past an OBSTACLE?",
+          "word": "OBSTACLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do dancers sometimes SWAY?",
+          "word": "SWAY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does rain make plants WITHER?",
+          "word": "WITHER",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can a match IGNITE a forest fire?",
+          "word": "IGNITE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "He SEIZED us to agree with him on the subject.",
+          "word": "SEIZE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Al didn't do any GAINFUL work until he was in his early thirties.",
+          "word": "GAINFUL",
+          "correct": "true"
+        },
+        {
+          "prompt": "His first job when he arrived in this country was in an INDUSTRIOUS steel mill.",
+          "word": "INDUSTRIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "He drove like a MANIAC; we were all frightened to be in the car with him.",
+          "word": "MANIAC",
+          "correct": "true"
+        },
+        {
+          "prompt": "We were shocked by the OMISSION of these great athletes from the all-star team.",
+          "word": "OMIT",
+          "correct": "true"
+        },
+        {
+          "prompt": "I am MYSTIFIED by your unusual behavior.",
+          "word": "MYSTIFY",
+          "correct": "true"
+        },
+        {
+          "prompt": "This was. the most ORIGINAL idea for a party that I've heard in a long time.",
+          "word": "ORIGINAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "After losing ten games in a row, the team fell PREY to doubts about its ability.",
+          "word": "PREY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The ball REBOUNDED from the wall and came straight back to him.",
+          "word": "REBOUND",
+          "correct": "true"
+        },
+        {
+          "prompt": "The kitten SCAMPERED around the room chasing the ball of yarn.",
+          "word": "SCAMPER",
+          "correct": "true"
+        },
+        {
+          "prompt": "When Helen opened the present, she SNARLED with delight.",
+          "word": "SNARL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Lack of a college degree was a major OBSTACLE between Cynthia and success.",
+          "word": "OBSTACLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jack's opinions were SWAYED by everything he read or heard.",
+          "word": "SWAY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The long illness had WITHERED him: he was only fifty years old but he looked eighty.",
+          "word": "WITHER",
+          "correct": "true"
+        },
+        {
+          "prompt": "We managed to IGNITE the fire by pouring water on it.",
+          "word": "IGNITE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "SEIZE",
+          "answers": [
+            "want",
+            "steal",
+            "take"
+          ],
+          "word": "SEIZE",
+          "correct": "0"
+        },
+        {
+          "prompt": "GAINFUL",
+          "answers": [
+            "delightful",
+            "profitable",
+            "beneficial"
+          ],
+          "word": "GAINFUL",
+          "correct": "0"
+        },
+        {
+          "prompt": "INDUSTRIOUS",
+          "answers": [
+            "busy",
+            "active",
+            "strong"
+          ],
+          "word": "INDUSTRIOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "MANIAC",
+          "answers": [
+            "madman",
+            "doctor",
+            "criminal"
+          ],
+          "word": "MANIAC",
+          "correct": "1"
+        },
+        {
+          "prompt": "OMIT",
+          "answers": [
+            "miss",
+            "skip",
+            "choose"
+          ],
+          "word": "OMIT",
+          "correct": "2"
+        },
+        {
+          "prompt": "MYSTIFY",
+          "answers": [
+            "confuse",
+            "puzzle",
+            "insult"
+          ],
+          "word": "MYSTIFY",
+          "correct": "2"
+        },
+        {
+          "prompt": "ORIGINAL",
+          "answers": [
+            "nice",
+            "fresh",
+            "new"
+          ],
+          "word": "ORIGINAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "PREY",
+          "answers": [
+            "victim",
+            "food",
+            "play"
+          ],
+          "word": "PREY",
+          "correct": "2"
+        },
+        {
+          "prompt": "REBOUND",
+          "answers": [
+            "stop",
+            "bounce",
+            "return"
+          ],
+          "word": "REBOUND",
+          "correct": "0"
+        },
+        {
+          "prompt": "SCAMPER",
+          "answers": [
+            "limp",
+            "chase",
+            "run"
+          ],
+          "word": "SCAMPER",
+          "correct": "0"
+        },
+        {
+          "prompt": "SNARL",
+          "answers": [
+            "choke",
+            "snap",
+            "growl"
+          ],
+          "word": "SNARL",
+          "correct": "0"
+        },
+        {
+          "prompt": "OBSTACLE",
+          "answers": [
+            "ruin",
+            "bother",
+            "obstruction"
+          ],
+          "word": "OBSTACLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "SWAY",
+          "answers": [
+            "influence",
+            "fall",
+            "swing"
+          ],
+          "word": "SWAY",
+          "correct": "1"
+        },
+        {
+          "prompt": "WITHER",
+          "answers": [
+            "divide",
+            "shrink",
+            "crumble"
+          ],
+          "word": "WITHER",
+          "correct": "0"
+        },
+        {
+          "prompt": "IGNITE",
+          "answers": [
+            "drive",
+            "burn",
+            "excite"
+          ],
+          "word": "IGNITE",
+          "correct": "0"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

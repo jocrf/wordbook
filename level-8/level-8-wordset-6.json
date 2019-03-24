@@ -1,0 +1,605 @@
+{
+  "title": "8.6",
+  "definitions": {
+    "NASCENT": {
+      "word": "NASCENT",
+      "phonetic": "(nas'-::mt",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">beginning to exist, incipient </p><p>NASCENT comes from a Latin word meaning to <i class=“def-ital\">be born</i>, and is related to such words as <i class=“def-ital\">natal</i> and <i class=“def-ital\">native</i>. Something that is NASCENT is just beginning to be born, is coming into existence. </p><p>“Jane’s parents try to encourage her NASCENT interest in classical music.” </p><p>“The NASCENT solar energy industry was greatly aided by the oil shortage.” </p><p>“The country’s NASCENT war fever died down after the destruction of its fleet.” </p><p><i class=“def-ital\">Changing</i> is the most commonly chosen wrong answer on the Pretest. Something that is NASCENT is changing, but in a particular way: it is beginning to exist. </p><p>Other forms of the word: NASCENCE, n. NASCENCY, n.</p>"
+    },
+    "PHLEGMATIC": {
+      "word": "PHLEGMATIC",
+      "phonetic": "(fleg-mat'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unemotional, impassive, undemonstrative </p><p>PHLEGMATIC is the adjective from PHLEGM (flem), which today means specifically <i class=“def-ital\">mucus</i>, but in medieval theory was considered one of the four “humors” or fluids of the body that were supposed to determine a person’s disposition. PHLEGM was thought to cause sluggishness and lack of emotion. PHLEGMATIC therefore means “difficult to arouse,” <i class=“def-ital\">impassive</i>, <i class=“def-ital\">sluggish</i>. </p><p>“Bob’s aloofness makes him seem PHLEGMATIC but really he is only shy.” </p><p>“The lofty spires of the cathedral thrilled Peggy, but left her more PHLEGMATIC husband totally unmoved.” </p><p>“The speaker hoped to arouse his audience’s passions, and was disappointed by its PHLEGMATIC response.” </p><p><i class=“def-ital\">Sickly</i> is the most commonly chosen wrong answer, probably because people are misled by the PHLEGM part of PHLEGMATIC. </p><p>Other forms of the word: PHLEGM, n.</p>"
+    },
+    "PRECIPITOUS": {
+      "word": "PRECIPITOUS",
+      "phonetic": "(pri-sip'-ÔøΩ-tÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">extremely steep </p><p>PRECIPITOUS is the adjective from PRECIPICE, a cliff with a vertical face. It means <i class=“def-ital\">steep</i>, nearly vertical. </p><p>“The mountain presented a PRECIPITOUS wall of rock on its eastern face.” </p><p>“We realized that we had come to the edge of the cliff and had nearly had a PRECIPITOUS fall.” </p><p><i class=“def-ital\">Dangerous</i> and <i class=“def-ital\">threatening</i> are two very common wrong answers. Something that is PRECIPITOUS is probably both dangerous and threatening, but PRECIPITOUS means only <i class=“def-ital\">steep</i>. </p><p>Other forms of the word: PRECIPICE, n.</p>"
+    },
+    "BADINAGE": {
+      "word": "BADINAGE",
+      "phonetic": "(bad-ÔøΩ-nah",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">banter, light repartee </p><p>BADINAGE is lighthearted, playful banter, playful kidding. </p><p>“Their BADINAGE was very entertaining: witty puns and playful insults bounced back and forth like tennis balls.” </p><p>“Even if they don’t look alike, the BADINAGE in their conversation marks them as brother and sister: only siblings are so affectionately disrespectful.”</p>"
+    },
+    "COLLOQUY": {
+      "word": "COLLOQUY",
+      "phonetic": "(kol'-ÔøΩ-kwE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a conference, formal conversation </p><p>COLLOQUY comes from a Latin word meaning to <i class=“def-ital\">speak together</i>.  The <i class=“def-ital\">loqu</i> root is also found in such words as <i class=“def-ital\">colloquial</i> and <i class=“def-ital\">loquacity</i>. A COLLOQUY is a conversation or a dialogue, especially one that is serious or at a high level. </p><p>“The COLLOQUY between the heads of state went on for several hours.” </p><p>“The labor-management COLLOQUY was amicable, but failed to resolve their differences.” </p><p><i class=“def-ital\">Expression</i> and <i class=“def-ital\">lecture <i class=“def-ital\">are both commonly chosen wrong answers. Both deal with speaking, but neither involve speaking <i class=“def-ital\">together</i>.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">col-</i> under Prefixes."
+      ]
+    },
+    "HEGEMONY": {
+      "word": "HEGEMONY",
+      "phonetic": "(hi-jem'-3-nE",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">dominance, predominance, leadership </p><p>HEGEMONY is dominance or preponderant influence. The word is used especially about the dominance of one country over others in a particular area. </p><p>“China sought to establish its HEGEMONY in Southeast Asia.” </p><p>“Athens and Sparta vied for HEGEMONY in ancient Greece.” </p><p>“The tribe’s HEGEMONY in the area crumbled with the arrival of the European colonists.”</p>"
+    },
+    "OSTENSIBLE": {
+      "word": "OSTENSIBLE",
+      "phonetic": "(o-sten'-s3-b31)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">pretended, seeming, apparent </p><p>OSTENSIBLE comes from a Latin word meaning to <i class=“def-ital\">show</i>; it is related to the word <i class=“def-ital\">ostentation</i>, which is boastful showiness. OSTENSIBLE originally meant “open to view; able to be seen,” but in modern use it suggests that what is apparent on the surface is not true underneath, that there is a hidden purpose or character to something. </p><p>“Ralph’s OSTENSIBLE business was television repair, but he was really a smuggler.” </p><p>“The OSTENSIBLE purpose of her visit was to welcome them to the neighborhood, but she really just wanted to see how rich they were.” </p><p>“He is OSTENSIBLY an accountant, but in fact he is a daring secret agent.” </p><p><i class=“def-ital\">Reasonable</i> is the most commonly chosen wrong answer, perhaps because it sounds somewhat like OSTENSIBLE, perhaps because something that is OSTENSIBLE appears reasonable, even if it is not true.</p>"
+    },
+    "PERIPATETIC": {
+      "word": "PERIPATETIC",
+      "phonetic": "(per-3-p3-tet'-ik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">walking about, itinerant </p><p>The Greek philosopher Aristotle taught his followers while walking about the Lyceum, a school of ancient Athens. These followers came to be called PERIPATETICS, after a Greek word meaning “to walk around,” and the word was also applied to Aristotle’s philosophy. The word then came to be used about anyone who wanders about, especially in connection with his or her calling. </p><p>“The PERIPATETIC actors wandered through the countryside, performing in every town they entered.” </p><p>The word can also be used about something that is carried on while one moves about. </p><p>“The two travelers had a PERIPATETIC debate about the merits of walking versus riding a bicycle.”</p>"
+    },
+    "PROFLIGATE": {
+      "word": "PROFLIGATE",
+      "phonetic": "(prof'-li-git)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">extravagant, wasteful; dissolute, immoral, abandoned </p><p>Someone who is PROFLIGATE is shamelessly immoral, totally given over to dissipation. </p><p>“The PROFLIGATE young noblemen wasted their lives gambling and drinking.” </p><p>Very often the word refers only to a person’s spending and wastefulness, and means “recklessly extravagant.” </p><p>“The heiress was so PROFLIGATE that she soon spent her inheritance.” </p><p>“The mayor’s PROFLIGATE spending ultimately meant that taxes had to be increased.” </p><p>PROFLIGATE is also a noun, meaning “an extravagant or immoral person.” </p><p>“These young PROFLIGATES will never come to anything unless they mend their ways.” </p><p>Other forms of the word: PROFLIGACY, n.</p>"
+    },
+    "PUTATIVE": {
+      "word": "PUTATIVE",
+      "phonetic": "(pyU'-t3-tiv)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">supposed, reputed </p><p>PUTATIVE comes from a Latin word meaning “to consider,” the source also of the English words <i class=“def-ital\">dispute</i>, <i class=“def-ital\">impute</i>, <i class=“def-ital\">repute</i>, and <i class=“def-ital\">compute</i>. PUTATIVE refers to something that is commonly believed but is not proven, so that the speaker has some doubts about its truth: something that is <i class=“def-ital\">supposed</i> to be true, but not assured to be. </p><p>“This secretary has good references, but her PUTATIVE skills are nonexistent: she can’t type or do shorthand.” </p><p>“Many people were executed even though their PUTATIVE treasons had been only half-baked dreams of revolution.” </p><p>“Shakespeare is the PUTATIVE author of the play, but the evidence in his favor is somewhat contradictory.”</p>"
+    },
+    "RAILLERY": {
+      "word": "RAILLERY",
+      "phonetic": "(rA'-lgr-E)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">banter, good-natured teasing </p><p>RAILLERY is related to the verb to <i class=“def-ital\">rail</i>, which means to <i class=“def-ital\">speak bitterly</i>, to <i class=“def-ital\">abuse verbally</i>. RAILLERY is softer; it is good-natured teasing, pleasant banter with a touch of sarcasm. </p><p>“The throwing of the bride’s bouquet was accompanied by some RAILLERY about old maids.” </p><p>“The RAILLERY of his buddies on his sixtieth birthday bothered the man not at all.” </p><p>“The two young men got into a fight when what had started as good-natured RAILLERY took on a sharper edge.”</p>"
+    },
+    "DISSEMBLE": {
+      "word": "DISSEMBLE",
+      "phonetic": "(di-sem'-bgl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to disguise, pretend, feign </p><p>To DISSEMBLE is to conceal one’s true identity or purpose, usually in order to deceive someone. </p><p>“When asked why he was in the off-limits area, the spy was forced to DISSEMBLE and said that he had gotten lost.” </p><p>When used as a transitive verb, DISSEMBLE means “to cloak the true appearance of,” to <i class=“def-ital\">disguise</i>. </p><p>“She DISSEMBLED her anxiety by laughing gaily and trying to appear unconcerned.” </p><p>“It was impossible to DISSEMBLE his exultation at the defeat of his enemy.” </p><p><i class=“def-ital\">Destroy</i> is a commonly chosen wrong answer, possibly because of confusion with the word <i class=“def-ital\">disassemble</i>.</p>"
+    },
+    "EXPATIATE": {
+      "word": "EXPATIATE",
+      "phonetic": "(ek-spA'-shE-At)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to elaborate, dilate, discourse </p><p>EXPATIATE is related to the words <i class=“def-ital\">space</i> and <i class=“def-ital\">spatial</i>. To EXPATIATE was originally used about physical movement and meant “to move about freely.” The word is now used only in a figurative sense about wide-ranging and lengthy speech. </p><p>“The orator EXPATIATED on the virtues of ancient Athens.” </p><p>“The teacher EXPATIATED upon the difference between participles and gerunds.” </p><p>“Realizing he had an hour to fill, the speaker had to EXPATIATE at great length upon the topic.” </p><p>Other forms of the word: EXPATIATION, n.</p>"
+    },
+    "MACERATE": {
+      "word": "MACERATE",
+      "phonetic": "(mas'-g-rAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to soften, to emaciate </p><p>To MACERATE something is to soften it or to separate it into its parts by steeping it in a liquid. </p><p>“The process involves MACERATING the tree bark in water for several hours.” </p><p>“The tough grass MACERATED in the cow’s stomach.” </p><p>The word is also occasionally used about the wasting away of a person’s flesh due to fasting, worry, or illness. </p><p>“His long suffering has MACERATED his flesh, and now he is nothing but skin and bones.”</p>"
+    },
+    "MAELSTROM": {
+      "word": "MAELSTROM",
+      "phonetic": "(mAl'-strgm)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a whirlpool </p><p>MAELSTROM was originally the name of a very powerful whirlpool off the coast of Norway; now it is applied to any especially violent or dangerous whirlpool. </p><p>“The ship’s captain awoke from a nightmare in which his ship was being relentlessly sucked into a MAELSTROM.” </p><p>In an extended sense, MAELSTROM is used about any turbulent situation that is like a whirlpool, drawing people into it. </p><p>“Even the peaceful Quakers were caught up in the MAELSTROM of the war, as marauding soldiers burned their barns and pillaged their farms.” </p><p>“The exciting final inning of the game drew even the quietest spectators into the MAELSTROM of excitement.”</p>"
+    }
+  },
+  "id": "6",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "NASCENT",
+          "answers": [
+            "dying",
+            "normal",
+            "changing",
+            "flowing",
+            "incipient"
+          ],
+          "word": "NASCENT",
+          "correct": "incipient"
+        },
+        {
+          "prompt": "PHLEGMATIC",
+          "answers": [
+            "unemotional",
+            "excitable",
+            "practical",
+            "serene",
+            "sickly"
+          ],
+          "word": "PHLEGMATIC",
+          "correct": "unemotional"
+        },
+        {
+          "prompt": "PRECIPITOUS",
+          "answers": [
+            "narrow",
+            "steep",
+            "dangerous",
+            "level",
+            "threatening"
+          ],
+          "word": "PRECIPITOUS",
+          "correct": "steep"
+        },
+        {
+          "prompt": "BADINAGE",
+          "answers": [
+            "debris",
+            "injury",
+            "banter",
+            "confusion",
+            "debate"
+          ],
+          "word": "BADINAGE",
+          "correct": "banter"
+        },
+        {
+          "prompt": "COLLOQUY",
+          "answers": [
+            "expression",
+            "memory",
+            "collection",
+            "conference",
+            "lecture"
+          ],
+          "word": "COLLOQUY",
+          "correct": "conference"
+        },
+        {
+          "prompt": "HEGEMONY",
+          "answers": [
+            "slavery",
+            "ritual",
+            "dominance",
+            "property",
+            "expansion"
+          ],
+          "word": "HEGEMONY",
+          "correct": "dominance"
+        },
+        {
+          "prompt": "OSTENSIBLE",
+          "answers": [
+            "important",
+            "reasonable",
+            "pretended",
+            "incorrect",
+            "possible"
+          ],
+          "word": "OSTENSIBLE",
+          "correct": "pretended"
+        },
+        {
+          "prompt": "PERIPATETIC",
+          "answers": [
+            "itinerant",
+            "constant",
+            "pitiful",
+            "academic",
+            "curious"
+          ],
+          "word": "PERIPATETIC",
+          "correct": "itinerant"
+        },
+        {
+          "prompt": "PROFLIGATE",
+          "answers": [
+            "illegal",
+            "extravagant",
+            "religious",
+            "rude",
+            "generous"
+          ],
+          "word": "PROFLIGATE",
+          "correct": "extravagant"
+        },
+        {
+          "prompt": "PUTATIVE",
+          "answers": [
+            "unexpected",
+            "former",
+            "uncertain",
+            "supposed",
+            "possible"
+          ],
+          "word": "PUTATIVE",
+          "correct": "supposed"
+        },
+        {
+          "prompt": "RAILLERY",
+          "answers": [
+            "fantasy",
+            "anger",
+            "comedy",
+            "complaining",
+            "banter"
+          ],
+          "word": "RAILLERY",
+          "correct": "banter"
+        },
+        {
+          "prompt": "to DISSEMBLE",
+          "answers": [
+            "confuse",
+            "enlighten",
+            "disguise",
+            "destroy",
+            "embezzle"
+          ],
+          "word": "DISSEMBLE",
+          "correct": "disguise"
+        },
+        {
+          "prompt": "to EXPATIATE",
+          "answers": [
+            "refuse",
+            "elaborate",
+            "insist",
+            "curse",
+            "fantasize"
+          ],
+          "word": "EXPATIATE",
+          "correct": "elaborate"
+        },
+        {
+          "prompt": "to MACERATE",
+          "answers": [
+            "soften",
+            "toughen",
+            "torment",
+            "destroy",
+            "stretch"
+          ],
+          "word": "MACERATE",
+          "correct": "soften"
+        },
+        {
+          "prompt": "MAELSTROM",
+          "answers": [
+            "icy wind",
+            "tornado",
+            "flood",
+            "iceberg",
+            "whirlpool"
+          ],
+          "word": "MAELSTROM",
+          "correct": "whirlpool"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Does a NASCENT actor have a lot of experience?",
+          "word": "NASCENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a PHLEGMATIC person be demonstrative?",
+          "word": "PHLEGMATIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a hillock PRECIPITOUS?",
+          "word": "PRECIPITOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is BADINAGE harmful?",
+          "word": "BADINAGE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a monologue a COLLOQUY?",
+          "word": "COLLOQUY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Did Napoleon seek French HEGEMONY in Europe?",
+          "word": "HEGEMONY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would having OSTENSIBLE purposes appeal to a secret agent?",
+          "word": "OSTENSIBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a traveling salesman be called PERIPATETIC?",
+          "word": "PERIPATETIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a PROFLIGATE person become penniless?",
+          "word": "PROFLIGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a PUTATIVE solution be incorrect?",
+          "word": "PUTATIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can RAILLERY be fun?",
+          "word": "RAILLERY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people who lie DISSEMBLE?",
+          "word": "DISSEMBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is brevity a characteristic of people who like to EXPATIATE?",
+          "word": "EXPATIATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can food MACERATE?",
+          "word": "MACERATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a ship in a MAELSTROM be in danger?",
+          "word": "MAELSTROM",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Her NASCENT interest in bullfighting finally led to a trip to Spain.",
+          "word": "NASCENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Even the most exciting game doesn't seem to arouse the PHLEGMATIC coach.",
+          "word": "PHLEGMATIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "We refused to climb the PRECIPITOUS slope of the mountain.",
+          "word": "PRECIPITOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The BADINAGE between the old classmates at the high school was fast and furious.",
+          "word": "BADINAGE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Neither side had much to say to the other, so the COLLOQUY had to be considered a failure.",
+          "word": "COLLOQUY",
+          "correct": "true"
+        },
+        {
+          "prompt": "Few Americans would like to see Communist HEGEMONY in Western Europe.",
+          "word": "HEGEMONY",
+          "correct": "true"
+        },
+        {
+          "prompt": "It is perfectly OSTENSIBLE of you not to want to come with us.",
+          "word": "OSTENSIBLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "They held their PERIPATETIC debate during their long walks in the woods.",
+          "word": "PERIPATETIC",
+          "correct": "true"
+        },
+        {
+          "prompt": "The nation's PROFLIGATE use of its oil supplies caused a severe shortage.",
+          "word": "PROFLIGATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The PUTATIVE scientific breakthrough turned out to be nothing more than a hoax.",
+          "word": "PUTATIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Mary doesn't mind her brother's RAILLERY because she knows he loves her.",
+          "word": "RAILLERY",
+          "correct": "true"
+        },
+        {
+          "prompt": "The interviewer was used to people DISSEMBLING, and quickly spotted the man as a phony.",
+          "word": "DISSEMBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Mrs. Porter EXPATIATED us to try her brownies.",
+          "word": "EXPATIATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The sharp blade of the sword MACERATED his arm.",
+          "word": "MACERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Everyone became involved in the MAELSTROM of controversy surrounding the building of the new power plant.",
+          "word": "MAELSTROM",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "NASCENT",
+          "answers": [
+            "beginning",
+            "growing",
+            "dying"
+          ],
+          "word": "NASCENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "PHLEGMATIC",
+          "answers": [
+            "lethargic",
+            "dull",
+            "upset"
+          ],
+          "word": "PHLEGMATIC",
+          "correct": "2"
+        },
+        {
+          "prompt": "PRECIPITOUS",
+          "answers": [
+            "sheer",
+            "perpendicular",
+            "wet"
+          ],
+          "word": "PRECIPITOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "BADINAGE",
+          "answers": [
+            "ridicule",
+            "sarcasm",
+            "hate"
+          ],
+          "word": "BADINAGE",
+          "correct": "2"
+        },
+        {
+          "prompt": "COLLOQUY",
+          "answers": [
+            "discussion",
+            "speech",
+            "symposium"
+          ],
+          "word": "COLLOQUY",
+          "correct": "1"
+        },
+        {
+          "prompt": "HEGEMONY",
+          "answers": [
+            "power",
+            "leadership",
+            "wisdom"
+          ],
+          "word": "HEGEMONY",
+          "correct": "2"
+        },
+        {
+          "prompt": "OSTENSIBLE",
+          "answers": [
+            "illusory",
+            "reproducible",
+            "specious"
+          ],
+          "word": "OSTENSIBLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "PERIPATETIC",
+          "answers": [
+            "walking",
+            "wandering",
+            "wondering"
+          ],
+          "word": "PERIPATETIC",
+          "correct": "2"
+        },
+        {
+          "prompt": "PROFLIGATE",
+          "answers": [
+            "wanton",
+            "degenerate",
+            "farcical"
+          ],
+          "word": "PROFLIGATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PUTATIVE",
+          "answers": [
+            "hypothetical",
+            "dubious",
+            "actual"
+          ],
+          "word": "PUTATIVE",
+          "correct": "2"
+        },
+        {
+          "prompt": "RAILLERY",
+          "answers": [
+            "slander",
+            "mockery",
+            "teasing"
+          ],
+          "word": "RAILLERY",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISSEMBLE",
+          "answers": [
+            "revile",
+            "lie",
+            "feign"
+          ],
+          "word": "DISSEMBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "EXPATIATE",
+          "answers": [
+            "expound",
+            "expunge",
+            "explain"
+          ],
+          "word": "EXPATIATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "MACERATE",
+          "answers": [
+            "wear away",
+            "emaciate",
+            "cut"
+          ],
+          "word": "MACERATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "MAELSTROM",
+          "answers": [
+            "turbulence",
+            "cloudiness",
+            "whirlpool"
+          ],
+          "word": "MAELSTROM",
+          "correct": 1
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

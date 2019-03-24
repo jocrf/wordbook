@@ -1,0 +1,615 @@
+{
+  "title": "2.7",
+  "definitions": {
+    "PROTEST": {
+      "word": "PROTEST",
+      "phonetic": "(prO-test')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to object to, talk against, disapprove of </p><p>PROTEST is a word that has undergone a complete change of meaning. PROTEST used to mean <i class=“def-ital\">to speak</i> for something.  This use is still found in the expression “to PROTEST your innocence\"-that is, to declare or speak in favor of your innocence. Now, however, PROTEST usually means to <i class=“def-ital\">speak against</i> something. </p><p>“The loser PROTESTED the decision against him.” </p><p>“The college students PROTESTED against the war.” </p><p>“The workers PROTESTED that they weren’t paid enough.” </p><p>PROTEST is also a noun, pronounced prO’-test. </p><p>“They ignored our PROTESTS and cut down the tree anyway.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">pro-</i> under Prefixes."
+      ]
+    },
+    "ISOLATED": {
+      "word": "ISOLATED",
+      "phonetic": "(Is'-ÔøΩIAt-id)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">alone, solitary, apart </p><p>ISOLATED comes from a Latin word meaning <i class=“def-ital\">island</i>. Someone or something that is ISOLATED is cut off, like an island, from other persons or things. </p><p>“We live on a very ISOLATED farm. There’s no one else for miles around.” </p><p>“The doctors said the patient should be kept ISOLATED so that he doesn’t give the disease to anyone else.” </p><p>To ISOLATE something is to put or keep it apart from others. </p><p>“We tried to ISOLATE the problems and solve them one by one.” </p><p>Other forms of the word: ISOLATE, v.</p><p> ISOLATION, n.</p>"
+    },
+    "DEDICATED": {
+      "word": "DEDICATED",
+      "phonetic": "(ded'-ÔøΩkA-tid)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">devoted, committed, zealous </p><p>To DEDICATE something is to devote it to a particular use, person, or goal. </p><p>“She DEDICATED the book to her parents.” </p><p>“He DEDICATED his life to finding a cure for the common cold.” </p><p>Someone who is DEDICATED is devoted to a cause or a purpose. </p><p>“She is a very DEDICATED musician. She practices many hours every day.” </p><p>“They are DEDICATED to proving their father’s innocence.” </p><p>“There aren’t enough DEDICATED men in the party. Too many of them just don’t seem to care.\"</p><p> Other forms of the word: DEDICATE, v. </p><p>DEDICATION, n.</p>"
+    },
+    "FLAWLESS": {
+      "word": "FLAWLESS",
+      "phonetic": "(flo'-lis)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">perfect, faultless</p><p>A FLAW is a faulty part of something, like a crack in a dish or an imperfection in a jewel. FLAWLESS means “having no FLAW.”  “The diamond was FLAWLESS. I have never seen such a perfect stone.” </p><p>“His FLAWLESS reputation was spoiled by that one stupid act.” </p><p>“Donna memorized the poem and then recited it FLAWLESSLY to the class.” </p><p>Many people choose <i class=“def-ital\">bad</i> as the meaning of FLAWLESS. Bad is just about the opposite in meaning of FLAWLESS. People who choose it perhaps know what a FLAW is, but do not know what the suffix <i class=“def-ital\">-less</i> means. </p><p>Other forms of the word: FLAW, n. </p><p>FLAWLESSLY, adv.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-less</i> under Suffixes."
+      ]
+    },
+    "DISRUPT": {
+      "word": "DISRUPT",
+      "phonetic": "(dis-ruhpt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to break up, throw into disorder </p><p> The <i class=“def-ital\">rupt</i> part of the word means break. It is also found in words like <i class=“def-ital\">interrupt</i> and <i class=“def-ital\">rupture</i>. To DISRUPT something is to break it apart, to destroy the way it normally works. Very often the word suggests that this is only happening for a short time. </p><p>“The electrical storm DISRUPTED telephone service for several hours.” </p><p>“His angry speech DISRUPTED the conference.” </p><p>“Her attempt to teach the class was totally DISRUPTED by the noise outside.” </p><p>“The painters DISRUPTED our office completely. We didn’t know where to find anything, where to sit, or what to do.\"</p><p> Other forms of the word: DISRUPTION, n. </p><p>DISRUPTIVE, adj.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    },
+    "FULFILL": {
+      "word": "FULFILL",
+      "phonetic": "(ful-fil')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to carry out, complete, satisfy, accomplish </p><p>To FULFILL originally meant what it sounds like: to <i class=“def-ital\">fill up, make full</i>. It is no longer used in this way. Today it means to <i class=“def-ital\">do</i> something <i class=“def-ital\">fully</i>, to <i class=“def-ital\">complete</i> or <i class=“def-ital\">accomplish</i> it. </p><p>“Jane FULFILLED her promise to complete the job on time.” </p><p>“Alan has FULFILLED all the requirements for be- coming a lifeguard.” </p><p>“This product FULFILLED all our expectations. It is just what we wanted.”</p>"
+    },
+    "HORDE": {
+      "word": "HORDE",
+      "phonetic": "(hord)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a crowd, mob, throng, swarm </p><p>A HORDE was originally a wandering tribe of Mongols (an Asian people). Today HORDE is used about any large number of people or things, especially when they are rough or savage. </p><p>“HORDES of fans pushed against the gates of the stadium screaming to be let in.” </p><p>“A HORDE of children tramped through the house, leaving their dirty fingerprints on everything.”</p>"
+    },
+    "INTERNAL": {
+      "word": "INTERNAL",
+      "phonetic": "(in-tern'-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">inner, interior </p><p>INTERNAL means “having to do with the inside” of something, <i class=“def-ital\">inner</i>. </p>",
+      "prefix": [
+        "See <i class=“def-ital\">in-</i>, under Prefixes. INTERNAL injuries are injuries suffered inside the body. “The president claimed the foreign government was interfering in the INTERNAL affairs of his country.” </p><p>“They carefully removed the cover to get at the INTERNAL parts of the machine.” </p><p>The opposite of INTERNAL is <i class=“def-ital\">external</i>, which means <i class=“def-ital\">outside, outer</i>. See <i class=“def-ital\">ex</i> under Prefixes."
+      ]
+    },
+    "JUNCTION": {
+      "word": "JUNCTION",
+      "phonetic": "(juhngk'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a joining, meeting-place, union, connection </p><p>A JUNCTION is a joining, a coming together of two or more things. A JUNCTION is also a place where the joining occurs. </p><p>“They built a town at the JUNCTION of the two railroad lines\"-that is, where the two lines met and crossed. The most popular wrong answer on the Pretest is <i class=“def-ital\">dividing</i>, which is an opposite of JUNCTION.</p>"
+    },
+    "NUISANCE": {
+      "word": "NUISANCE",
+      "phonetic": "(nUs-ÔøΩns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a bother, annoyance </p><p>A NUISANCE is a person or thing that causes trouble or worry to others. </p><p>“This table is in everyone’s way. It’s nothing but a NUISANCE.” </p><p>“That boy is making a NUISANCE of himself, teasing his sister while she’s trying to do her homework.” </p><p>“The hole in the sidewalk wasn’t really dangerous, but it was a NUISANCE for us to have to walk around it all the time.” </p><p><i class=“def-ital\">Complaint</i> is the most popular wrong answer. A NUISANCE is likely to cause people to complain, but is not the <i class=“def-ital\">complaint</i> itself.</p>"
+    },
+    "LOYAL": {
+      "word": "LOYAL",
+      "phonetic": "(loy'-ÔøΩI)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">faithful, true, devoted </p><p>To be LOYAL is to be devoted or faithful to a person, cause, or ideal. </p><p>“The brave soldier was LOYAL to his country and would not reveal military secrets even under torture.” </p><p>“The LOYAL dog jumped into the river to save its drowning master.” </p><p>LOYALTY, the noun form of the word, is the quality of being faithful. </p><p>“We admired the child’s constant LOYALTY to her aged father.” </p><p>Other forms of the word: LOYALTY, n.</p>"
+    },
+    "POSSESS": {
+      "word": "POSSESS",
+      "phonetic": "(pÔøΩzes')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to have, own </p><p>To POSSESS something is to <i class=“def-ital\">have</i> it. </p><p>“She POSSESSES great wealth.” </p><p>“He POSSESSES a lot of charm.” </p><p>“This coin POSSESSES little value.” </p><p>POSSESSION is the owning or having of something. </p><p>“He came into POSSESSION of the painting.” </p><p>POSSESSIONS are things which someone has. </p><p>“All her POSSESSIONS were destroyed in the fire.” </p><p>Other forms of the word: POSSESSION, n. </p><p>POSSESSIVE, adj.</p>"
+    },
+    "DISTRESS": {
+      "word": "DISTRESS",
+      "phonetic": "(dis-tres')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to trouble, upset, disturb, bother </p><p>To DISTRESS someone is to cause him pain or sorrow. </p><p>“It DISTRESSES me to see you so unhappy.” </p><p>“She was DISTRESSED by the news of her husband’s disappearance.” </p><p>“We have received DISTRESSING news about an air- plane crash.” </p><p>DISTRESS is also a noun, meaning suffering or <i class=“def-ital\">misfortune</i>. “The ship radioed that it was in DISTRESS and was in danger of sinking.\"</p><p> “He tried to relieve Susan’s DISTRESS by telling her that everything would turn out all right in the end.” </p><p>Other forms of the word: DISTRESSING, adj.</p>"
+    },
+    "PRECIOUS": {
+      "word": "PRECIOUS",
+      "phonetic": "(presh'-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">valuable, costly, priceless, dear </p><p>PRECIOUS is related to the word <i class=“def-ital\">price</i>. Something that is PRECIOUS has a high price, is of great value. </p><p>“These PRECIOUS jewels are worth a fortune to us.” </p><p>PRECIOUS is also used about things which are of such value that they have no price. </p><p>“My children are PRECIOUS to me. I wouldn’t do anything to harm them.” </p><p>“We have a few PRECIOUS hours in which to find the bomb before it goes off.” </p><p>Many people choose <i class=“def-ital\">rare</i> as the right answer. Often something is PRECIOUS because it is <i class=“def-ital\">rare</i>, but the two words do not have the same meaning.</p>"
+    },
+    "PURSUE": {
+      "word": "PURSUE",
+      "phonetic": "(pÔøΩr-sU')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to chase, follow, go after </p><p>To PURSUE something is to follow after it. You can PURSUE anything: a car, a person, success, happiness, and so on. </p><p>“The police PVRSUED the escaped prisoner.” </p><p>“He was PURSUED by shouts as he left the meeting.” </p><p>“All people should have the right to PURSUE happiness.” </p><p>PURSUIT is the noun from PURSUE. </p><p>“Everyone joined in the PURSUIT of the criminal.” </p><p>Other forms of the word: PURSUIT, n.</p>"
+    }
+  },
+  "id": "7",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "They PROTEST the decision.",
+          "answers": [
+            "hate",
+            "agree with",
+            "ask for",
+            "object to",
+            "forget"
+          ],
+          "word": "PROTEST",
+          "correct": "object to"
+        },
+        {
+          "prompt": "They kept him ISOLATED.",
+          "answers": [
+            "quiet",
+            "unhappy",
+            "nearby",
+            "warm",
+            "alone"
+          ],
+          "word": "ISOLATED",
+          "correct": "alone"
+        },
+        {
+          "prompt": "DEDICATED people.",
+          "answers": [
+            "disloyal",
+            "intelligent",
+            "displeased",
+            "devoted",
+            "obedient"
+          ],
+          "word": "DEDICATED",
+          "correct": "devoted"
+        },
+        {
+          "prompt": "FLAWLESS performance.",
+          "answers": [
+            "perfect",
+            "suitable",
+            "illegal",
+            "bad",
+            "unbelievable"
+          ],
+          "word": "FLAWLESS",
+          "correct": "perfect"
+        },
+        {
+          "prompt": "DISRUPT the meeting.",
+          "answers": [
+            "break up",
+            "shock",
+            "avoid",
+            "arrange",
+            "call off"
+          ],
+          "word": "DISRUPT",
+          "correct": "break up"
+        },
+        {
+          "prompt": "FULFILL the obligation.",
+          "answers": [
+            "forget",
+            "accept",
+            "complete",
+            "add to",
+            "put off"
+          ],
+          "word": "FULFILL",
+          "correct": "complete"
+        },
+        {
+          "prompt": "A HORDE of them.",
+          "answers": [
+            "dozen",
+            "crowd",
+            "few",
+            "bag",
+            "pair"
+          ],
+          "word": "HORDE",
+          "correct": "crowd"
+        },
+        {
+          "prompt": "INTERNAL signs.",
+          "answers": [
+            "outside",
+            "invisible",
+            "obvious",
+            "inner",
+            "necessary"
+          ],
+          "word": "INTERNAL",
+          "correct": "inner"
+        },
+        {
+          "prompt": "The JUNCTION of the rivers.",
+          "answers": [
+            "end",
+            "width",
+            "dividing",
+            "beginning",
+            "joining"
+          ],
+          "word": "JUNCTION",
+          "correct": "joining"
+        },
+        {
+          "prompt": "General NUISANCE.",
+          "answers": [
+            "help",
+            "knowledge",
+            "bother",
+            "complaint",
+            "evil"
+          ],
+          "word": "NUISANCE",
+          "correct": "bother"
+        },
+        {
+          "prompt": "LOYAL men.",
+          "answers": [
+            "smart",
+            "faithful",
+            "funny",
+            "noble",
+            "brave"
+          ],
+          "word": "LOYAL",
+          "correct": "faithful"
+        },
+        {
+          "prompt": "They POSSESS little.",
+          "answers": [
+            "have",
+            "advance",
+            "need",
+            "spend",
+            "lose"
+          ],
+          "word": "POSSESS",
+          "correct": "have"
+        },
+        {
+          "prompt": "It will DISTRESS him.",
+          "answers": [
+            "change",
+            "kill",
+            "trouble",
+            "tire",
+            "thrill"
+          ],
+          "word": "DISTRESS",
+          "correct": "trouble"
+        },
+        {
+          "prompt": "PRECIOUS things.",
+          "answers": [
+            "pretty",
+            "rare",
+            "new",
+            "valuable",
+            "useless"
+          ],
+          "word": "PRECIOUS",
+          "correct": "valuable"
+        },
+        {
+          "prompt": "Will they PURSUE us?",
+          "answers": [
+            "find",
+            "chase",
+            "fight",
+            "lead",
+            "promise"
+          ],
+          "word": "PURSUE",
+          "correct": "chase"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Do people usually PROTEST when they win a prize?",
+          "word": "PROTEST",
+          "correct": "false"
+        },
+        {
+          "prompt": "When a mother kisses her baby, is she ISOLATING it?",
+          "word": "ISOLATED",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a DEDICATED teacher be likely to spend extra time helping her students?",
+          "word": "DEDICATED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an artist like to paint a FLAWLESS picture?",
+          "word": "FLAWLESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would the noise of a jackhammer DISRUPT a concert?",
+          "word": "DISRUPT",
+          "correct": "true"
+        },
+        {
+          "prompt": "If you keep a promise, have you FULFILLED it?",
+          "word": "FULFILL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a HORDE usually be peaceful and friendly?",
+          "word": "HORDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is your hair an INTERNAL part of you?",
+          "word": "INTERNAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could your wrist be called the JUNCTION between your hand and your arm?",
+          "word": "JUNCTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do people like NUISANCES?",
+          "word": "NUISANCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a boss want to hire workers who would be LOYAL to the company?",
+          "word": "LOYAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a person POSSESS a sense of humor?",
+          "word": "POSSESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it DISTRESSING to win a race?",
+          "word": "DISTRESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are most pencils PRECIOUS?",
+          "word": "PRECIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do you always catch something that you PURSUE?",
+          "word": "PURSUE",
+          "correct": "false"
+        },
+        {}
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "They PROTESTED that there wasn't enough time to do what he wanted them to do.",
+          "word": "PROTEST",
+          "correct": "true"
+        },
+        {
+          "prompt": "Hermits are people who avoid the company of others and would rather be ISOLATED.",
+          "word": "ISOLATED",
+          "correct": "true"
+        },
+        {
+          "prompt": "The mayor DEDICATED the new city hall to the people of the city.",
+          "word": "DEDICATED",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jack made only a couple of mistakes in his FLAWLESS performance.",
+          "word": "FLAWLESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "The volcano looked like it was going to DISRUPT at any minute.",
+          "word": "DISRUPT",
+          "correct": "false"
+        },
+        {
+          "prompt": "He FULFILLED the cup to overflowing.",
+          "word": "FULFILL",
+          "correct": "false"
+        },
+        {
+          "prompt": "The sudden arrival of HORDES of insects ruined the barbecue.",
+          "word": "HORDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Bob opened up the machine to get at its INTERNAL parts.",
+          "word": "INTERNAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "This set of railroad tracks had many JUNCTIONS with other sets of tracks.",
+          "word": "JUNCTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "The dog became such a NUISANCE that finally we had to give it away.",
+          "word": "NUISANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Benedict Arnold showed his LOYALTY to the United States by giving secrets to the British.",
+          "word": "LOYAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "He POSSESSED a magic ring that could make him invisible.",
+          "word": "POSSESS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The teacher DISTRESSED to them the importance of studying hard.",
+          "word": "DISTRESS",
+          "correct": "false"
+        },
+        {
+          "prompt": "His weekends are PRECIOUS to him. He won't let anyone disturb them.",
+          "word": "PRECIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "He didn't care whom he hurt in his PURSUIT of great wealth.",
+          "word": "PURSUE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "PROTEST",
+          "answers": [
+            "give up",
+            "complain",
+            "disapprove"
+          ],
+          "word": "PROTEST",
+          "correct": "0"
+        },
+        {
+          "prompt": "ISOLATED",
+          "answers": [
+            "apart",
+            "different",
+            "alone"
+          ],
+          "word": "ISOLATED",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEDICATED",
+          "answers": [
+            "committed",
+            "smart",
+            "determined"
+          ],
+          "word": "DEDICATED",
+          "correct": "1"
+        },
+        {
+          "prompt": "FLAWLESS",
+          "answers": [
+            "errorless",
+            "difficult",
+            "perfect"
+          ],
+          "word": "FLAWLESS",
+          "correct": "1"
+        },
+        {
+          "prompt": "DISRUPT",
+          "answers": [
+            "stop",
+            "destroy",
+            "dislike"
+          ],
+          "word": "DISRUPT",
+          "correct": "2"
+        },
+        {
+          "prompt": "FULFILL",
+          "answers": [
+            "complete",
+            "excite",
+            "satisfy"
+          ],
+          "word": "FULFILL",
+          "correct": "1"
+        },
+        {
+          "prompt": "HORDE",
+          "answers": [
+            "crowd",
+            "mob",
+            "criminal"
+          ],
+          "word": "HORDE",
+          "correct": "2"
+        },
+        {
+          "prompt": "INTERNAL",
+          "answers": [
+            "inner",
+            "everlasting",
+            "hidden"
+          ],
+          "word": "INTERNAL",
+          "correct": "1"
+        },
+        {
+          "prompt": "JUNCTION",
+          "answers": [
+            "meeting",
+            "connection",
+            "difference"
+          ],
+          "word": "JUNCTION",
+          "correct": "2"
+        },
+        {
+          "prompt": "NUISANCE",
+          "answers": [
+            "trouble",
+            "anger",
+            "obstacle"
+          ],
+          "word": "NUISANCE",
+          "correct": "1"
+        },
+        {
+          "prompt": "LOYAL",
+          "answers": [
+            "united",
+            "faithful",
+            "devoted"
+          ],
+          "word": "LOYAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "POSSESS",
+          "answers": [
+            "need",
+            "own",
+            "buy"
+          ],
+          "word": "POSSESS",
+          "correct": "0"
+        },
+        {
+          "prompt": "DISTRESS",
+          "answers": [
+            "silence",
+            "sorrow",
+            "pain"
+          ],
+          "word": "DISTRESS",
+          "correct": "0"
+        },
+        {
+          "prompt": "PRECIOUS",
+          "answers": [
+            "important",
+            "old",
+            "expensive"
+          ],
+          "word": "PRECIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "PURSUE",
+          "answers": [
+            "seek",
+            "follow",
+            "choose"
+          ],
+          "word": "PURSUE",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

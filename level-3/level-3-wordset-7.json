@@ -1,0 +1,611 @@
+{
+  "title": "3.7",
+  "definitions": {
+    "EXTRACT": {
+      "word": "EXTRACT",
+      "phonetic": "(ek-strakt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to pull out, draw forth, obtain </p><p> To EXTRACT something is to pull it out of something else. The word usually suggests that force or effort was necessary. </p><p>“The dentist EXTRACTED the tooth.” </p><p>“The doctor EXTRACTED the bullet from his shoulder.” </p><p>EXTRACT also often suggests pulling something out against someone’s will. </p><p>“Before we left, we EXTRACTED a promise from him that he would behave.” </p><p>“After three days of torturing the prisoner they managed to EXTRACT the information from him.” </p><p>EXTRACT is also used for the process of obtaining juice or some other substance by squeezing, crushing, or boiling something. </p><p>“They EXTRACTED the oil from the peanuts.” </p><p>Other forms of the word: EXTRACTION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ex-</i> under Prefixes."
+      ]
+    },
+    "ROVING": {
+      "word": "ROVING",
+      "phonetic": "(rO'-ving)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">wandering, roaming </p><p>To ROVE is to move about a large area, usually without a specific purpose. ROVING means “moving here and there,” <i class=“def-ital\">wandering</i>. </p><p>“A ROVING band of gypsies passed by our town last week.” </p><p>“There are ROVING wolves out there in the wilderness.” </p><p>Other forms of the word: ROVE, v.</p>"
+    },
+    "FUGITIVE": {
+      "word": "FUGITIVE",
+      "phonetic": "(fyU'-jÔøΩtiv)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a runaway, one who flees </p><p>A FUGITIVE is a person who runs away. Usually the word is used about escaped criminals or prisoners, but it can be used about anyone who flees. </p><p>“The FUGITIVES who had escaped from prison last night were last seen headed for the mountains.” </p><p>“We captured the FUGITIVE after a long chase.” </p><p>FUGITIVE is also an adjective. </p><p>“The FUGITIVE slaves were caught and returned to their masters.” </p><p>As an adjective, FUGITIVE often means <i class=“def-ital\">fleeting</i>, <i class=“def-ital\">passing quickly</i>. </p><p>“These FUGITIVE dreams were difficult to recall afterwards.” </p><p><i class=“def-ital\">Thief</i> is often chosen as the meaning of FUGITIVE on the Pretest. A FUGITIVE may be a criminal or someone who has done something wrong, but he is not necessarily a <i class=“def-ital\">thief</i>.</p>"
+    },
+    "COMPETENT": {
+      "word": "COMPETENT",
+      "phonetic": "(kom'-pÔøΩtÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">able, capable, well qualified </p><p>Someone who is COMPETENT can do what is required in a particular job. COMPETENT does not suggest outstanding ability, but ability that is satisfactory or adequate for what has to be done. </p><p>“Ted thinks he’s a wonderful drummer, but I think he’s just barely COMPETENT.” </p><p>“Now that he’s fourteen, we think he’s COMPETENT to take care of his little sister.” </p><p>“She is COMPETENT in math and chemistry, but she has never been any good at languages.” </p><p>The noun from COMPETENT is COMPETENCE, which means <i class=“def-ital\">ability</i> or <i class=“def-ital\">skill</i>. </p><p>“No one would question his COMPETENCE as a teacher. His students really learn the subject.” </p><p>COMPETENT is often thought to mean <i class=“def-ital\">pleasant</i>. A person can be COMPETENT, however, without being pleasant at all. </p><p>Other forms of the word: COMPETENCE, n.</p>"
+    },
+    "SECLUSION": {
+      "word": "SECLUSION",
+      "phonetic": "(si-klU'-zhÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">privacy, aloneness, isolation </p><p>SECLUSION is the noun form of the verb SECLUDE. To SECLUDE something is to keep it away from others. </p><p>“She led a SECLUDED life far away from the rest of humanity.” </p><p>SECLUSION means <i class=“def-ital\">privacy</i>, <i class=“def-ital\">isolation</i>. A person or thing that is in SECLUSION is cut off from others, either willingly or unwillingly. </p><p>“He searched for SECLUSION from the noise and bustle of the city, so he moved to a village in Vermont.” </p><p>“We kept the cat in SECLUSION until she had her kittens.” </p><p>Other forms of the word: SECLUDE, v.</p>"
+    },
+    "SEEK": {
+      "word": "SEEK",
+      "phonetic": "(sEk)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to search for, look for, try to find; to try, attempt </p><p>To SEEK something is to look for it, to try to find it. </p><p>“The young man went to London to SEEK a job.” </p><p>“She was SEEKING shelter from the wind while she waited for the bus.” </p><p>When followed by <i class=“def-ital\">to</i>, SEEK means to <i class=“def-ital\">try</i> or <i class=“def-ital\">attempt</i>. </p><p>“She SEEKS to become the first person to climb that mountain.” </p><p>Many people think SEEK means <i class=“def-ital\">find</i>. But someone who SEEKS something may not <i class=“def-ital\">find</i> it. </p><p>“He SOUGHT wealth, but remained poor.” </p><p>Usage: The past tense of SEEK is SOUGHT.</p>"
+    },
+    "SENSATION": {
+      "word": "SENSATION",
+      "phonetic": "(sen-sA'-shQn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a feeling, awareness; excitement </p><p>To SENSE is to have feeling, to have an awareness of something through your SENSES. </p><p>“The dog SENSED that someone was coming\"--that is, it heard, smelled, or saw that someone was coming. </p><p>SENSATION is a noun from SENSE. Its basic meaning is a <i class=“def-ital\">feeling</i>, an <i class=“def-ital\">awareness</i> of some kind. </p><p>“He felt a slight tickling SENSATION on his skin.” </p><p>“It was a wonderful SENSATION to sink into the warm bath.” </p><p>SENSATION is also used for a state of excited feelings occurring among a group of people. </p><p>“Her appearance caused quite a SENSATION at the party.” </p><p>The word can also stand for a person or thing causing the SENSATION. </p><p>“Her new dress was the SENSATION of the party.” </p><p>Other forms of the word: SENSE, v., n. SENSATIONAL, adj.</p>"
+    },
+    "TEXTILE": {
+      "word": "TEXTILE",
+      "phonetic": "(teks'-tll)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a cloth, fabric, material </p><p>A TEXTILE is a cloth or some material that can be woven into a cloth. Silk, wool, and cotton are examples of TEXTILES. </p><p>“The TEXTILE for the king’s robe has threads of gold in it.” </p><p>“Many towns in New England used to have TEXTILE mills.” </p><p>“His company specializes in TEXTILES that are used for curtains.” </p><p>Many people choose <i class=“def-ital\">factory</i> as the meaning of TEXTILE, probably because TEXTILES are made in factories.</p>"
+    },
+    "SNARE": {
+      "word": "SNARE",
+      "phonetic": "(snair)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a trap </p><p>A SNARE is a trap which is used to catch animals. It is usually made of wire or cord formed into a loop. </p><p>“The trapper set out several SNARES for rabbits.” </p><p>The word can also be used in a general sense about anything that traps. </p><p>“They found themselves caught in the SNARES of the sick man’s evil plans.” </p><p>SNARE is also a verb meaning to <i class=“def-ital\">trap</i>, <i class=“def-ital\">entangle</i>, or <i class=“def-ital\">catch</i>. </p><p>“He was SNARED in the tangles of his lies.”</p>"
+    },
+    "CONSPIRACY": {
+      "word": "CONSPIRACY",
+      "phonetic": "(kQn-spir'-ÔøΩsE)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a plot, secret plan </p><p> To CONSPIRE is to plot together secretly, usually to do something illegal. </p><p>“Those men CONSPIRED to steal thousands of dollars from the government.” </p><p>A CONSPIRACY is this act of plotting, or the people who do the plotting. </p><p>“There is a CONSPIRACY in the company to cover up their illegal actions.” </p><p>“He joined a CONSPIRACY which was out to overthrow the government.” </p><p>A “CONSPIRACY of silence” is a secret agreement not to talk publicly about something. </p><p>“There was a CONSPIRACY of silence about the possible dangerous side effects of the new drug.” </p><p>Other forms of the word: CONSPIRATOR, n. CONSPIRATORIAL, adj. CONSPIRE, v.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">con-</i> under Prefixes."
+      ]
+    },
+    "SQUABBLE": {
+      "word": "SQUABBLE",
+      "phonetic": "(skwob'-ÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to quarrel, argue, fight, bicker </p><p>To SQUABBLE is to quarrel or argue about something unimportant. The word does not suggest very bitter or angry feelings. </p><p>“They often SQUABBLE over what to eat for supper.” </p><p>“He SQUABBLED with his neighbors over who was supposed to fix the fence.” </p><p>SQUABBLE is also a noun and means “a small, unimportant quarrel.” </p><p>“They had a SQUABBLE over which TV program to watch.” </p><p>Many people think to SQUABBLE means to <i class=“def-ital\">make noise</i>, probably because SQUABBLES are often noisy.</p>"
+    },
+    "STANCE": {
+      "word": "STANCE",
+      "phonetic": "(stans)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a position, stand, attitude </p><p>A person’s STANCE is his position when standing up. </p><p>“In the painting the king had an unusual STANCE, leaning back against his horse.” </p><p>“The golfer took up his STANCE next to the ball and prepared to hit it.” </p><p>STANCE can also be used about a mental position or attitude. </p><p>“He never changed his firm STANCE on the uselessness of exercise.” </p><p>“Once his father took a STANCE on something, he never changed his mind.”</p>"
+    },
+    "EXERTION": {
+      "word": "EXERTION",
+      "phonetic": "(eg-zer'-shÔøΩn)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">effort, vigorous action, exercise, struggle </p><p>To EXERT means to <i class=“def-ital\">bring into use</i>, to <i class=“def-ital\">put forth</i>. </p><p>“He EXERTED all his strength to move the refrigerator.” </p><p>“Janet EXERTED her influence to help her friend get a job.” </p><p>To EXERT yourself is to put forth effort in doing something. EXERTION is the act of EXERTING. EXERTION is usually difficult and requires a great deal of effort. </p><p>“In spite of all his EXERTIONS he couldn’t move the piano.” </p><p>“She was worn out from the EXERTION of trying to teach her students.” </p><p>Mental EXERTION is effort that uses the mind. </p><p>“His job involved much running around, but little mental EXERTION.” </p><p>Other forms of the word: EXERT, v.</p>"
+    },
+    "FATIGUE": {
+      "word": "FATIGUE",
+      "phonetic": "(fa-tEg')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to tire, weary, exhaust </p><p>FATIGUE is both a verb and a noun. FATIGUE is <i class=“def-ital\">tiredness</i>, usually caused by working too hard, either physically or mentally. </p><p>“After four hours of digging they were overcome by FATIGUE and had to rest.” </p><p>To become FATIGUED is to tire out. </p><p>“Cleaning the house quickly FATIGUED him.” </p><p>“They were too FATIGUED to swim any further.” </p><p>Many people think that to be FATIGUED is to be <i class=“def-ital\">bored</i>. Sometimes the words may be close in meaning, as in the sentence “His constant talking began to FATIGUE her.” But the words do not have the same meaning.</p>"
+    },
+    "GRATIFY": {
+      "word": "GRATIFY",
+      "phonetic": "(grat'-ÔøΩfl)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to please, satisfy, indulge </p><p> GRATIFY comes from a Latin word meaning <i class=“def-ital\">pleasing</i>, <i class=“def-ital\">thankful</i>, also the source of the words <i class=“def-ital\">grateful</i> and <i class=“def-ital\">gratitude</i>. Someone who is <i class=“def-ital\">grateful</i> is pleased about something, is thankful for it. To GRATIFY someone is to make him pleased, to give him pleasure by satisfying his desires. </p><p>“Your decision to go on to college GRATIFIES me tremendously.” </p><p>“We are all GRATIFIED with the results.” </p><p>“I am GRATIFIED to learn that you are finally earning some money.” </p><p>Other forms of the word: GRATIFICATION, n. GRATIFYING, adj.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-fy</i> under Suffixes."
+      ]
+    }
+  },
+  "id": "7",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "EXTRACT the thing.",
+          "answers": [
+            "pull out",
+            "press against",
+            "loosen",
+            "work on",
+            "leave"
+          ],
+          "word": "EXTRACT",
+          "correct": "pull out"
+        },
+        {
+          "prompt": "ROVING performers.",
+          "answers": [
+            "local",
+            "wandering",
+            "mad",
+            "swimming",
+            "constant"
+          ],
+          "word": "ROVING",
+          "correct": "wandering"
+        },
+        {
+          "prompt": "Saw the FUGITIVE.",
+          "answers": [
+            "thief",
+            "guard",
+            "foreigner",
+            "runaway",
+            "drunk"
+          ],
+          "word": "FUGITIVE",
+          "correct": "runaway"
+        },
+        {
+          "prompt": "Their COMPETENT king.",
+          "answers": [
+            "old",
+            "dumb",
+            "pleasant",
+            "able",
+            "tall"
+          ],
+          "word": "COMPETENT",
+          "correct": "able"
+        },
+        {
+          "prompt": "He sought SECLUSION.",
+          "answers": [
+            "escape",
+            "company",
+            "privacy",
+            "enjoyment",
+            "information"
+          ],
+          "word": "SECLUSION",
+          "correct": "privacy"
+        },
+        {
+          "prompt": "SEEK them.",
+          "answers": [
+            "hide",
+            "find",
+            "search for",
+            "talk about",
+            "look at"
+          ],
+          "word": "SEEK",
+          "correct": "search for"
+        },
+        {
+          "prompt": "New SENSATION.",
+          "answers": [
+            "effect",
+            "feeling",
+            "meaning",
+            "knowledge",
+            "understanding"
+          ],
+          "word": "SENSATION",
+          "correct": "feeling"
+        },
+        {
+          "prompt": "Examined the TEXTILE.",
+          "answers": [
+            "fur",
+            "factory",
+            "book",
+            "machine",
+            "cloth"
+          ],
+          "word": "TEXTILE",
+          "correct": "cloth"
+        },
+        {
+          "prompt": "Found the SNARE.",
+          "answers": [
+            "nest",
+            "key",
+            "torch",
+            "hole",
+            "trap"
+          ],
+          "word": "SNARE",
+          "correct": "trap"
+        },
+        {
+          "prompt": "Another CONSPIRACY.",
+          "answers": [
+            "threat",
+            "discovery",
+            "disaster",
+            "plot",
+            "robbery"
+          ],
+          "word": "CONSPIRACY",
+          "correct": "plot"
+        },
+        {
+          "prompt": "Almost ready to SQUABBLE.",
+          "answers": [
+            "eat",
+            "make up",
+            "quarrel",
+            "fall apart",
+            "make noise"
+          ],
+          "word": "SQUABBLE",
+          "correct": "quarrel"
+        },
+        {
+          "prompt": "His STANCE.",
+          "answers": [
+            "looks",
+            "position",
+            "speech",
+            "ability",
+            "importance"
+          ],
+          "word": "STANCE",
+          "correct": "position"
+        },
+        {
+          "prompt": "Constant EXERTION.",
+          "answers": [
+            "effort",
+            "rest",
+            "worry",
+            "danger",
+            "fear"
+          ],
+          "word": "EXERTION",
+          "correct": "effort"
+        },
+        {
+          "prompt": "It FATIGUES me.",
+          "answers": [
+            "tires",
+            "interests",
+            "saddens",
+            "calms",
+            "bores"
+          ],
+          "word": "FATIGUE",
+          "correct": "tires"
+        },
+        {
+          "prompt": "GRATIFIES him.",
+          "answers": [
+            "excites",
+            "criticizes",
+            "dislikes",
+            "involves",
+            "pleases"
+          ],
+          "word": "GRATIFY",
+          "correct": "pleases"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can a splinter be EXTRACTED?",
+          "word": "EXTRACT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is an animal that is kept in a cage able to ROVE?",
+          "word": "ROVING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are FUGITIVES always evil?",
+          "word": "FUGITIVE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a baby COMPETENT to drive a car?",
+          "word": "COMPETENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a SECLUDED house far away from other houses?",
+          "word": "SECLUSION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do athletes SEEK to be champions?",
+          "word": "SEEK",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a talking horse cause a SENSATION?",
+          "word": "SENSATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is cotton a TEXTILE?",
+          "word": "TEXTILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a mouse be SNARED?",
+          "word": "SNARE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can there be just one person in a CONSPIRACY?",
+          "word": "CONSPIRACY",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can people like each other and still SQUABBLE?",
+          "word": "SQUABBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would a person who has no opinions take many STANCES on issues?",
+          "word": "STANCE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would most people EXERT themselves in running ten miles?",
+          "word": "EXERTION",
+          "correct": "true"
+        },
+        {
+          "prompt": "Does a good night's sleep FATIGUE you?",
+          "word": "FATIGUE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a thirsty person find a drink of water GRATIFYING?",
+          "word": "GRATIFY",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "We were EXTRACTED from buying a new car by the high price.",
+          "word": "EXTRACT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Our ROVING days came to an end when we settled down in a small valley.",
+          "word": "ROVING",
+          "correct": "true"
+        },
+        {
+          "prompt": "The guards searched the woods for the FUGITIVE.",
+          "word": "FUGITIVE",
+          "correct": "true"
+        },
+        {
+          "prompt": "I was impressed by his COMPETENCE at typing.",
+          "word": "COMPETENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "He was constantly going to parties to find SECLUSION.",
+          "word": "SECLUSION",
+          "correct": "false"
+        },
+        {
+          "prompt": "They were SEEKING a good place to vacation.",
+          "word": "SEEK",
+          "correct": "true"
+        },
+        {
+          "prompt": "He had a strange SENSATION that someone was following him.",
+          "word": "SENSATION",
+          "correct": "true"
+        },
+        {
+          "prompt": "They use only the highest quality TEXTILES in making these suits.",
+          "word": "TEXTILE",
+          "correct": "true"
+        },
+        {
+          "prompt": "We shot the pigeons with a SNARE.",
+          "word": "SNARE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The reporter discovered a CONSPIRACY to hide the truth about the plane crash.",
+          "word": "CONSPIRACY",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was just a minor SQUABBLE. No one got very angry.",
+          "word": "SQUABBLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The president was praised for his STANCE on foreign aid.",
+          "word": "STANCE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Everyone ignored his EXERTIONS to the team to try harder.",
+          "word": "EXERTION",
+          "correct": "false"
+        },
+        {
+          "prompt": "Just watching them work so hard almost makes me feel FATIGUED.",
+          "word": "FATIGUE",
+          "correct": "true"
+        },
+        {
+          "prompt": "He GRATIFIED us that we had to go with him or we would be punished.",
+          "word": "GRATIFY",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "EXTRACT",
+          "answers": [
+            "show",
+            "pull",
+            "get"
+          ],
+          "word": "EXTRACT",
+          "correct": "0"
+        },
+        {
+          "prompt": "ROVING",
+          "answers": [
+            "straying",
+            "marching",
+            "roaming"
+          ],
+          "word": "ROVING",
+          "correct": "1"
+        },
+        {
+          "prompt": "FUGITIVE",
+          "answers": [
+            "runaway",
+            "escapee",
+            "thief"
+          ],
+          "word": "FUGITIVE",
+          "correct": "2"
+        },
+        {
+          "prompt": "COMPETENT",
+          "answers": [
+            "skillful",
+            "qualified",
+            "lovely"
+          ],
+          "word": "COMPETENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "SECLUSION",
+          "answers": [
+            "extra",
+            "alone",
+            "apart"
+          ],
+          "word": "SECLUSION",
+          "correct": "0"
+        },
+        {
+          "prompt": "SEEK",
+          "answers": [
+            "search",
+            "look",
+            "recover"
+          ],
+          "word": "SEEK",
+          "correct": "2"
+        },
+        {
+          "prompt": "SENSATION",
+          "answers": [
+            "feel",
+            "excite",
+            "remember"
+          ],
+          "word": "SENSATION",
+          "correct": "2"
+        },
+        {
+          "prompt": "TEXTILE",
+          "answers": [
+            "cloth",
+            "silk",
+            "copper"
+          ],
+          "word": "TEXTILE",
+          "correct": "2"
+        },
+        {
+          "prompt": "SNARE",
+          "answers": [
+            "hold",
+            "catch",
+            "free"
+          ],
+          "word": "SNARE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONSPIRACY",
+          "answers": [
+            "secret",
+            "foreign",
+            "illegal"
+          ],
+          "word": "CONSPIRACY",
+          "correct": "1"
+        },
+        {
+          "prompt": "SQUABBLE",
+          "answers": [
+            "lonely",
+            "angry",
+            "annoyed"
+          ],
+          "word": "SQUABBLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "STANCE",
+          "answers": [
+            "position",
+            "behavior",
+            "attitude"
+          ],
+          "word": "STANCE",
+          "correct": "1"
+        },
+        {
+          "prompt": "EXERTION",
+          "answers": [
+            "struggle",
+            "wait",
+            "try"
+          ],
+          "word": "EXERTION",
+          "correct": "1"
+        },
+        {
+          "prompt": "FATIGUE",
+          "answers": [
+            "destroy",
+            "wear out",
+            "exhaust"
+          ],
+          "word": "FATIGUE",
+          "correct": "0"
+        },
+        {
+          "prompt": "GRATIFY",
+          "answers": [
+            "delight",
+            "satisfy",
+            "allow"
+          ],
+          "word": "GRATIFY",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

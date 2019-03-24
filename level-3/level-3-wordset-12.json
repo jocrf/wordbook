@@ -1,0 +1,608 @@
+{
+  "title": "3.12",
+  "definitions": {
+    "REVOLTING": {
+      "word": "REVOLTING",
+      "phonetic": "(ri-vOl'-ting)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">disgusting, shocking, offensive </p><p>The verb to REVOLT has two meanings: to <i class=“def-ital\">rebel<i class=“def-ital\">--to REVOLT against the government--and to <i class=“def-ital\">disgust</i>. </p><p>“The sight of all that garbage REVOLTS me.” </p><p>REVOLTING comes from this second use and means <i class=“def-ital\">disgusting</i>, <i class=“def-ital\">offensive</i>. </p><p>“I thought the language in that play was REVOLTING.” </p><p>“Their REVOLTING behavior makes me sick.” </p><p>Other forms of the word: REVOLT, v.</p>"
+    },
+    "ENTRENCH": {
+      "word": "ENTRENCH",
+      "phonetic": "(en-trench')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to place inside a trench, surround with a trench; to establish solidly, fix firmly </p><p>A <i class=“def-ital\">trench</i> is a long narrow ditch, with the earth from the ditch usually piled up in front of it to serve as protection against an enemy. To be ENTRENCHED is to be surrounded with trenches so that it is very difficult for anyone to attack or overrun you. </p><p>“The army ENTRENCHED itself near the town, and the enemy could do nothing about it.” </p><p>From this military use, ENTRENCH has come to mean to <i class=“def-ital\">establish firmly</i> in any kind of situation. </p><p>“With the passage of time, he became more firmly ENTRENCHED in his position.” </p><p>The image is always of someone digging in to become strongly or solidly established.</p>"
+    },
+    "IDLE": {
+      "word": "IDLE",
+      "phonetic": "(Id'-1)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">unused, unemployed, useless; lazy </p><p>IDLE has several meanings, all of which have the idea “without any purpose or use.” IDLE thoughts are useless thoughts, ones that have no particular reason or purpose. An IDLE machine is not being used. </p><p>“During the strike all the factories were IDLE.” </p><p>An IDLE person isn’t doing anything. </p><p>“We worked hard during the week, but on the week- ends we were IDLE.” </p><p>IDLE is often used about a person who doesn’t <i class=“def-ital\">want</i> to do anything, who is lazy and avoids work. </p><p>“He is an IDLE sort of boy. He never wants to do anything.”</p>"
+    },
+    "ERECT": {
+      "word": "ERECT",
+      "phonetic": "(i-rekt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to set up, raise upright, build, construct </p><p>To ERECT is to set in an upright position. Someone who stands ERECT is standing up straight, without leaning forward or backward. To ERECT something is to put it in this ERECT position. </p><p>“He ERECTED the flagpole.” </p><p>ERECT means about the same as <i class=“def-ital\">build</i>, except that it usually adds this sense of raising something upright. </p><p>“They spent six months building the foundation, and then they ERECTED the ninety-story tower.” </p><p>Things other than buildings can be ERECTED. </p><p>“They ERECTED legal barriers against foreigners entering the country.”</p>"
+    },
+    "EVALUATE": {
+      "word": "EVALUATE",
+      "phonetic": "(i-val'-yU-At)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to rate, estimate, appraise </p><p>To EVALUATE something is to judge its value. </p><p>“They EVALUATED the program at the end of the year and decided that it wasn’t worth the expense.” </p><p>“The critic EVALUATES several new books in this article.” </p><p>“It is difficult to EVALUATE the effect this will have on us.” </p><p>On the Pretest, many people choose <i class=“def-ital\">improve</i> as a synonym for EVALUATE, probably because the word looks like <i class=“def-ital\">value</i> and <i class=“def-ital\">valuable</i>. To EVALUATE is to <i class=“def-ital\">judge</i> something’s value, however, not to <i class=“def-ital\">improve</i> its value. </p><p>Other forms of the word: EVALUATION, n.</p>"
+    },
+    "NEGLIGENT": {
+      "word": "NEGLIGENT",
+      "phonetic": "(neg'-li-j:>nt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">careless, neglectful </p><p>NEGLIGENT is one of the adjective forms of NEGLECT. To be NEGLIGENT is to be careless; a NEGLIGENT person doesn’t pay attention to or do what he is supposed to. </p><p>“Tom is NEGLIGENT about the way he dresses; he always looks as though he dressed in the dark.” </p><p>“The NEGLIGENT waiter forgot to bring the dessert.” </p><p>NEGLIGENCE is the noun form of NEGLIGENT. </p><p>“The accident was due to the other driver’s NEGLIGENCE. He forgot to look both ways before pulling out into the street.” </p><p>Other forms of the word: NEGLECT, v. NEGLIGENCE, n.</p>"
+    },
+    "SERENE": {
+      "word": "SERENE",
+      "phonetic": "(sÔøΩrEn')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">peaceful, calm, tranquil </p><p>SERENE means <i class=“def-ital\">peaceful</i> and <i class=“def-ital\">calm</i>. The word often has a noble and dignified sense to it. Someone who is SERENE is above the troubles and cares of the world. </p><p>“While everyone else was angry and upset she remained SERENE.” </p><p>“They were SERENELY happy for the first year of their marriage.” </p><p>“We hoped that the weather would be SERENE on the day of our picnic.” </p><p>The noun from SERENE is SERENITY, meaning <i class=“def-ital\">calmness</i>, <i class=“def-ital\">peacefulness</i>. </p><p>“Nothing disturbed the SERENITY of their life together.” </p><p>Other forms of the word: SERENITY,n.</p>"
+    },
+    "POTENTIAL": {
+      "word": "POTENTIAL",
+      "phonetic": "(pÔøΩten'-shÔøΩI",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">possible </p><p>POTENTIAL comes from the Latin word for <i class=“def-ital\">power</i>. Something that is POTENTIAL has the power to exist or develop. </p><p>“This is a POTENTIAL problem. It isn’t a problem now, but it may be one in the future.” </p><p>“This boy is a great football player. He is a POTENTIAL All-American.” </p><p>POTENTIAL is also a noun. </p><p>“She has the POTENTIAL to become an opera singer\"--that is, she isn’t one now, but she has the talent to become one. </p><p>POTENTIAL is often confused with <i class=“def-ital\">powerful</i>. The word <i class=“def-ital\">potent</i> means <i class=“def-ital\">powerful</i>, and the similarity between <i class=“def-ital\">potent</i> and POTENTIAL probably causes the confusion.</p>"
+    },
+    "OBSTRUCT": {
+      "word": "OBSTRUCT",
+      "phonetic": "(ob-struhkt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to block, hinder, get in the way of </p><p>To OBSTRUCT something is to get in the way of it or to block it up. </p><p>“A pile of rocks OBSTRUCTED the road.” </p><p>“The brick wall OBSTRUCTED our progress.” </p><p>To OBSTRUCT a person’s view of something is to cut it off from his or her sight. </p><p>“The new building OBSTRUCTED our view of the river.” </p><p>An OBSTRUCTION is something that blocks or gets in the way. </p><p>“We must remove all OBSTRUCTIONS from our path.” </p><p>Other forms of the word: OBSTRUCTION,n.</p>"
+    },
+    "RADIANT": {
+      "word": "RADIANT",
+      "phonetic": "(rA'-dE-ÔøΩnt)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">shining, bright, glowing </p><p>To RADIATE is to send out light, heat, or other kinds of rays. Something that is RADIANT is bright and glowing; it looks as if it were sending out rays of light.  </p><p>“Her RADIANT smile lights up the room.” </p><p>“They all admired the RADIANT beauty of the statue.” </p><p>“The children’s faces were RADIANT with happiness when they saw their father.” </p><p>Many people pick <i class=“def-ital\">cheerful</i> as the meaning of RADIANT. RADIANT is often used to describe people who are feeling positive emotions like joy or love, but it means <i class=“def-ital\">bright</i> or <i class=“def-ital\">shining</i>, not <i class=“def-ital\">cheerful</i>. </p><p>Other forms of the word: RADIANCE, n. RADIATE, v.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ant</i> under Suffixes."
+      ]
+    },
+    "SCOLD": {
+      "word": "SCOLD",
+      "phonetic": "(skOld)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to find fault with, reproach </p><p>To SCOLD someone is to find fault with him, usually noisily or angrily. The word suggests an angry or upset parent yelling at a disobedient child. </p><p>“She SCOLDED him for walking across the clean floor in his dirty boots.” </p><p>“The teacher SCOLDED us for not paying attention.” </p><p>SCOLD is sometimes used as a noun. A SCOLD is someone who is always finding fault. </p><p>“That woman is just a SCOLD. You can’t do anything without her yelling at you.”</p>"
+    },
+    "SINCERE": {
+      "word": "SINCERE",
+      "phonetic": "(sin-sEr')",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">honest, not pretended </p><p>SINCERE means <i class=“def-ital\">honest</i>, <i class=“def-ital\">open</i>, <i class=“def-ital\">straightforward</i>. The word is used about people and the way they act. </p><p>“Were you SINCERE when you said you loved me?” </p><p>“He looked at his father with SINCERE admiration.” </p><p>“She spoke SINCERELY of her desire to end the strike.” </p><p>The noun from SINCERE is SINCERITY. </p><p>“No one doubted his SINCERITY. He honestly believed he was right.” </p><p>Many people think SINCERE means <i class=“def-ital\">polite</i>. Sometimes, however, people who are <i class=“def-ital\">polite</i> are not SINCERE. They say things they don’t mean just to be friendly. </p><p>Other forms of the word: SINCERITY, n.</p>"
+    },
+    "VICIOUS": {
+      "word": "VICIOUS",
+      "phonetic": "(vish'-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">cruel, evil, spiteful, immoral </p><p>VICIOUS is related to the word <i class=“def-ital\">vice</i>, which means <i class=“def-ital\">evil</i> or an <i class=“def-ital\">evil habit</i>. </p><p>“His only <i class=“def-ital\">vice</i> is that he gambles too much.” </p><p>VICIOUS means “practicing or showing <i class=“def-ital\">vice</i>,” particularly violent or cruel vices.  </p><p>“He is a VICIOUS murderer. He would kill anyone to make a few dollars.” </p><p>“She aimed a VICIOUS kick at the dog, but fortunately she missed.” </p><p>“He made some VICIOUS remarks about the man’s honesty.” </p><p>The most common mistakes for VICIOUS are <i class=“def-ital\">strong</i> and <i class=“def-ital\">angry</i>. A VICIOUS person may be strong and angry, but neither <i class=“def-ital\">strong</i> nor <i class=“def-ital\">angry</i> suggests the evil and cruelty that are part of VICIOUS.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "CONFINE": {
+      "word": "CONFINE",
+      "phonetic": "(kÔøΩn-fln')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to limit, enclose, restrain </p><p>To CONFINE something is to keep it within limits. </p><p>“Please CONFINE your remarks to the subject we are discussing.” </p><p>“His interests were CONFINED to the area of foreign policy.” </p><p>In a related sense, the word often means “to keep shut up” in a particular place, often because of illness, punishment, or the like. </p><p>“The judge CONFINED him to prison for ten years.” </p><p>“She was CONFINED to her bed all week with her cold.” </p><p>The noun from CONFINE is CONFINEMENT. </p><p>“He couldn’t stand CONFINEMENT. He liked to be outside, free to do what he pleased.” </p><p>Other forms of the word: CONFINEMENT, n.</p>"
+    },
+    "DEBUT": {
+      "word": "DEBUT",
+      "phonetic": "(dA-byU')",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">first appearance, beginning, introduction </p><p>Note the pronunciation. DEBUT is a French word, and keeps its French pronunciation. A person’s DEBUT is his or her first public appearance--on stage, in society, in a job, etc. </p><p>“He made his DEBUT as an actor in a small part in Hamlet.” </p><p>“Dick’s DEBUT as a teacher was terrifying for him. For the first time he had to face a class alone.” </p><p>Other forms of the word: DEBUTANTE, n.</p>"
+    }
+  },
+  "id": "12",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "It was REVOLTING.",
+          "answers": [
+            "foolish",
+            "fascinating",
+            "forbidden",
+            "disgusting",
+            "frightening"
+          ],
+          "word": "REVOLTING",
+          "correct": "disgusting"
+        },
+        {
+          "prompt": "ENTRENCHED in their positions.",
+          "answers": [
+            "fixed firmly",
+            "lowered",
+            "supported",
+            "expected",
+            "left"
+          ],
+          "word": "ENTRENCH",
+          "correct": "fixed firmly"
+        },
+        {
+          "prompt": "IDLE machines.",
+          "answers": [
+            "slow",
+            "busy",
+            "perfect",
+            "poor",
+            "unused"
+          ],
+          "word": "IDLE",
+          "correct": "unused"
+        },
+        {
+          "prompt": "They ERECTED the statue.",
+          "answers": [
+            "moved",
+            "tore down",
+            "straightened",
+            "raised up",
+            "admired"
+          ],
+          "word": "ERECT",
+          "correct": "raised up"
+        },
+        {
+          "prompt": "Wanted to EVALUATE it.",
+          "answers": [
+            "buy",
+            "destroy",
+            "rate",
+            "improve",
+            "sell"
+          ],
+          "word": "EVALUATE",
+          "correct": "rate"
+        },
+        {
+          "prompt": "NEGLIGENT parents.",
+          "answers": [
+            "harsh",
+            "helpful",
+            "hardworking",
+            "easygoing",
+            "careless"
+          ],
+          "word": "NEGLIGENT",
+          "correct": "careless"
+        },
+        {
+          "prompt": "SERENE attitude.",
+          "answers": [
+            "eager",
+            "peaceful",
+            "disgusting",
+            "necessary",
+            "hopeful"
+          ],
+          "word": "SERENE",
+          "correct": "peaceful"
+        },
+        {
+          "prompt": "POTENTIAL candidates.",
+          "answers": [
+            "usual",
+            "hopeless",
+            "powerful",
+            "possible",
+            "young"
+          ],
+          "word": "POTENTIAL",
+          "correct": "possible"
+        },
+        {
+          "prompt": "They OBSTRUCTED the corridor.",
+          "answers": [
+            "built",
+            "opened up",
+            "blocked",
+            "destroyed",
+            "stood in"
+          ],
+          "word": "OBSTRUCT",
+          "correct": "blocked"
+        },
+        {
+          "prompt": "RADIANT expressions.",
+          "answers": [
+            "sorrowful",
+            "glowing",
+            "unfriendly",
+            "confident",
+            "cheerful"
+          ],
+          "word": "RADIANT",
+          "correct": "glowing"
+        },
+        {
+          "prompt": "Wanted to SCOLD.",
+          "answers": [
+            "find fault",
+            "praise",
+            "burn",
+            "get out",
+            "argue"
+          ],
+          "word": "SCOLD",
+          "correct": "find fault"
+        },
+        {
+          "prompt": "He is SINCERE.",
+          "answers": [
+            "wicked",
+            "untrustworthy",
+            "honest",
+            "polite",
+            "innocent"
+          ],
+          "word": "SINCERE",
+          "correct": "honest"
+        },
+        {
+          "prompt": "VICIOUS men.",
+          "answers": [
+            "strong",
+            "silly",
+            "cruel",
+            "lively",
+            "angry"
+          ],
+          "word": "VICIOUS",
+          "correct": "cruel"
+        },
+        {
+          "prompt": "Unable to CONFINE it.",
+          "answers": [
+            "stretch",
+            "limit",
+            "improve",
+            "destroy",
+            "hurt"
+          ],
+          "word": "CONFINE",
+          "correct": "limit"
+        },
+        {
+          "prompt": "Heard of her DEBUT.",
+          "answers": [
+            "first appearance",
+            "departure",
+            "mistake",
+            "engagement",
+            "acting skill"
+          ],
+          "word": "DEBUT",
+          "correct": "first appearance"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is the smell of roses REVOLTING?",
+          "word": "REVOLTING",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it easy to remove someone who is ENTRENCHED?",
+          "word": "ENTRENCH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would you hire a worker who liked to be IDLE?",
+          "word": "IDLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are apartment houses ERECTED?",
+          "word": "ERECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a student's performance in school EVALUATED when he receives a grade?",
+          "word": "EVALUATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a good worker NEGLIGENT about his job?",
+          "word": "NEGLIGENT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a football game usually SERENE?",
+          "word": "SERENE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Has the POTENTIAL winner of a race already won it?",
+          "word": "POTENTIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a blade of grass OBSTRUCT a highway?",
+          "word": "OBSTRUCT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is the sun RADIANT?",
+          "word": "RADIANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "Do most people dislike being SCOLDED?",
+          "word": "SCOLD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are the words of a liar SINCERE?",
+          "word": "SINCERE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are most dogs VICIOUS?",
+          "word": "VICIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Are people ever CONFINED as a punishment?",
+          "word": "CONFINE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a person be old when he makes a DEBUT?",
+          "word": "DEBUT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Everyone was REVOLTED by the brutality of the crime.",
+          "word": "REVOLTING",
+          "correct": "true"
+        },
+        {
+          "prompt": "Walter tried to change their minds, but their views were too firmly ENTRENCHED.",
+          "word": "ENTRENCH",
+          "correct": "true"
+        },
+        {
+          "prompt": "The typewriter is always being used; it is never IDLE.",
+          "word": "IDLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "A new hospital will be ERECTED here next year.",
+          "word": "ERECT",
+          "correct": "true"
+        },
+        {
+          "prompt": "The cost of buying a house is EVALUATING every day.",
+          "word": "EVALUATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "We accused him of NEGLIGENCE in not making sure his dog was tied up.",
+          "word": "NEGLIGENT",
+          "correct": "true"
+        },
+        {
+          "prompt": "They were all so SERENE to me that I burst into tears.",
+          "word": "SERENE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Your idea for a business has POTENTIAL, but you will have to work hard if you want it to succeed.",
+          "word": "POTENTIAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "We tried to OBSTRUCT them about the best way to reach the park.",
+          "word": "OBSTRUCT",
+          "correct": "false"
+        },
+        {
+          "prompt": "A year after her operation she seemed to be in RADIANT good health.",
+          "word": "RADIANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "My mother SCOLDED me for not doing my homework.",
+          "word": "SCOLD",
+          "correct": "true"
+        },
+        {
+          "prompt": "She sent them a gift to show her SINCERE appreciation for their help.",
+          "word": "SINCERE",
+          "correct": "true"
+        },
+        {
+          "prompt": "This VICIOUS criminal should be put in prison before he harms anyone else.",
+          "word": "VICIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "They were both CONFINED a hundred dollars for the offense.",
+          "word": "CONFINE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The DEBUT of the new singer was postponed for a night.",
+          "word": "DEBUT",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "REVOLTING",
+          "answers": [
+            "illegal",
+            "evil",
+            "shocking"
+          ],
+          "word": "REVOLTING",
+          "correct": "0"
+        },
+        {
+          "prompt": "ENTRENCH",
+          "answers": [
+            "dig",
+            "stay",
+            "change"
+          ],
+          "word": "ENTRENCH",
+          "correct": "2"
+        },
+        {
+          "prompt": "IDLE",
+          "answers": [
+            "lonely",
+            "lazy",
+            "inactive"
+          ],
+          "word": "IDLE",
+          "correct": "0"
+        },
+        {
+          "prompt": "ERECT",
+          "answers": [
+            "improve",
+            "lift",
+            "build"
+          ],
+          "word": "ERECT",
+          "correct": "0"
+        },
+        {
+          "prompt": "EVALUATE",
+          "answers": [
+            "determine",
+            "admire",
+            "judge"
+          ],
+          "word": "EVALUATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "NEGLIGENT",
+          "answers": [
+            "sloppy",
+            "lazy",
+            "silly"
+          ],
+          "word": "NEGLIGENT",
+          "correct": "2"
+        },
+        {
+          "prompt": "SERENE",
+          "answers": [
+            "late",
+            "quiet",
+            "happy"
+          ],
+          "word": "SERENE",
+          "correct": "0"
+        },
+        {
+          "prompt": "POTENTIAL",
+          "answers": [
+            "actual",
+            "future",
+            "likely"
+          ],
+          "word": "POTENTIAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "OBSTRUCT",
+          "answers": [
+            "bother",
+            "build",
+            "hinder"
+          ],
+          "word": "OBSTRUCT",
+          "correct": "1"
+        },
+        {
+          "prompt": "RADIANT",
+          "answers": [
+            "brilliant",
+            "sparkling",
+            "smart"
+          ],
+          "word": "RADIANT",
+          "correct": "2"
+        },
+        {
+          "prompt": "SCOLD",
+          "answers": [
+            "yell",
+            "blame",
+            "help"
+          ],
+          "word": "SCOLD",
+          "correct": "2"
+        },
+        {
+          "prompt": "SINCERE",
+          "answers": [
+            "young",
+            "open",
+            "honest"
+          ],
+          "word": "SINCERE",
+          "correct": "0"
+        },
+        {
+          "prompt": "VICIOUS",
+          "answers": [
+            "sinful",
+            "stupid",
+            "evil"
+          ],
+          "word": "VICIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "CONFINE",
+          "answers": [
+            "imprison",
+            "limit",
+            "release"
+          ],
+          "word": "CONFINE",
+          "correct": "2"
+        },
+        {
+          "prompt": "DEBUT",
+          "answers": [
+            "introduction",
+            "beginning",
+            "job"
+          ],
+          "word": "DEBUT",
+          "correct": "2"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

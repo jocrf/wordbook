@@ -1,0 +1,608 @@
+{
+  "title": "7.8",
+  "definitions": {
+    "QUAFF": {
+      "word": "QUAFF",
+      "phonetic": "(kwof)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to drink deeply </p><p>To QUAFF is to drink deeply and heartily, to drain a cup or glass. </p><p>“Falstaff QUAFFED the tankard of ale in one long swallow, then called for more.” </p><p>“The tired athlete QUAFFED the refreshing drink.” </p><p>“I knew you were thirsty, but I didn’t expect you to QUAFF the whole pitcher of lemonade.”</p>"
+    },
+    "CHOLERIC": {
+      "word": "CHOLERIC",
+      "phonetic": "(kol'-Q-rik)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">bad-tempered, irascible </p><p>In the Middle Ages, anger was thought to be caused by an excess of CHOLER, or yellow bile, in the body. The adjective CHOLERIC (see <i class=“def-ital\">-ic</i> under Suffixes) is used about people who are easily made angry, who have irritable or touchy dispositions. </p><p>“As he got older, Mr. Finn became CHOLERIC; he would fly into rages over small matters.” </p><p>“Jane’s CHOLERIC nature made her difficult to deal with.” </p><p>“The CHOLERIC patient became furious with the nurses when they wouldn’t cater to his every whim.” </p><p>Other forms of the word: CHOLER, n.</p>"
+    },
+    "DULCET": {
+      "word": "DULCET",
+      "phonetic": "(duhl'-sit)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">sweet, melodious </p><p>DULCET comes from an Old French word meaning “sweet,” and originally meant “sweet to the taste” in English. Over time, however, its meaning changed to “sweet to the ear,” <i class=“def-ital\">melodious</i>. </p><p>“When the soldier was feverish, only the nurse’s DULCET voice could soothe him.” </p><p>“The flute, when played well, has a particularly DULCET sound.”</p>"
+    },
+    "OBSEQUIOUS": {
+      "word": "OBSEQUIOUS",
+      "phonetic": "(ob-sE'-kwE-as)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fawning, servile </p><p>OBSEQUIOUS means “excessively polite.” The word usually has a negative connotation and suggests flattery and groveling, although it may only suggest extreme obedience and attentiveness. </p><p>“The boss didn’t like OBSEQUIOUS employees who would constantly open doors for him and compliment his ideas.” </p><p>“The service at the restaurant was friendly but not OBSEQUIOUS.” </p><p>“The OBSEQUIOUS servants said that nothing would give them more pleasure than to do our bidding.” </p><p>Crafty is more popular than the correct answer-<i class=“def-ital\">fawning<i class=“def-ital\">-on the Pretest, perhaps because OBSEQUIOUS people often seem to be up to something with their insincere flattery; or <i class=“def-ital\">crafty</i> may be chosen because of confusion with the word <i class=“def-ital\">devious</i>.</p>"
+    },
+    "REMUNERATE": {
+      "word": "REMUNERATE",
+      "phonetic": "(ri-myU'-nQ-rAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to pay for, pay to </p><p>REMUNERATE is a somewhat formal synonym for <i class=“def-ital\">pay</i>. It is especially used about payments for services rendered or losses incurred. </p><p>“We offered to REMUNERATE them for the time they had spent helping us.” </p><p>“If you become my assistant I will REMUNERATE you handsomely.” </p><p>In a slightly different sense, REMUNERATE can mean to <i class=“def-ital\">pay for</i> or to <i class=“def-ital\">reward</i>. </p><p>“The boss REMUNERATED our efforts with a large bonus.” </p><p>REMUNERATION is the act of REMUNERATING, or a payment, a recompense. “Art was troubled by his inadequate REMUNERATION and demanded more money.” </p><p>Other forms of the word: REMUNERATION, n.</p>"
+    },
+    "TIMOROUS": {
+      "word": "TIMOROUS",
+      "phonetic": "(tim'-ÔøΩ-as)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fearful, timid, apprehensive </p><p>TIMOROUS comes from the Latin word for <i class=“def-ital\">fear</i>, also the source of the word <i class=“def-ital\">timid</i>. A person who is TIMOROUS is easily intimidated and is afraid to do things, such as make decisions or be self-assertive. </p><p>“Paul grew so TIMOROUS once inside the deserted house that he couldn’t go forward or leave; he was frozen to the spot with fear.” </p><p>“The TIMOROUS clerk couldn’t get up the courage to ask his boss for a raise.” </p><p>“Susie is so TIMOROUS she is apprehensive about leaving the house.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">quiet</i>. TIMOROUS people are usually quiet, but TIMOROUS means <i class=“def-ital\">fearful</i>.</p>"
+    },
+    "CHURLISH": {
+      "word": "CHURLISH",
+      "phonetic": "(cher'-lish)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">rude, boorish, loutish </p><p>A CHURL was originally a man of the lowest class in England. The word then came to refer to a person having the qualities thought to be characteristic of a CHURL: rudeness, surliness, vulgarity. CHURLISH is the adjective from CHURL; see <i class=“def-ital\">-ish</i> under Suffixes. </p><p>“The CHURLISH man refused to let the boys cut through his yard.” </p><p>“The CHURLISH waitress demanded to know if we hade made up our minds yet.” </p><p>“The bus driver CHURLISHLY told the children to shut up or get out and walk.” </p><p>Other forms of the word: CHURL, n.</p>"
+    },
+    "DILATE": {
+      "word": "DILATE",
+      "phonetic": "(dl-lAt')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to widen, expand </p><p>The <i class=“def-ital\">late</i> part of DILATE comes from a Latin word meaning <i class=“def-ital\">wide</i>, also found in the English word <i class=“def-ital\">latitude</i>.  To DILATE is to become wider, to expand. The word is generally used about physical objects. </p><p>“The ophthalmologist put some drops in her eyes to make the pupils DILATE.” </p><p>The word is sometimes used about opinions or subject matter, with the meaning “to speak at length.” In this sense DILATE is usually followed by <i class=“def-ital\">on</i> or <i class=“def-ital\">upon</i>. “The senator DILATED upon his views on fiscal policy.” </p><p>Other forms of the word: DILATION, n. DILATATION, n.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">di-</i> under Prefixes."
+      ]
+    },
+    "HIATUS": {
+      "word": "HIATUS",
+      "phonetic": "(hl-A'-t::is)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a gap, interruption, break </p><p>A HIATUS is a gap or interval, generally of time or continuity. </p><p>“The celebrated actress returned to the stage after a HIATUS of twelve years.” </p><p>“During the brief HIATUS between appointments, the doctor was able to rest for a few minutes.” </p><p>“Students used the HIATUS between the end of classes and the beginning of exams to catch up on their reading.”</p>"
+    },
+    "LASSITUDE": {
+      "word": "LASSITUDE",
+      "phonetic": "(las'-ÔøΩtUd)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">weariness, lethargy, languor, listlessness </p><p>LASSITUDE is a state of weariness and inactivity, a lack of energy resulting from strain, overwork, a hot climate, or the like. </p><p>“Angela couldn’t seem to overcome her LASSITUDE; all she wanted to do was lie in bed.” </p><p>“After the long baseball season the player gave way to a strong feeling of LASSITUDE.” </p><p>“The muggy, tropical climate induced an overpowering LASSITUDE that made it difficult to work.”</p>"
+    },
+    "PETULANT": {
+      "word": "PETULANT",
+      "phonetic": "(pech'-U-1::int)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">irritable, peevish, ill-tempered </p><p>PETULANT means peevish, “easily upset or angered,” like a spoiled child who doesn’t get his or her own way. </p><p>“The PETULANT actress became angry every time the director made a suggestion.” </p><p>“Bob complained PETULANTLY that everyone else always got dessert before he did.” </p><p>“Rich knew from her PETULANT refusal to greet him that she was angry with him again.” </p><p>Other forms of the word: PETULANCE, n.</p>"
+    },
+    "REVERIE": {
+      "word": "REVERIE",
+      "phonetic": "(rev'-::ir-E)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a daydream, fanciful musing </p><p>REVERIE is sometimes spelled REVERY. </p><p>A REVERIE is a daydream, a series of idle thoughts or images. </p><p>“Sharon was lost in a REVERIE, thinking about things that happened long ago.” </p><p>“Jim’s REVERIE lasted for an hour before he realized that he bad to go to work.” </p><p>It is also the act of daydreaming. </p><p>“The old man spent his days sitting by the lake in quiet REVERIE.” </p><p><i class=“def-ital\">Prayer</i> is a popular choice as the meaning of REVERIE, perhaps because both involve a kind of quiet thought, perhaps because of confusion with the word <i class=“def-ital\">revere</i>, which means to <i class=“def-ital\">worship</i>.</p>"
+    },
+    "SAGACIOUS": {
+      "word": "SAGACIOUS",
+      "phonetic": "(sÔøΩgA'-shÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">shrewd, astute, judicious, wise </p><p>A SAGACIOUS person possesses good judgment, keen penetration, and farsightedness, usually obtained through wide experience. </p><p>“The SAGACIOUS lawyer said that these matters took time, but that we should win in the end.” </p><p>“Through her SAGACIOUS investments in computer stocks she managed to become quite wealthy.” </p><p>The noun related to SAGACIOUS is SAGACITY. </p><p>“Thanks to the SAGACITY of its president, this company has grown steadily over the years.” </p><p>Other forms of the word: SAGACITY, n.</p>"
+    },
+    "DIRE": {
+      "word": "DIRE",
+      "phonetic": "(dlr)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">fearful, calamitous, disastrous; extreme, urgent </p><p>Something that is DIRE causes great fear, either because it is disastrous now, or threatens disaster in the future. </p><p>“The general warned of DIRE consequences if the country didn’t spend more money on defense.” </p><p>“The loss of the star center was a DIRE blow to the basketball team.” </p><p>Often the word places less emphasis on fear and more on urgency or desperation. </p><p>“Only in a DIRE emergency would a pupil be allowed to leave school early.” </p><p>“He was forced to steal out of DIRE necessity; otherwise he would have starved.”</p>"
+    },
+    "EBULLIENCE": {
+      "word": "EBULLIENCE",
+      "phonetic": "(i-bul'-yÔøΩns)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">enthusiasm, exuberance, high spirits </p><p> The <i class=“def-ital\">bull</i> part of EBULLIENCE comes from a Latin word meaning to <i class=“def-ital\">boil</i>. EBULLIENCE is a “boiling out” of enthusiasm or exuberance. It suggests an overflowing of feelings or high spirits. </p><p>“With his usual EBULLIENCE, the professor talked for an hour about how great and wise Socrates had been.” </p><p>The adjective from EBULLIENCE is EBULLIENT. </p><p>“After the victory, the EBULLIENT coach said that this was the finest team he had ever been associated with.” </p><p>The most commonly chosen wrong answer is <i class=“def-ital\">brilliance</i>, perhaps because of the similarity in sound, and because both are positive qualities for a person to have. </p><p>Other forms of the word: EBULLIENT, adj.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">ex-</i> under Prefixes."
+      ]
+    }
+  },
+  "id": "8",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "to QUAFF",
+          "answers": [
+            "eat",
+            "laugh",
+            "drink",
+            "scratch",
+            "cough"
+          ],
+          "word": "QUAFF",
+          "correct": "drink"
+        },
+        {
+          "prompt": "CHOLERIC",
+          "answers": [
+            "bad tempered",
+            "dying",
+            "passive",
+            "energetic",
+            "underfed"
+          ],
+          "word": "CHOLERIC",
+          "correct": "bad tempered"
+        },
+        {
+          "prompt": "DULCET",
+          "answers": [
+            "boring",
+            "sweet",
+            "harsh",
+            "bland",
+            "smooth"
+          ],
+          "word": "DULCET",
+          "correct": "sweet"
+        },
+        {
+          "prompt": "OBSEQUIOUS",
+          "answers": [
+            "stem",
+            "helpful",
+            "crafty",
+            "fawning",
+            "reverent"
+          ],
+          "word": "OBSEQUIOUS",
+          "correct": "fawning"
+        },
+        {
+          "prompt": "to REMUNERATE",
+          "answers": [
+            "pay",
+            "promote",
+            "fine",
+            "award",
+            "recount"
+          ],
+          "word": "REMUNERATE",
+          "correct": "pay"
+        },
+        {
+          "prompt": "TIMOROUS",
+          "answers": [
+            "nasty",
+            "quiet",
+            "loving",
+            "tiny",
+            "fearful"
+          ],
+          "word": "TIMOROUS",
+          "correct": "fearful"
+        },
+        {
+          "prompt": "CHURLISH",
+          "answers": [
+            "helpful",
+            "rude",
+            "silly",
+            "greedy",
+            "ugly"
+          ],
+          "word": "CHURLISH",
+          "correct": "rude"
+        },
+        {
+          "prompt": "to DILATE",
+          "answers": [
+            "waver",
+            "decline",
+            "expand",
+            "harden",
+            "contract"
+          ],
+          "word": "DILATE",
+          "correct": "expand"
+        },
+        {
+          "prompt": "HIATUS",
+          "answers": [
+            "problem",
+            "shelter",
+            "gap",
+            "rumor",
+            "extension"
+          ],
+          "word": "HIATUS",
+          "correct": "gap"
+        },
+        {
+          "prompt": "LASSITUDE",
+          "answers": [
+            "poverty",
+            "desire",
+            "happiness",
+            "greed",
+            "weariness"
+          ],
+          "word": "LASSITUDE",
+          "correct": "weariness"
+        },
+        {
+          "prompt": "PETULANT",
+          "answers": [
+            "quick",
+            "friendly",
+            "popular",
+            "irritable",
+            "cunning"
+          ],
+          "word": "PETULANT",
+          "correct": "irritable"
+        },
+        {
+          "prompt": "REVERIE",
+          "answers": [
+            "daydream",
+            "prayer",
+            "conversation",
+            "task",
+            "judgment"
+          ],
+          "word": "REVERIE",
+          "correct": "daydream"
+        },
+        {
+          "prompt": "SAGACIOUS",
+          "answers": [
+            "absurd",
+            "shrewd",
+            "obscure",
+            "courteous",
+            "renowned"
+          ],
+          "word": "SAGACIOUS",
+          "correct": "shrewd"
+        },
+        {
+          "prompt": "DIRE",
+          "answers": [
+            "hideous",
+            "uncertain",
+            "complex",
+            "complete",
+            "fearful"
+          ],
+          "word": "DIRE",
+          "correct": "fearful"
+        },
+        {
+          "prompt": "EBULLIENCE",
+          "answers": [
+            "brilliance",
+            "enthusiasm",
+            "unhappiness",
+            "fatness",
+            "humor"
+          ],
+          "word": "EBULLIENCE",
+          "correct": "enthusiasm"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Can you QUAFF food?",
+          "word": "QUAFF",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would it be fun to live with a CHOLERIC person?",
+          "word": "CHOLERIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can DULCET sounds be soothing?",
+          "word": "DULCET",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would an argumentative person be OBSEQUIOUS?",
+          "word": "OBSEQUIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would workers be angry if they received no REMUNERATION?",
+          "word": "REMUNERATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are boxing champions usually TIMOROUS?",
+          "word": "TIMOROUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Do CHURLS tend to be pleasant?",
+          "word": "CHURLISH",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can your stomach DILATE?",
+          "word": "DILATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can a HIATUS last for a long time?",
+          "word": "HIATUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Could a boring job cause LASSITUDE?",
+          "word": "LASSITUDE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is it easy to get along with a PETULANT person?",
+          "word": "PETULANT",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a REVERIE loud?",
+          "word": "REVERIE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a SAGACIOUS person be likely to go bankrupt?",
+          "word": "SAGACIOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is an earthquake in a populated area a DIRE event?",
+          "word": "DIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Would learning about a tragedy cause EBULLIENCE?",
+          "word": "EBULLIENCE",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "We didn't mean to be greedy, but the punch was so good we QUAFFED glass after glass of it.",
+          "word": "QUAFF",
+          "correct": "true"
+        },
+        {
+          "prompt": "The doctor said the infant was CHOLERIC and had to be brought to the hospital immediately.",
+          "word": "CHOLERIC",
+          "correct": "false"
+        },
+        {
+          "prompt": "The DULCET sounds of a jackhammer kept him from getting any sleep.",
+          "word": "DULCET",
+          "correct": "false"
+        },
+        {
+          "prompt": "The OBSEQUIOUS doorman took off his hat and bowed to us as we went in.",
+          "word": "OBSEQUIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Jennifer REMUNERATED us that the party was Sunday night.",
+          "word": "REMUNERATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The TIMOROUS man always let other people get ahead of him in supermarket lines.",
+          "word": "TIMOROUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The CHURLISH ballplayer snarled at the boys asking for his autograph.",
+          "word": "CHURLISH",
+          "correct": "true"
+        },
+        {
+          "prompt": "The traffic jam DILATED John for his appointment.",
+          "word": "DILATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "The president-elect chose his cabinet during the three-month HIATUS between winning the election and taking office.",
+          "word": "HIATUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "They gave us extraordinary LASSITUDE, but we were still able to complete the job.",
+          "word": "LASSITUDE",
+          "correct": "false"
+        },
+        {
+          "prompt": "I'm not PETULANT; I just have high standards, and I get angry when people don't meet them.",
+          "word": "PETULANT",
+          "correct": "true"
+        },
+        {
+          "prompt": "In solemn REVERIE he begged God to forgive his sins.",
+          "word": "REVERIE",
+          "correct": "false"
+        },
+        {
+          "prompt": "If it hadn't been for your SAGACIOUS advice we would have made some very foolish mistakes.",
+          "word": "SAGACIOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "The book's DIRE forecasts of coming wars and famines were very depressing.",
+          "word": "DIRE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Nothing could dampen their EBULLIENCE when the principal let them out of school early.",
+          "word": "EBULLIENCE",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "QUAFF",
+          "answers": [
+            "drink",
+            "dine",
+            "gulp"
+          ],
+          "word": "QUAFF",
+          "correct": "1"
+        },
+        {
+          "prompt": "CHOLERIC",
+          "answers": [
+            "pugnacious",
+            "frightened",
+            "peevish"
+          ],
+          "word": "CHOLERIC",
+          "correct": "1"
+        },
+        {
+          "prompt": "DULCET",
+          "answers": [
+            "harsh",
+            "tuneful",
+            "melodious"
+          ],
+          "word": "DULCET",
+          "correct": "0"
+        },
+        {
+          "prompt": "OBSEQUIOUS",
+          "answers": [
+            "slavish",
+            "secretive",
+            "subservient"
+          ],
+          "word": "OBSEQUIOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "REMUNERATE",
+          "answers": [
+            "recompense",
+            "rectify",
+            "reimburse"
+          ],
+          "word": "REMUNERATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "TIMOROUS",
+          "answers": [
+            "frightened",
+            "vexing",
+            "daunted"
+          ],
+          "word": "TIMOROUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "CHURLISH",
+          "answers": [
+            "brusque",
+            "dour",
+            "suspicious"
+          ],
+          "word": "CHURLISH",
+          "correct": "2"
+        },
+        {
+          "prompt": "DILATE",
+          "answers": [
+            "expand",
+            "widen",
+            "shorten"
+          ],
+          "word": "DILATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "HIATUS",
+          "answers": [
+            "interval",
+            "conclusion",
+            "intermission"
+          ],
+          "word": "HIATUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "LASSITUDE",
+          "answers": [
+            "depression",
+            "tiredness",
+            "listlessness"
+          ],
+          "word": "LASSITUDE",
+          "correct": "0"
+        },
+        {
+          "prompt": "PETULANT",
+          "answers": [
+            "irritable",
+            "sad",
+            "peevish"
+          ],
+          "word": "PETULANT",
+          "correct": "1"
+        },
+        {
+          "prompt": "REVERIE",
+          "answers": [
+            "thinking",
+            "planning",
+            "dreaming"
+          ],
+          "word": "REVERIE",
+          "correct": "1"
+        },
+        {
+          "prompt": "SAGACIOUS",
+          "answers": [
+            "holy",
+            "shrewd",
+            "wise"
+          ],
+          "word": "SAGACIOUS",
+          "correct": "0"
+        },
+        {
+          "prompt": "DIRE",
+          "answers": [
+            "favorable",
+            "ominous",
+            "painful"
+          ],
+          "word": "DIRE",
+          "correct": "0"
+        },
+        {
+          "prompt": "EBULLIENCE",
+          "answers": [
+            "exuberance",
+            "contentment",
+            "happiness"
+          ],
+          "word": "EBULLIENCE",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

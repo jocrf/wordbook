@@ -1,0 +1,617 @@
+{
+  "title": "5.10",
+  "definitions": {
+    "JOVIAL": {
+      "word": "JOVIAL",
+      "phonetic": "(jO'-vE-::,1)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">jolly, merry, good-humored </p><p><i class=“def-ital\">Jove</i> is another name for the ancient Roman god <i class=“def-ital\">Jupiter,</i> after whom the planet Jupiter is named. In astrology, Jupiter is supposed to be the source of joy and happiness. Someone who is JOVIAL is influenced by Jupiter, is full of good humor and fun.  </p><p>“He is a JOVIAL old man, always laughing and making jokes.” </p><p>“She pretended to be JOVIAL when she found out she had failed the test, but we could tell she was disappointed and unhappy.” </p><p>During the Pretest, many people think JOVIAL means <i class=“def-ital\">friendly.</i> A person could be <i class=“def-ital\">friendly,</i> however, without being merry and jolly. </p><p>Other forms of the word: JOVIALITY, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-al</i> under Suffixes."
+      ]
+    },
+    "ANECDOTE": {
+      "word": "ANECDOTE",
+      "phonetic": "(an'-ik-dOt)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a brief tale, story </p><p>An ANECDOTE is a short, true story, usually amusing, about a person or an event. An ANECDOTE is told to give a picture of a famous person’s character, to illustrate some truth, or just to entertain. </p><p>“The musician told us several humorous ANEC- DOTES about famous singers for whom he had played.” </p><p>“The first chapter in the book is just a series of ANEC- DOTES of Harry Truman’s childhood.” </p><p>“The speaker began by telling us a couple of ANEC- DOTES about his travels in India.”</p>"
+    },
+    "ANNIHILATE": {
+      "word": "ANNIHILATE",
+      "phonetic": "(ÔøΩ-nl'-::>-IAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to destroy completely, demolish </p><p> The <i class=“def-ital\">nihil</i> part of ANNIHILATE is the Latin word for <i class=“def-ital\">nothing.</i> To ANNIHILATE something is to turn it into nothing, to destroy it so completely that nothing remains. </p><p>“The general said he didn’t want just to defeat the enemy, he wanted to ANNIHILATE them.” </p><p>“The city was ANNIHILATED by the atomic explosion.” </p><p>“They ANNIHILATED the other football team; the score was 69-6!” </p><p>Other forms of the word: ANNIHILATION, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">ad-</i> under Prefixes and <i class=“def-ital\">-ate1</i> under Suffixes."
+      ]
+    },
+    "PANDEMONIUM": {
+      "word": "PANDEMONIUM",
+      "phonetic": "(pan-d::>-mO'-nE-::>m)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">uproar, wild disorder, tumult, chaos </p><p>PANDEMONIUM was made up from two Greek words meaning “all the demons.” The word was first used by John Milton in his poem <i class=“def-ital\">Paradise Lost</i> as the name of the capital of Hell. Since then it has come to be used about any scene of wild noise and disorder. </p><p>“PANDEMONIUM broke out in the stands when we won the championship.” </p><p>“There was PANDEMONIUM in the classroom when- ever the teacher left.” </p><p>“Stay away from that part of town. It’s utter PANDEMONIUM on Saturday nights.”</p>"
+    },
+    "CIRCUITOUS": {
+      "word": "CIRCUITOUS",
+      "phonetic": "(s::>r-kyU'-::>-tÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">roundabout, indirect </p><p>CIRCUITOUS is an adjective from the word CIRCUIT.  Both words are related to the word <i class=“def-ital\">circle.</i> The basic meaning of CIRCUIT is “a journey or route around something.” </p><p>“We made a CIRCUIT around the flooded area.” </p><p>CIRCUITOUS is used about routes, trips, and the like and means “taking the long way round,” <i class=“def-ital\">roundabout.</i> </p><p>“We got lost and ended up taking a somewhat CIRCUITOUS route, but we still managed to get there on time.” </p><p>“They took a CIRCUITOUS journey through the mountains; they were more interested in seeing the scenery than in going quickly.” </p><p>The word can also be used in a general sense to mean <i class=“def-ital\">indirect, not straightforward.</i> </p><p>“We had difficulty following his CIRCUITOUS reasoning, but at last he began to make sense.” </p><p>Other forms of the word: CIRCUIT, n.</p>",
+      "suffix": [
+        "See <i class=“def-ital\">-ous</i> under Suffixes."
+      ]
+    },
+    "DISSIPATE": {
+      "word": "DISSIPATE",
+      "phonetic": "(dis'-ÔøΩ-pAt)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to scatter, disperse, waste </p><p>DISSIPATE means to <i class=“def-ital\">scatter</i> or <i class=“def-ital\">dissolve.</i> </p><p>“The hot sun DISSIPATED the early morning fog.” </p><p>“He never got anything done. His time just seemed to DISSIPATE.” </p><p>Very often DISSIPATE has the sense of scattering fool- ishly, of <i class=“def-ital\">wasting.</i> </p><p>“Because of his gambling, William managed to DISSIPATE his inheritance within a year.” </p><p>The noun DISSIPATION means a <i class=“def-ital\">wasting</i> or <i class=“def-ital\">scattering</i>; it is usually used in descriptions of wasted lives. </p><p>“We hadn’t seen him in several years. He was terribly changed by the life of DISSIPATION he had led.” </p><p>Other forms of the word: DISSIPATION, n.</p>"
+    },
+    "DEFRAUD": {
+      "word": "DEFRAUD",
+      "phonetic": "(di-frod')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to cheat, trick, get by fraud </p><p>A FRAUD is an act of trickery. </p><p>“He posed as a jewelry expert and got the ring from her by FRAUD.” </p><p>To DEFRAUD someone is to take something away from him by FRAUD, to <i class=“def-ital\">cheat</i> him.  “One of the partners DEFRAUDED the others of their share of the profits.” </p><p>“The young man was DEFRAUDED of his inheritance by the dishonest lawyers.” </p><p>“The crook DEFRAUDED several people of their life’s savings.”</p>",
+      "prefix": [
+        "See <i class=“def-ital\">de-</i> under Prefixes."
+      ]
+    },
+    "HUE": {
+      "word": "HUE",
+      "phonetic": "(hyU)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">color, tint, shade </p><p>HUE means just about the same thing as color. </p><p>“Her dress included all the HUES of the rainbow.” </p><p>“For the ceiling, he chose a paint of a slightly lighter HUE.” </p><p>“The sky turned a strange HUE, and we all knew there was bad weather coming.” </p><p><i class=“def-ital\">Smell</i> and <i class=“def-ital\">sight</i> are the most commonly chosen incorrect answers. People who pick these words probably know that HUE has something to do with the senses, but aren’t exactly sure what. </p><p>Usage: HUE is usually used in poetic or literary kinds of writing.</p>"
+    },
+    "DISCORD": {
+      "word": "DISCORD",
+      "phonetic": "(dis'-kord)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">conflict, strife, disagreement, lack of harmony </p><p>In music, a <i class=“def-ital\">chord</i> is a combination of two or more tones sounded together. DISCORD is related to <i class=“def-ital\">chord</i>. A DISCORD in music is a chord which has a harsh or unpleas- ant sound.  DISCORD is also used generally about situations where people or things are not in harmony with one another. </p><p>“There was a great deal of DISCORD at the meeting; no one could agree about anything.” </p><p>“Jill couldn’t stand the DISCORD among the members of her family.” </p><p>“The long years of DISCORD between the two countries finally resulted in war.” </p><p>Other forms of the word: DISCORDANT, adj.</p>",
+      "prefix": [
+        "See <i class=“def-ital\">dis-</i> under Prefixes."
+      ]
+    },
+    "BEDLAM": {
+      "word": "BEDLAM",
+      "phonetic": "(bed'-lÔøΩm)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a madhouse, insane asylum; confused noise </p><p>BEDLAM was the name of an insane asylum in London; from this the word came to mean any madhouse or insane asylum. Then, because a madhouse was supposed to be a place full of noise and screaming, BEDLAM took on the meaning of“a scene of noise, uproar, and confusion.” </p><p>“Everyone in the room began to yell at once; the place turned into a BEDLAM.” </p><p>“The playground was a BEDLAM of little children shouting and running every which way.” </p><p>“It was BEDLAM around here until our parents returned.”</p>"
+    },
+    "CASTE": {
+      "word": "CASTE",
+      "phonetic": "(kast)",
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a social class </p><p>In India, CASTES are the various social classes that people are born into. Which CASTE you belong to can limit the occupations you can have and the people you can deal with. Thus a CASTE is a separate and exclusive class of society. </p><p>“He belonged to the highest CASTE, so he felt such a job was beneath him.” </p><p>“The people who knew how to cure illnesses formed a separate CASTE within their society.” </p><p>“If you were born into the lowest CASTE, you could not expect to become very successful.”</p>"
+    },
+    "DEVISE": {
+      "word": "DEVISE",
+      "phonetic": "(di-viz')",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to invent, formulate, plan, contrive </p><p>To DEVISE something is to make it up or <i class=“def-ital\">invent it,</i> usually through a new arrangement of ideas or parts that already exist. </p><p>“He DEVISED a new method for filing the cards.” </p><p>“They DEVISED a scheme to cheat the insurance company.” </p><p>“Jim DEVISED a good radio out of some spare parts on his workbench.” </p><p><i class=“def-ital\">Change</i> and <i class=“def-ital\">fix</i> are common choices as the correct mean- ing of DEVISE. This may be due to confusing DEVISE with revise. To DEVISE something is to invent it. To <i class=“def-ital\">revise</i> something is to change it with the idea of making it better. </p><p>“After he DEVISED the system he revised it several times in order to improve it.”</p>"
+    },
+    "CONSPICUOUS": {
+      "word": "CONSPICUOUS",
+      "phonetic": "(kÔøΩn-spik'-yU-ÔøΩs)",
+      "pos": "adj.",
+      "deftext": "<p class=\"definition\">obvious, noticeable, striking </p><p>CONSPICUOUS comes from a Latin word meaning to see, also the source of other English words like <i class=“def-ital\">spy<i class=“def-ital\"></i> and <i class=“def-ital\">spectacles.</i> Something that is CONSPICUOUS is very easy to see. It stands out from everything around it. </p><p>“Put the <i class=“def-ital\">No Smoking</i> sign in a CONSPICUOUS place so that everyone will notice it.” </p><p>“She was very CONSPICUOUS in her huge orange hat.” </p><p>In a slightly different sense, CONSPICUOUS means “at- tracting attention,” because something is out of the ordinary in some way. </p><p>“He received a medal for his CONSPICUOUS bravery during the battle.” </p><p>“The team’s most CONSPICUOUS problem is its complete inability to score goals.”</p>"
+    },
+    "DWINDLE": {
+      "word": "DWINDLE",
+      "phonetic": "(dwin'-dÔøΩI)",
+      "pos": "v.",
+      "deftext": "<p class=\"definition\">to shrink, decrease, decline </p><p>To DWINDLE is to become smaller in size, number, or importance. </p><p>“The number of students applying to that college has been steadily DWINDLING for several years, until now almost no one wants to go there.” </p><p>“The importance of railroads started to DWINDLE with the development of a national highway system.” </p><p>“The snowman DWINDLED as the sun shone on it, until finally it all melted away.” </p><p><i class=“def-ital\">Waste time</i> is the most commonly wrong answer on the Pretest, probably because of confusion with the word <i class=“def-ital\">dawdle.</i></p>"
+    },
+    "GIST": {
+      "word": "GIST",
+      "phonetic": "(",
+      "pos": "jist)",
+      "deftext": "<p class=\"definition\">n.: the main part, main idea, essence, general sense </p><p>GIST is a legal term, meaning “the grounds for a legal action\"-that is, the basic reason or point of a case. In general use GIST has the same idea: it is the main point, the central idea of something. </p><p>“Don’t repeat the whole speech to me. I just want the GIST of what he said.” </p><p>“There was a lot more to it, but the GIST of his decision is that you can’t come.”</p>"
+    }
+  },
+  "id": "10",
+  "exercises": [
+    {
+      "questions": [
+        {
+          "prompt": "JOVIAL people.",
+          "answers": [
+            "sad",
+            "clever",
+            "young",
+            "jolly",
+            "friendly"
+          ],
+          "word": "JOVIAL",
+          "correct": "jolly"
+        },
+        {
+          "prompt": "Another ANECDOTE.",
+          "answers": [
+            "doctor",
+            "novel",
+            "game",
+            "speech",
+            "tale"
+          ],
+          "word": "ANECDOTE",
+          "correct": "tale"
+        },
+        {
+          "prompt": "The army was ANNIHILATED.",
+          "answers": [
+            "stopped",
+            "harmed",
+            "destroyed",
+            "attacked",
+            "saved"
+          ],
+          "word": "ANNIHILATE",
+          "correct": "destroyed"
+        },
+        {
+          "prompt": "Complete PANDEMONIUM.",
+          "answers": [
+            "evil",
+            "stillness",
+            "happiness",
+            "uproar",
+            "victory"
+          ],
+          "word": "PANDEMONIUM",
+          "correct": "uproar"
+        },
+        {
+          "prompt": "CIRCUITOUS route.",
+          "answers": [
+            "direct",
+            "complicated",
+            "dangerous",
+            "roundabout",
+            "unexpected"
+          ],
+          "word": "CIRCUITOUS",
+          "correct": "roundabout"
+        },
+        {
+          "prompt": "The opposition will DISSIPATE.",
+          "answers": [
+            "scatter",
+            "lose",
+            "take part",
+            "grow",
+            "hold back"
+          ],
+          "word": "DISSIPATE",
+          "correct": "scatter"
+        },
+        {
+          "prompt": "Tried to DEFRAUD him.",
+          "answers": [
+            "convince",
+            "attack",
+            "cheat",
+            "disturb",
+            "support"
+          ],
+          "word": "DEFRAUD",
+          "correct": "cheat"
+        },
+        {
+          "prompt": "An unpleasant HUE.",
+          "answers": [
+            "smell",
+            "shape",
+            "sight",
+            "paint",
+            "color"
+          ],
+          "word": "HUE",
+          "correct": "color"
+        },
+        {
+          "prompt": "Continuous DISCORD.",
+          "answers": [
+            "agreement",
+            "despair",
+            "singing",
+            "conflict",
+            "removal"
+          ],
+          "word": "DISCORD",
+          "correct": "conflict"
+        },
+        {
+          "prompt": "A real BEDLAM.",
+          "answers": [
+            "rest",
+            "crowd",
+            "disaster",
+            "madhouse",
+            "ceremony"
+          ],
+          "word": "BEDLAM",
+          "correct": "madhouse"
+        },
+        {
+          "prompt": "Lowest CASTE.",
+          "answers": [
+            "population",
+            "class",
+            "brace",
+            "public opinion",
+            "country"
+          ],
+          "word": "CASTE",
+          "correct": "class"
+        },
+        {
+          "prompt": "DEVISE the engine.",
+          "answers": [
+            "destroy",
+            "change",
+            "check",
+            "invent",
+            "fix"
+          ],
+          "word": "DEVISE",
+          "correct": "invent"
+        },
+        {
+          "prompt": "Too CONSPICUOUS.",
+          "answers": [
+            "unclear",
+            "obvious",
+            "secret",
+            "silly",
+            "unusual"
+          ],
+          "word": "CONSPICUOUS",
+          "correct": "obvious"
+        },
+        {
+          "prompt": "Began to DWINDLE.",
+          "answers": [
+            "grow",
+            "change",
+            "become worse",
+            "shrink",
+            "waste time"
+          ],
+          "word": "DWINDLE",
+          "correct": "shrink"
+        },
+        {
+          "prompt": "What was the GIST?",
+          "answers": [
+            "cause",
+            "delay",
+            "result",
+            "funny story",
+            "main idea"
+          ],
+          "word": "GIST",
+          "correct": "main idea"
+        }
+      ],
+      "type": "mc-one",
+      "id": "pretest"
+    },
+    {
+      "questions": [
+        {
+          "prompt": "Is Santa Claus supposed to be JOVIAL?",
+          "word": "JOVIAL",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is the play Hamlet an ANECDOTE?",
+          "word": "ANECDOTE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Could an atom bomb ANNIHILATE a city?",
+          "word": "ANNIHILATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Are people calm during PANDEMONIUM?",
+          "word": "PANDEMONIUM",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is a CIRCUITOUS route the fastest one?",
+          "word": "CIRCUITOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Can money be DISSIPATED?",
+          "word": "DISSIPATE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Can you go to jail for DEFRAUDING someone?",
+          "word": "DEFRAUD",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is red a HUE?",
+          "word": "HUE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Is a DISCORD pleasant to hear?",
+          "word": "DISCORD",
+          "correct": "false"
+        },
+        {
+          "prompt": "Is it easy to sleep in a BEDLAM?",
+          "word": "BEDLAM",
+          "correct": "false"
+        },
+        {
+          "prompt": "It is usual for many people to belong to a CASTE?",
+          "word": "CASTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "When you DEVISE something, do you split it in half?",
+          "word": "DEVISE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would a hidden passage be CONSPICUOUS?",
+          "word": "CONSPICUOUS",
+          "correct": "false"
+        },
+        {
+          "prompt": "Does a person walking toward you appear to DWINDLE in size?",
+          "word": "DWINDLE",
+          "correct": "false"
+        },
+        {
+          "prompt": "Would the GIST of a story be added to the end of it?",
+          "word": "GIST",
+          "correct": "false"
+        }
+      ],
+      "type": "tf",
+      "id": 1
+    },
+    {
+      "questions": [
+        {
+          "prompt": "This problem is too JOVIAL for us to bother about.",
+          "word": "JOVIAL",
+          "correct": "false"
+        },
+        {
+          "prompt": "Our uncle told us an ANECDOTE about the time he had lunch with a movie star.",
+          "word": "ANECDOTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "His punch didn't hurt, it just ANNIHILATED me a little.",
+          "word": "ANNIHILATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "They are two respectable citizens who enjoy playing PANDEMONIUM.",
+          "word": "PANDEMONIUM",
+          "correct": "false"
+        },
+        {
+          "prompt": "His arguments were CIRCUITOUS, and no one could quite understand where they were all leading.",
+          "word": "CIRCUITOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "Her DISSIPATION in this project has helped us immensely.",
+          "word": "DISSIPATE",
+          "correct": "false"
+        },
+        {
+          "prompt": "He DEFRAUDED them to everyone as the criminals they really were.",
+          "word": "DEFRAUD",
+          "correct": "false"
+        },
+        {
+          "prompt": "We smelled the wonderful HUE of the rose.",
+          "word": "HUE",
+          "correct": "false"
+        },
+        {
+          "prompt": "There was considerable DISCORD as a result of the school board's decision to make the school year longer.",
+          "word": "DISCORD",
+          "correct": "true"
+        },
+        {
+          "prompt": "BEDLAM broke out in the classroom.",
+          "word": "BEDLAM",
+          "correct": "true"
+        },
+        {
+          "prompt": "It was impossible for her to move into a higher CASTE.",
+          "word": "CASTE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The scientist DEVISED a better method for treating cancer.",
+          "word": "DEVISE",
+          "correct": "true"
+        },
+        {
+          "prompt": "Try not to be too CONSPICUOUS in the store. I don't want anyone to know we're there.",
+          "word": "CONSPICUOUS",
+          "correct": "true"
+        },
+        {
+          "prompt": "She's been out of work for over a year and her savings have DWINDLED considerably.",
+          "word": "DWINDLE",
+          "correct": "true"
+        },
+        {
+          "prompt": "The GIST of his argument is that we did it before, so we can do it again.",
+          "word": "GIST",
+          "correct": "true"
+        }
+      ],
+      "type": "tf",
+      "id": 2
+    },
+    {
+      "questions": [
+        {
+          "prompt": "JOVIAL",
+          "answers": [
+            "pretty",
+            "merry",
+            "happy"
+          ],
+          "word": "JOVIAL",
+          "correct": "0"
+        },
+        {
+          "prompt": "ANECDOTE",
+          "answers": [
+            "story",
+            "lecture",
+            "joke"
+          ],
+          "word": "ANECDOTE",
+          "correct": "1"
+        },
+        {
+          "prompt": "ANNIHILATE",
+          "answers": [
+            "wipe out",
+            "abolish",
+            "cover"
+          ],
+          "word": "ANNIHILATE",
+          "correct": "2"
+        },
+        {
+          "prompt": "PANDEMONIUM",
+          "answers": [
+            "excitement",
+            "loudness",
+            "goodness"
+          ],
+          "word": "PANDEMONIUM",
+          "correct": "2"
+        },
+        {
+          "prompt": "CIRCUITOUS",
+          "answers": [
+            "winding",
+            "clever",
+            "crooked"
+          ],
+          "word": "CIRCUITOUS",
+          "correct": "1"
+        },
+        {
+          "prompt": "DISSIPATE",
+          "answers": [
+            "lose",
+            "contribute",
+            "ruin"
+          ],
+          "word": "DISSIPATE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEFRAUD",
+          "answers": [
+            "lie",
+            "steal",
+            "wound"
+          ],
+          "word": "DEFRAUD",
+          "correct": "2"
+        },
+        {
+          "prompt": "HUE",
+          "answers": [
+            "color",
+            "sound",
+            "tint"
+          ],
+          "word": "HUE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DISCORD",
+          "answers": [
+            "hostility",
+            "disappointment",
+            "disagreement"
+          ],
+          "word": "DISCORD",
+          "correct": "1"
+        },
+        {
+          "prompt": "BEDLAM",
+          "answers": [
+            "insanity",
+            "sneakiness",
+            "noise"
+          ],
+          "word": "BEDLAM",
+          "correct": "1"
+        },
+        {
+          "prompt": "CASTE",
+          "answers": [
+            "level",
+            "sign",
+            "class"
+          ],
+          "word": "CASTE",
+          "correct": "1"
+        },
+        {
+          "prompt": "DEVISE",
+          "answers": [
+            "plan",
+            "contrive",
+            "repair"
+          ],
+          "word": "DEVISE",
+          "correct": "2"
+        },
+        {
+          "prompt": "CONSPICUOUS",
+          "answers": [
+            "outstanding",
+            "distinct",
+            "new"
+          ],
+          "word": "CONSPICUOUS",
+          "correct": "2"
+        },
+        {
+          "prompt": "DWINDLE",
+          "answers": [
+            "diminish",
+            "despair",
+            "decrease"
+          ],
+          "word": "DWINDLE",
+          "correct": "1"
+        },
+        {
+          "prompt": "GIST",
+          "answers": [
+            "core",
+            "best",
+            "essence"
+          ],
+          "word": "GIST",
+          "correct": "1"
+        }
+      ],
+      "type": "mc-all",
+      "id": 3
+    }
+  ]
+}

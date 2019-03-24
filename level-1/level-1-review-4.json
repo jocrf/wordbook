@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ABOLISH",
+      "answer": "abolished"
+    },
+    {
+      "word": "ASSASSIN",
+      "answer": "assassin"
+    },
+    {
+      "word": "ASSAULT",
+      "answer": "assault"
+    },
+    {
+      "word": "AUTHORITY",
+      "answer": "authority"
+    },
+    {
+      "word": "BAWL",
+      "answer": "bawl"
+    },
+    {
+      "word": "CIRCULATE",
+      "answer": "circulated"
+    },
+    {
+      "word": "CIRCUMSTANCE",
+      "answer": "circumstances"
+    },
+    {
+      "word": "CONFIDENT",
+      "answer": "confident"
+    },
+    {
+      "word": "CONVENIENT",
+      "answer": "convenient"
+    },
+    {
+      "word": "DECEASED",
+      "answer": "deceased"
+    },
+    {
+      "word": "DEFECT",
+      "answer": "defects"
+    },
+    {
+      "word": "DEFORMED",
+      "answer": "deformed"
+    },
+    {
+      "word": "DEVOTION",
+      "answer": "devotion"
+    },
+    {
+      "word": "DOZE",
+      "answer": "dozed"
+    },
+    {
+      "word": "ELEMENTARY",
+      "answer": "elementary"
+    },
+    {
+      "word": "ENCOUNTER",
+      "answer": "encounter"
+    },
+    {
+      "word": "ENCOURAGE",
+      "answer": "encourage"
+    },
+    {
+      "word": "ESTABLISH",
+      "answer": "established"
+    },
+    {
+      "word": "EXPEDITION",
+      "answer": "expedition"
+    },
+    {
+      "word": "EXPENSE",
+      "answer": "expense"
+    },
+    {
+      "word": "EXTERMINATE",
+      "answer": "exterminated"
+    },
+    {
+      "word": "FAINT",
+      "answer": "faint"
+    },
+    {
+      "word": "FATAL",
+      "answer": "fatal"
+    },
+    {
+      "word": "FEROCIOUS",
+      "answer": "ferocious"
+    },
+    {
+      "word": "FLATTER",
+      "answer": "flatter"
+    },
+    {
+      "word": "GLEEFUL",
+      "answer": "gleeful"
+    },
+    {
+      "word": "GLUM",
+      "answer": "glum"
+    },
+    {
+      "word": "GNARLED",
+      "answer": "gnarled"
+    },
+    {
+      "word": "GRIEF",
+      "answer": "grief"
+    },
+    {
+      "word": "HEX",
+      "answer": "hex"
+    },
+    {
+      "word": "HOBBLE",
+      "answer": "hobble"
+    },
+    {
+      "word": "HOMICIDE",
+      "answer": "homicide"
+    },
+    {
+      "word": "IMPOSTOR",
+      "answer": "impostors"
+    },
+    {
+      "word": "INCINERATE",
+      "answer": "incinerated"
+    },
+    {
+      "word": "INSTRUCT",
+      "answer": "instructed"
+    },
+    {
+      "word": "INTERIOR",
+      "answer": "interior"
+    },
+    {
+      "word": "LAG",
+      "answer": "lag"
+    },
+    {
+      "word": "LINK",
+      "answer": "linked"
+    },
+    {
+      "word": "MOOD",
+      "answer": "mood"
+    },
+    {
+      "word": "MUFFLE",
+      "answer": "muffle"
+    },
+    {
+      "word": "NAVIGATE",
+      "answer": "navigate"
+    },
+    {
+      "word": "OCCASIONALLY",
+      "answer": "occasionally"
+    },
+    {
+      "word": "QUAKE",
+      "answer": "quake"
+    },
+    {
+      "word": "RESIST",
+      "answer": "resisted"
+    },
+    {
+      "word": "SHRIEK",
+      "answer": "shrieked"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "The company paid for the entire",
+      "part2": "of his trip to New York.",
+      "correct": "expense",
+      "word": "EXPENSE"
+    },
+    {
+      "part1": "Fred",
+      "part2": "off while watching television, and didn't wake up until midnight.",
+      "correct": "dozed",
+      "word": "DOZE"
+    },
+    {
+      "part1": "Billy started to",
+      "part2": "when we told him he couldn't come to the movies with us.",
+      "correct": "bawl",
+      "word": "BAWL"
+    },
+    {
+      "part1": "The governor gave them the",
+      "part2": "to arrest people caught stealing.",
+      "correct": "authority",
+      "word": "AUTHORITY"
+    },
+    {
+      "part1": "Sam knew he would get into trouble if he called Jane a liar, so he",
+      "part2": "the temptation to speak his mind.",
+      "correct": "resisted",
+      "word": "RESIST"
+    },
+    {
+      "part1": "Ted claimed a witch had put a(n)",
+      "part2": "on him, and that was why he did so poorly on the test.",
+      "correct": "hex",
+      "word": "HEX"
+    },
+    {
+      "part1": "The coach was impressed by Jim's",
+      "part2": "to the team. He was at every practice, even when he was injured.",
+      "correct": "devotion",
+      "word": "DEVOTION"
+    },
+    {
+      "part1": "The police claimed that Jones was the",
+      "part2": "who shot the politician.",
+      "correct": "assassin",
+      "word": "ASSASSIN"
+    },
+    {
+      "part1": "I've never seen such",
+      "part2": "over the death of a bird. Poor Judy is crying day and night.",
+      "correct": "grief",
+      "word": "GRIEF"
+    },
+    {
+      "part1": "The children",
+      "part2": "with fear when they saw the lion running toward them.",
+      "correct": "shrieked",
+      "word": "SHRIEK"
+    },
+    {
+      "part1": "Whenever he felt the pain in his foot he could only",
+      "part2": "; it hurt too much to walk normally.",
+      "correct": "hobble",
+      "word": "HOBBLE"
+    },
+    {
+      "part1": "He is now",
+      "part2": ", but he was a wonderful fellow when he was alive.",
+      "correct": "deceased",
+      "word": "DECEASED"
+    },
+    {
+      "part1": "The younger children started to",
+      "part2": "behind and had to run to catch up with the others.",
+      "correct": "lag",
+      "word": "LAG"
+    },
+    {
+      "part1": "The villain underestimating the police proved a",
+      "part2": "mistake in his grand plans.",
+      "correct": "fatal",
+      "word": "FATAL"
+    },
+    {
+      "part1": "I am",
+      "part2": "that when you see what I have done you will approve of it.",
+      "correct": "confident",
+      "word": "CONFIDENT"
+    },
+    {
+      "part1": "Her praise will",
+      "part2": "me to try even harder next time.",
+      "correct": "encourage",
+      "word": "ENCOURAGE"
+    },
+    {
+      "part1": "They had to",
+      "part2": "the ship through some dangerous rocks to reach the harbor.",
+      "correct": "navigate",
+      "word": "NAVIGATE"
+    },
+    {
+      "part1": "Under no",
+      "part2": "will you be allowed to go outside by yourself.",
+      "correct": "circumstances",
+      "word": "CIRCUMSTANCE"
+    },
+    {
+      "part1": "Some people like the",
+      "part2": ", weatherbeaten look of old log cabins.",
+      "correct": "gnarled",
+      "word": "GNARLED"
+    },
+    {
+      "part1": "The drunk tried to",
+      "part2": "the police officer.",
+      "correct": "assault",
+      "word": "ASSAULT"
+    },
+    {
+      "part1": "We thought they were real policemen, but later found out they were",
+      "part2": ".",
+      "correct": "impostors",
+      "word": "IMPOSTOR"
+    },
+    {
+      "part1": "All the insects in the house have been",
+      "part2": ", so you needn't worry about them.",
+      "correct": "exterminated",
+      "word": "EXTERMINATE"
+    },
+    {
+      "part1": "They said he died of natural causes, but the detective suspected it was actually",
+      "part2": ".",
+      "correct": "homicide",
+      "word": "HOMICIDE"
+    },
+    {
+      "part1": "When the new king came to power he",
+      "part2": "all the harsh laws of the old king.",
+      "correct": "abolished",
+      "word": "ABOLISH"
+    },
+    {
+      "part1": "The janitor",
+      "part2": "all the rubbish until there was nothing but ashes left.",
+      "correct": "incinerated",
+      "word": "INCINERATE"
+    },
+    {
+      "part1": "Tom began to",
+      "part2": "with fear when he was told to go to the principal's office.",
+      "correct": "quake",
+      "word": "QUAKE"
+    },
+    {
+      "part1": "Many soldiers were injured in the brief military",
+      "part2": ".",
+      "correct": "encounter",
+      "word": "ENCOUNTER"
+    },
+    {
+      "part1": "If you want him to like you, you have to",
+      "part2": "him by telling him how clever he is.",
+      "correct": "flatter",
+      "word": "FLATTER"
+    },
+    {
+      "part1": "Each elephant held the next one's tail in its trunk, so that they were all",
+      "part2": "together in a chain for the parade.",
+      "correct": "linked",
+      "word": "LINK"
+    },
+    {
+      "part1": "The doctor told him that his badly injured hand would always be slightly",
+      "part2": ".",
+      "correct": "deformed",
+      "word": "DEFORMED"
+    },
+    {
+      "part1": "I felt pretty",
+      "part2": "when I didn't make the team.",
+      "correct": "glum",
+      "word": "GLUM"
+    },
+    {
+      "part1": "The people at the funeral did not feel particularly",
+      "part2": ".",
+      "correct": "gleeful",
+      "word": "GLEEFUL"
+    },
+    {
+      "part1": "Jennifer was in such a good",
+      "part2": "that she even said hello to her worst enemy.",
+      "correct": "mood",
+      "word": "MOOD"
+    },
+    {
+      "part1": "She kept the iron in a place that wasn't very",
+      "part2": "for me, since I needed a ladder to reach it.",
+      "correct": "convenient",
+      "word": "CONVENIENT"
+    },
+    {
+      "part1": "He had only heard about the book from friends, so he only had a(n)",
+      "part2": "idea of what it was about.",
+      "correct": "faint",
+      "word": "FAINT"
+    },
+    {
+      "part1": "The lawyer",
+      "part2": "the fact that the witness was at the scene of the murder.",
+      "correct": "established",
+      "word": "ESTABLISH"
+    },
+    {
+      "part1": "They",
+      "part2": "went on camping trips-once a year or so.",
+      "correct": "occasionally",
+      "word": "OCCASIONALLY"
+    },
+    {
+      "part1": "Arthur",
+      "part2": "a statement around the classroom saying why he should be elected class president.",
+      "correct": "circulated",
+      "word": "CIRCULATE"
+    },
+    {
+      "part1": "The lioness gave a(n)",
+      "part2": "snarl whenever anyone tried to pick up one of her cubs.",
+      "correct": "ferocious",
+      "word": "FEROCIOUS"
+    },
+    {
+      "part1": "He put a blanket over his drum to",
+      "part2": "the noise when he was practicing.",
+      "correct": "muffle",
+      "word": "MUFFLE"
+    },
+    {
+      "part1": "The doctor",
+      "part2": "the patient to take the medicine three times a day.",
+      "correct": "instructed",
+      "word": "INSTRUCT"
+    },
+    {
+      "part1": "Almost every kind of learning starts with the",
+      "part2": "principles and then progresses to more advanced study.",
+      "correct": "elementary",
+      "word": "ELEMENTARY"
+    },
+    {
+      "part1": "There are so many",
+      "part2": "in his work that we don't know where to begin telling him what's wrong.",
+      "correct": "defects",
+      "word": "DEFECT"
+    },
+    {
+      "part1": "They bought supplies and equipment for their",
+      "part2": "into the jungle.",
+      "correct": "expedition",
+      "word": "EXPEDITION"
+    },
+    {
+      "part1": "From the outside the place looked like a barn, but the",
+      "part2": "was very beautiful.",
+      "correct": "interior",
+      "word": "INTERIOR"
+    }
+  ],
+  "type": "fitb",
+  "id": 4
+}

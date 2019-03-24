@@ -1,0 +1,458 @@
+{
+  "wordList": [
+    {
+      "word": "ADULTERATE",
+      "answer": "adulterated"
+    },
+    {
+      "word": "ADVOCATE",
+      "answer": "advocated"
+    },
+    {
+      "word": "AFFIX",
+      "answer": "affixed"
+    },
+    {
+      "word": "AGAPE",
+      "answer": "agape"
+    },
+    {
+      "word": "ALLOT",
+      "answer": "allotted"
+    },
+    {
+      "word": "ALOOF",
+      "answer": "aloof"
+    },
+    {
+      "word": "AMASS",
+      "answer": "amassed"
+    },
+    {
+      "word": "ANTAGONISM",
+      "answer": "antagonism"
+    },
+    {
+      "word": "APPENDAGE",
+      "answer": "appendage"
+    },
+    {
+      "word": "BENEVOLENT",
+      "answer": "benevolent"
+    },
+    {
+      "word": "BLASPHEME",
+      "answer": "blasphemed"
+    },
+    {
+      "word": "BUFFOON",
+      "answer": "buffoons"
+    },
+    {
+      "word": "CLEAVE",
+      "answer": "cleave"
+    },
+    {
+      "word": "CONTRIVE",
+      "answer": "contrived"
+    },
+    {
+      "word": "DEPICT",
+      "answer": "depicted"
+    },
+    {
+      "word": "DOMICILE",
+      "answer": "domicile"
+    },
+    {
+      "word": "ENUMERATE",
+      "answer": "enumerate"
+    },
+    {
+      "word": "FACADE",
+      "answer": "facade"
+    },
+    {
+      "word": "GUFFAW",
+      "answer": "guffaws"
+    },
+    {
+      "word": "GUISE",
+      "answer": "guise"
+    },
+    {
+      "word": "HALLOWED",
+      "answer": "hallowed"
+    },
+    {
+      "word": "IMPLORE",
+      "answer": "implored"
+    },
+    {
+      "word": "JAUNDICED",
+      "answer": "jaundiced"
+    },
+    {
+      "word": "KINDRED",
+      "answer": "kindred"
+    },
+    {
+      "word": "KNOLL",
+      "answer": "knoll"
+    },
+    {
+      "word": "MANIFOLD",
+      "answer": "manifold"
+    },
+    {
+      "word": "MELEE",
+      "answer": "melee"
+    },
+    {
+      "word": "NONPAREIL",
+      "answer": "nonpareil"
+    },
+    {
+      "word": "ORDINANCE",
+      "answer": "ordinance"
+    },
+    {
+      "word": "ORIFICE",
+      "answer": "orifice"
+    },
+    {
+      "word": "PANG",
+      "answer": "pang"
+    },
+    {
+      "word": "PENSIVE",
+      "answer": "pensive"
+    },
+    {
+      "word": "PLACATE",
+      "answer": "placate"
+    },
+    {
+      "word": "PRECIPICE",
+      "answer": "precipice"
+    },
+    {
+      "word": "PROCURE",
+      "answer": "procure"
+    },
+    {
+      "word": "QUASH",
+      "answer": "quash"
+    },
+    {
+      "word": "QUIRK",
+      "answer": "quirk"
+    },
+    {
+      "word": "SLOVENLY",
+      "answer": "slovenly"
+    },
+    {
+      "word": "SQUANDER",
+      "answer": "squandered"
+    },
+    {
+      "word": "STEADFAST",
+      "answer": "steadfast"
+    },
+    {
+      "word": "STRATA",
+      "answer": "strata"
+    },
+    {
+      "word": "SUBMISSIVE",
+      "answer": "submissive"
+    },
+    {
+      "word": "SWOON",
+      "answer": "swooned"
+    },
+    {
+      "word": "ULTERIOR",
+      "answer": "ulterior"
+    },
+    {
+      "word": "VEHEMENT",
+      "answer": "vehement"
+    }
+  ],
+  "questions": [
+    {
+      "part1": "Their theories of education are",
+      "part2": "; they have much in common, although they're not exactly alike.",
+      "correct": "kindred",
+      "word": "KINDRED"
+    },
+    {
+      "part1": "As they dug deeper they uncovered several",
+      "part2": "of ruins, indicating that the city had been rebuilt many times.",
+      "correct": "strata",
+      "word": "STRATA"
+    },
+    {
+      "part1": "Although everyone was certain that he had been killed, she remained",
+      "part2": "in her belief that someday he would return.",
+      "correct": "steadfast",
+      "word": "STEADFAST"
+    },
+    {
+      "part1": "Mr. Jones",
+      "part2": "his life's savings on a scheme he thought would make him wealthy.",
+      "correct": "squandered",
+      "word": "SQUANDER"
+    },
+    {
+      "part1": "Mary almost",
+      "part2": "when the handsome movie star kissed her.",
+      "correct": "swooned",
+      "word": "SWOON"
+    },
+    {
+      "part1": "With a(n)",
+      "part2": "shake of her head, Jane denied that she had stolen the money.",
+      "correct": "vehement",
+      "word": "VEHEMENT"
+    },
+    {
+      "part1": "At first the boy seemed rebellious, but he was really very",
+      "part2": "and would do whatever he was told.",
+      "correct": "submissive",
+      "word": "SUBMISSIVE"
+    },
+    {
+      "part1": "He cleverly",
+      "part2": "to get paid for work he would have had to do for free anyway.",
+      "correct": "contrived",
+      "word": "CONTRIVE"
+    },
+    {
+      "part1": "Jim tried to",
+      "part2": "his father by washing the car, but his father stayed angry.",
+      "correct": "placate",
+      "word": "PLACATE"
+    },
+    {
+      "part1": "In her despair she",
+      "part2": "God and called Him evil.",
+      "correct": "blasphemed",
+      "word": "BLASPHEME"
+    },
+    {
+      "part1": "His stories were so funny that all you could hear were loud",
+      "part2": "in the room.",
+      "correct": "guffaws",
+      "word": "GUFFAW"
+    },
+    {
+      "part1": "He felt a(n)",
+      "part2": "of envy when he saw his opponent receive the award.",
+      "correct": "pang",
+      "word": "PANG"
+    },
+    {
+      "part1": "Ed has an annoying",
+      "part2": "of pretending to be in deep thought whenever you ask him the simplest question.",
+      "correct": "quirk",
+      "word": "QUIRK"
+    },
+    {
+      "part1": "Our mouths were",
+      "part2": "when we heard that we had won the contest.",
+      "correct": "agape",
+      "word": "AGAPE"
+    },
+    {
+      "part1": "He spent much of his time outside the country, but his legal",
+      "part2": "was New York City.",
+      "correct": "domicile",
+      "word": "DOMICILE"
+    },
+    {
+      "part1": "Late at night he would become rather",
+      "part2": "and start thinking about the meaning of life.",
+      "correct": "pensive",
+      "word": "PENSIVE"
+    },
+    {
+      "part1": "Even though everyone tried to get him to be friendly, he remained",
+      "part2": "and said he was too busy for friendship.",
+      "correct": "aloof",
+      "word": "ALOOF"
+    },
+    {
+      "part1": "The microbe took in air through a small",
+      "part2": "in its side.",
+      "correct": "orifice",
+      "word": "ORIFICE"
+    },
+    {
+      "part1": "The town meeting became a confused",
+      "part2": "as one person after another stood up and demanded to be heard.",
+      "correct": "melee",
+      "word": "MELEE"
+    },
+    {
+      "part1": "The",
+      "part2": "man helped thousands of needy people.",
+      "correct": "benevolent",
+      "word": "BENEVOLENT"
+    },
+    {
+      "part1": "There was a list three pages long of the",
+      "part2": "duties Sharon had in her important new job.",
+      "correct": "manifold",
+      "word": "MANIFOLD"
+    },
+    {
+      "part1": "All of us hold sacred the",
+      "part2": "memory of our dead mother.",
+      "correct": "hallowed",
+      "word": "HALLOWED"
+    },
+    {
+      "part1": "He told us that the car was so old it was impossible to",
+      "part2": "the parts to repair it.",
+      "correct": "procure",
+      "word": "PROCURE"
+    },
+    {
+      "part1": "With his sharp ax he managed to",
+      "part2": "the log with one stroke.",
+      "correct": "cleave",
+      "word": "CLEAVE"
+    },
+    {
+      "part1": "The nature committee",
+      "part2": "turning the area into a state park.",
+      "correct": "advocated",
+      "word": "ADVOCATE"
+    },
+    {
+      "part1": "They acted like",
+      "part2": ", singing silly songs and playing foolish pranks.",
+      "correct": "buffoons",
+      "word": "BUFFOON"
+    },
+    {
+      "part1": "The company",
+      "part2": "the maple syrup by adding some cheaper liquids to it.",
+      "correct": "adulterated",
+      "word": "ADULTERATE"
+    },
+    {
+      "part1": "The sick man appeared",
+      "part2": ".The doctor suggested that fresh air and sunlight would improve his color.",
+      "correct": "jaundiced",
+      "word": "JAUNDICED"
+    },
+    {
+      "part1": "They maintain a(n)",
+      "part2": "of happiness, but really they are both very miserable.",
+      "correct": "facade",
+      "word": "FACADE"
+    },
+    {
+      "part1": "It is impossible at this time to",
+      "part2": "all the reasons why we are doing this.",
+      "correct": "enumerate",
+      "word": "ENUMERATE"
+    },
+    {
+      "part1": "He was so",
+      "part2": "that he wouldn't wash the dishes or take out the rubbish. His entire house was a mess.",
+      "correct": "slovenly",
+      "word": "SLOVENLY"
+    },
+    {
+      "part1": "The police were called in to",
+      "part2": "the riot, and they put an end to it almost as soon as it started.",
+      "correct": "quash",
+      "word": "QUASH"
+    },
+    {
+      "part1": "We were each",
+      "part2": "a portion of the garden in which to grow vegetables.",
+      "correct": "allotted",
+      "word": "ALLOT"
+    },
+    {
+      "part1": "Jane got dizzy when she stood at the edge of the",
+      "part2": "and looked down at the ground far below.",
+      "correct": "precipice",
+      "word": "PRECIPICE"
+    },
+    {
+      "part1": "The movie",
+      "part2": "him as a handsome, brave fellow, but he wasn't like that at all.",
+      "correct": "depicted",
+      "word": "DEPICT"
+    },
+    {
+      "part1": "This is merely a(n)",
+      "part2": "of the larger work, added on to it much later.",
+      "correct": "appendage",
+      "word": "APPENDAGE"
+    },
+    {
+      "part1": "Can't we do something to reduce the",
+      "part2": "between those two students? They always look as if they're ready to kill each other.",
+      "correct": "antagonism",
+      "word": "ANTAGONISM"
+    },
+    {
+      "part1": "The lawyer",
+      "part2": "a considerable amount of evidence to use at the trial.",
+      "correct": "amassed",
+      "word": "AMASS"
+    },
+    {
+      "part1": "Wendy",
+      "part2": "a star to the top of the Christmas tree.",
+      "correct": "affixed",
+      "word": "AFFIX"
+    },
+    {
+      "part1": "He",
+      "part2": "the robber not to take his watch, but the robber ignored his pleas.",
+      "correct": "implored",
+      "word": "IMPLORE"
+    },
+    {
+      "part1": "Her cooking is",
+      "part2": "; I've never tasted food that good before.",
+      "correct": "nonpareil",
+      "word": "NONPAREIL"
+    },
+    {
+      "part1": "Under the",
+      "part2": "of a political survey the study actually probed people's religious beliefs.",
+      "correct": "guise",
+      "word": "GUISE"
+    },
+    {
+      "part1": "She must have had some",
+      "part2": "purpose in visiting us. She wouldn't come all this way just to say hello.",
+      "correct": "ulterior",
+      "word": "ULTERIOR"
+    },
+    {
+      "part1": "Jim lay at the top of a small grassy",
+      "part2": "and stared at the sky.",
+      "correct": "knoll",
+      "word": "KNOLL"
+    },
+    {
+      "part1": "The city issued a new",
+      "part2": "that made it illegal to park on the street overnight.",
+      "correct": "ordinance",
+      "word": "ORDINANCE"
+    }
+  ],
+  "type": "fitb",
+  "id": 2
+}
