@@ -4,22 +4,29 @@ import { NavLink } from 'react-router-dom';
 export default class Breadcrumb extends Component {
   constructor (props) {
     super(props);
+    this.updatePretestState = this.updatePretestState.bind(this);
     this.state = {
       pretest: false
     };
   }
 
-  // TODO: apply Bootstrap 'active' class to last item in breadcrumb
+  componentDidMount () {
+    this.updatePretestState();
+  }
 
   // below to change text content of breadcrumb from Exercise 0 > Pretest
   componentDidUpdate (prevProps) {
     const exercise = this.props.match.params.exercise;
     if (exercise !== prevProps.match.params.exercise) {
-      if (exercise === '0') {
-        this.setState({ pretest: true });
-      } else {
-        this.setState({ pretest: false });
-      }
+      this.updatePretestState();
+    }
+  }
+
+  updatePretestState () {
+    if (this.props.match.params.exercise === '0') {
+      this.setState({ pretest: true });
+    } else {
+      this.setState({ pretest: false });
     }
   }
 
