@@ -1,4 +1,4 @@
-export const urlPrefix = 'http://localhost:3000';
+export const urlPrefix = 'https://amyfrieson.com/wordbook/';
 
 // type === 'prefixes' or 'suffixes'
 export const getContent = (type) => {
