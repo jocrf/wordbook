@@ -24,14 +24,6 @@ export default class Word extends Component {
       // ]
     };
   }
-  componentDidMount () {
-    getPhonetic(this.props.definition.word)
-      .then(phoneticData => {
-        this.setState(prevState => ({ phonetics: phoneticData }));
-        return phoneticData;
-      })
-      .then(phoneticData => this.createUrl(phoneticData));
-  }
 
   componentWillUnmount () {
     this.setState({ phonetics: [] });
@@ -50,8 +42,16 @@ export default class Word extends Component {
   }
 
   playPhonetic () {
-    const audio = this.phoneticRef.current;
-    audio.play();
+    getPhonetic(this.props.definition.word)
+      .then(phoneticData => {
+        this.setState(prevState => ({ phonetics: phoneticData }));
+        return phoneticData;
+      })
+      .then(phoneticData => this.createUrl(phoneticData))
+      .then(() => {
+        const audio = this.phoneticRef.current;
+        audio.play();
+      });
   }
 
   render () {
@@ -66,15 +66,16 @@ export default class Word extends Component {
               <FontAwesomeIcon icon={faVolumeUp} />
               <audio ref={this.phoneticRef} src={this.state.url} />
             </button>
+            {/* below text for rendering phonetic text - commented out due to API query limits */}
             {/* follow display rules according to M-W */}
-            \{this.state.phonetics.map(phonetic =>
+            {/* \{this.state.phonetics.map(phonetic =>
               <p key={phonetic.mw} className='card-text mb-0 col-auto'>
                 <span className='font-italic pl-3 pr-3'>{phonetic.l ? phonetic.l : null}</span>
                 {phonetic.mw}
                 <span className='font-italic pl-3 pr-3'>{phonetic.l2 ? phonetic.l2 : null}</span>
                 {(this.state.phonetics.length > 1 && this.state.phonetics.indexOf(phonetic) < this.state.phonetics.length - 1) ? (phonetic.pun || ', ') : null}
               </p>
-            )}\
+            )}\ */}
           </div>
           <hr className='bg-secondary' />
           <p className='card-text' dangerouslySetInnerHTML={this.createMarkup(definition.deftext)} />
