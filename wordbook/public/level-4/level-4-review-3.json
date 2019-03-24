@@ -5,180 +5,180 @@
       "answer": "accessible"
     },
     {
-      "word": "COMPOUND",
-      "answer": "compensate"
-    },
-    {
-      "word": "OBSTINATE",
-      "answer": "obstinate"
-    },
-    {
-      "word": "PONDER",
-      "answer": "pondered"
-    },
-    {
-      "word": "TIMID",
-      "answer": "timid"
-    },
-    {
       "word": "ACKNOWLEDGE",
       "answer": "acknowledged"
-    },
-    {
-      "word": "COURIER",
-      "answer": "courier"
-    },
-    {
-      "word": "PAGEANTRY",
-      "answer": "pageantry"
-    },
-    {
-      "word": "POPULACE",
-      "answer": "populace"
-    },
-    {
-      "word": "UNEARTH",
-      "answer": "unearth"
-    },
-    {
-      "word": "BARREN",
-      "answer": "barren"
-    },
-    {
-      "word": "INFECTIOUS",
-      "answer": "infectious"
-    },
-    {
-      "word": "PEDIGREE",
-      "answer": "pedigree"
-    },
-    {
-      "word": "PROMINENT",
-      "answer": "prominent"
-    },
-    {
-      "word": "UNFURL",
-      "answer": "unfurled"
-    },
-    {
-      "word": "BARTER",
-      "answer": "barter"
-    },
-    {
-      "word": "LUNACY",
-      "answer": "lunacy"
-    },
-    {
-      "word": "PERPLEX",
-      "answer": "perplexed"
-    },
-    {
-      "word": "SCORN",
-      "answer": "scorns"
-    },
-    {
-      "word": "VELOCITY",
-      "answer": "velocity"
-    },
-    {
-      "word": "CLARITY",
-      "answer": "clarity"
     },
     {
       "word": "APPOINT",
       "answer": "appointed"
     },
     {
-      "word": "CONTRARY",
-      "answer": "contrary"
+      "word": "BARREN",
+      "answer": "barren"
     },
     {
-      "word": "HABITUAL",
-      "answer": "habitual"
+      "word": "BARTER",
+      "answer": "barter"
     },
     {
-      "word": "MIMIC",
-      "answer": "mimic"
-    },
-    {
-      "word": "REIMBURSE",
-      "answer": "reimburse"
+      "word": "CLARITY",
+      "answer": "clarity"
     },
     {
       "word": "COINCIDE",
       "answer": "coincided"
     },
     {
-      "word": "CREDIBLE",
-      "answer": "credible"
-    },
-    {
-      "word": "HERALD",
-      "answer": "heralded"
-    },
-    {
-      "word": "MONUMENTAL",
-      "answer": "monumental"
-    },
-    {
-      "word": "REVISE",
-      "answer": "revise"
-    },
-    {
       "word": "COMPENSATE",
       "answer": "compensate"
     },
     {
-      "word": "DUMBFOUNDED",
-      "answer": "dumbfounded"
-    },
-    {
-      "word": "IMPARTIAL",
-      "answer": "impartial"
-    },
-    {
-      "word": "PRIM",
-      "answer": "prim"
-    },
-    {
-      "word": "SPLINTER",
-      "answer": "splintered"
+      "word": "COMPOUND",
+      "answer": "compound"
     },
     {
       "word": "COMRADE",
       "answer": "comrades"
     },
     {
-      "word": "ELEVATING",
-      "answer": "elevating"
-    },
-    {
-      "word": "INFORMAL",
-      "answer": "informal"
-    },
-    {
-      "word": "PROVERB",
-      "answer": "proverb"
-    },
-    {
-      "word": "UPRISING",
-      "answer": "uprising"
-    },
-    {
       "word": "CONDENSE",
       "answer": "condense"
+    },
+    {
+      "word": "CONTRARY",
+      "answer": "contrary"
+    },
+    {
+      "word": "COURIER",
+      "answer": "courier"
+    },
+    {
+      "word": "CREDIBLE",
+      "answer": "credible"
+    },
+    {
+      "word": "DUMBFOUNDED",
+      "answer": "dumbfounded"
+    },
+    {
+      "word": "ELEVATING",
+      "answer": "elevating"
     },
     {
       "word": "ENDORSE",
       "answer": "endorse"
     },
     {
+      "word": "HABITUAL",
+      "answer": "habitual"
+    },
+    {
+      "word": "HERALD",
+      "answer": "heralded"
+    },
+    {
+      "word": "IMPARTIAL",
+      "answer": "impartial"
+    },
+    {
+      "word": "INFECTIOUS",
+      "answer": "infectious"
+    },
+    {
+      "word": "INFORMAL",
+      "answer": "informal"
+    },
+    {
       "word": "LEGITIMATE",
       "answer": "legitimate"
     },
     {
+      "word": "LUNACY",
+      "answer": "lunacy"
+    },
+    {
+      "word": "MIMIC",
+      "answer": "mimic"
+    },
+    {
+      "word": "MONUMENTAL",
+      "answer": "monumental"
+    },
+    {
+      "word": "OBSTINATE",
+      "answer": "obstinate"
+    },
+    {
+      "word": "PAGEANTRY",
+      "answer": "pageantry"
+    },
+    {
+      "word": "PEDIGREE",
+      "answer": "pedigree"
+    },
+    {
+      "word": "PERPLEX",
+      "answer": "perplexed"
+    },
+    {
+      "word": "PONDER",
+      "answer": "pondered"
+    },
+    {
+      "word": "POPULACE",
+      "answer": "populace"
+    },
+    {
+      "word": "PRIM",
+      "answer": "prim"
+    },
+    {
+      "word": "PROMINENT",
+      "answer": "prominent"
+    },
+    {
+      "word": "PROVERB",
+      "answer": "proverb"
+    },
+    {
       "word": "PUTRID",
       "answer": "putrid"
+    },
+    {
+      "word": "REIMBURSE",
+      "answer": "reimburse"
+    },
+    {
+      "word": "REVISE",
+      "answer": "revise"
+    },
+    {
+      "word": "SCORN",
+      "answer": "scorns"
+    },
+    {
+      "word": "SPLINTER",
+      "answer": "splintered"
+    },
+    {
+      "word": "TIMID",
+      "answer": "timid"
+    },
+    {
+      "word": "UNEARTH",
+      "answer": "unearth"
+    },
+    {
+      "word": "UNFURL",
+      "answer": "unfurled"
+    },
+    {
+      "word": "UPRISING",
+      "answer": "uprising"
+    },
+    {
+      "word": "VELOCITY",
+      "answer": "velocity"
     }
   ],
   "questions": [
@@ -270,7 +270,7 @@
       "part1": "What she felt was a(n)",
       "part2": "of fear, excitement, and fascination.",
       "correct": "compound",
-      "word": "COMPENSATE"
+      "word": "COMPOUND"
     },
     {
       "part1": "Everyone was awed by the splendid",

@@ -5,176 +5,176 @@
       "answer": "adjacent"
     },
     {
-      "word": "EXCURSION",
-      "answer": "excursion"
-    },
-    {
-      "word": "INQUISITIVE",
-      "answer": "inquisitive"
-    },
-    {
-      "word": "PUNCTUAL",
-      "answer": "punctual"
-    },
-    {
-      "word": "RURAL",
-      "answer": "rural"
+      "word": "APPRENTICE",
+      "answer": "apprentice"
     },
     {
       "word": "DECIPHER",
       "answer": "decipher"
     },
     {
-      "word": "FABRICATE",
-      "answer": "fabricated"
-    },
-    {
-      "word": "MERCILESS",
-      "answer": "merciless"
-    },
-    {
-      "word": "REFRAIN",
-      "answer": "refrained"
-    },
-    {
-      "word": "SURVEILLANCE",
-      "answer": "surveillance"
-    },
-    {
       "word": "DECREE",
       "answer": "decree"
-    },
-    {
-      "word": "GLUTTON",
-      "answer": "glutton"
-    },
-    {
-      "word": "NOMAD",
-      "answer": "nomad"
-    },
-    {
-      "word": "REPEL",
-      "answer": "repel"
-    },
-    {
-      "word": "THERMAL",
-      "answer": "thermal"
-    },
-    {
-      "word": "EMERGE",
-      "answer": "emerged"
-    },
-    {
-      "word": "HASTEN",
-      "answer": "hasten"
-    },
-    {
-      "word": "NOOK",
-      "answer": "nook"
-    },
-    {
-      "word": "REVOLT",
-      "answer": "revolt"
-    },
-    {
-      "word": "UNSAVORY",
-      "answer": "unsavory"
-    },
-    {
-      "word": "APPRENTICE",
-      "answer": "apprentice"
-    },
-    {
-      "word": "ESCAPADE",
-      "answer": "escapade"
-    },
-    {
-      "word": "FELON",
-      "answer": "felon"
-    },
-    {
-      "word": "METROPOLIS",
-      "answer": "metropolis"
-    },
-    {
-      "word": "REFUGE",
-      "answer": "refuge"
     },
     {
       "word": "DERANGED",
       "answer": "deranged"
     },
     {
-      "word": "EXECUTE",
-      "answer": "executed"
-    },
-    {
-      "word": "GESTURE",
-      "answer": "gestures"
-    },
-    {
-      "word": "PERPETUAL",
-      "answer": "perpetual"
-    },
-    {
-      "word": "REPRESS",
-      "answer": "repress"
-    },
-    {
       "word": "DEVASTATE",
       "answer": "devastated"
-    },
-    {
-      "word": "EXPLICIT",
-      "answer": "explicit"
-    },
-    {
-      "word": "GRANDEUR",
-      "answer": "grandeur"
-    },
-    {
-      "word": "RANSACK",
-      "answer": "ransacked"
-    },
-    {
-      "word": "SKEPTIC",
-      "answer": "skeptic"
     },
     {
       "word": "DISPEL",
       "answer": "dispel"
     },
     {
-      "word": "FALTER",
-      "answer": "falter"
-    },
-    {
-      "word": "ILLUMINATE",
-      "answer": "illuminate"
-    },
-    {
-      "word": "RATIFY",
-      "answer": "ratify"
-    },
-    {
-      "word": "SURMOUNT",
-      "answer": "surmount"
+      "word": "EMERGE",
+      "answer": "emerged"
     },
     {
       "word": "ENUNCIATE",
       "answer": "enunciated"
     },
     {
+      "word": "ESCAPADE",
+      "answer": "escapade"
+    },
+    {
+      "word": "EXCURSION",
+      "answer": "excursion"
+    },
+    {
+      "word": "EXECUTE",
+      "answer": "executed"
+    },
+    {
+      "word": "EXPLICIT",
+      "answer": "explicit"
+    },
+    {
+      "word": "FABRICATE",
+      "answer": "fabricated"
+    },
+    {
+      "word": "FALTER",
+      "answer": "falter"
+    },
+    {
       "word": "FAMINE",
       "answer": "famine"
+    },
+    {
+      "word": "FELON",
+      "answer": "felon"
+    },
+    {
+      "word": "GESTURE",
+      "answer": "gestures"
+    },
+    {
+      "word": "GLUTTON",
+      "answer": "glutton"
+    },
+    {
+      "word": "GRANDEUR",
+      "answer": "grandeur"
+    },
+    {
+      "word": "HASTEN",
+      "answer": "hasten"
+    },
+    {
+      "word": "ILLUMINATE",
+      "answer": "illuminate"
+    },
+    {
+      "word": "INQUISITIVE",
+      "answer": "inquisitive"
     },
     {
       "word": "LEGIBLE",
       "answer": "legible"
     },
     {
+      "word": "MERCILESS",
+      "answer": "merciless"
+    },
+    {
+      "word": "METROPOLIS",
+      "answer": "metropolis"
+    },
+    {
+      "word": "NOMAD",
+      "answer": "nomad"
+    },
+    {
+      "word": "NOOK",
+      "answer": "nook"
+    },
+    {
+      "word": "PERPETUAL",
+      "answer": "perpetual"
+    },
+    {
+      "word": "PUNCTUAL",
+      "answer": "punctual"
+    },
+    {
+      "word": "RANSACK",
+      "answer": "ransacked"
+    },
+    {
+      "word": "RATIFY",
+      "answer": "ratify"
+    },
+    {
       "word": "RECEDE",
       "answer": "receded"
+    },
+    {
+      "word": "REFRAIN",
+      "answer": "refrained"
+    },
+    {
+      "word": "REFUGE",
+      "answer": "refuge"
+    },
+    {
+      "word": "REPEL",
+      "answer": "repel"
+    },
+    {
+      "word": "REPRESS",
+      "answer": "repress"
+    },
+    {
+      "word": "REVOLT",
+      "answer": "revolt"
+    },
+    {
+      "word": "RURAL",
+      "answer": "rural"
+    },
+    {
+      "word": "SKEPTIC",
+      "answer": "skeptic"
+    },
+    {
+      "word": "SURMOUNT",
+      "answer": "surmount"
+    },
+    {
+      "word": "SURVEILLANCE",
+      "answer": "surveillance"
+    },
+    {
+      "word": "THERMAL",
+      "answer": "thermal"
+    },
+    {
+      "word": "UNSAVORY",
+      "answer": "unsavory"
     },
     {
       "word": "WAGER",

@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
-      "word": "COMPLIMENT",
-      "answer": "compliments"
-    },
-    {
-      "word": "EPISODE",
-      "answer": "episode"
-    },
-    {
-      "word": "MOBILE",
-      "answer": "mobile"
-    },
-    {
-      "word": "PROTEST",
-      "answer": "protested"
-    },
-    {
-      "word": "SWINDLE",
-      "answer": "swindled"
-    },
-    {
-      "word": "DETECT",
-      "answer": "detect"
-    },
-    {
-      "word": "HORDE",
-      "answer": "horde"
-    },
-    {
-      "word": "MOURN",
-      "answer": "mourned"
-    },
-    {
-      "word": "PURSUE",
-      "answer": "pursued"
-    },
-    {
-      "word": "TORMENT",
-      "answer": "torment "
-    },
-    {
-      "word": "DISREGARD",
-      "answer": "disregarded"
-    },
-    {
-      "word": "ISOLATED",
-      "answer": "isolated"
-    },
-    {
-      "word": "NUISANCE",
-      "answer": "nuisance"
-    },
-    {
-      "word": "STRIVE",
-      "answer": "strides"
-    },
-    {
-      "word": "UNSETTLE",
-      "answer": "unsettled"
-    },
-    {
-      "word": "DISRUPT",
-      "answer": "disregarded"
-    },
-    {
-      "word": "JUNCTION",
-      "answer": "junction"
-    },
-    {
-      "word": "POSSESS",
-      "answer": "possess"
-    },
-    {
-      "word": "SUMMON",
-      "answer": "summoned"
-    },
-    {
-      "word": "WOE",
-      "answer": "woe"
-    },
-    {
-      "word": "DISSECT",
-      "answer": "dissect"
-    },
-    {
-      "word": "LOYAL",
-      "answer": "loyal"
-    },
-    {
-      "word": "PRECIOUS",
-      "answer": "precious"
-    },
-    {
       "word": "ABUNDANT",
       "answer": "abundant"
     },
     {
-      "word": "FLAWLESS",
-      "answer": "flawless"
-    },
-    {
-      "word": "INTERNAL",
-      "answer": "internal"
-    },
-    {
-      "word": "SLUMBER",
-      "answer": "slumber"
-    },
-    {
-      "word": "TOLERATE",
-      "answer": "tolerate"
+      "word": "COMPLIMENT",
+      "answer": "compliments"
     },
     {
       "word": "CONSUME",
       "answer": "consumed"
     },
     {
-      "word": "FULFILL",
-      "answer": "fulfilled"
-    },
-    {
-      "word": "QUALIFIED",
-      "answer": "qualified"
-    },
-    {
-      "word": "SOOTHE",
-      "answer": "soothe"
-    },
-    {
-      "word": "TRIBUTE",
-      "answer": "tribute"
-    },
-    {
       "word": "CRISIS",
       "answer": "crisis"
-    },
-    {
-      "word": "HARNESS",
-      "answer": "harness"
-    },
-    {
-      "word": "RESTRAIN",
-      "answer": "restrain"
-    },
-    {
-      "word": "STABLE",
-      "answer": "stable"
-    },
-    {
-      "word": "VOW",
-      "answer": "vow"
     },
     {
       "word": "DEDICATED",
       "answer": "dedicated"
     },
     {
-      "word": "IMPULSE",
-      "answer": "impulse"
+      "word": "DETECT",
+      "answer": "detect"
     },
     {
-      "word": "SLACKEN",
-      "answer": "slacken"
+      "word": "DISREGARD",
+      "answer": "disregarded"
     },
     {
-      "word": "STRIDE",
-      "answer": "strides"
+      "word": "DISRUPT",
+      "answer": "disrupted"
     },
     {
-      "word": "WEARY",
-      "answer": "weary"
+      "word": "DISSECT",
+      "answer": "dissect"
     },
     {
       "word": "DISTRESS",
       "answer": "distressed"
     },
     {
+      "word": "EPISODE",
+      "answer": "episode"
+    },
+    {
+      "word": "FLAWLESS",
+      "answer": "flawless"
+    },
+    {
+      "word": "FULFILL",
+      "answer": "fulfilled"
+    },
+    {
+      "word": "HARNESS",
+      "answer": "harness"
+    },
+    {
+      "word": "HORDE",
+      "answer": "horde"
+    },
+    {
+      "word": "IMPULSE",
+      "answer": "impulse"
+    },
+    {
       "word": "INFURIATE",
       "answer": "infuriate"
+    },
+    {
+      "word": "INTERNAL",
+      "answer": "internal"
+    },
+    {
+      "word": "ISOLATED",
+      "answer": "isolated"
+    },
+    {
+      "word": "JUNCTION",
+      "answer": "junction"
+    },
+    {
+      "word": "LOYAL",
+      "answer": "loyal"
+    },
+    {
+      "word": "MOBILE",
+      "answer": "mobile"
+    },
+    {
+      "word": "MOURN",
+      "answer": "mourned"
+    },
+    {
+      "word": "NUISANCE",
+      "answer": "nuisance"
+    },
+    {
+      "word": "POSSESS",
+      "answer": "possess"
+    },
+    {
+      "word": "PRECIOUS",
+      "answer": "precious"
+    },
+    {
+      "word": "PROTEST",
+      "answer": "protested"
+    },
+    {
+      "word": "PURSUE",
+      "answer": "pursued"
+    },
+    {
+      "word": "QUALIFIED",
+      "answer": "qualified"
+    },
+    {
+      "word": "RESTRAIN",
+      "answer": "restrain"
+    },
+    {
+      "word": "SLACKEN",
+      "answer": "slacken"
+    },
+    {
+      "word": "SLUMBER",
+      "answer": "slumber"
+    },
+    {
+      "word": "SOOTHE",
+      "answer": "soothe"
+    },
+    {
+      "word": "STABLE",
+      "answer": "stable"
+    },
+    {
+      "word": "STRIDE",
+      "answer": "strides"
+    },
+    {
+      "word": "STRIVE",
+      "answer": "strive"
+    },
+    {
+      "word": "SUMMON",
+      "answer": "summoned"
+    },
+    {
+      "word": "SWINDLE",
+      "answer": "swindled"
+    },
+    {
+      "word": "TOLERATE",
+      "answer": "tolerate"
+    },
+    {
+      "word": "TORMENT",
+      "answer": "torment "
+    },
+    {
+      "word": "TRIBUTE",
+      "answer": "tribute"
+    },
+    {
+      "word": "UNSETTLE",
+      "answer": "unsettled"
+    },
+    {
+      "word": "VOW",
+      "answer": "vow"
+    },
+    {
+      "word": "WEARY",
+      "answer": "weary"
+    },
+    {
+      "word": "WOE",
+      "answer": "woe"
     }
   ],
   "questions": [
@@ -246,7 +246,7 @@
       "part1": "Gus didn't",
       "part2": "hard enough to improve, and so he just stayed the same.",
       "correct": "strive",
-      "word": "STRIDE"
+      "word": "STRIVE"
     },
     {
       "part1": "Andy has not been very",
@@ -294,7 +294,7 @@
       "part1": "He",
       "part2": "the warning on the bottle, and swallowed all the pills in it.",
       "correct": "disregarded",
-      "word": "DISRUPT"
+      "word": "DISREGARD"
     },
     {
       "part1": "The rebels remained",

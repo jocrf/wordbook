@@ -5,180 +5,180 @@
       "answer": "aristocracy"
     },
     {
-      "word": "ELAPSE",
-      "answer": "elapsed"
-    },
-    {
-      "word": "FINITE",
-      "answer": "finite"
-    },
-    {
-      "word": "NULLIFY",
-      "answer": "nullified"
-    },
-    {
-      "word": "SHACKLE",
-      "answer": "shackles"
+      "word": "ASCEND",
+      "answer": "ascend"
     },
     {
       "word": "ATROCIOUS",
       "answer": "atrocious"
     },
     {
-      "word": "ENLIGHTEN",
-      "answer": "enlighten"
-    },
-    {
-      "word": "FORMAT",
-      "answer": "format"
-    },
-    {
-      "word": "PLACID",
-      "answer": "placid"
-    },
-    {
-      "word": "SUPERINTEND",
-      "answer": "superlative"
+      "word": "ATTIRE",
+      "answer": "attire"
     },
     {
       "word": "CAMOUFLAGE",
       "answer": "camouflage"
     },
     {
-      "word": "EXCRUCIATING",
-      "answer": "excruciating"
-    },
-    {
-      "word": "MONOTONOUS",
-      "answer": "monotonous"
-    },
-    {
-      "word": "PREVAIL",
-      "answer": "prevailed"
-    },
-    {
-      "word": "UNCANNY",
-      "answer": "uncanny"
-    },
-    {
       "word": "CANINE",
       "answer": "canine"
-    },
-    {
-      "word": "FEASIBLE",
-      "answer": "feasible"
-    },
-    {
-      "word": "MUTINOUS",
-      "answer": "mutinous"
-    },
-    {
-      "word": "RAMBLE",
-      "answer": "rambling"
-    },
-    {
-      "word": "VIVID",
-      "answer": "vivid"
-    },
-    {
-      "word": "COMPASSION",
-      "answer": "compelled"
-    },
-    {
-      "word": "ASCEND",
-      "answer": "ascend"
-    },
-    {
-      "word": "ELUDE",
-      "answer": "elude"
-    },
-    {
-      "word": "INTERSPERSE",
-      "answer": "interspersed"
-    },
-    {
-      "word": "RETORT",
-      "answer": "retort"
-    },
-    {
-      "word": "SUPERLATIVE",
-      "answer": "superlative"
-    },
-    {
-      "word": "ATTIRE",
-      "answer": "attire"
-    },
-    {
-      "word": "FACSIMILE",
-      "answer": "facsimile"
-    },
-    {
-      "word": "LAX",
-      "answer": "lax"
-    },
-    {
-      "word": "SHIRK",
-      "answer": "shirk"
-    },
-    {
-      "word": "TRANSACT",
-      "answer": "transact"
     },
     {
       "word": "CHRONOLOGY",
       "answer": "chronology"
     },
     {
-      "word": "FUTILE",
-      "answer": "futile"
-    },
-    {
-      "word": "LUSTER",
-      "answer": "luster"
-    },
-    {
-      "word": "SHREWD",
-      "answer": "shrewd"
-    },
-    {
-      "word": "UPHOLD",
-      "answer": "upheld"
+      "word": "COMPASSION",
+      "answer": "compassion"
     },
     {
       "word": "COMPEL",
       "answer": "compelled"
     },
     {
+      "word": "CONSEQUENCE",
+      "answer": "consequence"
+    },
+    {
+      "word": "ELAPSE",
+      "answer": "elapsed"
+    },
+    {
+      "word": "ELUDE",
+      "answer": "elude"
+    },
+    {
+      "word": "ENLIGHTEN",
+      "answer": "enlighten"
+    },
+    {
+      "word": "EXCRUCIATING",
+      "answer": "excruciating"
+    },
+    {
+      "word": "FACSIMILE",
+      "answer": "facsimile"
+    },
+    {
+      "word": "FEASIBLE",
+      "answer": "feasible"
+    },
+    {
+      "word": "FINITE",
+      "answer": "finite"
+    },
+    {
+      "word": "FORMAT",
+      "answer": "format"
+    },
+    {
+      "word": "FUTILE",
+      "answer": "futile"
+    },
+    {
       "word": "INITIATIVE",
       "answer": "initiative"
+    },
+    {
+      "word": "INTELLECT",
+      "answer": "intellect"
+    },
+    {
+      "word": "INTERSPERSE",
+      "answer": "interspersed"
+    },
+    {
+      "word": "LAX",
+      "answer": "lax"
+    },
+    {
+      "word": "LUSTER",
+      "answer": "luster"
+    },
+    {
+      "word": "MONOTONOUS",
+      "answer": "monotonous"
+    },
+    {
+      "word": "MUTINOUS",
+      "answer": "mutinous"
+    },
+    {
+      "word": "NULLIFY",
+      "answer": "nullified"
     },
     {
       "word": "OUTLANDISH",
       "answer": "outlandish"
     },
     {
-      "word": "STENCH",
-      "answer": "stench"
+      "word": "PLACID",
+      "answer": "placid"
     },
     {
-      "word": "ZEAL",
-      "answer": "zeal"
+      "word": "PREVAIL",
+      "answer": "prevailed"
     },
     {
-      "word": "CONSEQUENCE",
-      "answer": "consequence"
-    },
-    {
-      "word": "INTELLECT",
-      "answer": "interspersed"
+      "word": "RAMBLE",
+      "answer": "rambling"
     },
     {
       "word": "REMORSE",
       "answer": "remorse"
     },
     {
+      "word": "RETORT",
+      "answer": "retort"
+    },
+    {
+      "word": "SHACKLE",
+      "answer": "shackles"
+    },
+    {
+      "word": "SHIRK",
+      "answer": "shirk"
+    },
+    {
+      "word": "SHREWD",
+      "answer": "shrewd"
+    },
+    {
+      "word": "STENCH",
+      "answer": "stench"
+    },
+    {
       "word": "STRICKEN",
       "answer": "stricken"
+    },
+    {
+      "word": "SUPERINTEND",
+      "answer": "superintended"
+    },
+    {
+      "word": "SUPERLATIVE",
+      "answer": "superlative"
+    },
+    {
+      "word": "TRANSACT",
+      "answer": "transact"
+    },
+    {
+      "word": "UNCANNY",
+      "answer": "uncanny"
+    },
+    {
+      "word": "UPHOLD",
+      "answer": "upheld"
+    },
+    {
+      "word": "VIVID",
+      "answer": "vivid"
+    },
+    {
+      "word": "ZEAL",
+      "answer": "zeal"
     }
   ],
   "questions": [
@@ -234,7 +234,7 @@
       "part1": "Susan felt a great deal of",
       "part2": "for her sister, because she had once had the same problems.",
       "correct": "compassion",
-      "word": "COMPEL"
+      "word": "COMPASSION"
     },
     {
       "part1": "The most",
@@ -294,7 +294,7 @@
       "part1": "To make sure that nothing went wrong he",
       "part2": "every phase of the project himself.",
       "correct": "superintended",
-      "word": "SUPERLATIVE"
+      "word": "SUPERINTEND"
     },
     {
       "part1": "The dog was trained to keep the sheep from",
@@ -360,7 +360,7 @@
       "part1": "She",
       "part2": "several tiny angels among the decorations already on the Christmas tree.",
       "correct": "interspersed",
-      "word": "INTELLECT"
+      "word": "INTERSPERSE"
     },
     {
       "part1": "Her improved grades were the",

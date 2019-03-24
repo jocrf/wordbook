@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
+      "word": "ABASE",
+      "answer": "abase"
+    },
+    {
       "word": "ACQUIESCE",
       "answer": "acquiesce"
-    },
-    {
-      "word": "CONDUCIVE",
-      "answer": "conducive"
-    },
-    {
-      "word": "FELICITY",
-      "answer": "felicity"
-    },
-    {
-      "word": "INDOLENT",
-      "answer": "indolent"
-    },
-    {
-      "word": "OVERT",
-      "answer": "overt"
     },
     {
       "word": "ACRIMONIOUS",
       "answer": "acrimonious"
     },
     {
-      "word": "COPIOUS",
-      "answer": "copious or inordinate"
-    },
-    {
-      "word": "FURTIVE",
-      "answer": "furtive"
-    },
-    {
-      "word": "INFUSE",
-      "answer": "infused"
-    },
-    {
-      "word": "REPAST",
-      "answer": "repast"
-    },
-    {
       "word": "ADVERSITY",
       "answer": "adversities"
-    },
-    {
-      "word": "DEBONAIR",
-      "answer": "debonair"
-    },
-    {
-      "word": "HARBINGER",
-      "answer": "harbinger"
-    },
-    {
-      "word": "INORDINATE",
-      "answer": "inordinate"
-    },
-    {
-      "word": "ROTUND",
-      "answer": "rotund"
     },
     {
       "word": "AFFRAY",
       "answer": "affray"
     },
     {
-      "word": "EXACERBATE",
-      "answer": "exacerbate"
-    },
-    {
-      "word": "HOVEL",
-      "answer": "hovel"
-    },
-    {
-      "word": "MALIGN",
-      "answer": "maligned"
-    },
-    {
-      "word": "SUBTERFUGE",
-      "answer": "subterfuges"
-    },
-    {
       "word": "ANTIPATHY",
       "answer": "antipathy"
-    },
-    {
-      "word": "ABASE",
-      "answer": "abase"
-    },
-    {
-      "word": "DERISIVE",
-      "answer": "derisive"
-    },
-    {
-      "word": "INSOLVENT",
-      "answer": "insolvent"
-    },
-    {
-      "word": "NEBULOUS",
-      "answer": "nebulous"
-    },
-    {
-      "word": "REPROVE",
-      "answer": "reproved"
     },
     {
       "word": "ASPECT",
       "answer": "aspect"
     },
     {
-      "word": "DISCONCERT",
-      "answer": "disconsulate"
-    },
-    {
-      "word": "INTERLOPER",
-      "answer": "interloper"
-    },
-    {
-      "word": "OBLIVIOUS",
-      "answer": "oblivious"
-    },
-    {
-      "word": "RESPITE",
-      "answer": "respite"
-    },
-    {
       "word": "COGITATE",
       "answer": "cogitate"
     },
     {
-      "word": "DISCONSOLATE",
-      "answer": "disconsulate"
-    },
-    {
-      "word": "INTRACTABLE",
-      "answer": "intractable"
-    },
-    {
-      "word": "ODIOUS",
-      "answer": "odious"
-    },
-    {
-      "word": "SQUALOR",
-      "answer": "squalor"
+      "word": "CONDUCIVE",
+      "answer": "conducive"
     },
     {
       "word": "CONTRITION",
       "answer": "contrition"
     },
     {
-      "word": "IMPUDENT",
-      "answer": "impudent"
-    },
-    {
-      "word": "MANIFEST",
-      "answer": "manifest"
-    },
-    {
-      "word": "PORTENT",
-      "answer": "portent"
-    },
-    {
-      "word": "VERTIGO",
-      "answer": "vertigo"
+      "word": "COPIOUS",
+      "answer": "copious or inordinate"
     },
     {
       "word": "CORPULENT",
       "answer": "corpulent"
     },
     {
+      "word": "DEBONAIR",
+      "answer": "debonair"
+    },
+    {
+      "word": "DERISIVE",
+      "answer": "derisive"
+    },
+    {
+      "word": "DISCONCERT",
+      "answer": "disconcerted"
+    },
+    {
+      "word": "DISCONSOLATE",
+      "answer": "disconsulate"
+    },
+    {
+      "word": "EXACERBATE",
+      "answer": "exacerbate"
+    },
+    {
+      "word": "FELICITY",
+      "answer": "felicity"
+    },
+    {
+      "word": "FURTIVE",
+      "answer": "furtive"
+    },
+    {
+      "word": "HARBINGER",
+      "answer": "harbinger"
+    },
+    {
+      "word": "HOVEL",
+      "answer": "hovel"
+    },
+    {
+      "word": "IMPUDENT",
+      "answer": "impudent"
+    },
+    {
       "word": "INCLEMENT",
       "answer": "inclement"
+    },
+    {
+      "word": "INDOLENT",
+      "answer": "indolent"
+    },
+    {
+      "word": "INFUSE",
+      "answer": "infused"
+    },
+    {
+      "word": "INORDINATE",
+      "answer": "inordinate"
+    },
+    {
+      "word": "INSOLVENT",
+      "answer": "insolvent"
+    },
+    {
+      "word": "INTERLOPER",
+      "answer": "interloper"
+    },
+    {
+      "word": "INTRACTABLE",
+      "answer": "intractable"
+    },
+    {
+      "word": "MALIGN",
+      "answer": "maligned"
+    },
+    {
+      "word": "MANIFEST",
+      "answer": "manifest"
     },
     {
       "word": "MILIEU",
       "answer": "milieu"
     },
     {
+      "word": "NEBULOUS",
+      "answer": "nebulous"
+    },
+    {
+      "word": "OBLIVIOUS",
+      "answer": "oblivious"
+    },
+    {
+      "word": "ODIOUS",
+      "answer": "odious"
+    },
+    {
+      "word": "OVERT",
+      "answer": "overt"
+    },
+    {
+      "word": "PORTENT",
+      "answer": "portent"
+    },
+    {
       "word": "PREDISPOSED",
       "answer": "predisposed"
+    },
+    {
+      "word": "REPAST",
+      "answer": "repast"
+    },
+    {
+      "word": "REPROVE",
+      "answer": "reproved"
+    },
+    {
+      "word": "RESPITE",
+      "answer": "respite"
+    },
+    {
+      "word": "ROTUND",
+      "answer": "rotund"
+    },
+    {
+      "word": "SQUALOR",
+      "answer": "squalor"
+    },
+    {
+      "word": "SUBTERFUGE",
+      "answer": "subterfuges"
+    },
+    {
+      "word": "VERTIGO",
+      "answer": "vertigo"
     }
   ],
   "questions": [
@@ -330,7 +330,7 @@
       "part1": "Al was momentarily",
       "part2": "by the unexpected sound of laughter, but then he realized it was only the television.",
       "correct": "disconcerted",
-      "word": "DISCONSOLATE"
+      "word": "DISCONCERT"
     },
     {
       "part1": "The business recession caused many companies to become",

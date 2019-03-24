@@ -5,176 +5,176 @@
       "answer": "abrupt"
     },
     {
-      "word": "CRINGE",
-      "answer": "cringed"
-    },
-    {
-      "word": "ENVELOP",
-      "answer": "envelop"
-    },
-    {
-      "word": "INTERSECT",
-      "answer": "intermediate"
-    },
-    {
-      "word": "PLAGUE",
-      "answer": "plagued"
-    },
-    {
       "word": "BAN",
       "answer": "banned"
-    },
-    {
-      "word": "DESCEND",
-      "answer": "descend"
-    },
-    {
-      "word": "EVIDENT",
-      "answer": "evident"
-    },
-    {
-      "word": "LEAN",
-      "answer": "lean"
-    },
-    {
-      "word": "PLEAD",
-      "answer": "pleaded"
     },
     {
       "word": "BEFUDDLE",
       "answer": "befuddled"
     },
     {
-      "word": "DOMINATE",
-      "answer": "dominate"
-    },
-    {
-      "word": "FEEBLE",
-      "answer": "feeble"
-    },
-    {
-      "word": "LIBERATE",
-      "answer": "liberate"
-    },
-    {
-      "word": "SPRAWL",
-      "answer": "sprawled"
-    },
-    {
-      "word": "CONTAGIOUS",
-      "answer": "contagious"
-    },
-    {
-      "word": "ENDURE",
-      "answer": "endure"
-    },
-    {
-      "word": "FEUD",
-      "answer": "feud"
-    },
-    {
-      "word": "PAMPER",
-      "answer": "pampers"
-    },
-    {
-      "word": "STEER",
-      "answer": "steer"
-    },
-    {
       "word": "CONGESTION",
       "answer": "congestion"
-    },
-    {
-      "word": "FRISKY",
-      "answer": "frisky"
-    },
-    {
-      "word": "JAVELIN",
-      "answer": "javelin"
-    },
-    {
-      "word": "RUPTURE",
-      "answer": "rupture"
-    },
-    {
-      "word": "SITE",
-      "answer": "site"
     },
     {
       "word": "CONSENT",
       "answer": "consented"
     },
     {
-      "word": "FROLIC",
-      "answer": "frolic"
+      "word": "CONTAGIOUS",
+      "answer": "contagious"
     },
     {
-      "word": "PERISH",
-      "answer": "perished"
+      "word": "CRINGE",
+      "answer": "cringed"
     },
     {
-      "word": "SACRED",
-      "answer": "sacred"
+      "word": "DESCEND",
+      "answer": "descend"
     },
     {
-      "word": "SUBSTITUTE",
-      "answer": "substituted"
+      "word": "DOMINATE",
+      "answer": "dominate"
     },
     {
       "word": "ENCHANTING",
       "answer": "enchanting"
     },
     {
-      "word": "INQUIRE",
-      "answer": "inquired"
+      "word": "ENDURE",
+      "answer": "endure"
     },
     {
-      "word": "PROVOKE",
-      "answer": "provoked"
+      "word": "ENVELOP",
+      "answer": "envelop"
     },
     {
-      "word": "SALVAGE",
-      "answer": "salvage"
-    },
-    {
-      "word": "VICINITY",
-      "answer": "vicinity"
+      "word": "EVIDENT",
+      "answer": "evident"
     },
     {
       "word": "EXHAUST",
       "answer": "exhausted"
     },
     {
-      "word": "INTENSE",
-      "answer": "intermediate"
+      "word": "FEEBLE",
+      "answer": "feeble"
     },
     {
-      "word": "RECEPTION",
-      "answer": "reception"
-    },
-    {
-      "word": "SANITARY",
-      "answer": "sanitary"
-    },
-    {
-      "word": "VIGOR",
-      "answer": "vigor"
+      "word": "FEUD",
+      "answer": "feud"
     },
     {
       "word": "FOE",
       "answer": "foes"
     },
     {
+      "word": "FRISKY",
+      "answer": "frisky"
+    },
+    {
+      "word": "FROLIC",
+      "answer": "frolic"
+    },
+    {
+      "word": "INQUIRE",
+      "answer": "inquired"
+    },
+    {
+      "word": "INTENSE",
+      "answer": "intense"
+    },
+    {
       "word": "INTERMEDIATE",
       "answer": "intermediate"
+    },
+    {
+      "word": "INTERSECT",
+      "answer": "intersect"
+    },
+    {
+      "word": "JAVELIN",
+      "answer": "javelin"
+    },
+    {
+      "word": "LEAN",
+      "answer": "lean"
+    },
+    {
+      "word": "LIBERATE",
+      "answer": "liberate"
+    },
+    {
+      "word": "PAMPER",
+      "answer": "pampers"
+    },
+    {
+      "word": "PERISH",
+      "answer": "perished"
+    },
+    {
+      "word": "PLAGUE",
+      "answer": "plagued"
+    },
+    {
+      "word": "PLEAD",
+      "answer": "pleaded"
+    },
+    {
+      "word": "PROVOKE",
+      "answer": "provoked"
+    },
+    {
+      "word": "RECEPTION",
+      "answer": "reception"
     },
     {
       "word": "ROSTER",
       "answer": "roster"
     },
     {
+      "word": "RUPTURE",
+      "answer": "rupture"
+    },
+    {
+      "word": "SACRED",
+      "answer": "sacred"
+    },
+    {
+      "word": "SALVAGE",
+      "answer": "salvage"
+    },
+    {
+      "word": "SANITARY",
+      "answer": "sanitary"
+    },
+    {
       "word": "SHUDDER",
       "answer": "shudder"
+    },
+    {
+      "word": "SITE",
+      "answer": "site"
+    },
+    {
+      "word": "SPRAWL",
+      "answer": "sprawled"
+    },
+    {
+      "word": "STEER",
+      "answer": "steer"
+    },
+    {
+      "word": "SUBSTITUTE",
+      "answer": "substituted"
+    },
+    {
+      "word": "VICINITY",
+      "answer": "vicinity"
+    },
+    {
+      "word": "VIGOR",
+      "answer": "vigor"
     },
     {
       "word": "VIOLATE",
@@ -222,7 +222,7 @@
       "part1": "You can see on the map where the railroad and the highway",
       "part2": ".",
       "correct": "intersect",
-      "word": "INTERMEDIATE"
+      "word": "INTERSECT"
     },
     {
       "part1": "The starving family",
@@ -366,7 +366,7 @@
       "part1": "His",
       "part2": "desire to win the contest drove everything else out of his mind.",
       "correct": "intense",
-      "word": "INTERMEDIATE"
+      "word": "INTENSE"
     },
     {
       "part1": "Kathy would",

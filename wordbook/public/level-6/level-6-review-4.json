@@ -5,80 +5,16 @@
       "answer": "affable"
     },
     {
-      "word": "BANAL",
-      "answer": "banal"
-    },
-    {
-      "word": "EXODUS",
-      "answer": "exodus"
-    },
-    {
-      "word": "ORDEAL",
-      "answer": "ordeal"
-    },
-    {
-      "word": "RECAPITULATE",
-      "answer": "recapitulate"
-    },
-    {
       "word": "AFFINITY",
       "answer": "affinity"
-    },
-    {
-      "word": "BESTIAL",
-      "answer": "bestial"
-    },
-    {
-      "word": "IMBIBE",
-      "answer": "imbibed"
-    },
-    {
-      "word": "PALPITATE",
-      "answer": "palpitate"
-    },
-    {
-      "word": "SORDID",
-      "answer": "sordid"
     },
     {
       "word": "AGGRIEVED",
       "answer": "aggrieved"
     },
     {
-      "word": "CONFOUND",
-      "answer": "confounded"
-    },
-    {
-      "word": "IMPETUS",
-      "answer": "impetus"
-    },
-    {
-      "word": "PICAYUNE",
-      "answer": "picayune"
-    },
-    {
-      "word": "VISTA",
-      "answer": "vista"
-    },
-    {
       "word": "ARDENT",
       "answer": "ardent"
-    },
-    {
-      "word": "EMPHATIC",
-      "answer": "emphatic"
-    },
-    {
-      "word": "MATRON",
-      "answer": "matrons"
-    },
-    {
-      "word": "PLEBEIAN",
-      "answer": "plebeian"
-    },
-    {
-      "word": "WILE",
-      "answer": "wiles"
     },
     {
       "word": "ASPIRE",
@@ -89,96 +25,160 @@
       "answer": "assimilate"
     },
     {
-      "word": "EQUITY",
-      "answer": "equity"
+      "word": "BANAL",
+      "answer": "banal"
     },
     {
-      "word": "ILLUSTRIOUS",
-      "answer": "illustrious"
-    },
-    {
-      "word": "LAUDABLE",
-      "answer": "laudable"
-    },
-    {
-      "word": "SCATHING",
-      "answer": "scathing"
+      "word": "BESTIAL",
+      "answer": "bestial"
     },
     {
       "word": "BLASÉ",
       "answer": "blasé"
     },
     {
-      "word": "ESPOUSE",
-      "answer": "espouse"
-    },
-    {
-      "word": "IMPART",
-      "answer": "imparted"
-    },
-    {
-      "word": "LEGACY",
-      "answer": "legacy"
-    },
-    {
-      "word": "SUPERFICIAL",
-      "answer": "superficial"
+      "word": "CONFOUND",
+      "answer": "confounded"
     },
     {
       "word": "CULPABLE",
       "answer": "culpable"
     },
     {
-      "word": "EXONERATE",
-      "answer": "exonerate"
-    },
-    {
-      "word": "IMPLEMENT",
-      "answer": "implements"
-    },
-    {
-      "word": "PALATABLE",
-      "answer": "palatable"
-    },
-    {
-      "word": "WANTON",
-      "answer": "wanton"
-    },
-    {
       "word": "DEFILE",
       "answer": "defiled"
-    },
-    {
-      "word": "GINGERLY",
-      "answer": "gingerly"
-    },
-    {
-      "word": "INCEPTION",
-      "answer": "inception"
-    },
-    {
-      "word": "RETICENT",
-      "answer": "reticent"
-    },
-    {
-      "word": "WROUGHT",
-      "answer": "wrought"
     },
     {
       "word": "DISCREET",
       "answer": "discreet"
     },
     {
+      "word": "EMPHATIC",
+      "answer": "emphatic"
+    },
+    {
+      "word": "EQUITY",
+      "answer": "equity"
+    },
+    {
+      "word": "ESPOUSE",
+      "answer": "espouse"
+    },
+    {
+      "word": "EXODUS",
+      "answer": "exodus"
+    },
+    {
+      "word": "EXONERATE",
+      "answer": "exonerate"
+    },
+    {
+      "word": "GINGERLY",
+      "answer": "gingerly"
+    },
+    {
       "word": "HEW",
       "answer": "hewed"
+    },
+    {
+      "word": "ILLUSTRIOUS",
+      "answer": "illustrious"
+    },
+    {
+      "word": "IMBIBE",
+      "answer": "imbibed"
+    },
+    {
+      "word": "IMPART",
+      "answer": "imparted"
+    },
+    {
+      "word": "IMPETUS",
+      "answer": "impetus"
+    },
+    {
+      "word": "IMPLEMENT",
+      "answer": "implements"
+    },
+    {
+      "word": "INCEPTION",
+      "answer": "inception"
     },
     {
       "word": "INTREPID",
       "answer": "intrepid"
     },
     {
+      "word": "LAUDABLE",
+      "answer": "laudable"
+    },
+    {
+      "word": "LEGACY",
+      "answer": "legacy"
+    },
+    {
+      "word": "MATRON",
+      "answer": "matrons"
+    },
+    {
+      "word": "ORDEAL",
+      "answer": "ordeal"
+    },
+    {
+      "word": "PALATABLE",
+      "answer": "palatable"
+    },
+    {
+      "word": "PALPITATE",
+      "answer": "palpitate"
+    },
+    {
+      "word": "PICAYUNE",
+      "answer": "picayune"
+    },
+    {
+      "word": "PLEBEIAN",
+      "answer": "plebeian"
+    },
+    {
+      "word": "RECAPITULATE",
+      "answer": "recapitulate"
+    },
+    {
+      "word": "RETICENT",
+      "answer": "reticent"
+    },
+    {
       "word": "REVEL",
       "answer": "revels"
+    },
+    {
+      "word": "SCATHING",
+      "answer": "scathing"
+    },
+    {
+      "word": "SORDID",
+      "answer": "sordid"
+    },
+    {
+      "word": "SUPERFICIAL",
+      "answer": "superficial"
+    },
+    {
+      "word": "VISTA",
+      "answer": "vista"
+    },
+    {
+      "word": "WANTON",
+      "answer": "wanton"
+    },
+    {
+      "word": "WILE",
+      "answer": "wiles"
+    },
+    {
+      "word": "WROUGHT",
+      "answer": "wrought"
     }
   ],
   "questions": [

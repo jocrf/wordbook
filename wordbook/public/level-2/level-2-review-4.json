@@ -1,184 +1,184 @@
 {
   "wordList": [
     {
-      "word": "ADEQUATE",
-      "answer": "adequate"
-    },
-    {
-      "word": "DEPRESS",
-      "answer": "depresses"
-    },
-    {
-      "word": "GORGEOUS",
-      "answer": "gorgeous"
-    },
-    {
-      "word": "LOGICAL",
-      "answer": "logical"
-    },
-    {
-      "word": "PARALLEL",
-      "answer": "parallel"
-    },
-    {
-      "word": "CONSULT",
-      "answer": "consulted"
-    },
-    {
-      "word": "DREAD",
-      "answer": "dreaded"
-    },
-    {
-      "word": "JUSTICE",
-      "answer": "justice"
-    },
-    {
-      "word": "MELODIOUS",
-      "answer": "melodious"
-    },
-    {
-      "word": "PILLAR",
-      "answer": "pillars"
-    },
-    {
-      "word": "CONTRACT",
-      "answer": "contract"
-    },
-    {
-      "word": "EXTERIOR",
-      "answer": "exterior"
-    },
-    {
-      "word": "LEGISLATOR",
-      "answer": "legislators"
-    },
-    {
-      "word": "MONARCH",
-      "answer": "monarch"
-    },
-    {
-      "word": "SUSCEPTIBLE",
-      "answer": "susceptible"
-    },
-    {
-      "word": "DAMAGE",
-      "answer": "damage"
-    },
-    {
-      "word": "FIENDISH",
-      "answer": "fiendish"
-    },
-    {
-      "word": "LEISURE",
-      "answer": "leisure"
-    },
-    {
-      "word": "MORSEL",
-      "answer": "morsel"
-    },
-    {
-      "word": "VERDICT",
-      "answer": "verdict"
-    },
-    {
-      "word": "DEJECTED",
-      "answer": "dejected"
-    },
-    {
-      "word": "FLABBERGAST",
-      "answer": "flabbergasted"
-    },
-    {
       "word": "ACQUIRE",
       "answer": "acquire"
     },
     {
-      "word": "FEE",
-      "answer": "fee"
-    },
-    {
-      "word": "HURL",
-      "answer": "hurled"
-    },
-    {
-      "word": "INVINCIBLE",
-      "answer": "invincible"
-    },
-    {
-      "word": "SLITHER",
-      "answer": "slithered"
+      "word": "ADEQUATE",
+      "answer": "adequate"
     },
     {
       "word": "BARBARIC",
       "answer": "barbaric"
     },
     {
-      "word": "FESTIVE",
-      "answer": "festive"
+      "word": "CONSULT",
+      "answer": "consulted"
     },
     {
-      "word": "INFANTILE",
-      "answer": "infantile"
+      "word": "CONTRACT",
+      "answer": "contract"
     },
     {
-      "word": "PREPOSTEROUS",
-      "answer": "preposterous"
-    },
-    {
-      "word": "SNICKER",
-      "answer": "snickered"
+      "word": "DAMAGE",
+      "answer": "damage"
     },
     {
       "word": "DAWDLE",
       "answer": "dawdles"
     },
     {
-      "word": "GENUINE",
-      "answer": "genuine"
+      "word": "DEJECTED",
+      "answer": "dejected"
     },
     {
-      "word": "INHABIT",
-      "answer": "inhabit"
+      "word": "DEPRESS",
+      "answer": "depresses"
     },
     {
-      "word": "PROGRESS",
-      "answer": "progress"
-    },
-    {
-      "word": "SUPERVISE",
-      "answer": "supervised"
+      "word": "DREAD",
+      "answer": "dreaded"
     },
     {
       "word": "ETERNAL",
       "answer": "eternal"
     },
     {
+      "word": "EXCLAIM",
+      "answer": "exclaimed"
+    },
+    {
+      "word": "EXTERIOR",
+      "answer": "exterior"
+    },
+    {
+      "word": "FEE",
+      "answer": "fee"
+    },
+    {
+      "word": "FESTIVE",
+      "answer": "festive"
+    },
+    {
+      "word": "FIENDISH",
+      "answer": "fiendish"
+    },
+    {
+      "word": "FLABBERGAST",
+      "answer": "flabbergasted"
+    },
+    {
+      "word": "GENUINE",
+      "answer": "genuine"
+    },
+    {
       "word": "GIBBERISH",
       "answer": "gibberish"
     },
     {
-      "word": "INJURIOUS",
-      "answer": "injurious"
-    },
-    {
-      "word": "RECOLLECT",
-      "answer": "recollect"
-    },
-    {
-      "word": "UNDERGO",
-      "answer": "undergo"
-    },
-    {
-      "word": "EXCLAIM",
-      "answer": "exclaimed"
+      "word": "GORGEOUS",
+      "answer": "gorgeous"
     },
     {
       "word": "HUMANE",
       "answer": "humane"
     },
     {
+      "word": "HURL",
+      "answer": "hurled"
+    },
+    {
+      "word": "INFANTILE",
+      "answer": "infantile"
+    },
+    {
+      "word": "INHABIT",
+      "answer": "inhabit"
+    },
+    {
+      "word": "INJURIOUS",
+      "answer": "injurious"
+    },
+    {
       "word": "INSPIRE",
       "answer": "inspire"
+    },
+    {
+      "word": "INVINCIBLE",
+      "answer": "invincible"
+    },
+    {
+      "word": "JUSTICE",
+      "answer": "justice"
+    },
+    {
+      "word": "LEGISLATOR",
+      "answer": "legislators"
+    },
+    {
+      "word": "LEISURE",
+      "answer": "leisure"
+    },
+    {
+      "word": "LOGICAL",
+      "answer": "logical"
+    },
+    {
+      "word": "MELODIOUS",
+      "answer": "melodious"
+    },
+    {
+      "word": "MONARCH",
+      "answer": "monarch"
+    },
+    {
+      "word": "MORSEL",
+      "answer": "morsel"
+    },
+    {
+      "word": "PARALLEL",
+      "answer": "parallel"
+    },
+    {
+      "word": "PILLAR",
+      "answer": "pillars"
+    },
+    {
+      "word": "PREPOSTEROUS",
+      "answer": "preposterous"
+    },
+    {
+      "word": "PROGRESS",
+      "answer": "progress"
+    },
+    {
+      "word": "RECOLLECT",
+      "answer": "recollect"
+    },
+    {
+      "word": "SLITHER",
+      "answer": "slithered"
+    },
+    {
+      "word": "SNICKER",
+      "answer": "snickered"
+    },
+    {
+      "word": "SUPERVISE",
+      "answer": "supervised"
+    },
+    {
+      "word": "SUSCEPTIBLE",
+      "answer": "susceptible"
+    },
+    {
+      "word": "UNDERGO",
+      "answer": "undergo"
+    },
+    {
+      "word": "VERDICT",
+      "answer": "verdict"
     }
   ],
   "questions": [

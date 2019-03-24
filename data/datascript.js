@@ -1,7 +1,10 @@
 const fs = require('fs');
 const path = require('path');
+const lev = require('fast-levenshtein');
 
-const level = require('./level-1-trial');
+const levelNum = 8;
+
+const level = require(`./copyedited-json/level-${levelNum}-trial`);
 
 const newLevel = {sections: []};
 // go through the chapters
@@ -56,28 +59,28 @@ newLevel.sections.forEach(function (section) {
 newLevel.sections.forEach(function (section) {
   let modWordList = [];
   section.reviewTest.wordList.forEach(function (word) {
-    let obj = {word: `${word}`};
-    section.reviewTest.questions.forEach(function (question) {
+    let scoredQuestions = section.reviewTest.questions.map(function (question) {
       if (question.answer) {
         question.correct = question.answer;
         delete question.answer;
       } else {
         console.log(question);
       }
-      const answer = question.correct;
+      // if the answer is much longer than the word, that will result in a very high distance - crop the answer to the length of the word and then compare for better accuracy
+      const answer = question.correct.slice(0, word.length);
       const cappedAnswer = answer.toUpperCase();
-      let shortenedAnswer;
-      if (cappedAnswer.length > 5) {
-        shortenedAnswer = cappedAnswer.slice(0, 4);
-      } else {
-        shortenedAnswer = cappedAnswer;
-      }
-      if (word.startsWith(shortenedAnswer)) {
-        obj.answer = answer;
-        question.word = word;
-      }
+      const distance = lev.get(word, cappedAnswer);
+      return {
+        question: question,
+        distance: distance
+      };
     });
-    modWordList.push(obj);
+    const correctQuestion = scoredQuestions.sort((a, b) => a.distance - b.distance)[0].question;
+    correctQuestion.word = word;
+    modWordList.push({
+      word: word,
+      answer: correctQuestion.correct
+    });
   });
   section.reviewTest.wordList = modWordList;
 });
@@ -132,9 +135,36 @@ newLevel.sections.forEach(section => {
   });
 });
 
+let sectionId = 1;
+
+newLevel.sections.forEach(section => {
+  section.wordsets.forEach(wordset => (
+    fs.writeFileSync(
+      path.join(__dirname, `../wordbook/public/level-${levelNum}`, `level-${levelNum}-wordset-${wordset.id}.json`),
+      JSON.stringify(wordset, null, 2)
+    )
+  ));
+  section.reviewTest.id = sectionId;
+  section.reviewTest.wordList.sort(function (a, b) {
+    if (a.word < b.word) {
+      return -1;
+    }
+    if (a.word > b.word) {
+      return 1;
+    }
+    return 0;
+  });
+  // console.log(JSON.stringify(section.reviewTest.wordList, null, 2));
+  fs.writeFileSync(
+    path.join(__dirname, `../wordbook/public/level-${levelNum}`, `level-${levelNum}-review-${sectionId}.json`),
+    JSON.stringify(section.reviewTest, null, 2)
+  );
+  sectionId++;
+});
+
 // console.log(JSON.stringify(newLevel, null, 2));
 
-fs.writeFileSync(
-  path.join(__dirname, 'new-level-1-trial.json'),
-  JSON.stringify(newLevel, null, 2)
-);
+// fs.writeFileSync(
+//   path.join(__dirname, 'new-level-1-trial.json'),
+//   JSON.stringify(newLevel, null, 2)
+// );
