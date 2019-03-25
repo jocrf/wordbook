@@ -66,7 +66,7 @@ export default class ExercisePage extends Component {
         <div className='card-body'>
           {/* make sure we have data to load */}
           {
-            !this.state.chapter.definitions &&
+            !this.state.chapter.exercise &&
             <Loading
               color='orange-dark'
               msg='Loading exercise...'
@@ -74,7 +74,7 @@ export default class ExercisePage extends Component {
             />
           }
           {
-            this.state.chapter.definitions &&
+            this.state.chapter.exercise &&
             <React.Fragment>
               {!this.state.isQuizzing &&
                 <NavPanel
