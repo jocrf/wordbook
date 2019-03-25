@@ -31,14 +31,14 @@ export default class Loading extends Component {
       <React.Fragment>
         {
           !this.state.timedOut &&
-            <p className='card-text'>
-              Loading exercise...
+            <p className={`card-text font-italic text-${this.props.color}`}>
+              {this.props.msg}
             </p>
         }
         {
           this.state.timedOut &&
-            <p className='card-text'>
-              Sorry, we're having trouble connecting to the database. Please try refreshing your browser or come back later.
+            <p className={`card-text font-italic text-${this.props.color}`}>
+              {this.props.failureMsg}
             </p>
         }
       </React.Fragment>

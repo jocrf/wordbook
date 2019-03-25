@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { getPhonetic } from '../API';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
+import Loading from '../Loading';
 
 export default class Word extends Component {
   constructor (props) {
@@ -13,6 +14,7 @@ export default class Word extends Component {
     this.phoneticRef = React.createRef();
     this.state = {
       phonetics: [],
+      phoneticExists: true,
       url: ''
       // phonetics: [
       //   {
@@ -49,8 +51,12 @@ export default class Word extends Component {
       })
       .then(phoneticData => this.createUrl(phoneticData))
       .then(() => {
-        const audio = this.phoneticRef.current;
-        audio.play();
+        if (this.state.url) {
+          const audio = this.phoneticRef.current;
+          audio.play();
+        } else {
+          this.setState({ phoneticExists: false });
+        }
       });
   }
 
@@ -66,6 +72,14 @@ export default class Word extends Component {
               <FontAwesomeIcon icon={faVolumeUp} />
               <audio ref={this.phoneticRef} src={this.state.url} />
             </button>
+            {
+              !this.state.phoneticExists &&
+              <Loading
+                color='orange'
+                msg='Loading audio...'
+                failureMsg="Sorry, can't connect to Merriam Webster."
+              />
+            }
             {/* below text for rendering phonetic text - commented out due to API query limits */}
             {/* follow display rules according to M-W */}
             {/* \{this.state.phonetics.map(phonetic =>

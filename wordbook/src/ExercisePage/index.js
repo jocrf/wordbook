@@ -67,7 +67,11 @@ export default class ExercisePage extends Component {
           {/* make sure we have data to load */}
           {
             !this.state.chapter.definitions &&
-            <Loading />
+            <Loading
+              color='orange-dark'
+              msg='Loading exercise...'
+              failureMsg="Sorry, we're having trouble connecting to the database. Please try refreshing your browser or come back later."
+            />
           }
           {
             this.state.chapter.definitions &&
