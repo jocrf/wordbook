@@ -52,6 +52,17 @@ export default class App extends Component {
           setStorageState={this.setStorageState}
           useStorage={this.state.useStorage}
         />} />
+        <footer className='justify-content-end'>
+          <div className='d-flex justify-content-end align-items-end mt-3'>
+            <p className='mb-0 text-muted footer-text'>Phonetics and audio provided by Merriam-Webster Inc.</p>
+            <div className='mw-logo'>
+              <img src={`${urlPrefix}/MWLogo_LightBG.png`} alt='Merriam-Webster logo' />
+            </div>
+          </div>
+          <p className='mb-0 pr-3 text-muted footer-text text-right'>WORDBOOK Copyright © 1988, 1983 by Johnson O'Connor Research Foundation, Inc.</p>
+          <p className='mb-0 pr-3 text-muted footer-text text-right'>Wordbook App Copyright © 2019</p>
+          <p className='mb-0 pr-3 text-muted footer-text text-right'>Designed and built by <a href='https://amyfrieson.com' target='_blank' rel='noopener noreferrer'>Amy Frieson</a></p>
+        </footer>
       </main>
     );
   }

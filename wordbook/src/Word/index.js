@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { getPhonetic } from '../API';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faVolumeUp } from '@fortawesome/free-solid-svg-icons';
+import Loading from '../Loading';
 
 export default class Word extends Component {
   constructor (props) {
@@ -13,6 +14,7 @@ export default class Word extends Component {
     this.phoneticRef = React.createRef();
     this.state = {
       phonetics: [],
+      phoneticExists: true,
       url: ''
       // phonetics: [
       //   {
@@ -23,14 +25,6 @@ export default class Word extends Component {
       //   }
       // ]
     };
-  }
-  componentDidMount () {
-    getPhonetic(this.props.definition.word)
-      .then(phoneticData => {
-        this.setState(prevState => ({ phonetics: phoneticData }));
-        return phoneticData;
-      })
-      .then(phoneticData => this.createUrl(phoneticData));
   }
 
   createMarkup (text) {
@@ -46,8 +40,20 @@ export default class Word extends Component {
   }
 
   playPhonetic () {
-    const audio = this.phoneticRef.current;
-    audio.play();
+    getPhonetic(this.props.definition.word)
+      .then(phoneticData => {
+        this.setState(prevState => ({ phonetics: phoneticData }));
+        return phoneticData;
+      })
+      .then(phoneticData => this.createUrl(phoneticData))
+      .then(() => {
+        if (this.state.url) {
+          const audio = this.phoneticRef.current;
+          audio.play();
+        } else {
+          this.setState({ phoneticExists: false });
+        }
+      });
   }
 
   render () {
@@ -62,15 +68,24 @@ export default class Word extends Component {
               <FontAwesomeIcon icon={faVolumeUp} />
               <audio ref={this.phoneticRef} src={this.state.url} />
             </button>
+            {
+              !this.state.phoneticExists &&
+              <Loading
+                color='orange'
+                msg='Loading audio...'
+                failureMsg="Sorry, can't connect to Merriam Webster."
+              />
+            }
+            {/* below text for rendering phonetic text - commented out due to API query limits */}
             {/* follow display rules according to M-W */}
-            \{this.state.phonetics.map(phonetic =>
+            {/* \{this.state.phonetics.map(phonetic =>
               <p key={phonetic.mw} className='card-text mb-0 col-auto'>
                 <span className='font-italic pl-3 pr-3'>{phonetic.l ? phonetic.l : null}</span>
                 {phonetic.mw}
                 <span className='font-italic pl-3 pr-3'>{phonetic.l2 ? phonetic.l2 : null}</span>
                 {(this.state.phonetics.length > 1 && this.state.phonetics.indexOf(phonetic) < this.state.phonetics.length - 1) ? (phonetic.pun || ', ') : null}
               </p>
-            )}\
+            )}\ */}
           </div>
           <hr className='bg-secondary' />
           <p className='card-text' dangerouslySetInnerHTML={this.createMarkup(definition.deftext)} />
