@@ -5,8 +5,6 @@ import Instructions from '../Instructions';
 import { getExercise, getInstructions, getPlacement } from '../API';
 import Loading from '../Loading';
 
-// TODO: implement showDefinition method - by default on exercise 0, optionally to click on word for other exercises
-
 export default class ExercisePage extends Component {
   constructor (props) {
     super(props);
@@ -66,6 +64,7 @@ export default class ExercisePage extends Component {
     return (
       <section className='card'>
         <div className='card-body'>
+          {/* make sure we have data to load */}
           {
             !this.state.chapter.definitions &&
             <Loading />
