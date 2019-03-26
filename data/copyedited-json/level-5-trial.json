@@ -174,11 +174,11 @@
         {
           "prompt": "CONTEMPORARY ideas.",
           "answers": [
-            "old-fashioned changeable",
+            "old-fashioned",
+            "changeable",
             "ancient",
             "current",
-            "future",
-            null
+            "future"
           ],
           "word": "CONTEMPORARY",
           "correct": "current"
@@ -501,13 +501,13 @@
         "word": "ADHERE",
         "phonetic": "(ad-hEr')",
         "pos": "v.",
-        "deftext": "to stick, hold fast \nTo ADHERE to something is to stick to it. Physical objects can ADHERE to other objects, and people can ADHERE to goals, beliefs, causes, and the like. \n\"The glue made the paper ADHERE to the table.\n\"She ADHERED to her position even after she had been proved wrong.\n\"I try to ADHERE to the Golden Rule in my everyday life.\" \nThe most common mistake on the Pretest is to choose loosen as the meaning of ADHERE. This is a confusion of a word with its opposite. \nOther forms of the word: ADHERENCE, n. ADHERENT, n. \nUsage: ADHERE is usually followed by _to_."
+        "deftext": "to stick, hold fast \nTo ADHERE to something is to stick to it. Physical objects can ADHERE to other objects, and people can ADHERE to goals, beliefs, causes, and the like. \n\"The glue made the paper ADHERE to the table.\" \n\"She ADHERED to her position even after she had been proved wrong.\" \n\"I try to ADHERE to the Golden Rule in my everyday life.\" \nThe most common mistake on the Pretest is to choose _loosen_ as the meaning of ADHERE. This is a confusion of a word with its opposite. \nOther forms of the word: ADHERENCE, n. ADHERENT, n. \nUsage: ADHERE is usually followed by _to_."
       },
       "CONTEMPTUOUS": {
         "word": "CONTEMPTUOUS",
         "phonetic": "(kÔøΩn'-temp-chU-ÔøΩs)",
         "pos": "adj.",
-        "deftext": "showing CONTEMPT, scornful  \nCONTEMPT is an attitude in which you despise or look down on someone or something. \n\"He felt nothing but CONTEMPT for students who cheated on tests.\n\" CONTEMPTUOUS is an adjective from CONTEMPT; it means \"showing or feeling CONTEMPT.\" See _-ous_ under Suffixes. \n\"She was CONTEMPTUOUS of people who used any means to get their own way.\" \n\"The baseball coach was CONTEMPTUOUS of my attempt to throw a curveball.\" \nThe most commonly chosen wrong answer on the Pretest is _disgusting_. This may be due to confusion between CONTEMPTUOUS and CONTEMPTIBLE. CONTEMPTIBLE means \"worthy of scorn or CONTEMPT.\" \n\"Beating the dog severely was a CONTEMPTIBLE action. We are all CONTEMPTUOUS of such disgraceful behavior.\" \nOther forms of the word: CONTEMPT, n. CONTEMPTIBLE, adj."
+        "deftext": "showing CONTEMPT, scornful  \nCONTEMPT is an attitude in which you despise or look down on someone or something. \n\"He felt nothing but CONTEMPT for students who cheated on tests.\" \n CONTEMPTUOUS is an adjective from CONTEMPT; it means \"showing or feeling CONTEMPT.\" See _-ous_ under Suffixes. \n\"She was CONTEMPTUOUS of people who used any means to get their own way.\" \n\"The baseball coach was CONTEMPTUOUS of my attempt to throw a curveball.\" \nThe most commonly chosen wrong answer on the Pretest is _disgusting_. This may be due to confusion between CONTEMPTUOUS and CONTEMPTIBLE. CONTEMPTIBLE means \"worthy of scorn or CONTEMPT.\" \n\"Beating the dog severely was a CONTEMPTIBLE action. We are all CONTEMPTUOUS of such disgraceful behavior.\" \nOther forms of the word: CONTEMPT, n. CONTEMPTIBLE, adj."
       },
       "CORDIAL": {
         "word": "CORDIAL",
@@ -585,7 +585,7 @@
         "word": "CONTEMPORARY",
         "phonetic": "(k:ln-tem'-p:l-rer-E)",
         "pos": "adj.",
-        "deftext": "occurring at the same time, simultaneous; modern, current \nSomething which is CONTEMPORARY lives, exists, or occurs at the same time as something else. \n\"Shakespeare's life was CONTEMPORARY with Francis Bacon's.\" \n\"The revival of learning in the Renaissance was CONTEMPORARY with the early explorations of America.\" \n\"CONTEMPORARY authors all described the ancient king as being short and ugly.\" \nCONTEMPORARY also means _modern, up-to-date-_ that is, existing at the same time we do. \n\"Jane decided to sell all her antique furniture and re- decorate her home in a more CONTEMPORARY style.\" \nCONTEMPORARY is also a noun which is used about people who live at the same time. \n\"Roberta and my sister, Lorraine, were CONTEMPORARIES at Columbia University.\""
+        "deftext": "occurring at the same time, simultaneous; modern, current \nSomething which is CONTEMPORARY lives, exists, or occurs at the same time as something else. \n\"Shakespeare's life was CONTEMPORARY with Francis Bacon's.\" \n\"The revival of learning in the Renaissance was CONTEMPORARY with the early explorations of America.\" \n\"CONTEMPORARY authors all described the ancient king as being short and ugly.\" \nCONTEMPORARY also means _modern_, _up-to-date-_ that is, existing at the same time we do. \n\"Jane decided to sell all her antique furniture and redecorate her home in a more CONTEMPORARY style.\" \nCONTEMPORARY is also a noun which is used about people who live at the same time. \n\"Roberta and my sister, Lorraine, were CONTEMPORARIES at Columbia University.\""
       }
     }
   },
@@ -1110,7 +1110,7 @@
         "word": "DISINTEGRATE",
         "phonetic": "(dis-in'-tÔøΩgrAt)",
         "pos": "v.",
-        "deftext": "to break up, fall apart \nWhen something DISINTEGRATES, it breaks up into small pieces. See _dis-_ under Prefixes. \n\"The building DISINTEGRATED from the force of the explosion.\" \n\"The rocks slowly DISINTEGRATED after centuries of storms and heat.\" \nTo DISINTEGRATE something is to break it apart. \n\"One blow of his ax DISINTEGRATED the table.\" \nThe most commonly marked incorrect answer on the Pre- test is _go away,_ perhaps because DISINTEGRATE looks a little like _disappear._ Other forms of the word: DISINTEGRATION, n."
+        "deftext": "to break up, fall apart \nWhen something DISINTEGRATES, it breaks up into small pieces. See _dis-_ under Prefixes. \n\"The building DISINTEGRATED from the force of the explosion.\" \n\"The rocks slowly DISINTEGRATED after centuries of storms and heat.\" \nTo DISINTEGRATE something is to break it apart. \n\"One blow of his ax DISINTEGRATED the table.\" \nThe most commonly marked incorrect answer on the Pretest is _go away,_ perhaps because DISINTEGRATE looks a little like _disappear_. \nOther forms of the word: DISINTEGRATION, n."
       },
       "SUMMIT": {
         "word": "SUMMIT",
@@ -1128,13 +1128,13 @@
         "word": "CHRONIC",
         "phonetic": "(kron'-ik)",
         "pos": "adj.",
-        "deftext": "constant, continual, long- lasting \nCHRONIC comes from the Greek word for _time._ Some- thing that is CHRONIC lasts for a long time without change. The word is used especially about diseases or conditions which are difficult to cure or improve. \n\"She has CHRONIC arthritis in her hands and is con- stantly in pain.\" \n\"The school was hampered by a CHRONIC shortage of money.\" \nCHRONIC is also used about a person who has a constant habit or disease. \n\"He is a CHRONIC complainer. He is always finding fault with something.\" \n\"He has been a CHRONIC cigarette smoker for thirty years.\" \nThe most popular wrong answer on the Pretest is _medical,_ probably because CHRONIC is used so often about diseases. People who choose _medical_ have seen the word CHRONIC used, but haven't been able to narrow it down to its specific meaning."
+        "deftext": "constant, continual, long-lasting \nCHRONIC comes from the Greek word for _time._ Something that is CHRONIC lasts for a long time without change. The word is used especially about diseases or conditions which are difficult to cure or improve. \n\"She has CHRONIC arthritis in her hands and is constantly in pain.\" \n\"The school was hampered by a CHRONIC shortage of money.\" \nCHRONIC is also used about a person who has a constant habit or disease. \n\"He is a CHRONIC complainer. He is always finding fault with something.\" \n\"He has been a CHRONIC cigarette smoker for thirty years.\" \nThe most popular wrong answer on the Pretest is _medical,_ probably because CHRONIC is used so often about diseases. People who choose _medical_ have seen the word CHRONIC used, but haven't been able to narrow it down to its specific meaning."
       },
       "INDUCE": {
         "word": "INDUCE",
         "phonetic": "(in-dUs')",
         "pos": "v.",
-        "deftext": "to persuade, influence, prevail upon; to bring about, cause \nTo INDUCE someone to do something is to lead or cause him to do it, usually by showing him the advantages that will result. \n\"We finally INDUCED him to be quiet by offering him an ice cream cone.\" \n\"Nothing would INDUCE her to enter the haunted house.\" \nWhen used about things, INDUCE means to _bring about_ or _cause._ \n\"His illness was INDUCED by poison gas.\" \n\"The drug INDUCED a state of sleepiness.\" \nAn INDUCEMENT is something which INDUCES, a _motive_ or _incentive._ \n\"We offered to double his salary as an INDUCE- MENT for him to join our company.\" \nOther forms of the word: INDUCEMENT, n."
+        "deftext": "to persuade, influence, prevail upon; to bring about, cause \nTo INDUCE someone to do something is to lead or cause him to do it, usually by showing him the advantages that will result. \n\"We finally INDUCED him to be quiet by offering him an ice cream cone.\" \n\"Nothing would INDUCE her to enter the haunted house.\" \nWhen used about things, INDUCE means to _bring about_ or _cause._ \n\"His illness was INDUCED by poison gas.\" \n\"The drug INDUCED a state of sleepiness.\" \nAn INDUCEMENT is something which INDUCES, a _motive_ or _incentive._ \n\"We offered to double his salary as an INDUCEMENT for him to join our company.\" \nOther forms of the word: INDUCEMENT, n."
       },
       "PUNY": {
         "word": "PUNY",
@@ -1152,7 +1152,7 @@
         "word": "CLICHE",
         "phonetic": "(klE-shA')",
         "pos": "n.",
-        "deftext": "a trite phrase, worn-out expression \nNote the pronunciation. \nA CLICHE is a phrase or expression which has been used so much that it has become trite, worn out, and stale. \n\"His speech was so full of CLICHES that we wondered if he had ever had one original thought.\" \n\"You must try to avoid using CLICHES in your com- positions. Think of new ways to express your ideas.\" \nSome examples of CLICHES are \"fresh as a daisy,\" \"last but not least,\" \"pretty as a picture,\" and \"hook, line, and sinker.\""
+        "deftext": "a trite phrase, worn-out expression \nNote the pronunciation. \nA CLICHE is a phrase or expression which has been used so much that it has become trite, worn out, and stale. \n\"His speech was so full of CLICHES that we wondered if he had ever had one original thought.\" \n\"You must try to avoid using CLICHES in your compositions. Think of new ways to express your ideas.\" \nSome examples of CLICHES are \"fresh as a daisy,\" \"last but not least,\" \"pretty as a picture,\" and \"hook, line, and sinker.\""
       },
       "SULLEN": {
         "word": "SULLEN",
@@ -1164,19 +1164,19 @@
         "word": "PROLOGUE",
         "phonetic": "(prO'-log)",
         "pos": "n.",
-        "deftext": "an introduction \nA PROLOGUE is an introduction, especially one that comes before the beginning of a book or a play. See _pro-_ under Prefixes. \n\"We recited the PROLOGUE to the Declaration of In- dependence.\" \n\"Even though this book itself is very interesting, its PROLOGUE is very dull.\" \nPROLOGUE can also be used loosely about the introduction or first part of something. \n\"This small battle was a PROLOGUE to the long war that was about to start.\" \nUsage: PROLOGUE is sometimes spelled PROLOG."
+        "deftext": "an introduction \nA PROLOGUE is an introduction, especially one that comes before the beginning of a book or a play. See _pro-_ under Prefixes. \n\"We recited the PROLOGUE to the Declaration of Independence.\" \n\"Even though this book itself is very interesting, its PROLOGUE is very dull.\" \nPROLOGUE can also be used loosely about the introduction or first part of something. \n\"This small battle was a PROLOGUE to the long war that was about to start.\" \nUsage: PROLOGUE is sometimes spelled PROLOG."
       },
       "RELATE": {
         "word": "RELATE",
         "phonetic": "(ri-lAt')",
         "pos": "v.",
-        "deftext": "to tell; to connect logically \nRELATE is used in two different ways. To RELATE a story or experience is to tell it, to give an account of it. \n\"He RELATED how he had come to be president of the company.\" \n\"She RELATED the story of the Headless Horseman.\" \nTo RELATE one thing _to_ another thing is to make or show a connection, or relationship, between them. \n\"It is hard to RELATE your results to what we already know.\" \nIn an extended sense, when used about a person RE- LATE means \"to have a meaningful RELATIONSHIP.\" \n\"Helen found that she could RELATE very well to Phil even though he was much older.\" \nRELATED is an adjective which means _connected._ \n\"We didn't know the two events were RELATED until much later.\" People who are RELATED are connected by blood. \"We are distantly RELATED. She is my third cousin.\" \nOther forms of the word: RELATED, adj. RELATIONSHIP, n."
+        "deftext": "to tell; to connect logically \nRELATE is used in two different ways. To RELATE a story or experience is to tell it, to give an account of it. \n\"He RELATED how he had come to be president of the company.\" \n\"She RELATED the story of the Headless Horseman.\" \nTo RELATE one thing _to_ another thing is to make or show a connection, or relationship, between them. \n\"It is hard to RELATE your results to what we already know.\" \nIn an extended sense, when used about a person RELATE means \"to have a meaningful RELATIONSHIP.\" \n\"Helen found that she could RELATE very well to Phil even though he was much older.\" \nRELATED is an adjective which means _connected._ \n\"We didn't know the two events were RELATED until much later.\" People who are RELATED are connected by blood. \"We are distantly RELATED. She is my third cousin.\" \nOther forms of the word: RELATED, adj. RELATIONSHIP, n."
       },
       "INTIMATE": {
         "word": "INTIMATE",
         "phonetic": "(in'-t::>-mit)",
         "pos": "adj.",
-        "deftext": "very close, personal, private \nINTIMATE is used in several senses, all with the general meaning of _close, personal, private. INTIMATE friends are very close, very deep friends. An INTIMATE conversation is a private, personal talk that you would not want to be overheard. A person who has an INTIMATE knowledge of a subject knows it extremely well, is deeply familiar with it. The INTIMATE details of an event or a per- son's life are the private, secret matters that few people know about. \n\"The mechanic had an INTIMATE understanding of how cars work.\" \n\"No one ever learned the INTIMATE secrets of her life.\" \nOther forms of the word: INTIMACY, n."
+        "deftext": "very close, personal, private \nINTIMATE is used in several senses, all with the general meaning of _close, personal, private. INTIMATE friends are very close, very deep friends. An INTIMATE conversation is a private, personal talk that you would not want to be overheard. A person who has an INTIMATE knowledge of a subject knows it extremely well, is deeply familiar with it. The INTIMATE details of an event or a person's life are the private, secret matters that few people know about. \n\"The mechanic had an INTIMATE understanding of how cars work.\" \n\"No one ever learned the INTIMATE secrets of her life.\" \nOther forms of the word: INTIMACY, n."
       }
     }
   },
@@ -1683,13 +1683,13 @@
         "word": "CONCUR",
         "phonetic": "(kÔøΩn-ker')",
         "pos": "v.",
-        "deftext": "to agree; to happen together \nTo CONCUR with someone is to agree with him, to have the same opinion as he does. \n\"Everyone CONCURRED that this was the only ac- tion that could be taken.\" \n\"The two of us did not CONCUR in our opinion of the movie.\" \nCONCUR can also mean \"to happen or work together.\" \n\"His father's death and his accident CONCURRED, making it impossible for him to start college this se- mester.\" \nThe noun from CONCUR is CONCURRENCE, which means _agreement._ \n\"With her parents' CONCURRENCE she decided to take a year off from school.\" \nOther forms of the word: CONCURRENCE, n. CONCURRENT, adj."
+        "deftext": "to agree; to happen together \nTo CONCUR with someone is to agree with him, to have the same opinion as he does. \n\"Everyone CONCURRED that this was the only action that could be taken.\" \n\"The two of us did not CONCUR in our opinion of the movie.\" \nCONCUR can also mean \"to happen or work together.\" \n\"His father's death and his accident CONCURRED, making it impossible for him to start college this semester.\" \nThe noun from CONCUR is CONCURRENCE, which means _agreement._ \n\"With her parents' CONCURRENCE she decided to take a year off from school.\" \nOther forms of the word: CONCURRENCE, n. CONCURRENT, adj."
       },
       "INITIAL": {
         "word": "INITIAL",
         "phonetic": "(i-ni'-shÔøΩI)",
         "pos": "adj.",
-        "deftext": "beginning, first \nINITIAL comes from a Latin word meaning _beginning._ This is also the source of the word _initiate,_ which means to _begin, set going._ INITIAL means \"of or at the beginning.\" \n\"My INITIAL feeling was that he was being unfair, but later I changed my mind.\" \n\"His INITIAL act as king was to release all the politi- cal prisoners.\" \n\"INITIALLY we opposed the idea, but now we are in favor of it.\" \nINITIALS are the beginning letters of names. \n\"The INITIALS 'U.S.A.' stand for the United States of America.\""
+        "deftext": "beginning, first \nINITIAL comes from a Latin word meaning _beginning._ This is also the source of the word _initiate,_ which means to _begin, set going._ INITIAL means \"of or at the beginning.\" \n\"My INITIAL feeling was that he was being unfair, but later I changed my mind.\" \n\"His INITIAL act as king was to release all the political prisoners.\" \n\"INITIALLY we opposed the idea, but now we are in favor of it.\" \nINITIALS are the beginning letters of names. \n\"The INITIALS 'U.S.A.' stand for the United States of America.\""
       },
       "ABDUCT": {
         "word": "ABDUCT",
@@ -1713,7 +1713,7 @@
         "word": "ARID",
         "phonetic": "(ar'-ÔøΩd)",
         "pos": "adj.",
-        "deftext": "dry, barren, parched \nARID means \"without moisture,\" _dry._ ARID is usually a somewhat stronger word than _dry._ Something that is ARID is totally dry and lifeless. When used about land, the word means specifically \"without enough rainfall to grow crops.\" \n\"Farmers couldn't survive in the ARID regions of the West.\" \nARID can also be used in a general sense to mean _lifeless, barren, monotonous._ \n\"The book's treatment of history was rather ARID-it was just a listing of dates and names.\" \n\"She fell asleep during the ARID discussion of the rules for the meeting.\" \nOther forms of the word: ARIDITY, n."
+        "deftext": "dry, barren, parched \nARID means \"without moisture,\" _dry._ ARID is usually a somewhat stronger word than _dry._ Something that is ARID is totally dry and lifeless. When used about land, the word means specifically \"without enough rainfall to grow crops.\" \n\"Farmers couldn't survive in the ARID regions of the West.\" \nARID can also be used in a general sense to mean _lifeless, barren, monotonous._ \n\"The book's treatment of history was rather ARID—it was just a listing of dates and names.\" \n\"She fell asleep during the ARID discussion of the rules for the meeting.\" \nOther forms of the word: ARIDITY, n."
       },
       "CASCADE": {
         "word": "CASCADE",
@@ -1743,25 +1743,25 @@
         "word": "ENCOMPASS",
         "phonetic": "(en-kuhm'-pÔøΩs)",
         "pos": "v.",
-        "deftext": "to include, surround, encircle, envelop \nOne meaning of COMPASS is _limits_ or _boundaries._ \n\"This subject is well within the COMPASS of our study.\" \nTo ENCOMPASS something is to include it within a par- ticular COMPASS, to _encircle_ or _enclose_ it. \n\"These mountains ENCOMPASS the valley.\" \n\"This book ENCOMPASSES the entire history of opera\"-that is, the entire history is included in the book. \n\"The study of art ENCOMPASSES painting, drawing, and sculpture.\""
+        "deftext": "to include, surround, encircle, envelop \nOne meaning of COMPASS is _limits_ or _boundaries._ \n\"This subject is well within the COMPASS of our study.\" \nTo ENCOMPASS something is to include it within a particular COMPASS, to _encircle_ or _enclose_ it. \n\"These mountains ENCOMPASS the valley.\" \n\"This book ENCOMPASSES the entire history of opera\"—that is, the entire history is included in the book. \n\"The study of art ENCOMPASSES painting, drawing, and sculpture.\""
       },
       "EMBRYONIC": {
         "word": "EMBRYONIC",
         "phonetic": "(em-brE-on'-ik)",
         "pos": "adj.",
-        "deftext": "undeveloped, im- mature, rudimentary \nAn EMBRYO is an animal in the early stages of its devel- opment before birth. The adjective from EMBRYO is EMBRYONIC, which means \"like an EMBRYO.\" See _-ic_ under Suffixes. Since an EMBRYO is very young and un- developed, EMBRYONIC can apply to anything which is in its earliest stages, which hasn't developed enough to be recognizable. Just as an EMBRYO turns into a mature adult, something which is called EMBRYONIC should be capable of developing into something much larger and more complete. \n\"The plans are still EMBRYONIC: it will take us a while to complete them.\" \n\"When the industry was in its EMBRYONIC stages few people realized how important it would become.\" \nOther forms of the word: EMBRYO, n."
+        "deftext": "undeveloped, immature, rudimentary \nAn EMBRYO is an animal in the early stages of its development before birth. The adjective from EMBRYO is EMBRYONIC, which means \"like an EMBRYO.\" See _-ic_ under Suffixes. Since an EMBRYO is very young and undeveloped, EMBRYONIC can apply to anything which is in its earliest stages, which hasn't developed enough to be recognizable. Just as an EMBRYO turns into a mature adult, something which is called EMBRYONIC should be capable of developing into something much larger and more complete. \n\"The plans are still EMBRYONIC: it will take us a while to complete them.\" \n\"When the industry was in its EMBRYONIC stages few people realized how important it would become.\" \nOther forms of the word: EMBRYO, n."
       },
       "AFFILIATE": {
         "word": "AFFILIATE",
         "phonetic": "(ÔøΩfil'-E-At)",
         "pos": "v.",
-        "deftext": "to ally, associate \nThe Latin word _filius_ means _son._ AFFILIATE comes from a Latin word which means \"to adopt as a son.\" In English the word has come to mean \"to enter into associa- tion\" or \"to join as a member.\" AFFILIATE usually sug- gests a close relationship, but one in which the various people or parts stay at least somewhat separate. \n\"Our team tried to AFFILIATE itself with the local softball league.\" \n\"He is not AFFILIATED with any company. He works for himself.\" \n\"The national organization has many local branches AFFILIATED with it.\" \nAFFILIATE is also a noun, pronounced :rfll'-E-:it. \n\"Channel 3 is an AFFILIATE of the CBS television network.\" \nOther forms of the word: AFFILIATION, n."
+        "deftext": "to ally, associate \nThe Latin word _filius_ means _son._ AFFILIATE comes from a Latin word which means \"to adopt as a son.\" In English the word has come to mean \"to enter into association\" or \"to join as a member.\" AFFILIATE usually suggests a close relationship, but one in which the various people or parts stay at least somewhat separate. \n\"Our team tried to AFFILIATE itself with the local softball league.\" \n\"He is not AFFILIATED with any company. He works for himself.\" \n\"The national organization has many local branches AFFILIATED with it.\" \nAFFILIATE is also a noun. \n\"Channel 3 is an AFFILIATE of the CBS television network.\" \nOther forms of the word: AFFILIATION, n."
       },
       "BISECT": {
         "word": "BISECT",
         "phonetic": "(bl-sekt')",
         "pos": "v.",
-        "deftext": "to cut in two, halve, split To BISECT something is to cut it into two, usually equal, pieces. The _bi-_ part of the word means _two,_ as in _bicycle_ and _binoculars._- The _-sect_ part means _cut,_ as in _dissect_ (to cut apart) and _intersect_ (to cut across). \"The new road will BISECT the town neatly, passing right through the center of it.\" \"The 90¬∞ angle was BISECTED to make two 45¬∞ an- gles.\" \n_Double_ is the most common incorrect answer on the Pre- test. People who choose it know that _bi-_ means _two,_ but don't know its special use in BISECT."
+        "deftext": "to cut in two, halve, split To BISECT something is to cut it into two, usually equal, pieces. The _bi-_ part of the word means _two,_ as in _bicycle_ and _binoculars_. The _-sect_ part means _cut,_ as in _dissect_ (to cut apart) and _intersect_ (to cut across). \"The new road will BISECT the town neatly, passing right through the center of it.\" \"The 90° angle was BISECTED to make two 45° angles.\" \n_Double_ is the most common incorrect answer on the Pretest. People who choose it know that _bi-_ means _two,_ but don't know its special use in BISECT."
       },
       "WRETCHED": {
         "word": "WRETCHED",
@@ -2556,13 +2556,13 @@
         "word": "HAMPER",
         "phonetic": "(ham'-pJr)",
         "pos": "v.",
-        "deftext": "to obstruct, block, impede, interfere with, hinder \nTo HAMPER something is to hold it back, to make diffi- culties for it in some way. To HAMPER is not to stop something completely, but simply to make it harder to do or finish. \n\"Their opposition HAMPERED our work but couldn't prevent it.\" \n\"The team was HAMPERED by a lack of time to prac- tice.\" \n\"His quick temper doesn't help him on the job; in fact, I think it HAMPERS his effectiveness.\""
+        "deftext": "to obstruct, block, impede, interfere with, hinder \nTo HAMPER something is to hold it back, to make difficulties for it in some way. To HAMPER is not to stop something completely, but simply to make it harder to do or finish. \n\"Their opposition HAMPERED our work but couldn't prevent it.\" \n\"The team was HAMPERED by a lack of time to practice.\" \n\"His quick temper doesn't help him on the job; in fact, I think it HAMPERS his effectiveness.\""
       },
       "ALLIANCE": {
         "word": "ALLIANCE",
         "phonetic": "(:;,-I1'-;;,ns)",
         "pos": "n.",
-        "deftext": "a union, association, connection \nAn ALLIANCE is a union of two or more people or countries who agree to act together for their mutual benefit. \n\"The North Atlantic Treaty Organization (NATO) is a military ALLIANCE of Western nations.\" \n\"We couldn't understand the sudden ALLIANCE be- tween David and Bob, because they had been un- friendly for years.\" \nAn ALLY is someone who is in a union or association with another. \n\"We became ALLIES when we decided that neither of us could win without the other.\" \n\"During World War II, the United States and Great Britain were ALLIES.\" Other forms of the word: ALLY, n., v."
+        "deftext": "a union, association, connection \nAn ALLIANCE is a union of two or more people or countries who agree to act together for their mutual benefit. \n\"The North Atlantic Treaty Organization (NATO) is a military ALLIANCE of Western nations.\" \n\"We couldn't understand the sudden ALLIANCE between David and Bob, because they had been unfriendly for years.\" \nAn ALLY is someone who is in a union or association with another. \n\"We became ALLIES when we decided that neither of us could win without the other.\" \n\"During World War II, the United States and Great Britain were ALLIES.\" Other forms of the word: ALLY, n., v."
       },
       "BOMBARD": {
         "word": "BOMBARD",
@@ -2574,7 +2574,7 @@
         "word": "LAPSE",
         "phonetic": "(laps)",
         "pos": "n.",
-        "deftext": "a slight error, slip; a fall, decline; a passing of time \nLAPSE comes from a Latin word meaning to _fall,_ also the source of the words _collapse, relapse,_ and _elapse._ LAPSE is used in several different senses. A LAPSE is a slight mistake or slip. \n\"There were a few LAPSES in his performance, but overall it was quite good.\" \n\"He had a sudden memory LAPSE and could not re- call his friend's name.\" \nA LAPSE is also a falling or decline to a lower degree or standard. \n\"After they behaved well all day there was a brief LAPSE into their former rudeness.\" \nIt is also a period of time that has passed, an interval. \n\"There was a LAPSE of ten minutes before they started the show again.\""
+        "deftext": "a slight error, slip; a fall, decline; a passing of time \nLAPSE comes from a Latin word meaning to _fall,_ also the source of the words _collapse, relapse,_ and _elapse._ LAPSE is used in several different senses. A LAPSE is a slight mistake or slip. \n\"There were a few LAPSES in his performance, but overall it was quite good.\" \n\"He had a sudden memory LAPSE and could not recall his friend's name.\" \nA LAPSE is also a falling or decline to a lower degree or standard. \n\"After they behaved well all day there was a brief LAPSE into their former rudeness.\" \nIt is also a period of time that has passed, an interval. \n\"There was a LAPSE of ten minutes before they started the show again.\""
       },
       "IMPOVERISH": {
         "word": "IMPOVERISH",
@@ -2586,7 +2586,7 @@
         "word": "EXCAVATE",
         "phonetic": "(eks'-kÔøΩvAt)",
         "pos": "v.",
-        "deftext": "to dig out, hollow out, unearth \nSee _ex-_ under Prefixes and _-ate1_ under Suffixes. To EXCAVATE something is to make a _cave_ out of it, to hollow it out, to remove the earth from it. \n\"They EXCAVATED a large area for the foundation of the building.\" \n\"WE EXCAVATED a long tunnel through the moun- tain.\" \nEXCAVATE is also used in a slightly different sense, to mean \"to uncover by digging.\" \n\"The archaeologists EXCAVATED the ancient city, which had been buried for thousands of years.\" \nAn EXCAVATION is the act of EXCAVATING, or the hole made by EXCAVATING. \n\"They examined the entire EXCAVATION before al- lowing the engineers to complete the tunnel.\" \nOther forms of the word: EXCAVATION, n."
+        "deftext": "to dig out, hollow out, unearth \nSee _ex-_ under Prefixes and _-ate1_ under Suffixes. To EXCAVATE something is to make a _cave_ out of it, to hollow it out, to remove the earth from it. \n\"They EXCAVATED a large area for the foundation of the building.\" \n\"WE EXCAVATED a long tunnel through the mountain.\" \nEXCAVATE is also used in a slightly different sense, to mean \"to uncover by digging.\" \n\"The archaeologists EXCAVATED the ancient city, which had been buried for thousands of years.\" \nAn EXCAVATION is the act of EXCAVATING, or the hole made by EXCAVATING. \n\"They examined the entire EXCAVATION before allowing the engineers to complete the tunnel.\" \nOther forms of the word: EXCAVATION, n."
       },
       "DEEM": {
         "word": "DEEM",
@@ -2598,7 +2598,7 @@
         "word": "UNRULY",
         "phonetic": "(uhn-rU'-IE)",
         "pos": "adj.",
-        "deftext": "wild, disorderly, uncontrollable \nThe basic meaning of UNRULY is \"not obeying the rules.\" See _un-_ under Prefixes. Usually the word is ap- plied to people who are wild or difficult to control. \n\"After two hours of sitting quietly and listening to the speech, the children started to become UNRULY.\" \n\"The UNRULY mob shouted and jeered at the police- men who were trying to keep order.\" \n\"These children are not evil, just excited and UNRULY.\" \nMany people think UNRULY means _angry._ The two words are close in meaning, but someone could be disor- derly without being _angry._"
+        "deftext": "wild, disorderly, uncontrollable \nThe basic meaning of UNRULY is \"not obeying the rules.\" See _un-_ under Prefixes. Usually the word is applied to people who are wild or difficult to control. \n\"After two hours of sitting quietly and listening to the speech, the children started to become UNRULY.\" \n\"The UNRULY mob shouted and jeered at the policemen who were trying to keep order.\" \n\"These children are not evil, just excited and UNRULY.\" \nMany people think UNRULY means _angry._ The two words are close in meaning, but someone could be disorderly without being _angry._"
       },
       "INFILTRATE": {
         "word": "INFILTRATE",
@@ -2628,7 +2628,7 @@
         "word": "CIVILITY",
         "phonetic": "(sÔøΩ-vil'-ÔøΩ-tE)",
         "pos": "n.",
-        "deftext": "politeness, courtesy \nTo be CIVIL is to be polite. The word often suggests merely adequate politeness rather than great courtesy. \n\"It was all he could do to be CIVIL with the rude cus- tomers.\" \nCIVILITY is the state of being CIVIL, _politeness._ See _-ity_ under Suffixes. \n\"She greeted the stranger with CIVILITY but without enthusiasm.\" \n\"We admired his CIVILITY toward people he hated.\" \nCIVILITIES, the plural form, are polite acts or expres- sions. \n\"The two men exchanged CIVILITIES and then got quickly down to work.\" \n_Patience_ is the most commonly chosen incorrect answer. CIVILITY might include _patience,_ but the two words aren't synonyms. Other forms of the word: CIVIL, adj."
+        "deftext": "politeness, courtesy \nTo be CIVIL is to be polite. The word often suggests merely adequate politeness rather than great courtesy. \n\"It was all he could do to be CIVIL with the rude customers.\" \nCIVILITY is the state of being CIVIL, _politeness._ See _-ity_ under Suffixes. \n\"She greeted the stranger with CIVILITY but without enthusiasm.\" \n\"We admired his CIVILITY toward people he hated.\" \nCIVILITIES, the plural form, are polite acts or expressions. \n\"The two men exchanged CIVILITIES and then got quickly down to work.\" \n_Patience_ is the most commonly chosen incorrect answer. CIVILITY might include _patience,_ but the two words aren't synonyms. Other forms of the word: CIVIL, adj."
       },
       "RAUCOUS": {
         "word": "RAUCOUS",
@@ -3171,25 +3171,25 @@
         "word": "MINUSCULE",
         "phonetic": "(min'-:;,s-kyUI)",
         "pos": "adj.",
-        "deftext": "tiny, very small, insignificant \nNote the spelling. Many people think the word begins with _mini-._ MINUSCULE comes from the word _minus,_ and means _very small, tiny._ \n\"The painting is MINUSCULE. You need a magnifying glass just to see it.\" \n\"He made up for his MINUSCULE size by being extremely quick and clever.\" \nMINUSCULE as a noun has a specific meaning, referring to small letters in printing as opposed to capital letters."
+        "deftext": "tiny, very small, insignificant \nNote the spelling. Many people think the word begins with _mini-._ MINUSCULE comes from the word _minus_, and means _very small_, _tiny_. \n\"The painting is MINUSCULE. You need a magnifying glass just to see it.\" \n\"He made up for his MINUSCULE size by being extremely quick and clever.\" \nMINUSCULE as a noun has a specific meaning, referring to small letters in printing as opposed to capital letters."
       },
       "STUPEFY": {
         "word": "STUPEFY",
         "phonetic": "{stU'-pg-fl)",
         "pos": "v.",
-        "deftext": "to stun, astonish \nWhen something STUPEFIES you, it is so amazing or frightening or powerful that it takes away your senses and leaves you confused and dazed. \n\"We were all STUPEFIED by the news that all along our friend had actually been an enemy spy.\" \n\"Her announcement STUPEFIED me. I didn't know what to do or say next.\" \n\"The movie was STUPEFYINGLY dull\"-that is, it was so dull that it would almost put you to sleep."
+        "deftext": "to stun, astonish \nWhen something STUPEFIES you, it is so amazing or frightening or powerful that it takes away your senses and leaves you confused and dazed. \n\"We were all STUPEFIED by the news that all along our friend had actually been an enemy spy.\" \n\"Her announcement STUPEFIED me. I didn't know what to do or say next.\" \n\"The movie was STUPEFYINGLY dull\"—that is, it was so dull that it would almost put you to sleep."
       },
       "INVIGORATE": {
         "word": "INVIGORATE",
         "phonetic": "(in-vig'-g-rAt)",
         "pos": "v.",
-        "deftext": "to strengthen, refresh, enliven \nSee _in-1_ under Prefixes and _-ate1_ under Suffixes. _Vigor_ is strength, energy, active good health. \n\"After a good night's sleep she awoke refreshed and full of vigor.\" \nTo INVIGORATE is to fill with _vigor._ \n\"Just breathing that nice fresh air is enough to INVIG- ORATE me.\" \n\"The new members tried to INVIGORATE the club by organizing all sorts of activities.\" \nOther forms of the word: INVIGORATING, adj."
+        "deftext": "to strengthen, refresh, enliven \nSee _in-1_ under Prefixes and _-ate1_ under Suffixes. _Vigor_ is strength, energy, active good health. \n\"After a good night's sleep she awoke refreshed and full of vigor.\" \nTo INVIGORATE is to fill with _vigor._ \n\"Just breathing that nice fresh air is enough to INVIGORATE me.\" \n\"The new members tried to INVIGORATE the club by organizing all sorts of activities.\" \nOther forms of the word: INVIGORATING, adj."
       },
       "PERSEVERE": {
         "word": "PERSEVERE",
         "phonetic": "(per-sg-vEr')",
         "pos": "v.",
-        "deftext": "to persist, keep on, continue \nTo PERSEVERE in something is to keep at it, especially in the face of difficulty or opposition. The word usually suggests that this is a good quality, that the person who PERSEVERES should be praised for not giving up. \n\"I know things are hard for us now, but I'm sure if we PERSEVERE they will improve in the end.\" \n\"The course was difficult, but he PERSEVERED in his studies, and finally he passed.\" \n\"Despite her parents' opposition, she PERSEVERED in trying to become a doctor.\" \nPERSEVERANCE is steady persistence. \n\"You must have PERSEVERANCE if you want to be- come a top athlete, because it takes years of training and practice.\" \nOther forms of the word: PERSEVERANCE, n."
+        "deftext": "to persist, keep on, continue \nTo PERSEVERE in something is to keep at it, especially in the face of difficulty or opposition. The word usually suggests that this is a good quality, that the person who PERSEVERES should be praised for not giving up. \n\"I know things are hard for us now, but I'm sure if we PERSEVERE they will improve in the end.\" \n\"The course was difficult, but he PERSEVERED in his studies, and finally he passed.\" \n\"Despite her parents' opposition, she PERSEVERED in trying to become a doctor.\" \nPERSEVERANCE is steady persistence. \n\"You must have PERSEVERANCE if you want to become a top athlete, because it takes years of training and practice.\" \nOther forms of the word: PERSEVERANCE, n."
       },
       "WAFT": {
         "word": "WAFT",
@@ -3201,7 +3201,7 @@
         "word": "HAGGARD",
         "phonetic": "(hag'-grd)",
         "pos": "adj.",
-        "deftext": "having a worn, tired appearance; gaunt \nSomeone who is HAGGARD looks tired and worn out from worry, lack of sleep, lack of food, or the like. His eyes might be bloodshot, his face might be thin and lined, his clothing might be rumpled. \n\"After losing his job, he came home looking HAG- GARD and discouraged.\" \n\"She felt sorry for the beggar when she saw his dirty clothes and HAGGARD face.\" \n\"He looked HAGGARD after waiting at the hospital all night.\""
+        "deftext": "having a worn, tired appearance; gaunt \nSomeone who is HAGGARD looks tired and worn out from worry, lack of sleep, lack of food, or the like. His eyes might be bloodshot, his face might be thin and lined, his clothing might be rumpled. \n\"After losing his job, he came home looking HAGGARD and discouraged.\" \n\"She felt sorry for the beggar when she saw his dirty clothes and HAGGARD face.\" \n\"He looked HAGGARD after waiting at the hospital all night.\""
       },
       "PLIANT": {
         "word": "PLIANT",
@@ -3219,13 +3219,13 @@
         "word": "INGRAINED",
         "phonetic": "(in-grAnd')",
         "pos": "adj.",
-        "deftext": "deep-rooted, deeply fixed \nSee _in-1_ under Prefixes. One meaning of _grain_ is \"the natural appearance and texture of wood.\" Something which is INGRAINED is not just on the surface but worked into the _grain._ The word is particularly used about beliefs or characteristics that are deeply rooted in a person or group. \n\"Almost always, habits and prejudices are deeply INGRAINED.\" \n\"His INGRAINED honesty kept him from even con- sidering taking a bribe.\" \nOther forms of the word: INGRAIN, v."
+        "deftext": "deep-rooted, deeply fixed \nSee _in-1_ under Prefixes. One meaning of _grain_ is \"the natural appearance and texture of wood.\" Something which is INGRAINED is not just on the surface but worked into the _grain._ The word is particularly used about beliefs or characteristics that are deeply rooted in a person or group. \n\"Almost always, habits and prejudices are deeply INGRAINED.\" \n\"His INGRAINED honesty kept him from even considering taking a bribe.\" \nOther forms of the word: INGRAIN, v."
       },
       "RELENT": {
         "word": "RELENT",
         "phonetic": "(ri-lent')",
         "pos": "v.",
-        "deftext": "to give in, yield \nTo RELENT is to become less harsh, to let up or give in. The word is usually used about people. \n\"The teacher finally RELENTED and told Bill he didn't have to stay after school.\" \n\"She begged her mother to let her go to the dance, but her mother wouldn't RELENT.\" \n\"When he saw her crying, he RELENTED and let her keep the toy.\" \nSomeone who is RELENTLESS does not or cannot RE- LENT, is harsh and persistent. \n\"They begged him to stop teasing the child, but he was RELENTLESS.\" \nOther forms of the word: RELENTLESS, adj."
+        "deftext": "to give in, yield \nTo RELENT is to become less harsh, to let up or give in. The word is usually used about people. \n\"The teacher finally RELENTED and told Bill he didn't have to stay after school.\" \n\"She begged her mother to let her go to the dance, but her mother wouldn't RELENT.\" \n\"When he saw her crying, he RELENTED and let her keep the toy.\" \nSomeone who is RELENTLESS does not or cannot RELENT, is harsh and persistent. \n\"They begged him to stop teasing the child, but he was RELENTLESS.\" \nOther forms of the word: RELENTLESS, adj."
       }
     }
   },
@@ -3732,19 +3732,19 @@
         "word": "COMPOSURE",
         "phonetic": "(kÔøΩm-pO'-zhÔøΩr)",
         "pos": "n.",
-        "deftext": "calmness, self- possession \nThe verb COMPOSE has several different meanings. One has to do with mental states, and means to _calm_ or _get under control._ \n\"It took him a while to COMPOSE himself after he almost had an accident.\" \nCOMPOSURE is the noun from this meaning of COMPOSE. COMPOSURE means _calmness, self-possession._ \n\"She managed to keep her COMPOSURE despite the intense pressure of the job.\" \n\"The witness lost his COMPOSURE and started shouting when the lawyer accused him of being a liar.\" \nOther forms of the word: COMPOSE,v. COMPOSED,adj."
+        "deftext": "calmness, self-possession \nThe verb COMPOSE has several different meanings. One has to do with mental states, and means to _calm_ or _get under control._ \n\"It took him a while to COMPOSE himself after he almost had an accident.\" \nCOMPOSURE is the noun from this meaning of COMPOSE. \n\"She managed to keep her COMPOSURE despite the intense pressure of the job.\" \n\"The witness lost his COMPOSURE and started shouting when the lawyer accused him of being a liar.\" \nOther forms of the word: COMPOSE,v. COMPOSED,adj."
       },
       "PROPHECY": {
         "word": "PROPHECY",
         "phonetic": "(prof'-ÔøΩ-sE)",
         "pos": "n.",
-        "deftext": "a prediction, foretelling \nA PROPHECY is a prediction of what will happen in the future. People who have the power of PROPHECY are supposed to be able to tell what is going to happen. \n\"She made several PROPHECIES about events in the coming year.\" \n\"His PROPHECY that the farmers would suffer a terrible drought did not come true.\" \nA PROPHET is someone who makes PROPHECIES. To PROPHESY(pronounced prot'‚ùñ-sl)is to make a PROPHECY. Notice the difference in spelling. \n\"He PROPHESIED that the world would come to an end,but no one believed his PROPHECY.\" \nOther forms of the word: PROPHESY,v. PROPHET,n. PROPHETIC,adj."
+        "deftext": "a prediction, foretelling \nA PROPHECY is a prediction of what will happen in the future. People who have the power of PROPHECY are supposed to be able to tell what is going to happen. \n\"She made several PROPHECIES about events in the coming year.\" \n\"His PROPHECY that the farmers would suffer a terrible drought did not come true.\" \nA PROPHET is someone who makes PROPHECIES. To PROPHESY is to make a PROPHECY. Notice the difference in spelling. \n\"He PROPHESIED that the world would come to an end,but no one believed his PROPHECY.\" \nOther forms of the word: PROPHESY,v. PROPHET,n. PROPHETIC,adj."
       },
       "EXEMPT": {
         "word": "EXEMPT",
         "phonetic": "(eg-zempt')",
         "pos": "v.",
-        "deftext": "to grant freedom (from a duty), release, excuse \nTo EXEMPT someone is to release him from a duty which others have to carry out or a burden which others have to bear. The word is usually applied to legal obligations. \n\"They EXEMPTED him from military service be- cause of his poor eyesight.\" \n\"Why was she EXEMPTED from paying taxes?\" \nEXEMPT is also used as an adjective. \n\"Persons EXEMPT from the draft had to perform some kind of alternate service.\" \n\"We thought the camera was EXEMPT from customs duties.\" \nOther forms of the word: EXEMPTION,n. \nUsage: EXEMPT is usually used with from."
+        "deftext": "to grant freedom (from a duty), release, excuse \nTo EXEMPT someone is to release him from a duty which others have to carry out or a burden which others have to bear. The word is usually applied to legal obligations. \n\"They EXEMPTED him from military service because of his poor eyesight.\" \n\"Why was she EXEMPTED from paying taxes?\" \nEXEMPT is also used as an adjective. \n\"Persons EXEMPT from the draft had to perform some kind of alternate service.\" \n\"We thought the camera was EXEMPT from customs duties.\" \nOther forms of the word: EXEMPTION,n. \nUsage: EXEMPT is usually used with from."
       },
       "MAGISTERIAL": {
         "word": "MAGISTERIAL",
@@ -3756,7 +3756,7 @@
         "word": "MARINER",
         "phonetic": "(mar'-ÔøΩ-nÔøΩr)",
         "pos": "n.",
-        "deftext": "a sailor, seaman \nSee _-er_ under Suffixes. MARINER comes from _mare,_ the Latin word for sea and also the source of the word _marine._ A MARINER is someone who sails the sea, a _sailor._ The word is particularly used about someone who navi- gates or assists in navigating a ship. \nOn the Pretest, many people think MARINER means _swimmer._ These people know that MARINER has something to do with the sea, but aren't sure what. \nUsage: MARINER is a literary word and would not often be used in ordinary speech."
+        "deftext": "a sailor, seaman \nSee _-er_ under Suffixes. MARINER comes from _mare,_ the Latin word for sea and also the source of the word _marine._ A MARINER is someone who sails the sea, a _sailor._ The word is particularly used about someone who navigates or assists in navigating a ship. \nOn the Pretest, many people think MARINER means _swimmer._ These people know that MARINER has something to do with the sea, but aren't sure what. \nUsage: MARINER is a literary word and would not often be used in ordinary speech."
       },
       "APPALLING": {
         "word": "APPALLING",
@@ -3792,13 +3792,13 @@
         "word": "EMINENT",
         "phonetic": "(em'-g-ngnt)",
         "pos": "adj.",
-        "deftext": "distinguished, prominent, outstanding, noteworthy \nThe basic meaning of EMINENT is \"standing out.\" EMI- NENT is related to the word _mountain,_ and is sometimes used about actual physical size. Usually,though,the word is used about people and it means \"standing above others in quality or fame.\" \n\"Even the most EMINENT physicians couldn't discover what was wrong with him.\" \n\"The EMINENT author spoke about the future of the novel.\" \nWhen used about qualities, EMINENT means _remarkable_ or _conspicuous._ \n\"Everyone praised the EMINENT fairness of the judge's decision.\" \nOther forms of the word: EMINENCE,n."
+        "deftext": "distinguished, prominent, outstanding, noteworthy \nThe basic meaning of EMINENT is \"standing out.\" EMINENT is related to the word _mountain,_ and is sometimes used about actual physical size. Usually,though,the word is used about people and it means \"standing above others in quality or fame.\" \n\"Even the most EMINENT physicians couldn't discover what was wrong with him.\" \n\"The EMINENT author spoke about the future of the novel.\" \nWhen used about qualities, EMINENT means _remarkable_ or _conspicuous._ \n\"Everyone praised the EMINENT fairness of the judge's decision.\" \nOther forms of the word: EMINENCE,n."
       },
       "YIELD": {
         "word": "YIELD",
         "phonetic": "(yEld)",
         "pos": "v.to",
-        "deftext": "give, give up, give way The basic meaning of YIELD is to _give- or _give up._ The word is used in a wide variety of senses. When a tree YIELDS fruit,it gives or produces it. When a car YIELDS to another,it gives way so that the other one can go first. An enemy who YIELDS gives up or surrenders. To YIELD to temptation is to give in to it. \n\"The door YIELDED when she pushed against it.\" \n\"The teacher YIELDED to their request and called off the test.\" \nYIELD is also a noun. \n\"That one bush has a YIELD of ten pounds of ber- ries.\""
+        "deftext": "give, give up, give way The basic meaning of YIELD is to _give_ or _give up._ The word is used in a wide variety of senses. When a tree YIELDS fruit,it gives or produces it. When a car YIELDS to another,it gives way so that the other one can go first. An enemy who YIELDS gives up or surrenders. To YIELD to temptation is to give in to it. \n\"The door YIELDED when she pushed against it.\" \n\"The teacher YIELDED to their request and called off the test.\" \nYIELD is also a noun. \n\"That one bush has a YIELD of ten pounds of berries.\""
       },
       "NOVICE": {
         "word": "NOVICE",
@@ -3810,13 +3810,13 @@
         "word": "JOCULAR",
         "phonetic": "(jok'-yg-lgr)",
         "pos": "adj.",
-        "deftext": "humorous, merry, jolly JOCULAR is related to the word _joke._ A JOCULAR person likes to make jokes. He is jolly and enjoys keeping other people amused. \n\"The JOCULAR teacher kept the students laughing while they learned.\" \nJOCULAR words or actions are said or done as a joke. \n\"The speaker started off with some JOCULAR re- marks to put his audience in a good mood.\n\" The noun from JOCULAR is JOCULARITY, which is the quality of being humorous and jolly. \n\"His JOCULARITY was quite out of place on such a solemn occasion.\" \nOther forms of the word: JOCULARITY, n."
+        "deftext": "humorous, merry, jolly JOCULAR is related to the word _joke._ A JOCULAR person likes to make jokes. He is jolly and enjoys keeping other people amused. \n\"The JOCULAR teacher kept the students laughing while they learned.\" \nJOCULAR words or actions are said or done as a joke. \n\"The speaker started off with some JOCULAR remarks to put his audience in a good mood.\n\" The noun from JOCULAR is JOCULARITY, which is the quality of being humorous and jolly. \n\"His JOCULARITY was quite out of place on such a solemn occasion.\" \nOther forms of the word: JOCULARITY, n."
       },
       "HARROWING": {
         "word": "HARROWING",
         "phonetic": "(har'-0-ing)",
         "pos": "adj.",
-        "deftext": "distressing, agonizing, painful, frightening \nA HARROW is a farming tool which cuts into and levels off ground. To HARROW something is to draw a HAR- ROW over it. The word has come to mean to _distress_ or _disturb_ a person as if he were being cut into by a HARROW. HARROWING is the adjective from this meaning of HARROW. It means _distressing, painful,_ especially to the mind or the feelings. \n\"Being attacked by the bear was a HARROWING experience.\" \n\"He told us a HARROWING tale of torture and suffering.\" \nOther forms of the word: HARROW,n.,v."
+        "deftext": "distressing, agonizing, painful, frightening \nA HARROW is a farming tool which cuts into and levels off ground. To HARROW something is to draw a HARROW over it. The word has come to mean to _distress_ or _disturb_ a person as if he were being cut into by a HARROW. HARROWING is the adjective from this meaning of HARROW. It means _distressing, painful,_ especially to the mind or the feelings. \n\"Being attacked by the bear was a HARROWING experience.\" \n\"He told us a HARROWING tale of torture and suffering.\" \nOther forms of the word: HARROW,n.,v."
       }
     },
     "reviewTest": {
@@ -3925,7 +3925,7 @@
         },
         {
           "part1": "After all their work the miners only found a(n)",
-          "part2": "amount of gold-barely enough to fill a bottlecap.",
+          "part2": "amount of gold—barely enough to fill a bottlecap.",
           "answer": "minuscule"
         },
         {
@@ -4598,7 +4598,7 @@
         "word": "ENFEEBLE",
         "phonetic": "(en-fE'-bÔøΩI)",
         "pos": "v.",
-        "deftext": "to cause extreme weakness, make feeble \nFEEBLE means _very weak, lacking strength._ The prefix _en-_ means \"to cause to be,\" as in _enslave,_ \"to cause to be a slave.\" So ENFEEBLE means \"to cause to be FEE- BLE.\" \n\"The long illness ENFEEBLED him.\" \n\"The animals were ENFEEBLED by lack of food.\" \nOn the Pretest, many people think ENFEEBLE means _strengthen,_ which is opposite in meaning. This may be due to a confusion of the prefix _en-_ with _un-_ or _in-,_ both of which can mean _not._"
+        "deftext": "to cause extreme weakness, make feeble \nFEEBLE means _very weak, lacking strength._ The prefix _en-_ means \"to cause to be,\" as in _enslave,_ \"to cause to be a slave.\" So ENFEEBLE means \"to cause to be FEEBLE.\" \n\"The long illness ENFEEBLED him.\" \n\"The animals were ENFEEBLED by lack of food.\" \nOn the Pretest, many people think ENFEEBLE means _strengthen,_ which is opposite in meaning. This may be due to a confusion of the prefix _en-_ with _un-_ or _in-,_ both of which can mean _not._"
       },
       "PROFOUND": {
         "word": "PROFOUND",
@@ -4610,7 +4610,7 @@
         "word": "CRESTFALLEN",
         "phonetic": "(krest'-fol-ÔøΩn)",
         "pos": "adj.",
-        "deftext": "discouraged, dejected, disappointed \nA _crest_ is the tuft of feathers on the top of a bird's head. The basic meaning of CRESTFALLEN is \"with the crest drooping or falling\"-that is, with the head hanging down. From this the word has come to mean \"so disappointed, dejected, or discouraged that you want to hang your head.\" \n\"Jim was CRESTFALLEN when he heard he hadn't made the team.\" \n\"Sally will be CRESTFALLEN if she doesn't get a new bicycle for Christmas.\" \n\"The boss told the CRESTFALLEN workers that he couldn't afford to give them a raise.\""
+        "deftext": "discouraged, dejected, disappointed \nA _crest_ is the tuft of feathers on the top of a bird's head. The basic meaning of CRESTFALLEN is \"with the crest drooping or falling\"—that is, with the head hanging down. From this the word has come to mean \"so disappointed, dejected, or discouraged that you want to hang your head.\" \n\"Jim was CRESTFALLEN when he heard he hadn't made the team.\" \n\"Sally will be CRESTFALLEN if she doesn't get a new bicycle for Christmas.\" \n\"The boss told the CRESTFALLEN workers that he couldn't afford to give them a raise.\""
       },
       "EXALT": {
         "word": "EXALT",
@@ -4622,7 +4622,7 @@
         "word": "REGAL",
         "phonetic": "(rE'-gÔøΩI)",
         "pos": "adj.",
-        "deftext": "royal, kingly \nSee _-al_ under Suffixes. REGAL comes from the Latin word for _king,_ and means \"belonging to or like a king.\" The word often suggests the splendor and magnificence associated with a king. \n\"The king was dressed in all his REGAL splendor for this occasion.\" \n\"He was disguised as a beggar, but his REGAL atti- tude gave him away.\" \n\"They had a REGAL feast to celebrate their great vic- tory.\""
+        "deftext": "royal, kingly \nSee _-al_ under Suffixes. REGAL comes from the Latin word for _king,_ and means \"belonging to or like a king.\" The word often suggests the splendor and magnificence associated with a king. \n\"The king was dressed in all his REGAL splendor for this occasion.\" \n\"He was disguised as a beggar, but his REGAL attitude gave him away.\" \n\"They had a REGAL feast to celebrate their great victory.\""
       },
       "ALLURE": {
         "word": "ALLURE",
@@ -4640,13 +4640,13 @@
         "word": "GUTTURAL",
         "phonetic": "(guht'-:)-rÔøΩI)",
         "pos": "adj.",
-        "deftext": "of the throat. \nNote the spelling. The word is spelled with _ur,_ not _er,_ in the middle. GUTTURAL comes from the Latin word for _throat_ and means \"related to the throat.\" The word is usually used about sounds that are produced in the throat and suggests a harsh, unpleasant quality. \n\"The sound of the _ch_ in _acht,_ the German word for 'eight,' is a GUTTURAL sound\"-that is, it is formed in the throat, not the mouth."
+        "deftext": "of the throat. \nNote the spelling. The word is spelled with _ur,_ not _er,_ in the middle. GUTTURAL comes from the Latin word for _throat_ and means \"related to the throat.\" The word is usually used about sounds that are produced in the throat and suggests a harsh, unpleasant quality. \n\"The sound of the _ch_ in _acht,_ the German word for 'eight,' is a GUTTURAL sound\"—that is, it is formed in the throat, not the mouth."
       },
       "FOLLY": {
         "word": "FOLLY",
         "phonetic": "(fol'-E)",
         "pos": "n.",
-        "deftext": "foolishness, silliness \nFOLLY means _foolishness, silliness, lack of wisdom._ The word often suggests that this foolishness might have bad consequences. \n\"Attempting to swim the Atlantic Ocean was an act of FOLLY.\" \n\"It was FOLLY to ask the boss for a raise.\" \nFOLLY has been used about a particular event, place, or building. For example, when Secretary of State Seward advised President Lincoln to purchase Alaska, Alaska be- came known as \"Seward's FOLLY\" because it was thought that nothing valuable existed there, and its pur- chase was just a waste of money. It is FOLLY to judge the value of a purchase too quickly."
+        "deftext": "foolishness, silliness \nFOLLY means _foolishness, silliness, lack of wisdom._ The word often suggests that this foolishness might have bad consequences. \n\"Attempting to swim the Atlantic Ocean was an act of FOLLY.\" \n\"It was FOLLY to ask the boss for a raise.\" \nFOLLY has been used about a particular event, place, or building. For example, when Secretary of State Seward advised President Lincoln to purchase Alaska, Alaska became known as \"Seward's FOLLY\" because it was thought that nothing valuable existed there, and its purchase was just a waste of money. It is FOLLY to judge the value of a purchase too quickly."
       },
       "CONVEY": {
         "word": "CONVEY",
@@ -4658,7 +4658,7 @@
         "word": "ANNUL",
         "phonetic": "(ÔøΩnuhl')",
         "pos": "v.",
-        "deftext": "to cancel, nullify, make void ANNUL comes from the Latin word _nullus,_ which means \"none.\" _Nullus_ is also the source of the words _null_ and _nullify._ To ANNUL something is to make it cease to ex- ist, to put an end to it. The word is most often used about legal agreements. To ANNUL a marriage is to declare that it is not legally valid. \n\"The judge ANNULLED the contract between the two companies.\" \nANNUL is also sometimes used in other areas as well. \n\"Nothing could ANNUL the startling effect of her sudden appearance in the room.\""
+        "deftext": "to cancel, nullify, make void ANNUL comes from the Latin word _nullus,_ which means \"none.\" _Nullus_ is also the source of the words _null_ and _nullify._ To ANNUL something is to make it cease to exist, to put an end to it. The word is most often used about legal agreements. To ANNUL a marriage is to declare that it is not legally valid. \n\"The judge ANNULLED the contract between the two companies.\" \nANNUL is also sometimes used in other areas as well. \n\"Nothing could ANNUL the startling effect of her sudden appearance in the room.\""
       },
       "PREMONITION": {
         "word": "PREMONITION",
@@ -5189,7 +5189,7 @@
         "word": "BELLOW",
         "phonetic": "(bel'-0)",
         "pos": "v.",
-        "deftext": "to roar \nTo BELLOW is to make a loud, deep sound like a bull. \n\"The cattle BELLOWED with fear.\" \n\"The sergeant BELLOWED out some orders to the men.\" \n\"The drunken man BELLOWED with laughter at any- thing that happened.\" \nBELLOW is also a noun. \n\"We heard the BELLOW of the angry bull.\" \nMany people select _groan_ as the meaning of BELLOW. To _groan_ is to make a deep sound which indicates pain or sorrow. A BELLOW is also deep, but it is much louder and is done in other situations besides pain and sorrow."
+        "deftext": "to roar \nTo BELLOW is to make a loud, deep sound like a bull. \n\"The cattle BELLOWED with fear.\" \n\"The sergeant BELLOWED out some orders to the men.\" \n\"The drunken man BELLOWED with laughter at anything that happened.\" \nBELLOW is also a noun. \n\"We heard the BELLOW of the angry bull.\" \nMany people select _groan_ as the meaning of BELLOW. To _groan_ is to make a deep sound which indicates pain or sorrow. A BELLOW is also deep, but it is much louder and is done in other situations besides pain and sorrow."
       },
       "TAUT": {
         "word": "TAUT",
@@ -5213,7 +5213,7 @@
         "word": "MEEK",
         "phonetic": "(mEk)",
         "pos": "adj.",
-        "deftext": "mild, modest, humble, tame \nA MEEK person is mild and uncomplaining. He is not likely to stand up for his rights or get angry at anyone. Usually the word suggests that this mildness is bad, and that the MEEK person lacks spirit or confidence. \n\"He was a MEEK little man who jumped whenever anyone called his name.\" \n\"She MEEKLY begged our pardon for having interrupted us.\" \n\"A salesman should not be MEEK when talking to customers.\" \n_Small_ is the most common incorrect choice on the Pre- test, probably because MEEK people are often pictured as being _small_ and weak."
+        "deftext": "mild, modest, humble, tame \nA MEEK person is mild and uncomplaining. He is not likely to stand up for his rights or get angry at anyone. Usually the word suggests that this mildness is bad, and that the MEEK person lacks spirit or confidence. \n\"He was a MEEK little man who jumped whenever anyone called his name.\" \n\"She MEEKLY begged our pardon for having interrupted us.\" \n\"A salesman should not be MEEK when talking to customers.\" \n_Small_ is the most common incorrect choice on the Pretest, probably because MEEK people are often pictured as being _small_ and weak."
       },
       "LABYRINTH": {
         "word": "LABYRINTH",
@@ -5231,7 +5231,7 @@
         "word": "ACCLAIM",
         "phonetic": "(ÔøΩklAm')",
         "pos": "v.",
-        "deftext": "to praise, applaud; to announce, proclaim \nACCLAIM comes from a Latin word meaning to _shout_, also the source of the word _clamor._ To ACCLAIM some- thing is to praise it, especially publicly and enthusiastically. \n\"The crowd ACCLAIMED the heroes returning from the war.\" \n\"The critics ACCLAIMED the new movie as one of the greatest ever made.\" \nIn a different sense, ACCLAIM can mean \"to declare publicly and approvingly.\" \n\"The noblemen ACCLAIMED him their new king.\" \nACCLAIM is also a noun, meaning _great praise._ \n\"The play received great ACCLAIM at its first perfor- mance.\" \nOther forms of the word: ACCLAMATION, n."
+        "deftext": "to praise, applaud; to announce, proclaim \nACCLAIM comes from a Latin word meaning to _shout_, also the source of the word _clamor._ To ACCLAIM something is to praise it, especially publicly and enthusiastically. \n\"The crowd ACCLAIMED the heroes returning from the war.\" \n\"The critics ACCLAIMED the new movie as one of the greatest ever made.\" \nIn a different sense, ACCLAIM can mean \"to declare publicly and approvingly.\" \n\"The noblemen ACCLAIMED him their new king.\" \nACCLAIM is also a noun, meaning _great praise._ \n\"The play received great ACCLAIM at its first performance.\" \nOther forms of the word: ACCLAMATION, n."
       },
       "TOIL": {
         "word": "TOIL",
@@ -5243,7 +5243,7 @@
         "word": "REVERT",
         "phonetic": "(ri-vert')",
         "pos": "v.",
-        "deftext": "to return, turn back \nSee _re-_ under Prefixes. The _vert_ part of the word means _turn_ and is found in other words like _convert_ and _avert._ To REVERT is to turn back or return to an original con- dition, topic, idea, or the like. \n\"After four years of being good he REVERTED to his former evil ways.\" \n\"I hate to keep REVERTING to my original question, but no one has given me a satisfactory answer yet.\" \nIn law, REVERT is used about property or rights which return to someone under certain conditions. \n\"Upon his death, all his property will REVERT to the state.\" \nOther forms of the word: REVERSION, n."
+        "deftext": "to return, turn back \nSee _re-_ under Prefixes. The _vert_ part of the word means _turn_ and is found in other words like _convert_ and _avert._ To REVERT is to turn back or return to an original condition, topic, idea, or the like. \n\"After four years of being good he REVERTED to his former evil ways.\" \n\"I hate to keep REVERTING to my original question, but no one has given me a satisfactory answer yet.\" \nIn law, REVERT is used about property or rights which return to someone under certain conditions. \n\"Upon his death, all his property will REVERT to the state.\" \nOther forms of the word: REVERSION, n."
       },
       "OBLITERATE": {
         "word": "OBLITERATE",
@@ -5255,7 +5255,7 @@
         "word": "ARMAMENT",
         "phonetic": "(ahr'-mÔøΩmgnt)",
         "pos": "n.",
-        "deftext": "weapons, military equipment \nARMAMENT means _weapons,_ especially those used in warfare. It is related to the word _arms,_ which can also mean weapons. \n\"The warships were provided with all the latest AR- MAMENT.\" \nIt is often used in the plural for the total military strength of a country. \n\"We must have better ARMAMENTS if this nation is to be strong.\""
+        "deftext": "weapons, military equipment \nARMAMENT means _weapons,_ especially those used in warfare. It is related to the word _arms,_ which can also mean weapons. \n\"The warships were provided with all the latest ARMAMENT.\" \nIt is often used in the plural for the total military strength of a country. \n\"We must have better ARMAMENTS if this nation is to be strong.\""
       },
       "LITERAL": {
         "word": "LITERAL",
@@ -5792,25 +5792,25 @@
         "word": "INGENUITY",
         "phonetic": "(in-jÔøΩ-nyU'-ÔøΩtE",
         "pos": "n.",
-        "deftext": "cleverness, skillfulness, originality \nINGENUITY is cleverness in coming up with ideas or inventions. It is related to the words _genius_ and _ingenious._ \n\"He was a man of great INGENUITY. He could figure his way out of any difficulty.\" \n\"Thanks to her INGENUITY we found a way to buy a new car and save money at the same time.\" \nINGENUITY is also used about the idea or invention it- self. \n\"The INGENUITY of the device astounded every- one.\" \n\"Despite the INGENUITY of his theory, we tend to think he is wrong.\" \nOn the Pretest, many people select _knowledge_ as the synonym of INGENUITY. You can know a great deal, how- ever, and lack the INGENUITY to make use of your _knowledge._"
+        "deftext": "cleverness, skillfulness, originality \nINGENUITY is cleverness in coming up with ideas or inventions. It is related to the words _genius_ and _ingenious._ \n\"He was a man of great INGENUITY. He could figure his way out of any difficulty.\" \n\"Thanks to her INGENUITY we found a way to buy a new car and save money at the same time.\" \nINGENUITY is also used about the idea or invention itself. \n\"The INGENUITY of the device astounded everyone.\" \n\"Despite the INGENUITY of his theory, we tend to think he is wrong.\" \nOn the Pretest, many people select _knowledge_ as the synonym of INGENUITY. You can know a great deal, however, and lack the INGENUITY to make use of your _knowledge._"
       },
       "SHEEN": {
         "word": "SHEEN",
         "phonetic": "(shEn)",
         "pos": "n.",
-        "deftext": "brightness, shine, gloss, luster \nSHEEN is gleaming brightness or luster, like that of well- polished wood. \n\"The SHEEN of the bird's wings glistened in the sun.\" \n\"Her silk dress had a beautiful SHEEN to it.\""
+        "deftext": "brightness, shine, gloss, luster \nSHEEN is gleaming brightness or luster, like that of well-polished wood. \n\"The SHEEN of the bird's wings glistened in the sun.\" \n\"Her silk dress had a beautiful SHEEN to it.\""
       },
       "INCOGNITO": {
         "word": "INCOGNITO",
         "phonetic": "(in-kog-nE'-tO)",
         "pos": "adj.,adv.",
-        "deftext": "disguised, with one's identity concealed \nINCOGNITO comes originally from a Latin word meaning _unknown._ Someone who is INCOGNITO wants to keep his or her true identity unknown. The word is often used about famous people who travel under an assumed name or in disguise so that they won't be bothered. \n\"The movie star came to the theater INCOGNITO, but his fans recognized him anyway.\" \n\"The prince went INCOGNITO among the soldiers, trying to discover how they felt about the coming bat- tle.\""
+        "deftext": "disguised, with one's identity concealed \nINCOGNITO comes originally from a Latin word meaning _unknown._ Someone who is INCOGNITO wants to keep his or her true identity unknown. The word is often used about famous people who travel under an assumed name or in disguise so that they won't be bothered. \n\"The movie star came to the theater INCOGNITO, but his fans recognized him anyway.\" \n\"The prince went INCOGNITO among the soldiers, trying to discover how they felt about the coming battle.\""
       },
       "STIFLE": {
         "word": "STIFLE",
         "phonetic": "(stl'-fal)",
         "pos": "v.",
-        "deftext": "to suffocate, smother; to suppress, keep back \nTo STIFLE someone is to kill him by not letting him breathe, to _suffocate_ him. \n\"The murderer STIFLED his victim with a pillow.\" \nSTIFLE is also used in a general sense, meaning to _cut off_ or _hold back._ \n\"She managed to STIFLE a sneeze.\" \n\"They accused the king of trying to STIFLE all politi- cal parties.\" \n\"Bill thought his job was STIFLING him; he longed for more excitement and challenge.\""
+        "deftext": "to suffocate, smother; to suppress, keep back \nTo STIFLE someone is to kill him by not letting him breathe, to _suffocate_ him. \n\"The murderer STIFLED his victim with a pillow.\" \nSTIFLE is also used in a general sense, meaning to _cut off_ or _hold back._ \n\"She managed to STIFLE a sneeze.\" \n\"They accused the king of trying to STIFLE all political parties.\" \n\"Bill thought his job was STIFLING him; he longed for more excitement and challenge.\""
       },
       "PLUMAGE": {
         "word": "PLUMAGE",
@@ -5834,7 +5834,7 @@
         "word": "NEGATE",
         "phonetic": "(nÔøΩgAt')",
         "pos": "v.",
-        "deftext": "to rule out, nullify, neutralize \nNEGATE is related to the word _negative._ Both come from a Latin word meaning to _say no._ To NEGATE something is to cause it to have no effect or value. Often the word suggests two things canceling each other out be- cause of their opposite effects. \n\"His grand slam homer NEGATED the four runs the other team had scored in the previous inning.\" \n\"The principal's opposition NEGATES the possibility of a school outing.\" \n\"All our work was NEGATED when money ran out and the project ended.\" \n\"He found it difficult to NEGATE the bad impression he had already made on people.\" \nOther forms of the word: NEGATION, n."
+        "deftext": "to rule out, nullify, neutralize \nNEGATE is related to the word _negative._ Both come from a Latin word meaning to _say no._ To NEGATE something is to cause it to have no effect or value. Often the word suggests two things canceling each other out because of their opposite effects. \n\"His grand slam homer NEGATED the four runs the other team had scored in the previous inning.\" \n\"The principal's opposition NEGATES the possibility of a school outing.\" \n\"All our work was NEGATED when money ran out and the project ended.\" \n\"He found it difficult to NEGATE the bad impression he had already made on people.\" \nOther forms of the word: NEGATION, n."
       },
       "PALTRY": {
         "word": "PALTRY",
@@ -5852,7 +5852,7 @@
         "word": "VERBATIM",
         "phonetic": "(ver-bA'-tim)",
         "pos": "adv.",
-        "deftext": "word for word \nVERBATIM comes from the Latin word that means _word,_ also the source of English words like _verb_ and _verbal._ VERBATIM means \"in exactly the same words.\" \n\"She has an amazing memory. She can recite an entire poem VERBATIM after looking at it only once.\" \n\"The secretary took down the entire speech VERBA- TIM and typed it out later.\" \nVERBATIM is also used as an adjective. \n\"He gave a VERBATIM report of what the general had said.\""
+        "deftext": "word for word \nVERBATIM comes from the Latin word that means _word,_ also the source of English words like _verb_ and _verbal._ VERBATIM means \"in exactly the same words.\" \n\"She has an amazing memory. She can recite an entire poem VERBATIM after looking at it only once.\" \n\"The secretary took down the entire speech VERBATIM and typed it out later.\" \nVERBATIM is also used as an adjective. \n\"He gave a VERBATIM report of what the general had said.\""
       },
       "TREAD": {
         "word": "TREAD",
@@ -6653,7 +6653,7 @@
         "word": "ANECDOTE",
         "phonetic": "(an'-ik-dOt)",
         "pos": "n.",
-        "deftext": "a brief tale, story \nAn ANECDOTE is a short, true story, usually amusing, about a person or an event. An ANECDOTE is told to give a picture of a famous person's character, to illustrate some truth, or just to entertain. \n\"The musician told us several humorous ANEC- DOTES about famous singers for whom he had played.\" \n\"The first chapter in the book is just a series of ANEC- DOTES of Harry Truman's childhood.\" \n\"The speaker began by telling us a couple of ANEC- DOTES about his travels in India.\""
+        "deftext": "a brief tale, story \nAn ANECDOTE is a short, true story, usually amusing, about a person or an event. An ANECDOTE is told to give a picture of a famous person's character, to illustrate some truth, or just to entertain. \n\"The musician told us several humorous ANECDOTES about famous singers for whom he had played.\" \n\"The first chapter in the book is just a series of ANECDOTES of Harry Truman's childhood.\" \n\"The speaker began by telling us a couple of ANECDOTES about his travels in India.\""
       },
       "ANNIHILATE": {
         "word": "ANNIHILATE",
@@ -6665,7 +6665,7 @@
         "word": "PANDEMONIUM",
         "phonetic": "(pan-d::>-mO'-nE-::>m)",
         "pos": "n.",
-        "deftext": "uproar, wild disorder, tumult, chaos \nPANDEMONIUM was made up from two Greek words meaning \"all the demons.\" The word was first used by John Milton in his poem _Paradise Lost_ as the name of the capital of Hell. Since then it has come to be used about any scene of wild noise and disorder. \n\"PANDEMONIUM broke out in the stands when we won the championship.\" \n\"There was PANDEMONIUM in the classroom when- ever the teacher left.\" \n\"Stay away from that part of town. It's utter PANDEMONIUM on Saturday nights.\""
+        "deftext": "uproar, wild disorder, tumult, chaos \nPANDEMONIUM was made up from two Greek words meaning \"all the demons.\" The word was first used by John Milton in his poem _Paradise Lost_ as the name of the capital of Hell. Since then it has come to be used about any scene of wild noise and disorder. \n\"PANDEMONIUM broke out in the stands when we won the championship.\" \n\"There was PANDEMONIUM in the classroom whenever the teacher left.\" \n\"Stay away from that part of town. It's utter PANDEMONIUM on Saturday nights.\""
       },
       "CIRCUITOUS": {
         "word": "CIRCUITOUS",
@@ -6677,7 +6677,7 @@
         "word": "DISSIPATE",
         "phonetic": "(dis'-ÔøΩ-pAt)",
         "pos": "v.",
-        "deftext": "to scatter, disperse, waste \nDISSIPATE means to _scatter_ or _dissolve._ \n\"The hot sun DISSIPATED the early morning fog.\" \n\"He never got anything done. His time just seemed to DISSIPATE.\" \nVery often DISSIPATE has the sense of scattering fool- ishly, of _wasting._ \n\"Because of his gambling, William managed to DISSIPATE his inheritance within a year.\" \nThe noun DISSIPATION means a _wasting_ or _scattering_; it is usually used in descriptions of wasted lives. \n\"We hadn't seen him in several years. He was terribly changed by the life of DISSIPATION he had led.\" \nOther forms of the word: DISSIPATION, n."
+        "deftext": "to scatter, disperse, waste \nDISSIPATE means to _scatter_ or _dissolve._ \n\"The hot sun DISSIPATED the early morning fog.\" \n\"He never got anything done. His time just seemed to DISSIPATE.\" \nVery often DISSIPATE has the sense of scattering foolishly, of _wasting._ \n\"Because of his gambling, William managed to DISSIPATE his inheritance within a year.\" \nThe noun DISSIPATION means a _wasting_ or _scattering_; it is usually used in descriptions of wasted lives. \n\"We hadn't seen him in several years. He was terribly changed by the life of DISSIPATION he had led.\" \nOther forms of the word: DISSIPATION, n."
       },
       "DEFRAUD": {
         "word": "DEFRAUD",
@@ -6695,7 +6695,7 @@
         "word": "DISCORD",
         "phonetic": "(dis'-kord)",
         "pos": "n.",
-        "deftext": "conflict, strife, disagreement, lack of harmony \nIn music, a _chord_ is a combination of two or more tones sounded together. DISCORD is related to _chord_. A DISCORD in music is a chord which has a harsh or unpleas- ant sound. See _dis-_ under Prefixes. DISCORD is also used generally about situations where people or things are not in harmony with one another. \n\"There was a great deal of DISCORD at the meeting; no one could agree about anything.\" \n\"Jill couldn't stand the DISCORD among the members of her family.\" \n\"The long years of DISCORD between the two countries finally resulted in war.\" \nOther forms of the word: DISCORDANT, adj."
+        "deftext": "conflict, strife, disagreement, lack of harmony \nIn music, a _chord_ is a combination of two or more tones sounded together. DISCORD is related to _chord_. A DISCORD in music is a chord which has a harsh or unpleasant sound. See _dis-_ under Prefixes. DISCORD is also used generally about situations where people or things are not in harmony with one another. \n\"There was a great deal of DISCORD at the meeting; no one could agree about anything.\" \n\"Jill couldn't stand the DISCORD among the members of her family.\" \n\"The long years of DISCORD between the two countries finally resulted in war.\" \nOther forms of the word: DISCORDANT, adj."
       },
       "BEDLAM": {
         "word": "BEDLAM",
@@ -6713,13 +6713,13 @@
         "word": "DEVISE",
         "phonetic": "(di-viz')",
         "pos": "v.",
-        "deftext": "to invent, formulate, plan, contrive \nTo DEVISE something is to make it up or _invent it,_ usually through a new arrangement of ideas or parts that already exist. \n\"He DEVISED a new method for filing the cards.\" \n\"They DEVISED a scheme to cheat the insurance company.\" \n\"Jim DEVISED a good radio out of some spare parts on his workbench.\" \n_Change_ and _fix_ are common choices as the correct mean- ing of DEVISE. This may be due to confusing DEVISE with revise. To DEVISE something is to invent it. To _revise_ something is to change it with the idea of making it better. \n\"After he DEVISED the system he revised it several times in order to improve it.\""
+        "deftext": "to invent, formulate, plan, contrive \nTo DEVISE something is to make it up or _invent it,_ usually through a new arrangement of ideas or parts that already exist. \n\"He DEVISED a new method for filing the cards.\" \n\"They DEVISED a scheme to cheat the insurance company.\" \n\"Jim DEVISED a good radio out of some spare parts on his workbench.\" \n_Change_ and _fix_ are common choices as the correct meaning of DEVISE. This may be due to confusing DEVISE with revise. To DEVISE something is to invent it. To _revise_ something is to change it with the idea of making it better. \n\"After he DEVISED the system he revised it several times in order to improve it.\""
       },
       "CONSPICUOUS": {
         "word": "CONSPICUOUS",
         "phonetic": "(kÔøΩn-spik'-yU-ÔøΩs)",
         "pos": "adj.",
-        "deftext": "obvious, noticeable, striking \nCONSPICUOUS comes from a Latin word meaning to see, also the source of other English words like _spy__ and _spectacles._ Something that is CONSPICUOUS is very easy to see. It stands out from everything around it. \n\"Put the _No Smoking_ sign in a CONSPICUOUS place so that everyone will notice it.\" \n\"She was very CONSPICUOUS in her huge orange hat.\" \nIn a slightly different sense, CONSPICUOUS means \"at- tracting attention,\" because something is out of the ordinary in some way. \n\"He received a medal for his CONSPICUOUS bravery during the battle.\" \n\"The team's most CONSPICUOUS problem is its complete inability to score goals.\""
+        "deftext": "obvious, noticeable, striking \nCONSPICUOUS comes from a Latin word meaning to see, also the source of other English words like _spy__ and _spectacles._ Something that is CONSPICUOUS is very easy to see. It stands out from everything around it. \n\"Put the _No Smoking_ sign in a CONSPICUOUS place so that everyone will notice it.\" \n\"She was very CONSPICUOUS in her huge orange hat.\" \nIn a slightly different sense, CONSPICUOUS means \"attracting attention,\" because something is out of the ordinary in some way. \n\"He received a medal for his CONSPICUOUS bravery during the battle.\" \n\"The team's most CONSPICUOUS problem is its complete inability to score goals.\""
       },
       "DWINDLE": {
         "word": "DWINDLE",
@@ -6731,7 +6731,7 @@
         "word": "GIST",
         "phonetic": "(",
         "pos": "jist)",
-        "deftext": "n.: the main part, main idea, essence, general sense \nGIST is a legal term, meaning \"the grounds for a legal action\"-that is, the basic reason or point of a case. In general use GIST has the same idea: it is the main point, the central idea of something. \n\"Don't repeat the whole speech to me. I just want the GIST of what he said.\" \n\"There was a lot more to it, but the GIST of his decision is that you can't come.\""
+        "deftext": "n.: the main part, main idea, essence, general sense \nGIST is a legal term, meaning \"the grounds for a legal action\"—that is, the basic reason or point of a case. In general use GIST has the same idea: it is the main point, the central idea of something. \n\"Don't repeat the whole speech to me. I just want the GIST of what he said.\" \n\"There was a lot more to it, but the GIST of his decision is that you can't come.\""
       }
     }
   },
@@ -7279,7 +7279,7 @@
         "word": "MERCANTILE",
         "phonetic": "(mer'-kÔøΩn-tll)",
         "pos": "adj.",
-        "deftext": "related to trade, commercial \nA MERCHANT is someone who buys and sells a product for profit. MERCANTILE is an adjective from MERCHANT and means \"of or related to MERCHANTS or trading.\" \n\"It was a MERCANTILE city, famous for its many large businesses.\" \n\"The MERCANTILE interests in the legislature sup- ported all bills that would help increase trade.\" \nOther forms of the word: MERCHANT, n."
+        "deftext": "related to trade, commercial \nA MERCHANT is someone who buys and sells a product for profit. MERCANTILE is an adjective from MERCHANT and means \"of or related to MERCHANTS or trading.\" \n\"It was a MERCANTILE city, famous for its many large businesses.\" \n\"The MERCANTILE interests in the legislature supported all bills that would help increase trade.\" \nOther forms of the word: MERCHANT, n."
       },
       "ANGUISH": {
         "word": "ANGUISH",
@@ -7291,13 +7291,13 @@
         "word": "DEPLORABLE",
         "phonetic": "(di-plor'-ÔøΩbÔøΩI)",
         "pos": "adj.",
-        "deftext": "wretched, bad, causing grief or regret \nTo DEPLORE something is to feel great regret, disapproval, or sorrow about it. \n\"He DEPLORED the conditions in which the miners had to work.\" \nDEPLORABLE is the adjective from DEPLORE. See _-able_ under Suffixes. Something which is DEPLORABLE is _wretched,_ bad enough to cause strong disapproval. \n\"When we arrived at our new apartment we found that the people living there before us had left it in a DE- PLORABLE condition.\" \"Wendy's grandmother told her that her manners were DEPLORABLE.\" \nSometimes the word is used about something that causes sorrow rather than disapproval. \n\"The people wept bitterly upon hearing of the DEPLORABLE death of their president.\" \n\"They had never before witnessed such a DEPLORABLE accident.\" Other forms of the word: DEPLORE, v."
+        "deftext": "wretched, bad, causing grief or regret \nTo DEPLORE something is to feel great regret, disapproval, or sorrow about it. \n\"He DEPLORED the conditions in which the miners had to work.\" \nDEPLORABLE is the adjective from DEPLORE. See _-able_ under Suffixes. Something which is DEPLORABLE is _wretched,_ bad enough to cause strong disapproval. \n\"When we arrived at our new apartment we found that the people living there before us had left it in a DEPLORABLE condition.\" \"Wendy's grandmother told her that her manners were DEPLORABLE.\" \nSometimes the word is used about something that causes sorrow rather than disapproval. \n\"The people wept bitterly upon hearing of the DEPLORABLE death of their president.\" \n\"They had never before witnessed such a DEPLORABLE accident.\" Other forms of the word: DEPLORE, v."
       },
       "EFFERVESCENT": {
         "word": "EFFERVESCENT",
         "phonetic": "(ef-ÔøΩr-ves'-ÔøΩnt)",
         "pos": "adj.",
-        "deftext": "bubbling, exuberant, lively \nThe _ferv_ part of EFFERVESCENT comes from a Latin word meaning to _boil,_ also the source of the word _fervent._ To EFFERVESCE is to give off bubbles of gas the way a carbonated soft drink or champagne does.EFFERVES- CENT is the adjective from EFFERVESCE. The word is usually used in a general sense about people who are so lively and excitable that they seem to bubbleover with enthusiasm, joy, or ideas. \n\"Her EFFERVESCENT enthusiasm made everyone else try twice as hard.\" \n\"His EFFERVESCENT personality would enliven any party.\" \n\"Jane's EFFERVESCENT imagination came up with a hundred ways of solving the problem.\" \nOther forms of the word: EFFERVESCE, v. EFFERVESCENCE, n."
+        "deftext": "bubbling, exuberant, lively \nThe _ferv_ part of EFFERVESCENT comes from a Latin word meaning to _boil,_ also the source of the word _fervent._ To EFFERVESCE is to give off bubbles of gas the way a carbonated soft drink or champagne does. EFFERVESCENT is the adjective from EFFERVESCE. The word is usually used in a general sense about people who are so lively and excitable that they seem to bubbleover with enthusiasm, joy, or ideas. \n\"Her EFFERVESCENT enthusiasm made everyone else try twice as hard.\" \n\"His EFFERVESCENT personality would enliven any party.\" \n\"Jane's EFFERVESCENT imagination came up with a hundred ways of solving the problem.\" \nOther forms of the word: EFFERVESCE, v. EFFERVESCENCE, n."
       },
       "ORNATE": {
         "word": "ORNATE",
@@ -7321,7 +7321,7 @@
         "word": "NARRATIVE",
         "phonetic": "(nar'-ÔøΩ-tiv)",
         "pos": "n.",
-        "deftext": "a story, tale To NARRATE a story is to tell it. \n\"He NARRATED a story about a boy and his dog living on a farm.\" \nA NARRATIVE is a story, the telling of a series of events. \nA NARRATIVE can be either true or made up. \n\"They read an exciting NARRATIVE about pirates and buried treasure.\" \n\"We listened to the NARRATIVE of the first space- flight.\" \nOther forms of the word: NARRATE, v. NARRATOR, n."
+        "deftext": "a story, tale To NARRATE a story is to tell it. \n\"He NARRATED a story about a boy and his dog living on a farm.\" \nA NARRATIVE is a story, the telling of a series of events. \nA NARRATIVE can be either true or made up. \n\"They read an exciting NARRATIVE about pirates and buried treasure.\" \n\"We listened to the NARRATIVE of the first spaceflight.\" \nOther forms of the word: NARRATE, v. NARRATOR, n."
       },
       "REALM": {
         "word": "REALM",
@@ -7834,13 +7834,13 @@
         "word": "DICTATORIAL",
         "phonetic": "(dik-tÔøΩtor'-E-ÔøΩI)",
         "pos": "adj.",
-        "deftext": "like a DICTATOR, overbearing, oppressive \nA DICTATOR is a person who rules a country by himself, usually in a cruel way. DICTATORIAL is the adjective from DICTATOR and means \"like a DICTATOR.\" See _-al_ under Suffixes. The word suggests a person who is so used to power that he expects everyone to obey him. \n\"Her father's DICTATORIAL attitude bothered Cathy. He would punish her if she didn't obey him immediately.\" \n\"The teacher believes you don't have to be DICTATO- RIAL to make students learn. Being pleasant and un- derstanding often works better.\" \nOther forms of the word: DICTATOR, n."
+        "deftext": "like a DICTATOR, overbearing, oppressive \nA DICTATOR is a person who rules a country by himself, usually in a cruel way. DICTATORIAL is the adjective from DICTATOR and means \"like a DICTATOR.\" See _-al_ under Suffixes. The word suggests a person who is so used to power that he expects everyone to obey him. \n\"Her father's DICTATORIAL attitude bothered Cathy. He would punish her if she didn't obey him immediately.\" \n\"The teacher believes you don't have to be DICTATORIAL to make students learn. Being pleasant and understanding often works better.\" \nOther forms of the word: DICTATOR, n."
       },
       "RELISH": {
         "word": "RELISH",
         "phonetic": "(rel'-ish)",
         "pos": "v.",
-        "deftext": "to enjoy, take delight in \nTo RELISH something is to enjoy it greatly, to take de- light in it. \n\"They RELISH singing. They sing every chance they get.\" \n\"I RELISH the idea of going to camp this summer.\" \n\"I don't RELISH the thought of having to sweep the floor.\" \nRELISH is also a noun, meaning enjoyment. \n\"She led the parade with great RELISH.\" \n\"I have little RELISH for getting up so early.\""
+        "deftext": "to enjoy, take delight in \nTo RELISH something is to enjoy it greatly, to take delight in it. \n\"They RELISH singing. They sing every chance they get.\" \n\"I RELISH the idea of going to camp this summer.\" \n\"I don't RELISH the thought of having to sweep the floor.\" \nRELISH is also a noun, meaning enjoyment. \n\"She led the parade with great RELISH.\" \n\"I have little RELISH for getting up so early.\""
       },
       "DON": {
         "word": "DON",
@@ -7852,19 +7852,19 @@
         "word": "LIVELIHOOD",
         "phonetic": "(llv'-IE-hud)",
         "pos": "n.",
-        "deftext": "a means of support, living \nA LIVELIHOOD is a way of making a living, a means of earning money. The word can apply to the money you earn in order to live, or to the job or career from which you earn the money. \n\"He gained his LIVELIHOOD by selling from door to door.\" \n\"Raising sheep provided them with a decent LIVELI- HOOD.\" \nMany people think LIVELIHOOD means _hobby._ A _hobby_ is something you do for fun, though, not to make a living. \n\"Her parent didn't mind acting as a _hobby,_ but they disapproved of it as a LIVELIHOOD.\""
+        "deftext": "a means of support, living \nA LIVELIHOOD is a way of making a living, a means of earning money. The word can apply to the money you earn in order to live, or to the job or career from which you earn the money. \n\"He gained his LIVELIHOOD by selling from door to door.\" \n\"Raising sheep provided them with a decent LIVELIHOOD.\" \nMany people think LIVELIHOOD means _hobby._ A _hobby_ is something you do for fun, though, not to make a living. \n\"Her parent didn't mind acting as a _hobby,_ but they disapproved of it as a LIVELIHOOD.\""
       },
       "ASSERT": {
         "word": "ASSERT",
         "phonetic": "(ÔøΩsert')",
         "pos": "v.",
-        "deftext": "to declare, state, affirm, maintain \nTo ASSERT something is to state positively that it is true, usually without proof. \n\"The defendant ASSERTED his innocence.\" \n\"Father ASSERTED that we were too young to see that movie.\" \n\"John ASSERTED that he was strong enough to carry the box.\" \nIn a similar sense, ASSERT means \"to put forward boldly.\" \"If you want people to pay attention to you, you must ASSERT yourself'-that is, you must demand to be recognized or listened to. \nThe most common mistake is to choose _believe_ as the meaning of ASSERT. You would usually _believe_ something that you ASSERT, but ASSERT adds the idea of declaring your belief publicly and forcefully. Other forms of the word: ASSERTION, n. ASSERTIVE, adj."
+        "deftext": "to declare, state, affirm, maintain \nTo ASSERT something is to state positively that it is true, usually without proof. \n\"The defendant ASSERTED his innocence.\" \n\"Father ASSERTED that we were too young to see that movie.\" \n\"John ASSERTED that he was strong enough to carry the box.\" \nIn a similar sense, ASSERT means \"to put forward boldly.\" \"If you want people to pay attention to you, you must ASSERT yourself\"—that is, you must demand to be recognized or listened to. \nThe most common mistake is to choose _believe_ as the meaning of ASSERT. You would usually _believe_ something that you ASSERT, but ASSERT adds the idea of declaring your belief publicly and forcefully. Other forms of the word: ASSERTION, n. ASSERTIVE, adj."
       },
       "INVOKE": {
         "word": "INVOKE",
         "phonetic": "(in-vOk')",
         "pos": "v.",
-        "deftext": "to call upon, call for, appeal to, entreat, summon \nSee _in-1_ under Prefixes. The _voke_ part of the word means to _call._ To _revoke_ is to call back, to _convoke_ is to call together, to _evoke_ is to call forth. INVOKE has several different uses, all of which basically mean to _call in_ or _call upon._ To INVOKE God's name is to call upon it-for ex- ample, in support of what you are saying. To INVOKE someone's mercy is to call for it, to beg for it. To IN- VOKE an investigation is to cause it, to call it forth. To INVOKE evil spirits is to call them forth, to summon them by magic. \nOther forms of the word: INVOCATION, n."
+        "deftext": "to call upon, call for, appeal to, entreat, summon \nSee _in-1_ under Prefixes. The _voke_ part of the word means to _call._ To _revoke_ is to call back, to _convoke_ is to call together, to _evoke_ is to call forth. INVOKE has several different uses, all of which basically mean to _call in_ or _call upon._ To INVOKE God's name is to call upon it—for example, in support of what you are saying. To INVOKE someone's mercy is to call for it, to beg for it. To INVOKE an investigation is to cause it, to call it forth. To INVOKE evil spirits is to call them forth, to summon them by magic. \nOther forms of the word: INVOCATION, n."
       },
       "UTILITY": {
         "word": "UTILITY",
@@ -7882,7 +7882,7 @@
         "word": "GROPE",
         "phonetic": "(grOp)",
         "pos": "v.",
-        "deftext": "to feel about blindly, feel one's way, search blindly or uncertainly \nTo GROPE for something is to feel about for it as if you were blind and could only use your hands. \n\"He GROPED for the flashlight in the dark.\" \n\"She GROPED for the ball that had rolled beneath the couch.\" \n\"They GROPED their way through the dark tunnel.\" \nGROPE is also used in a more general sense for any kind of uncertain or hesitant search. \n\"He GROPED for an answer to the difficult math problem.\" \n\"She GROPED for the proper words to say how thank- ful she was.\""
+        "deftext": "to feel about blindly, feel one's way, search blindly or uncertainly \nTo GROPE for something is to feel about for it as if you were blind and could only use your hands. \n\"He GROPED for the flashlight in the dark.\" \n\"She GROPED for the ball that had rolled beneath the couch.\" \n\"They GROPED their way through the dark tunnel.\" \nGROPE is also used in a more general sense for any kind of uncertain or hesitant search. \n\"He GROPED for an answer to the difficult math problem.\" \n\"She GROPED for the proper words to say how thankful she was.\""
       },
       "FALLACY": {
         "word": "FALLACY",

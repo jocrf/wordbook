@@ -1105,7 +1105,7 @@
         "word": "COMPORT",
         "phonetic": "(kgm-port')",
         "pos": "v.",
-        "deftext": "to behave, conduct; to agree, correspond \nCOMPORT means to _behave_. It is used reflexively--that is, with a word such as _himself_, _herself_, or _themselves_. \n\"James COMPORTED himself with great dignity at his father's funeral.\" \n\"At the opera Ann COMPORTED herself in such a way that we knew she went there all the time.\" \nIn a different sense, COMPORT can mean to _agree_ or _correspond_. In this sense the word is followed by _with_. \n\"The statements in this book do not COMPORT with our current understanding of the facts.\" \nOther forms of the word: COMPORTMENT, n."
+        "deftext": "to behave, conduct; to agree, correspond \nCOMPORT means to _behave_. It is used reflexively—that is, with a word such as _himself_, _herself_, or _themselves_. \n\"James COMPORTED himself with great dignity at his father's funeral.\" \n\"At the opera Ann COMPORTED herself in such a way that we knew she went there all the time.\" \nIn a different sense, COMPORT can mean to _agree_ or _correspond_. In this sense the word is followed by _with_. \n\"The statements in this book do not COMPORT with our current understanding of the facts.\" \nOther forms of the word: COMPORTMENT, n."
       },
       "CURSORY": {
         "word": "CURSORY",
@@ -1117,7 +1117,7 @@
         "word": "DENIZEN",
         "phonetic": "(den'-g-zgn)",
         "pos": "n.",
-        "deftext": "an inhabitant, resident \nA DENIZEN is an inhabitant of a region or a country, particularly one who belongs there by birth or naturalization. \n\"The stranger's wild appearance shocked the staid DENIZENS of the small town.\" \"At the aquarium we saw sharks, squid, and other DENIZENS of the ocean.\" \"The woodsman was familiar with all the DENIZENS of the forest.\""
+        "deftext": "an inhabitant, resident \nA DENIZEN is an inhabitant of a region or a country, particularly one who belongs there by birth or naturalization. \n\"The stranger's wild appearance shocked the staid DENIZENS of the small town.\" \n\"At the aquarium we saw sharks, squid, and other DENIZENS of the ocean.\" \n\"The woodsman was familiar with all the DENIZENS of the forest.\""
       },
       "DESICCATE": {
         "word": "DESICCATE",
@@ -1684,7 +1684,7 @@
         "word": "PUERILE",
         "phonetic": "(pyU'-ÔøΩr-il",
         "pos": "adj.",
-        "deftext": "childish, juvenile, foolish \nPUERILE comes from the Latin word for boy, _puer_. Someone who is PUERILE is boyish, childish. It is an uncomplimentary term that suggests immaturity, even foolishness. \n\"'Stop being so PUERILE--it's time to grow up', she would say whenever her husband threw a tantrum.\" \n\"You may be twenty-one-years old, but your PUERILE behavior makes you seem about ten.\" \nOther forms of the word: PUERILITY, n."
+        "deftext": "childish, juvenile, foolish \nPUERILE comes from the Latin word for boy, _puer_. Someone who is PUERILE is boyish, childish. It is an uncomplimentary term that suggests immaturity, even foolishness. \n\"'Stop being so PUERILE—it's time to grow up', she would say whenever her husband threw a tantrum.\" \n\"You may be twenty-one-years old, but your PUERILE behavior makes you seem about ten.\" \nOther forms of the word: PUERILITY, n."
       },
       "TRENCHANT": {
         "word": "TRENCHANT",
@@ -1833,7 +1833,7 @@
         {
           "part1": "The",
           "part2": "movie had everyone in the audience in tears.",
-          "answer": "lachrymose or lugubrious"
+          "answer": "lachrymose"
         },
         {
           "part1": "Julie couldn't overcome her feeling of",
@@ -1848,7 +1848,7 @@
         {
           "part1": "We rushed outside when we heard the",
           "part2": "whimpering of the injured puppy.",
-          "answer": "plaintive or lugubrious"
+          "answer": "plaintive"
         },
         {
           "part1": "The unexpected defeat proved to be",
@@ -3871,7 +3871,7 @@
       "questions": [
         {
           "part1": "The good-natured",
-          "part2": "between the two friends was witty but affectionate.",
+          "part2": "between the two friends was sarcastic but affectionate.",
           "answer": "raillery"
         },
         {
@@ -4011,7 +4011,7 @@
         },
         {
           "part1": "The playful",
-          "part2": "between the good friends couldn't disguise their true liking for each other.",
+          "part2": "between the siblings couldn't disguise their true liking for each other.",
           "answer": "badinage"
         },
         {
@@ -4606,7 +4606,7 @@
         "word": "TRUCULENT",
         "phonetic": "(truhk'-yg-lgnt)",
         "pos": "adj.",
-        "deftext": "fierce, belligerent, pugnacious \nTRUCULENT means \"having a fierce appearance or dis- position.\" It is used about people who are always ready to fight or bully others. \n\"The TRUCULENT drunk bellowed that he could beat up anybody in the bar.\" \n\"The TRUCULENT hockey team likes nothing more than to get in a brawl with its opponent.\" \n\"Despite its small size, the country is quite TRUCULENT, and is always threatening to invade its neighbors.\" \nOther forms of the word: TRUCULENCE, n."
+        "deftext": "fierce, belligerent, pugnacious \nTRUCULENT means \"having a fierce appearance or disposition.\" It is used about people who are always ready to fight or bully others. \n\"The TRUCULENT drunk bellowed that he could beat up anybody in the bar.\" \n\"The TRUCULENT hockey team likes nothing more than to get in a brawl with its opponent.\" \n\"Despite its small size, the country is quite TRUCULENT, and is always threatening to invade its neighbors.\" \nOther forms of the word: TRUCULENCE, n."
       },
       "NACREOUS": {
         "word": "NACREOUS",
@@ -4624,7 +4624,7 @@
         "word": "ADJURE",
         "phonetic": "(ad-jUr')",
         "pos": "v.",
-        "deftext": "command, enjoin, entreat \nTo ADJURE is to command solemnly or earnestly. When the emphasis is placed on the earnestness of the com-mand, ADJURE comes close to meaning _entreat_ or _beg_. \n\"The missionary ADJURED his disciples to think less about the world and more about their work.\" \n\"All of the new altarboys were ADJURED to pay strict attention during the service.\" \n\"The guard ADJURED us not to touch the sculptures.\" \nThe most commonly chosen wrong answer is _criticize_, due perhaps to a confusion of ADJURE with _admonish_. \nOther forms of the word: ADJURATION, n."
+        "deftext": "command, enjoin, entreat \nTo ADJURE is to command solemnly or earnestly. When the emphasis is placed on the earnestness of the command, ADJURE comes close to meaning _entreat_ or _beg_. \n\"The missionary ADJURED his disciples to think less about the world and more about their work.\" \n\"All of the new altarboys were ADJURED to pay strict attention during the service.\" \n\"The guard ADJURED us not to touch the sculptures.\" \nThe most commonly chosen wrong answer is _criticize_, due perhaps to a confusion of ADJURE with _admonish_. \nOther forms of the word: ADJURATION, n."
       },
       "ASPERITY": {
         "word": "ASPERITY",
@@ -4833,7 +4833,7 @@
             "obstinate",
             "intelligent"
           ],
-          "word": "PERT!NACIOUS",
+          "word": "PERTINACIOUS",
           "correct": "obstinate"
         },
         {
@@ -5836,7 +5836,7 @@
         "word": "GELID",
         "phonetic": "(jel'-id)",
         "pos": "adj.",
-        "deftext": "icy, very cold \nGELID comes from the Latin word for _cold_, and is a synonym for _freezing_, _icy_. It tends to emphasize the discomfort of such cold. \n\"The snowstorm brought such GELID weather that frostbite was epidemic.\" \n\"Bob knew that he couldn't survive long in the GELID water: already his feet and hands were numb.\" \nThe word is also used in a figurative sense. \n\"The teacher's GELID stare indicated he had not found the student's remark amusing.\" \n_Weak_ is a common answer on the Pretest, perhaps be- cause GELID looks and sounds like _jellied_."
+        "deftext": "icy, very cold \nGELID comes from the Latin word for _cold_, and is a synonym for _freezing_, _icy_. It tends to emphasize the discomfort of such cold. \n\"The snowstorm brought such GELID weather that frostbite was epidemic.\" \n\"Bob knew that he couldn't survive long in the GELID water: already his feet and hands were numb.\" \nThe word is also used in a figurative sense. \n\"The teacher's GELID stare indicated he had not found the student's remark amusing.\" \n_Weak_ is a common answer on the Pretest, perhaps because GELID looks and sounds like _jellied_."
       },
       "DOYEN": {
         "word": "DOYEN",
@@ -5946,11 +5946,11 @@
         {
           "part1": "The drunk became quite",
           "part2": "when the police tried to arrest him, so they had to call for assistance.",
-          "answer": "truculent or recalcitrant"
+          "answer": "truculent"
         },
         {
-          "part1": "The",
-          "part2": "young woman told him that she didn't know the first thing about typing, but wanted the job anyway.",
+          "part1": "Although the",
+          "part2": "employee had been at his company only two weeks, he put his name up for promotion.",
           "answer": "ingenuous"
         },
         {
@@ -5969,7 +5969,8 @@
           "answer": "nugatory"
         },
         {
-          "part1": "The servant is more formal and correct in his behavior than his easygoing employer.",
+          "part1": "The",
+          "part2": "servant is more formal and correct in his behavior than his easygoing employer.",
           "answer": "punctilious"
         },
         {
@@ -6005,7 +6006,7 @@
         {
           "part1": "The",
           "part2": "youth was unprepared for the sophistication and glamour of big-city life.",
-          "answer": "callow or ingenuous"
+          "answer": "callow"
         },
         {
           "part1": "The",
@@ -7239,13 +7240,13 @@
         "word": "SUBORN",
         "phonetic": "(sg-born')",
         "pos": "v.",
-        "deftext": "to bribe, instigate, induce to commit \nTo SUBORN a person is to induce him or her, by secret or illegal means, to commit a crime. SUBORN is particularly used with reference to perjury. \n\"The mobster SUBORNED the witness to change his testimony by buying him a new car.\" \n\"The spy SUBORNED the clerk to remove the secret documents from the file.\" \n\"Three of the jurors were SUBORNED by the unscrupulous defense attorney and agreed to vote 'Not Guilty' for a fee.\" \n_Replace_ is the most commonly chosen wrong answer on the Pretest, possibly because of a vague resemblance be- tween SUBORN and _substitute_. \nOther forms of the word: SUBORNATION, n."
+        "deftext": "to bribe, instigate, induce to commit \nTo SUBORN a person is to induce him or her, by secret or illegal means, to commit a crime. SUBORN is particularly used with reference to perjury. \n\"The mobster SUBORNED the witness to change his testimony by buying him a new car.\" \n\"The spy SUBORNED the clerk to remove the secret documents from the file.\" \n\"Three of the jurors were SUBORNED by the unscrupulous defense attorney and agreed to vote 'Not Guilty' for a fee.\" \n_Replace_ is the most commonly chosen wrong answer on the Pretest, possibly because of a vague resemblance between SUBORN and _substitute_. \nOther forms of the word: SUBORNATION, n."
       },
       "TENDENTIOUS": {
         "word": "TENDENTIOUS",
         "phonetic": "(ten-den'-shgs)",
         "pos": "adj.",
-        "deftext": "biased, not impartial \nTENDENTIOUS is an adjective from the noun _tendency_. A person or thing that is TENDENTIOUS has a tendency to support a particular cause or point of view, is not objective. \n\"She wrote a TENDENTIOUS article praising the mayor's record and ridiculing his opponent.\" \n\"I thought the politician was rather TENDENTIOUS in his speech-mentioning all the good things about his party and ignoring its weaknesses.\" \n\"Advertisements on TV are at best TENDENTIOUS, at worst deliberately misleading.\" \n_Pompous_ and _misleading_ are the common mistakes. _Pompous_ is probably chosen due to confusion with _pretentious_. Something that it TENDENTIOUS may also be misleading, because the truth is not as important as promoting a point of view. The emphasis, however, is on this lack of impartiality."
+        "deftext": "biased, not impartial \nTENDENTIOUS is an adjective from the noun _tendency_. A person or thing that is TENDENTIOUS has a tendency to support a particular cause or point of view, is not objective. \n\"She wrote a TENDENTIOUS article praising the mayor's record and ridiculing his opponent.\" \n\"I thought the politician was rather TENDENTIOUS in his speech—mentioning all the good things about his party and ignoring its weaknesses.\" \n\"Advertisements on TV are at best TENDENTIOUS, at worst deliberately misleading.\" \n_Pompous_ and _misleading_ are the common mistakes. _Pompous_ is probably chosen due to confusion with _pretentious_. Something that it TENDENTIOUS may also be misleading, because the truth is not as important as promoting a point of view. The emphasis, however, is on this lack of impartiality."
       },
       "TENEBROUS": {
         "word": "TENEBROUS",
@@ -7830,7 +7831,7 @@
         "word": "EQUABLE",
         "phonetic": "(ek'-w;-b;}I",
         "pos": "adj.",
-        "deftext": "even-tempered, steady, unvarying \nEQUABLE comes from the Latin word for _equal_. EQUABLE's general meaning is _steady_, _uniform_. \n\"He wants an EQUABLE climate where he won't have to worry about extremes in temperature.\" \nIt is most often applied to a person's temperament or an expression of it; in this sense it means _even-tempered_, _tranquil_. \n\"We need someone with an EQUABLE disposition-someone who won't fly off the handle if something goes wrong.\" \n\"The teacher's EQUABLE manner in turn made her students relaxed and happy.\" \nFair-minded is a more common choice in the Pretest than the correct answer, _even-tempered_, due to confusion between EQUABLE and _equitable_."
+        "deftext": "even-tempered, steady, unvarying \nEQUABLE comes from the Latin word for _equal_. EQUABLE's general meaning is _steady_, _uniform_. \n\"He wants an EQUABLE climate where he won't have to worry about extremes in temperature.\" \nIt is most often applied to a person's temperament or an expression of it; in this sense it means _even-tempered_, _tranquil_. \n\"We need someone with an EQUABLE disposition—someone who won't fly off the handle if something goes wrong.\" \n\"The teacher's EQUABLE manner in turn made her students relaxed and happy.\" \nFair-minded is a more common choice in the Pretest than the correct answer, _even-tempered_, due to confusion between EQUABLE and _equitable_."
       },
       "APOCRYPHAL": {
         "word": "APOCRYPHAL",
@@ -7842,7 +7843,7 @@
         "word": "REFULGENT",
         "phonetic": "(ri-fuhl",
         "pos": "adj.",
-        "deftext": "gleaming, radiant, brilliant \nThe _fulg_ part of REFULGENT comes from a Latin word meaning to _shine_. This root is also found in the English word _effulgent_, which has much the same meaning as REFULGENT. REFULGENT means \"shining brightly, brilliantly resplendent.\" \n\"Her REFULGENT jewels glittered in the candle- light.\" \n\"The REFULGENT new cars gleamed as the salesman led us through the lot.\" \n_Swelling_ is by far the most commonly chosen wrong answer, probably due to the similarity of the _fulge_ sound to the word _bulge_. \nOther forms of the word: REFULGENCE, n. REFULGENCY, n."
+        "deftext": "gleaming, radiant, brilliant \nThe _fulg_ part of REFULGENT comes from a Latin word meaning to _shine_. This root is also found in the English word _effulgent_, which has much the same meaning as REFULGENT. REFULGENT means \"shining brightly, brilliantly resplendent.\" \n\"Her REFULGENT jewels glittered in the candlelight.\" \n\"The REFULGENT new cars gleamed as the salesman led us through the lot.\" \n_Swelling_ is by far the most commonly chosen wrong answer, probably due to the similarity of the _fulge_ sound to the word _bulge_. \nOther forms of the word: REFULGENCE, n. REFULGENCY, n."
       },
       "MERETRICIOUS": {
         "word": "MERETRICIOUS",
