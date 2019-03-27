@@ -20,6 +20,7 @@ export default class FillInTheBlank extends Component {
         {/* show score component on the checked answer */}
         {this.props.showAnswers &&
           <Score
+            type={this.props.type}
             altAnswer={this.props.altAnswer}
             chosenAnswer={this.props.value}
             correctAnswer={this.props.correctAnswer}

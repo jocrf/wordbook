@@ -96,6 +96,7 @@ export default class Exercise extends Component {
       <React.Fragment key={question.prompt + question.answer}>
         <Question
           type={type}
+          id={this.props.id}
           part1={question.part1}
           part2={question.part2}
           wordlist={this.props.wordlist}

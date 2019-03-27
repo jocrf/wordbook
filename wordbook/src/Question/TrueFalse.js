@@ -23,6 +23,7 @@ export default class TrueFalse extends Component {
             <Score
               chosenAnswer={this.props.value}
               correctAnswer={this.props.correctAnswer}
+              type={this.props.type}
             />
           }
         </div>
@@ -34,6 +35,7 @@ export default class TrueFalse extends Component {
             <div className='form-check form-check-inline'>
               <Input
                 option='true'
+                id={this.props.id}
                 prompt={this.props.prompt}
                 chosenAnswer={this.props.value}
                 showAnswers={this.props.showAnswers}
@@ -43,6 +45,7 @@ export default class TrueFalse extends Component {
             <div className='form-check form-check-inline'>
               <Input
                 option='false'
+                id={this.props.id}
                 prompt={this.props.prompt}
                 chosenAnswer={this.props.value}
                 showAnswers={this.props.showAnswers}
