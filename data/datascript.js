@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const lev = require('fast-levenshtein');
 
-const levelNum = 1;
+const levelNum = 7;
 
 const level = require(`./copyedited-json/level-${levelNum}-trial`);
 

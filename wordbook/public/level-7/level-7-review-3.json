@@ -24,7 +24,7 @@
     {
       "word": "CHOLERIC",
       "answer": "choleric",
-      "alternate": "peevish or petulant"
+      "alternate": "peevish"
     },
     {
       "word": "CHURLISH",
@@ -131,12 +131,7 @@
     {
       "word": "PEEVISH",
       "answer": "peevish",
-      "alternate": "petulant or choleric"
-    },
-    {
-      "word": "PETULANT",
-      "answer": "petulant",
-      "alternate": "peevish or obstreperous"
+      "alternate": "choleric"
     },
     {
       "word": "PORTEND",
@@ -181,6 +176,10 @@
     {
       "word": "TIMOROUS",
       "answer": "timorous"
+    },
+    {
+      "word": "TRAVESTY",
+      "answer": "travesty"
     },
     {
       "word": "VOCIFEROUS",
@@ -353,11 +352,10 @@
       "word": "DOLOROUS"
     },
     {
-      "part1": "The",
-      "part2": "child cried and complained whenever he didn't get his own way.",
-      "alternate": "peevish or obstreperous",
-      "correct": "petulant",
-      "word": "PETULANT"
+      "part1": "Critics slandered the film, saying it made a",
+      "part2": "of a serious historical event.",
+      "correct": "travesty",
+      "word": "TRAVESTY"
     },
     {
       "part1": "The wine was bitter but",
@@ -368,7 +366,7 @@
     {
       "part1": "The",
       "part2": "lady complained constantly about everything.",
-      "alternate": "petulant or choleric",
+      "alternate": "choleric",
       "correct": "peevish",
       "word": "PEEVISH"
     },
@@ -413,7 +411,7 @@
     {
       "part1": "The",
       "part2": "man would explode with anger at the slightest provocation.",
-      "alternate": "peevish or petulant",
+      "alternate": "peevish",
       "correct": "choleric",
       "word": "CHOLERIC"
     },

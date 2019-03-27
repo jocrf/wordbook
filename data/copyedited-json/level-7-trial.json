@@ -4814,16 +4814,16 @@
           "correct": "weariness"
         },
         {
-          "prompt": "PETULANT",
+          "prompt": "TRAVESTY",
           "answers": [
-            "quick",
-            "friendly",
-            "popular",
-            "irritable",
-            "cunning"
+            "duty",
+            "caricature",
+            "ceremony",
+            "consequence",
+            "characteristic"
           ],
-          "word": "PETULANT",
-          "correct": "irritable"
+          "word": "TRAVESTY",
+          "correct": "caricature"
         },
         {
           "prompt": "REVERIE",
@@ -4928,9 +4928,9 @@
           "correct": "true"
         },
         {
-          "prompt": "Is it easy to get along with a PETULANT person?",
-          "word": "PETULANT",
-          "correct": "false"
+          "prompt": "Can a TRAVESTY be jocose?",
+          "word": "TRAVESTY",
+          "correct": "true"
         },
         {
           "prompt": "Is a REVERIE loud?",
@@ -5007,9 +5007,9 @@
           "correct": "false"
         },
         {
-          "prompt": "I'm not PETULANT; I just have high standards, and I get angry when people don't meet them.",
-          "word": "PETULANT",
-          "correct": "true"
+          "prompt": "The news headlines referred to the devastating earthquake as a TRAVESTY.",
+          "word": "TRAVESTY",
+          "correct": "false"
         },
         {
           "prompt": "In solemn REVERIE he begged God to forgive his sins.",
@@ -5136,14 +5136,14 @@
           "correct": "0"
         },
         {
-          "prompt": "PETULANT",
+          "prompt": "TRAVESTY",
           "answers": [
-            "irritable",
-            "sad",
-            "peevish"
+            "mockery",
+            "burlesque",
+            "disaster"
           ],
-          "word": "PETULANT",
-          "correct": "1"
+          "word": "TRAVESTY",
+          "correct": "2"
         },
         {
           "prompt": "REVERIE",
@@ -5248,11 +5248,11 @@
         "pos": "n.",
         "deftext": "weariness, lethargy, languor, listlessness \nLASSITUDE is a state of weariness and inactivity, a lack of energy resulting from strain, overwork, a hot climate, or the like. \n\"Angela couldn't seem to overcome her LASSITUDE; all she wanted to do was lie in bed.\" \n\"After the long baseball season the player gave way to a strong feeling of LASSITUDE.\" \n\"The muggy, tropical climate induced an overpowering LASSITUDE that made it difficult to work.\""
       },
-      "PETULANT": {
-        "word": "PETULANT",
+      "TRAVESTY": {
+        "word": "TRAVESTY",
         "phonetic": "(pech'-U-1::int)",
-        "pos": "adj.",
-        "deftext": "irritable, peevish, ill-tempered \nPETULANT means peevish, \"easily upset or angered,\" like a spoiled child who doesn't get his or her own way. \n\"The PETULANT actress became angry every time the director made a suggestion.\" \n\"Bob complained PETULANTLY that everyone else always got dessert before he did.\" \n\"Rich knew from her PETULANT refusal to greet him that she was angry with him again.\" \nOther forms of the word: PETULANCE, n."
+        "pos": "n.",
+        "deftext": "a false, absurd, or distorted representation of something; caricature \nTRAVESTY comes from the Latin words _trans_, meaning _across_, and _vestire_, meaning _to clothe_. _Transvestite_, meaning _cross-dresser_, comes from these same roots. \n\"The newspaper article claimed that the botched legal proceeding was a travesty of justice.\" \n\"Many people consider \"The Book of Mormon\" to be a brilliant travesty of religion.\" \nTRAVESTY can also be a verb meaning to _represent in a false or distorted way_. \n\"The students performed a skit travestying their drama teacher’s eccentricities.\" \nThe most common wrong answer is _consequence_, perhaps because of confusion with _tragedy_."
       },
       "REVERIE": {
         "word": "REVERIE",
@@ -5911,7 +5911,7 @@
         "CHOLERIC",
         "EBULLIENCE",
         "NOXIOUS",
-        "PETULANT",
+        "TRAVESTY",
         "VOCIFEROUS",
         "DILATE",
         "FLACCID",
@@ -6056,10 +6056,9 @@
           "answer": "dolorous"
         },
         {
-          "part1": "The",
-          "part2": "child cried and complained whenever he didn't get his own way.",
-          "answer": "petulant",
-          "alternate": "peevish or obstreperous"
+          "part1": "Critics slandered the film, saying it made a",
+          "part2": "of a serious historical event.",
+          "answer": "travesty"
         },
         {
           "part1": "The wine was bitter but",
@@ -6070,7 +6069,7 @@
           "part1": "The",
           "part2": "lady complained constantly about everything.",
           "answer": "peevish",
-          "alternate": "petulant or choleric"
+          "alternate": "choleric"
         },
         {
           "part1": "The",
@@ -6108,7 +6107,7 @@
           "part1": "The",
           "part2": "man would explode with anger at the slightest provocation.",
           "answer": "choleric",
-          "alternate": "peevish or petulant"
+          "alternate": "peevish"
         },
         {
           "part1": "The",
