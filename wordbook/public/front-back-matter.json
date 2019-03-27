@@ -14,16 +14,16 @@
       "1": {
         "id": 1,
         "title": "Exercise 1",
-        "instructions": "Answer each question with a TRUE or FALSE.",
+        "instructions": "Answer each question with a YES or NO.",
         "example": "Is a speck of dust TINY?",
-        "example-answer": "FALSE"
+        "example-answer": "YES"
       },
       "2": {
         "id": 2,
         "title": "Exercise 2",
-        "instructions": "Each sentence contains a test word in CAPITAL letters. Decide whether the test word is being used correctly (TRUE) or incorrectly (FALSE) in the sentence.",
+        "instructions": "Each sentence contains a test word in CAPITAL letters. Decide whether the test word is being used correctly (RIGHT) or incorrectly (WRONG) in the sentence.",
         "example": "After working hard all day Bill felt TINY and wanted to sleep.",
-        "example-answer": "FALSE"
+        "example-answer": "WRONG"
       },
       "3": {
         "id": 3,
