@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const lev = require('fast-levenshtein');
 
-const levelNum = 8;
+const levelNum = 7;
 
 const level = require(`./copyedited-json/level-${levelNum}-trial`);
 
@@ -77,10 +77,14 @@ newLevel.sections.forEach(function (section) {
     });
     const correctQuestion = scoredQuestions.sort((a, b) => a.distance - b.distance)[0].question;
     correctQuestion.word = word;
-    modWordList.push({
+    let answerObj = {
       word: word,
       answer: correctQuestion.correct
-    });
+    };
+    if (correctQuestion.alternate) {
+      answerObj.alternate = correctQuestion.alternate;
+    }
+    modWordList.push(answerObj);
   });
   section.reviewTest.wordList = modWordList;
 });

@@ -11,7 +11,7 @@
       "word": "OUTLANDISH",
       "phonetic": "(owt-lan'-dish)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">strange, bizarre, ridiculous </p><p> OUTLAND is a rare word for a foreign land or country-a land that is outside your own. Something that it OUTLANDISH has a foreign or unfamiliar appearance or quality. It is strange, bizarre, exotic. </p><p>“She dressed in OUTLANDISH clothing just to shock people.” </p><p>“He had some OUTLANDISH ideas about flying saucers.” </p><p>“They made some OUTLANDISH suggestions about how to improve television.”</p>",
+      "deftext": "<p class=\"definition\">strange, bizarre, ridiculous </p><p> OUTLAND is a rare word for a foreign land or country—a land that is outside your own. Something that it OUTLANDISH has a foreign or unfamiliar appearance or quality. It is strange, bizarre, exotic. </p><p>“She dressed in OUTLANDISH clothing just to shock people.” </p><p>“He had some OUTLANDISH ideas about flying saucers.” </p><p>“They made some OUTLANDISH suggestions about how to improve television.”</p>",
       "suffix": [
         "See <i class=“def-ital\">-ish</i> under Suffixes."
       ]
@@ -62,7 +62,7 @@
       "word": "CANINE",
       "phonetic": "(kA'-nln)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">of or relating to dogs </p><p>CANINE means “of or like a dog.” </p><p>“A human’s CANINE teeth are pointed, like a dog’s teeth.” </p><p>“He followed his older brother around all day with CANINE devotion\"-that is, he followed him like a dog following its master. CANINE is also a noun, meaning <i class=“def-ital\">dog</i> or “member of the dog family.” </p><p>“Poodles, collies, and terriers are all CANINES.” </p><p>“The fox is the only CANINE that can climb a tree.” </p><p>The most popular wrong answer on the Pretest is <i class=“def-ital\">cat</i>. The word which means “of or like a cat” is <i class=“def-ital\">feline</i>, not CANINE.</p>"
+      "deftext": "<p class=\"definition\">of or relating to dogs </p><p>CANINE means “of or like a dog.” </p><p>“A human’s CANINE teeth are pointed, like a dog’s teeth.” </p><p>“He followed his older brother around all day with CANINE devotion\"—that is, he followed him like a dog following its master. CANINE is also a noun, meaning <i class=“def-ital\">dog</i> or “member of the dog family.” </p><p>“Poodles, collies, and terriers are all CANINES.” </p><p>“The fox is the only CANINE that can climb a tree.” </p><p>The most popular wrong answer on the Pretest is <i class=“def-ital\">cat</i>. The word which means “of or like a cat” is <i class=“def-ital\">feline</i>, not CANINE.</p>"
     },
     "PLACID": {
       "word": "PLACID",
@@ -74,7 +74,7 @@
       "word": "ELAPSE",
       "phonetic": "(i-laps')",
       "pos": "v.",
-      "deftext": "<p class=\"definition\">to pass, slip by, glide by </p><p>ELAPSE is almost always used about time. It means simply to <i class=“def-ital\">pass</i>, to <i class=“def-ital\">go by</i>. </p><p>“Twenty seconds ELAPSED between the two shots\"- that is, the shots came twenty seconds apart. </p><p>“He returned after six months had ELAPSED.” </p><p>ELAPSE should not be confused with the similar verb <i class=“def-ital\">lapse</i>, which can be used about time, but it is more commonly used to mean “to fall into error” or “to go out of existence.” You can say “The insurance policy <i class=“def-ital\">lapsed</i>\"; it doesn’t make sense, however, to say “The insurance policy ELAPSED.”</p>"
+      "deftext": "<p class=\"definition\">to pass, slip by, glide by </p><p>ELAPSE is almost always used about time. It means simply to <i class=“def-ital\">pass</i>, to <i class=“def-ital\">go by</i>. </p><p>“Twenty seconds ELAPSED between the two shots\"—that is, the shots came twenty seconds apart. </p><p>“He returned after six months had ELAPSED.” </p><p>ELAPSE should not be confused with the similar verb <i class=“def-ital\">lapse</i>, which can be used about time, but it is more commonly used to mean “to fall into error” or “to go out of existence.” You can say “The insurance policy <i class=“def-ital\">lapsed</i>\"; it doesn’t make sense, however, to say “The insurance policy ELAPSED.”</p>"
     },
     "UPHOLD": {
       "word": "UPHOLD",
@@ -441,7 +441,7 @@
           "correct": "true"
         },
         {
-          "prompt": "She was very MONOTONOUS with the children--always telling them jokes and thinking up games for them to play.",
+          "prompt": "She was very MONOTONOUS with the children—always telling them jokes and thinking up games for them to play.",
           "word": "MONOTONOUS",
           "correct": "false"
         },

@@ -162,7 +162,8 @@
     },
     {
       "word": "TENDENTIOUS",
-      "answer": "tendentious or fulsome"
+      "answer": "tendentious",
+      "alternate": "fulsome"
     },
     {
       "word": "TENEBROUS",
@@ -251,7 +252,8 @@
     {
       "part1": "The",
       "part2": "brochure made the congressman sound like another Abraham Lincoln.",
-      "correct": "tendentious or fulsome",
+      "alternate": "fulsome",
+      "correct": "tendentious",
       "word": "TENDENTIOUS"
     },
     {

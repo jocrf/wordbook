@@ -184,7 +184,7 @@
   "questions": [
     {
       "part1": "The good-natured",
-      "part2": "between the two friends was witty but affectionate.",
+      "part2": "between the two friends was sarcastic but affectionate.",
       "correct": "raillery",
       "word": "RAILLERY"
     },
@@ -352,7 +352,7 @@
     },
     {
       "part1": "The playful",
-      "part2": "between the good friends couldn't disguise their true liking for each other.",
+      "part2": "between the siblings couldn't disguise their true liking for each other.",
       "correct": "badinage",
       "word": "BADINAGE"
     },

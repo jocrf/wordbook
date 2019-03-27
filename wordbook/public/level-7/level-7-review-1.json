@@ -42,7 +42,8 @@
     },
     {
       "word": "COPIOUS",
-      "answer": "copious or inordinate"
+      "answer": "copious",
+      "alternate": "inordinate"
     },
     {
       "word": "CORPULENT",
@@ -281,7 +282,8 @@
     {
       "part1": "Mary puts",
       "part2": "amounts of catsup on everything she eats.",
-      "correct": "copious or inordinate",
+      "alternate": "inordinate",
+      "correct": "copious",
       "word": "COPIOUS"
     },
     {

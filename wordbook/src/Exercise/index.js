@@ -103,6 +103,7 @@ export default class Exercise extends Component {
           reviewPrompt={reviewPrompt}
           options={question.answers}
           correctAnswer={type === 'mc-all' ? question.answers[question.correct] : question.correct}
+          altAnswer={question.alternate}
           onChange={this.changeHandler}
           placement={this.props.placement}
           markWrongAnswers={this.props.markWrongAnswers} // for placement

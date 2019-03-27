@@ -98,7 +98,7 @@
     },
     {
       "word": "LACHRYMOSE",
-      "answer": "lachrymose or lugubrious"
+      "answer": "lachrymose"
     },
     {
       "word": "LUGUBRIOUS",
@@ -134,7 +134,7 @@
     },
     {
       "word": "PLAINTIVE",
-      "answer": "plaintive or lugubrious"
+      "answer": "plaintive"
     },
     {
       "word": "PREVARICATE",
@@ -197,7 +197,7 @@
     {
       "part1": "The",
       "part2": "movie had everyone in the audience in tears.",
-      "correct": "lachrymose or lugubrious",
+      "correct": "lachrymose",
       "word": "LACHRYMOSE"
     },
     {
@@ -215,7 +215,7 @@
     {
       "part1": "We rushed outside when we heard the",
       "part2": "whimpering of the injured puppy.",
-      "correct": "plaintive or lugubrious",
+      "correct": "plaintive",
       "word": "PLAINTIVE"
     },
     {

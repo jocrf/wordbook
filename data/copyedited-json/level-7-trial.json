@@ -502,7 +502,7 @@
         "word": "ABASE",
         "phonetic": "(ÔøΩbAs')",
         "pos": "v.",
-        "deftext": "to degrade, humiliate, demean, humble \nABASE comes from the same Latin word as the adjective _base_, meaning _low_. To ABASE is to lower in rank or es- teem, to degrade. \n\"We do not feel that doing manual work ABASES us.\" \nThe word is usually used reflexively-that is, in such phrases as \"ABASE myself\" and \"ABASE themselves.\" \n\"The mayor refused to ABASE himself by trading insults with his opponent.\" \n\"I think she ABASED herself by agreeing to wear that silly costume in the show.\" \nOther forms of the word: ABASEMENT, n."
+        "deftext": "to degrade, humiliate, demean, humble \nABASE comes from the same Latin word as the adjective _base_, meaning _low_. To ABASE is to lower in rank or esteem, to degrade. \n\"We do not feel that doing manual work ABASES us.\" \nThe word is usually used reflexively—that is, in such phrases as \"ABASE myself\" and \"ABASE themselves.\" \n\"The mayor refused to ABASE himself by trading insults with his opponent.\" \n\"I think she ABASED herself by agreeing to wear that silly costume in the show.\" \nOther forms of the word: ABASEMENT, n."
       },
       "MALIGN": {
         "word": "MALIGN",
@@ -526,7 +526,7 @@
         "word": "INSOLVENT",
         "phonetic": "(in-sol'-vQnt)",
         "pos": "adj.",
-        "deftext": "bankrupt \nINSOLVENT is the combination of _solvent_, meaning \"able to meet financial obligations,\" and the prefix in-, meaning _not_. Thus INSOLVENT means \"unable to meet financial obligations,\" _bankrupt_. \n\"The INSOLVENT corporation owed its employees thousands of dollars in back pay.\" \n\"Bob told the bank he couldn't start paying off the loan because he was INSOLVENT.\" \nOther forms of the word: INSOLVENCY, n."
+        "deftext": "bankrupt \nINSOLVENT is the combination of _solvent_, meaning \"able to meet financial obligations,\" and the prefix _in-_, meaning _not_. Thus INSOLVENT means \"unable to meet financial obligations,\" _bankrupt_. \n\"The INSOLVENT corporation owed its employees thousands of dollars in back pay.\" \n\"Bob told the bank he couldn't start paying off the loan because he was INSOLVENT.\" \nOther forms of the word: INSOLVENCY, n."
       },
       "RESPITE": {
         "word": "RESPITE",
@@ -574,7 +574,7 @@
         "word": "CONDUCIVE",
         "phonetic": "(k:m-dU'-siv",
         "pos": "adj.",
-        "deftext": "favorable, helpful, promoting \nCONDUCIVE means _promoting_, _favorable_. The Latin root _duc_ means _lead_; it is also found in such words as _produce_ and _induce_. See _con_- under Prefixes. The adjective CONDUCIVE is always used with _to_. \n\"A glass of hot milk at bedtime is often CONDUCIVE to sleep.\" \n\"Ron found that the stress of his new job was not CONDUCIVE to domestic bliss: he yelled at his wife and children almost every evening.\""
+        "deftext": "favorable, helpful, promoting \nCONDUCIVE means _promoting_, _favorable_. The Latin root _duc_ means _lead_; it is also found in such words as _produce_ and _induce_. See _con-_ under Prefixes. The adjective CONDUCIVE is always used with _to_. \n\"A glass of hot milk at bedtime is often CONDUCIVE to sleep.\" \n\"Ron found that the stress of his new job was not CONDUCIVE to domestic bliss: he yelled at his wife and children almost every evening.\""
       },
       "DISCONCERT": {
         "word": "DISCONCERT",
@@ -1903,7 +1903,8 @@
         {
           "part1": "Mary puts",
           "part2": "amounts of catsup on everything she eats.",
-          "answer": "copious or inordinate"
+          "answer": "copious",
+          "alternate": "inordinate"
         },
         {
           "part1": "The mayor's enemies",
@@ -2901,8 +2902,7 @@
           "prompt": "Can cheeks DISTEND?",
           "word": "DISTEND",
           "correct": "true"
-        },
-        {}
+        }
       ]
     },
     "exercise_2": {
@@ -3504,7 +3504,7 @@
           "correct": "true"
         },
         {
-          "prompt": "The play's director left nothing-not even Hamlet's soliloquies-INVIOLATE.",
+          "prompt": "The play's director left nothing—not even Hamlet's soliloquies—INVIOLATE.",
           "word": "INVIOLATE",
           "correct": "true"
         },
@@ -3514,7 +3514,7 @@
           "correct": "true"
         },
         {
-          "prompt": "The students rented a Rolls-Royce so that they would arrive at the prom with PANACHE.",
+          "prompt": "The students rented a Rolls Royce so that they would arrive at the prom with PANACHE.",
           "word": "PANACHE",
           "correct": "true"
         },
@@ -3734,7 +3734,7 @@
         "word": "INTIMATION",
         "phonetic": "(in-ta-mA'-shÔøΩn)",
         "pos": "n.",
-        "deftext": "a suggestion, hint \nTo INTIMATE (in'-tQ-mAt) something is to communicate it subtly and indirectly, usually in order to be discreet rather than to be misleading. \n\"Janice INTIMATED that she might be busy that night and that Bill should find another date for the party.\" \nINTIMATION is the noun form of INTIMATE. \n\"There was no INTIMATION of wrongdoing in the report; it merely stated that standard procedures had not been followed.\" \n\"We were all worried by the INTIMATION that John's inquiry was more serious than we had thought.\" \nOther forms of the word: INTIMATE, v."
+        "deftext": "a suggestion, hint \nTo INTIMATE something is to communicate it subtly and indirectly, usually in order to be discreet rather than to be misleading. \n\"Janice INTIMATED that she might be busy that night and that Bill should find another date for the party.\" \nINTIMATION is the noun form of INTIMATE. \n\"There was no INTIMATION of wrongdoing in the report; it merely stated that standard procedures had not been followed.\" \n\"We were all worried by the INTIMATION that John's inquiry was more serious than we had thought.\" \nOther forms of the word: INTIMATE, v."
       },
       "INVIOLATE": {
         "word": "INVIOLATE",
@@ -3758,7 +3758,7 @@
         "word": "PARRY",
         "phonetic": "(par'-E)",
         "pos": "v.",
-        "deftext": "to ward off, deflect, evade \nTo PARRY something-a blow or a thrust with a sword, for example-is to ward it off. \n\"The boxer was unable to PARRY his opponent's barrage of jabs.\" \n\"The fencer easily PARRIED his opponent's feeble thrusts.\" \nPARRY is often used about nonphysical kinds of warding off. \n\"The politician skillfully PARRIED the reporter's probing questions.\" \n\"It is useless to try to PARRY his demands; let's just give in to them.\" \nPARRY is also a noun. \n\"The president was an expert in the thrust and PARRY of these press conferences.\""
+        "deftext": "to ward off, deflect, evade \nTo PARRY something—a blow or a thrust with a sword, for example—is to ward it off. \n\"The boxer was unable to PARRY his opponent's barrage of jabs.\" \n\"The fencer easily PARRIED his opponent's feeble thrusts.\" \nPARRY is often used about nonphysical kinds of warding off. \n\"The politician skillfully PARRIED the reporter's probing questions.\" \n\"It is useless to try to PARRY his demands; let's just give in to them.\" \nPARRY is also a noun. \n\"The president was an expert in the thrust and PARRY of these press conferences.\""
       },
       "SURREPTITIOUS": {
         "word": "SURREPTITIOUS",
@@ -3782,7 +3782,7 @@
         "word": "PECUNIARY",
         "phonetic": "(pi-kyU'-nE-er-E)",
         "pos": "adj.",
-        "deftext": "monetary, financial \nPECUNIARY comes from the Latin word for _money_, also the source of the word _impecunious_, which means \"lacking money.\" PECUNIARY means \"relating to or consisting of money.\" \nIt is usually used with reference to small- scale or practical matters dealing with money. \n\"Alice didn't help us out of friendship but from a PECUNIARY motive-she knew we would pay her.\" \n\"There is psychological satisfaction to be gained from this job, but the PECUNIARY rewards are slight.\" \n\"Mr. Micawber was always optimistic despite his PECUNIARY difficulties.\""
+        "deftext": "monetary, financial \nPECUNIARY comes from the Latin word for _money_, also the source of the word _impecunious_, which means \"lacking money.\" PECUNIARY means \"relating to or consisting of money.\" \nIt is usually used with reference to small-scale or practical matters dealing with money. \n\"Alice didn't help us out of friendship but from a PECUNIARY motive—she knew we would pay her.\" \n\"There is psychological satisfaction to be gained from this job, but the PECUNIARY rewards are slight.\" \n\"Mr. Micawber was always optimistic despite his PECUNIARY difficulties.\""
       },
       "PROVISO": {
         "word": "PROVISO",
@@ -4655,7 +4655,7 @@
         "word": "AMBIENCE",
         "phonetic": "(am'-bE-ÔøΩns)",
         "pos": "n.",
-        "deftext": "environment, milieu \nAMBIENCE is often spelled AMBIANCE. AMBIENCE comes from the French and occasionally keeps its French pronunciation: om-byons'. \nThe latin prefix _ambi-_ means _on both sides_, _around_. It is found in the word _ambidextrous_, which means \"able to use both hands equally well.\" AMBIENCE means \"the surrounding atmosphere,\" the _environment_ or _milieu_. \n\"Gerald flourished in the challenging intellectual AMBIENCE of the Ivy League school.\" \n\"The decor and the soft lighting create a pleasant, intimate AMBIENCE in the restaurant.\" \n\"The meeting took place in an AMBIENCE of hostility and mutual resentment.\""
+        "deftext": "environment, milieu \nAMBIENCE is often spelled AMBIANCE. AMBIENCE comes from the French and occasionally keeps its French pronunciation. \nThe latin prefix _ambi-_ means _on both sides_, _around_. It is found in the word _ambidextrous_, which means \"able to use both hands equally well.\" AMBIENCE means \"the surrounding atmosphere,\" the _environment_ or _milieu_. \n\"Gerald flourished in the challenging intellectual AMBIENCE of the Ivy League school.\" \n\"The decor and the soft lighting create a pleasant, intimate AMBIENCE in the restaurant.\" \n\"The meeting took place in an AMBIENCE of hostility and mutual resentment.\""
       },
       "CATACLYSM": {
         "word": "CATACLYSM",
@@ -4814,16 +4814,16 @@
           "correct": "weariness"
         },
         {
-          "prompt": "PETULANT",
+          "prompt": "TRAVESTY",
           "answers": [
-            "quick",
-            "friendly",
-            "popular",
-            "irritable",
-            "cunning"
+            "duty",
+            "caricature",
+            "ceremony",
+            "consequence",
+            "characteristic"
           ],
-          "word": "PETULANT",
-          "correct": "irritable"
+          "word": "TRAVESTY",
+          "correct": "caricature"
         },
         {
           "prompt": "REVERIE",
@@ -4928,9 +4928,9 @@
           "correct": "true"
         },
         {
-          "prompt": "Is it easy to get along with a PETULANT person?",
-          "word": "PETULANT",
-          "correct": "false"
+          "prompt": "Can a TRAVESTY be jocose?",
+          "word": "TRAVESTY",
+          "correct": "true"
         },
         {
           "prompt": "Is a REVERIE loud?",
@@ -5007,9 +5007,9 @@
           "correct": "false"
         },
         {
-          "prompt": "I'm not PETULANT; I just have high standards, and I get angry when people don't meet them.",
-          "word": "PETULANT",
-          "correct": "true"
+          "prompt": "The news headlines referred to the devastating earthquake as a TRAVESTY.",
+          "word": "TRAVESTY",
+          "correct": "false"
         },
         {
           "prompt": "In solemn REVERIE he begged God to forgive his sins.",
@@ -5136,14 +5136,14 @@
           "correct": "0"
         },
         {
-          "prompt": "PETULANT",
+          "prompt": "TRAVESTY",
           "answers": [
-            "irritable",
-            "sad",
-            "peevish"
+            "mockery",
+            "burlesque",
+            "disaster"
           ],
-          "word": "PETULANT",
-          "correct": "1"
+          "word": "TRAVESTY",
+          "correct": "2"
         },
         {
           "prompt": "REVERIE",
@@ -5210,7 +5210,7 @@
         "word": "OBSEQUIOUS",
         "phonetic": "(ob-sE'-kwE-as)",
         "pos": "adj.",
-        "deftext": "fawning, servile \nOBSEQUIOUS means \"excessively polite.\" The word usually has a negative connotation and suggests flattery and groveling, although it may only suggest extreme obedience and attentiveness. \n\"The boss didn't like OBSEQUIOUS employees who would constantly open doors for him and compliment his ideas.\" \n\"The service at the restaurant was friendly but not OBSEQUIOUS.\" \n\"The OBSEQUIOUS servants said that nothing would give them more pleasure than to do our bidding.\" \nCrafty is more popular than the correct answer-_fawning_-on the Pretest, perhaps because OBSEQUIOUS people often seem to be up to something with their insincere flattery; or _crafty_ may be chosen because of confusion with the word _devious_."
+        "deftext": "fawning, servile \nOBSEQUIOUS means \"excessively polite.\" The word usually has a negative connotation and suggests flattery and groveling, although it may only suggest extreme obedience and attentiveness. \n\"The boss didn't like OBSEQUIOUS employees who would constantly open doors for him and compliment his ideas.\" \n\"The service at the restaurant was friendly but not OBSEQUIOUS.\" \n\"The OBSEQUIOUS servants said that nothing would give them more pleasure than to do our bidding.\" \nCrafty is more popular than the correct answer—_fawning_—on the Pretest, perhaps because OBSEQUIOUS people often seem to be up to something with their insincere flattery; or _crafty_ may be chosen because of confusion with the word _devious_."
       },
       "REMUNERATE": {
         "word": "REMUNERATE",
@@ -5248,11 +5248,11 @@
         "pos": "n.",
         "deftext": "weariness, lethargy, languor, listlessness \nLASSITUDE is a state of weariness and inactivity, a lack of energy resulting from strain, overwork, a hot climate, or the like. \n\"Angela couldn't seem to overcome her LASSITUDE; all she wanted to do was lie in bed.\" \n\"After the long baseball season the player gave way to a strong feeling of LASSITUDE.\" \n\"The muggy, tropical climate induced an overpowering LASSITUDE that made it difficult to work.\""
       },
-      "PETULANT": {
-        "word": "PETULANT",
+      "TRAVESTY": {
+        "word": "TRAVESTY",
         "phonetic": "(pech'-U-1::int)",
-        "pos": "adj.",
-        "deftext": "irritable, peevish, ill-tempered \nPETULANT means peevish, \"easily upset or angered,\" like a spoiled child who doesn't get his or her own way. \n\"The PETULANT actress became angry every time the director made a suggestion.\" \n\"Bob complained PETULANTLY that everyone else always got dessert before he did.\" \n\"Rich knew from her PETULANT refusal to greet him that she was angry with him again.\" \nOther forms of the word: PETULANCE, n."
+        "pos": "n.",
+        "deftext": "a false, absurd, or distorted representation of something; caricature \nTRAVESTY comes from the Latin words _trans_, meaning _across_, and _vestire_, meaning _to clothe_. _Transvestite_, meaning _cross-dresser_, comes from these same roots. \n\"The newspaper article claimed that the botched legal proceeding was a travesty of justice.\" \n\"Many people consider \"The Book of Mormon\" to be a brilliant travesty of religion.\" \nTRAVESTY can also be a verb meaning to _represent in a false or distorted way_. \n\"The students performed a skit travestying their drama teacher’s eccentricities.\" \nThe most common wrong answer is _consequence_, perhaps because of confusion with _tragedy_."
       },
       "REVERIE": {
         "word": "REVERIE",
@@ -5911,7 +5911,7 @@
         "CHOLERIC",
         "EBULLIENCE",
         "NOXIOUS",
-        "PETULANT",
+        "TRAVESTY",
         "VOCIFEROUS",
         "DILATE",
         "FLACCID",
@@ -6002,7 +6002,8 @@
         {
           "part1": "When Sally was overtired, she became",
           "part2": "and would snap at everyone.",
-          "answer": "fretful or churlish"
+          "answer": "fretful",
+          "alternate": "churlish"
         },
         {
           "part1": "Even though he had plenty of money, the",
@@ -6055,9 +6056,9 @@
           "answer": "dolorous"
         },
         {
-          "part1": "The",
-          "part2": "child cried and complained whenever he didn't get his own way.",
-          "answer": "petulant or peevish or obstreperous"
+          "part1": "Critics slandered the film, saying it made a",
+          "part2": "of a serious historical event.",
+          "answer": "travesty"
         },
         {
           "part1": "The wine was bitter but",
@@ -6067,17 +6068,20 @@
         {
           "part1": "The",
           "part2": "lady complained constantly about everything.",
-          "answer": "peevish or petulant or choleric"
+          "answer": "peevish",
+          "alternate": "choleric"
         },
         {
           "part1": "The",
           "part2": "audience started shouting and demanding their money back when the film projector broke.",
-          "answer": "vociferous or obstreperous"
+          "answer": "vociferous",
+          "alternate": "obstreperous"
         },
         {
           "part1": "Her",
           "part2": ", sunny disposition made it seem as if she didn't have a problem in the world.",
-          "answer": "blithe or ebullient"
+          "answer": "blithe",
+          "alternate": "ebullient"
         },
         {
           "part1": "We listened with pleasure to the",
@@ -6085,7 +6089,7 @@
           "answer": "dulcet"
         },
         {
-          "part1": ". The sudden hundred-foot drop turned the peaceful river into a dangerous",
+          "part1": "The sudden hundred-foot drop turned the peaceful river into a dangerous",
           "part2": ".",
           "answer": "cataract"
         },
@@ -6102,12 +6106,14 @@
         {
           "part1": "The",
           "part2": "man would explode with anger at the slightest provocation.",
-          "answer": "choleric or peevish or petulant"
+          "answer": "choleric",
+          "alternate": "peevish"
         },
         {
           "part1": "The",
           "part2": "spectators became so loud and unruly that the quarterback couldn't be heard by his team.",
-          "answer": "obstreperous or vociferous"
+          "answer": "obstreperous",
+          "alternate": "vociferous"
         },
         {
           "part1": "The Red Cross said there was a(n)",
@@ -6728,7 +6734,7 @@
         "word": "EXTANT",
         "phonetic": "(ek'-stQnt",
         "pos": "adj.",
-        "deftext": "still existing, not lost or destroyed \nEXTANT means \"still in existence; not lost, destroyed, or exterminated.\" \n\"There are several different species of this fish EXTANT in the Caribbean.\" \nThe context often suggests that the things which are EXTANT are relatively rare-that most similar things do not still exist. \n\"The three EXTANT photographs of the man all show him with red hair.\" \n\"There is only one copy of the first edition of Shakespeare's play _Titus Andronicus_ EXTANT. It is in the Folger Library in Washington.\" The most popular wrong answer is _obsolete_, which is virtually an opposite of EXTANT."
+        "deftext": "still existing, not lost or destroyed \nEXTANT means \"still in existence; not lost, destroyed, or exterminated.\" \n\"There are several different species of this fish EXTANT in the Caribbean.\" \nThe context often suggests that the things which are EXTANT are relatively rare—that most similar things do not still exist. \n\"The three EXTANT photographs of the man all show him with red hair.\" \n\"There is only one copy of the first edition of Shakespeare's play _Titus Andronicus_ EXTANT. It is in the Folger Library in Washington.\" The most popular wrong answer is _obsolete_, which is virtually an opposite of EXTANT."
       },
       "FATUOUS": {
         "word": "FATUOUS",
@@ -7307,7 +7313,7 @@
         "word": "ANOMALY",
         "phonetic": "(ÔøΩnom'-ÔøΩIE)",
         "pos": "n.",
-        "deftext": "a deviation, irregularity, abnormality, inconsistency \nAn ANOMALY is something that isn't what it should be-something that deviates from what is normal or what is believed. \n\"A family without a telephone is an ANOMALY in the United States.\" \n\"The discovery of several ANOMALIES led scientists to revise their theory of how continents were formed.\" \nThe adjective from ANOMALY is ANOMALOUS, which means _abnormal_, _irregular_. \n\"The intellectual goalie was an ANOMALOUS figure in professional hockey.\" \nOther forms of the word: ANOMALOUS, adj."
+        "deftext": "a deviation, irregularity, abnormality, inconsistency \nAn ANOMALY is something that isn't what it should be—something that deviates from what is normal or what is believed. \n\"A family without a telephone is an ANOMALY in the United States.\" \n\"The discovery of several ANOMALIES led scientists to revise their theory of how continents were formed.\" \nThe adjective from ANOMALY is ANOMALOUS, which means _abnormal_, _irregular_. \n\"The intellectual goalie was an ANOMALOUS figure in professional hockey.\" \nOther forms of the word: ANOMALOUS, adj."
       },
       "FERAL": {
         "word": "FERAL",
@@ -7862,7 +7868,7 @@
         "word": "BENIGN",
         "phonetic": "(bi-nln')",
         "pos": "adj.",
-        "deftext": "kindly, gracious; favorable \nBENIGN comes from the Latin word _bene_, meaning _well_, also the source of the English words _benevolent_ and _beneficial_. BENIGN has two related meanings. The first is \"having a kind or gentle temperament.\" \n\"The BENIGN man simply smiled and put down his book when the children interrupted his reading.\" \n\"You certainly could not say that Adolf Hitler, the leader of Nazi Germany, was a BENIGN ruler.\" \nThe other meaning is _favorable_, _beneficial_. \n\"The older boy's good example had a BENIGN influence on the younger children.\" \nIn medicine, a BENIGN tumor is one that doesn't threaten one's health or life. In this sense, the opposite of BENIGN is _malignant_. By far the most popular wrong answer on the Pretest is _silent_, which may be one characteristic of a BENIGN person, but hardly the major one. \nOther forms of the word: BENIGNITY (b::i-nig'-nHE), n."
+        "deftext": "kindly, gracious; favorable \nBENIGN comes from the Latin word _bene_, meaning _well_, also the source of the English words _benevolent_ and _beneficial_. BENIGN has two related meanings. The first is \"having a kind or gentle temperament.\" \n\"The BENIGN man simply smiled and put down his book when the children interrupted his reading.\" \n\"You certainly could not say that Adolf Hitler, the leader of Nazi Germany, was a BENIGN ruler.\" \nThe other meaning is _favorable_, _beneficial_. \n\"The older boy's good example had a BENIGN influence on the younger children.\" \nIn medicine, a BENIGN tumor is one that doesn't threaten one's health or life. In this sense, the opposite of BENIGN is _malignant_. By far the most popular wrong answer on the Pretest is _silent_, which may be one characteristic of a BENIGN person, but hardly the major one. \nOther forms of the word: BENIGNITY, n."
       },
       "CREDULOUS": {
         "word": "CREDULOUS",
@@ -7874,7 +7880,7 @@
         "word": "PARADIGM",
         "phonetic": "(par'-ÔøΩdlm",
         "pos": " n.",
-        "deftext": "a model, example, pattern \nThe prefix _para-_ means \"alongside,\" as in the word _parallel_. The _digm_ part of PARADIGM comes from a Greek word meaning to _show_ or _display_. A PARADIGM is a model or pattern of something else. The word tends to have an academic or scientific flavor. \n\"In the classic conditioned-response PARADIGM, the dog that hears a bell ring whenever he receives food will eventually salivate when he hears the bell, even without receiving food.\" \n\"They were considered the PARADIGMS of artistic perfection.\" \n\"Shakespeare's Macbeth is a PARADIGM of the man destroyed by his ambition.\" \nThe most popular wrong answers are _story_ and _lesson_, perhaps suggested by the word _parable_. \nOther forms of the word: PARADIGMATIC (par-::i-dig- mat'-ikl, adj."
+        "deftext": "a model, example, pattern \nThe prefix _para-_ means \"alongside,\" as in the word _parallel_. The _digm_ part of PARADIGM comes from a Greek word meaning to _show_ or _display_. A PARADIGM is a model or pattern of something else. The word tends to have an academic or scientific flavor. \n\"In the classic conditioned-response PARADIGM, the dog that hears a bell ring whenever he receives food will eventually salivate when he hears the bell, even without receiving food.\" \n\"They were considered the PARADIGMS of artistic perfection.\" \n\"Shakespeare's Macbeth is a PARADIGM of the man destroyed by his ambition.\" \nThe most popular wrong answers are _story_ and _lesson_, perhaps suggested by the word _parable_. \nOther forms of the word: PARADIGMATIC, adj."
       },
       "SEQUESTER": {
         "word": "SEQUESTER",
@@ -7886,7 +7892,7 @@
         "word": "STODGY",
         "phonetic": "(stoj'-E)",
         "pos": "adj.",
-        "deftext": "dull, pompous, stuffy \nSTODGY comes from the word _stodge_, which is any thick food, like oatmeal. STODGY can mean _thick_ or _heavy_, like _stodge_, but it is usually used in an extended sense to mean _dull_, _stuffy_, \"lacking in humor or lightness.\" \n\"The STODGY teacher disapproved of students talking and laughing in the corridor.\" \n\"Susan thought the reception was terribly STODGY-just a bunch of serious people standing around, talking quietly.\" \n\"Classical music isn't always STODGY; some of it is quite exciting.\" \nThe difficulty people have with this word is thinking that it means _old_. An old person, of course, can be the very opposite of STODGY."
+        "deftext": "dull, pompous, stuffy \nSTODGY comes from the word _stodge_, which is any thick food, like oatmeal. STODGY can mean _thick_ or _heavy_, like _stodge_, but it is usually used in an extended sense to mean _dull_, _stuffy_, \"lacking in humor or lightness.\" \n\"The STODGY teacher disapproved of students talking and laughing in the corridor.\" \n\"Susan thought the reception was terribly STODGY—just a bunch of serious people standing around, talking quietly.\" \n\"Classical music isn't always STODGY; some of it is quite exciting.\" \nThe difficulty people have with this word is thinking that it means _old_. An old person, of course, can be the very opposite of STODGY."
       },
       "SUFFUSE": {
         "word": "SUFFUSE",
@@ -8060,7 +8066,7 @@
         },
         {
           "part1": "You couldn't go anywhere in Rome that summer without running into the",
-          "part2": "tourists - cameras and guidebooks in hand.",
+          "part2": "tourists—cameras and guidebooks in hand.",
           "answer": "ubiquitous"
         },
         {

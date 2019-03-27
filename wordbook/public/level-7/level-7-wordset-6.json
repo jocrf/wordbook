@@ -5,7 +5,7 @@
       "word": "INTIMATION",
       "phonetic": "(in-ta-mA'-shÔøΩn)",
       "pos": "n.",
-      "deftext": "<p class=\"definition\">a suggestion, hint </p><p>To INTIMATE (in’-tQ-mAt) something is to communicate it subtly and indirectly, usually in order to be discreet rather than to be misleading. </p><p>“Janice INTIMATED that she might be busy that night and that Bill should find another date for the party.” </p><p>INTIMATION is the noun form of INTIMATE. </p><p>“There was no INTIMATION of wrongdoing in the report; it merely stated that standard procedures had not been followed.” </p><p>“We were all worried by the INTIMATION that John’s inquiry was more serious than we had thought.” </p><p>Other forms of the word: INTIMATE, v.</p>"
+      "deftext": "<p class=\"definition\">a suggestion, hint </p><p>To INTIMATE something is to communicate it subtly and indirectly, usually in order to be discreet rather than to be misleading. </p><p>“Janice INTIMATED that she might be busy that night and that Bill should find another date for the party.” </p><p>INTIMATION is the noun form of INTIMATE. </p><p>“There was no INTIMATION of wrongdoing in the report; it merely stated that standard procedures had not been followed.” </p><p>“We were all worried by the INTIMATION that John’s inquiry was more serious than we had thought.” </p><p>Other forms of the word: INTIMATE, v.</p>"
     },
     "INVIOLATE": {
       "word": "INVIOLATE",
@@ -32,7 +32,7 @@
       "word": "PARRY",
       "phonetic": "(par'-E)",
       "pos": "v.",
-      "deftext": "<p class=\"definition\">to ward off, deflect, evade </p><p>To PARRY something-a blow or a thrust with a sword, for example-is to ward it off. </p><p>“The boxer was unable to PARRY his opponent’s barrage of jabs.” </p><p>“The fencer easily PARRIED his opponent’s feeble thrusts.” </p><p>PARRY is often used about nonphysical kinds of warding off. </p><p>“The politician skillfully PARRIED the reporter’s probing questions.” </p><p>“It is useless to try to PARRY his demands; let’s just give in to them.” </p><p>PARRY is also a noun. </p><p>“The president was an expert in the thrust and PARRY of these press conferences.”</p>"
+      "deftext": "<p class=\"definition\">to ward off, deflect, evade </p><p>To PARRY something—a blow or a thrust with a sword, for example—is to ward it off. </p><p>“The boxer was unable to PARRY his opponent’s barrage of jabs.” </p><p>“The fencer easily PARRIED his opponent’s feeble thrusts.” </p><p>PARRY is often used about nonphysical kinds of warding off. </p><p>“The politician skillfully PARRIED the reporter’s probing questions.” </p><p>“It is useless to try to PARRY his demands; let’s just give in to them.” </p><p>PARRY is also a noun. </p><p>“The president was an expert in the thrust and PARRY of these press conferences.”</p>"
     },
     "SURREPTITIOUS": {
       "word": "SURREPTITIOUS",
@@ -56,7 +56,7 @@
       "word": "PECUNIARY",
       "phonetic": "(pi-kyU'-nE-er-E)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">monetary, financial </p><p>PECUNIARY comes from the Latin word for <i class=“def-ital\">money</i>, also the source of the word <i class=“def-ital\">impecunious</i>, which means “lacking money.” PECUNIARY means “relating to or consisting of money.” </p><p>It is usually used with reference to small- scale or practical matters dealing with money. </p><p>“Alice didn’t help us out of friendship but from a PECUNIARY motive-she knew we would pay her.” </p><p>“There is psychological satisfaction to be gained from this job, but the PECUNIARY rewards are slight.” </p><p>“Mr. Micawber was always optimistic despite his PECUNIARY difficulties.”</p>"
+      "deftext": "<p class=\"definition\">monetary, financial </p><p>PECUNIARY comes from the Latin word for <i class=“def-ital\">money</i>, also the source of the word <i class=“def-ital\">impecunious</i>, which means “lacking money.” PECUNIARY means “relating to or consisting of money.” </p><p>It is usually used with reference to small-scale or practical matters dealing with money. </p><p>“Alice didn’t help us out of friendship but from a PECUNIARY motive—she knew we would pay her.” </p><p>“There is psychological satisfaction to be gained from this job, but the PECUNIARY rewards are slight.” </p><p>“Mr. Micawber was always optimistic despite his PECUNIARY difficulties.”</p>"
     },
     "PROVISO": {
       "word": "PROVISO",
@@ -372,7 +372,7 @@
           "correct": "true"
         },
         {
-          "prompt": "The play's director left nothing-not even Hamlet's soliloquies-INVIOLATE.",
+          "prompt": "The play's director left nothing—not even Hamlet's soliloquies—INVIOLATE.",
           "word": "INVIOLATE",
           "correct": "true"
         },
@@ -382,7 +382,7 @@
           "correct": "true"
         },
         {
-          "prompt": "The students rented a Rolls-Royce so that they would arrive at the prom with PANACHE.",
+          "prompt": "The students rented a Rolls Royce so that they would arrive at the prom with PANACHE.",
           "word": "PANACHE",
           "correct": "true"
         },
