@@ -15,46 +15,49 @@ export default class TrueFalse extends Component {
 
   render () {
     return (
-      <fieldset onChange={this.changeHandler} className='form-group position-relative'>
-        <div className='questionBox'>
-          <legend onClick={this.props.toggleDefinition} className={this.props.showAnswers ? 'clickable' : null}>{this.props.prompt}</legend>
-          {/* show score component on the checked answer */}
-          {this.props.showAnswers &&
+      <React.Fragment>
+        <fieldset onChange={this.changeHandler} className='form-group position-relative'>
+          <div className='questionBox'>
+            <legend onClick={this.props.toggleDefinition} className={this.props.showAnswers ? 'clickable' : null}>{this.props.prompt}</legend>
+          </div>
+          {this.props.showDefinition &&
+            <Word definition={this.props.definition} />
+          }
+          <div className='tfAnswerBox'>
+            <div>
+              <div className='form-check form-check-inline'>
+                <Input
+                  option='true'
+                  id={this.props.id}
+                  prompt={this.props.prompt}
+                  chosenAnswer={this.props.value}
+                  showAnswers={this.props.showAnswers}
+                  correctAnswer={this.props.correctAnswer}
+                />
+              </div>
+              <div className='form-check form-check-inline'>
+                <Input
+                  option='false'
+                  id={this.props.id}
+                  prompt={this.props.prompt}
+                  chosenAnswer={this.props.value}
+                  showAnswers={this.props.showAnswers}
+                  correctAnswer={this.props.correctAnswer}
+                />
+              </div>
+            </div>
+          </div>
+          {/* show score component on the checked answer */ }
+          {
+            this.props.showAnswers &&
             <Score
               chosenAnswer={this.props.value}
               correctAnswer={this.props.correctAnswer}
               type={this.props.type}
             />
           }
-        </div>
-        {this.props.showDefinition &&
-          <Word definition={this.props.definition} />
-        }
-        <div className='tfAnswerBox'>
-          <div>
-            <div className='form-check form-check-inline'>
-              <Input
-                option='true'
-                id={this.props.id}
-                prompt={this.props.prompt}
-                chosenAnswer={this.props.value}
-                showAnswers={this.props.showAnswers}
-                correctAnswer={this.props.correctAnswer}
-              />
-            </div>
-            <div className='form-check form-check-inline'>
-              <Input
-                option='false'
-                id={this.props.id}
-                prompt={this.props.prompt}
-                chosenAnswer={this.props.value}
-                showAnswers={this.props.showAnswers}
-                correctAnswer={this.props.correctAnswer}
-              />
-            </div>
-          </div>
-        </div>
-      </fieldset>
+        </fieldset>
+      </React.Fragment>
     );
   }
 }
