@@ -5,7 +5,7 @@
       "word": "EXHALE",
       "phonetic": "(eks-hAI')",
       "pos": "v.",
-      "deftext": "<p class=\"definition\">to breathe out </p><p> To EXHALE is to breathe out. </p><p>“He took a deep breath, then EXHALED slowly.” </p><p>“He EXHALED the air from his lungs.” </p><p>The opposite of EXHALE is INHALE, to breathe in. Other forms of the word: EXHALATION, n.</p>",
+      "deftext": "<p class=\"definition\">to breathe out </p><p> To EXHALE is to breathe out. </p><p>“He took a deep breath, then EXHALED slowly.” </p><p>“He EXHALED the air from his lungs.” </p><p>The opposite of EXHALE is INHALE, to breathe in. </p><p>Other forms of the word: EXHALATION, n.</p>",
       "prefix": [
         "See <i class=“def-ital\">ex-</i> under Prefixes."
       ]
@@ -92,7 +92,7 @@
       "word": "BAIT",
       "phonetic": "(bAt)",
       "pos": "v.",
-      "deftext": "<p class=\"definition\">to lure, entice; to attack, tease, harass <i class=“def-ital\">BAIT is related to the word <i class=“def-ital\">bite</i>. BAIT as a noun is food, or something like food, put on a hook to attract a fish. As a verb, BAIT has developed two different meanings. To BAIT someone can be to lure them the way a fish is lured, by holding out something to tempt them. “The phony message BAITED the enemy into attacking us just where we wanted them to.” </p><p>To BAIT is also to torment, annoy, or harass, usually in speech or writing. </p><p>“An angry woman in the crowd BAITED the speaker until he lost his temper.” </p><p>“The other team BAITED us the whole game about our poor record.”</p>"
+      "deftext": "<p class=\"definition\">to lure, entice; to attack, tease, harass </p><p><i class=“def-ital\">BAIT</i> is related to the word <i class=“def-ital\">bite</i>. BAIT as a noun is food, or something like food, put on a hook to attract a fish. As a verb, BAIT has developed two different meanings. To BAIT someone can be to lure them the way a fish is lured, by holding out something to tempt them. </p><p>“The phony message BAITED the enemy into attacking us just where we wanted them to.” </p><p>To BAIT is also to torment, annoy, or harass, usually in speech or writing. </p><p>“An angry woman in the crowd BAITED the speaker until he lost his temper.” </p><p>“The other team BAITED us the whole game about our poor record.”</p>"
     },
     "SPLENDID": {
       "word": "SPLENDID",
@@ -383,7 +383,7 @@
           "correct": "false"
         },
         {
-          "prompt": "He kept DEFENDING them until finally they called the police, and he was ar rested.",
+          "prompt": "He kept DEFENDING them until finally they called the police, and he was arrested.",
           "word": "DEFEND",
           "correct": "false"
         },

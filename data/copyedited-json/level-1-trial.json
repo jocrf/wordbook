@@ -660,7 +660,7 @@
             "ignore",
             "dislike",
             "lose",
-            "throwaway",
+            "throw away",
             "find"
           ],
           "word": "DISCARD",
@@ -1891,7 +1891,7 @@
           "answer": "trophies"
         },
         {
-          "part1": "Jill was,",
+          "part1": "Jill was",
           "part2": "all day until her sister came and cheered her up.",
           "answer": "downcast"
         },
@@ -3142,9 +3142,9 @@
         "word": "MISTREAT",
         "phonetic": "(mis-trEt')",
         "pos": "v.",
-        "deftext": "to treat badly, abuse \nSee _mis-_ under Prefixes. To MISTREAT someone is to treat him badly, to do wrong to him, either physically or in some other way. \n\"Look at all the cuts on that dog. I think his owner MISTREATS him.\" \n\"Alice complained that she had been MISTREATED by her teachers.\" \n\"The parents were accused of MISTREATING their children by not giving them enough to eat.\" \nCheat is often chosen as the meaning of MISTREAT on the Pretest. MISTREAT is a much more general word than cheat, however. You can MISTREAT a person by doing wrong to him in any way, not just by cheating him. Other forms of the word: MISTREATMENT, n."
+        "deftext": "to treat badly, abuse \nSee _mis-_ under Prefixes. To MISTREAT someone is to treat him badly, to do wrong to him, either physically or in some other way. \n\"Look at all the cuts on that dog. I think his owner MISTREATS him.\" \n\"Alice complained that she had been MISTREATED by her teachers.\" \n\"The parents were accused of MISTREATING their children by not giving them enough to eat.\" \nCheat is often chosen as the meaning of MISTREAT on the Pretest. MISTREAT is a much more general word than cheat, however. You can MISTREAT a person by doing wrong to him in any way, not just by cheating him. \nOther forms of the word: MISTREATMENT, n."
       },
-      "": {
+      "FURIOUS": {
         "word": "FURIOUS",
         "phonetic": "(fyur'-E-gs)",
         "pos": "adj.",
@@ -3508,7 +3508,7 @@
           "correct": "false"
         },
         {
-          "prompt": "He kept DEFENDING them until finally they called the police, and he was ar rested.",
+          "prompt": "He kept DEFENDING them until finally they called the police, and he was arrested.",
           "word": "DEFEND",
           "correct": "false"
         },
@@ -3733,7 +3733,7 @@
         "word": "EXHALE",
         "phonetic": "(eks-hAI')",
         "pos": "v.",
-        "deftext": "to breathe out \nSee _ex-_ under Prefixes. To EXHALE is to breathe out. \n\"He took a deep breath, then EXHALED slowly.\" \n\"He EXHALED the air from his lungs.\" \nThe opposite of EXHALE is INHALE, to breathe in. Other forms of the word: EXHALATION, n."
+        "deftext": "to breathe out \nSee _ex-_ under Prefixes. To EXHALE is to breathe out. \n\"He took a deep breath, then EXHALED slowly.\" \n\"He EXHALED the air from his lungs.\" \nThe opposite of EXHALE is INHALE, to breathe in. \nOther forms of the word: EXHALATION, n."
       },
       "HURDLE": {
         "word": "HURDLE",
@@ -3811,7 +3811,7 @@
         "word": "BAIT",
         "phonetic": "(bAt)",
         "pos": "v.",
-        "deftext": "to lure, entice; to attack, tease, harass _BAIT is related to the word _bite_. BAIT as a noun is food, or something like food, put on a hook to attract a fish. As a verb, BAIT has developed two different meanings. To BAIT someone can be to lure them the way a fish is lured, by holding out something to tempt them. \"The phony message BAITED the enemy into attacking us just where we wanted them to.\" \nTo BAIT is also to torment, annoy, or harass, usually in speech or writing. \n\"An angry woman in the crowd BAITED the speaker until he lost his temper.\" \n\"The other team BAITED us the whole game about our poor record.\""
+        "deftext": "to lure, entice; to attack, tease, harass \n_BAIT_ is related to the word _bite_. BAIT as a noun is food, or something like food, put on a hook to attract a fish. As a verb, BAIT has developed two different meanings. To BAIT someone can be to lure them the way a fish is lured, by holding out something to tempt them. \n\"The phony message BAITED the enemy into attacking us just where we wanted them to.\" \nTo BAIT is also to torment, annoy, or harass, usually in speech or writing. \n\"An angry woman in the crowd BAITED the speaker until he lost his temper.\" \n\"The other team BAITED us the whole game about our poor record.\""
       },
       "SPLENDID": {
         "word": "SPLENDID",
@@ -5209,19 +5209,19 @@
         "word": "HESITATE",
         "phonetic": "(hez'-ÔøΩtAt)",
         "pos": "v.",
-        "deftext": "to pause, delay for a moment \nTo HESITATE is to show signs of uncertainty by pausing or delaying for a short time. \n\"We could tell he had not studied enough from the way he HESITATED before he spelled each word.\" \n\"The cat HESITATED before stepping on the new- fallen snow.\" \n\"If you need anything, do not HESITATE to ask for it.\" \nHESITATION is the noun from HESITATE. It is the act of pausing or holding back. \n\"Midway through the actor's speech there were several long HESITATIONS, and it became obvious that he had forgotten his lines.\" \nOther forms of the word: HESITANT, adj. HESITATION, n."
+        "deftext": "to pause, delay for a moment \nTo HESITATE is to show signs of uncertainty by pausing or delaying for a short time. \n\"We could tell he had not studied enough from the way he HESITATED before he spelled each word.\" \n\"The cat HESITATED before stepping on the newly fallen snow.\" \n\"If you need anything, do not HESITATE to ask for it.\" \nHESITATION is the noun from HESITATE. It is the act of pausing or holding back. \n\"Midway through the actor's speech there were several long HESITATIONS, and it became obvious that he had forgotten his lines.\" \nOther forms of the word: HESITANT, adj. HESITATION, n."
       },
       "FLING": {
         "word": "FLING",
         "phonetic": "(fling)",
         "pos": "v.",
-        "deftext": "to throw, hurl, cast \nFLING means just about the same as _throw_, but often adds a sense of force or violence to _throw_. \n\"Angrily he FLUNG the books across the room.\" \n\"Tom FLUNG the stone with all his might.\" \n\"The wrestler FLINGS his opponent to the ground.\" \nTo \"FLING your arms up in the air\" is to raise them suddenly and unexpectedly. Usage: The past tense of FLING is FLUNG."
+        "deftext": "to throw, hurl, cast \nFLING means just about the same as _throw_, but often adds a sense of force or violence to _throw_. \n\"Angrily he FLUNG the books across the room.\" \n\"Tom FLUNG the stone with all his might.\" \n\"The wrestler FLINGS his opponent to the ground.\" \nTo \"FLING your arms up in the air\" is to raise them suddenly and unexpectedly. \nUsage: The past tense of FLING is FLUNG."
       },
       "COMICAL": {
         "word": "COMICAL",
         "phonetic": "(kom'-i-kÔøΩI)",
         "pos": "adj.",
-        "deftext": "funny, humorous, amusing \nCOMICAL means _funny_ or _amusing_. \n\"The puppy’s actions were so COMICAL that we burst out laughing.\" \n\"She entered the room with a COMICAL expression on her face, and we knew that something funny had happened.\" \n\"He tries to amuse us with COMICAL stories, but we don't think they're funny at all.\" \nThe noun form of COMICAL is COMIC. A COMIC is a person who amuses others by telling funny stories and jokes. Other forms of the word: COMIC, n."
+        "deftext": "funny, humorous, amusing \nCOMICAL means _funny_ or _amusing_. \n\"The puppy’s actions were so COMICAL that we burst out laughing.\" \n\"She entered the room with a COMICAL expression on her face, and we knew that something funny had happened.\" \n\"He tries to amuse us with COMICAL stories, but we don't think they're funny at all.\" \nThe noun form of COMICAL is COMIC. A COMIC is a person who amuses others by telling funny stories and jokes. \nOther forms of the word: COMIC, n."
       },
       "OVERCAST": {
         "word": "OVERCAST",
@@ -5233,7 +5233,7 @@
         "word": "PERSPIRATION",
         "phonetic": "(per-spÔøΩ-rA'-shÔøΩn)",
         "pos": "n.",
-        "deftext": "sweat \nPERSPIRATION is a polite word for _sweat_. \"He was covered with PERSPIRATION after the 100-yard dash.\" \"The horse's PERSPIRATION looks like white foam.\" \"The room was so warm that everyone's face was shining with PERSPIRATION.\" The verb form is PERSPIRE. \"We PERSPIRED in the hot sunlight.\" \n_Effort_ is often chosen as the meaning of PERSPIRATION. _Effort_ might cause to sweat, but _effort_ and PERSPIRATION are not the same thing. Other forms of the word: PERSPIRE, v."
+        "deftext": "sweat \nPERSPIRATION is a polite word for _sweat_. \"He was covered with PERSPIRATION after the 100-yard dash.\" \"The horse's PERSPIRATION looks like white foam.\" \"The room was so warm that everyone's face was shining with PERSPIRATION.\" The verb form is PERSPIRE. \"We PERSPIRED in the hot sunlight.\" \n_Effort_ is often chosen as the meaning of PERSPIRATION. _Effort_ might cause to sweat, but _effort_ and PERSPIRATION are not the same thing. \nOther forms of the word: PERSPIRE, v."
       },
       "CHUCKLE": {
         "word": "CHUCKLE",
@@ -5263,7 +5263,7 @@
         "word": "IDENTICAL",
         "phonetic": "(1-den'-ti-kÔøΩI)",
         "pos": "adj.",
-        "deftext": "same Two things that are IDENTICAL are the same; they are exactly alike and agree in every detail. IDENTICAL twins are twins who look exactly alike. \n\"This print is IDENTICAL to the one we saw in the art gallery two weeks ago.\" \n\"No two people have IDENTICAL fingerprints. Everyone's fingerprints are different.\""
+        "deftext": "same \nTwo things that are IDENTICAL are the same; they are exactly alike and agree in every detail. IDENTICAL twins are twins who look exactly alike. \n\"This print is IDENTICAL to the one we saw in the art gallery two weeks ago.\" \n\"No two people have IDENTICAL fingerprints. Everyone's fingerprints are different.\""
       },
       "CALCULATE": {
         "word": "CALCULATE",
@@ -5806,7 +5806,7 @@
         "word": "TRICKLE",
         "phonetic": "(trik'-ÔøΩI)",
         "pos": "v.",
-        "deftext": "to drip, flow slowly \nTRICKLE means to _drip_ or _flow slowly_. It is used about water, blood, oil, or other liquids. \"Blood was TRICKLING out of his mouth.\" \n\"The water TRICKLED out of the faucet.\" \nTRICKLE can also be used about other things that can be said to flow. \n\"The sugar TRICKLED through her fingers.\" \n\"The students TRICKLED out of the classroom.\" \nTRICKLE is also a noun. \n\"She wiped the TRICKLE of blood from his lips.\" \n_Melt_ is often chosen as the meaning of TRICKLE on the Pretest. Something like an ice cube may TRICKLE as it melts, but things that are not melting may TRICKLE as well."
+        "deftext": "to drip, flow slowly \nTRICKLE means to _drip_ or _flow slowly_. It is used about water, blood, oil, or other liquids. \n\"Blood was TRICKLING out of his mouth.\" \n\"The water TRICKLED out of the faucet.\" \nTRICKLE can also be used about other things that can be said to flow. \n\"The sugar TRICKLED through her fingers.\" \n\"The students TRICKLED out of the classroom.\" \nTRICKLE is also a noun. \n\"She wiped the TRICKLE of blood from his lips.\" \n_Melt_ is often chosen as the meaning of TRICKLE on the Pretest. Something like an ice cube may TRICKLE as it melts, but things that are not melting may TRICKLE as well."
       },
       "CONSIDER": {
         "word": "CONSIDER",
@@ -5830,13 +5830,13 @@
         "word": "CERTAIN",
         "phonetic": "(sert'-ÔøΩn)",
         "pos": "adj.",
-        "deftext": "sure \nIf something is CERTAIN, it is sure; there is no doubt about it. Both people and things can be CERTAIN. \n\"Gloria is CERTAIN that it will be sunny on the day of the picnic.\" \n\"A CERTAIN cure for hiccups is to hold your breath.\" \n\"There is no CERTAIN way to prevent war from breaking out.\" \nThe noun form of CERTAIN is CERTAINTY. A CERTAINTY is an outcome or result that is sure; there is no doubt about it. \n\"He was assured of winning; it was a CERTAINTY that he would come in first.\" \nMany people confuse CERTAIN with _right_. You can be CERTAIN of something, though, and be wrong. Other forms of the word: CERTAINTY, n."
+        "deftext": "sure \nIf something is CERTAIN, it is sure; there is no doubt about it. Both people and things can be CERTAIN. \n\"Gloria is CERTAIN that it will be sunny on the day of the picnic.\" \n\"A CERTAIN cure for hiccups is to hold your breath.\" \n\"There is no CERTAIN way to prevent war from breaking out.\" \nThe noun form of CERTAIN is CERTAINTY. A CERTAINTY is an outcome or result that is sure; there is no doubt about it. \n\"He was assured of winning; it was a CERTAINTY that he would come in first.\" \nMany people confuse CERTAIN with _right_. You can be CERTAIN of something, though, and be wrong. \nOther forms of the word: CERTAINTY, n."
       },
       "AGONY": {
         "word": "AGONY",
         "phonetic": "(ag'-ÔøΩnE)",
         "pos": "n.",
-        "deftext": "great pain, torment \nAGONY is great pain or suffering, either of the mind or of the body. \n\"Her headaches caused her constant AGONY.\" \n\"He felt extreme AGONY when he saw the results of his careless driving.\" \n\"She looked on in AGONY as the soldiers took away all her possessions.\" \nTo AGONIZE is to suffer AGONY. \n\"Susan AGONIZED over her hopeless situation, but couldn't do anything about it.\" \nOther forms of the word: AGONIZE, v. \nAGONIZED, adj. \nAGONIZING, adj."
+        "deftext": "great pain, torment \nAGONY is great pain or suffering, either of the mind or of the body. \n\"Her headaches caused her constant AGONY.\" \n\"He felt extreme AGONY when he saw the results of his careless driving.\" \n\"She looked on in AGONY as the soldiers took away all her possessions.\" \nTo AGONIZE is to suffer AGONY. \n\"Susan AGONIZED over her hopeless situation, but couldn't do anything about it.\" \nOther forms of the word: AGONIZE, v. AGONIZED, adj. AGONIZING, adj."
       },
       "SLUMP": {
         "word": "SLUMP",
@@ -5945,7 +5945,7 @@
         },
         {
           "part1": "The bus driver was very",
-          "part2": "He helped the blind lady to her seat and let her know when he reached her stop.",
+          "part2": ". He helped the blind lady to her seat and let her know when he reached her stop.",
           "answer": "courteous."
         },
         {
@@ -6071,7 +6071,8 @@
         {
           "part1": "Their vacation plans aren't very",
           "part2": "yet; they think they might go on a cruise somewhere.",
-          "answer": "definite"
+          "answer": "definite",
+          "alternate": "certain"
         },
         {
           "part1": "We could see by the",
@@ -6100,7 +6101,7 @@
         },
         {
           "part1": "I don't want to",
-          "part2": ", but if you're not busy I'd like to see you for a minute.",
+          "part2": "on your time, but if you're not busy I'd like to see you for a minute.",
           "answer": "intrude"
         },
         {
@@ -6304,7 +6305,7 @@
             "sickness"
           ],
           "word": "GRIEF",
-          "correct": "sadnÔøΩss"
+          "correct": "sadness"
         },
         {
           "prompt": "His MOOD.",
@@ -6673,7 +6674,7 @@
         "word": "ELEMENTARY",
         "phonetic": "(el-ÔøΩmen'-tÔøΩrE)",
         "pos": "adj.",
-        "deftext": "basic, fundamental, simple \nAn ELEMENT is a basic part of something. The chemical ELEMENTS, for example, are the basic substances like oxygen and carbon which combine to form all matter. Something that is ELEMENTARY, therefore, has to do with the basic or first parts of a subject or a thing. \n\"He learned some of the ELEMENTARY steps, but he never became an expert dancer.\" \n\"You have to pass ELEMENTARY French before you can take advanced courses.\" \nAn ELEMENTARY school teaches children basic subjects like reading, writing, and arithmetic. Other forms of the word: ELEMENT, n."
+        "deftext": "basic, fundamental, simple \nAn ELEMENT is a basic part of something. The chemical ELEMENTS, for example, are the basic substances like oxygen and carbon which combine to form all matter. Something that is ELEMENTARY, therefore, has to do with the basic or first parts of a subject or a thing. \n\"He learned some of the ELEMENTARY steps, but he never became an expert dancer.\" \n\"You have to pass ELEMENTARY French before you can take advanced courses.\" \nAn ELEMENTARY school teaches children basic subjects like reading, writing, and arithmetic. \nOther forms of the word: ELEMENT, n."
       },
       "INCINERATE": {
         "word": "INCINERATE",
@@ -6721,7 +6722,7 @@
         "word": "GRIEF",
         "phonetic": "(grEf)",
         "pos": "n.",
-        "deftext": "deep sorrow, sadness, mental suffering, misery \nGRIEF is a very strong degree of _sadness_ or _sorrow_. \nGRIEF usually suggests sadness that is caused by loss, pain, regret, or despair, and that lasts for a long time or is very deep. \n\"No one could ease her GRIEF when she discovered that her son had died.\" \n\"Jim's GRIEF over her decision to leave him was almost unbearable.\" \nThe phrase \"to come to GRIEF\" means \"to meet misfortune or disappointment.\" \n\"This project will come to GRIEF unless we work harder.\" \nThe most commonly chosen incorrect answer is _anger_. _Anger_ is another strong emotion, but it is not the same as GRIEF. Other forms of the word: GRIEVE, v."
+        "deftext": "deep sorrow, sadness, mental suffering, misery \nGRIEF is a very strong degree of _sadness_ or _sorrow_. \nGRIEF usually suggests sadness that is caused by loss, pain, regret, or despair, and that lasts for a long time or is very deep. \n\"No one could ease her GRIEF when she discovered that her son had died.\" \n\"Jim's GRIEF over her decision to leave him was almost unbearable.\" \nThe phrase \"to come to GRIEF\" means \"to meet misfortune or disappointment.\" \n\"This project will come to GRIEF unless we work harder.\" \nThe most commonly chosen incorrect answer is _anger_. _Anger_ is another strong emotion, but it is not the same as GRIEF. \nOther forms of the word: GRIEVE, v."
       },
       "MOOD": {
         "word": "MOOD",
@@ -6973,7 +6974,7 @@
         {
           "prompt": "Would most people want to buy a DEFECTIVE watch?",
           "word": "DEFECTIVE",
-          "correct": "true"
+          "correct": "false"
         },
         {
           "prompt": "Can ideas be CIRCULATED?",
@@ -6983,7 +6984,7 @@
         {
           "prompt": "Can an ENCOUNTER be friendly?",
           "word": " ENCOUNTER",
-          "correct": "false"
+          "correct": "true"
         },
         {
           "prompt": "Do children usually have AUTHORITY over their parents?",
@@ -7240,7 +7241,7 @@
         "word": "DEVOTION",
         "phonetic": "(di-vO'-shÔøΩn)",
         "pos": "n.",
-        "deftext": "faithfulness, dedication, loyalty \nSomeone who is DEVOTED is attached or dedicated to a purpose, cause, or person. \n\"They are DEVOTED to the idea of world peace.\" DEVOTION is the quality of being DEVOTED; it is _faithfulness_, _dedication_, _loyalty_. \n\"Everyone admired her DEVOTION to her sick parents.\" \n\"He was fired because he didn't show enough DEVOTION to his duties.\" \nOther forms of the word: DEVOTE, v. \nDEVOTED, adj."
+        "deftext": "faithfulness, dedication, loyalty \nSomeone who is DEVOTED is attached or dedicated to a purpose, cause, or person. \n\"They are DEVOTED to the idea of world peace.\" DEVOTION is the quality of being DEVOTED; it is _faithfulness_, _dedication_, _loyalty_. \n\"Everyone admired her DEVOTION to her sick parents.\" \n\"He was fired because he didn't show enough DEVOTION to his duties.\" \nOther forms of the word: DEVOTE, v. DEVOTED, adj."
       },
       "CIRCUMSTANCE": {
         "word": "CIRCUMSTANCE",
@@ -7276,13 +7277,13 @@
         "word": "ASSASSIN",
         "phonetic": "(ÔøΩsas'-in)",
         "pos": "n.",
-        "deftext": "a murderer, killer \nAn ASSASSIN is a _killer_, especially one who is paid for killing or who kills a public official. \n\"They caught the ASSASSIN of the president.\" \n\"The ASSASSIN prepared very carefully to murder his victim.\" \nThe verb from ASSASSIN is ASSASSINATE. \n\"Several Roman emperors were ASSASSINATED.\" \n\"The madman ASSASSINATED the mayor.\" \nOther forms of the word: ASSASSINATE, v. \nASSASSINATION, n."
+        "deftext": "a murderer, killer \nAn ASSASSIN is a _killer_, especially one who is paid for killing or who kills a public official. \n\"They caught the ASSASSIN of the president.\" \n\"The ASSASSIN prepared very carefully to murder his victim.\" \nThe verb from ASSASSIN is ASSASSINATE. \n\"Several Roman emperors were ASSASSINATED.\" \n\"The madman ASSASSINATED the mayor.\" \nOther forms of the word: ASSASSINATE, v. ASSASSINATION, n."
       },
       "ENCOURAGE": {
         "word": "ENCOURAGE",
         "phonetic": "(en-kuhr'-ij)",
         "pos": "v.",
-        "deftext": "to put courage into, urge on, stimulate, hearten, foster \nSee _in-_ under Prefixes. \nENCOURAGE basically means \"to put courage into.\" \n\"The soldiers needed to be ENCOURAGED before the battle.\" \nAs the word is used today it means to _urge_ or _help_ someone to do something, through words or example or in some other way. \n\"Her presence ENCOURAGED him to try again.\" \n\"My parents ENCOURAGED me to be a doctor.\" What is ENCOURAGED can be either good or bad. \n\"His early success ENCOURAGED him in his life of crime.\" \nIt doesn't have to be a person who is ENCOURAGED. \n\"The plan was designed to ENCOURAGE small businesses.\" \nOther forms of the word: ENCOURAGEMENT, n. \nENCOURAGING, adj."
+        "deftext": "to put courage into, urge on, stimulate, hearten, foster \nSee _in-_ under Prefixes. \nENCOURAGE basically means \"to put courage into.\" \n\"The soldiers needed to be ENCOURAGED before the battle.\" \nAs the word is used today it means to _urge_ or _help_ someone to do something, through words or example or in some other way. \n\"Her presence ENCOURAGED him to try again.\" \n\"My parents ENCOURAGED me to be a doctor.\" What is ENCOURAGED can be either good or bad. \n\"His early success ENCOURAGED him in his life of crime.\" \nIt doesn't have to be a person who is ENCOURAGED. \n\"The plan was designed to ENCOURAGE small businesses.\" \nOther forms of the word: ENCOURAGEMENT, n. ENCOURAGING, adj."
       },
       "CONVENIENT": {
         "word": "CONVENIENT",
@@ -7318,7 +7319,7 @@
         "word": "DEFORMED",
         "phonetic": "(di-formd')",
         "pos": "adj.",
-        "deftext": "disfigured, misshapen \nTo DEFORM something is to take it out of its natural form or shape. See _de-_ under Prefixes. When something is DEFORMED, then, it is not shaped properly; it is disfigured. \n\"His leg was DEFORMED as a result of the accident.\" \n\"The baby survived, but it was permanently DEFORMED.\" \nDEFORMED usually suggests something that is ugly or offensive. \n\"When he was very upset, his face would become DEFORMED with rage.\" \nIn the Pretest, many people choose _destroyed_ as the meaning of DEFORMED. Something that is DEFORMED still exists, it is just misshapen; it has not been _destroyed_. \nOther forms of the word: DEFORM, v. \nDEFORMITY, n."
+        "deftext": "disfigured, misshapen \nTo DEFORM something is to take it out of its natural form or shape. See _de-_ under Prefixes. When something is DEFORMED, then, it is not shaped properly; it is disfigured. \n\"His leg was DEFORMED as a result of the accident.\" \n\"The baby survived, but it was permanently DEFORMED.\" \nDEFORMED usually suggests something that is ugly or offensive. \n\"When he was very upset, his face would become DEFORMED with rage.\" \nIn the Pretest, many people choose _destroyed_ as the meaning of DEFORMED. Something that is DEFORMED still exists, it is just misshapen; it has not been _destroyed_. \nOther forms of the word: DEFORM, v. DEFORMITY, n."
       },
       "CONFIDENT": {
         "word": "CONFIDENT",
@@ -7843,7 +7844,7 @@
         "word": "INSTRUCT",
         "phonetic": "(in-struhkt')",
         "pos": "v.",
-        "deftext": "to teach, educate, inform; to order \nTo INSTRUCT someone is to give knowledge to him. Often it means just about the same as teach. \n\"The teacher INSTRUCTED the class about how to do multiplication.\" \n\"The piano teacher comes to the house to INSTRUCT Sue.\" \nSometimes INSTRUCT has a stronger meaning—to _order_ or _direct_. \n\"The teacher INSTRUCTED us to return to our seats immediately.\" \nThe adjective from INSTRUCT is INSTRUCTIVE, which means _giving knowledge_, _informative_. \n\"The class was very INSTRUCTIVE. I think we all learned a lot.\" \nOther forms of the word: INSTRUCTION, n. \nINSTRUCTIVE, adj. \nINSTRUCTOR, n."
+        "deftext": "to teach, educate, inform; to order \nTo INSTRUCT someone is to give knowledge to him. Often it means just about the same as teach. \n\"The teacher INSTRUCTED the class about how to do multiplication.\" \n\"The piano teacher comes to the house to INSTRUCT Sue.\" \nSometimes INSTRUCT has a stronger meaning—to _order_ or _direct_. \n\"The teacher INSTRUCTED us to return to our seats immediately.\" \nThe adjective from INSTRUCT is INSTRUCTIVE, which means _giving knowledge_, _informative_. \n\"The class was very INSTRUCTIVE. I think we all learned a lot.\" \nOther forms of the word: INSTRUCTION, n. INSTRUCTIVE, adj. INSTRUCTOR, n."
       },
       "GNARLED": {
         "word": "GNARLED",
@@ -7861,7 +7862,7 @@
         "word": "EXTERMINATE",
         "phonetic": "(ek-ster'-mÔøΩnAt)",
         "pos": "v.",
-        "deftext": "to destroy completely, wipe out, put an end to, get rid of \nTo EXTERMINATE something is to wipe it out, to destroy it totally. The word is used about people, ideas, pests, diseases, and other things. \n\"The enemy tried to EXTERMINATE us, but somehow a few of us managed to survive.\" \n\"Our attempt to EXTERMINATE this new disease was completely successful; no cases of it were reported last year.\" \nAn EXTERMINATOR is someone who EXTERMINATES, particularly someone whose job is to EXTERMINATE insects, rats, or other pests. \n\"The new house was so filled with bugs, we had to call the EXTERMINATOR.\" \nIn the Pretest, _stop_ is often chosen as the meaning of EXTERMINATE. EXTERMINATE is a much stronger word than stop, however. To EXTERMINATE means to _destroy completely_. \nOther forms of the word: EXTERMINATION, n. \nEXTERMINATOR, n."
+        "deftext": "to destroy completely, wipe out, put an end to, get rid of \nTo EXTERMINATE something is to wipe it out, to destroy it totally. The word is used about people, ideas, pests, diseases, and other things. \n\"The enemy tried to EXTERMINATE us, but somehow a few of us managed to survive.\" \n\"Our attempt to EXTERMINATE this new disease was completely successful; no cases of it were reported last year.\" \nAn EXTERMINATOR is someone who EXTERMINATES, particularly someone whose job is to EXTERMINATE insects, rats, or other pests. \n\"The new house was so filled with bugs, we had to call the EXTERMINATOR.\" \nIn the Pretest, _stop_ is often chosen as the meaning of EXTERMINATE. EXTERMINATE is a much stronger word than stop, however. To EXTERMINATE means to _destroy completely_. \nOther forms of the word: EXTERMINATION, n. EXTERMINATOR, n."
       },
       "LAG": {
         "word": "LAG",

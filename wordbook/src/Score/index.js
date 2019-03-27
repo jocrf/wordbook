@@ -37,7 +37,7 @@ export default class Score extends Component {
               <span>|</span>
               <span className='score correctScore'>
                 <span className='font-italic'><u>{this.props.altAnswer} </u></span>
-                  is also correct
+                 is also acceptable
               </span>
             </React.Fragment>
           }
