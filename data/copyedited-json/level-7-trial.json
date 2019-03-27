@@ -297,7 +297,7 @@
           "correct": "true"
         },
         {
-          "prompt": "Ann started exercising after someone told her she was becoming ROTUND.",
+          "prompt": "The overfed rabbit had grown quite ROTUND.",
           "word": "ROTUND",
           "correct": "true"
         },
@@ -1888,7 +1888,8 @@
         {
           "part1": "The teacher frowned and shook her head and made other",
           "part2": "signs of her displeasure.",
-          "answer": "overt"
+          "answer": "overt",
+          "alternate": "manifest"
         },
         {
           "part1": "We felt that a week was a(n)",
@@ -1954,7 +1955,8 @@
         {
           "part1": "The audience's displeasure with the performance was so",
           "part2": "that even the stagehands noticed it.",
-          "answer": "manifest"
+          "answer": "manifest",
+          "alternate": "overt"
         },
         {
           "part1": "The",
@@ -2018,7 +2020,7 @@
         },
         {
           "part1": "I'm no",
-          "part2": ",I have as much right to be here as you do.",
+          "part2": "—I have as much right to be here as you do.",
           "answer": "interloper"
         },
         {
@@ -3250,7 +3252,7 @@
         {
           "prompt": "INVIOLATE",
           "answers": [
-            "intact.",
+            "intact",
             "injured",
             "kindly",
             "beautiful",
@@ -4636,8 +4638,8 @@
       "DOLOROUS": {
         "word": "DOLOROUS",
         "phonetic": "(dO'-lÔøΩÔøΩs",
-        "pos": "or",
-        "deftext": "dol-ÔøΩrÔøΩs) adj.: mournful, sorrowful, melancholy, lugubrious \nDOLOR is a Latin word meaning _sorrow_, _grief_. It is also used in English as a poetic or literary synonym for _sorrow_. The adjective DOLOROUS, meaning _sorrowful_, _melancholy_, is more common. See _-ous_ under Suffixes. It too has a somewhat literary flavor, and is occasionally used rather humorously for grief that is exaggerated or excessive. \n\"After a few days Hal began to find the DOLOROUS sound of the fog horn to be quite depressing.\" \n\"Her DOLOROUS sobs put everyone in a sad mood.\" \n\"I had to interrupt her DOLOROUS tale of woe to tell her I was late for an appointment.\" \nOther forms of the word: DOLOR, n."
+        "pos": "adj.",
+        "deftext": "mournful, sorrowful, melancholy, lugubrious \nDOLOR is a Latin word meaning _sorrow_, _grief_. It is also used in English as a poetic or literary synonym for _sorrow_. The adjective DOLOROUS, meaning _sorrowful_, _melancholy_, is more common. See _-ous_ under Suffixes. It too has a somewhat literary flavor, and is occasionally used rather humorously for grief that is exaggerated or excessive. \n\"After a few days Hal began to find the DOLOROUS sound of the fog horn to be quite depressing.\" \n\"Her DOLOROUS sobs put everyone in a sad mood.\" \n\"I had to interrupt her DOLOROUS tale of woe to tell her I was late for an appointment.\" \nOther forms of the word: DOLOR, n."
       },
       "FRETFUL": {
         "word": "FRETFUL",
@@ -5807,7 +5809,7 @@
         "word": "PARSIMONIOUS",
         "phonetic": "(pahr-sÔøΩmO'-nE-ÔøΩs)",
         "pos": "adj.",
-        "deftext": "stingy, niggardly \nPARSIMONY is excessive thrift, extreme frugality. PARSIMONIOUS is the adjective from PARSIMONY; see _-ous_ under Suffixes. PARSIMONIOUS and _stingy_ are quite close in meaning, but there is a slight difference. _Stingy_ suggests a mean-spirited unwillingness to share what one has. PARSIMONIOUS is not usually quite so negative; it would be used more of a person who carries the virtue of thrift or economy to extremes. \n\"The rich man was so PARSIMONIOUS that he picked through other people's trash looking for clothing he might wear.\" \n\"They accused Jill of being PARSIMONIOUS when she wouldn't buy a ticket to the concert, but she said thirty dollars was far too much to spend.\" \n_Generous_, an opposite of PARSIMONIOUS, is the most common wrong answer on the Pretest item. \nOther forms of the word: PARSIMONY, n."
+        "deftext": "stingy, frugal \nPARSIMONY is excessive thrift, extreme frugality. PARSIMONIOUS is the adjective from PARSIMONY; see _-ous_ under Suffixes. PARSIMONIOUS and _stingy_ are quite close in meaning, but there is a slight difference. _Stingy_ suggests a mean-spirited unwillingness to share what one has. PARSIMONIOUS is not usually quite so negative; it would be used more of a person who carries the virtue of thrift or economy to extremes. \n\"The rich man was so PARSIMONIOUS that he picked through other people's trash looking for clothing he might wear.\" \n\"They accused Jill of being PARSIMONIOUS when she wouldn't buy a ticket to the concert, but she said thirty dollars was far too much to spend.\" \n_Generous_, an opposite of PARSIMONIOUS, is the most common wrong answer on the Pretest item. \nOther forms of the word: PARSIMONY, n."
       },
       "POTABLE": {
         "word": "POTABLE",
@@ -6734,7 +6736,7 @@
         "word": "EXTANT",
         "phonetic": "(ek'-stQnt",
         "pos": "adj.",
-        "deftext": "still existing, not lost or destroyed \nEXTANT means \"still in existence; not lost, destroyed, or exterminated.\" \n\"There are several different species of this fish EXTANT in the Caribbean.\" \nThe context often suggests that the things which are EXTANT are relatively rare—that most similar things do not still exist. \n\"The three EXTANT photographs of the man all show him with red hair.\" \n\"There is only one copy of the first edition of Shakespeare's play _Titus Andronicus_ EXTANT. It is in the Folger Library in Washington.\" The most popular wrong answer is _obsolete_, which is virtually an opposite of EXTANT."
+        "deftext": "still existing, not lost or destroyed \nEXTANT means \"still in existence; not lost, destroyed, or exterminated.\" \n\"There are several different species of this fish EXTANT in the Caribbean.\" \nThe context often suggests that the things which are EXTANT are relatively rare—that most similar things do not still exist. \n\"The three EXTANT photographs of the man all show him with red hair.\" \n\"There is only one copy of the first edition of Shakespeare's play _Titus Andronicus_ EXTANT. It is in the Folger Library in Washington.\" \nThe most popular wrong answer is _obsolete_, which is virtually an opposite of EXTANT."
       },
       "FATUOUS": {
         "word": "FATUOUS",
@@ -7289,7 +7291,7 @@
         "word": "HIRSUTE",
         "phonetic": "(her'-sUt",
         "pos": "adj.",
-        "deftext": "hairy, shaggy \nHIRSUTE means \"covered with hair,\" _shaggy_. \"The large, HIRSUTE dog left little clumps of fur all over the carpet.\" \n\"Mr. Jones ordered his HIRSUTE son to get a haircut.\""
+        "deftext": "hairy, shaggy \nHIRSUTE means \"covered with hair,\" _shaggy_. \n\"The large, HIRSUTE dog left little clumps of fur all over the carpet.\" \n\"Mr. Jones ordered his HIRSUTE son to get a haircut.\""
       },
       "IGNOMINIOUS": {
         "word": "IGNOMINIOUS",

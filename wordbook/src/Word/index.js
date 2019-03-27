@@ -58,6 +58,7 @@ export default class Word extends Component {
 
   render () {
     const { definition } = this.props;
+    console.log(definition, definition.word);
     return (
       <div className='card col-lg mt-3 mt-lg-0 bg-primary text-light wordCard'>
         <div className='card-body'>
