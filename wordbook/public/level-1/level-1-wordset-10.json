@@ -29,7 +29,7 @@
       "word": "ELEMENTARY",
       "phonetic": "(el-ÔøΩmen'-tÔøΩrE)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">basic, fundamental, simple </p><p>An ELEMENT is a basic part of something. The chemical ELEMENTS, for example, are the basic substances like oxygen and carbon which combine to form all matter. Something that is ELEMENTARY, therefore, has to do with the basic or first parts of a subject or a thing. </p><p>“He learned some of the ELEMENTARY steps, but he never became an expert dancer.” </p><p>“You have to pass ELEMENTARY French before you can take advanced courses.” </p><p>An ELEMENTARY school teaches children basic subjects like reading, writing, and arithmetic. Other forms of the word: ELEMENT, n.</p>"
+      "deftext": "<p class=\"definition\">basic, fundamental, simple </p><p>An ELEMENT is a basic part of something. The chemical ELEMENTS, for example, are the basic substances like oxygen and carbon which combine to form all matter. Something that is ELEMENTARY, therefore, has to do with the basic or first parts of a subject or a thing. </p><p>“He learned some of the ELEMENTARY steps, but he never became an expert dancer.” </p><p>“You have to pass ELEMENTARY French before you can take advanced courses.” </p><p>An ELEMENTARY school teaches children basic subjects like reading, writing, and arithmetic. </p><p>Other forms of the word: ELEMENT, n.</p>"
     },
     "INCINERATE": {
       "word": "INCINERATE",
@@ -77,7 +77,7 @@
       "word": "GRIEF",
       "phonetic": "(grEf)",
       "pos": "n.",
-      "deftext": "<p class=\"definition\">deep sorrow, sadness, mental suffering, misery </p><p>GRIEF is a very strong degree of <i class=“def-ital\">sadness</i> or <i class=“def-ital\">sorrow</i>. </p><p>GRIEF usually suggests sadness that is caused by loss, pain, regret, or despair, and that lasts for a long time or is very deep. </p><p>“No one could ease her GRIEF when she discovered that her son had died.” </p><p>“Jim’s GRIEF over her decision to leave him was almost unbearable.” </p><p>The phrase “to come to GRIEF” means “to meet misfortune or disappointment.” </p><p>“This project will come to GRIEF unless we work harder.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">anger</i>. <i class=“def-ital\">Anger</i> is another strong emotion, but it is not the same as GRIEF. Other forms of the word: GRIEVE, v.</p>"
+      "deftext": "<p class=\"definition\">deep sorrow, sadness, mental suffering, misery </p><p>GRIEF is a very strong degree of <i class=“def-ital\">sadness</i> or <i class=“def-ital\">sorrow</i>. </p><p>GRIEF usually suggests sadness that is caused by loss, pain, regret, or despair, and that lasts for a long time or is very deep. </p><p>“No one could ease her GRIEF when she discovered that her son had died.” </p><p>“Jim’s GRIEF over her decision to leave him was almost unbearable.” </p><p>The phrase “to come to GRIEF” means “to meet misfortune or disappointment.” </p><p>“This project will come to GRIEF unless we work harder.” </p><p>The most commonly chosen incorrect answer is <i class=“def-ital\">anger</i>. <i class=“def-ital\">Anger</i> is another strong emotion, but it is not the same as GRIEF. </p><p>Other forms of the word: GRIEVE, v.</p>"
     },
     "MOOD": {
       "word": "MOOD",
@@ -250,7 +250,7 @@
             "sickness"
           ],
           "word": "GRIEF",
-          "correct": "sadnÔøΩss"
+          "correct": "sadness"
         },
         {
           "prompt": "His MOOD.",

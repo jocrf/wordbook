@@ -5,7 +5,7 @@
       "word": "DEVOTION",
       "phonetic": "(di-vO'-shÔøΩn)",
       "pos": "n.",
-      "deftext": "<p class=\"definition\">faithfulness, dedication, loyalty </p><p>Someone who is DEVOTED is attached or dedicated to a purpose, cause, or person. </p><p>“They are DEVOTED to the idea of world peace.” DEVOTION is the quality of being DEVOTED; it is <i class=“def-ital\">faithfulness</i>, <i class=“def-ital\">dedication</i>, <i class=“def-ital\">loyalty</i>. </p><p>“Everyone admired her DEVOTION to her sick parents.” </p><p>“He was fired because he didn’t show enough DEVOTION to his duties.” </p><p>Other forms of the word: DEVOTE, v. </p><p>DEVOTED, adj.</p>"
+      "deftext": "<p class=\"definition\">faithfulness, dedication, loyalty </p><p>Someone who is DEVOTED is attached or dedicated to a purpose, cause, or person. </p><p>“They are DEVOTED to the idea of world peace.” DEVOTION is the quality of being DEVOTED; it is <i class=“def-ital\">faithfulness</i>, <i class=“def-ital\">dedication</i>, <i class=“def-ital\">loyalty</i>. </p><p>“Everyone admired her DEVOTION to her sick parents.” </p><p>“He was fired because he didn’t show enough DEVOTION to his duties.” </p><p>Other forms of the word: DEVOTE, v. DEVOTED, adj.</p>"
     },
     "CIRCUMSTANCE": {
       "word": "CIRCUMSTANCE",
@@ -41,13 +41,13 @@
       "word": "ASSASSIN",
       "phonetic": "(ÔøΩsas'-in)",
       "pos": "n.",
-      "deftext": "<p class=\"definition\">a murderer, killer </p><p>An ASSASSIN is a <i class=“def-ital\">killer</i>, especially one who is paid for killing or who kills a public official. </p><p>“They caught the ASSASSIN of the president.” </p><p>“The ASSASSIN prepared very carefully to murder his victim.” </p><p>The verb from ASSASSIN is ASSASSINATE. </p><p>“Several Roman emperors were ASSASSINATED.” </p><p>“The madman ASSASSINATED the mayor.” </p><p>Other forms of the word: ASSASSINATE, v. </p><p>ASSASSINATION, n.</p>"
+      "deftext": "<p class=\"definition\">a murderer, killer </p><p>An ASSASSIN is a <i class=“def-ital\">killer</i>, especially one who is paid for killing or who kills a public official. </p><p>“They caught the ASSASSIN of the president.” </p><p>“The ASSASSIN prepared very carefully to murder his victim.” </p><p>The verb from ASSASSIN is ASSASSINATE. </p><p>“Several Roman emperors were ASSASSINATED.” </p><p>“The madman ASSASSINATED the mayor.” </p><p>Other forms of the word: ASSASSINATE, v. ASSASSINATION, n.</p>"
     },
     "ENCOURAGE": {
       "word": "ENCOURAGE",
       "phonetic": "(en-kuhr'-ij)",
       "pos": "v.",
-      "deftext": "<p class=\"definition\">to put courage into, urge on, stimulate, hearten, foster </p><p> </p><p>ENCOURAGE basically means “to put courage into.” </p><p>“The soldiers needed to be ENCOURAGED before the battle.” </p><p>As the word is used today it means to <i class=“def-ital\">urge</i> or <i class=“def-ital\">help</i> someone to do something, through words or example or in some other way. </p><p>“Her presence ENCOURAGED him to try again.” </p><p>“My parents ENCOURAGED me to be a doctor.” What is ENCOURAGED can be either good or bad. </p><p>“His early success ENCOURAGED him in his life of crime.” </p><p>It doesn’t have to be a person who is ENCOURAGED. </p><p>“The plan was designed to ENCOURAGE small businesses.” </p><p>Other forms of the word: ENCOURAGEMENT, n. </p><p>ENCOURAGING, adj.</p>",
+      "deftext": "<p class=\"definition\">to put courage into, urge on, stimulate, hearten, foster </p><p> </p><p>ENCOURAGE basically means “to put courage into.” </p><p>“The soldiers needed to be ENCOURAGED before the battle.” </p><p>As the word is used today it means to <i class=“def-ital\">urge</i> or <i class=“def-ital\">help</i> someone to do something, through words or example or in some other way. </p><p>“Her presence ENCOURAGED him to try again.” </p><p>“My parents ENCOURAGED me to be a doctor.” What is ENCOURAGED can be either good or bad. </p><p>“His early success ENCOURAGED him in his life of crime.” </p><p>It doesn’t have to be a person who is ENCOURAGED. </p><p>“The plan was designed to ENCOURAGE small businesses.” </p><p>Other forms of the word: ENCOURAGEMENT, n. ENCOURAGING, adj.</p>",
       "prefix": [
         "See <i class=“def-ital\">in-</i> under Prefixes."
       ]
@@ -86,7 +86,7 @@
       "word": "DEFORMED",
       "phonetic": "(di-formd')",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">disfigured, misshapen </p><p>To DEFORM something is to take it out of its natural form or shape.  When something is DEFORMED, then, it is not shaped properly; it is disfigured. </p><p>“His leg was DEFORMED as a result of the accident.” </p><p>“The baby survived, but it was permanently DEFORMED.” </p><p>DEFORMED usually suggests something that is ugly or offensive. </p><p>“When he was very upset, his face would become DEFORMED with rage.” </p><p>In the Pretest, many people choose <i class=“def-ital\">destroyed</i> as the meaning of DEFORMED. Something that is DEFORMED still exists, it is just misshapen; it has not been <i class=“def-ital\">destroyed</i>. </p><p>Other forms of the word: DEFORM, v. </p><p>DEFORMITY, n.</p>",
+      "deftext": "<p class=\"definition\">disfigured, misshapen </p><p>To DEFORM something is to take it out of its natural form or shape.  When something is DEFORMED, then, it is not shaped properly; it is disfigured. </p><p>“His leg was DEFORMED as a result of the accident.” </p><p>“The baby survived, but it was permanently DEFORMED.” </p><p>DEFORMED usually suggests something that is ugly or offensive. </p><p>“When he was very upset, his face would become DEFORMED with rage.” </p><p>In the Pretest, many people choose <i class=“def-ital\">destroyed</i> as the meaning of DEFORMED. Something that is DEFORMED still exists, it is just misshapen; it has not been <i class=“def-ital\">destroyed</i>. </p><p>Other forms of the word: DEFORM, v. DEFORMITY, n.</p>",
       "prefix": [
         "See <i class=“def-ital\">de-</i> under Prefixes."
       ]
@@ -336,7 +336,7 @@
         {
           "prompt": "Would most people want to buy a DEFECTIVE watch?",
           "word": "DEFECTIVE",
-          "correct": "true"
+          "correct": "false"
         },
         {
           "prompt": "Can ideas be CIRCULATED?",
@@ -346,7 +346,7 @@
         {
           "prompt": "Can an ENCOUNTER be friendly?",
           "word": " ENCOUNTER",
-          "correct": "false"
+          "correct": "true"
         },
         {
           "prompt": "Do children usually have AUTHORITY over their parents?",
