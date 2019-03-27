@@ -6,13 +6,13 @@ export default class Input extends Component {
     let optionText = option;
     if (this.props.id === 1) {
       option === 'true'
-        ? optionText = 'yes'
-        : optionText = 'no';
+        ? optionText = 'YES'
+        : optionText = 'NO';
     }
     if (this.props.id === 2) {
       option === 'true'
-        ? optionText = 'right'
-        : optionText = 'wrong';
+        ? optionText = 'RIGHT'
+        : optionText = 'WRONG';
     }
     return (
       <React.Fragment>
