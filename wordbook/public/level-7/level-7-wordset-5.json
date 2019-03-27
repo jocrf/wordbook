@@ -359,8 +359,7 @@
           "prompt": "Can cheeks DISTEND?",
           "word": "DISTEND",
           "correct": "true"
-        },
-        {}
+        }
       ],
       "type": "tf",
       "id": 1

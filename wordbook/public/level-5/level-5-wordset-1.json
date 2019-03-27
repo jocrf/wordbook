@@ -5,13 +5,13 @@
       "word": "ADHERE",
       "phonetic": "(ad-hEr')",
       "pos": "v.",
-      "deftext": "<p class=\"definition\">to stick, hold fast </p><p>To ADHERE to something is to stick to it. Physical objects can ADHERE to other objects, and people can ADHERE to goals, beliefs, causes, and the like. </p><p>“The glue made the paper ADHERE to the table.</p><p>“She ADHERED to her position even after she had been proved wrong.</p><p>“I try to ADHERE to the Golden Rule in my everyday life.” </p><p>The most common mistake on the Pretest is to choose loosen as the meaning of ADHERE. This is a confusion of a word with its opposite. </p><p>Other forms of the word: ADHERENCE, n. ADHERENT, n. </p><p>Usage: ADHERE is usually followed by <i class=“def-ital\">to</i>.</p>"
+      "deftext": "<p class=\"definition\">to stick, hold fast </p><p>To ADHERE to something is to stick to it. Physical objects can ADHERE to other objects, and people can ADHERE to goals, beliefs, causes, and the like. </p><p>“The glue made the paper ADHERE to the table.” </p><p>“She ADHERED to her position even after she had been proved wrong.” </p><p>“I try to ADHERE to the Golden Rule in my everyday life.” </p><p>The most common mistake on the Pretest is to choose <i class=“def-ital\">loosen</i> as the meaning of ADHERE. This is a confusion of a word with its opposite. </p><p>Other forms of the word: ADHERENCE, n. ADHERENT, n. </p><p>Usage: ADHERE is usually followed by <i class=“def-ital\">to</i>.</p>"
     },
     "CONTEMPTUOUS": {
       "word": "CONTEMPTUOUS",
       "phonetic": "(kÔøΩn'-temp-chU-ÔøΩs)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">showing CONTEMPT, scornful  </p><p>CONTEMPT is an attitude in which you despise or look down on someone or something. </p><p>“He felt nothing but CONTEMPT for students who cheated on tests.</p><p>” CONTEMPTUOUS is an adjective from CONTEMPT; it means “showing or feeling CONTEMPT.”  </p><p>“She was CONTEMPTUOUS of people who used any means to get their own way.” </p><p>“The baseball coach was CONTEMPTUOUS of my attempt to throw a curveball.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">disgusting</i>. This may be due to confusion between CONTEMPTUOUS and CONTEMPTIBLE. CONTEMPTIBLE means “worthy of scorn or CONTEMPT.” </p><p>“Beating the dog severely was a CONTEMPTIBLE action. We are all CONTEMPTUOUS of such disgraceful behavior.” </p><p>Other forms of the word: CONTEMPT, n. CONTEMPTIBLE, adj.</p>",
+      "deftext": "<p class=\"definition\">showing CONTEMPT, scornful  </p><p>CONTEMPT is an attitude in which you despise or look down on someone or something. </p><p>“He felt nothing but CONTEMPT for students who cheated on tests.” </p><p> CONTEMPTUOUS is an adjective from CONTEMPT; it means “showing or feeling CONTEMPT.”  </p><p>“She was CONTEMPTUOUS of people who used any means to get their own way.” </p><p>“The baseball coach was CONTEMPTUOUS of my attempt to throw a curveball.” </p><p>The most commonly chosen wrong answer on the Pretest is <i class=“def-ital\">disgusting</i>. This may be due to confusion between CONTEMPTUOUS and CONTEMPTIBLE. CONTEMPTIBLE means “worthy of scorn or CONTEMPT.” </p><p>“Beating the dog severely was a CONTEMPTIBLE action. We are all CONTEMPTUOUS of such disgraceful behavior.” </p><p>Other forms of the word: CONTEMPT, n. CONTEMPTIBLE, adj.</p>",
       "suffix": [
         "See <i class=“def-ital\">-ous</i> under Suffixes."
       ]
@@ -101,7 +101,7 @@
       "word": "CONTEMPORARY",
       "phonetic": "(k:ln-tem'-p:l-rer-E)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">occurring at the same time, simultaneous; modern, current </p><p>Something which is CONTEMPORARY lives, exists, or occurs at the same time as something else. </p><p>“Shakespeare’s life was CONTEMPORARY with Francis Bacon’s.” </p><p>“The revival of learning in the Renaissance was CONTEMPORARY with the early explorations of America.” </p><p>“CONTEMPORARY authors all described the ancient king as being short and ugly.” </p><p>CONTEMPORARY also means <i class=“def-ital\">modern, up-to-date-</i> that is, existing at the same time we do. </p><p>“Jane decided to sell all her antique furniture and re- decorate her home in a more CONTEMPORARY style.” </p><p>CONTEMPORARY is also a noun which is used about people who live at the same time. </p><p>“Roberta and my sister, Lorraine, were CONTEMPORARIES at Columbia University.”</p>"
+      "deftext": "<p class=\"definition\">occurring at the same time, simultaneous; modern, current </p><p>Something which is CONTEMPORARY lives, exists, or occurs at the same time as something else. </p><p>“Shakespeare’s life was CONTEMPORARY with Francis Bacon’s.” </p><p>“The revival of learning in the Renaissance was CONTEMPORARY with the early explorations of America.” </p><p>“CONTEMPORARY authors all described the ancient king as being short and ugly.” </p><p>CONTEMPORARY also means <i class=“def-ital\">modern</i>, <i class=“def-ital\">up-to-date-</i> that is, existing at the same time we do. </p><p>“Jane decided to sell all her antique furniture and redecorate her home in a more CONTEMPORARY style.” </p><p>CONTEMPORARY is also a noun which is used about people who live at the same time. </p><p>“Roberta and my sister, Lorraine, were CONTEMPORARIES at Columbia University.”</p>"
     }
   },
   "id": "1",
@@ -279,11 +279,11 @@
         {
           "prompt": "CONTEMPORARY ideas.",
           "answers": [
-            "old-fashioned changeable",
+            "old-fashioned",
+            "changeable",
             "ancient",
             "current",
-            "future",
-            null
+            "future"
           ],
           "word": "CONTEMPORARY",
           "correct": "current"

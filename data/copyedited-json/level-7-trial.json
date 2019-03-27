@@ -1903,7 +1903,8 @@
         {
           "part1": "Mary puts",
           "part2": "amounts of catsup on everything she eats.",
-          "answer": "copious or inordinate"
+          "answer": "copious",
+          "alternate": "inordinate"
         },
         {
           "part1": "The mayor's enemies",
@@ -6001,7 +6002,8 @@
         {
           "part1": "When Sally was overtired, she became",
           "part2": "and would snap at everyone.",
-          "answer": "fretful or churlish"
+          "answer": "fretful",
+          "alternate": "churlish"
         },
         {
           "part1": "Even though he had plenty of money, the",
@@ -6056,7 +6058,8 @@
         {
           "part1": "The",
           "part2": "child cried and complained whenever he didn't get his own way.",
-          "answer": "petulant or peevish or obstreperous"
+          "answer": "petulant",
+          "alternate": "peevish or obstreperous"
         },
         {
           "part1": "The wine was bitter but",
@@ -6066,17 +6069,20 @@
         {
           "part1": "The",
           "part2": "lady complained constantly about everything.",
-          "answer": "peevish or petulant or choleric"
+          "answer": "peevish",
+          "alternate": "petulant or choleric"
         },
         {
           "part1": "The",
           "part2": "audience started shouting and demanding their money back when the film projector broke.",
-          "answer": "vociferous or obstreperous"
+          "answer": "vociferous",
+          "alternate": "obstreperous"
         },
         {
           "part1": "Her",
           "part2": ", sunny disposition made it seem as if she didn't have a problem in the world.",
-          "answer": "blithe or ebullient"
+          "answer": "blithe",
+          "alternate": "ebullient"
         },
         {
           "part1": "We listened with pleasure to the",
@@ -6101,12 +6107,14 @@
         {
           "part1": "The",
           "part2": "man would explode with anger at the slightest provocation.",
-          "answer": "choleric or peevish or petulant"
+          "answer": "choleric",
+          "alternate": "peevish or petulant"
         },
         {
           "part1": "The",
           "part2": "spectators became so loud and unruly that the quarterback couldn't be heard by his team.",
-          "answer": "obstreperous or vociferous"
+          "answer": "obstreperous",
+          "alternate": "vociferous"
         },
         {
           "part1": "The Red Cross said there was a(n)",

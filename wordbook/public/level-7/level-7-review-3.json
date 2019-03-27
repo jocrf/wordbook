@@ -10,7 +10,8 @@
     },
     {
       "word": "BLITHE",
-      "answer": "blithe or ebullient"
+      "answer": "blithe",
+      "alternate": "ebullient"
     },
     {
       "word": "CATACLYSM",
@@ -22,7 +23,8 @@
     },
     {
       "word": "CHOLERIC",
-      "answer": "choleric or peevish or petulant"
+      "answer": "choleric",
+      "alternate": "peevish or petulant"
     },
     {
       "word": "CHURLISH",
@@ -62,7 +64,8 @@
     },
     {
       "word": "FRETFUL",
-      "answer": "fretful or churlish"
+      "answer": "fretful",
+      "alternate": "churlish"
     },
     {
       "word": "HAPLESS",
@@ -114,7 +117,8 @@
     },
     {
       "word": "OBSTREPEROUS",
-      "answer": "obstreperous or vociferous"
+      "answer": "obstreperous",
+      "alternate": "vociferous"
     },
     {
       "word": "OSSIFY",
@@ -126,11 +130,13 @@
     },
     {
       "word": "PEEVISH",
-      "answer": "peevish or petulant or choleric"
+      "answer": "peevish",
+      "alternate": "petulant or choleric"
     },
     {
       "word": "PETULANT",
-      "answer": "petulant or peevish or obstreperous"
+      "answer": "petulant",
+      "alternate": "peevish or obstreperous"
     },
     {
       "word": "PORTEND",
@@ -178,7 +184,8 @@
     },
     {
       "word": "VOCIFEROUS",
-      "answer": "vociferous or obstreperous"
+      "answer": "vociferous",
+      "alternate": "obstreperous"
     }
   ],
   "questions": [
@@ -281,7 +288,8 @@
     {
       "part1": "When Sally was overtired, she became",
       "part2": "and would snap at everyone.",
-      "correct": "fretful or churlish",
+      "alternate": "churlish",
+      "correct": "fretful",
       "word": "FRETFUL"
     },
     {
@@ -347,7 +355,8 @@
     {
       "part1": "The",
       "part2": "child cried and complained whenever he didn't get his own way.",
-      "correct": "petulant or peevish or obstreperous",
+      "alternate": "peevish or obstreperous",
+      "correct": "petulant",
       "word": "PETULANT"
     },
     {
@@ -359,19 +368,22 @@
     {
       "part1": "The",
       "part2": "lady complained constantly about everything.",
-      "correct": "peevish or petulant or choleric",
+      "alternate": "petulant or choleric",
+      "correct": "peevish",
       "word": "PEEVISH"
     },
     {
       "part1": "The",
       "part2": "audience started shouting and demanding their money back when the film projector broke.",
-      "correct": "vociferous or obstreperous",
+      "alternate": "obstreperous",
+      "correct": "vociferous",
       "word": "VOCIFEROUS"
     },
     {
       "part1": "Her",
       "part2": ", sunny disposition made it seem as if she didn't have a problem in the world.",
-      "correct": "blithe or ebullient",
+      "alternate": "ebullient",
+      "correct": "blithe",
       "word": "BLITHE"
     },
     {
@@ -381,7 +393,7 @@
       "word": "DULCET"
     },
     {
-      "part1": ". The sudden hundred-foot drop turned the peaceful river into a dangerous",
+      "part1": "The sudden hundred-foot drop turned the peaceful river into a dangerous",
       "part2": ".",
       "correct": "cataract",
       "word": "CATARACT"
@@ -401,13 +413,15 @@
     {
       "part1": "The",
       "part2": "man would explode with anger at the slightest provocation.",
-      "correct": "choleric or peevish or petulant",
+      "alternate": "peevish or petulant",
+      "correct": "choleric",
       "word": "CHOLERIC"
     },
     {
       "part1": "The",
       "part2": "spectators became so loud and unruly that the quarterback couldn't be heard by his team.",
-      "correct": "obstreperous or vociferous",
+      "alternate": "vociferous",
+      "correct": "obstreperous",
       "word": "OBSTREPEROUS"
     },
     {

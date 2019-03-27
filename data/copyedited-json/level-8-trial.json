@@ -8025,7 +8025,8 @@
         {
           "part1": "The",
           "part2": "brochure made the congressman sound like another Abraham Lincoln.",
-          "answer": "tendentious or fulsome"
+          "answer": "tendentious",
+          "alternate": "fulsome"
         },
         {
           "part1": "We found the music",

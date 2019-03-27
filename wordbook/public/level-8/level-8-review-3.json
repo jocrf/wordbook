@@ -26,7 +26,7 @@
     },
     {
       "word": "CALLOW",
-      "answer": "callow or ingenuous"
+      "answer": "callow"
     },
     {
       "word": "CAPTIOUS",
@@ -170,7 +170,7 @@
     },
     {
       "word": "TRUCULENT",
-      "answer": "truculent or recalcitrant"
+      "answer": "truculent"
     },
     {
       "word": "TURPITUDE",
@@ -215,12 +215,12 @@
     {
       "part1": "The drunk became quite",
       "part2": "when the police tried to arrest him, so they had to call for assistance.",
-      "correct": "truculent or recalcitrant",
+      "correct": "truculent",
       "word": "TRUCULENT"
     },
     {
-      "part1": "The",
-      "part2": "young woman told him that she didn't know the first thing about typing, but wanted the job anyway.",
+      "part1": "Although the",
+      "part2": "employee had been at his company only two weeks, he put his name up for promotion.",
       "correct": "ingenuous",
       "word": "INGENUOUS"
     },
@@ -243,7 +243,8 @@
       "word": "NUGATORY"
     },
     {
-      "part1": "The servant is more formal and correct in his behavior than his easygoing employer.",
+      "part1": "The",
+      "part2": "servant is more formal and correct in his behavior than his easygoing employer.",
       "correct": "punctilious",
       "word": "PUNCTILIOUS"
     },
@@ -286,7 +287,7 @@
     {
       "part1": "The",
       "part2": "youth was unprepared for the sophistication and glamour of big-city life.",
-      "correct": "callow or ingenuous",
+      "correct": "callow",
       "word": "CALLOW"
     },
     {
