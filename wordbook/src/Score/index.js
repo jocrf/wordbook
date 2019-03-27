@@ -10,11 +10,26 @@ export default class Score extends Component {
   render () {
     return (
       <React.Fragment>
+        {
+          this.props.type === 'tf' &&
+          <div>
+            {
+              (this.props.chosenAnswer === this.props.correctAnswer)
+                ? <span className='score correctScore font-italic'>correct</span>
+                : <span className='score wrongScore font-italic'>incorrect</span>
+            }
+          </div>
+        }
         <div>
           {
-            (this.props.chosenAnswer === this.props.correctAnswer)
-              ? <span className='score correctScore'><span className='font-italic'><u>{this.props.correctAnswer}</u></span> is correct</span>
-              : <span className='score wrongScore'>The correct answer is <span className='font-italic'><u>{this.props.correctAnswer}</u></span></span>
+            this.props.type !== 'tf' &&
+            <span>
+              {
+                (this.props.chosenAnswer === this.props.correctAnswer)
+                  ? <span className='score correctScore'><span className='font-italic'><u>{this.props.correctAnswer}</u></span> is correct</span>
+                  : <span className='score wrongScore'>The correct answer is <span className='font-italic'><u>{this.props.correctAnswer}</u></span></span>
+              }
+            </span>
           }
           {
             this.props.altAnswer &&
@@ -22,7 +37,7 @@ export default class Score extends Component {
               <span>|</span>
               <span className='score correctScore'>
                 <span className='font-italic'><u>{this.props.altAnswer} </u></span>
-                 is also correct
+                  is also correct
               </span>
             </React.Fragment>
           }
