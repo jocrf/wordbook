@@ -16,7 +16,7 @@
         "title": "Exercise 1",
         "instructions": "Answer each question with a YES or NO.",
         "example": "Is a speck of dust TINY?",
-        "example-answer": "NO"
+        "example-answer": "YES"
       },
       "2": {
         "id": 2,
