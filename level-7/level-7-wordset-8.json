@@ -23,7 +23,7 @@
       "word": "OBSEQUIOUS",
       "phonetic": "(ob-sE'-kwE-as)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">fawning, servile </p><p>OBSEQUIOUS means “excessively polite.” The word usually has a negative connotation and suggests flattery and groveling, although it may only suggest extreme obedience and attentiveness. </p><p>“The boss didn’t like OBSEQUIOUS employees who would constantly open doors for him and compliment his ideas.” </p><p>“The service at the restaurant was friendly but not OBSEQUIOUS.” </p><p>“The OBSEQUIOUS servants said that nothing would give them more pleasure than to do our bidding.” </p><p>Crafty is more popular than the correct answer-<i class=“def-ital\">fawning<i class=“def-ital\">-on the Pretest, perhaps because OBSEQUIOUS people often seem to be up to something with their insincere flattery; or <i class=“def-ital\">crafty</i> may be chosen because of confusion with the word <i class=“def-ital\">devious</i>.</p>"
+      "deftext": "<p class=\"definition\">fawning, servile </p><p>OBSEQUIOUS means “excessively polite.” The word usually has a negative connotation and suggests flattery and groveling, although it may only suggest extreme obedience and attentiveness. </p><p>“The boss didn’t like OBSEQUIOUS employees who would constantly open doors for him and compliment his ideas.” </p><p>“The service at the restaurant was friendly but not OBSEQUIOUS.” </p><p>“The OBSEQUIOUS servants said that nothing would give them more pleasure than to do our bidding.” </p><p>Crafty is more popular than the correct answer—<i class=“def-ital\">fawning</i>—on the Pretest, perhaps because OBSEQUIOUS people often seem to be up to something with their insincere flattery; or <i class=“def-ital\">crafty</i> may be chosen because of confusion with the word <i class=“def-ital\">devious</i>.</p>"
     },
     "REMUNERATE": {
       "word": "REMUNERATE",
@@ -64,11 +64,11 @@
       "pos": "n.",
       "deftext": "<p class=\"definition\">weariness, lethargy, languor, listlessness </p><p>LASSITUDE is a state of weariness and inactivity, a lack of energy resulting from strain, overwork, a hot climate, or the like. </p><p>“Angela couldn’t seem to overcome her LASSITUDE; all she wanted to do was lie in bed.” </p><p>“After the long baseball season the player gave way to a strong feeling of LASSITUDE.” </p><p>“The muggy, tropical climate induced an overpowering LASSITUDE that made it difficult to work.”</p>"
     },
-    "PETULANT": {
-      "word": "PETULANT",
+    "TRAVESTY": {
+      "word": "TRAVESTY",
       "phonetic": "(pech'-U-1::int)",
-      "pos": "adj.",
-      "deftext": "<p class=\"definition\">irritable, peevish, ill-tempered </p><p>PETULANT means peevish, “easily upset or angered,” like a spoiled child who doesn’t get his or her own way. </p><p>“The PETULANT actress became angry every time the director made a suggestion.” </p><p>“Bob complained PETULANTLY that everyone else always got dessert before he did.” </p><p>“Rich knew from her PETULANT refusal to greet him that she was angry with him again.” </p><p>Other forms of the word: PETULANCE, n.</p>"
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">a false, absurd, or distorted representation of something; caricature </p><p>TRAVESTY comes from the Latin words <i class=“def-ital\">trans</i>, meaning <i class=“def-ital\">across</i>, and <i class=“def-ital\">vestire</i>, meaning <i class=“def-ital\">to clothe</i>. <i class=“def-ital\">Transvestite</i>, meaning <i class=“def-ital\">cross-dresser</i>, comes from these same roots. </p><p>“The newspaper article claimed that the botched legal proceeding was a travesty of justice.” </p><p>“Many people consider “The Book of Mormon” to be a brilliant travesty of religion.” </p><p>TRAVESTY can also be a verb meaning to <i class=“def-ital\">represent in a false or distorted way</i>. </p><p>“The students performed a skit travestying their drama teacher’s eccentricities.” </p><p>The most common wrong answer is <i class=“def-ital\">consequence</i>, perhaps because of confusion with <i class=“def-ital\">tragedy</i>.</p>"
     },
     "REVERIE": {
       "word": "REVERIE",
@@ -223,16 +223,16 @@
           "correct": "weariness"
         },
         {
-          "prompt": "PETULANT",
+          "prompt": "TRAVESTY",
           "answers": [
-            "quick",
-            "friendly",
-            "popular",
-            "irritable",
-            "cunning"
+            "duty",
+            "caricature",
+            "ceremony",
+            "consequence",
+            "characteristic"
           ],
-          "word": "PETULANT",
-          "correct": "irritable"
+          "word": "TRAVESTY",
+          "correct": "caricature"
         },
         {
           "prompt": "REVERIE",
@@ -339,9 +339,9 @@
           "correct": "true"
         },
         {
-          "prompt": "Is it easy to get along with a PETULANT person?",
-          "word": "PETULANT",
-          "correct": "false"
+          "prompt": "Can a TRAVESTY be jocose?",
+          "word": "TRAVESTY",
+          "correct": "true"
         },
         {
           "prompt": "Is a REVERIE loud?",
@@ -420,9 +420,9 @@
           "correct": "false"
         },
         {
-          "prompt": "I'm not PETULANT; I just have high standards, and I get angry when people don't meet them.",
-          "word": "PETULANT",
-          "correct": "true"
+          "prompt": "The news headlines referred to the devastating earthquake as a TRAVESTY.",
+          "word": "TRAVESTY",
+          "correct": "false"
         },
         {
           "prompt": "In solemn REVERIE he begged God to forgive his sins.",
@@ -551,14 +551,14 @@
           "correct": "0"
         },
         {
-          "prompt": "PETULANT",
+          "prompt": "TRAVESTY",
           "answers": [
-            "irritable",
-            "sad",
-            "peevish"
+            "mockery",
+            "burlesque",
+            "disaster"
           ],
-          "word": "PETULANT",
-          "correct": "1"
+          "word": "TRAVESTY",
+          "correct": "2"
         },
         {
           "prompt": "REVERIE",

@@ -38,7 +38,8 @@
     },
     {
       "word": "DEFINITE",
-      "answer": "definite"
+      "answer": "definite",
+      "alternate": "certain"
     },
     {
       "word": "DELEGATE",
@@ -214,7 +215,7 @@
     },
     {
       "part1": "The bus driver was very",
-      "part2": "He helped the blind lady to her seat and let her know when he reached her stop.",
+      "part2": ". He helped the blind lady to her seat and let her know when he reached her stop.",
       "correct": "courteous.",
       "word": "COURTEOUS"
     },
@@ -365,6 +366,7 @@
     {
       "part1": "Their vacation plans aren't very",
       "part2": "yet; they think they might go on a cruise somewhere.",
+      "alternate": "certain",
       "correct": "definite",
       "word": "DEFINITE"
     },
@@ -400,7 +402,7 @@
     },
     {
       "part1": "I don't want to",
-      "part2": ", but if you're not busy I'd like to see you for a minute.",
+      "part2": "on your time, but if you're not busy I'd like to see you for a minute.",
       "correct": "intrude",
       "word": "INTRUDE"
     },

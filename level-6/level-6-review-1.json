@@ -190,7 +190,7 @@
     },
     {
       "part1": "He was a member of the educational",
-      "part2": "--one of the greatest professors in the country.",
+      "part2": "—one of the greatest professors in the country.",
       "correct": "elite",
       "word": "ELITE"
     },
@@ -207,7 +207,7 @@
       "word": "IMBECILIC"
     },
     {
-      "part1": "Since she was taught from childhood to hate and fear those who were of a different race, it was only natural for her to be",
+      "part1": "Since she was taught from childhood to hate and fear those who were of a different race, it was unsurprising that she was",
       "part2": ".",
       "correct": "bigoted",
       "word": "BIGOT"

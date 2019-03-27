@@ -267,7 +267,7 @@
       "word": "TROPHY"
     },
     {
-      "part1": "Jill was,",
+      "part1": "Jill was",
       "part2": "all day until her sister came and cheered her up.",
       "correct": "downcast",
       "word": "DOWNCAST"
@@ -387,7 +387,7 @@
       "word": "STUMBLE"
     },
     {
-      "part1": "The over-ripe fruit began to",
+      "part1": "The overripe fruit began to",
       "part2": "in the hot sun.",
       "correct": "decay",
       "word": "DECAY"

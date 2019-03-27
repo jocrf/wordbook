@@ -11,7 +11,7 @@
       "word": "QUIRK",
       "phonetic": "(kwerk)",
       "pos": "n.",
-      "deftext": "<p class=\"definition\">a peculiarity of behavior </p><p>The basic meaning of QUIRK is “a sudden twist or curve.” It is still used this way in the phrase “a QUIRK of fate,” which is a sudden twist or change of fate. Usually today the word means “twists” of behavior--that is, personal peculiarities or mannerisms. </p><p>“If you ignore some of the QUIRKS of his personality, he’s really a very nice fellow.” </p><p>“She has this odd QUIRK of always wanting to be the last one to arrive at a party.”</p>"
+      "deftext": "<p class=\"definition\">a peculiarity of behavior </p><p>The basic meaning of QUIRK is “a sudden twist or curve.” It is still used this way in the phrase “a QUIRK of fate,” which is a sudden twist or change of fate. Usually today the word means “twists” of behavior—that is, personal peculiarities or mannerisms. </p><p>“If you ignore some of the QUIRKS of his personality, he’s really a very nice fellow.” </p><p>“She has this odd QUIRK of always wanting to be the last one to arrive at a party.”</p>"
     },
     "NONPAREIL": {
       "word": "NONPAREIL",
@@ -377,7 +377,7 @@
           "correct": "true"
         },
         {
-          "prompt": "He was a singer NONPAREIL--perhaps the greatest that ever lived.",
+          "prompt": "He was a singer NONPAREIL—perhaps the greatest that ever lived.",
           "word": "NONPAREIL",
           "correct": "true"
         },

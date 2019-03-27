@@ -42,7 +42,8 @@
     },
     {
       "word": "COPIOUS",
-      "answer": "copious or inordinate"
+      "answer": "copious",
+      "alternate": "inordinate"
     },
     {
       "word": "CORPULENT",
@@ -122,7 +123,8 @@
     },
     {
       "word": "MANIFEST",
-      "answer": "manifest"
+      "answer": "manifest",
+      "alternate": "overt"
     },
     {
       "word": "MILIEU",
@@ -142,7 +144,8 @@
     },
     {
       "word": "OVERT",
-      "answer": "overt"
+      "answer": "overt",
+      "alternate": "manifest"
     },
     {
       "word": "PORTENT",
@@ -263,6 +266,7 @@
     {
       "part1": "The teacher frowned and shook her head and made other",
       "part2": "signs of her displeasure.",
+      "alternate": "manifest",
       "correct": "overt",
       "word": "OVERT"
     },
@@ -281,7 +285,8 @@
     {
       "part1": "Mary puts",
       "part2": "amounts of catsup on everything she eats.",
-      "correct": "copious or inordinate",
+      "alternate": "inordinate",
+      "correct": "copious",
       "word": "COPIOUS"
     },
     {
@@ -341,6 +346,7 @@
     {
       "part1": "The audience's displeasure with the performance was so",
       "part2": "that even the stagehands noticed it.",
+      "alternate": "overt",
       "correct": "manifest",
       "word": "MANIFEST"
     },
@@ -418,7 +424,7 @@
     },
     {
       "part1": "I'm no",
-      "part2": ",I have as much right to be here as you do.",
+      "part2": "—I have as much right to be here as you do.",
       "correct": "interloper",
       "word": "INTERLOPER"
     },
