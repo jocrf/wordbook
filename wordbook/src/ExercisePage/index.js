@@ -11,6 +11,7 @@ export default class ExercisePage extends Component {
     this.markWrongAnswers = this.markWrongAnswers.bind(this);
     this.onQuizCompleted = this.onQuizCompleted.bind(this);
     this.populateData = this.populateData.bind(this);
+    this.resetWrongAnswers = this.resetWrongAnswers.bind(this);
     this.toggleQuizState = this.toggleQuizState.bind(this);
     this.state = {
       chapter: {},
@@ -38,6 +39,7 @@ export default class ExercisePage extends Component {
     if (prevProps.exercise !== this.props.exercise) {
       this.setState({ isQuizzing: false, quizCompleted: false });
       this.populateData();
+      this.resetWrongAnswers();
     }
   }
 
@@ -59,6 +61,10 @@ export default class ExercisePage extends Component {
     }
     getExercise(level, section, wordset, exercise, review)
       .then(data => this.setState({ chapter: data }));
+  }
+
+  resetWrongAnswers () {
+    this.setState({ wrongAnswers: 0 });
   }
 
   toggleQuizState () {
@@ -88,7 +94,9 @@ export default class ExercisePage extends Component {
                   section={this.props.section}
                   exercise={this.props.exercise}
                   group={this.props.group}
+                  type={this.state.chapter.exercise.type}
                   wrongAnswers={this.state.wrongAnswers}
+                  numQuestions={this.state.chapter.exercise.questions.length}
                   review={this.props.review}
                   placement={this.props.placement}
                   quizCompleted={this.state.quizCompleted}
@@ -118,6 +126,7 @@ export default class ExercisePage extends Component {
                       onQuizCompleted={this.onQuizCompleted}
                       toggleQuizState={this.toggleQuizState}
                       markWrongAnswers={this.markWrongAnswers}
+                      wrongAnswers={this.state.wrongAnswers}
                       placement={this.props.placement}
                     />
                   </div>

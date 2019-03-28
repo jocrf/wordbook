@@ -79,6 +79,8 @@ export default class Exercise extends Component {
     }
     return (
       <QuestionWrapper
+        wrongAnswers={this.props.wrongAnswers}
+        numQuestions={this.props.questions.length}
         onButtonClick={this.checkButtonHandler}
         buttonText={this.state.buttonText}
         type={this.props.questionType}
@@ -107,7 +109,7 @@ export default class Exercise extends Component {
           altAnswer={question.alternate}
           onChange={this.changeHandler}
           placement={this.props.placement}
-          markWrongAnswers={this.props.markWrongAnswers} // for placement
+          markWrongAnswers={this.props.markWrongAnswers}
           value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[reviewPrompt]}
           showAnswers={this.state.showAnswers}
           word={question.word}

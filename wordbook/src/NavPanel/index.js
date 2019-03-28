@@ -52,7 +52,7 @@ export default withRouter(class NavPanel extends Component {
 
   render () {
     // TODO: add type checker - if type 'review', say 'x', if type 'placement', say 'y', etc
-    const { level, section, wordset, exercise, group, instructions } = this.props;
+    const { level, section, wordset, exercise, group, instructions, wrongAnswers, numQuestions } = this.props;
     return (
       <React.Fragment>
         {/* for placement quiz */}
@@ -83,6 +83,7 @@ export default withRouter(class NavPanel extends Component {
               !this.state.wordsetCompleted && this.props.quizCompleted &&
               <React.Fragment>
                 <p className='card-text'>You've made it through Level {+group + 1} of the placement quiz!</p>
+                <p className='card-text'>You got {numQuestions - wrongAnswers} out of {numQuestions} correct.</p>
                 <button className='btn btn-primary' onClick={this.incrementExercise}>Continue</button>
               </React.Fragment>
             }
@@ -118,10 +119,10 @@ export default withRouter(class NavPanel extends Component {
             }
             {/* exercise completion */}
             {
-              this.props.quizCompleted && !this.state.wordsetCompleted && !this.props.review &&
+              this.props.quizCompleted && !this.state.wordsetCompleted && !this.props.review && this.props.type === 'mc-one' &&
               <div>
                 <p className='card-text'>You just completed {+exercise === 0 ? 'the Pretest' : 'Exercise ' + exercise} of Wordset {wordset} of Level {level}, Section {section}.</p>
-                {/* TODO add report of quiz results */}
+                <p className='card-text'>You got {numQuestions - wrongAnswers} out of {numQuestions} correct.</p>
                 <p className='card-text'>Ready to keep learning?</p>
                 <button className='btn btn-primary'onClick={this.incrementExercise}>Next</button>
               </div>
