@@ -108,7 +108,10 @@ export default withRouter(class StorageModal extends Component {
 
   displayUpdate () {
     this.setState({ progressUpdated: true }, () => {
-      setTimeout(() => this.setState({ progressUpdated: false }), 2000);
+      setTimeout(() => {
+        this.setState({ progressUpdated: false });
+        this.props.hideStorage();
+      }, 2000);
     });
   }
 
@@ -119,6 +122,7 @@ export default withRouter(class StorageModal extends Component {
           !this.props.declinedStorage &&
             <React.Fragment>
               <StorageView
+                hideStorage={this.props.hideStorage}
                 declineStorage={this.declineStorage}
                 useStorage={this.props.useStorage}
                 enableStorage={this.enableStorage}
@@ -133,14 +137,12 @@ export default withRouter(class StorageModal extends Component {
               {
                 this.state.undefinedType &&
                 <Message
-                  buttonMethod={this.unsetMessage}
                   messageText='Progress cannot be saved unless you are currently in an exercise.'
                 />
               }
               {
                 this.state.progressUpdated &&
                 <Message
-                  buttonMethod={this.closeUpdate}
                   messageText='Progress saved.'
                 />
               }

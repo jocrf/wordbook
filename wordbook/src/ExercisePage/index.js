@@ -92,6 +92,7 @@ export default withRouter(class ExercisePage extends Component {
 
   onQuizCompleted () {
     this.setState({ quizCompleted: true, isQuizzing: false });
+    this.props.showStorage();
   }
 
   populateData () {
@@ -143,6 +144,7 @@ export default withRouter(class ExercisePage extends Component {
                   review={this.props.review}
                   placement={this.props.placement}
                   quizCompleted={this.state.quizCompleted}
+                  showStorage={this.props.showStorage}
                   toggleQuizState={this.toggleQuizState}
                   instructions={this.state.instructions}
                   incrementExercise={this.incrementExercise}
