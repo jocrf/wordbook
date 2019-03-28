@@ -85,6 +85,7 @@ export default class Exercise extends Component {
     return (
       <QuestionWrapper
         wrongAnswers={this.props.wrongAnswers}
+        numQuestions={this.props.numQuestions}
         onButtonClick={this.checkButtonHandler}
         buttonText={this.state.buttonText}
         type={this.props.questionType}

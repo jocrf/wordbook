@@ -19,7 +19,7 @@ export default class QuestionWrapper extends Component {
           {this.props.children}
           {this.props.showAnswers && !this.props.placement && this.props.type !== 'mc-one' && this.props.type !== 'fitb' &&
             <div className='card'>
-              <p className='card-text p-3'>You missed {this.props.wrongAnswers} words. Click on any of the words in the questions above to see the definition again.</p>
+              <p className='card-text p-3'>You got {this.props.numQuestions - this.props.wrongAnswers} correct out of {this.props.numQuestions}. Click on any of the words in the questions above to see the definition again.</p>
             </div>
           }
           <button className={`btn ${buttonColorClass}`}>{this.props.buttonText}</button>

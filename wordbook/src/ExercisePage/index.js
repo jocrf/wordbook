@@ -172,6 +172,7 @@ export default withRouter(class ExercisePage extends Component {
                       toggleQuizState={this.toggleQuizState}
                       markWrongAnswers={this.markWrongAnswers}
                       wrongAnswers={this.state.wrongAnswers}
+                      numQuestions={this.state.chapter.exercise.questions.length}
                       placement={this.props.placement}
                       incrementExercise={this.incrementExercise}
                       wordsetCompleted={this.state.wordsetCompleted}
