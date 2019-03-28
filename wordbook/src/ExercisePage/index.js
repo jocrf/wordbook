@@ -8,6 +8,7 @@ import Loading from '../Loading';
 export default class ExercisePage extends Component {
   constructor (props) {
     super(props);
+    this.markWrongAnswers = this.markWrongAnswers.bind(this);
     this.onQuizCompleted = this.onQuizCompleted.bind(this);
     this.populateData = this.populateData.bind(this);
     this.toggleQuizState = this.toggleQuizState.bind(this);
@@ -15,7 +16,8 @@ export default class ExercisePage extends Component {
       chapter: {},
       instructions: {},
       isQuizzing: false,
-      quizCompleted: false
+      quizCompleted: false,
+      wrongAnswers: 0
     };
   }
 
@@ -39,6 +41,10 @@ export default class ExercisePage extends Component {
     }
   }
 
+  markWrongAnswers () {
+    this.setState((prevState) => ({ wrongAnswers: prevState.wrongAnswers + 1 }));
+  }
+
   onQuizCompleted () {
     this.setState({ quizCompleted: true, isQuizzing: false });
   }
@@ -48,7 +54,6 @@ export default class ExercisePage extends Component {
     getInstructions(exercise, review, placement)
       .then(instructions => this.setState({ instructions: instructions }));
     if (placement) {
-      this.props.resetAnswers();
       return getPlacement(exercise)
         .then(data => this.setState({ chapter: data }));
     }
@@ -83,7 +88,7 @@ export default class ExercisePage extends Component {
                   section={this.props.section}
                   exercise={this.props.exercise}
                   group={this.props.group}
-                  passed={this.props.passed}
+                  wrongAnswers={this.state.wrongAnswers}
                   review={this.props.review}
                   placement={this.props.placement}
                   quizCompleted={this.state.quizCompleted}
@@ -112,7 +117,7 @@ export default class ExercisePage extends Component {
                       wordlist={this.state.chapter.exercise.wordList}
                       onQuizCompleted={this.onQuizCompleted}
                       toggleQuizState={this.toggleQuizState}
-                      markWrongAnswers={this.props.markWrongAnswers}
+                      markWrongAnswers={this.markWrongAnswers}
                       placement={this.props.placement}
                     />
                   </div>

@@ -14,9 +14,9 @@ export default withRouter(class NavPanel extends Component {
   incrementExercise () {
     let nextExercise = null;
     // group for placement, exercise for LearningPage
-    const { exercise, group } = this.props;
-    if (group >= 0) {
-      if (group < 8 && this.props.passed) { // hard-coded based on placement data
+    const { exercise, group, wrongAnswers } = this.props;
+    if (this.props.placement) {
+      if (group < 8 && wrongAnswers < 2) { // hard-coded based on placement data
         nextExercise = +group + 1;
       } else {
         nextExercise = null;
