@@ -4,10 +4,12 @@ import NavPanel from '../NavPanel';
 import Instructions from '../Instructions';
 import { getExercise, getInstructions, getPlacement } from '../API';
 import Loading from '../Loading';
+import { withRouter } from 'react-router-dom';
 
-export default class ExercisePage extends Component {
+export default withRouter(class ExercisePage extends Component {
   constructor (props) {
     super(props);
+    this.incrementExercise = this.incrementExercise.bind(this);
     this.markWrongAnswers = this.markWrongAnswers.bind(this);
     this.onQuizCompleted = this.onQuizCompleted.bind(this);
     this.populateData = this.populateData.bind(this);
@@ -18,6 +20,7 @@ export default class ExercisePage extends Component {
       instructions: {},
       isQuizzing: false,
       quizCompleted: false,
+      wordsetCompleted: false,
       wrongAnswers: 0
     };
   }
@@ -40,6 +43,46 @@ export default class ExercisePage extends Component {
       this.setState({ isQuizzing: false, quizCompleted: false });
       this.populateData();
       this.resetWrongAnswers();
+    }
+  }
+
+  incrementExercise () {
+    console.log('incrementing');
+    let nextExercise = null;
+    // group for placement, exercise for LearningPage
+    const { exercise, group, wrongAnswers } = this.props;
+    if (this.props.placement) {
+      if (group < 8 && wrongAnswers < 2) { // hard-coded based on placement data
+        nextExercise = +group + 1;
+      } else {
+        nextExercise = null;
+      }
+    } else {
+      switch (exercise) {
+        case '1':
+        case '2':
+          nextExercise = +exercise + 1;
+          break;
+        case '0':
+          nextExercise = 1;
+          break;
+        case '3':
+          nextExercise = null;
+          break;
+        default:
+          throw new Error(console.log(`unexpected exercise type: ${exercise}`));
+      }
+    }
+    if (nextExercise) {
+      const currentUrl = this.props.match.url;
+      const regex = /(\w+)$|\d$/;
+      if (group >= 0) {
+        this.props.history.push(currentUrl.replace(regex, nextExercise + 1));
+      } else {
+        this.props.history.push(currentUrl.replace(regex, nextExercise));
+      }
+    } else {
+      this.setState({ wordsetCompleted: true });
     }
   }
 
@@ -102,6 +145,8 @@ export default class ExercisePage extends Component {
                   quizCompleted={this.state.quizCompleted}
                   toggleQuizState={this.toggleQuizState}
                   instructions={this.state.instructions}
+                  incrementExercise={this.incrementExercise}
+                  wordsetCompleted={this.state.wordsetCompleted}
                 />
               }
               {this.state.isQuizzing &&
@@ -128,6 +173,8 @@ export default class ExercisePage extends Component {
                       markWrongAnswers={this.markWrongAnswers}
                       wrongAnswers={this.state.wrongAnswers}
                       placement={this.props.placement}
+                      incrementExercise={this.incrementExercise}
+                      wordsetCompleted={this.state.wordsetCompleted}
                     />
                   </div>
                 </React.Fragment>
@@ -138,4 +185,4 @@ export default class ExercisePage extends Component {
       </section>
     );
   }
-}
+});

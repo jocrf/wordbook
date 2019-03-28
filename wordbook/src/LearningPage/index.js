@@ -52,6 +52,7 @@ export default class LearningPage extends Component {
             wordset={match.params.wordset}
             exercise={match.params.exercise}
             toggleToC={this.toggleToC}
+            url={match.url}
           />}
         />
         {/* if review test */}
