@@ -119,7 +119,7 @@ export default withRouter(class NavPanel extends Component {
             }
             {/* exercise completion */}
             {
-              this.props.quizCompleted && !this.state.wordsetCompleted && !this.props.review && this.props.type === 'mc-one' &&
+              this.props.quizCompleted && !this.state.wordsetCompleted && !this.props.review &&
               <div>
                 <p className='card-text'>You just completed {+exercise === 0 ? 'the Pretest' : 'Exercise ' + exercise} of Wordset {wordset} of Level {level}, Section {section}.</p>
                 <p className='card-text'>You got {numQuestions - wrongAnswers} out of {numQuestions} correct.</p>
@@ -131,6 +131,7 @@ export default withRouter(class NavPanel extends Component {
             {
               this.props.quizCompleted && this.props.review &&
               <React.Fragment>
+                <p className='card-text'>You got {numQuestions - wrongAnswers} out of {numQuestions} correct.</p>
                 <p className='card-text'>You've completed Level {level}, Section {section}! Please use the navigation above to select the next section or return home.</p>
               </React.Fragment>
             }
