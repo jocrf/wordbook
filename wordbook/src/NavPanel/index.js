@@ -65,6 +65,7 @@ export default withRouter(class NavPanel extends Component {
                   level={this.props.level}
                   wordset={this.props.wordset}
                   section={this.props.section}
+                  review={this.props.review}
                 />
                 <p className='card-text'>Ready to learn?</p>
                 <button className='btn btn-primary'onClick={this.props.toggleQuizState}>Ready</button>
@@ -84,6 +85,7 @@ export default withRouter(class NavPanel extends Component {
             {
               this.props.quizCompleted && this.props.review &&
               <React.Fragment>
+                <p className='card-text'>You just completed Review Test {this.props.review} of Level {level}.</p>
                 <p className='card-text'>You got {numQuestions - wrongAnswers} out of {numQuestions} correct.</p>
                 <p className='card-text'>You've completed Level {level}, Section {section}! Please use the navigation above to select the next section or return home.</p>
               </React.Fragment>
@@ -92,6 +94,9 @@ export default withRouter(class NavPanel extends Component {
             {
               this.props.wordsetCompleted &&
               <React.Fragment>
+                <p className='card-text'>You just completed {+exercise === 0 ? 'the Pretest' : 'Exercise ' + exercise} of Wordset {wordset} of Level {level}, Section {section}.</p>
+                <p className='card-text'>You got {numQuestions - wrongAnswers} out of {numQuestions} correct.</p>
+                <br />
                 <p className='card-text'>You've completed this wordset! Please use the navigation above to select the next wordset or return home.</p>
               </React.Fragment>
             }
