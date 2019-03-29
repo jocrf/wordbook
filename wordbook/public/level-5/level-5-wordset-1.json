@@ -368,8 +368,7 @@
           "prompt": "Is George Washington CONTEMPORARY with us?",
           "word": "CONTEMPORARY",
           "correct": "false"
-        },
-        {}
+        }
       ],
       "type": "tf",
       "id": 1
@@ -432,7 +431,7 @@
           "correct": "true"
         },
         {
-          "prompt": "Last year there was a SURPLUS of gasoline, but thi,!} year there is hardly any.",
+          "prompt": "Last year there was a SURPLUS of gasoline, but this year there is hardly any.",
           "word": "SURPLUS",
           "correct": "true"
         },

@@ -425,7 +425,7 @@
         {
           "prompt": "He looked very HAGGARD after running the marathon.",
           "word": "HAGGARD",
-          "correct": ".true"
+          "correct": "true"
         },
         {
           "prompt": "John is very PLIANT. He will go along with whatever the rest of the group wants.",

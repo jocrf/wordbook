@@ -18,7 +18,8 @@
     },
     {
       "word": "BEDLAM",
-      "answer": "bedlam"
+      "answer": "bedlam",
+      "alternate": "pandemonium"
     },
     {
       "word": "CASTE",
@@ -54,7 +55,8 @@
     },
     {
       "word": "DIMINISH",
-      "answer": "diminished"
+      "answer": "diminished",
+      "alternate": "dwindled"
     },
     {
       "word": "DISCORD",
@@ -142,7 +144,8 @@
     },
     {
       "word": "PANDEMONIUM",
-      "answer": "pandemonium"
+      "answer": "pandemonium",
+      "alternate": "bedlam"
     },
     {
       "word": "PARTITION",
@@ -174,7 +177,8 @@
     },
     {
       "word": "TUMULT",
-      "answer": "tumult"
+      "answer": "tumult",
+      "alternate": "pandemonium or bedlam"
     },
     {
       "word": "UTILITY",
@@ -227,6 +231,7 @@
     {
       "part1": "At the height of the party it was utter",
       "part2": "around here. I thought for sure the police would come.",
+      "alternate": "bedlam",
       "correct": "pandemonium",
       "word": "PANDEMONIUM"
     },
@@ -395,6 +400,7 @@
     {
       "part1": "I can 't stand all this",
       "part2": "; I have to go someplace where there's peace and quiet.",
+      "alternate": "pandemonium",
       "correct": "bedlam",
       "word": "BEDLAM"
     },
@@ -431,6 +437,7 @@
     {
       "part1": "The population of the town",
       "part2": "year after year until finally there were only a few people left.",
+      "alternate": "dwindled",
       "correct": "diminished",
       "word": "DIMINISH"
     },
@@ -443,6 +450,7 @@
     {
       "part1": "There was",
       "part2": "outside the bar until the police came and quieted things down.",
+      "alternate": "pandemonium or bedlam",
       "correct": "tumult",
       "word": "TUMULT"
     },

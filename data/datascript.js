@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const lev = require('fast-levenshtein');
 
-const levelNum = 1;
+const levelNum = 8;
 
 const level = require(`./copyedited-json/level-${levelNum}-trial`);
 
@@ -106,8 +106,8 @@ newLevel.sections.forEach(section => {
       // look for line breaks
       const newline = /\n/g;
       // look for text linking to -fix lists
-      const suffixMatch = /See .* under Suffixes./g;
-      const prefixMatch = /See .* under Prefixes./g;
+      const suffixMatch = /See .*? under Suffixes./g;
+      const prefixMatch = /See .*? under Prefixes./g;
       // replace regexp matches with new HTML tags
       let openText = wordset.definitions[word].deftext.replace(openMatch, '<i class="def-ital">');
       let closeText = openText.replace(closeMatch, '</i>');

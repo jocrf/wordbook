@@ -17,7 +17,7 @@
       "word": "ALLIANCE",
       "phonetic": "(:;,-I1'-;;,ns)",
       "pos": "n.",
-      "deftext": "<p class=\"definition\">a union, association, connection </p><p>An ALLIANCE is a union of two or more people or countries who agree to act together for their mutual benefit. </p><p>“The North Atlantic Treaty Organization (NATO) is a military ALLIANCE of Western nations.” </p><p>“We couldn’t understand the sudden ALLIANCE between David and Bob, because they had been unfriendly for years.” </p><p>An ALLY is someone who is in a union or association with another. </p><p>“We became ALLIES when we decided that neither of us could win without the other.” </p><p>“During World War II, the United States and Great Britain were ALLIES.” Other forms of the word: ALLY, n., v.</p>"
+      "deftext": "<p class=\"definition\">a union, association, connection </p><p>An ALLIANCE is a union of two or more people or countries who agree to act together for their mutual benefit. </p><p>“The North Atlantic Treaty Organization (NATO) is a military ALLIANCE of Western nations.” </p><p>“We couldn’t understand the sudden ALLIANCE between David and Bob, because they had been unfriendly for years.” </p><p>An ALLY is someone who is in a union or association with another. </p><p>“We became ALLIES when we decided that neither of us could win without the other.” </p><p>“During World War II, the United States and Great Britain were ALLIES.” </p><p>Other forms of the word: ALLY, n., v.</p>"
     },
     "BOMBARD": {
       "word": "BOMBARD",
@@ -107,7 +107,7 @@
       "word": "RAUCOUS",
       "phonetic": "(ro'-kÔøΩs)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">harsh, hoarse, grating RAUCOUS is used mainly about sounds. The word means “disagreeably loud and harsh.” It often suggests that this loud noise is the result of disorderly behavior. </p><p>“We listened to the RAUCOUS noise of the crows outside our window.” </p><p>“The neighbors complained about the RAUCOUS party across the hall.” </p><p>“The RAUCOUS laughter stopped suddenly when the teacher entered the room.” </p><p>The most commonly chosen wrong answer on the Pretest is deep. <i class=“def-ital\">Deep</i> can also be used about sounds and voices, but deep sounds are not always loud and grating.</p>"
+      "deftext": "<p class=\"definition\">harsh, hoarse, grating </p><p>RAUCOUS is used mainly about sounds. The word means “disagreeably loud and harsh.” It often suggests that this loud noise is the result of disorderly behavior. </p><p>“We listened to the RAUCOUS noise of the crows outside our window.” </p><p>“The neighbors complained about the RAUCOUS party across the hall.” </p><p>“The RAUCOUS laughter stopped suddenly when the teacher entered the room.” </p><p>The most commonly chosen wrong answer on the Pretest is deep. <i class=“def-ital\">Deep</i> can also be used about sounds and voices, but deep sounds are not always loud and grating.</p>"
     }
   },
   "id": "4",
@@ -452,7 +452,7 @@
           "correct": "false"
         },
         {
-          "prompt": "He ran his hands over the cold, RAUCOUS sides ofthe cave.",
+          "prompt": "He ran his hands over the cold, RAUCOUS sides of the cave.",
           "word": "RAUCOUS",
           "correct": "false"
         }

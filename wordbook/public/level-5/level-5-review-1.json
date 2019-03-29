@@ -118,7 +118,8 @@
     },
     {
       "word": "MEDITATE",
-      "answer": "meditated"
+      "answer": "meditated",
+      "alternate": "obsessed"
     },
     {
       "word": "OBSESS",
@@ -311,6 +312,7 @@
     {
       "part1": "She",
       "part2": "a great deal about whether or not to go to college.",
+      "alternate": "obsessed",
       "correct": "meditated",
       "word": "MEDITATE"
     },

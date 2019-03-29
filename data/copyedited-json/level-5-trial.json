@@ -261,8 +261,7 @@
           "prompt": "Is George Washington CONTEMPORARY with us?",
           "word": "CONTEMPORARY",
           "correct": "false"
-        },
-        {}
+        }
       ]
     },
     "exercise_2": {
@@ -323,7 +322,7 @@
           "correct": "true"
         },
         {
-          "prompt": "Last year there was a SURPLUS of gasoline, but thi,!} year there is hardly any.",
+          "prompt": "Last year there was a SURPLUS of gasoline, but this year there is hardly any.",
           "word": "SURPLUS",
           "correct": "true"
         },
@@ -1170,13 +1169,13 @@
         "word": "RELATE",
         "phonetic": "(ri-lAt')",
         "pos": "v.",
-        "deftext": "to tell; to connect logically \nRELATE is used in two different ways. To RELATE a story or experience is to tell it, to give an account of it. \n\"He RELATED how he had come to be president of the company.\" \n\"She RELATED the story of the Headless Horseman.\" \nTo RELATE one thing _to_ another thing is to make or show a connection, or relationship, between them. \n\"It is hard to RELATE your results to what we already know.\" \nIn an extended sense, when used about a person RELATE means \"to have a meaningful RELATIONSHIP.\" \n\"Helen found that she could RELATE very well to Phil even though he was much older.\" \nRELATED is an adjective which means _connected._ \n\"We didn't know the two events were RELATED until much later.\" People who are RELATED are connected by blood. \"We are distantly RELATED. She is my third cousin.\" \nOther forms of the word: RELATED, adj. RELATIONSHIP, n."
+        "deftext": "to tell; to connect logically \nRELATE is used in two different ways. To RELATE a story or experience is to tell it, to give an account of it. \n\"He RELATED how he had come to be president of the company.\" \n\"She RELATED the story of the Headless Horseman.\" \nTo RELATE one thing _to_ another thing is to make or show a connection, or relationship, between them. \n\"It is hard to RELATE your results to what we already know.\" \nIn an extended sense, when used about a person RELATE means \"to have a meaningful RELATIONSHIP.\" \n\"Helen found that she could RELATE very well to Phil even though he was much older.\" \nRELATED is an adjective which means _connected._ \n\"We didn't know the two events were RELATED until much later.\" \nPeople who are RELATED are connected by blood. \n\"We are distantly RELATED. She is my third cousin.\" \nOther forms of the word: RELATED, adj. RELATIONSHIP, n."
       },
       "INTIMATE": {
         "word": "INTIMATE",
         "phonetic": "(in'-t::>-mit)",
         "pos": "adj.",
-        "deftext": "very close, personal, private \nINTIMATE is used in several senses, all with the general meaning of _close, personal, private. INTIMATE friends are very close, very deep friends. An INTIMATE conversation is a private, personal talk that you would not want to be overheard. A person who has an INTIMATE knowledge of a subject knows it extremely well, is deeply familiar with it. The INTIMATE details of an event or a person's life are the private, secret matters that few people know about. \n\"The mechanic had an INTIMATE understanding of how cars work.\" \n\"No one ever learned the INTIMATE secrets of her life.\" \nOther forms of the word: INTIMACY, n."
+        "deftext": "very close, personal, private \nINTIMATE is used in several senses, all with the general meaning of _close_, _personal_, _private_. INTIMATE friends are very close, very deep friends. An INTIMATE conversation is a private, personal talk that you would not want to be overheard. A person who has an INTIMATE knowledge of a subject knows it extremely well, is deeply familiar with it. The INTIMATE details of an event or a person's life are the private, secret matters that few people know about. \n\"The mechanic had an INTIMATE understanding of how cars work.\" \n\"No one ever learned the INTIMATE secrets of her life.\" \nOther forms of the word: INTIMACY, n."
       }
     }
   },
@@ -1761,7 +1760,7 @@
         "word": "BISECT",
         "phonetic": "(bl-sekt')",
         "pos": "v.",
-        "deftext": "to cut in two, halve, split To BISECT something is to cut it into two, usually equal, pieces. The _bi-_ part of the word means _two,_ as in _bicycle_ and _binoculars_. The _-sect_ part means _cut,_ as in _dissect_ (to cut apart) and _intersect_ (to cut across). \"The new road will BISECT the town neatly, passing right through the center of it.\" \"The 90° angle was BISECTED to make two 45° angles.\" \n_Double_ is the most common incorrect answer on the Pretest. People who choose it know that _bi-_ means _two,_ but don't know its special use in BISECT."
+        "deftext": "to cut in two, halve, split \nTo BISECT something is to cut it into two, usually equal, pieces. The _bi-_ part of the word means _two,_ as in _bicycle_ and _binoculars_. The _-sect_ part means _cut,_ as in _dissect_ (to cut apart) and _intersect_ (to cut across). \"The new road will BISECT the town neatly, passing right through the center of it.\" \"The 90° angle was BISECTED to make two 45° angles.\" \n_Double_ is the most common incorrect answer on the Pretest. People who choose it know that _bi-_ means _two,_ but don't know its special use in BISECT."
       },
       "WRETCHED": {
         "word": "WRETCHED",
@@ -1927,7 +1926,8 @@
         {
           "part1": "She",
           "part2": "a great deal about whether or not to go to college.",
-          "answer": "meditated"
+          "answer": "meditated",
+          "alternate": "obsessed"
         },
         {
           "part1": "The policeman talked to the man for a long time and finally",
@@ -2385,7 +2385,7 @@
           "correct": "false"
         },
         {
-          "prompt": "He ran his hands over the cold, RAUCOUS sides ofthe cave.",
+          "prompt": "He ran his hands over the cold, RAUCOUS sides of the cave.",
           "word": "RAUCOUS",
           "correct": "false"
         }
@@ -2562,7 +2562,7 @@
         "word": "ALLIANCE",
         "phonetic": "(:;,-I1'-;;,ns)",
         "pos": "n.",
-        "deftext": "a union, association, connection \nAn ALLIANCE is a union of two or more people or countries who agree to act together for their mutual benefit. \n\"The North Atlantic Treaty Organization (NATO) is a military ALLIANCE of Western nations.\" \n\"We couldn't understand the sudden ALLIANCE between David and Bob, because they had been unfriendly for years.\" \nAn ALLY is someone who is in a union or association with another. \n\"We became ALLIES when we decided that neither of us could win without the other.\" \n\"During World War II, the United States and Great Britain were ALLIES.\" Other forms of the word: ALLY, n., v."
+        "deftext": "a union, association, connection \nAn ALLIANCE is a union of two or more people or countries who agree to act together for their mutual benefit. \n\"The North Atlantic Treaty Organization (NATO) is a military ALLIANCE of Western nations.\" \n\"We couldn't understand the sudden ALLIANCE between David and Bob, because they had been unfriendly for years.\" \nAn ALLY is someone who is in a union or association with another. \n\"We became ALLIES when we decided that neither of us could win without the other.\" \n\"During World War II, the United States and Great Britain were ALLIES.\" \nOther forms of the word: ALLY, n., v."
       },
       "BOMBARD": {
         "word": "BOMBARD",
@@ -2634,7 +2634,7 @@
         "word": "RAUCOUS",
         "phonetic": "(ro'-kÔøΩs)",
         "pos": "adj.",
-        "deftext": "harsh, hoarse, grating RAUCOUS is used mainly about sounds. The word means \"disagreeably loud and harsh.\" It often suggests that this loud noise is the result of disorderly behavior. \n\"We listened to the RAUCOUS noise of the crows outside our window.\" \n\"The neighbors complained about the RAUCOUS party across the hall.\" \n\"The RAUCOUS laughter stopped suddenly when the teacher entered the room.\" \nThe most commonly chosen wrong answer on the Pretest is deep. _Deep_ can also be used about sounds and voices, but deep sounds are not always loud and grating."
+        "deftext": "harsh, hoarse, grating \nRAUCOUS is used mainly about sounds. The word means \"disagreeably loud and harsh.\" It often suggests that this loud noise is the result of disorderly behavior. \n\"We listened to the RAUCOUS noise of the crows outside our window.\" \n\"The neighbors complained about the RAUCOUS party across the hall.\" \n\"The RAUCOUS laughter stopped suddenly when the teacher entered the room.\" \nThe most commonly chosen wrong answer on the Pretest is deep. _Deep_ can also be used about sounds and voices, but deep sounds are not always loud and grating."
       }
     }
   },
@@ -2958,7 +2958,7 @@
         {
           "prompt": "He looked very HAGGARD after running the marathon.",
           "word": "HAGGARD",
-          "correct": ".true"
+          "correct": "true"
         },
         {
           "prompt": "John is very PLIANT. He will go along with whatever the rest of the group wants.",
@@ -3750,7 +3750,7 @@
         "word": "MAGISTERIAL",
         "phonetic": "(maj-ÔøΩ-stEr'-E-ÔøΩI)",
         "pos": "adj.",
-        "deftext": "commanding, authoritative See _-al_ under Suffixes. MAGISTERIAL comes from the Latin word for _master_ or _teacher._ MAGISTERIAL means \"like a master\" and refers to the authority and air of command that a master of something would show. \n\"He had a MAGISTERIAL attitude that suggested he was used to giving orders instead of receiving them.\" \nThe word is often used in a negative sense, suggesting that this air of command is rather overbearing. \n\"He spoke in a MAGISTERIAL tone, as if his were the only opinions worth hearing.\""
+        "deftext": "commanding, authoritative \nSee _-al_ under Suffixes. MAGISTERIAL comes from the Latin word for _master_ or _teacher._ MAGISTERIAL means \"like a master\" and refers to the authority and air of command that a master of something would show. \n\"He had a MAGISTERIAL attitude that suggested he was used to giving orders instead of receiving them.\" \nThe word is often used in a negative sense, suggesting that this air of command is rather overbearing. \n\"He spoke in a MAGISTERIAL tone, as if his were the only opinions worth hearing.\""
       },
       "MARINER": {
         "word": "MARINER",
@@ -4004,7 +4004,7 @@
           "answer": "harrowing"
         },
         {
-          "part1": "The students' scores on the reading test were they were by far the worst in the city.",
+          "part1": "The students' scores on the reading test were by far the worst in the city.",
           "answer": "appalling"
         },
         {
@@ -4075,7 +4075,8 @@
         {
           "part1": "The",
           "part2": "crowd surged through the police barriers and shouted insults at the politician.",
-          "answer": "unruly"
+          "answer": "unruly",
+          "alternate": "raucous"
         },
         {
           "part1": "A hundred years ago he made the remarkable",
@@ -4658,7 +4659,7 @@
         "word": "ANNUL",
         "phonetic": "(ÔøΩnuhl')",
         "pos": "v.",
-        "deftext": "to cancel, nullify, make void ANNUL comes from the Latin word _nullus,_ which means \"none.\" _Nullus_ is also the source of the words _null_ and _nullify._ To ANNUL something is to make it cease to exist, to put an end to it. The word is most often used about legal agreements. To ANNUL a marriage is to declare that it is not legally valid. \n\"The judge ANNULLED the contract between the two companies.\" \nANNUL is also sometimes used in other areas as well. \n\"Nothing could ANNUL the startling effect of her sudden appearance in the room.\""
+        "deftext": "to cancel, nullify, make void \nANNUL comes from the Latin word _nullus,_ which means \"none.\" _Nullus_ is also the source of the words _null_ and _nullify._ To ANNUL something is to make it cease to exist, to put an end to it. The word is most often used about legal agreements. To ANNUL a marriage is to declare that it is not legally valid. \n\"The judge ANNULLED the contract between the two companies.\" \nANNUL is also sometimes used in other areas as well. \n\"Nothing could ANNUL the startling effect of her sudden appearance in the room.\""
       },
       "PREMONITION": {
         "word": "PREMONITION",
@@ -5070,7 +5071,7 @@
             "weird"
           ],
           "word": "PITEOUS",
-          "correct": "1"
+          "correct": "2"
         },
         {
           "prompt": "MEEK",
@@ -6730,8 +6731,8 @@
       "GIST": {
         "word": "GIST",
         "phonetic": "(",
-        "pos": "jist)",
-        "deftext": "n.: the main part, main idea, essence, general sense \nGIST is a legal term, meaning \"the grounds for a legal action\"—that is, the basic reason or point of a case. In general use GIST has the same idea: it is the main point, the central idea of something. \n\"Don't repeat the whole speech to me. I just want the GIST of what he said.\" \n\"There was a lot more to it, but the GIST of his decision is that you can't come.\""
+        "pos": "n.",
+        "deftext": "the main part, main idea, essence, general sense \nGIST is a legal term, meaning \"the grounds for a legal action\"—that is, the basic reason or point of a case. In general use GIST has the same idea: it is the main point, the central idea of something. \n\"Don't repeat the whole speech to me. I just want the GIST of what he said.\" \n\"There was a lot more to it, but the GIST of his decision is that you can't come.\""
       }
     }
   },
@@ -6924,13 +6925,8 @@
     "exercise_1": {
       "questions": [
         {
-          "prompt": "Example",
-          "word": "IMPEDIMENT",
-          "correct": "true"
-        },
-        {
           "prompt": "Would a train be IMPEDED by a truck on the tracks?",
-          "word": "IMPEDE",
+          "word": "IMPEDIMENT",
           "correct": "true"
         },
         {
@@ -6951,27 +6947,27 @@
         {
           "prompt": "Would a riot be considered a TUMULT?",
           "word": "TUMULT",
-          "correct": "false"
+          "correct": "true"
         },
         {
           "prompt": "Would a well-CLAD person have holes in his socks?",
           "word": "CLAD",
-          "correct": "true"
+          "correct": "false"
         },
         {
           "prompt": "Would someone who sells furniture be called a MERCHANT?",
-          "word": "MERCHANT",
-          "correct": "false"
+          "word": "MERCANTILE",
+          "correct": "true"
         },
         {
           "prompt": "Do people enjoy being in ANGUISH?",
           "word": "ANGUISH",
-          "correct": "true"
+          "correct": "false"
         },
         {
           "prompt": "Do people DEPLORE murder?",
-          "word": "DEPLORE",
-          "correct": "false"
+          "word": "DEPLORABLE",
+          "correct": "true"
         },
         {
           "prompt": "Are EFFERVESCENT people usually bored?",
@@ -6986,7 +6982,7 @@
         {
           "prompt": "Are people generally SOMBER at a wedding?",
           "word": "SOMBER",
-          "correct": "true"
+          "correct": "false"
         },
         {
           "prompt": "Does the teacher have JURISDICTION in the classroom?",
@@ -7073,7 +7069,7 @@
           "correct": "false"
         },
         {
-          "prompt": ". They listened to the exciting NARRATIVE of his adventures.",
+          "prompt": "They listened to the exciting NARRATIVE of his adventures.",
           "word": "NARRATIVE",
           "correct": "true"
         },
@@ -7117,11 +7113,11 @@
           "correct": "1"
         },
         {
-          "prompt": "JAUNT a ) outing",
+          "prompt": "JAUNT",
           "answers": [
+            "outing",
             "ship",
-            "trip",
-            ""
+            "trip"
           ],
           "word": "JAUNT",
           "correct": "1"
@@ -7137,11 +7133,11 @@
           "correct": "2"
         },
         {
-          "prompt": "CLAD a ) costumed",
+          "prompt": "CLAD",
           "answers": [
+            "costumed",
             "attired",
-            "lashed",
-            ""
+            "lashed"
           ],
           "word": "CLAD",
           "correct": "2"
@@ -7160,8 +7156,8 @@
           "prompt": "ANGUISH",
           "answers": [
             "unhappiness",
-            "anger c ) misery",
-            ""
+            "anger",
+            "misery"
           ],
           "word": "ANGUISH",
           "correct": "1"
@@ -7189,9 +7185,9 @@
         {
           "prompt": "ORNATE",
           "answers": [
-            "exciting b ) elaborate",
-            "flowery",
-            ""
+            "exciting",
+            "elaborate",
+            "flowery"
           ],
           "word": "ORNATE",
           "correct": "0"
@@ -7199,9 +7195,9 @@
         {
           "prompt": "SOMBER",
           "answers": [
-            "old b ) dark",
-            "sad",
-            ""
+            "old",
+            "dark",
+            "sad"
           ],
           "word": "SOMBER",
           "correct": "0"
@@ -7267,7 +7263,7 @@
         "word": "TUMULT",
         "phonetic": "(tU'-mÔøΩlt)",
         "pos": "n.",
-        "deftext": "an uproar, noise, disturbance, commotion \nA TUMULT is any sort of uproar or disturbance. \n\"The politician was greeted with a TUMULT of cheers.\" \n\"There was a sudden silence in the midst of the TUMULT.\" \nTUMULT is often used about highly disturbed emotions. \n\"Her feelings were in a TUMULT as she waited for the door to open.\" \nThe adjective form of TUMULT is TUMULTUOUS, which means _noisy_ or _disorderly._ \n\"The star received TUMULTUOUS applause when he came on stage.\" \n\"The teacher tried to calm the TUMULTUOUS crowd of children.\" \nOther forms of the word: TUMULTUOUS,adj."
+        "deftext": "an uproar, noise, disturbance, commotion \nA TUMULT is any sort of uproar or disturbance. \n\"The politician was greeted with a TUMULT of cheers.\" \n\"There was a sudden silence in the midst of the TUMULT.\" \nTUMULT is often used about highly disturbed emotions. \n\"Her feelings were in a TUMULT as she waited for the door to open.\" \nThe adjective form of TUMULT is TUMULTUOUS, which means _noisy_ or _disorderly._ \n\"The star received TUMULTUOUS applause when he came on stage.\" \n\"The teacher tried to calm the TUMULTUOUS crowd of children.\" \nOther forms of the word: TUMULTUOUS, adj."
       },
       "CLAD": {
         "word": "CLAD",
@@ -7291,7 +7287,7 @@
         "word": "DEPLORABLE",
         "phonetic": "(di-plor'-ÔøΩbÔøΩI)",
         "pos": "adj.",
-        "deftext": "wretched, bad, causing grief or regret \nTo DEPLORE something is to feel great regret, disapproval, or sorrow about it. \n\"He DEPLORED the conditions in which the miners had to work.\" \nDEPLORABLE is the adjective from DEPLORE. See _-able_ under Suffixes. Something which is DEPLORABLE is _wretched,_ bad enough to cause strong disapproval. \n\"When we arrived at our new apartment we found that the people living there before us had left it in a DEPLORABLE condition.\" \"Wendy's grandmother told her that her manners were DEPLORABLE.\" \nSometimes the word is used about something that causes sorrow rather than disapproval. \n\"The people wept bitterly upon hearing of the DEPLORABLE death of their president.\" \n\"They had never before witnessed such a DEPLORABLE accident.\" Other forms of the word: DEPLORE, v."
+        "deftext": "wretched, bad, causing grief or regret \nTo DEPLORE something is to feel great regret, disapproval, or sorrow about it. \n\"He DEPLORED the conditions in which the miners had to work.\" \nDEPLORABLE is the adjective from DEPLORE. See _-able_ under Suffixes. Something which is DEPLORABLE is _wretched,_ bad enough to cause strong disapproval. \n\"When we arrived at our new apartment we found that the people living there before us had left it in a DEPLORABLE condition.\" \n\"Wendy's grandmother told her that her manners were DEPLORABLE.\" \nSometimes the word is used about something that causes sorrow rather than disapproval. \n\"The people wept bitterly upon hearing of the DEPLORABLE death of their president.\" \n\"They had never before witnessed such a DEPLORABLE accident.\" Other forms of the word: DEPLORE, v."
       },
       "EFFERVESCENT": {
         "word": "EFFERVESCENT",
@@ -7315,7 +7311,7 @@
         "word": "JURISDICTION",
         "phonetic": "(jUr-is-dik'-shÔøΩn)",
         "pos": "n.",
-        "deftext": "authority, power, control \nJURISDICTION comes from the Latin word for _law,_ also the source of _jury._ JURISDICTION is the legal power to administer justice and decide cases. \"Our courts have JURISDICTION over foreigners living in the United States.\" \n\"The judge said it wasn't within his JURISDICTION to decide this question.\" \nThe word can be used in a broader sense for any authority or power that has well-defined limits. \n\"Your complaint does not come within our JURISDICTION. Try another department.\" \nThe most popular wrong answer is _decision._ People who choose this probably know that JURISDICTION has something to do with the law, but don't know exactly what. JURISDICTION is the authority to make a legal decision, not the decision itself."
+        "deftext": "authority, power, control \nJURISDICTION comes from the Latin word for _law,_ also the source of _jury._ JURISDICTION is the legal power to administer justice and decide cases. \n\"Our courts have JURISDICTION over foreigners living in the United States.\" \n\"The judge said it wasn't within his JURISDICTION to decide this question.\" \nThe word can be used in a broader sense for any authority or power that has well-defined limits. \n\"Your complaint does not come within our JURISDICTION. Try another department.\" \nThe most popular wrong answer is _decision._ People who choose this probably know that JURISDICTION has something to do with the law, but don't know exactly what. JURISDICTION is the authority to make a legal decision, not the decision itself."
       },
       "NARRATIVE": {
         "word": "NARRATIVE",
@@ -7790,7 +7786,7 @@
         {
           "prompt": "PRESUMPTUOUS",
           "answers": [
-            "vam",
+            "vain",
             "bold",
             "stupid"
           ],
@@ -8008,7 +8004,8 @@
         {
           "part1": "At the height of the party it was utter",
           "part2": "around here. I thought for sure the police would come.",
-          "answer": "pandemonium"
+          "answer": "pandemonium",
+          "alternate": "bedlam"
         },
         {
           "part1": "He asked only for the",
@@ -8148,7 +8145,8 @@
         {
           "part1": "I can 't stand all this",
           "part2": "; I have to go someplace where there's peace and quiet.",
-          "answer": "bedlam"
+          "answer": "bedlam",
+          "alternate": "pandemonium"
         },
         {
           "part1": "The racing cars",
@@ -8178,7 +8176,8 @@
         {
           "part1": "The population of the town",
           "part2": "year after year until finally there were only a few people left.",
-          "answer": "diminished"
+          "answer": "diminished",
+          "alternate": "dwindled"
         },
         {
           "part1": "She was such a(n)",
@@ -8188,7 +8187,8 @@
         {
           "part1": "There was",
           "part2": "outside the bar until the police came and quieted things down.",
-          "answer": "tumult"
+          "answer": "tumult",
+          "alternate": "pandemonium or bedlam"
         },
         {
           "part1": "We listened with delight to his many",
