@@ -161,6 +161,7 @@ export default withRouter(class ExercisePage extends Component {
                     level={this.props.level}
                     wordset={this.props.wordset}
                     section={this.props.section}
+                    placement={this.props.placement}
                   />
                   <div className='row'>
                     <Exercise

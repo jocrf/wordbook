@@ -10,7 +10,11 @@ export default class Instructions extends Component {
             <h1 className='text-primary'>{title} | {this.props.level && <small className='font-italic'>Level {level}, Section {section}</small>}</h1>
         }
         {
-          !this.props.review &&
+          this.props.placement &&
+            <h1 className='text-primary'>{title}</h1>
+        }
+        {
+          !this.props.review && !this.props.placement &&
             <h1 className='text-primary'>{title} | {this.props.level && <small className='font-italic'>Level {level}, Section {section}, Wordset {wordset}</small>}</h1>
         }
         <hr className='my-4' />
