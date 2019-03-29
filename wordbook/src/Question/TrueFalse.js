@@ -51,6 +51,7 @@ export default class TrueFalse extends Component {
           {
             this.props.showAnswers &&
             <Score
+              markWrongAnswers={this.props.markWrongAnswers}
               chosenAnswer={this.props.value}
               correctAnswer={this.props.correctAnswer}
               type={this.props.type}

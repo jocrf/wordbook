@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 export default class Score extends Component {
   componentDidMount () {
-    if (this.props.placement && this.props.correctAnswer !== this.props.chosenAnswer) {
+    if (this.props.correctAnswer !== this.props.chosenAnswer) {
       this.props.markWrongAnswers();
     }
   }

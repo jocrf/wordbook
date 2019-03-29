@@ -2,8 +2,9 @@ import React, { Component } from 'react';
 import { storageAvailable } from '../API';
 import StorageView from './StorageView';
 import Message from './Message';
+import { withRouter } from 'react-router-dom';
 
-export default class StorageModal extends Component {
+export default withRouter(class StorageModal extends Component {
   constructor (props) {
     super(props);
     this.checkForProgress = this.checkForProgress.bind(this);
@@ -11,9 +12,7 @@ export default class StorageModal extends Component {
     this.enableStorage = this.enableStorage.bind(this);
     this.saveProgress = this.saveProgress.bind(this);
     this.setMessage = this.setMessage.bind(this);
-    this.unsetMessage = this.unsetMessage.bind(this);
     this.displayUpdate = this.displayUpdate.bind(this);
-    this.closeUpdate = this.closeUpdate.bind(this);
     this.localStorage = window.localStorage;
     this.state = {
       progressSaved: false,
@@ -65,10 +64,11 @@ export default class StorageModal extends Component {
   enableStorage () {
     this.localStorage.setItem('usingStorage', true);
     this.props.setStorageState(true);
+    this.props.hideStorage();
   }
 
   saveProgress () {
-    const { exercise, section, wordset, level } = this.props;
+    const { exercise, section, wordset, level } = this.props.match.params;
     let updateArr = [];
     ['exercise', 'wordset', 'section', 'level'].forEach(type => {
       if (!this.checkForProgress(type)) {
@@ -100,21 +100,19 @@ export default class StorageModal extends Component {
   }
 
   // below methods to handle an undefined type (i.e. if an exercise hasn't been selected)
-  // using set and unset rather than a toggle method because if an even number of types are undefined, the toggle will cancel out
   setMessage () {
-    this.setState({ undefinedType: true });
-  }
-
-  unsetMessage () {
-    this.setState({ undefinedType: false });
+    this.setState({ undefinedType: true }, () => {
+      setTimeout(() => this.setState({ undefinedType: false }), 2000);
+    });
   }
 
   displayUpdate () {
-    this.setState({ progressUpdated: true });
-  }
-
-  closeUpdate () {
-    this.setState({ progressUpdated: false });
+    this.setState({ progressUpdated: true }, () => {
+      setTimeout(() => {
+        this.setState({ progressUpdated: false });
+        this.props.hideStorage();
+      }, 2000);
+    });
   }
 
   render () {
@@ -124,12 +122,14 @@ export default class StorageModal extends Component {
           !this.props.declinedStorage &&
             <React.Fragment>
               <StorageView
+                hideStorage={this.props.hideStorage}
                 declineStorage={this.declineStorage}
                 useStorage={this.props.useStorage}
                 enableStorage={this.enableStorage}
                 enableChange={this.enableChange}
                 saveProgress={this.saveProgress}
                 progressSaved={this.state.progressSaved}
+                progressUpdated={this.state.progressUpdated}
                 level={this.localStorage.getItem('level')}
                 section={this.localStorage.getItem('section')}
                 wordset={this.localStorage.getItem('wordset')}
@@ -138,14 +138,12 @@ export default class StorageModal extends Component {
               {
                 this.state.undefinedType &&
                 <Message
-                  buttonMethod={this.unsetMessage}
                   messageText='Progress cannot be saved unless you are currently in an exercise.'
                 />
               }
               {
                 this.state.progressUpdated &&
                 <Message
-                  buttonMethod={this.closeUpdate}
                   messageText='Progress saved.'
                 />
               }
@@ -154,4 +152,4 @@ export default class StorageModal extends Component {
       </React.Fragment>
     );
   }
-}
+});

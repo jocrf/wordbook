@@ -40,6 +40,11 @@ export default class Exercise extends Component {
         this.incrementQuestionIndex(this.props.questionsToShow);
       } else {
         this.endQuiz();
+        if (this.props.questionType === 'tf' || this.props.questionType === 'mc-all') {
+          if (!this.props.wordsetCompleted) {
+            this.props.incrementExercise();
+          }
+        }
       }
     }
   }
@@ -79,11 +84,15 @@ export default class Exercise extends Component {
     }
     return (
       <QuestionWrapper
+        wrongAnswers={this.props.wrongAnswers}
+        numQuestions={this.props.numQuestions}
         onButtonClick={this.checkButtonHandler}
         buttonText={this.state.buttonText}
         type={this.props.questionType}
         placement={this.props.placement}
         showAnswers={this.state.showAnswers}
+        incrementExercise={this.props.incrementExercise}
+        wordsetCompleted={this.props.wordsetCompleted}
       >
         {question}
       </QuestionWrapper>
@@ -107,7 +116,7 @@ export default class Exercise extends Component {
           altAnswer={question.alternate}
           onChange={this.changeHandler}
           placement={this.props.placement}
-          markWrongAnswers={this.props.markWrongAnswers} // for placement
+          markWrongAnswers={this.props.markWrongAnswers}
           value={this.state.selectedAnswers[question.prompt] || this.state.selectedAnswers[reviewPrompt]}
           showAnswers={this.state.showAnswers}
           word={question.word}
