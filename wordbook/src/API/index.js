@@ -1,4 +1,4 @@
-export const urlPrefix = 'https://amyfrieson.com/wordbook/';
+export const urlPrefix = 'https://jocrf.github.io/wordbook/';
 
 // type === 'prefixes' or 'suffixes'
 export const getContent = (type) => {
