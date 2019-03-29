@@ -64,6 +64,7 @@ export default withRouter(class StorageModal extends Component {
   enableStorage () {
     this.localStorage.setItem('usingStorage', true);
     this.props.setStorageState(true);
+    this.props.hideStorage();
   }
 
   saveProgress () {
@@ -99,7 +100,6 @@ export default withRouter(class StorageModal extends Component {
   }
 
   // below methods to handle an undefined type (i.e. if an exercise hasn't been selected)
-  // using set and unset rather than a toggle method because if an even number of types are undefined, the toggle will cancel out
   setMessage () {
     this.setState({ undefinedType: true }, () => {
       setTimeout(() => this.setState({ undefinedType: false }), 2000);
@@ -129,6 +129,7 @@ export default withRouter(class StorageModal extends Component {
                 enableChange={this.enableChange}
                 saveProgress={this.saveProgress}
                 progressSaved={this.state.progressSaved}
+                progressUpdated={this.state.progressUpdated}
                 level={this.localStorage.getItem('level')}
                 section={this.localStorage.getItem('section')}
                 wordset={this.localStorage.getItem('wordset')}

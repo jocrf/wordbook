@@ -10,7 +10,6 @@ export default class StorageView extends Component {
   }
 
   handleClick (action) {
-    // e.preventDefault();
     switch (action) {
       case 'yes':
         this.props.enableStorage();
@@ -51,7 +50,10 @@ export default class StorageView extends Component {
           this.props.useStorage &&
             <section className='card d-flex'>
               <div className='card-body p-0'>
-                <button onClick={() => this.handleClick('save')} className='btn btn-secondary m-2'>Save progress</button>
+                {
+                  this.props.progressSaved &&
+                  <button onClick={() => this.handleClick('save')} className='btn btn-secondary m-2'>Save progress</button>
+                }
                 {
                   this.props.progressSaved &&
                   <Link to={prevSessionUrl} className='btn btn-secondary m-2' onClick={this.handleClick}>Restore saved session</Link>

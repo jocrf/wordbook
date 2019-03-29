@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import { Route } from 'react-router-dom';
+import { Route, withRouter } from 'react-router-dom';
 import ExercisePage from '../ExercisePage';
 import TableOfContents from '../TableOfContents';
 import FixList from '../FixList';
 import StorageModal from '../StorageModal';
 
-export default class LearningPage extends Component {
+export default withRouter(class LearningPage extends Component {
   constructor (props) {
     super(props);
     this.hideStorage = this.hideStorage.bind(this);
@@ -19,6 +19,14 @@ export default class LearningPage extends Component {
 
   componentDidMount () {
     this.setState({ showStorage: true });
+  }
+
+  componentDidUpdate (prevProps) {
+    if (this.state.showToC) {
+      if (prevProps.location.pathname !== this.props.location.pathname) {
+        this.showStorage();
+      }
+    }
   }
 
   showStorage () {
@@ -88,4 +96,4 @@ export default class LearningPage extends Component {
       </React.Fragment>
     );
   }
-}
+});
