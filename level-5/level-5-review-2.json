@@ -162,7 +162,8 @@
     },
     {
       "word": "UNRULY",
-      "answer": "unruly"
+      "answer": "unruly",
+      "alternate": "raucous"
     },
     {
       "word": "VAGABOND",
@@ -345,7 +346,7 @@
       "word": "HARROWING"
     },
     {
-      "part1": "The students' scores on the reading test were they were by far the worst in the city.",
+      "part1": "The students' scores on the reading test were by far the worst in the city.",
       "correct": "appalling",
       "word": "APPALLING"
     },
@@ -430,6 +431,7 @@
     {
       "part1": "The",
       "part2": "crowd surged through the police barriers and shouted insults at the politician.",
+      "alternate": "raucous",
       "correct": "unruly",
       "word": "UNRULY"
     },

@@ -103,8 +103,8 @@
     "GIST": {
       "word": "GIST",
       "phonetic": "(",
-      "pos": "jist)",
-      "deftext": "<p class=\"definition\">n.: the main part, main idea, essence, general sense </p><p>GIST is a legal term, meaning “the grounds for a legal action\"—that is, the basic reason or point of a case. In general use GIST has the same idea: it is the main point, the central idea of something. </p><p>“Don’t repeat the whole speech to me. I just want the GIST of what he said.” </p><p>“There was a lot more to it, but the GIST of his decision is that you can’t come.”</p>"
+      "pos": "n.",
+      "deftext": "<p class=\"definition\">the main part, main idea, essence, general sense </p><p>GIST is a legal term, meaning “the grounds for a legal action\"—that is, the basic reason or point of a case. In general use GIST has the same idea: it is the main point, the central idea of something. </p><p>“Don’t repeat the whole speech to me. I just want the GIST of what he said.” </p><p>“There was a lot more to it, but the GIST of his decision is that you can’t come.”</p>"
     }
   },
   "id": "10",

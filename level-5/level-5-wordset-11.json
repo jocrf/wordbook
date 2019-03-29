@@ -29,7 +29,7 @@
       "word": "TUMULT",
       "phonetic": "(tU'-mÔøΩlt)",
       "pos": "n.",
-      "deftext": "<p class=\"definition\">an uproar, noise, disturbance, commotion </p><p>A TUMULT is any sort of uproar or disturbance. </p><p>“The politician was greeted with a TUMULT of cheers.” </p><p>“There was a sudden silence in the midst of the TUMULT.” </p><p>TUMULT is often used about highly disturbed emotions. </p><p>“Her feelings were in a TUMULT as she waited for the door to open.” </p><p>The adjective form of TUMULT is TUMULTUOUS, which means <i class=“def-ital\">noisy</i> or <i class=“def-ital\">disorderly.</i> </p><p>“The star received TUMULTUOUS applause when he came on stage.” </p><p>“The teacher tried to calm the TUMULTUOUS crowd of children.” </p><p>Other forms of the word: TUMULTUOUS,adj.</p>"
+      "deftext": "<p class=\"definition\">an uproar, noise, disturbance, commotion </p><p>A TUMULT is any sort of uproar or disturbance. </p><p>“The politician was greeted with a TUMULT of cheers.” </p><p>“There was a sudden silence in the midst of the TUMULT.” </p><p>TUMULT is often used about highly disturbed emotions. </p><p>“Her feelings were in a TUMULT as she waited for the door to open.” </p><p>The adjective form of TUMULT is TUMULTUOUS, which means <i class=“def-ital\">noisy</i> or <i class=“def-ital\">disorderly.</i> </p><p>“The star received TUMULTUOUS applause when he came on stage.” </p><p>“The teacher tried to calm the TUMULTUOUS crowd of children.” </p><p>Other forms of the word: TUMULTUOUS, adj.</p>"
     },
     "CLAD": {
       "word": "CLAD",
@@ -53,7 +53,7 @@
       "word": "DEPLORABLE",
       "phonetic": "(di-plor'-ÔøΩbÔøΩI)",
       "pos": "adj.",
-      "deftext": "<p class=\"definition\">wretched, bad, causing grief or regret </p><p>To DEPLORE something is to feel great regret, disapproval, or sorrow about it. </p><p>“He DEPLORED the conditions in which the miners had to work.” </p><p>DEPLORABLE is the adjective from DEPLORE.  Something which is DEPLORABLE is <i class=“def-ital\">wretched,</i> bad enough to cause strong disapproval. </p><p>“When we arrived at our new apartment we found that the people living there before us had left it in a DEPLORABLE condition.” “Wendy’s grandmother told her that her manners were DEPLORABLE.” </p><p>Sometimes the word is used about something that causes sorrow rather than disapproval. </p><p>“The people wept bitterly upon hearing of the DEPLORABLE death of their president.” </p><p>“They had never before witnessed such a DEPLORABLE accident.” Other forms of the word: DEPLORE, v.</p>",
+      "deftext": "<p class=\"definition\">wretched, bad, causing grief or regret </p><p>To DEPLORE something is to feel great regret, disapproval, or sorrow about it. </p><p>“He DEPLORED the conditions in which the miners had to work.” </p><p>DEPLORABLE is the adjective from DEPLORE.  Something which is DEPLORABLE is <i class=“def-ital\">wretched,</i> bad enough to cause strong disapproval. </p><p>“When we arrived at our new apartment we found that the people living there before us had left it in a DEPLORABLE condition.” </p><p>“Wendy’s grandmother told her that her manners were DEPLORABLE.” </p><p>Sometimes the word is used about something that causes sorrow rather than disapproval. </p><p>“The people wept bitterly upon hearing of the DEPLORABLE death of their president.” </p><p>“They had never before witnessed such a DEPLORABLE accident.” Other forms of the word: DEPLORE, v.</p>",
       "suffix": [
         "See <i class=“def-ital\">-able</i> under Suffixes."
       ]
@@ -80,7 +80,7 @@
       "word": "JURISDICTION",
       "phonetic": "(jUr-is-dik'-shÔøΩn)",
       "pos": "n.",
-      "deftext": "<p class=\"definition\">authority, power, control </p><p>JURISDICTION comes from the Latin word for <i class=“def-ital\">law,</i> also the source of <i class=“def-ital\">jury.</i> JURISDICTION is the legal power to administer justice and decide cases. “Our courts have JURISDICTION over foreigners living in the United States.” </p><p>“The judge said it wasn’t within his JURISDICTION to decide this question.” </p><p>The word can be used in a broader sense for any authority or power that has well-defined limits. </p><p>“Your complaint does not come within our JURISDICTION. Try another department.” </p><p>The most popular wrong answer is <i class=“def-ital\">decision.</i> People who choose this probably know that JURISDICTION has something to do with the law, but don’t know exactly what. JURISDICTION is the authority to make a legal decision, not the decision itself.</p>"
+      "deftext": "<p class=\"definition\">authority, power, control </p><p>JURISDICTION comes from the Latin word for <i class=“def-ital\">law,</i> also the source of <i class=“def-ital\">jury.</i> JURISDICTION is the legal power to administer justice and decide cases. </p><p>“Our courts have JURISDICTION over foreigners living in the United States.” </p><p>“The judge said it wasn’t within his JURISDICTION to decide this question.” </p><p>The word can be used in a broader sense for any authority or power that has well-defined limits. </p><p>“Your complaint does not come within our JURISDICTION. Try another department.” </p><p>The most popular wrong answer is <i class=“def-ital\">decision.</i> People who choose this probably know that JURISDICTION has something to do with the law, but don’t know exactly what. JURISDICTION is the authority to make a legal decision, not the decision itself.</p>"
     },
     "NARRATIVE": {
       "word": "NARRATIVE",
@@ -286,13 +286,8 @@
     {
       "questions": [
         {
-          "prompt": "Example",
-          "word": "IMPEDIMENT",
-          "correct": "true"
-        },
-        {
           "prompt": "Would a train be IMPEDED by a truck on the tracks?",
-          "word": "IMPEDE",
+          "word": "IMPEDIMENT",
           "correct": "true"
         },
         {
@@ -313,27 +308,27 @@
         {
           "prompt": "Would a riot be considered a TUMULT?",
           "word": "TUMULT",
-          "correct": "false"
+          "correct": "true"
         },
         {
           "prompt": "Would a well-CLAD person have holes in his socks?",
           "word": "CLAD",
-          "correct": "true"
+          "correct": "false"
         },
         {
           "prompt": "Would someone who sells furniture be called a MERCHANT?",
-          "word": "MERCHANT",
-          "correct": "false"
+          "word": "MERCANTILE",
+          "correct": "true"
         },
         {
           "prompt": "Do people enjoy being in ANGUISH?",
           "word": "ANGUISH",
-          "correct": "true"
+          "correct": "false"
         },
         {
           "prompt": "Do people DEPLORE murder?",
-          "word": "DEPLORE",
-          "correct": "false"
+          "word": "DEPLORABLE",
+          "correct": "true"
         },
         {
           "prompt": "Are EFFERVESCENT people usually bored?",
@@ -348,7 +343,7 @@
         {
           "prompt": "Are people generally SOMBER at a wedding?",
           "word": "SOMBER",
-          "correct": "true"
+          "correct": "false"
         },
         {
           "prompt": "Does the teacher have JURISDICTION in the classroom?",
@@ -437,7 +432,7 @@
           "correct": "false"
         },
         {
-          "prompt": ". They listened to the exciting NARRATIVE of his adventures.",
+          "prompt": "They listened to the exciting NARRATIVE of his adventures.",
           "word": "NARRATIVE",
           "correct": "true"
         },
@@ -483,11 +478,11 @@
           "correct": "1"
         },
         {
-          "prompt": "JAUNT a ) outing",
+          "prompt": "JAUNT",
           "answers": [
+            "outing",
             "ship",
-            "trip",
-            ""
+            "trip"
           ],
           "word": "JAUNT",
           "correct": "1"
@@ -503,11 +498,11 @@
           "correct": "2"
         },
         {
-          "prompt": "CLAD a ) costumed",
+          "prompt": "CLAD",
           "answers": [
+            "costumed",
             "attired",
-            "lashed",
-            ""
+            "lashed"
           ],
           "word": "CLAD",
           "correct": "2"
@@ -526,8 +521,8 @@
           "prompt": "ANGUISH",
           "answers": [
             "unhappiness",
-            "anger c ) misery",
-            ""
+            "anger",
+            "misery"
           ],
           "word": "ANGUISH",
           "correct": "1"
@@ -555,9 +550,9 @@
         {
           "prompt": "ORNATE",
           "answers": [
-            "exciting b ) elaborate",
-            "flowery",
-            ""
+            "exciting",
+            "elaborate",
+            "flowery"
           ],
           "word": "ORNATE",
           "correct": "0"
@@ -565,9 +560,9 @@
         {
           "prompt": "SOMBER",
           "answers": [
-            "old b ) dark",
-            "sad",
-            ""
+            "old",
+            "dark",
+            "sad"
           ],
           "word": "SOMBER",
           "correct": "0"
