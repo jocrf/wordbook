@@ -29,7 +29,9 @@ export default class App extends Component {
       <main className='container bg-secondary min-vh-100'>
         <header className='row justify-content-between bg-gradient-secondary'>
           <div className='mb-1 col-sm ml-3 mr-3 mh-100 '>
-            <img src={`${urlPrefix}/logo_0.png`} alt="Johnson O'Connor Logo" className='mw-100 mh-100' />
+            <a href='http://jocrf.org' target='_blank' rel='noopener noreferrer'>
+              <img src={`${urlPrefix}/logo_0.png`} alt="Johnson O'Connor Logo" className='mw-100 mh-100' />
+            </a>
           </div>
           <h1 className='text-right align-self-end mr-3 col-sm text-primary'>
             Wordbook
@@ -59,7 +61,7 @@ export default class App extends Component {
               <img src={`${urlPrefix}/MWLogo_LightBG.png`} alt='Merriam-Webster logo' />
             </div>
           </div>
-          <p className='mb-0 pr-3 text-muted footer-text text-right'>WORDBOOK Copyright © 1988, 1983 by Johnson O'Connor Research Foundation, Inc.</p>
+          <p className='mb-0 pr-3 text-muted footer-text text-right'>WORDBOOK Copyright © 1988, 1983 by <a href='http://jocrf.org' target='_blank' rel='noopener noreferrer'>Johnson O'Connor Research Foundation, Inc.</a></p>
           <p className='mb-0 pr-3 text-muted footer-text text-right'>Wordbook App Copyright © 2019</p>
           <p className='mb-0 pr-3 text-muted footer-text text-right'>Designed and built by <a href='https://amyfrieson.com' target='_blank' rel='noopener noreferrer'>Amy Frieson</a></p>
         </footer>
