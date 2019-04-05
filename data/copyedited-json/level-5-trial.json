@@ -6135,7 +6135,8 @@
         {
           "part1": "It is impossible to",
           "part2": "the contract unless both parties agree that it should end.",
-          "answer": "annul"
+          "answer": "annul",
+          "alternate": "negate"
         },
         {
           "part1": "All our friends",

@@ -243,7 +243,7 @@
           "correct": "false"
         },
         {
-          "prompt": "Does dinner usually CONCLUDE with dessert?",
+          "prompt": "Does dinner sometimes CONCLUDE with dessert?",
           "word": "CONCLUDE",
           "correct": "true"
         },
@@ -502,7 +502,7 @@
         "word": "PEER",
         "phonetic": "(pEr)",
         "pos": "v.",
-        "deftext": "to look carefully, stare \nTo PEER at something is to look at it long and carefully in order to see it clearly. \n\"He PEERED through his glasses at the dim object.\" \n\"The children PEERED out at us from behind the fence.\" \n\"Jim PEERED at the street sign in the snowstorm.\" \nUsage: PEER is usually used with at."
+        "deftext": "to look carefully, stare \nTo PEER at something is to look at it long and carefully in order to see it clearly. \n\"He PEERED through his glasses at the dim object.\" \n\"The children PEERED out at us from behind the fence.\" \n\"Jim PEERED at the street sign in the snowstorm.\" \nUsage: PEER is usually used with _at_."
       },
       "SIGNIFY": {
         "word": "SIGNIFY",
@@ -580,7 +580,7 @@
         "word": "EDIBLE",
         "phonetic": "(ed'-ÔøΩbÔøΩI)",
         "pos": "adj.",
-        "deftext": "fit to be eaten, suitable for food, not poisonous \nSomething that is EDIBLE is able to be eaten. (See _-able_ under Suffixes.) The word does not mean that something tastes good or is good for you to eat, only that it is fit to be eaten. \n\"The food was so bad it was barely EDIBLE.\" \n\"This fruit will not be EDIBLE until it ripens.\" \nThe plural noun EDIBLES is a fancy word for food. EDIBLES are things which are fit to be eaten. \nOther forms of the word: EDIBLES, n."
+        "deftext": "fit to be eaten, suitable for food, not poisonous \nSomething that is EDIBLE is able to be eaten. See _-able_ under Suffixes. The word does not mean that something tastes good or is good for you to eat, only that it is fit to be eaten. \n\"The food was so bad it was barely EDIBLE.\" \n\"This fruit will not be EDIBLE until it ripens.\" \nThe plural noun EDIBLES is a fancy word for food. EDIBLES are things which are fit to be eaten. \nOther forms of the word: EDIBLES, n."
       },
       "PRIVILEGE": {
         "word": "PRIVILEGE",
@@ -888,7 +888,7 @@
           "correct": "true"
         },
         {
-          "prompt": "This was. the most ORIGINAL idea for a party that I've heard in a long time.",
+          "prompt": "This was the most ORIGINAL idea for a party that I've heard in a long time.",
           "word": "ORIGINAL",
           "correct": "true"
         },
@@ -1099,7 +1099,7 @@
         "word": "GAINFUL",
         "phonetic": "(gAn'-fal)",
         "pos": "adj.",
-        "deftext": "producing a gain, profitable \nA GAIN is an increase or a profit. \n\"The stock market made a GAIN of five points yesterday.\" \nSomething which is GAINFUL produces a GAIN. (See _-ful_ under Suffixes.) GAINFUL is used about jobs, businesses, and similar activities which earn money for the person doing them. \n\"After years of doing only volunteer work, she decided to seek GAINFJJL employment.\" \n\"He was good at what he did, but it wasn't a very GAINFUL trade.\" \nOther forms of the word: GAIN, n., v."
+        "deftext": "producing a gain, profitable \nA GAIN is an increase or a profit. \n\"The stock market made a GAIN of five points yesterday.\" \nSomething which is GAINFUL produces a GAIN. See _-ful_ under Suffixes. GAINFUL is used about jobs, businesses, and similar activities which earn money for the person doing them. \n\"After years of doing only volunteer work, she decided to seek GAINFUL employment.\" \n\"He was good at what he did, but it wasn't a very GAINFUL trade.\" \nOther forms of the word: GAIN, n., v."
       },
       "INDUSTRIOUS": {
         "word": "INDUSTRIOUS",
@@ -1425,27 +1425,24 @@
           "correct": "true"
         },
         {
-          "prompt": "Can you ESTIMATE the price of something without knowing everything",
+          "prompt": "Can you ESTIMATE the price of something without knowing everything about it?",
           "word": "ESTIMATE",
           "correct": "true"
         },
         {
-          "prompt": "about it?",
+          "prompt": "Are light bulbs sold in FRAGMENTS?",
           "word": "FRAGMENT",
           "correct": "false"
         },
         {
-          "prompt": "Are light bulbs sold in FRAGMENTS?",
+          "prompt": "Would a HYMN usually be sung in church?",
           "word": "HYMN",
           "correct": "true"
         },
         {
-          "prompt": "Would a HYMN usually be sung in church?",
+          "prompt": "If you earn money, does your boss DONATE your pay to you?",
           "word": "DONATION",
           "correct": "false"
-        },
-        {
-          "prompt": "If you earn money, does your boss DONATE your pay to you?"
         }
       ]
     },
@@ -2240,7 +2237,7 @@
     "exercise_1": {
       "questions": [
         {
-          "prompt": "Is it dangerous to he in the middle of a STAMPEDE?",
+          "prompt": "Is it dangerous to be in the middle of a STAMPEDE?",
           "word": "STAMPEDE",
           "correct": "true"
         },
@@ -2305,7 +2302,7 @@
           "correct": "true"
         },
         {
-          "prompt": "Would a close call by an umpire in baseball be QUESTIONABLE?",
+          "prompt": "Could a close call by an umpire in baseball be QUESTIONABLE?",
           "word": "QUESTIONABLE",
           "correct": "true"
         },
@@ -2334,12 +2331,12 @@
           "correct": "true"
         },
         {
-          "prompt": "I won't he MINDFUL if you want to come with me.",
+          "prompt": "I won't be MINDFUL if you want to come with me.",
           "word": "MINDFUL",
           "correct": "false"
         },
         {
-          "prompt": "She had no PREVIOUS experience, hut still she did the job very well.",
+          "prompt": "She had no PREVIOUS experience, but still she did the job very well.",
           "word": "PREVIOUS",
           "correct": "true"
         },
@@ -2470,9 +2467,9 @@
         {
           "prompt": "SEGMENT",
           "answers": [
-            "most",
+            "section",
             "all",
-            "half"
+            "portion"
           ],
           "word": "SEGMENT",
           "correct": "1"
@@ -2846,7 +2843,7 @@
           "correct": "true"
         },
         {
-          "prompt": "Will you get thin if you CEASE eating?",
+          "prompt": "Will you become malnourished if you CEASE eating?",
           "word": "CEASE",
           "correct": "true"
         },
@@ -3199,7 +3196,7 @@
         "word": "EXPOSE",
         "phonetic": "(eks-pOz')",
         "pos": "v.",
-        "deftext": "to uncover, leave open; to disclose, make known \nTo EXPOSE is to put out in the open what has previously been protected, hidden, or secret. EXPOSE can be used about physical objects and people. \n\"The statue was EXPOSED to the wind and the rain.\" \n\"The destruction of the fort EXPOSED the soldiers to enemy gunfire.\" \nEXPOSE can also be used about plots and secrets. \n\"The reporter EXPOSED the secret plot to overthrow the government.\" \nEXPOSURE is a noun form of EXPOSE. To die of EXPOSURE means to die from being outside in the cold or the heat for too long. \n\"The EXPOSURE of his crimes shocked everyone.\" \n\"Too much EXPOSURE to X-rays is dangerous.\" \n\" Other forms of the word: EXPOSURE, n."
+        "deftext": "to uncover, leave open; to disclose, make known \nTo EXPOSE is to put out in the open what has previously been protected, hidden, or secret. EXPOSE can be used about physical objects and people. \n\"The statue was EXPOSED to the wind and the rain.\" \n\"The destruction of the fort EXPOSED the soldiers to enemy gunfire.\" \nEXPOSE can also be used about plots and secrets. \n\"The reporter EXPOSED the secret plot to overthrow the government.\" \nEXPOSURE is a noun form of EXPOSE. To die of EXPOSURE means to die from being outside in the cold or the heat for too long. \n\"The EXPOSURE of his crimes shocked everyone.\" \n\"Too much EXPOSURE to X-rays is dangerous.\" \nOther forms of the word: EXPOSURE, n."
       },
       "KERNEL": {
         "word": "KERNEL",
@@ -3282,7 +3279,7 @@
             "hole",
             "cut"
           ],
-          "word": "_",
+          "word": "CAVITY",
           "correct": "hole"
         },
         {
@@ -3725,7 +3722,9 @@
             "litter",
             "rubble",
             "snow"
-          ]
+          ],
+          "word": "DEBRIS",
+          "correct": "2"
         }
       ]
     },
@@ -3972,8 +3971,8 @@
         },
         {
           "part1": "Tom is only a(n)",
-          "part2": "We met at a party but have never really spoken to each other.",
-          "answer": "acquaintance."
+          "part2": ". We met at a party but have never really spoken to each other.",
+          "answer": "acquaintance"
         },
         {
           "part1": "They",
@@ -4360,8 +4359,7 @@
           "prompt": "Do you always catch something that you PURSUE?",
           "word": "PURSUE",
           "correct": "false"
-        },
-        {}
+        }
       ]
     },
     "exercise_2": {
@@ -4686,7 +4684,7 @@
         "word": "PURSUE",
         "phonetic": "(pÔøΩr-sU')",
         "pos": "v.",
-        "deftext": "to chase, follow, go after \nTo PURSUE something is to follow after it. You can PURSUE anything: a car, a person, success, happiness, and so on. \n\"The police PVRSUED the escaped prisoner.\" \n\"He was PURSUED by shouts as he left the meeting.\" \n\"All people should have the right to PURSUE happiness.\" \nPURSUIT is the noun from PURSUE. \n\"Everyone joined in the PURSUIT of the criminal.\" \nOther forms of the word: PURSUIT, n."
+        "deftext": "to chase, follow, go after \nTo PURSUE something is to follow after it. You can PURSUE anything: a car, a person, success, happiness, and so on. \n\"The police PURSUED the escaped prisoner.\" \n\"He was PURSUED by shouts as he left the meeting.\" \n\"All people should have the right to PURSUE happiness.\" \nPURSUIT is the noun from PURSUE. \n\"Everyone joined in the PURSUIT of the criminal.\" \nOther forms of the word: PURSUIT, n."
       }
     }
   },
@@ -4904,7 +4902,7 @@
           "correct": "true"
         },
         {
-          "prompt": "Would a fat person usually CONSUME a lot of food?",
+          "prompt": "Would a hungry person usually CONSUME a lot of food?",
           "word": "CONSUME",
           "correct": "true"
         },

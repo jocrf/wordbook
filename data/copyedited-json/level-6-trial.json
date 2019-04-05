@@ -2724,7 +2724,7 @@
             "worries about",
             "hides"
           ],
-          "word": " SQUANDER",
+          "word": "SQUANDER",
           "correct": "wastes"
         },
         {
@@ -3154,7 +3154,7 @@
         "word": "CONTRIVE",
         "phonetic": "(kÔøΩn-trlv')",
         "pos": "v.",
-        "deftext": "to invent, design, concoct; to manage or devise a way To CONTRIVE something or to CONTRIVE to do it is to find a way of doing it. \nThe word suggests the use of cleverness in achieving something that may be rather difficult. \n\"She CONTRIVED a device that would open locked doors without a key.\" \n\"He CONTRIVED to get both the enemies into one room together to discuss their differences.\" \n\"The author CONTRIVED a happy ending for his novel.\" \nThe adjective CONTRIVED is used about things that show too clearly that they are planned and artificial. \n\"His remarks were clever but rather CONTRIVED, as if he had rehearsed them all beforehand.\" \nOther forms of the word: CONTRIVANCE, n. CONTRIVED, adj."
+        "deftext": "to invent, design, concoct; to manage or devise a way \nTo CONTRIVE something or to CONTRIVE to do it is to find a way of doing it. \nThe word suggests the use of cleverness in achieving something that may be rather difficult. \n\"She CONTRIVED a device that would open locked doors without a key.\" \n\"He CONTRIVED to get both the enemies into one room together to discuss their differences.\" \n\"The author CONTRIVED a happy ending for his novel.\" \nThe adjective CONTRIVED is used about things that show too clearly that they are planned and artificial. \n\"His remarks were clever but rather CONTRIVED, as if he had rehearsed them all beforehand.\" \nOther forms of the word: CONTRIVANCE, n. CONTRIVED, adj."
       },
       "DEPICT": {
         "word": "DEPICT",
@@ -4306,7 +4306,7 @@
           "correct": "true"
         },
         {
-          "prompt": "Is _Ouch!_ an INTERJECTION?",
+          "prompt": "Is _\"Ouch!\"_ an INTERJECTION?",
           "word": "INTERJECTION",
           "correct": "true"
         },
@@ -4514,7 +4514,7 @@
           "correct": "2"
         },
         {
-          "prompt": "PARAPHERNALIA tools",
+          "prompt": "PARAPHERNALIA",
           "answers": [
             "tools",
             "houses",
@@ -7111,7 +7111,7 @@
             "eat"
           ],
           "word": "IMBIBE",
-          "correct": "0"
+          "correct": "2"
         },
         {
           "prompt": "HEW",
