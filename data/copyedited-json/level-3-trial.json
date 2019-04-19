@@ -2802,7 +2802,8 @@
         {
           "prompt": "We must COLLABORATE.",
           "answers": [
-            "work together give up",
+            "work together",
+            "give up",
             "fight",
             "meet",
             "become better",
