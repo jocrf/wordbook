@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/wordbook/static/css/main.d53589db.chunk.css"
   },
   {
-    "revision": "2f8f74a434e12269d21cb16cfcd99a95",
+    "revision": "7e26bb1bb3569c471efb83bc418df1fe",
     "url": "/wordbook/index.html"
   }
 ];
