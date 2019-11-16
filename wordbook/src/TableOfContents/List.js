@@ -34,7 +34,6 @@ export default class List extends Component {
         array = levels[level].sections[section].wordsets[wordset].exercises;
         break;
       default:
-        console.log('List component received an unexpected arg');
         break;
     }
     return (

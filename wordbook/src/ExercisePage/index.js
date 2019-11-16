@@ -6,7 +6,7 @@ import { getExercise, getInstructions, getPlacement } from '../API';
 import Loading from '../Loading';
 import { withRouter } from 'react-router-dom';
 
-export default withRouter(class ExercisePage extends Component {
+class ExercisePage extends Component {
   constructor (props) {
     super(props);
     this.incrementExercise = this.incrementExercise.bind(this);
@@ -47,12 +47,11 @@ export default withRouter(class ExercisePage extends Component {
   }
 
   incrementExercise () {
-    console.log('incrementing');
     let nextExercise = null;
     // group for placement, exercise for LearningPage
-    const { exercise, group, wrongAnswers } = this.props;
+    const { exercise, group } = this.props;
     if (this.props.placement) {
-      if (group < 8 && wrongAnswers < 2) { // hard-coded based on placement data
+      if (group < 8 && this.state.wrongAnswers < 2) { // hard-coded based on placement data
         nextExercise = +group + 1;
       } else {
         nextExercise = null;
@@ -189,4 +188,10 @@ export default withRouter(class ExercisePage extends Component {
       </section>
     );
   }
-});
+};
+
+ExercisePage.defaultProps = {
+  showStorage: () => {}
+};
+
+export default withRouter(ExercisePage);

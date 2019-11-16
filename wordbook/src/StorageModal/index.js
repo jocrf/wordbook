@@ -89,10 +89,9 @@ export default withRouter(class StorageModal extends Component {
             this.localStorage.setItem('wordset', wordset);
             break;
           case 'level':
+          default:
             this.localStorage.setItem('level', level);
             break;
-          default:
-            console.log('unexpected type ' + type);
         }
       });
       this.displayUpdate();
