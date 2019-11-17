@@ -51,11 +51,11 @@ export default class StorageView extends Component {
             <section className='card d-flex'>
               <div className='card-body p-0'>
                 {
-                  this.props.progressSaved &&
+                  !this.props.tocVisible &&
                   <button onClick={() => this.handleClick('save')} className='btn btn-secondary m-2'>Save progress</button>
                 }
                 {
-                  this.props.progressSaved &&
+                  this.props.tocVisible &&
                   <Link to={prevSessionUrl} className='btn btn-secondary m-2' onClick={this.handleClick}>Restore saved session</Link>
                 }
               </div>

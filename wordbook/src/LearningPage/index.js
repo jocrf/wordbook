@@ -55,6 +55,7 @@ export default withRouter(class LearningPage extends Component {
             useStorage={this.props.useStorage}
             declinedStorage={this.props.declinedStorage}
             hideStorage={this.hideStorage}
+            tocVisible={this.state.showToC}
           />}
           />
         }

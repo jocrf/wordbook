@@ -64,6 +64,7 @@ export default withRouter(class StorageModal extends Component {
   enableStorage () {
     this.localStorage.setItem('usingStorage', true);
     this.props.setStorageState(true);
+    this.saveProgress();
     this.props.hideStorage();
   }
 
@@ -121,6 +122,7 @@ export default withRouter(class StorageModal extends Component {
           !this.props.declinedStorage &&
             <React.Fragment>
               <StorageView
+                tocVisible={this.props.tocVisible}
                 hideStorage={this.props.hideStorage}
                 declineStorage={this.declineStorage}
                 useStorage={this.props.useStorage}
