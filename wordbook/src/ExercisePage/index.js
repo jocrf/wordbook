@@ -51,7 +51,7 @@ class ExercisePage extends Component {
     // group for placement, exercise for LearningPage
     const { exercise, group } = this.props;
     if (this.props.placement) {
-      if (group < 8 && this.state.wrongAnswers < 2) { // hard-coded based on placement data
+      if (group < 7 && this.state.wrongAnswers < 2) { // hard-coded based on placement data
         nextExercise = +group + 1;
       } else {
         nextExercise = null;
